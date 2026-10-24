@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "802970743959",
+    "project_id": "bible-track-c604a",
+    "storage_bucket": "bible-track-c604a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802970743959:android:c5399d7623336c68ee65d2",
+        "android_client_info": {
+          "package_name": "com.kleggy.bible_track"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802970743959-7b37raf2qqe3pvbsdfqbjjhol4ha9ro3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kleggy.bible_track",
+            "certificate_hash": "82bc636ecee5523f543a387a6a7072220656d494"
+          }
+        },
+        {
+          "client_id": "802970743959-dv8e2dvardoujdh2uu8i8qek9snmb6ur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kleggy.bible_track",
+            "certificate_hash": "a28e869b978073cd29a75f691eaff263692a4d11"
+          }
+        },
+        {
+          "client_id": "802970743959-pbb35p1o31o92kt8940033h86uhd3vk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRzfOT1KZswdP0zOSc3RzG5tDE_awk9BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802970743959-pbb35p1o31o92kt8940033h86uhd3vk0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "802970743959-6qbqcjfbirmsf6fvor6p2h7q9ruonpgb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kleggy.bibleTrack"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
