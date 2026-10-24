@@ -1,0 +1,921 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Who came before Jesus, baptizing people and preparing the way in the wilderness?",
+          "fil": "Sino ang dumating bago si Jesus, na nagbautismo at naghanda ng daan sa ilang?"
+        },
+        "options": {
+          "en": ["Elijah the prophet", "John the Baptist", "One of Jesus' disciples"],
+          "fil": ["Si Elias na propeta", "Si Juan Bautista", "Isa sa mga alagad ni Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 1 opens with John the Baptist preaching in the wilderness and baptizing those who confessed their sins.",
+          "fil": "Nagsisimula ang Marcos 1 kay Juan Bautista na nangangaral sa ilang at nagbabautismo sa mga nagtatapat ng kanilang mga kasalanan."
+        }
+      },
+      {
+        "q": {
+          "en": "What were Simon and Andrew doing when Jesus called them to follow him?",
+          "fil": "Ano ang ginagawa nina Simon at Andres nang tawagin sila ni Jesus na sumunod sa kanya?"
+        },
+        "options": {
+          "en": ["Praying in the synagogue", "Casting their fishing nets into the sea", "Collecting taxes at a booth"],
+          "fil": ["Nananalangin sa sinagoga", "Naghahagis ng kanilang lambat sa dagat", "Nangongolekta ng buwis sa isang istasyon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 1:16 — Jesus saw Simon and Andrew casting a net into the lake and called them to follow him.",
+          "fil": "Marcos 1:16 — Nakita ni Jesus sina Simon at Andres na naghahagis ng lambat sa lawa at tinawag niya silang sumunod sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened in the synagogue at Capernaum while Jesus was teaching?",
+          "fil": "Ano ang nangyari sa sinagoga sa Capernaum habang nagtuturo si Jesus?"
+        },
+        "options": {
+          "en": ["The Pharisees challenged Jesus to a debate", "A man with an unclean spirit cried out at Jesus", "A large crowd blocked the entrance"],
+          "fil": ["Hinarap ng mga Pariseo si Jesus para sa talakayan", "Sumigaw ang isang taong may maruming espiritu kay Jesus", "Harangan ng maraming tao ang pintuan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 1:23-24 — A man with an unclean spirit confronted Jesus in the synagogue, and Jesus commanded the spirit to leave.",
+          "fil": "Marcos 1:23-24 — Humarap ang isang tao na may maruming espiritu kay Jesus sa sinagoga, at inutusan ni Jesus ang espiritu na lumabas."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose mother-in-law did Jesus heal from a fever in Capernaum?",
+          "fil": "Ang biyenang babae ng sino ang pinagaling ni Jesus sa lagnat sa Capernaum?"
+        },
+        "options": {
+          "en": ["James", "John", "Simon"],
+          "fil": ["Santiago", "Juan", "Simon"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 1:30-31 — Jesus took Simon's mother-in-law by the hand and the fever left her.",
+          "fil": "Marcos 1:30-31 — Hinawakan ni Jesus ang kamay ng biyenang babae ni Simon at bumaba ang kanyang lagnat."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How did the friends of a paralyzed man bring him to Jesus when the crowd blocked the door?",
+          "fil": "Paano dinala ng mga kaibigan ng isang paralitikong tao si Jesus nang harangin ng karamihan ang pinto?"
+        },
+        "options": {
+          "en": ["They waited outside until the crowd left", "They lowered him through an opening they made in the roof", "They shouted loudly until Jesus came outside"],
+          "fil": ["Naghintay sila sa labas hanggang umalis ang karamihan", "Pinababa nila siya sa pamamagitan ng butas na ginawa nila sa bubong", "Sumigaw sila nang malakas hanggang lumabas si Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 2:4 — They removed the roof above Jesus and lowered the mat with the paralyzed man on it.",
+          "fil": "Marcos 2:4 — Binutas nila ang bubong sa itaas ni Jesus at pinababa ang higaan na kinaroroonan ng paralitiko."
+        }
+      },
+      {
+        "q": {
+          "en": "What was Levi's job before Jesus called him to follow?",
+          "fil": "Ano ang trabaho ni Levi bago siya tawagin ni Jesus na sumunod?"
+        },
+        "options": {
+          "en": ["Fisherman", "Carpenter", "Tax collector"],
+          "fil": ["Mangingisda", "Karpintero", "Maniningil ng buwis"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 2:14 — Jesus saw Levi son of Alphaeus sitting at the tax collector's booth and said 'Follow me.'",
+          "fil": "Marcos 2:14 — Nakita ni Jesus si Levi na anak ni Alphaeus na nakaupo sa istasyon ng maniningil ng buwis at sinabi niya, 'Sumunod ka sa akin.'"
+        }
+      },
+      {
+        "q": {
+          "en": "Why did the Pharisees question Jesus about the Sabbath in this chapter?",
+          "fil": "Bakit tinanong ng mga Pariseo si Jesus tungkol sa Sabbath sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Jesus healed someone on the Sabbath", "His disciples picked heads of grain while walking through fields", "Jesus taught in the synagogue without permission"],
+          "fil": ["Nagpagaling si Jesus ng isang tao sa Sabbath", "Pumitas ang kanyang mga alagad ng uhay habang naglalakad sa mga bukid", "Nagturo si Jesus sa sinagoga nang walang pahintulot"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 2:23-24 — Pharisees saw Jesus' disciples picking grain on the Sabbath and challenged him about it.",
+          "fil": "Marcos 2:23-24 — Nakita ng mga Pariseo ang mga alagad ni Jesus na pumipitas ng uhay sa Sabbath at kinuwestyon nila siya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus teach using the image of new wine and old wineskins?",
+          "fil": "Ano ang itinuro ni Jesus gamit ang larawan ng bagong alak at lumang sisidlan ng alak?"
+        },
+        "options": {
+          "en": ["That wine must always be served fresh at feasts", "That his new teaching could not be forced into old religious forms", "That old traditions are always better than new ones"],
+          "fil": ["Na ang alak ay dapat palaging sariwang ihain sa mga pista", "Na ang kanyang bagong turo ay hindi maaaring ilagay sa lumang anyong panrelihiyon", "Na ang lumang tradisyon ay laging mas mabuti kaysa sa bago"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 2:22 — Jesus said new wine must go into new wineskins, illustrating that his message required a new way of thinking.",
+          "fil": "Marcos 2:22 — Sinabi ni Jesus na ang bagong alak ay dapat ilagay sa bagong sisidlan, na nagpapakita na ang kanyang mensahe ay nangangailangan ng bagong pag-iisip."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What did Jesus do for the man with the withered hand, even though it was the Sabbath?",
+          "fil": "Ano ang ginawa ni Jesus para sa taong may pilay na kamay, kahit Sabbath noon?"
+        },
+        "options": {
+          "en": ["He told the man to come back the next day", "He healed the man's hand completely", "He prayed over him but said healing must wait"],
+          "fil": ["Sinabi niya sa lalaki na bumalik kinabukasan", "Pinagaling niya nang buo ang kamay ng lalaki", "Ipinanalangin niya siya ngunit sinabi na dapat maghintay ang paggaling"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 3:5 — Jesus told the man to stretch out his hand, and it was completely restored.",
+          "fil": "Marcos 3:5 — Sinabi ni Jesus sa lalaki na iunat ang kanyang kamay, at ito ay ganap na naibalik sa dati."
+        }
+      },
+      {
+        "q": {
+          "en": "How many apostles did Jesus appoint to be with him and to preach?",
+          "fil": "Ilang apostol ang itinakda ni Jesus na makasama niya at mangaral?"
+        },
+        "options": {
+          "en": ["Seven", "Twelve", "Seventy"],
+          "fil": ["Pitong", "Labindalawang", "Pitumpung"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 3:14 — Jesus appointed twelve, designating them apostles, to be with him and to be sent out to preach.",
+          "fil": "Marcos 3:14 — Hinirang ni Jesus ang labindalawa, na tinawag na mga apostol, para makasama niya at maipaabot ang kanyang mensahe."
+        }
+      },
+      {
+        "q": {
+          "en": "What accusation did the scribes from Jerusalem make against Jesus?",
+          "fil": "Anong akusasyon ang ginawa ng mga eskriba mula Jerusalem laban kay Jesus?"
+        },
+        "options": {
+          "en": ["That he was breaking Sabbath laws", "That he was casting out demons by the power of Beelzebul", "That he was a false prophet from Galilee"],
+          "fil": ["Na nilalabag niya ang batas ng Sabbath", "Na pinapalabas niya ang mga demonyo sa kapangyarihan ni Beelzebul", "Na siya ay isang huwad na propeta mula Galilea"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 3:22 — Scribes from Jerusalem said Jesus was possessed by Beelzebul and drove out demons by the prince of demons.",
+          "fil": "Marcos 3:22 — Sinabi ng mga eskriba mula Jerusalem na si Beelzebul ang nasa kanya at sa pamamagitan ng pinuno ng mga demonyo ay pinapalabas niya ang mga demonyo."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "In the parable of the sower, what happened to seed that fell on rocky ground?",
+          "fil": "Sa talinhagang Mamamahasik, ano ang nangyari sa binhi na nahulog sa batuhan?"
+        },
+        "options": {
+          "en": ["Birds came and ate it", "It sprang up quickly but withered because it had no deep roots", "It grew slowly and was choked by thorns"],
+          "fil": ["Dumating ang mga ibon at kinain ito", "Mabilis itong tumubo ngunit nalanta dahil walang malalim na ugat", "Dahan-dahan itong lumubo at binigatan ng mga tinik"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 4:5-6 — Seed on rocky ground sprang up quickly but wilted under the sun because the soil was shallow.",
+          "fil": "Marcos 4:5-6 — Ang binhi sa batuhan ay mabilis na tumubo ngunit nalanta sa araw dahil ang lupa ay m얕."
+        }
+      },
+      {
+        "q": {
+          "en": "Where did Jesus say a lamp belongs, using a short teaching in this chapter?",
+          "fil": "Saan sinabi ni Jesus na dapat ilagay ang isang lampara, ayon sa maikling turo sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Under a bowl or under a bed", "On its stand where everyone can see its light", "In the corner of the room to give soft light"],
+          "fil": ["Sa ilalim ng mangkok o sa ilalim ng higaan", "Sa kanyang tindig kung saan makikita ng lahat ang liwanag nito", "Sa sulok ng silid para magbigay ng malambot na liwanag"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 4:21 — Jesus asked if a lamp is brought to be hidden. It belongs on its stand so people can see.",
+          "fil": "Marcos 4:21 — Tinanong ni Jesus kung ang lampara ba ay dinadala para itago. Dapat ito ay ilagay sa tindig nito para makita ng mga tao."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus do when a fierce windstorm threatened to swamp the boat?",
+          "fil": "Ano ang ginawa ni Jesus nang ang malakas na bagyo ay nagbanta na lalunurin ang bangka?"
+        },
+        "options": {
+          "en": ["He prayed quietly until the storm passed", "He woke up, rebuked the wind and sea, and they became perfectly calm", "He told the disciples to start rowing harder toward shore"],
+          "fil": ["Tahimik siyang nanalangin hanggang lumipas ang bagyo", "Gumising siya, pinagalitan ang hangin at dagat, at naging ganap na tahimik ang lahat", "Sinabi niya sa mga alagad na humugot nang husto patungo sa pampang"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 4:39 — Jesus rebuked the wind and said to the waves 'Quiet! Be still!' and there was complete calm.",
+          "fil": "Marcos 4:39 — Pinagalitan ni Jesus ang hangin at sinabi sa mga alon, 'Tumahimik! Pumayapa!' at naging ganap na payapa ang lahat."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Where was the demon-possessed man living when Jesus and his disciples arrived by boat?",
+          "fil": "Saan nakatira ang taong inaalihan ng demonyo nang dumating si Jesus at ang kanyang mga alagad sa bangka?"
+        },
+        "options": {
+          "en": ["In a cave on a hillside", "Among the tombs near the sea", "At the edge of the village"],
+          "fil": ["Sa isang yungib sa gilid ng bundok", "Sa gitna ng mga libingan malapit sa dagat", "Sa hangganan ng nayon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 5:3 — The man lived among the tombs, and no one could bind him.",
+          "fil": "Marcos 5:3 — Nakatira ang lalaki sa mga libingan, at walang sinuman ang makapagtatali sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "Into what did the demons go after Jesus drove them out of the man?",
+          "fil": "Saan pumunta ang mga demonyo pagkatapos silang palayasin ni Jesus sa lalaki?"
+        },
+        "options": {
+          "en": ["Into the sea directly", "Into a large herd of pigs nearby", "Into the men who were watching"],
+          "fil": ["Direkta sa dagat", "Sa isang malaking kawan ng mga baboy malapit doon", "Sa mga lalaking nanonood"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 5:12-13 — The demons begged to enter the pigs, and the large herd rushed down the bank into the lake.",
+          "fil": "Marcos 5:12-13 — Nagmakaawa ang mga demonyo na papayagan silang pumasok sa mga baboy, at ang malaking kawan ay tumakbo paalon sa lawa."
+        }
+      },
+      {
+        "q": {
+          "en": "Who was Jairus, the man who came and fell at Jesus' feet?",
+          "fil": "Sino si Jairo, ang lalaking lumapit at nagpatirapa sa paanan ni Jesus?"
+        },
+        "options": {
+          "en": ["A Roman centurion", "A synagogue leader", "A wealthy merchant from Capernaum"],
+          "fil": ["Isang Romano na senturyon", "Isang pinuno ng sinagoga", "Isang mayamang negosyante mula Capernaum"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 5:22 — Jairus was a synagogue leader who fell at Jesus' feet and begged him to heal his dying daughter.",
+          "fil": "Marcos 5:22 — Si Jairo ay pinuno ng sinagoga na nagpatirapa sa paanan ni Jesus at nagmakaawa para pagalingin ang kanyang namamatay na anak na babae."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the woman who had been bleeding for twelve years receive her healing?",
+          "fil": "Paano natanggap ng babae na nagdurugo nang labindalawang taon ang kanyang kagalingan?"
+        },
+        "options": {
+          "en": ["Jesus noticed her and prayed over her publicly", "She pushed through the crowd and touched the edge of Jesus' cloak", "She called out loudly and Jesus turned to her"],
+          "fil": ["Napansin siya ni Jesus at ipinanalangin siya sa publiko", "Nagtulak siya sa karamihan at hinawakan ang laylayan ng damit ni Jesus", "Sumigaw siya nang malakas at humarap si Jesus sa kanya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 5:27-28 — She came up behind Jesus in the crowd and touched his cloak, believing she would be healed.",
+          "fil": "Marcos 5:27-28 — Lumapit siya sa likod ni Jesus sa karamihan at hinawakan ang kanyang damit, na naniniwala na gagaling siya."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "How did the people of Nazareth respond when Jesus taught in their synagogue?",
+          "fil": "Paano tumugon ang mga tao sa Nazareth nang magturo si Jesus sa kanilang sinagoga?"
+        },
+        "options": {
+          "en": ["They welcomed him with great honor", "They were offended and did not accept him", "They asked him to stay and lead their synagogue"],
+          "fil": ["Tinanggap nila siya nang may malaking karangalan", "Nagalit sila at hindi siya tinanggap", "Hiniling nila sa kanya na manatili at pamunuan ang kanilang sinagoga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 6:3 — They took offense at Jesus, and he noted that a prophet is not honored in his hometown.",
+          "fil": "Marcos 6:3 — Nagalit sila kay Jesus, at sinabi niya na ang propeta ay hindi pinararangalan sa kanyang sariling bayan."
+        }
+      },
+      {
+        "q": {
+          "en": "Why was John the Baptist executed according to this chapter?",
+          "fil": "Bakit pinapatay si Juan Bautista ayon sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["He led a rebellion against Roman soldiers", "Herod's daughter asked for his head after Herod made a careless oath", "He publicly attacked the temple priests"],
+          "fil": ["Nanguna siya sa isang pag-aalsa laban sa mga Romano", "Hinilingan ng anak ni Herodes ang kanyang ulo pagkatapos gumawa ng walang isip na panata si Herodes", "Lantarang inusig niya ang mga pari sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 6:22-25 — Herod rashly promised Herodias' daughter anything she wanted, and at her mother's prompting she asked for John's head.",
+          "fil": "Marcos 6:22-25 — Nangako nang pabigla-bigla si Herodes sa anak ni Herodias na ibibigay niya kung anumang hilingin nito, at sa udyok ng kanyang ina, hiniling nito ang ulo ni Juan."
+        }
+      },
+      {
+        "q": {
+          "en": "How many loaves and fish did Jesus use when he fed the large crowd in this chapter?",
+          "fil": "Ilang tinapay at isda ang ginamit ni Jesus nang pakainin niya ang malaking karamihan sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Seven loaves and a few fish", "Five loaves and two fish", "Ten loaves and three fish"],
+          "fil": ["Pitong tinapay at iilang isda", "Limang tinapay at dalawang isda", "Sampung tinapay at tatlong isda"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 6:38-41 — Jesus took five loaves and two fish, looked up to heaven, and blessed and broke the loaves.",
+          "fil": "Marcos 6:38-41 — Kinuha ni Jesus ang limang tinapay at dalawang isda, tumingala sa langit, at pinagpala at pinagputol ang mga tinapay."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus come to his disciples when their boat was struggling against the wind at night?",
+          "fil": "Paano lumapit si Jesus sa kanyang mga alagad nang ang kanilang bangka ay nagsisikap laban sa hangin sa gabi?"
+        },
+        "options": {
+          "en": ["He called out to them from the shore", "He walked toward them on the surface of the water", "He sent another boat to rescue them"],
+          "fil": ["Tinawag niya sila mula sa pampang", "Lumakad siya patungo sa kanila sa ibabaw ng tubig", "Nagpadala siya ng ibang bangka para iligtas sila"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 6:48 — Jesus came toward them walking on the lake.",
+          "fil": "Marcos 6:48 — Lumapit si Jesus sa kanila na lumalakad sa ibabaw ng lawa."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What tradition did the Pharisees criticize the disciples for not following?",
+          "fil": "Anong tradisyon ang pinuna ng mga Pariseo na hindi sinusunod ng mga alagad?"
+        },
+        "options": {
+          "en": ["Resting on the Sabbath", "Offering first fruits at the temple", "Ceremonially washing their hands before eating"],
+          "fil": ["Pahinga sa Sabbath", "Pag-aalok ng unang bunga sa templo", "Seremonyal na paghuhugas ng kamay bago kumain"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 7:2-5 — Pharisees saw some disciples eating with unwashed, ceremonially unclean hands.",
+          "fil": "Marcos 7:2-5 — Nakita ng mga Pariseo ang ilang alagad na kumakain na may hindi nahugasang, seremonyal na marumihang mga kamay."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the Syrophoenician woman ask Jesus to do for her?",
+          "fil": "Ano ang hiniling ng babaeng Sirofenicia kay Jesus para sa kanya?"
+        },
+        "options": {
+          "en": ["To raise her dead husband", "To drive an unclean spirit out of her daughter", "To heal her own sickness"],
+          "fil": ["Buhayin ang kanyang patay na asawa", "Palayasin ang maruming espiritu sa kanyang anak na babae", "Pagalingin ang kanyang sariling karamdaman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 7:25-26 — A Greek woman whose daughter had an unclean spirit begged Jesus to drive out the demon.",
+          "fil": "Marcos 7:25-26 — Isang babaeng Griyego na ang anak ay may maruming espiritu ay nagmakaawa kay Jesus na palayasin ang demonyo."
+        }
+      },
+      {
+        "q": {
+          "en": "What Aramaic word did Jesus speak that means 'Be opened,' when he healed a deaf man who could barely speak?",
+          "fil": "Anong salitang Aramaiko ang sinabi ni Jesus na nangangahulugang 'Mabuksan,' nang pagalingin niya ang isang bingi na halos hindi makapagsalita?"
+        },
+        "options": {
+          "en": ["Hosanna", "Ephphatha", "Maranatha"],
+          "fil": ["Hosanna", "Ephphatha", "Maranatha"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 7:34 uniquely records Jesus saying 'Ephphatha' — meaning 'Be opened' — when healing the deaf and mute man.",
+          "fil": "Natatanging isinulat ng Marcos 7:34 ang pagsasabi ni Jesus ng 'Ephphatha' — na nangangahulugang 'Mabuksan' — nang pagalingin niya ang tao na bingi at pipi."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "How many people were fed when Jesus performed the miracle with seven loaves in this chapter?",
+          "fil": "Ilang tao ang pinakain nang gumawa si Jesus ng himala na may pitong tinapay sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["About five thousand", "About four thousand", "About two thousand"],
+          "fil": ["Mga limang libo", "Mga apat na libo", "Mga dalawang libo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 8:9 — About four thousand people ate from the seven loaves and a few fish.",
+          "fil": "Marcos 8:9 — Mga apat na libo ang kumain mula sa pitong tinapay at iilang isda."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus specifically warn his disciples to guard against, using the word 'leaven'?",
+          "fil": "Laban sa ano talaga ang binalaan ni Jesus ang kanyang mga alagad na mag-ingat, gamit ang salitang 'lebadura'?"
+        },
+        "options": {
+          "en": ["The leaven of the scribes and the elders", "The leaven of the Pharisees and of Herod", "The leaven of the Romans and the chief priests"],
+          "fil": ["Ang lebadura ng mga eskriba at ng mga matanda", "Ang lebadura ng mga Pariseo at ni Herodes", "Ang lebadura ng mga Romano at ng mga punong pari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 8:15 — Jesus warned specifically about the yeast (influence) of the Pharisees and Herod.",
+          "fil": "Marcos 8:15 — Partikular na binalaan ni Jesus ang kanyang mga alagad tungkol sa lebadura (impluwensya) ng mga Pariseo at ni Herodes."
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Peter say Jesus was when Jesus asked 'Who do you say I am?'",
+          "fil": "Sino ang sinabi ni Pedro na si Jesus nang tanungin ni Jesus, 'Sino kaya ang sinasabi ninyong ako?'"
+        },
+        "options": {
+          "en": ["A great prophet", "The Messiah", "The Son of David"],
+          "fil": ["Isang dakilang propeta", "Ang Mesiyas", "Ang Anak ni David"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 8:29 — Peter answered 'You are the Messiah.'",
+          "fil": "Marcos 8:29 — Sumagot si Pedro, 'Ikaw ang Mesiyas.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say a person must take up to follow him?",
+          "fil": "Ano ang sinabi ni Jesus na dapat buhatin ng isang tao para sumunod sa kanya?"
+        },
+        "options": {
+          "en": ["The Torah scroll", "His cross", "Extra food for the journey"],
+          "fil": ["Ang balumbon ng Torah", "Ang kanyang krus", "Karagdagang pagkain para sa paglalakbay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 8:34 — Jesus said that anyone who wants to follow him must deny themselves and take up their cross.",
+          "fil": "Marcos 8:34 — Sinabi ni Jesus na ang sinumang gustong sumunod sa kanya ay dapat itanggi ang kanyang sarili at buhatin ang kanyang krus."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Who appeared alongside Jesus on the mountain during the Transfiguration?",
+          "fil": "Sino ang lumabas kasama ni Jesus sa bundok sa panahon ng Pagbabago ng Anyo?"
+        },
+        "options": {
+          "en": ["Abraham and Isaac", "Moses and Elijah", "Elijah and Elisha"],
+          "fil": ["Sina Abraham at Isaac", "Sina Moises at Elias", "Sina Elias at Eliseo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 9:4 — Moses and Elijah appeared and were talking with Jesus.",
+          "fil": "Marcos 9:4 — Lumitaw sina Moises at Elias at nakikipag-usap kay Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the spirit do to the boy that the disciples were unable to heal?",
+          "fil": "Ano ang ginawa ng espiritu sa batang hindi magawang pagalingin ng mga alagad?"
+        },
+        "options": {
+          "en": ["Made him blind and deaf", "Caused him to convulse, foam at the mouth, and fall to the ground", "Made him unable to walk"],
+          "fil": ["Ginawang bulag at bingi siya", "Ginawa siyang manginig, bumulabog ang laway sa bibig, at mahulog sa lupa", "Ginawang hindi siya makalakad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 9:17-18 — The spirit made the boy mute and caused convulsions, foaming at the mouth, and grinding of teeth.",
+          "fil": "Marcos 9:17-18 — Ginawa ng espiritu na pipi ang bata at nagdulot ng pagkikig, pagbubula ng laway sa bibig, at pagngangalit ng ngipin."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say was needed to drive out the kind of spirit that afflicted the boy?",
+          "fil": "Ano ang sinabi ni Jesus na kailangan para mapalabas ang uri ng espiritung nang-aapi sa bata?"
+        },
+        "options": {
+          "en": ["Fasting alone", "Prayer", "A visit to the temple"],
+          "fil": ["Pag-aayuno lamang", "Panalangin", "Isang pagbisita sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 9:29 — Jesus said 'This kind can come out only by prayer.'",
+          "fil": "Marcos 9:29 — Sinabi ni Jesus, 'Ang ganitong uri ay hindi maaaring mapalabas kundi sa panalangin.'"
+        }
+      },
+      {
+        "q": {
+          "en": "According to Jesus in this chapter, who is the greatest?",
+          "fil": "Ayon kay Jesus sa kabanatang ito, sino ang pinakadakila?"
+        },
+        "options": {
+          "en": ["The one with the most knowledge of Scripture", "The one who is the servant of all", "The one who prays the longest"],
+          "fil": ["Ang may pinakamaraming kaalaman sa Kasulatan", "Ang nagsisilbi sa lahat", "Ang nagdadasal nang pinakamatagal"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 9:35 — Jesus said 'Anyone who wants to be first must be the very last, and the servant of all.'",
+          "fil": "Marcos 9:35 — Sinabi ni Jesus, 'Ang sinumang gustong maging una ay dapat maging huli sa lahat at tagapagsilbi ng lahat.'"
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What did Jesus teach about marriage in this chapter?",
+          "fil": "Ano ang itinuro ni Jesus tungkol sa kasal sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Divorce is freely permitted under Moses' law", "God's original design was lifelong unity; divorce was a concession to hard hearts", "Marriage is only for those who follow all of the Law"],
+          "fil": ["Ang diborsiyo ay malayang pinahihintulutan sa batas ni Moises", "Ang orihinal na disenyo ng Diyos ay panghabambuhay na pagkakaisa; ang diborsiyo ay isang konsesyon sa matitigas na puso", "Ang kasal ay para lamang sa mga sumusunod sa lahat ng Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 10:5-9 — Jesus pointed back to creation, saying what God has joined together, humans must not separate.",
+          "fil": "Marcos 10:5-9 — Itinuro ni Jesus ang simula ng paglikha, na sinasabi na ang iniugnay ng Diyos ay hindi dapat paghiwalayin ng tao."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus tell the rich man he lacked in order to have eternal life?",
+          "fil": "Ano ang sinabi ni Jesus sa mayamang lalaki na kulang sa kanya para magkaroon ng buhay na walang hanggan?"
+        },
+        "options": {
+          "en": ["He needed to fast and pray more", "He should sell everything, give to the poor, and follow Jesus", "He must offer sacrifices at the temple"],
+          "fil": ["Kailangan niya pang mag-ayuno at manalangin nang higit pa", "Dapat niyang ibenta ang lahat, ibigay sa mahihirap, at sumunod kay Jesus", "Dapat siyang mag-alay ng mga sakripisyo sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 10:21 — Jesus told him to sell everything, give to the poor, and come follow him.",
+          "fil": "Marcos 10:21 — Sinabi ni Jesus sa kanya na ibenta ang lahat, ibigay sa mahihirap, at sumunod sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What favor did James and John ask of Jesus in this chapter?",
+          "fil": "Anong pabor ang hiningi nina Santiago at Juan kay Jesus sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["To be protected from arrest", "To sit at his right and left in glory", "To lead the other disciples"],
+          "fil": ["Protektahan sila mula sa pag-aresto", "Umupo sa kanyang kanan at kaliwa sa kaluwalhatian", "Pamunuan ang ibang mga alagad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 10:37 — They asked 'Let one of us sit at your right and the other at your left in your glory.'",
+          "fil": "Marcos 10:37 — Hiniling nila, 'Hayaan ang isa sa amin na umupo sa iyong kanan at ang isa pa sa iyong kaliwa sa iyong kaluwalhatian.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did the blind man Bartimaeus do when Jesus called him?",
+          "fil": "Ano ang ginawa ng bulag na si Bartimeo nang tawagin siya ni Jesus?"
+        },
+        "options": {
+          "en": ["He carefully felt his way toward Jesus", "He threw off his cloak, jumped to his feet, and came to Jesus", "He asked a companion to lead him"],
+          "fil": ["Maingat siyang naramdaman ang daan patungo kay Jesus", "Inalis niya ang kanyang balabal, nagtayo, at lumapit kay Jesus", "Hilingan niya ang isang kasama na gabayan siya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 10:50 — Bartimaeus threw off his cloak, jumped up, and came to Jesus.",
+          "fil": "Marcos 10:50 — Inalis ni Bartimeo ang kanyang balabal, nagtayo nang biglaan, at lumapit kay Jesus."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What animal did Jesus ride when he entered Jerusalem to the cheers of the crowd?",
+          "fil": "Anong hayop ang sinasakay ni Jesus nang pumasok siya sa Jerusalem sa gitna ng mga sigaw ng karamihan?"
+        },
+        "options": {
+          "en": ["A horse", "A colt that had never been ridden", "A mule"],
+          "fil": ["Isang kabayo", "Isang batang asno na hindi pa nasakay", "Isang mula"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 11:7 — The disciples brought the colt, threw their cloaks on it, and Jesus sat on it.",
+          "fil": "Marcos 11:7 — Dinala ng mga alagad ang batang asno, inilagay ang kanilang mga balabal sa ibabaw nito, at umupo si Jesus dito."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus do when he arrived at the temple courts?",
+          "fil": "Ano ang ginawa ni Jesus nang dumating siya sa looban ng templo?"
+        },
+        "options": {
+          "en": ["He began teaching the large crowd immediately", "He drove out those who were buying and selling there", "He met privately with the chief priests"],
+          "fil": ["Agad siyang nagturo sa malaking karamihan", "Pinalayas niya ang mga bumibili at nagbibili roon", "Nagpulong siya nang lihim sa mga punong pari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 11:15 — Jesus drove out those buying and selling in the temple courts and overturned the tables of the money changers.",
+          "fil": "Marcos 11:15 — Pinalayas ni Jesus ang mga bumibili at nagbibili sa looban ng templo at itinaob ang mga mesa ng mga tagapalit ng pera."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened to the fig tree after Jesus cursed it for having no fruit?",
+          "fil": "Ano ang nangyari sa puno ng igos pagkatapos sumpain ni Jesus ito sa kawalan ng bunga?"
+        },
+        "options": {
+          "en": ["Nothing visible happened", "It fell over in a strong wind", "It had withered from its roots by the next morning"],
+          "fil": ["Walang nakitang nangyari", "Natumba ito sa malakas na hangin", "Natuyo ito mula sa ugat nito sa susunod na umaga"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 11:20-21 — The next morning Peter noticed the fig tree had withered from the roots.",
+          "fil": "Marcos 11:20-21 — Kinabukasan, napansin ni Pedro na natuyo ang puno ng igos mula sa ugat."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "In the parable of the wicked tenants, who did the tenants ultimately kill?",
+          "fil": "Sa talinhagang mga Masamang Kasangkapan, sino ang pinatay ng mga kasangkapan sa huli?"
+        },
+        "options": {
+          "en": ["The first servant sent to collect fruit", "All the servants without exception", "The owner's beloved son"],
+          "fil": ["Ang unang utusan na nagsikolekta ng bunga", "Lahat ng mga utusan nang walang pagbubukod", "Ang minamahal na anak ng may-ari"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 12:6-8 — Finally the vineyard owner sent his son, and the tenants killed him too.",
+          "fil": "Marcos 12:6-8 — Sa wakas, nagpadala ang may-ari ng ubasan ng kanyang anak, at pinatay din siya ng mga kasangkapan."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose image was on the coin Jesus pointed to when answering the question about taxes?",
+          "fil": "Larawan ng sino ang nasa pera na itinuro ni Jesus nang sagutin ang tanong tungkol sa buwis?"
+        },
+        "options": {
+          "en": ["Herod's", "Caesar's", "The high priest's"],
+          "fil": ["Ni Herodes", "Ni Cesar", "Ng punong pari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 12:16 — The coin bore Caesar's image and inscription, and Jesus said to give to Caesar what is Caesar's.",
+          "fil": "Marcos 12:16 — Ang pera ay may larawan at inskripsiyon ni Cesar, at sinabi ni Jesus na ibigay kay Cesar ang sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say was the greatest commandment?",
+          "fil": "Ano ang sinabi ni Jesus na pinakamataas na utos?"
+        },
+        "options": {
+          "en": ["Keep the Sabbath holy above all else", "Honor your father and mother always", "Love the Lord your God with all your heart, soul, mind, and strength"],
+          "fil": ["Panatilihing banal ang Sabbath nang higit sa lahat", "Igalang ang iyong ama at ina lagi", "Ibigin ang Panginoon mong Diyos nang buong puso, kaluluwa, isipan, at lakas"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 12:30 — Jesus quoted from the Shema: love God with all your heart, soul, mind, and strength.",
+          "fil": "Marcos 12:30 — Sinipi ni Jesus mula sa Shema: ibigin ang Diyos nang buong puso, kaluluwa, isipan, at lakas."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say was remarkable about the poor widow's offering at the temple?",
+          "fil": "Ano ang sinabi ni Jesus na kapansin-pansin sa handog ng dukhamang balo sa templo?"
+        },
+        "options": {
+          "en": ["She gave the largest single gift that day", "She gave out of her poverty — all she had to live on", "Her offering was accepted by the priests with honor"],
+          "fil": ["Nagbigay siya ng pinakamalaking solong regalo nang araw na iyon", "Nagbigay siya mula sa kanyang kahirapan — ang lahat ng kanyang ikabubuhay", "Ang kanyang handog ay tinanggap ng mga pari nang may karangalan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 12:43-44 — Jesus said she gave more than all the others because she gave out of her poverty — everything she had.",
+          "fil": "Marcos 12:43-44 — Sinabi ni Jesus na nagbigay siya nang higit sa lahat ng iba dahil nagbigay siya mula sa kanyang kahirapan — ang lahat ng mayroon siya."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What did Jesus predict about the great temple buildings when his disciples admired them?",
+          "fil": "Ano ang hula ni Jesus tungkol sa malalaking gusali ng templo nang humanga ang kanyang mga alagad sa mga ito?"
+        },
+        "options": {
+          "en": ["They would stand for a thousand years", "They would be restored even more beautifully", "Not one stone would be left on another; all would be thrown down"],
+          "fil": ["Mananatili ang mga ito sa loob ng isang libong taon", "Maibabalik ang mga ito nang mas maganda pa", "Wala ni isang bato ang maiiwan sa isa pa; lahat ay ibabagsak"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 13:2 — Jesus said not one stone of those great buildings would be left on another; every one would be thrown down.",
+          "fil": "Marcos 13:2 — Sinabi ni Jesus na wala ni isang bato sa mga dakilang gusaling iyon ang maiiwan sa isa pa; bawat isa ay ibabagsak."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning did Jesus give about those who would come claiming 'I am he'?",
+          "fil": "Anong babala ang ibinigay ni Jesus tungkol sa mga darating na magsasabing 'Ako nga iyon'?"
+        },
+        "options": {
+          "en": ["They should be welcomed as true prophets", "They would deceive many, so people must watch out", "They would be immediately recognized as false"],
+          "fil": ["Dapat silang tanggaping mga tunay na propeta", "Maraming malilinlang nila, kaya dapat mag-ingat ang mga tao", "Agad silang makikilala bilang mga huwad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 13:5-6 — Jesus warned that many would come in his name, claiming to be him, and would deceive many.",
+          "fil": "Marcos 13:5-6 — Binalaan ni Jesus na marami ang darating sa kanyang pangalan, na magsasabing sila siya, at maraming malilinlang."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about when the day and hour of the end would come?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa kung kailan darating ang araw at oras ng katapusan?"
+        },
+        "options": {
+          "en": ["He told the disciples the exact signs to watch for", "Only the Father knows; not the angels or even the Son", "It had been revealed to him but must remain secret"],
+          "fil": ["Sinabi niya sa mga alagad ang tiyak na mga tanda na dapat abangan", "Ang Ama lamang ang nakakaalam; hindi ang mga anghel o maging ang Anak", "Inihayag na ito sa kanya ngunit dapat manatiling lihim"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 13:32 — About that day or hour, no one knows — not the angels in heaven, nor the Son, but only the Father.",
+          "fil": "Marcos 13:32 — Tungkol sa araw o oras na iyon, walang nakakaalam — hindi ang mga anghel sa langit, o maging ang Anak, kundi ang Ama lamang."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Where was Jesus anointed with very expensive perfume in this chapter?",
+          "fil": "Saan pinahiran si Jesus ng napakamahalagang pabango sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["In Jerusalem, in the upper room", "In Bethany, at the house of Simon the leper", "At the temple, before the altar"],
+          "fil": ["Sa Jerusalem, sa itaas na silid", "Sa Bethania, sa bahay ni Simon na may ketong", "Sa templo, sa harap ng altar"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 14:3 — While Jesus was in Bethany in the home of Simon the leper, a woman anointed him with very expensive perfume.",
+          "fil": "Marcos 14:3 — Habang nasa Bethania si Jesus sa tahanan ni Simon na may ketong, pinahiran siya ng isang babae ng napakamahalagang pabango."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say when he broke bread and gave it to the disciples at the Passover meal?",
+          "fil": "Ano ang sinabi ni Jesus nang biyakin niya ang tinapay at ibinigay ito sa mga alagad sa pagdiriwang ng Paskuwa?"
+        },
+        "options": {
+          "en": ["'This is food for our journey ahead'", "'Take it; this is my body'", "'Eat this in remembrance of your sins'"],
+          "fil": ["'Ito ay pagkain para sa ating paglalakbay'", "'Kunin ninyo ito; ito ang aking katawan'", "'Kanin ninyo ito bilang paggunita sa inyong mga kasalanan'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 14:22 — Jesus took bread, broke it, and said 'Take it; this is my body.'",
+          "fil": "Marcos 14:22 — Kinuha ni Jesus ang tinapay, biniyak ito, at sinabi, 'Kunin ninyo ito; ito ang aking katawan.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus pray in Gethsemane regarding the 'cup' he was about to face?",
+          "fil": "Ano ang ipinanalangin ni Jesus sa Getsemane tungkol sa 'kopa' na haharapin niya?"
+        },
+        "options": {
+          "en": ["He asked God to strengthen him to face it without fear", "He asked if it were possible to take the cup away, yet submitted to God's will", "He thanked God for the suffering ahead of him"],
+          "fil": ["Hiniling niya sa Diyos na palakasin siya para harapin ito nang walang takot", "Tinanong niya kung maaaring alisin ang kopa, ngunit sinunod ang kalooban ng Diyos", "Nagpasalamat siya sa Diyos para sa paghihirap na haharapin niya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 14:36 — Jesus prayed 'Take this cup from me. Yet not what I will, but what you will.'",
+          "fil": "Marcos 14:36 — Nanalangin si Jesus, 'Alisin mo sa akin ang kopang ito. Gayunpaman, hindi ang gusto ko, kundi ang gusto mo.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What were the disciples doing while Jesus prayed in Gethsemane?",
+          "fil": "Ano ang ginagawa ng mga alagad habang nananalangin si Jesus sa Getsemane?"
+        },
+        "options": {
+          "en": ["Keeping watch at the gate", "Preparing food for the next day", "Sleeping"],
+          "fil": ["Nagbabantay sa pintuan", "Naghahanda ng pagkain para sa susunod na araw", "Natutulog"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 14:37 — Jesus returned and found them sleeping. He asked Peter if he could not keep watch for even one hour.",
+          "fil": "Marcos 14:37 — Bumalik si Jesus at natuklasan nilang natutulog sila. Tinanong niya si Pedro kung hindi siya makapagbabantay kahit isang oras lamang."
+        }
+      },
+      {
+        "q": {
+          "en": "How many times did Peter deny knowing Jesus before the rooster crowed a second time?",
+          "fil": "Ilang beses itinanggi ni Pedro si Jesus bago tumilaok ng pangalawang beses ang tandang?"
+        },
+        "options": {
+          "en": ["Once", "Twice", "Three times"],
+          "fil": ["Isang beses", "Dalawang beses", "Tatlong beses"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 14:71-72 — Peter denied Jesus three times, and the rooster crowed a second time, fulfilling Jesus' words.",
+          "fil": "Marcos 14:71-72 — Tatlong beses na itinanggi ni Pedro si Jesus, at tumilaok ng pangalawa ang tandang, na natupad ang sinabi ni Jesus."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Whom did the crowd ask Pilate to release instead of Jesus?",
+          "fil": "Sino ang hinilingan ng karamihan kay Pilato na palayain sa halip na si Jesus?"
+        },
+        "options": {
+          "en": ["A man named Theudas", "Barabbas", "Simon of Cyrene"],
+          "fil": ["Isang taong nagngangalang Teudas", "Si Barabas", "Si Simon ng Cirene"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 15:11 — The chief priests stirred up the crowd to ask Pilate to release Barabbas instead.",
+          "fil": "Marcos 15:11 — Pinakilos ng mga punong pari ang karamihan na hilingin kay Pilato na palayain si Barabas sa halip."
+        }
+      },
+      {
+        "q": {
+          "en": "Who was forced to carry Jesus' cross on the way to Golgotha?",
+          "fil": "Sino ang pinilit na magdala ng krus ni Jesus papunta sa Golgotha?"
+        },
+        "options": {
+          "en": ["One of the twelve apostles", "A Roman soldier", "Simon of Cyrene"],
+          "fil": ["Isa sa labindalawang apostol", "Isang Romano na sundalong", "Si Simon ng Cirene"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 15:21 — A passer-by named Simon from Cyrene was forced to carry Jesus' cross.",
+          "fil": "Marcos 15:21 — Isang dumadaang nagngangalang Simon ng Cirene ay pinilit na dalhin ang krus ni Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened to the curtain of the temple when Jesus breathed his last?",
+          "fil": "Ano ang nangyari sa kurtina ng templo nang hininga ni Jesus ang kanyang huli?"
+        },
+        "options": {
+          "en": ["It caught fire from lightning", "It was torn from top to bottom", "It turned dark as the sky did"],
+          "fil": ["Nasunog ito sa kidlat", "Nahiwa ito mula itaas hanggang ibaba", "Naging madilim ito tulad ng langit"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 15:38 — The curtain of the temple was torn in two from top to bottom.",
+          "fil": "Marcos 15:38 — Nahiwa ang kurtina ng templo sa dalawa mula itaas hanggang ibaba."
+        }
+      },
+      {
+        "q": {
+          "en": "Who asked Pilate for Jesus' body so he could give it a proper burial?",
+          "fil": "Sino ang humingi kay Pilato ng katawan ni Jesus para mabigyan ito ng maayos na libing?"
+        },
+        "options": {
+          "en": ["Mary Magdalene", "One of the twelve disciples", "Joseph of Arimathea"],
+          "fil": ["Si Maria Magdalena", "Isa sa labindalawang alagad", "Si Jose ng Arimatea"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 15:43 — Joseph of Arimathea, a respected member of the council, went boldly to Pilate and asked for Jesus' body.",
+          "fil": "Marcos 15:43 — Si Jose ng Arimatea, isang kagalang-galang na miyembro ng konseho, buong tapang na pumunta kay Pilato at hiniling ang katawan ni Jesus."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Who went to Jesus' tomb early on the first day of the week, bringing spices?",
+          "fil": "Sino ang pumunta sa libingan ni Jesus nang maaga sa unang araw ng linggo, na nagdadala ng mga pabango?"
+        },
+        "options": {
+          "en": ["Peter, James, and John", "Mary Magdalene, Mary the mother of James, and Salome", "All of the twelve apostles"],
+          "fil": ["Sina Pedro, Santiago, at Juan", "Sina Maria Magdalena, Maria na ina ni Santiago, at Salome", "Lahat ng labindalawang apostol"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 16:1 — These three women came to the tomb to anoint Jesus' body with spices.",
+          "fil": "Marcos 16:1 — Ang tatlong babaeng ito ay pumunta sa libingan para pahiran ang katawan ni Jesus ng mga pabango."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the young man in white robes tell the women at the empty tomb?",
+          "fil": "Ano ang sinabi ng batang lalaki na nakasuot ng puting damit sa mga babae sa walang lamang libingan?"
+        },
+        "options": {
+          "en": ["'He is still here; look more carefully'", "'He has risen! Go tell the disciples and Peter that he goes ahead to Galilee'", "'Wait here; he will return soon'"],
+          "fil": ["'Nandito pa siya; tingnan ninyong mabuti'", "'Siya ay nabuhay! Sabihin sa mga alagad at kay Pedro na siya ay mauna sa Galilea'", "'Maghintay dito; mabilis siyang babalik'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Marcos 16:6-7 — The young man said Jesus had risen, and told them to go tell the disciples, especially Peter, that Jesus was going ahead to Galilee.",
+          "fil": "Marcos 16:6-7 — Sinabi ng batang lalaki na nabuhay si Jesus, at inutusan silang sabihin sa mga alagad, lalo na kay Pedro, na mauna si Jesus sa Galilea."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus commission his disciples to do at the end of Mark's Gospel?",
+          "fil": "Ano ang iniutos ni Jesus sa kanyang mga alagad sa katapusan ng Ebanghelyo ni Marcos?"
+        },
+        "options": {
+          "en": ["Stay in Jerusalem and wait for further instructions", "Write down his teachings for future generations", "Go into all the world and proclaim the good news to all creation"],
+          "fil": ["Manatili sa Jerusalem at hintayin ang karagdagang tagubilin", "Isulat ang kanyang mga turo para sa mga susunod na henerasyon", "Pumunta sa buong mundo at ipahayag ang magandang balita sa lahat ng nilikha"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marcos 16:15 — Jesus said 'Go into all the world and preach the good news to all creation.'",
+          "fil": "Marcos 16:15 — Sinabi ni Jesus, 'Pumunta sa buong mundo at ipangaral ang magandang balita sa lahat ng nilikha.'"
+        }
+      }
+    ]
+  }
+}
