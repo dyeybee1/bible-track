@@ -1,0 +1,1320 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How does the Gospel of Matthew begin, and why is it significant?",
+          "fil": "Paano nagsisimula ang Ebanghelyo ni Mateo, at bakit ito mahalaga?"
+        },
+        "options": {
+          "en": ["With Jesus' baptism in the Jordan River", "With a genealogy tracing Jesus' ancestry from Abraham through David to Joseph", "With the ministry of John the Baptist"],
+          "fil": ["Sa bautismo ni Jesus sa Ilog Jordan", "Sa isang talaan ng mga ninuno na sinusubaybayan ang angkan ni Jesus mula kay Abraham sa pamamagitan ni David hanggang kay Jose", "Sa ministeryo ni Juan Bautista"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 1:1 — Matthew opens with 'A record of the genealogy of Jesus the Messiah the son of David, the son of Abraham,' connecting Jesus to Israel's covenant story.",
+          "fil": "Mateo 1:1 — Nagsisimula si Mateo sa 'Isang talaan ng angkan ni Jesucristo na Anak ni David, na Anak ni Abraham,' na ikinokonekta si Jesus sa kwento ng tipan ng Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Joseph respond when he found out Mary was pregnant before their marriage?",
+          "fil": "Paano tumugon si Jose nang malaman niyang buntis si Maria bago ang kanilang kasal?"
+        },
+        "options": {
+          "en": ["He confronted Mary publicly at the temple", "He planned to divorce her quietly so as not to expose her to public disgrace", "He went immediately to the chief priests for advice"],
+          "fil": ["Kinausap niya si Maria nang publiko sa templo", "Nagplano siyang hiwalayan siya nang tahimik para hindi siya mapahiya sa publiko", "Agad siyang pumunta sa mga punong pari para humingi ng payo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 1:19 — Joseph was a righteous man and did not want to expose Mary to public disgrace, so he planned to divorce her quietly.",
+          "fil": "Mateo 1:19 — Si Jose ay isang matuwid na tao at ayaw niyang mapahiya si Maria sa publiko, kaya nagplano siyang hiwalayan siya nang tahimik."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the angel tell Joseph in a dream about Mary's child?",
+          "fil": "Ano ang sinabi ng anghel kay Jose sa isang panaginip tungkol sa anak ni Maria?"
+        },
+        "options": {
+          "en": ["The child would become king of the Romans", "The child was conceived by the Holy Spirit and would save his people from their sins; name him Jesus", "The child should be hidden from Herod for forty years"],
+          "fil": ["Ang anak ay magiging hari ng mga Romano", "Ang anak ay nagmula sa Banal na Espiritu at ililigtas niya ang kanyang bayan mula sa kanilang mga kasalanan; pangalanan siyang Jesus", "Ang anak ay dapat itago mula kay Herodes sa loob ng apatnapung taon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 1:20-21 — The angel told Joseph the child was from the Holy Spirit and would save his people from their sins.",
+          "fil": "Mateo 1:20-21 — Sinabi ng anghel kay Jose na ang anak ay nagmula sa Banal na Espiritu at ililigtas niya ang kanyang bayan mula sa kanilang mga kasalanan."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Who came from the East to find Jesus, and what guided them?",
+          "fil": "Sino ang dumating mula sa Silangan para hanapin si Jesus, at ano ang nagabay sa kanila?"
+        },
+        "options": {
+          "en": ["Shepherds guided by an angel's voice", "Wise men (Magi) guided by a star they had seen", "Priests guided by a scroll of prophecy"],
+          "fil": ["Mga pastol na ginabayan ng tinig ng isang anghel", "Mga pantas (Mago) na ginabayan ng isang bituin na nakita nila", "Mga pari na ginabayan ng isang balumbon ng hula"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 2:1-2 — Magi from the East came to Jerusalem, saying they had seen his star and came to worship him.",
+          "fil": "Mateo 2:1-2 — Mga mago mula sa Silangan ang dumating sa Jerusalem, na sinasabing nakita nila ang kanyang bituin at naparito sila para sumamba sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did King Herod do after the wise men left without reporting back to him?",
+          "fil": "Ano ang ginawa ng Haring Herodes pagkatapos umalis ang mga pantas nang hindi siya naulatan?"
+        },
+        "options": {
+          "en": ["He sent his soldiers to Bethlehem to find and kill all boys two years old and under", "He sent his own servants to follow the wise men", "He ignored the matter and returned to his palace"],
+          "fil": ["Nagpadala siya ng kanyang mga sundalo sa Bethlehem para hanapin at patayin ang lahat ng batang lalaki na dalawang taong gulang pababa", "Nagpadala siya ng kanyang mga utusan para sundan ang mga pantas", "Binalewala niya ang bagay at bumalik sa kanyang palasyo"]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Mateo 2:16 — Herod gave orders to kill all boys in Bethlehem two years old and under, having been outwitted by the Magi.",
+          "fil": "Mateo 2:16 — Nag-utos si Herodes na patayin ang lahat ng batang lalaki sa Bethlehem na dalawang taong gulang pababa, dahil nadaya siya ng mga Mago."
+        }
+      },
+      {
+        "q": {
+          "en": "Where did Joseph, Mary, and Jesus go to escape Herod's threat?",
+          "fil": "Saan pumunta sina Jose, Maria, at Jesus para makatakas sa banta ni Herodes?"
+        },
+        "options": {
+          "en": ["To the wilderness of Judea", "To Egypt, warned by an angel in a dream", "To Nazareth in Galilee immediately"],
+          "fil": ["Sa ilang ng Judea", "Sa Ehipto, na pinagbababalaan ng isang anghel sa panaginip", "Agad sa Nazareth ng Galilea"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 2:13-14 — An angel warned Joseph in a dream to flee to Egypt with Mary and the child to escape Herod.",
+          "fil": "Mateo 2:13-14 — Nagbabala ang isang anghel kay Jose sa panaginip na tumakas sa Ehipto kasama sina Maria at ang bata para makaiwas kay Herodes."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How did John the Baptist describe his own role compared to Jesus?",
+          "fil": "Paano inilalarawan ni Juan Bautista ang kanyang sariling papel kumpara kay Jesus?"
+        },
+        "options": {
+          "en": ["He said he and Jesus were equal partners in God's work", "He said he was not worthy to carry Jesus' sandals and that Jesus would baptize with the Holy Spirit and fire", "He said Jesus was his student who would eventually surpass him"],
+          "fil": ["Sinabi niyang siya at si Jesus ay pantay na kasosyo sa gawa ng Diyos", "Sinabi niyang hindi siya karapat-dapat na magdala ng sandalyas ni Jesus at na si Jesus ay babautismuhan ng Banal na Espiritu at apoy", "Sinabi niyang si Jesus ay kanyang estudyante na sa huli ay lalampas sa kanya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 3:11 — John said he baptized with water but the one coming after him was more powerful and would baptize with the Holy Spirit and fire.",
+          "fil": "Mateo 3:11 — Sinabi ni Juan na nagbabautismo siya ng tubig ngunit ang isa na darating pagkatapos niya ay mas makapangyarihan at magbabautismo ng Banal na Espiritu at apoy."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did John the Baptist hesitate when Jesus came to be baptized?",
+          "fil": "Bakit nag-alinlangan si Juan Bautista nang lumapit si Jesus para mabautismuhan?"
+        },
+        "options": {
+          "en": ["He was afraid of the large crowd watching", "He said Jesus should be baptizing him, not the other way around", "He was not sure Jesus was the promised Messiah"],
+          "fil": ["Natakot siya sa malaking karamihang nanonood", "Sinabi niyang si Jesus ang dapat magbautismo sa kanya, hindi ang kabaligtaran", "Hindi siya sigurado kung si Jesus ay ang pangakong Mesiyas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 3:14 — John tried to prevent Jesus, saying 'I need to be baptized by you, and do you come to me?'",
+          "fil": "Mateo 3:14 — Sinubukan ni Juan na hadangan si Jesus, na sinasabing 'Ako ang nangangailangan na bautismuhan mo, at ikaw ang pupunta sa akin?'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did God's voice say from heaven when Jesus was baptized?",
+          "fil": "Ano ang sinabi ng tinig ng Diyos mula langit nang mabautismuhan si Jesus?"
+        },
+        "options": {
+          "en": ["'This is my servant whom I have chosen'", "'This is my Son, whom I love; with him I am well pleased'", "'This is the prophet I promised to send'"],
+          "fil": ["'Ito ang aking lingkod na aking pinili'", "'Ito ang aking Anak, na aking minahal; lubos akong nalulugod sa kanya'", "'Ito ang propeta na aking ipinangako na ipadala'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 3:17 — A voice from heaven said 'This is my Son, whom I love; with him I am well pleased.'",
+          "fil": "Mateo 3:17 — Isang tinig mula langit ang nagsabi, 'Ito ang aking Anak, na aking minahal; lubos akong nalulugod sa kanya.'"
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How did Jesus respond to the first temptation — the devil's challenge to turn stones into bread?",
+          "fil": "Paano tumugon si Jesus sa unang tukso — ang hamon ng diyablo na gawing tinapay ang mga bato?"
+        },
+        "options": {
+          "en": ["He miraculously produced bread to show his power", "He quoted Scripture: people do not live by bread alone but by every word from God", "He told the devil to leave immediately"],
+          "fil": ["Kahanga-hangang gumawa siya ng tinapay para ipakita ang kanyang kapangyarihan", "Sinipi niya ang Kasulatan: ang tao ay hindi nabubuhay sa tinapay lamang kundi sa bawat salita ng Diyos", "Sinabi niya sa diyablo na umalis agad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 4:4 — Jesus answered 'It is written: Man shall not live on bread alone, but on every word that comes from the mouth of God.'",
+          "fil": "Mateo 4:4 — Sumagot si Jesus, 'Nasusulat: ang tao ay hindi nabubuhay sa tinapay lamang, kundi sa bawat salitang lumalabas sa bibig ng Diyos.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What was Jesus' main message when he began his public ministry in Galilee?",
+          "fil": "Ano ang pangunahing mensahe ni Jesus nang simulan niya ang kanyang pampublikong ministeryo sa Galilea?"
+        },
+        "options": {
+          "en": ["'Build a new temple in Jerusalem'", "'Repent, for the kingdom of heaven has come near'", "'Follow the Law of Moses perfectly'"],
+          "fil": ["'Magtayo ng bagong templo sa Jerusalem'", "'Magsisi kayo, sapagkat malapit na ang kaharian ng langit'", "'Sundin ang Batas ni Moises nang perpekto'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 4:17 — Jesus began to preach 'Repent, for the kingdom of heaven has come near.'",
+          "fil": "Mateo 4:17 — Nagsimulang mangaral si Jesus, 'Magsisi kayo, sapagkat malapit na ang kaharian ng langit.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What were Peter and Andrew doing when Jesus called them to follow him?",
+          "fil": "Ano ang ginagawa nina Pedro at Andres nang tawagin sila ni Jesus na sumunod sa kanya?"
+        },
+        "options": {
+          "en": ["They were mending their fishing nets on the shore", "They were casting a net into the lake", "They were selling fish at the market"],
+          "fil": ["Inayos nila ang kanilang mga lambat sa pampang", "Naghahagis sila ng lambat sa lawa", "Nagbebenta sila ng isda sa palengke"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 4:18 — Jesus saw two brothers, Simon and Andrew, casting a net into the lake, for they were fishermen.",
+          "fil": "Mateo 4:18 — Nakita ni Jesus ang dalawang magkapatid, si Simon at Andres, na naghahagis ng lambat sa lawa, dahil sila ay mga mangingisda."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Which of the Beatitudes describes those who will inherit the earth?",
+          "fil": "Alin sa mga Beatitude ang naglalarawan sa mga magmamana ng lupa?"
+        },
+        "options": {
+          "en": ["The poor in spirit", "The meek", "The peacemakers"],
+          "fil": ["Ang mga dukha sa espiritu", "Ang mga maamo", "Ang mga mapagpayapa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 5:5 — 'Blessed are the meek, for they will inherit the earth.'",
+          "fil": "Mateo 5:5 — 'Mapalad ang mga maamo, sapagkat sila ang magmamana ng lupa.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the Law and the Prophets in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa Batas at mga Propeta sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["He came to abolish them and bring a new law", "He did not come to abolish them but to fulfill them", "He came to simplify them into two commandments"],
+          "fil": ["Naparito siya para sirain ang mga ito at magdala ng bagong batas", "Hindi siya naparito para sirain ang mga ito kundi para tuparin ang mga ito", "Naparito siya para pasimplehin ang mga ito sa dalawang utos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 5:17 — Jesus said 'Do not think I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.'",
+          "fil": "Mateo 5:17 — Sinabi ni Jesus, 'Huwag ninyong isipin na naparito ako para sirain ang Batas o ang mga Propeta; hindi ako naparito para sirain ang mga ito kundi para tuparin ang mga ito.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about loving enemies, going beyond what the Law required?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa pagmamahal sa mga kaaway, na higit pa sa kinakailangan ng Batas?"
+        },
+        "options": {
+          "en": ["Love only those who love you and avoid enemies", "Love your enemies and pray for those who persecute you so you may be children of your Father in heaven", "Forgive enemies once but avoid them afterward"],
+          "fil": ["Ibigin lamang ang mga nagmamahal sa inyo at iwasan ang mga kaaway", "Ibigin ang inyong mga kaaway at idalangin ang mga umuusig sa inyo para maging mga anak kayo ng inyong Ama sa langit", "Patawarin ang mga kaaway nang isang beses ngunit iwasan sila pagkatapos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 5:44-45 — Jesus commanded loving enemies and praying for persecutors, so that his followers would be children of their heavenly Father.",
+          "fil": "Mateo 5:44-45 — Inutusan ni Jesus ang pagmamahal sa mga kaaway at pagdalangin sa mga umuusig, para maging mga anak ng kanilang Amang makalangit ang kanyang mga tagasunod."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "How did Jesus say his followers should pray, in contrast to those who pray to be seen by others?",
+          "fil": "Paano sinabi ni Jesus na dapat manalangin ang kanyang mga tagasunod, kumpara sa mga nagdarasal para makita ng iba?"
+        },
+        "options": {
+          "en": ["Pray loudly in the streets so many people hear", "Go into a private room, close the door, and pray to the Father in secret", "Pray only in the synagogue with the community"],
+          "fil": ["Manalangin nang malakas sa mga lansangan para marinig ng marami", "Pumasok sa isang pribadong silid, isara ang pinto, at manalangin sa Ama nang lihim", "Manalangin lamang sa sinagoga kasama ang komunidad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 6:6 — Jesus said to go into your room, close the door, and pray to the Father who is unseen.",
+          "fil": "Mateo 6:6 — Sinabi ni Jesus na pumasok sa iyong silid, isara ang pinto, at manalangin sa Ama na hindi nakikita."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus teach about storing up treasures?",
+          "fil": "Ano ang itinuro ni Jesus tungkol sa pag-iipon ng mga kayamanan?"
+        },
+        "options": {
+          "en": ["Store as much as you can on earth for security", "Do not store up treasures on earth where they can rust or be stolen; store treasures in heaven", "Share all your earthly wealth with the temple"],
+          "fil": ["Mag-ipon nang hanggang kaya mo sa lupa para sa seguridad", "Huwag mag-ipon ng mga kayamanan sa lupa kung saan maaaring kalawangin o manakaw; mag-ipon ng mga kayamanan sa langit", "Ibahagi ang lahat ng iyong kayamanan sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 6:19-20 — Jesus said not to store up treasures on earth but in heaven, where moths and vermin do not destroy and thieves cannot break in.",
+          "fil": "Mateo 6:19-20 — Sinabi ni Jesus na huwag mag-ipon ng mga kayamanan sa lupa kundi sa langit, kung saan ang mga tanga at bubuyog ay hindi pumipinsala at ang mga magnanakaw ay hindi makakapasok."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say is impossible about serving two masters?",
+          "fil": "Ano ang sinabi ni Jesus na imposible tungkol sa paglilingkod sa dalawang panginoon?"
+        },
+        "options": {
+          "en": ["You can serve two masters if you are wise enough", "No one can serve both God and money; you will love one and hate the other", "Serving two masters requires twice the effort but is possible"],
+          "fil": ["Kaya mong maglingkod sa dalawang panginoon kung sapat ang iyong karunungan", "Walang makakapaglingkod sa parehong Diyos at pera; mamahalin mo ang isa at kapopootan ang isa pa", "Ang paglilingkod sa dalawang panginoon ay nangangailangan ng doble na pagsisikap ngunit posible"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 6:24 — 'No one can serve two masters. Either you will hate the one and love the other, or you will be devoted to the one and despise the other. You cannot serve both God and money.'",
+          "fil": "Mateo 6:24 — 'Walang makakapaglingkod sa dalawang panginoon. Kapopootan mo ang isa at mamahalin ang isa pa, o kaya ay mananalig ka sa isa at hahamakin ang isa pa. Hindi kayo makakapaglingkod sa parehong Diyos at kayamanan.'"
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What did Jesus mean by the teaching 'Do not judge'?",
+          "fil": "Ano ang ibig sabihin ni Jesus sa turong 'Huwag kayong humusga'?"
+        },
+        "options": {
+          "en": ["Never correct anyone for any reason", "Do not judge others with a standard you would not apply to yourself — the way you judge is how you will be judged", "Leave all judgment to the government"],
+          "fil": ["Huwag kailanman itama ang sinuman sa anumang dahilan", "Huwag husgahan ang iba gamit ang pamantayang hindi mo iaaplay sa iyong sarili — ang paraan ng iyong paghuhukom ay ganoon din ang paghuhukom sa iyo", "Ipaubaya ang lahat ng paghuhukom sa pamahalaan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 7:1-2 — Jesus said not to judge so that you won't be judged, for the measure you use will be the measure applied to you.",
+          "fil": "Mateo 7:1-2 — Sinabi ni Jesus na huwag husgahan para hindi kayo hatulan, sapagkat ang sukatan na inyong gagamitin ay ang sukatan na ilalapat sa inyo."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus promise to those who ask, seek, and knock?",
+          "fil": "Ano ang ipinangako ni Jesus sa mga nagtatanong, naghahanap, at kumakatok?"
+        },
+        "options": {
+          "en": ["They will receive answers in heaven, not necessarily on earth", "Everyone who asks will receive, everyone who seeks will find, and to everyone who knocks the door will be opened", "Only the worthy will receive answers to their prayers"],
+          "fil": ["Makakatanggap sila ng mga sagot sa langit, hindi kinakailanman sa lupa", "Ang bawat nagtatanong ay makakatanggap, ang bawat naghahanap ay makakahanap, at sa bawat kumakatok ang pinto ay mabubuksan", "Ang karapat-dapat lamang ay makakatanggap ng mga sagot sa kanilang mga panalangin"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 7:7-8 — Jesus said ask and it will be given, seek and you will find, knock and the door will be opened.",
+          "fil": "Mateo 7:7-8 — Sinabi ni Jesus na magtanong at ibibigay sa inyo, maghanap at mahahanap ninyo, kumatok at mabubuksan ang pinto para sa inyo."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Matthew describe the crowd's reaction to the Sermon on the Mount?",
+          "fil": "Paano inilalarawan ni Mateo ang reaksiyon ng karamihan sa Sermon sa Bundok?"
+        },
+        "options": {
+          "en": ["They were bored and began to leave", "They were amazed because Jesus taught with authority, unlike their teachers of the Law", "They were confused and argued among themselves"],
+          "fil": ["Nainip sila at nagsimulang umalis", "Nanggilalas sila dahil nagturo si Jesus nang may awtoridad, hindi tulad ng kanilang mga guro ng Batas", "Nalito sila at nagtaltalan sa isa't isa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 7:28-29 — The crowds were amazed at his teaching because he taught as one who had authority, not as their teachers of the Law.",
+          "fil": "Mateo 7:28-29 — Nanggilalas ang mga karamihan sa kanyang turo dahil nagturo siya bilang isa na may awtoridad, hindi tulad ng kanilang mga guro ng Batas."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What did the Roman centurion show when he asked Jesus to heal his servant?",
+          "fil": "Ano ang ipinakita ng Romano na senturyon nang humingi siya kay Jesus na pagalingin ang kanyang utusan?"
+        },
+        "options": {
+          "en": ["He showed great wealth by offering a large payment", "He showed remarkable faith, saying Jesus only needed to say the word and the servant would be healed", "He showed great humility by walking barefoot to Jesus"],
+          "fil": ["Nagpakita siya ng malaking kayamanan sa pamamagitan ng pag-aalok ng malaking bayad", "Nagpakita siya ng kahanga-hangang pananampalataya, na sinasabing kailangan lamang ni Jesus na sabihin ang salita at gagaling ang utusan", "Nagpakita siya ng malaking kababaang-loob sa pamamagitan ng paglalakad nang barefoot patungo kay Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 8:8-10 — The centurion said Jesus did not need to come; just say the word, and Jesus marveled at his faith.",
+          "fil": "Mateo 8:8-10 — Sinabi ng senturyon na hindi na kailangang pumunta si Jesus; sabihin lamang ang salita, at namangha si Jesus sa kanyang pananampalataya."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the disciples react when Jesus calmed the storm on the lake?",
+          "fil": "Paano tumugon ang mga alagad nang patahimikin ni Jesus ang bagyo sa lawa?"
+        },
+        "options": {
+          "en": ["They immediately told the story to everyone in the next town", "They were amazed and asked 'What kind of man is this? Even the winds and the waves obey him!'", "They fell asleep again, relieved the danger was over"],
+          "fil": ["Agad nilang sinabi ang kwento sa lahat sa susunod na bayan", "Namangha sila at nagtanong, 'Anong uri ng tao ito? Kahit ang mga hangin at mga alon ay sumusunod sa kanya!'", "Muling natulog sila, na naluwag dahil tapos na ang panganib"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 8:27 — The men were amazed and asked what kind of man this was that even the winds and waves obeyed him.",
+          "fil": "Mateo 8:27 — Namangha ang mga lalaki at nagtanong kung anong uri ng tao siya na kahit ang mga hangin at mga alon ay sumusunod sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened to the large herd of pigs after Jesus drove out the demons from the two men in Gadarene?",
+          "fil": "Ano ang nangyari sa malaking kawan ng mga baboy pagkatapos palayasin ni Jesus ang mga demonyo mula sa dalawang lalaki sa Gadarene?"
+        },
+        "options": {
+          "en": ["The pigs ran away into the forest", "The whole herd rushed down the steep bank into the lake and drowned", "The pigs stood still and then fell asleep"],
+          "fil": ["Tumakbo ang mga baboy patungo sa kagubatan", "Ang buong kawan ay tumakbo paalon sa bangin patungo sa lawa at nalunod", "Tumigil ang mga baboy at pagkatapos ay natulog"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 8:32 — The whole herd of pigs rushed down the steep bank into the lake and drowned.",
+          "fil": "Mateo 8:32 — Ang buong kawan ng mga baboy ay tumakbo paalon sa bangin patungo sa lawa at nalunod."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What did Jesus say when he forgave the paralyzed man's sins before healing him?",
+          "fil": "Ano ang sinabi ni Jesus nang patawarin niya ang kasalanan ng paralitikong lalaki bago pagalingin siya?"
+        },
+        "options": {
+          "en": ["'Your sins are forgiven because of your faith'", "'Take heart, son; your sins are forgiven'", "'Rise up and walk; your sins are no more'"],
+          "fil": ["'Napatawad ang iyong mga kasalanan dahil sa iyong pananampalataya'", "'Lakasan mo ang loob, anak; napatawad na ang iyong mga kasalanan'", "'Tumayo ka at lumakad; wala na ang iyong mga kasalanan'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 9:2 — Jesus said to the paralyzed man 'Take heart, son; your sins are forgiven.'",
+          "fil": "Mateo 9:2 — Sinabi ni Jesus sa paralitikong lalaki, 'Lakasan mo ang loob, anak; napatawad na ang iyong mga kasalanan.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say when the Pharisees questioned why he ate with tax collectors and sinners?",
+          "fil": "Ano ang sinabi ni Jesus nang tanungin ng mga Pariseo kung bakit kumakain siya kasama ang mga maniningil ng buwis at mga makasalanan?"
+        },
+        "options": {
+          "en": ["'God welcomes everyone without condition'", "'It is not the healthy who need a doctor, but the sick. I desire mercy, not sacrifice'", "'Sinners need to learn from my example'"],
+          "fil": ["'Tinatanggap ng Diyos ang lahat nang walang kondisyon'", "'Hindi ang mga malusog ang nangangailangan ng doktor, kundi ang mga maysakit. Nais ko ang habag, hindi ang sakripisyo'", "'Ang mga makasalanan ay kailangang matuto mula sa aking halimbawa'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 9:12-13 — Jesus said the healthy don't need a doctor, the sick do, and he desired mercy not sacrifice.",
+          "fil": "Mateo 9:12-13 — Sinabi ni Jesus na ang mga malusog ay hindi nangangailangan ng doktor, ang mga maysakit ang nangangailangan, at nais niya ang habag hindi ang sakripisyo."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened when Jesus raised the synagogue ruler's daughter in this chapter?",
+          "fil": "Ano ang nangyari nang buhayin ni Jesus ang anak ng pinuno ng sinagoga sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["The crowd outside celebrated loudly", "Jesus took her hand and she got up, and the news spread through all that region", "The girl woke but could not speak for seven days"],
+          "fil": ["Nagdiwang nang malakas ang karamihan sa labas", "Kinuha ni Jesus ang kanyang kamay at nagtayo siya, at kumalat ang balita sa buong rehiyon", "Gumising ang babae ngunit hindi makapagsalita sa loob ng pitong araw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 9:25 — Jesus went in, took the girl by the hand, and she got up. News about this spread through all that region.",
+          "fil": "Mateo 9:25 — Pumasok si Jesus, kinuha ang kamay ng babae, at nagtayo siya. Kumalat ang balita tungkol dito sa buong rehiyon."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What instruction did Jesus give the twelve when he sent them out in this chapter?",
+          "fil": "Anong tagubilin ang ibinigay ni Jesus sa labindalawa nang ipadala niya sila sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Go to all nations and preach", "Go only to the lost sheep of Israel — not to Gentiles or Samaritans", "Go to Jerusalem first, then to Galilee"],
+          "fil": ["Pumunta sa lahat ng bansa at mangaral", "Pumunta lamang sa mga nawawalang tupa ng Israel — hindi sa mga Gentil o Samaritano", "Pumunta muna sa Jerusalem, pagkatapos sa Galilea"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 10:5-6 — Jesus instructed the twelve not to go to the Gentiles or Samaritans but to the lost sheep of Israel.",
+          "fil": "Mateo 10:5-6 — Inutusan ni Jesus ang labindalawa na huwag pumunta sa mga Gentil o mga Samaritano kundi sa mga nawawalang tupa ng Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about those who deny him before others?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa mga tatanggi sa kanya sa harap ng iba?"
+        },
+        "options": {
+          "en": ["They will have a second chance to confess him", "He will also disown them before his Father in heaven", "God will forgive them if they repent later"],
+          "fil": ["Magkakaroon sila ng pangalawang pagkakataon na magtapat sa kanya", "Itatanggi rin niya sila sa harap ng kanyang Ama sa langit", "Patatawarin sila ng Diyos kung sila ay magsisi sa ibang pagkakataon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 10:33 — 'But whoever disowns me before others, I will disown before my Father in heaven.'",
+          "fil": "Mateo 10:33 — 'Ngunit ang sinumang itanggi ako sa harap ng iba, itatanggi ko rin siya sa harap ng aking Ama sa langit.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What encouraging thing did Jesus say to show his disciples they were valued?",
+          "fil": "Anong nakakapagpasiglang bagay ang sinabi ni Jesus para ipakita na pinahahalagahan ang kanyang mga alagad?"
+        },
+        "options": {
+          "en": ["He said they would rule over the twelve tribes of Israel", "He said not even a sparrow falls without the Father knowing, and they were worth more than many sparrows", "He promised them great wealth in this life"],
+          "fil": ["Sinabi niyang maghahari sila sa labindalawang lipi ng Israel", "Sinabi niyang kahit ang isang maya ay hindi nangangahulog nang hindi alam ng Ama, at sila ay higit pa sa maraming maya ang halaga", "Nangako siya sa kanila ng malaking kayamanan sa buhay na ito"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 10:29-31 — Jesus said not a sparrow falls without the Father's knowledge, and his disciples were worth more than many sparrows.",
+          "fil": "Mateo 10:29-31 — Sinabi ni Jesus na kahit ang isang maya ay hindi nangangahulog nang hindi alam ng Ama, at ang kanyang mga alagad ay higit pa sa maraming maya ang halaga."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What question did John the Baptist send his disciples to ask Jesus?",
+          "fil": "Anong tanong ang ipinadala ng mga alagad ni Juan Bautista para itanong kay Jesus?"
+        },
+        "options": {
+          "en": ["'When will you free John from prison?'", "'Are you the one who is to come, or should we expect someone else?'", "'Why do your disciples not fast like ours?'"],
+          "fil": ["'Kailan mo palayain si Juan mula sa bilangguan?'", "'Ikaw ba ang darating, o iba ang inaabangan namin?'", "'Bakit ang iyong mga alagad ay hindi nag-aayuno tulad ng amin?'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 11:3 — John sent his disciples to ask Jesus 'Are you the one who is to come, or should we expect someone else?'",
+          "fil": "Mateo 11:3 — Nagpadala si Juan ng kanyang mga alagad para tanungin si Jesus, 'Ikaw ba ang darating, o iba ang inaabangan namin?'"
+        }
+      },
+      {
+        "q": {
+          "en": "What invitation did Jesus give to those who were weary and burdened?",
+          "fil": "Anong imbitasyon ang ibinigay ni Jesus sa mga pagod at may pasanin?"
+        },
+        "options": {
+          "en": ["'Fast and pray and you will find rest'", "'Come to me, all you who are weary and burdened, and I will give you rest'", "'Follow the Law and you will find peace'"],
+          "fil": ["'Mag-ayuno at manalangin at makakahanap kayo ng pahinga'", "'Lumapit sa akin, kayong lahat na pagod at may pasanin, at bibigyan ko kayo ng pahinga'", "'Sundin ang Batas at makakahanap kayo ng kapayapaan'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 11:28 — Jesus said 'Come to me, all you who are weary and burdened, and I will give you rest.'",
+          "fil": "Mateo 11:28 — Sinabi ni Jesus, 'Lumapit sa akin, kayong lahat na pagod at may pasanin, at bibigyan ko kayo ng pahinga.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about John the Baptist's greatness?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa kadakilaan ni Juan Bautista?"
+        },
+        "options": {
+          "en": ["He was less important than the other prophets", "Among those born of women no one greater than John had appeared; yet the least in the kingdom is greater than he", "He was the greatest of all people who ever lived"],
+          "fil": ["Siya ay hindi gaanong mahalaga kaysa sa ibang mga propeta", "Sa mga ipinanganak ng mga babae ay walang lumitaw na mas dakila pa kay Juan; ngunit ang pinakamaliit sa kaharian ay mas dakila pa sa kanya", "Siya ang pinakadakila sa lahat ng tao na nabuhay kailanman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 11:11 — Jesus said no one born of women was greater than John, yet the least in the kingdom of heaven is greater than he.",
+          "fil": "Mateo 11:11 — Sinabi ni Jesus na sa mga ipinanganak ng mga babae ay walang mas dakila pa kay Juan, ngunit ang pinakamaliit sa kaharian ng langit ay mas dakila pa sa kanya."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What did Jesus say was the only sign that would be given to the wicked and adulterous generation?",
+          "fil": "Ano ang sinabi ni Jesus na ang tanging tanda na ibibigay sa masamang at mapanghimagsik na henerasyon?"
+        },
+        "options": {
+          "en": ["The sign of Moses in the wilderness", "The sign of the prophet Jonah — as Jonah was three days in the fish, so the Son of Man would be three days in the earth", "The sign of Elijah bringing fire from heaven"],
+          "fil": ["Ang tanda ni Moises sa ilang", "Ang tanda ng propetang Jonas — tulad ni Jonas na tatlong araw sa isda, gayon din ang Anak ng Tao tatlong araw sa lupa", "Ang tanda ni Elias na nagdadala ng apoy mula langit"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 12:39-40 — Jesus said the only sign would be the sign of Jonah — the Son of Man would be in the heart of the earth three days and three nights.",
+          "fil": "Mateo 12:39-40 — Sinabi ni Jesus na ang tanging tanda ay ang tanda ni Jonas — ang Anak ng Tao ay tatlong araw at tatlong gabing nasa puso ng lupa."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the unforgivable sin in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa hindi mapapatawad na kasalanan sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Murder committed in anger", "Blasphemy against the Holy Spirit", "Repeated lying under oath"],
+          "fil": ["Pagpatay na nagawa sa galit", "Paglapastangan sa Banal na Espiritu", "Paulit-ulit na pagsisinungaling sa ilalim ng panata"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 12:31-32 — Jesus said every sin and blasphemy can be forgiven, but blasphemy against the Holy Spirit will not be forgiven.",
+          "fil": "Mateo 12:31-32 — Sinabi ni Jesus na ang bawat kasalanan at paglapastangan ay maaaring patawarin, ngunit ang paglapastangan sa Banal na Espiritu ay hindi maaaring patawarin."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus describe his true family when told his mother and brothers were waiting outside?",
+          "fil": "Paano inilalarawan ni Jesus ang kanyang tunay na pamilya nang sabihing ang kanyang ina at mga kapatid ay naghihintay sa labas?"
+        },
+        "options": {
+          "en": ["He said he had no family anymore after leaving Nazareth", "He said whoever does the will of his Father in heaven is his brother, sister, and mother", "He went outside immediately to greet them"],
+          "fil": ["Sinabi niyang wala na siyang pamilya pagkatapos niyang umalis sa Nazareth", "Sinabi niyang ang sinumang gumagawa ng kalooban ng kanyang Amang nasa langit ay ang kanyang kapatid na lalaki, kapatid na babae, at ina", "Agad siyang lumabas para batiin sila"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 12:50 — Jesus said 'Whoever does the will of my Father in heaven is my brother and sister and mother.'",
+          "fil": "Mateo 12:50 — Sinabi ni Jesus, 'Ang sinumang gumagawa ng kalooban ng aking Amang nasa langit ay ang aking kapatid na lalaki, kapatid na babae, at ina.'"
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Where was Jesus sitting when he told the parable of the sower in this chapter?",
+          "fil": "Saan nakaupo si Jesus nang sabihin niya ang talinhagang Mamamahasik sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["On a hillside above the crowd", "In a boat on the lake, while the crowd stood on the shore", "In the synagogue of Capernaum"],
+          "fil": ["Sa isang burol sa itaas ng karamihan", "Sa isang bangka sa lawa, habang nakatayo ang karamihan sa pampang", "Sa sinagoga ng Capernaum"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 13:2 — Such large crowds gathered that he got into a boat and sat in it, while all the people stood on the shore.",
+          "fil": "Mateo 13:2 — Napakaraming karamihan ang nagtipon kaya sumakay siya sa isang bangka at doon umupo, habang nakatayo ang lahat ng tao sa pampang."
+        }
+      },
+      {
+        "q": {
+          "en": "To what did Jesus compare the kingdom of heaven in the parable of the mustard seed?",
+          "fil": "Saan inihambing ni Jesus ang kaharian ng langit sa talinhagang butil ng mustasa?"
+        },
+        "options": {
+          "en": ["A great river that never runs dry", "The smallest of all seeds that grows into the largest of garden plants so birds perch in its branches", "A treasure buried deep in the earth"],
+          "fil": ["Isang dakilang ilog na hindi kailanman natutuyo", "Ang pinakamaliit sa lahat ng mga buto na lumalaki at nagiging pinakamalaking halaman sa hardin kaya ang mga ibon ay dumadapo sa mga sanga nito", "Isang kayamanang natanim nang malalim sa lupa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 13:31-32 — The mustard seed is the smallest of seeds but grows into the largest of garden plants, with birds perching in its branches.",
+          "fil": "Mateo 13:31-32 — Ang butil ng mustasa ay pinakamaliit sa mga buto ngunit lumalaki at nagiging pinakamalaking halaman sa hardin, na ang mga ibon ay dumadapo sa mga sanga nito."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the man in the parable do when he found a treasure hidden in a field?",
+          "fil": "Ano ang ginawa ng lalaki sa talinhagang iyon nang mahanap niya ang kayamanang nakatago sa isang bukid?"
+        },
+        "options": {
+          "en": ["He immediately dug it up and took it home", "He hid it again, then sold everything he had and bought the whole field", "He told the landowner about the treasure and shared it"],
+          "fil": ["Agad niyang hinukay ito at dinala sa bahay", "Ibinaon muli niya ito, pagkatapos ibinenta ang lahat ng kanyang mayroon at binili ang buong bukid", "Sinabi niya sa may-ari ng lupa tungkol sa kayamanan at ibinahagi niya ito"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 13:44 — The man hid the treasure again, then in his joy went and sold all he had and bought that field.",
+          "fil": "Mateo 13:44 — Ibinaon muli ng lalaki ang kayamanan, pagkatapos sa kanyang kagalakan pumunta at ibinenta ang lahat ng mayroon siya at binili ang bukid na iyon."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What is the reason given in Matthew for John the Baptist's execution?",
+          "fil": "Ano ang dahilan na ibinigay sa Mateo para sa pagpapatay kay Juan Bautista?"
+        },
+        "options": {
+          "en": ["He criticized Roman rule publicly", "Herod arrested him because John had said it was unlawful to have Herodias as his wife", "He was accused of leading an armed rebellion"],
+          "fil": ["Lantarang pinuna niya ang pamamahala ng mga Romano", "Inaresto siya ni Herodes dahil sinabi ni Juan na labag sa batas ang pagkakaroon niya kay Herodias bilang asawa", "Inakusahan siya ng pamumuno sa isang armadong pag-aalsa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 14:3-4 — Herod had John arrested and bound because John had told him 'It is not lawful for you to have Herodias.'",
+          "fil": "Mateo 14:3-4 — Inaresto at itinali ni Herodes si Juan dahil sinabi ni Juan sa kanya, 'Hindi naaayon sa batas na magkaroon ka kay Herodias.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Peter do when Jesus walked on water and invited him to come?",
+          "fil": "Ano ang ginawa ni Pedro nang lumakad si Jesus sa tubig at imbitahan siyang lumapit?"
+        },
+        "options": {
+          "en": ["He refused, saying he could not walk on water", "He got out of the boat and walked on the water toward Jesus but began to sink when he was afraid", "He waited in the boat for Jesus to come to him"],
+          "fil": ["Tumanggi siya, na sinasabing hindi siya makakalakad sa tubig", "Bumaba siya sa bangka at lumakad sa tubig patungo kay Jesus ngunit nagsimulang lumubog nang matakot siya", "Naghintay siya sa bangka para lumapit si Jesus sa kanya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 14:29-30 — Peter walked on the water toward Jesus but when he saw the wind he was afraid and began to sink.",
+          "fil": "Mateo 14:29-30 — Lumakad si Pedro sa tubig patungo kay Jesus ngunit nang makita niya ang hangin ay natakot siya at nagsimulang lumubog."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus feed the five thousand in this chapter?",
+          "fil": "Paano pinakain ni Jesus ang limang libo sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["He sent his disciples to buy food from nearby towns", "He took five loaves and two fish, looked to heaven, gave thanks, broke them, and had the disciples distribute them", "He caused food to rain down from heaven"],
+          "fil": ["Nagpadala siya ng kanyang mga alagad para bumili ng pagkain sa mga kalapit na bayan", "Kinuha niya ang limang tinapay at dalawang isda, tumingala sa langit, nagpasalamat, biniyak ang mga ito, at pinapalagi ng mga alagad ang mga ito", "Nagpaulan siya ng pagkain mula langit"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 14:19 — Jesus took the five loaves and two fish, looked up to heaven, gave thanks and broke them, then gave them to the disciples to distribute.",
+          "fil": "Mateo 14:19 — Kinuha ni Jesus ang limang tinapay at dalawang isda, tumingala sa langit, nagpasalamat at biniyak ang mga ito, pagkatapos ibinigay sa mga alagad para ipamahagi."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What did Jesus say truly makes a person unclean, in response to the Pharisees' complaint about handwashing?",
+          "fil": "Ano ang sinabi ni Jesus na talaga namang nagpaparumi sa isang tao, bilang tugon sa reklamo ng mga Pariseo tungkol sa paghuhugas ng kamay?"
+        },
+        "options": {
+          "en": ["Not washing hands properly before eating", "What comes out of the mouth — the evil thoughts and words from the heart", "Eating with tax collectors and sinners"],
+          "fil": ["Hindi maayos na paghugas ng kamay bago kumain", "Ang lumalabas mula sa bibig — ang masamang mga iniisip at salita mula sa puso", "Pagkain kasama ang mga maniningil ng buwis at mga makasalanan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 15:18 — Jesus said what comes out of the mouth comes from the heart, and it is these things that defile a person.",
+          "fil": "Mateo 15:18 — Sinabi ni Jesus na ang lumalabas sa bibig ay nagmumula sa puso, at ang mga bagay na ito ang nagpaparumi sa isang tao."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the Canaanite woman do to get Jesus' attention and what did she show?",
+          "fil": "Ano ang ginawa ng babaeng Canaanita para makuha ang pansin ni Jesus at ano ang kanyang ipinakita?"
+        },
+        "options": {
+          "en": ["She waited quietly until the disciples helped her", "She kept crying out and would not give up, showing great persistence and faith", "She brought a large gift to offer Jesus"],
+          "fil": ["Tahimik siyang naghintay hanggang tulungan siya ng mga alagad", "Patuloy siyang sumisigaw at hindi sumuko, na nagpapakita ng malaking pagtitiyaga at pananampalataya", "Nagdala siya ng malaking regalo para ihandog kay Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 15:22-28 — The Canaanite woman kept coming and crying out; Jesus commended her great faith and healed her daughter.",
+          "fil": "Mateo 15:22-28 — Patuloy na lumapit at sumigaw ang babaeng Canaanita; pinuri ni Jesus ang kanyang dakilang pananampalataya at pinagaling ang kanyang anak na babae."
+        }
+      },
+      {
+        "q": {
+          "en": "How many people did Jesus feed with seven loaves and a few fish in this chapter?",
+          "fil": "Ilang tao ang pinakain ni Jesus ng pitong tinapay at iilang isda sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["About five thousand", "About four thousand, besides women and children", "About two thousand"],
+          "fil": ["Mga limang libo", "Mga apat na libo, bukod pa ang mga babae at bata", "Mga dalawang libo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 15:38 — About four thousand men, besides women and children, ate from the seven loaves.",
+          "fil": "Mateo 15:38 — Mga apat na libong lalaki, bukod pa ang mga babae at bata, ang kumain mula sa pitong tinapay."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What did Jesus say he would build after Peter's confession?",
+          "fil": "Ano ang sinabi ni Jesus na itatayo niya pagkatapos ng pangungumpisal ni Pedro?"
+        },
+        "options": {
+          "en": ["A new temple to replace the one in Jerusalem", "His church, upon the rock of Peter's confession, and the gates of Hades would not overcome it", "A school where all the disciples would teach"],
+          "fil": ["Isang bagong templo para palitan ang isa sa Jerusalem", "Ang kanyang iglesiya, sa ibabaw ng bato ng pangungumpisal ni Pedro, at ang mga pintuan ng Hades ay hindi magwawagi laban sa kanya", "Isang paaralan kung saan magtuturo ang lahat ng mga alagad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 16:18 — Jesus said 'On this rock I will build my church, and the gates of Hades will not overcome it.'",
+          "fil": "Mateo 16:18 — Sinabi ni Jesus, 'Sa ibabaw ng batong ito ay itatayo ko ang aking iglesiya, at ang mga pintuan ng Hades ay hindi magwawagi laban sa kanya.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus begin to explain to his disciples for the first time in this chapter?",
+          "fil": "Ano ang sinimulan ni Jesus na ipaliwanag sa kanyang mga alagad sa unang pagkakataon sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["How to perform miracles of healing", "That he must go to Jerusalem, suffer, be killed, and be raised on the third day", "The meaning of all the Old Testament prophecies"],
+          "fil": ["Paano gumawa ng mga himala ng pagpapagaling", "Na dapat siyang pumunta sa Jerusalem, magdusa, mapatay, at mabuhay na muli sa ikatlong araw", "Ang kahulugan ng lahat ng mga hula ng Lumang Tipan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 16:21 — From that time on Jesus began to explain that he must go to Jerusalem, suffer, be killed, and be raised on the third day.",
+          "fil": "Mateo 16:21 — Mula noon nagsimula si Jesus na ipaliwanag na dapat siyang pumunta sa Jerusalem, magdusa, mapatay, at mabuhay na muli sa ikatlong araw."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say a person must do to be his follower?",
+          "fil": "Ano ang sinabi ni Jesus na dapat gawin ng isang tao para maging tagasunod niya?"
+        },
+        "options": {
+          "en": ["Memorize the Law and the Prophets", "Deny themselves, take up their cross, and follow him", "Give all possessions to the synagogue"],
+          "fil": ["Isaulo ang Batas at mga Propeta", "Itanggi ang kanilang sarili, buhatin ang kanilang krus, at sumunod sa kanya", "Ibigay ang lahat ng pag-aari sa sinagoga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 16:24 — Jesus said 'Whoever wants to be my disciple must deny themselves and take up their cross and follow me.'",
+          "fil": "Mateo 16:24 — Sinabi ni Jesus, 'Ang sinumang gustong maging alagad ko ay dapat itanggi ang kanyang sarili at buhatin ang kanyang krus at sumunod sa akin.'"
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What did God's voice from the cloud say during the Transfiguration on the mountain?",
+          "fil": "Ano ang sinabi ng tinig ng Diyos mula sa ulap sa panahon ng Pagbabago ng Anyo sa bundok?"
+        },
+        "options": {
+          "en": ["'This is my servant; listen to the prophets'", "'This is my Son, whom I love; with him I am well pleased. Listen to him!'", "'The Law and Prophets are fulfilled in him'"],
+          "fil": ["'Ito ang aking lingkod; makinig kayo sa mga propeta'", "'Ito ang aking Anak, na aking minahal; lubos akong nalulugod sa kanya. Pakinggan ninyo siya!'", "'Ang Batas at mga Propeta ay natupad sa kanya'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 17:5 — A voice from a bright cloud said 'This is my Son, whom I love; with him I am well pleased. Listen to him!'",
+          "fil": "Mateo 17:5 — Isang tinig mula sa maliwanag na ulap ang nagsabi, 'Ito ang aking Anak, na aking minahal; lubos akong nalulugod sa kanya. Pakinggan ninyo siya!'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus tell his disciples about the demon-possessed boy they could not heal?",
+          "fil": "Ano ang sinabi ni Jesus sa kanyang mga alagad tungkol sa batang inaalihan ng demonyo na hindi nila mapagaling?"
+        },
+        "options": {
+          "en": ["Their mission was not to heal, only to teach", "Because of their little faith; if they had faith like a mustard seed they could move mountains and nothing would be impossible for them", "The boy's family had not asked with the right words"],
+          "fil": ["Ang kanilang misyon ay hindi magpagaling, mangaral lamang", "Dahil sa kanilang maliit na pananampalataya; kung mayroon silang pananampalatayang tulad ng butil ng mustasa ay maaari nilang ilipat ang mga bundok at wala ni isang bagay ang magiging imposible para sa kanila", "Ang pamilya ng bata ay hindi nagtatanong gamit ang tamang salita"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 17:20 — Jesus said it was because of their little faith; even faith as small as a mustard seed could move mountains.",
+          "fil": "Mateo 17:20 — Sinabi ni Jesus na ito ay dahil sa kanilang maliit na pananampalataya; kahit isang pananampalatayang kasing liit ng butil ng mustasa ay maaaring maglipat ng mga bundok."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus pay the temple tax that was due for him and Peter?",
+          "fil": "Paano nagbayad si Jesus ng buwis sa templo na dapat bayaran para sa kanya at kay Pedro?"
+        },
+        "options": {
+          "en": ["He asked the Pharisees to exempt him from the tax", "He told Peter to catch a fish, and in its mouth would be a coin worth exactly the tax for both of them", "He performed a miracle of multiplying a coin into many"],
+          "fil": ["Humingi siya sa mga Pariseo na palayain siya sa buwis", "Sinabi niya kay Pedro na hulihin ang isang isda, at sa bibig nito ay isang barya na katumbas ng buwis para sa pareho nila", "Gumawa siya ng himala ng pagpaparami ng isang barya sa marami"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 17:27 — Jesus told Peter to catch a fish; in its mouth he would find a four-drachma coin to pay the tax for both of them.",
+          "fil": "Mateo 17:27 — Sinabi ni Jesus kay Pedro na hulihin ang isang isda; sa bibig nito ay makakahanap siya ng apat na drachma na barya para bayaran ang buwis para sa pareho nila."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What did Jesus say about receiving a little child in his name?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa pagtanggap ng isang maliit na bata sa kanyang pangalan?"
+        },
+        "options": {
+          "en": ["Children are less important in the kingdom than adults", "Whoever welcomes one such child in his name welcomes Jesus himself", "Children must grow up before they can enter the kingdom"],
+          "fil": ["Ang mga bata ay hindi gaanong mahalaga sa kaharian kaysa mga matatanda", "Ang sinumang tumatanggap ng isang ganyang bata sa kanyang pangalan ay tinatanggap si Jesus mismo", "Ang mga bata ay dapat lumaki muna bago makapasok sa kaharian"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 18:5 — Jesus said 'And whoever welcomes one such child in my name welcomes me.'",
+          "fil": "Mateo 18:5 — Sinabi ni Jesus, 'At ang sinumang tumatanggap ng isang ganyang bata sa aking pangalan ay tumatanggap sa akin.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What is the parable of the lost sheep meant to illustrate in this chapter?",
+          "fil": "Ano ang nilalayon ipakita ng talinhagang nawawalang tupa sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["That shepherds must protect their flocks at all times", "That God is not willing for any of his little ones to be lost — he seeks the one lost sheep rejoicing when found", "That the ninety-nine are more important than the one"],
+          "fil": ["Na ang mga pastol ay dapat pangalagaan ang kanilang mga kawan sa lahat ng oras", "Na ang Diyos ay hindi nagnanais na mawala ang sinuman sa kanyang mga munti — hinahanap niya ang isang nawawalang tupa at nagdidiwang nang mahanap", "Na ang siyamnapu't siyam ay mas mahalaga kaysa sa isa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 18:14 — Your Father in heaven is not willing that any of these little ones should perish.",
+          "fil": "Mateo 18:14 — Ang inyong Ama sa langit ay hindi nagnanais na mawala ang sinuman sa mga munting ito."
+        }
+      },
+      {
+        "q": {
+          "en": "How many times did Jesus say we should forgive a brother or sister who sins against us?",
+          "fil": "Ilang beses sinabi ni Jesus na dapat nating patawarin ang isang kapatid na nagkasala laban sa atin?"
+        },
+        "options": {
+          "en": ["Seven times, as Jewish tradition taught", "Not seven times, but seventy-seven times (without limit)", "Three times, then report them to the church"],
+          "fil": ["Pitong beses, ayon sa turong Judio", "Hindi pitong beses, kundi pitumpu't pitong beses (nang walang limitasyon)", "Tatlong beses, pagkatapos ay iulat sila sa iglesiya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 18:22 — Jesus said not seven times, but seventy-seven times — signifying unlimited forgiveness.",
+          "fil": "Mateo 18:22 — Sinabi ni Jesus na hindi pitong beses, kundi pitumpu't pitong beses — na nagpapakita ng walang limitasyong kapatawaran."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What did Jesus say about children when the disciples tried to send them away?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa mga bata nang subukan ng mga alagad na paalisin sila?"
+        },
+        "options": {
+          "en": ["Children should come back when they are older", "Let the children come to him and do not hinder them, for the kingdom belongs to such as these", "Children must be taught the Law before entering his presence"],
+          "fil": ["Ang mga bata ay dapat bumalik kapag sila ay matanda na", "Hayaan ang mga bata na lumapit sa kanya at huwag hadangan sila, sapagkat sa mga gaya nito ang kaharian", "Ang mga bata ay dapat turuan ang Batas bago sila makapasok sa kanyang presensya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 19:14 — Jesus said 'Let the little children come to me and do not hinder them, for the kingdom of heaven belongs to such as these.'",
+          "fil": "Mateo 19:14 — Sinabi ni Jesus, 'Hayaan ang mga maliliit na bata na lumapit sa akin at huwag silang hadangan, sapagkat sa mga gaya nito ang kaharian ng langit.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did the rich young man ask Jesus and what was the one thing he lacked?",
+          "fil": "Ano ang tinanong ng mayamang batang lalaki kay Jesus at ano ang isang bagay na kulang sa kanya?"
+        },
+        "options": {
+          "en": ["He asked how to be a great teacher; he lacked patience", "He asked what good thing to do to have eternal life; he lacked willingness to sell his wealth, give to the poor, and follow Jesus", "He asked how to become a Pharisee; he lacked knowledge of the Law"],
+          "fil": ["Tinanong niya kung paano maging isang dakilang guro; kulang siya ng pasensya", "Tinanong niya kung anong mabuting bagay ang gagawin para magkaroon ng buhay na walang hanggan; kulang siya ng pagnanais na ibenta ang kanyang kayamanan, ibigay sa mahihirap, at sumunod kay Jesus", "Tinanong niya kung paano maging Pariseo; kulang siya ng kaalaman sa Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 19:21 — Jesus told the young man to sell his possessions, give to the poor, and follow him — the one thing he lacked.",
+          "fil": "Mateo 19:21 — Sinabi ni Jesus sa batang lalaki na ibenta ang kanyang pag-aari, ibigay sa mahihirap, at sumunod sa kanya — ang isang bagay na kulang sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What surprising thing did Jesus say about who will be first and last in the kingdom?",
+          "fil": "Anong nakakagulat na bagay ang sinabi ni Jesus tungkol sa kung sino ang magiging una at huli sa kaharian?"
+        },
+        "options": {
+          "en": ["The first will always stay first in God's eyes", "Many who are first will be last, and many who are last will be first", "Only those who served longest will be first"],
+          "fil": ["Ang una ay laging mananatiling una sa mata ng Diyos", "Marami sa mga una ay magiging huli, at marami sa mga huli ay magiging una", "Ang mga naglilingkod nang pinakamatagal lamang ang magiging una"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 19:30 — 'But many who are first will be last, and many who are last will be first.'",
+          "fil": "Mateo 19:30 — 'Ngunit marami sa mga una ay magiging huli, at marami sa mga huli ay magiging una.'"
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What is the main lesson of the parable of the workers in the vineyard?",
+          "fil": "Ano ang pangunahing aral ng talinhagang mga manggagawa sa ubasan?"
+        },
+        "options": {
+          "en": ["Workers should always negotiate pay before starting work", "God's generosity is his own to give as he pleases; the kingdom is about grace, not just what seems fair", "Early workers are always rewarded more than late arrivals"],
+          "fil": ["Ang mga manggagawa ay dapat palaging makipag-ayos sa sahod bago magsimulang magtrabaho", "Ang kabutihan ng Diyos ay kanya sa pagbibigay kung paano niya gusto; ang kaharian ay tungkol sa biyaya, hindi sa tila patas lamang", "Ang mga maagang manggagawa ay palaging mas ginagantimpalaan kaysa sa mga huling dumating"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 20:14-15 — The landowner said 'I want to give the one who was hired last the same as I gave you. Don't I have the right to do what I want with my own money? Are you envious because I am generous?'",
+          "fil": "Mateo 20:14-15 — Sinabi ng may-ari ng lupa, 'Gusto ko na bigyan ang huling inupahan ng katulad ng ibinigay ko sa iyo. Wala ba akong karapatang gawin ang gusto ko sa sarili kong pera? Naiingit ka ba dahil mapagbigay ako?'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did James and John's mother ask Jesus for on behalf of her sons?",
+          "fil": "Ano ang hiningi ng ina nina Santiago at Juan kay Jesus para sa kanyang mga anak?"
+        },
+        "options": {
+          "en": ["Protection from the Pharisees and Romans", "That one would sit on his right and one on his left in his kingdom", "Positions as leaders of the twelve apostles"],
+          "fil": ["Proteksyon mula sa mga Pariseo at Romano", "Na ang isa ay makaupo sa kanyang kanan at ang isa ay sa kanyang kaliwa sa kanyang kaharian", "Mga posisyon bilang mga lider ng labindalawang apostol"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 20:21 — The mother asked that one of her sons sit at Jesus' right and the other at his left in his kingdom.",
+          "fil": "Mateo 20:21 — Hiningi ng ina na ang isa sa kanyang mga anak ay makaupo sa kanan ni Jesus at ang isa pa sa kanyang kaliwa sa kanyang kaharian."
+        }
+      },
+      {
+        "q": {
+          "en": "What did two blind men do when they heard Jesus was passing by?",
+          "fil": "Ano ang ginawa ng dalawang bulag nang marinig nilang dumadaan si Jesus?"
+        },
+        "options": {
+          "en": ["They walked quietly toward where they heard his voice", "They cried out 'Lord, Son of David, have mercy on us!' even when the crowd told them to be quiet", "They asked their friends to bring them to him later"],
+          "fil": ["Tahimik silang lumakad patungo sa pinagmulan ng tinig niya", "Sumigaw sila, 'Panginoon, Anak ni David, mahabag kayo sa amin!' kahit sinabi ng karamihan na tumahimik sila", "Humingi sila sa kanilang mga kaibigan na dalhin sila sa kanya sa ibang pagkakataon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 20:31 — The crowd rebuked them, but they shouted all the louder 'Lord, Son of David, have mercy on us!'",
+          "fil": "Mateo 20:31 — Pinagalitan sila ng karamihan, ngunit sumigaw sila nang lalong malakas, 'Panginoon, Anak ni David, mahabag kayo sa amin!'"
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What happened in the temple when Jesus arrived after his triumphal entry?",
+          "fil": "Ano ang nangyari sa templo nang dumating si Jesus pagkatapos ng kanyang matagumpay na pagpasok?"
+        },
+        "options": {
+          "en": ["He taught the crowd a long sermon on the steps", "He drove out everyone buying and selling and overturned the money changers' tables", "He met with the chief priests to discuss reform"],
+          "fil": ["Nagturo siya ng mahabang sermon sa karamihan sa mga hakbang", "Pinalayas niya ang lahat ng bumibili at nagbibili at itinaob ang mga mesa ng mga tagapalit ng pera", "Nagpulong siya sa mga punong pari para pag-usapan ang reporma"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 21:12 — Jesus drove out all who were buying and selling in the temple courts and overturned the tables of the money changers.",
+          "fil": "Mateo 21:12 — Pinalayas ni Jesus ang lahat ng bumibili at nagbibili sa looban ng templo at itinaob ang mga mesa ng mga tagapalit ng pera."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened to the fig tree Jesus cursed in Matthew's account?",
+          "fil": "Ano ang nangyari sa puno ng igos na sinumpa ni Jesus sa salaysay ni Mateo?"
+        },
+        "options": {
+          "en": ["It lost its leaves the following season", "It withered immediately at once, and the disciples were amazed", "It stopped bearing fruit but did not die"],
+          "fil": ["Nawala ang mga dahon nito sa susunod na season", "Agad itong natuyo, at namangha ang mga alagad", "Tumigil ito sa pagbubunga ngunit hindi namatay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 21:19-20 — The fig tree withered immediately, and when the disciples saw it they were amazed.",
+          "fil": "Mateo 21:19-20 — Agad na natuyo ang puno ng igos, at nang makita ng mga alagad ito ay namangha sila."
+        }
+      },
+      {
+        "q": {
+          "en": "In the parable of the two sons, which one actually did what his father asked?",
+          "fil": "Sa talinhagang dalawang anak, alin ang talagang gumawa ng hinihingi ng kanyang ama?"
+        },
+        "options": {
+          "en": ["The one who immediately said yes and went", "The one who said no but later changed his mind and went", "Neither of them obeyed"],
+          "fil": ["Ang isa na agad na sumagot ng oo at pumunta", "Ang isa na sumagot ng hindi ngunit nagbago ng isip at pumunta", "Wala sa kanilang dalawa ang sumunod"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 21:28-30 — The son who first refused but then changed his mind and went is the one who did the father's will.",
+          "fil": "Mateo 21:28-30 — Ang anak na una ay tumanggi ngunit nagbago ng isip at pumunta ang isa na gumawa ng kalooban ng ama."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What happened to the guests who refused the king's invitation in the parable of the wedding banquet?",
+          "fil": "Ano ang nangyari sa mga bisita na tumanggi sa imbitasyon ng hari sa talinhagang handaang kasal?"
+        },
+        "options": {
+          "en": ["They were simply not invited again", "The king was enraged, destroyed them, and burned their city", "They were fined for their disrespect"],
+          "fil": ["Hindi na lamang sila inimbitahan muli", "Nagalit ang hari, pinuksa sila, at sinunog ang kanilang lungsod", "Pinarusahan sila para sa kanilang kabastusan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 22:7 — The king was enraged; he sent his army, destroyed those murderers, and burned their city.",
+          "fil": "Mateo 22:7 — Nagalit ang hari; nagpadala siya ng kanyang hukbo, pinuksa ang mga mamamatay-tao, at sinunog ang kanilang lungsod."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus answer the Pharisees' trick question about paying taxes to Caesar?",
+          "fil": "Paano sinagot ni Jesus ang mapanlinlang na tanong ng mga Pariseo tungkol sa pagbabayad ng buwis kay Cesar?"
+        },
+        "options": {
+          "en": ["He said taxes to Rome were unlawful for God's people", "'Give to Caesar what is Caesar's, and to God what is God's'", "He said God's law superseded Roman law completely"],
+          "fil": ["Sinabi niyang ang buwis sa Roma ay labag sa batas para sa bayan ng Diyos", "'Ibigay kay Cesar ang sa Cesar, at sa Diyos ang sa Diyos'", "Sinabi niyang ang batas ng Diyos ay ganap na nanguna sa batas ng Roma"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 22:21 — Jesus said 'Give back to Caesar what is Caesar's, and to God what is God's.'",
+          "fil": "Mateo 22:21 — Sinabi ni Jesus, 'Ibigay kay Cesar ang sa Cesar, at sa Diyos ang sa Diyos.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What two commandments did Jesus say sum up the whole Law and the Prophets?",
+          "fil": "Anong dalawang utos ang sinabi ni Jesus na buod ng buong Batas at mga Propeta?"
+        },
+        "options": {
+          "en": ["Keep the Sabbath and honor parents", "Love the Lord with all your heart, soul, and mind — and love your neighbor as yourself", "Do not kill and do not steal"],
+          "fil": ["Ganapin ang Sabbath at igalang ang mga magulang", "Ibigin ang Panginoon ng buong puso, kaluluwa, at isipan — at ibigin ang iyong kapwa tulad ng iyong sarili", "Huwag pumatay at huwag magnakaw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 22:37-40 — Jesus said the greatest commandment is loving God fully, and the second is loving your neighbor; all the Law and Prophets hang on these two.",
+          "fil": "Mateo 22:37-40 — Sinabi ni Jesus na ang pinakamataas na utos ay ang pagmamahal sa Diyos nang buo, at ang pangalawa ay ang pagmamahal sa iyong kapwa; ang buong Batas at mga Propeta ay nakasalalay sa dalawang ito."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What did Jesus say about the religious teachers who told others to do things but did not do them themselves?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa mga lider ng relihiyon na nagsasabi sa iba na gawin ang mga bagay ngunit hindi nila ginagawa mismo?"
+        },
+        "options": {
+          "en": ["He told people to follow their examples anyway", "He said they must do and observe what the teachers say, but not follow their example because they do not practice what they preach", "He said their teachings should be completely ignored"],
+          "fil": ["Sinabi niya sa mga tao na sundin pa rin ang kanilang mga halimbawa", "Sinabi niyang dapat gawin at sundin ng mga tao ang sinasabi ng mga guro, ngunit huwag sundin ang kanilang halimbawa dahil hindi nila isinasabuhay ang kanilang itinuturo", "Sinabi niyang ang kanilang mga turo ay dapat ganap na balewalain"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 23:3 — Jesus said to do and observe what they teach, but not follow their deeds, for they do not practice what they preach.",
+          "fil": "Mateo 23:3 — Sinabi ni Jesus na gawin at sundin ang kanilang itinuturo, ngunit huwag sundin ang kanilang mga gawa, sapagkat hindi nila isinasabuhay ang kanilang itinuturo."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus describe the Pharisees' habit of making converts?",
+          "fil": "Paano inilalarawan ni Jesus ang gawi ng mga Pariseo sa paggawa ng mga bagong mananampalataya?"
+        },
+        "options": {
+          "en": ["They were effective missionaries who built strong communities", "They traveled over land and sea to win a single convert and made him twice as much a child of hell as they were", "They trained good teachers who helped others understand the Law"],
+          "fil": ["Sila ay mga epektibong misyonero na nagtatayo ng mga matatatag na komunidad", "Naglalakbay sila sa lupa at dagat para makaabot ng isang bagong mananampalataya at ginagawa nila siyang doble kaysa sa kanila na anak ng impiyerno", "Nagsasanay sila ng mga magagandang guro na tumutulong sa iba na maunawaan ang Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 23:15 — Jesus said the Pharisees crossed land and sea to make one convert and made him twice as much a child of hell as themselves.",
+          "fil": "Mateo 23:15 — Sinabi ni Jesus na ang mga Pariseo ay naglalakbay sa lupa at dagat para makaabot ng isang bagong mananampalataya at ginagawa nila siyang doble kaysa sa kanila na anak ng impiyerno."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus describe Jerusalem at the end of this chapter?",
+          "fil": "Paano inilalarawan ni Jesus ang Jerusalem sa katapusan ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["As a city of great holiness that God would always protect", "As the city that killed the prophets; he longed to gather its people but they were not willing", "As the city that would become the capital of his eternal kingdom"],
+          "fil": ["Bilang isang lungsod ng dakilang kabanalan na palaging poprotektahan ng Diyos", "Bilang ang lungsod na pumatay sa mga propeta; ninais niyang tipunin ang mga tao nito ngunit hindi sila handa", "Bilang ang lungsod na magiging kabisera ng kanyang walang hanggang kaharian"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 23:37 — 'Jerusalem, Jerusalem, you who kill the prophets... how often I have longed to gather your children together... but you were not willing.'",
+          "fil": "Mateo 23:37 — 'Jerusalem, Jerusalem, ikaw na pumapatay sa mga propeta... ilang beses kong ninais tipunin ang iyong mga anak... ngunit hindi kayo handa.'"
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What sign about the temple did Jesus give to begin the Olivet Discourse?",
+          "fil": "Anong tanda tungkol sa templo ang ibinigay ni Jesus para simulan ang Olivet Discourse?"
+        },
+        "options": {
+          "en": ["The temple curtain would tear in two", "Not one stone of the temple would be left on another; all would be thrown down", "A new temple would be built in three days"],
+          "fil": ["Ang kurtina ng templo ay hahiwalay sa dalawa", "Wala ni isang bato ng templo ang maiiwan sa isa pa; lahat ay ibabagsak", "Isang bagong templo ang itatayo sa loob ng tatlong araw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 24:2 — Jesus said 'Not one stone here will be left on another; every one will be thrown down.'",
+          "fil": "Mateo 24:2 — Sinabi ni Jesus, 'Wala ni isang bato rito ang maiiwan sa isa pa; bawat isa ay ibabagsak.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the coming of the Son of Man?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa pagdating ng Anak ng Tao?"
+        },
+        "options": {
+          "en": ["It would come quietly so only the faithful would see it", "It would be like lightning flashing from east to west — unmistakably visible to all", "It would come first to Jerusalem then spread to all nations"],
+          "fil": ["Darating ito nang tahimik para ang tapat lamang ang makakakita nito", "Magiging tulad ito ng kidlat na kumikislap mula silangan hanggang kanluran — malinaw na makikita ng lahat", "Darating ito muna sa Jerusalem pagkatapos ay kumakalat sa lahat ng bansa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 24:27 — 'For as lightning comes from the east and is visible even in the west, so will be the coming of the Son of Man.'",
+          "fil": "Mateo 24:27 — 'Sapagkat tulad ng kidlat na nagmumula sa silangan at nakikita hanggang sa kanluran, gayon din ang pagdating ng Anak ng Tao.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to emphasize being ready for his return?",
+          "fil": "Ano ang sinabi ni Jesus para igiit ang pagiging handa para sa kanyang pagbabalik?"
+        },
+        "options": {
+          "en": ["He told them to study the signs carefully and they could predict the exact date", "'Keep watch, because you do not know on what day your Lord will come'", "'Stay in Jerusalem until the signs appear'"],
+          "fil": ["Sinabi niya sa kanila na maingat na pag-aralan ang mga tanda at maaari nilang mahulaan ang eksaktong petsa", "'Mag-ingat, dahil hindi ninyo alam kung saang araw darating ang inyong Panginoon'", "'Manatili sa Jerusalem hanggang lumitaw ang mga tanda'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 24:42 — 'Therefore keep watch, because you do not know on what day your Lord will come.'",
+          "fil": "Mateo 24:42 — 'Kaya mag-ingat, dahil hindi ninyo alam kung saang araw darating ang inyong Panginoon.'"
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What is the difference between the five wise virgins and the five foolish ones in the parable?",
+          "fil": "Ano ang pagkakaiba ng limang matalinong dalaga at ng limang hangal sa talinhagang iyon?"
+        },
+        "options": {
+          "en": ["The wise ones arrived earlier to the wedding", "The wise ones brought extra oil for their lamps while the foolish ones did not prepare", "The wise ones had better lamps than the foolish ones"],
+          "fil": ["Ang mga matalino ay mas maaga ang pagdating sa kasal", "Ang mga matalino ay nagdala ng karagdagang langis para sa kanilang mga lampara habang ang mga hangal ay hindi naghanda", "Ang mga matalino ay may mas magagandang lampara kaysa sa mga hangal"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 25:4 — The wise virgins took oil in jars along with their lamps while the foolish ones took no extra oil.",
+          "fil": "Mateo 25:4 — Nagdala ang mga matalinong dalaga ng langis sa mga sisidlan kasama ang kanilang mga lampara habang ang mga hangal ay hindi nagdala ng karagdagang langis."
+        }
+      },
+      {
+        "q": {
+          "en": "In the parable of the talents, what happened to the servant who buried his one talent?",
+          "fil": "Sa talinhagang mga talento, ano ang nangyari sa utusan na nag-ipon ng kanyang isang talento?"
+        },
+        "options": {
+          "en": ["He was praised for keeping it safe", "The talent was taken from him and given to the one who had ten; he was cast into outer darkness", "He was given more time to invest it"],
+          "fil": ["Pinuri siya para sa pag-iingat nito", "Kinuha ang talento sa kanya at ibinigay sa isa na mayroon ng sampung; itinatapon siya sa panlabas na kadiliman", "Binigyan siya ng karagdagang oras para ipa-invest ito"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 25:28-30 — The talent was taken and given to the one who had ten talents; the useless servant was thrown into outer darkness.",
+          "fil": "Mateo 25:28-30 — Kinuha ang talento at ibinigay sa isa na mayroon ng sampung talento; ang walang silbing utusan ay itinatapon sa panlabas na kadiliman."
+        }
+      },
+      {
+        "q": {
+          "en": "What actions did Jesus describe as serving him in the parable of the sheep and goats?",
+          "fil": "Anong mga gawa ang inilalarawan ni Jesus bilang paglilingkod sa kanya sa talinhagang mga tupa at kambing?"
+        },
+        "options": {
+          "en": ["Attending worship services and praying daily", "Feeding the hungry, giving drink to the thirsty, welcoming strangers, clothing the naked, caring for the sick, and visiting prisoners", "Building temples and teaching the Law"],
+          "fil": ["Pagdalo sa mga serbisyo ng pagsamba at pagdarasal araw-araw", "Pagpapakain sa mga nagugutom, pagbibigay ng inumin sa nauuhaw, pagtanggap sa mga estranghero, pagbibihis sa mga hubad, pag-aalaga sa mga maysakit, at pagbisita sa mga bilanggo", "Pagtatayo ng mga templo at pagtuturo ng Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 25:35-36 — Jesus listed feeding the hungry, giving drink, welcoming strangers, clothing the naked, caring for the sick, and visiting prisoners as serving him.",
+          "fil": "Mateo 25:35-36 — Inilista ni Jesus ang pagpapakain sa gutom, pagbibigay ng inumin, pagtanggap sa mga estranghero, pagbibihis sa mga hubad, pag-aalaga sa mga maysakit, at pagbisita sa mga bilanggo bilang paglilingkod sa kanya."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What did Jesus say about the woman who anointed him with expensive perfume?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa babaeng nagpahid sa kanya ng mahal na pabango?"
+        },
+        "options": {
+          "en": ["He asked the disciples to pay her for the gift", "He said wherever the gospel is preached, what she did would be told in memory of her", "He thanked her but said the money should have gone to the poor"],
+          "fil": ["Hiningi niya sa mga alagad na bayaran siya para sa regalo", "Sinabi niyang saan man ipangaral ang ebanghelyo, ang kanyang ginawa ay isasalaysay bilang pag-alaala sa kanya", "Nagpasalamat siya sa kanya ngunit sinabi na ang pera ay dapat napunta sa mahihirap"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 26:13 — Jesus said 'Truly I tell you, wherever this gospel is preached throughout the world, what she has done will also be told, in memory of her.'",
+          "fil": "Mateo 26:13 — Sinabi ni Jesus, 'Talagang sinasabi ko sa inyo, saan man ipangaral ang ebanghelyong ito sa buong mundo, isasalaysay din ang kanyang ginawa, bilang pag-alaala sa kanya.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus take and bless at the Last Supper, and what did he say about the cup?",
+          "fil": "Ano ang kinuha at pinagpala ni Jesus sa Huling Hapunan, at ano ang sinabi niya tungkol sa kopa?"
+        },
+        "options": {
+          "en": ["Unleavened bread and grape juice, saying they represented the old covenant", "Bread and a cup, saying the bread was his body and the cup was his blood of the covenant poured out for many", "Fish and bread, saying they represented abundance in the kingdom"],
+          "fil": ["Tinapay na walang lebadura at katas ng ubas, na sinasabing kinakatawan nila ang lumang tipan", "Tinapay at kopa, na sinasabing ang tinapay ay ang kanyang katawan at ang kopa ay ang kanyang dugo ng tipan na ibinuhos para sa marami", "Isda at tinapay, na sinasabing kinakatawan nila ang kasaganaan sa kaharian"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 26:26-28 — Jesus took bread and cup, saying the bread was his body and the cup was his blood of the covenant, poured out for many for the forgiveness of sins.",
+          "fil": "Mateo 26:26-28 — Kinuha ni Jesus ang tinapay at kopa, na sinasabing ang tinapay ay ang kanyang katawan at ang kopa ay ang kanyang dugo ng tipan, na ibinuhos para sa marami para sa kapatawaran ng mga kasalanan."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Peter do when the high priest's servant girl said he was with Jesus?",
+          "fil": "Ano ang ginawa ni Pedro nang sinabi ng katulong na babae ng punong pari na kasama ni Jesus siya?"
+        },
+        "options": {
+          "en": ["He walked away without saying anything", "He denied it three times before the rooster crowed, then went outside and wept bitterly", "He admitted it but said Jesus was only his teacher"],
+          "fil": ["Lumayo siya nang hindi nagsasabi ng anuman", "Tatlong beses niyang itinanggi bago tumilaok ang tandang, pagkatapos lumabas siya at umiyak nang mapait", "Inamin niya ito ngunit sinabi na si Jesus ay guro lamang niya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 26:70-75 — Peter denied Jesus three times before the rooster crowed, then went outside and wept bitterly.",
+          "fil": "Mateo 26:70-75 — Tatlong beses na itinanggi ni Pedro si Jesus bago tumilaok ang tandang, pagkatapos lumabas siya at umiyak nang mapait."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What did Judas do after Jesus was condemned to death?",
+          "fil": "Ano ang ginawa ni Judas pagkatapos hatulan ng kamatayan si Jesus?"
+        },
+        "options": {
+          "en": ["He fled the country to avoid arrest", "He was seized with remorse, returned the silver, and hanged himself", "He tried to testify in Jesus' favor before Pilate"],
+          "fil": ["Tumakas siya sa ibang bansa para makaiwas sa pag-aresto", "Nabago ng isip niya, ibinabalik ang mga pilak, at binitay ang kanyang sarili", "Sinubukan niyang magpatotoo pabor kay Jesus sa harap ni Pilato"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 27:3-5 — Judas was seized with remorse, returned the thirty silver coins to the chief priests, and went and hanged himself.",
+          "fil": "Mateo 27:3-5 — Nabago ng isip ni Judas, ibinabalik ang tatlumpung pilak sa mga punong pari, at pumunta at binitay ang kanyang sarili."
+        }
+      },
+      {
+        "q": {
+          "en": "What unique events happened when Jesus died in Matthew's account?",
+          "fil": "Anong natatanging mga pangyayari ang naganap nang mamatay si Jesus sa salaysay ni Mateo?"
+        },
+        "options": {
+          "en": ["The sky turned red and locusts descended on Jerusalem", "The temple curtain tore, the earth shook, rocks split, and many holy people were raised to life", "A rainbow appeared over Jerusalem"],
+          "fil": ["Naging pula ang langit at bumaba ang mga balang sa Jerusalem", "Nahiwa ang kurtina ng templo, lumindol ang lupa, nahati ang mga bato, at maraming banal na tao ang binuhay na muli", "Isang bahaghari ang lumitaw sa itaas ng Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 27:51-52 — The temple curtain tore, the earth shook, rocks split, and the bodies of many holy people were raised.",
+          "fil": "Mateo 27:51-52 — Nahiwa ang kurtina ng templo, lumindol ang lupa, nahati ang mga bato, at ang mga katawan ng maraming banal na tao ay nabuhay na muli."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the chief priests and Pharisees do after Jesus was buried?",
+          "fil": "Ano ang ginawa ng mga punong pari at Pariseo pagkatapos ma-libing si Jesus?"
+        },
+        "options": {
+          "en": ["They held a feast to celebrate the end of Jesus' movement", "They went to Pilate and asked him to seal the tomb and post guards to prevent the disciples from stealing the body", "They sent spies to Galilee to watch the disciples"],
+          "fil": ["Nagdaos sila ng piging para ipagdiwang ang katapusan ng kilusan ni Jesus", "Pumunta sila kay Pilato at humingi na selyuhan ang libingan at maglagay ng mga bantay para mapigilan ang mga alagad na magnakaw ng katawan", "Nagpadala sila ng mga espia sa Galilea para bantayan ang mga alagad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 27:64-66 — The chief priests and Pharisees asked Pilate to secure the tomb, so they sealed it with a stone and posted guards.",
+          "fil": "Mateo 27:64-66 — Humingi ang mga punong pari at Pariseo kay Pilato na pangalagaan ang libingan, kaya tinatakan nila ito ng bato at naglagay ng mga bantay."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What did the angel tell the women who came to the tomb early?",
+          "fil": "Ano ang sinabi ng anghel sa mga babaeng pumunta sa libingan nang maaga?"
+        },
+        "options": {
+          "en": ["'Pray here and you will see Jesus soon'", "'He is not here; he has risen, just as he said. Come and see the place where he lay'", "'He has gone ahead to Jerusalem; follow him'"],
+          "fil": ["'Manalangin dito at makikita ninyo si Jesus sa lalong madaling panahon'", "'Wala siya rito; nabuhay siya, tulad ng sinabi niya. Halina at tingnan ang lugar kung saan siya nalagay'", "'Nauna siya sa Jerusalem; sumunod sa kanya'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 28:6 — The angel said 'He is not here; he has risen, just as he said. Come and see the place where he lay.'",
+          "fil": "Mateo 28:6 — Sinabi ng anghel, 'Wala siya rito; nabuhay siya, tulad ng sinabi niya. Halina at tingnan ang lugar kung saan siya nalagay.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What promise did Jesus give when he appeared to his disciples on the mountain in Galilee?",
+          "fil": "Anong pangako ang ibinigay ni Jesus nang magpakita siya sa kanyang mga alagad sa bundok sa Galilea?"
+        },
+        "options": {
+          "en": ["'I will return within forty years to judge the living and the dead'", "'Surely I am with you always, to the very end of the age'", "'I will send my angels to protect you from all harm'"],
+          "fil": ["'Babalik ako sa loob ng apatnapung taon para husgahan ang buhay at patay'", "'Tunay, ako ay kasama ninyo palagi, hanggang sa katapusan ng mundo'", "'Magpapadala ako ng aking mga anghel para protektahan kayo mula sa lahat ng pinsala'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 28:20 — Jesus closed with 'And surely I am with you always, to the very end of the age.'",
+          "fil": "Mateo 28:20 — Ipinagwakas ni Jesus sa, 'At tunay, ako ay kasama ninyo palagi, hanggang sa katapusan ng mundo.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What is the Great Commission that Jesus gave his disciples at the end of Matthew?",
+          "fil": "Ano ang Dakilang Utos na ibinigay ni Jesus sa kanyang mga alagad sa katapusan ng Mateo?"
+        },
+        "options": {
+          "en": ["'Return to Jerusalem and wait for further instructions'", "'Go and make disciples of all nations, baptizing them and teaching them to obey everything I have commanded'", "'Preach only to Israel until all twelve tribes have heard'"],
+          "fil": ["'Bumalik sa Jerusalem at hintayin ang karagdagang tagubilin'", "'Pumunta at gumawa ng mga alagad sa lahat ng bansa, bautismuhan sila at turuan silang sumunod sa lahat ng iniutos ko'", "'Mangaral lamang sa Israel hanggang makarinig ang lahat ng labindalawang lipi'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mateo 28:19-20 — Jesus commanded them to go, make disciples of all nations, baptize them, and teach them to obey his commands.",
+          "fil": "Mateo 28:19-20 — Inutusan ni Jesus sila na pumunta, gumawa ng mga alagad sa lahat ng bansa, bautismuhan sila, at turuan silang sumunod sa kanyang mga utos."
+        }
+      }
+    ]
+  }
+}
