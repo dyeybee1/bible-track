@@ -4,10 +4,15 @@ import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/leaderboard_controller.dart';
 import '../../data/progress_controller.dart';
+import '../../data/settings_controller.dart';
 import '../../settings_scope.dart';
 
 /// The leaderboard tab: top-50 users by chaptersRead (lifetime), with the
 /// current user highlighted and their rank shown even if outside top 50.
+///
+/// Uses a live Firestore stream so the list updates automatically when:
+///  • another user opts in / their score changes
+///  • the current user enables "Show on Leaderboard" in Settings
 class LeaderboardScreen extends StatefulWidget {
   const LeaderboardScreen({
     super.key,
@@ -29,17 +34,47 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
   LeaderboardController? _ctrl;
 
   @override
-  bool get wantKeepAlive => false; // refresh every time the tab is opened
+  bool get wantKeepAlive => false; // allow rebuild when tab is re-visited
 
   @override
   void initState() {
     super.initState();
-    _load();
+    _startStream();
+    // Re-subscribe when the account's public-profile write completes so that
+    // own-rank picks up a freshly written entry immediately.
+    widget.account.addListener(_onAccountChanged);
+    widget.progress.addListener(_onProgressChanged);
   }
 
-  void _load() {
+  @override
+  void dispose() {
+    widget.account.removeListener(_onAccountChanged);
+    widget.progress.removeListener(_onProgressChanged);
+    _ctrl?.dispose();
+    super.dispose();
+  }
+
+  // ── Listeners ─────────────────────────────────────────────────────────────
+
+  void _onAccountChanged() {
+    // If the user was just created / UID changed, restart the stream.
+    final uid = widget.account.user?.uid;
+    if (uid != null && uid != _ctrl?.currentUid) {
+      _startStream();
+    }
+  }
+
+  void _onProgressChanged() {
+    // Keep own-rank in sync whenever the user reads more chapters.
+    _ctrl?.updateMyChaptersRead(widget.progress.chaptersReadLifetime);
+  }
+
+  // ── Stream lifecycle ──────────────────────────────────────────────────────
+
+  void _startStream() {
     final uid = widget.account.user?.uid;
     if (uid == null) return;
+
     _ctrl?.dispose();
     _ctrl = LeaderboardController(
       cloud: widget.cloud,
@@ -49,13 +84,9 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
     _ctrl!.addListener(() {
       if (mounted) setState(() {});
     });
-    _ctrl!.load();
-  }
-
-  @override
-  void dispose() {
-    _ctrl?.dispose();
-    super.dispose();
+    // No explicit load() needed — controller subscribes the stream in its
+    // constructor and notifies when the first snapshot arrives.
+    setState(() {});
   }
 
   @override
@@ -66,7 +97,6 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
     final uid = widget.account.user?.uid;
 
     if (uid == null) {
-      // Signed-out state (shouldn't normally be visible, but just in case).
       return Scaffold(
         appBar: AppBar(title: Text(strings.leaderboardTitle)),
         body: const SizedBox.shrink(),
@@ -89,12 +119,14 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
         currentUid: uid,
         settings: settings,
         strings: strings,
-        onRetry: _load,
+        onRetry: _startStream,
         progress: widget.progress,
       ),
     );
   }
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
 
 class _LeaderboardBody extends StatelessWidget {
   const _LeaderboardBody({
@@ -108,7 +140,7 @@ class _LeaderboardBody extends StatelessWidget {
 
   final LeaderboardController ctrl;
   final String currentUid;
-  final dynamic settings;
+  final SettingsController settings;
   final dynamic strings;
   final VoidCallback onRetry;
   final ProgressController progress;
@@ -201,7 +233,7 @@ class _LeaderboardBody extends StatelessWidget {
           ),
 
         // ---- Hint if the user is not opted in ----
-        if (!(settings.showOnLeaderboard as bool))
+        if (!settings.showOnLeaderboard)
           _OptInHint(strings: strings, scheme: scheme, theme: theme),
 
         // ---- List ----
@@ -228,6 +260,8 @@ class _LeaderboardBody extends StatelessWidget {
     );
   }
 }
+
+// ─────────────────────────────────────────────────────────────────────────────
 
 class _OwnRankBanner extends StatelessWidget {
   const _OwnRankBanner({
@@ -284,6 +318,8 @@ class _OwnRankBanner extends StatelessWidget {
   }
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+
 class _OptInHint extends StatelessWidget {
   const _OptInHint({
     required this.strings,
@@ -327,6 +363,8 @@ class _OptInHint extends StatelessWidget {
   }
 }
 
+// ─────────────────────────────────────────────────────────────────────────────
+
 class _LeaderboardTile extends StatelessWidget {
   const _LeaderboardTile({
     required this.rank,
@@ -356,10 +394,7 @@ class _LeaderboardTile extends StatelessWidget {
     } else if (rank == 2) {
       rankWidget = Icon(Icons.emoji_events, color: Colors.grey.shade400);
     } else if (rank == 3) {
-      rankWidget = Icon(
-        Icons.emoji_events,
-        color: Colors.brown.shade300,
-      );
+      rankWidget = Icon(Icons.emoji_events, color: Colors.brown.shade300);
     } else {
       rankWidget = SizedBox(
         width: 28,

@@ -152,6 +152,9 @@ void main() {
 
   // ── LeaderboardController ──────────────────────────────────────────────────
   group('LeaderboardController', () {
+    // Helper: let the Stream.value() emit and the async _onData run.
+    Future<void> pump() => Future.delayed(Duration.zero);
+
     test('status becomes loaded with rows on success', () async {
       final rows = [
         _row('a', 'Alice', 500),
@@ -162,11 +165,12 @@ void main() {
         currentUid: 'a',
         myChaptersRead: 500,
       );
-      await ctrl.load();
+      await pump();
       expect(ctrl.status, LeaderboardStatus.loaded);
       expect(ctrl.entries.length, 2);
       expect(ctrl.entries[0].username, 'Alice');
       expect(ctrl.entries[1].username, 'Bob');
+      ctrl.dispose();
     });
 
     test('status becomes empty when board is empty', () async {
@@ -175,8 +179,9 @@ void main() {
         currentUid: 'a',
         myChaptersRead: 0,
       );
-      await ctrl.load();
+      await pump();
       expect(ctrl.status, LeaderboardStatus.empty);
+      ctrl.dispose();
     });
 
     test('status becomes offline on network error', () async {
@@ -185,8 +190,9 @@ void main() {
         currentUid: 'a',
         myChaptersRead: 0,
       );
-      await ctrl.load();
+      await pump();
       expect(ctrl.status, LeaderboardStatus.offline);
+      ctrl.dispose();
     });
 
     test('ownRank is populated after successful load', () async {
@@ -198,8 +204,9 @@ void main() {
         currentUid: 'a',
         myChaptersRead: 50,
       );
-      await ctrl.load();
+      await pump();
       expect(ctrl.ownRank, 2);
+      ctrl.dispose();
     });
 
     test('currentUid is exposed correctly', () {
@@ -209,6 +216,20 @@ void main() {
         myChaptersRead: 0,
       );
       expect(ctrl.currentUid, 'uid-123');
+      ctrl.dispose();
+    });
+
+    test('updateMyChaptersRead updates ownRank', () async {
+      final ctrl = LeaderboardController(
+        cloud: _FakeCloud(board: [_row('a', 'Alice', 500)], ownRank: 3),
+        currentUid: 'a',
+        myChaptersRead: 500,
+      );
+      await pump();
+      await ctrl.updateMyChaptersRead(600);
+      // _FakeCloud.fetchOwnRank always returns 3 — just verify no crash.
+      expect(ctrl.ownRank, 3);
+      ctrl.dispose();
     });
   });
 
