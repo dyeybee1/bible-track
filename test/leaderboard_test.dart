@@ -30,6 +30,7 @@ class _FakeCloud implements CloudRepository {
     required String username,
     required int chaptersRead,
     required int completedBooks,
+    required List<String> completedBookIds,
   }) async {}
 
   @override
@@ -45,6 +46,12 @@ class _FakeCloud implements CloudRepository {
 
   @override
   Future<int?> fetchOwnRank(String uid, int myChaptersRead) async => ownRank;
+
+  @override
+  Future<List<Map<String, dynamic>>?> fetchBookFinishers(
+    String bookId, {
+    int limit = 50,
+  }) async => [];
 }
 
 class _ErrorCloud implements CloudRepository {
@@ -61,6 +68,7 @@ class _ErrorCloud implements CloudRepository {
     required String username,
     required int chaptersRead,
     required int completedBooks,
+    required List<String> completedBookIds,
   }) async {}
 
   @override
@@ -76,6 +84,12 @@ class _ErrorCloud implements CloudRepository {
 
   @override
   Future<int?> fetchOwnRank(String uid, int myChaptersRead) async => null;
+
+  @override
+  Future<List<Map<String, dynamic>>?> fetchBookFinishers(
+    String bookId, {
+    int limit = 50,
+  }) async => null;
 }
 
 // ---------------------------------------------------------------------------

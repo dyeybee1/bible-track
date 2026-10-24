@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 
+import '../../data/account_controller.dart';
 import '../../data/books_data.dart';
+import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
@@ -9,9 +11,16 @@ import '../intro/intro_screen.dart';
 import 'chapter_screen.dart';
 
 class BooksScreen extends StatefulWidget {
-  const BooksScreen({super.key, required this.progress});
+  const BooksScreen({
+    super.key,
+    required this.progress,
+    required this.account,
+    required this.cloud,
+  });
 
   final ProgressController progress;
+  final AccountController account;
+  final CloudRepository cloud;
 
   @override
   State<BooksScreen> createState() => _BooksScreenState();
@@ -104,8 +113,12 @@ class _BooksScreenState extends State<BooksScreen> {
                       read: widget.progress.readCount(b),
                       onTap: () => Navigator.of(context).push(
                         MaterialPageRoute<void>(
-                          builder: (_) =>
-                              ChapterScreen(book: b, progress: widget.progress),
+                          builder: (_) => ChapterScreen(
+                            book: b,
+                            progress: widget.progress,
+                            account: widget.account,
+                            cloud: widget.cloud,
+                          ),
                         ),
                       ),
                     );

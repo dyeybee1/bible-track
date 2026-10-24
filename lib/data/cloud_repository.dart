@@ -3,11 +3,13 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import 'sync_merge.dart';
 
 /// Talks to Cloud Firestore. Everything of one user lives in ONE document:
-///   users/{uid} = { cycle, books: { gen: {c: [...], t: ...}, ... }, username, usernameAt }
+///   users/{uid} = { cycle, books: { gen: {c: [...], t: ...}, ... },
+///                   username, usernameAt, completedEver: [...] }
 ///
 /// An optional PUBLIC document is written when the user opts in to the
 /// leaderboard:
-///   publicProfiles/{uid} = { username, chaptersRead, completedBooks, updatedAt }
+///   publicProfiles/{uid} = { username, chaptersRead, completedBooks,
+///                            completedBookIds: [...], updatedAt }
 class CloudRepository {
   CloudRepository({FirebaseFirestore? db})
     : _db = db ?? FirebaseFirestore.instance;
@@ -58,12 +60,14 @@ class CloudRepository {
     required String username,
     required int chaptersRead,
     required int completedBooks,
+    required List<String> completedBookIds,
   }) async {
     await _publicDoc(uid).set(
       {
         'username': username,
         'chaptersRead': chaptersRead,
         'completedBooks': completedBooks,
+        'completedBookIds': completedBookIds,
         'updatedAt': FieldValue.serverTimestamp(),
       },
       SetOptions(merge: true),
@@ -110,6 +114,25 @@ class CloudRepository {
           .count()
           .get();
       return (agg.count ?? 0) + 1;
+    } catch (_) {
+      return null;
+    }
+  }
+
+  /// Returns the public profiles of users who have ever finished [bookId],
+  /// limited to [limit]. Ordered by username for stable display.
+  /// Returns null on any network error.
+  Future<List<Map<String, dynamic>>?> fetchBookFinishers(
+    String bookId, {
+    int limit = 50,
+  }) async {
+    try {
+      final snap = await _db
+          .collection('publicProfiles')
+          .where('completedBookIds', arrayContains: bookId)
+          .limit(limit)
+          .get();
+      return snap.docs.map((d) => {'uid': d.id, ...d.data()}).toList();
     } catch (_) {
       return null;
     }

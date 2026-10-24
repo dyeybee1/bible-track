@@ -3,7 +3,9 @@ import 'dart:math';
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
+import '../../data/account_controller.dart';
 import '../../data/books_data.dart';
+import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
@@ -14,9 +16,16 @@ import '../books/chapter_screen.dart';
 enum _SpinScope { all, oldTestament, newTestament }
 
 class SpinnerScreen extends StatefulWidget {
-  const SpinnerScreen({super.key, required this.progress});
+  const SpinnerScreen({
+    super.key,
+    required this.progress,
+    required this.account,
+    required this.cloud,
+  });
 
   final ProgressController progress;
+  final AccountController account;
+  final CloudRepository cloud;
 
   @override
   State<SpinnerScreen> createState() => _SpinnerScreenState();
@@ -162,7 +171,12 @@ class _SpinnerScreenState extends State<SpinnerScreen>
   void _openBook(Book book) {
     Navigator.of(context).push(
       MaterialPageRoute<void>(
-        builder: (_) => ChapterScreen(book: book, progress: widget.progress),
+        builder: (_) => ChapterScreen(
+          book: book,
+          progress: widget.progress,
+          account: widget.account,
+          cloud: widget.cloud,
+        ),
       ),
     );
   }

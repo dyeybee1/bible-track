@@ -46,9 +46,17 @@ class _HomeShellState extends State<HomeShell> {
         index: _index,
         children: [
           // 0 – Books
-          BooksScreen(progress: widget.progress),
+          BooksScreen(
+            progress: widget.progress,
+            account: widget.account,
+            cloud: widget.cloud,
+          ),
           // 1 – Spin
-          SpinnerScreen(progress: widget.progress),
+          SpinnerScreen(
+            progress: widget.progress,
+            account: widget.account,
+            cloud: widget.cloud,
+          ),
           // 2 – Leaderboard
           LeaderboardScreen(
             progress: widget.progress,

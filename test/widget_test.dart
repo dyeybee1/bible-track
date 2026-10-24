@@ -50,6 +50,7 @@ class FakeCloudRepository implements CloudRepository {
     required String username,
     required int chaptersRead,
     required int completedBooks,
+    required List<String> completedBookIds,
   }) async {}
 
   @override
@@ -65,6 +66,12 @@ class FakeCloudRepository implements CloudRepository {
 
   @override
   Future<int?> fetchOwnRank(String uid, int myChaptersRead) async => null;
+
+  @override
+  Future<List<Map<String, dynamic>>?> fetchBookFinishers(
+    String bookId, {
+    int limit = 50,
+  }) async => [];
 }
 
 void main() {

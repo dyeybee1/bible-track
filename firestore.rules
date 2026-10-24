@@ -9,8 +9,9 @@ service cloud.firestore {
     }
 
     // ── Public leaderboard entries ────────────────────────────────────────────
-    // Any signed-in user may read all entries (for the top-50 list and the
-    // count() aggregate used for rank calculation).
+    // Any signed-in user may read all entries (for the top-50 list, the
+    // count() aggregate used for rank calculation, and the
+    // arrayContains query used on the chapter screen).
     // Only the document owner may create, update, or delete their own entry.
     match /publicProfiles/{uid} {
       allow read: if request.auth != null;
@@ -26,11 +27,12 @@ service cloud.firestore {
 }
 
 // ── Field-level validation for publicProfiles ─────────────────────────────────
-// chaptersRead : integer, 0 ≤ value ≤ 500 000   (73-book Bible has 1,189
-//                chapters; 500 000 ≈ 420 full Bibles, a generous ceiling)
-// completedBooks: integer, 0 ≤ value ≤ 73
-// username      : string,  2–20 characters
-// updatedAt     : server timestamp (must be present, type-checked)
+// chaptersRead    : integer, 0 ≤ value ≤ 500 000   (73-book Bible has 1 189
+//                   chapters; 500 000 ≈ 420 full Bibles, a generous ceiling)
+// completedBooks  : integer, 0 ≤ value ≤ 73
+// completedBookIds: list of strings, size ≤ 73  (one entry per canonical book)
+// username        : string,  2–20 characters
+// updatedAt       : server timestamp (must be present, type-checked)
 function _validPublicProfile(data) {
   return data.keys().hasAll(['username', 'chaptersRead', 'completedBooks', 'updatedAt'])
       && data.username is string
@@ -41,5 +43,8 @@ function _validPublicProfile(data) {
       && data.chaptersRead <= 500000
       && data.completedBooks is int
       && data.completedBooks >= 0
-      && data.completedBooks <= 73;
+      && data.completedBooks <= 73
+      && (!data.keys().hasAny(['completedBookIds'])
+          || (data.completedBookIds is list
+              && data.completedBookIds.size() <= 73));
 }

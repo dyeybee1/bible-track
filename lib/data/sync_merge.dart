@@ -31,6 +31,7 @@ class SyncState {
     required this.books,
     this.username,
     this.usernameAt = 0,
+    this.completedEver = const {},
   });
 
   /// How many times the whole Bible was finished. Progress always belongs to
@@ -40,11 +41,16 @@ class SyncState {
   final String? username;
   final int usernameAt;
 
+  /// Set of book ids ever completed by this user (across all cycles).
+  /// Merged by UNION so it can only grow.
+  final Set<String> completedEver;
+
   Map<String, dynamic> toMap() => {
     'cycle': cycle,
     'books': {for (final e in books.entries) e.key: e.value.toMap()},
     if (username != null) 'username': username,
     'usernameAt': usernameAt,
+    'completedEver': completedEver.toList(),
   };
 
   factory SyncState.fromMap(Map<String, dynamic>? data) {
@@ -53,18 +59,27 @@ class SyncState {
     final raw = data['books'];
     if (raw is Map) {
       raw.forEach((key, value) {
-        if (key is String && value is Map)
-          books[key] = BookRecord.fromMap(value);
+        if (key is String && value is Map) {
+            books[key] = BookRecord.fromMap(value);
+          }
       });
     }
     final cycle = data['cycle'];
     final name = data['username'];
     final at = data['usernameAt'];
+
+    final rawEver = data['completedEver'];
+    final completedEver = <String>{};
+    if (rawEver is List) {
+      completedEver.addAll(rawEver.whereType<String>());
+    }
+
     return SyncState(
       cycle: cycle is num ? cycle.toInt() : 0,
       books: books,
       username: name is String ? name : null,
       usernameAt: at is num ? at.toInt() : 0,
+      completedEver: completedEver,
     );
   }
 }
@@ -77,6 +92,7 @@ class SyncState {
 ///  2. For each book, the copy that was changed last wins. When both were
 ///     changed at the same moment, the chapters are combined (union).
 ///  3. The username that was changed last wins.
+///  4. completedEver is always the UNION of both sides — it can only grow.
 SyncState mergeStates(SyncState local, SyncState remote) {
   final cycle = math.max(local.cycle, remote.cycle);
   final l = local.cycle == cycle ? local.books : const <String, BookRecord>{};
@@ -110,10 +126,14 @@ SyncState mergeStates(SyncState local, SyncState remote) {
     usernameAt = local.usernameAt;
   }
 
+  // completedEver: union of both sides — never shrinks.
+  final completedEver = {...local.completedEver, ...remote.completedEver};
+
   return SyncState(
     cycle: cycle,
     books: books,
     username: username,
     usernameAt: usernameAt,
+    completedEver: completedEver,
   );
 }

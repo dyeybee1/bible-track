@@ -136,11 +136,49 @@ void main() {
       },
       username: 'Ana',
       usernameAt: 5,
+      completedEver: {'gen', 'exo'},
     );
     final back = SyncState.fromMap(state.toMap());
     expect(back.cycle, 2);
     expect(back.books['gen']!.chapters, {1, 2, 3});
     expect(back.username, 'Ana');
     expect(back.usernameAt, 5);
+    expect(back.completedEver, {'gen', 'exo'});
+  });
+
+  test('completedEver is the union of local and remote', () {
+    final local = SyncState(
+      cycle: 0,
+      books: {},
+      completedEver: {'gen', 'exo'},
+    );
+    final remote = SyncState(
+      cycle: 0,
+      books: {},
+      completedEver: {'exo', 'lev'},
+    );
+    final merged = mergeStates(local, remote);
+    expect(merged.completedEver, {'gen', 'exo', 'lev'});
+  });
+
+  test('completedEver is preserved across a cycle jump', () {
+    final local = SyncState(
+      cycle: 0,
+      books: {'gen': rec([1], 100)},
+      completedEver: {'gen'},
+    );
+    final remote = SyncState(
+      cycle: 1,
+      books: {},
+      completedEver: {'gen', 'exo'},
+    );
+    final merged = mergeStates(local, remote);
+    expect(merged.cycle, 1);
+    expect(merged.completedEver, {'gen', 'exo'}); // union, not reset
+  });
+
+  test('completedEver defaults to empty when field is absent in Firestore doc', () {
+    final state = SyncState.fromMap({'cycle': 0, 'books': {}});
+    expect(state.completedEver, isEmpty);
   });
 }

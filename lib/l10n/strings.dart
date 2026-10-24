@@ -247,5 +247,20 @@ class Strings {
       _t('Hindi ma-compute ang ranggo mo.', 'Your rank could not be computed.');
   String get leaderboardChapters => _t('kabanata', 'chapters');
   String get leaderboardTopN => _t('Top 50', 'Top 50');
-}
 
+  // ---- chapter screen: who finished this book ----
+  String get finishersTitle => _t('Mga Nakatapos', 'Finished by');
+  String finishersCount(int n) =>
+      _t('$n nakatapos', n == 1 ? '1 finished' : '$n finished');
+  String get finishersLoading => _t('Naglo-load...', 'Loading...');
+  String get finishersOffline => _t(
+    'Hindi available offline.',
+    'Not available offline.',
+  );
+  String get finishersEmpty => _t(
+    'Wala pang nakatapos ng librong ito.',
+    'No one has finished this book yet.',
+  );
+  String get finishersYou => _t('Ikaw', 'You');
+  String get finishersShowAll => _t('Tingnan lahat', 'See all');
+}

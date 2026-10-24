@@ -239,6 +239,7 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
       books: baseline,
       username: _settings.username,
       usernameAt: _settings.usernameUpdatedAt,
+      completedEver: _progress.completedEver,
     );
 
     try {
@@ -247,7 +248,12 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
           .timeout(const Duration(seconds: 20));
 
       _applying = true;
-      _progress.applyMerge(merged.cycle, merged.books, baseline);
+      _progress.applyMerge(
+        merged.cycle,
+        merged.books,
+        baseline,
+        mergedCompletedEver: merged.completedEver,
+      );
       final name = merged.username;
       if (name != null) _settings.applyRemoteUsername(name, merged.usernameAt);
       _knownUsernameAt = _settings.usernameUpdatedAt;
@@ -284,6 +290,7 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
           username: name,
           chaptersRead: _progress.chaptersReadLifetime,
           completedBooks: _progress.completedBooks,
+          completedBookIds: _progress.completedEver.toList(),
         );
       } catch (_) {
         // Non-critical; will be retried on the next sync.

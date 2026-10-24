@@ -10,13 +10,16 @@ import 'sync_merge.dart';
 /// Storage layout (one Hive box called 'progress'):
 ///   key = book id (e.g. 'gen'), value = {'c': [chapters read], 't': last change}
 ///   key = '_timesCompleted',    value = how many times the whole Bible was finished
+///   key = '_completedEver',     value = List<String> of book ids ever fully read
 ///
 /// A book that was cleared keeps an empty record (with its time), so the
 /// cloud can tell "cleared on purpose" apart from "never touched".
 class ProgressController extends ChangeNotifier {
   ProgressController(this._box) {
     for (final key in _box.keys) {
-      if (key is! String || key == _timesKey) continue;
+      if (key is! String || key == _timesKey || key == _completedEverKey) {
+        continue;
+      }
       final value = _box.get(key);
       if (value is Map) {
         final record = BookRecord.fromMap(value);
@@ -30,14 +33,34 @@ class ProgressController extends ChangeNotifier {
     }
     final times = _box.get(_timesKey);
     if (times is int) _times = times;
+
+    // Load persisted completedEver set.
+    final ever = _box.get(_completedEverKey);
+    if (ever is List) {
+      _completedEver.addAll(ever.whereType<String>());
+    }
+
+    // Back-fill: if a book is currently fully read but not in _completedEver
+    // yet (first launch after the feature was added), add it now.
+    for (final book in allBooks) {
+      if (_isCurrentlyCompleted(book) && !_completedEver.contains(book.id)) {
+        _completedEver.add(book.id);
+      }
+    }
+    _persistCompletedEver();
   }
 
   static const String _timesKey = '_timesCompleted';
+  static const String _completedEverKey = '_completedEver';
 
   final Box<dynamic> _box;
   final Map<String, Set<int>> _read = {};
   final Map<String, int> _stamp = {};
   int _times = 0;
+
+  /// Book ids that the user has EVER fully read (across all cycles).
+  /// Never shrinks — not cleared by startNewCycle or clearBook.
+  final Set<String> _completedEver = {};
 
   // ---- reading ----
 
@@ -45,7 +68,9 @@ class ProgressController extends ChangeNotifier {
 
   int readCount(Book b) => chaptersRead(b.id).length;
 
-  bool isCompleted(Book b) => readCount(b) >= b.totalChapters;
+  bool _isCurrentlyCompleted(Book b) => readCount(b) >= b.totalChapters;
+
+  bool isCompleted(Book b) => _isCurrentlyCompleted(b);
 
   double progress(Book b) =>
       b.totalChapters == 0 ? 0 : readCount(b) / b.totalChapters;
@@ -71,13 +96,18 @@ class ProgressController extends ChangeNotifier {
 
   bool get allBooksCompleted => completedBooks == allBooks.length;
 
+  /// Set of book ids the user has fully read at any point (across all cycles).
+  /// Never cleared — monotonically grows. Used for the "who finished this
+  /// book" feature on the chapter screen.
+  Set<String> get completedEver => Set.unmodifiable(_completedEver);
+
   // ---- changing ----
 
   void toggleChapter(Book b, int chapter) {
     if (chapter < 1 || chapter > b.totalChapters) return;
     final set = _read.putIfAbsent(b.id, () => <int>{});
     if (!set.remove(chapter)) set.add(chapter);
-    _save(b);
+    _afterWrite(b);
   }
 
   /// Marks chapters 1..[chapter] as read.
@@ -87,18 +117,20 @@ class ProgressController extends ChangeNotifier {
     for (var c = 1; c <= last; c++) {
       set.add(c);
     }
-    _save(b);
+    _afterWrite(b);
   }
 
   void markAll(Book b) => markUpTo(b, b.totalChapters);
 
   void clearBook(Book b) {
     _read[b.id] = <int>{};
+    // completedEver is intentionally NOT touched here.
     _save(b);
   }
 
   /// Only works when every book is finished: adds 1 to the "times completed"
   /// counter and makes every book unread again.
+  /// completedEver is NOT cleared — it persists across cycles.
   void startNewCycle() {
     if (!allBooksCompleted) return;
     _wipeBooks();
@@ -122,8 +154,9 @@ class ProgressController extends ChangeNotifier {
   bool applyMerge(
     int cycle,
     Map<String, BookRecord> merged,
-    Map<String, BookRecord> baseline,
-  ) {
+    Map<String, BookRecord> baseline, {
+    Set<String>? mergedCompletedEver,
+  }) {
     var changed = false;
 
     final cycleJumped = cycle > _times;
@@ -159,6 +192,14 @@ class ProgressController extends ChangeNotifier {
       changed = true;
     }
 
+    // Merge completedEver (union) if provided by the cloud.
+    if (mergedCompletedEver != null &&
+        !mergedCompletedEver.every(_completedEver.contains)) {
+      _completedEver.addAll(mergedCompletedEver);
+      _persistCompletedEver();
+      changed = true;
+    }
+
     if (changed) notifyListeners();
     return changed;
   }
@@ -168,6 +209,8 @@ class ProgressController extends ChangeNotifier {
     _wipeBooks();
     _times = 0;
     _box.delete(_timesKey);
+    _completedEver.clear();
+    _box.delete(_completedEverKey);
     notifyListeners();
   }
 
@@ -181,6 +224,19 @@ class ProgressController extends ChangeNotifier {
 
   void _persist(String id) {
     _box.put(id, BookRecord(_read[id] ?? <int>{}, _stamp[id] ?? 0).toMap());
+  }
+
+  void _persistCompletedEver() {
+    _box.put(_completedEverKey, _completedEver.toList());
+  }
+
+  // Called after any chapter write — persists the book and updates completedEver.
+  void _afterWrite(Book b) {
+    _save(b);
+    if (_isCurrentlyCompleted(b) && _completedEver.add(b.id)) {
+      _persistCompletedEver();
+      // notifyListeners already called by _save; no double-notify needed.
+    }
   }
 
   // A book is "completed" automatically when every chapter is in the set,
