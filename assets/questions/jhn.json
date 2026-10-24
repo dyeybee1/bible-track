@@ -1,0 +1,1021 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How does the Gospel of John begin, describing who Jesus is?",
+          "fil": "Paano nagsisimula ang Ebanghelyo ni Juan, na inilalarawan kung sino si Jesus?"
+        },
+        "options": {
+          "en": ["With a list of Jesus' ancestors going back to Abraham", "By declaring that in the beginning was the Word, and the Word was with God and was God", "With the story of John the Baptist's birth"],
+          "fil": ["Sa isang listahan ng mga ninuno ni Jesus na umaabot kay Abraham", "Sa pagdeklara na sa simula ay naroon na ang Salita, at ang Salita ay kasama ng Diyos at ang Salita ay Diyos", "Sa kwento ng kapanganakan ni Juan Bautista"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 1:1 — John opens uniquely with a theological prologue: 'In the beginning was the Word, and the Word was with God, and the Word was God.'",
+          "fil": "Juan 1:1 — Natatanging nagsisimula si Juan sa isang teolohikal na paunang salita: 'Sa simula ay naroon na ang Salita, at ang Salita ay kasama ng Diyos, at ang Salita ay Diyos.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What was John the Baptist's main role according to this chapter?",
+          "fil": "Ano ang pangunahing papel ni Juan Bautista ayon sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["To be the light of the world", "To be a witness so that everyone might believe through him", "To replace the high priests in Jerusalem"],
+          "fil": ["Maging ilaw ng mundo", "Maging saksi para maniwala ang lahat sa pamamagitan niya", "Palitan ang mga punong pari sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 1:7 — John came as a witness to testify about the light so that all might believe through him.",
+          "fil": "Juan 1:7 — Dumating si Juan bilang saksi upang patotohanan ang ilaw para maniniwala ang lahat sa pamamagitan niya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did John the Baptist call Jesus when he saw him coming toward him?",
+          "fil": "Ano ang tawag ni Juan Bautista kay Jesus nang makita niya itong papalapit sa kanya?"
+        },
+        "options": {
+          "en": ["The Son of David", "The Lamb of God who takes away the sin of the world", "The greatest teacher of Israel"],
+          "fil": ["Ang Anak ni David", "Ang Kordero ng Diyos na nag-aalis ng kasalanan ng mundo", "Ang pinakadakilang guro ng Israel"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 1:29 — When John saw Jesus coming he said 'Look, the Lamb of God, who takes away the sin of the world!'",
+          "fil": "Juan 1:29 — Nang makita ni Juan si Jesus na paparating ay sinabi niya, 'Tingnan ninyo, ang Kordero ng Diyos na nag-aalis ng kasalanan ng mundo!'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to Nathanael that made Nathanael call him the Son of God and King of Israel?",
+          "fil": "Ano ang sinabi ni Jesus kay Nathanael na nagpakilala sa kanya bilang Anak ng Diyos at Hari ng Israel?"
+        },
+        "options": {
+          "en": ["He healed Nathanael's blindness on the spot", "He told Nathanael he had seen him sitting under a fig tree before Philip called him", "He gave Nathanael a vision of heaven"],
+          "fil": ["Pinagaling niya ang pagkabulag ni Nathanael sa lugar", "Sinabi niya kay Nathanael na nakita niya siya na nakaupo sa ilalim ng puno ng igos bago pa tinawag siya ni Felipe", "Binigyan niya si Nathanael ng pangitain ng langit"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 1:48-49 — Jesus said he saw Nathanael under the fig tree before Philip called him, and this amazed Nathanael into confession.",
+          "fil": "Juan 1:48-49 — Sinabi ni Jesus na nakita niya si Nathanael sa ilalim ng puno ng igos bago pa tinawag siya ni Felipe, at ito ay nagpahanga kay Nathanael na nagpahayag ng pananampalataya."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What was the occasion of Jesus' first miraculous sign in this chapter?",
+          "fil": "Ano ang okasyon ng unang himala ni Jesus sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["A healing at the temple in Jerusalem", "A wedding celebration at Cana in Galilee", "A feeding of the hungry crowd by the lake"],
+          "fil": ["Isang pagpapagaling sa templo sa Jerusalem", "Isang pagdiriwang ng kasal sa Cana ng Galilea", "Isang pagpapakain sa gutom na karamihan sa tabi ng lawa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 2:1-2 — Jesus and his disciples were invited to a wedding at Cana where he performed his first sign.",
+          "fil": "Juan 2:1-2 — Iniimbitahan si Jesus at ang kanyang mga alagad sa isang kasalan sa Cana kung saan ginawa niya ang kanyang unang himala."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus turn the water into at the wedding?",
+          "fil": "Ano ang pinalitan ni Jesus ang tubig sa kasalan?"
+        },
+        "options": {
+          "en": ["Milk", "Wine", "Oil"],
+          "fil": ["Gatas", "Alak", "Langis"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 2:9 — The master of the feast tasted the water that had been turned into wine.",
+          "fil": "Juan 2:9 — Natikman ng tagapamahala ng salu-salo ang tubig na naging alak."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus do when he went to the temple in Jerusalem for the Passover?",
+          "fil": "Ano ang ginawa ni Jesus nang pumunta siya sa templo sa Jerusalem para sa Paskuwa?"
+        },
+        "options": {
+          "en": ["He taught the crowds for three days", "He drove out the merchants and money changers, saying they had turned it into a marketplace", "He offered a sacrifice as the Law required"],
+          "fil": ["Nagturo siya sa karamihan sa loob ng tatlong araw", "Pinalayas niya ang mga mangangalakal at tagapalit ng pera, na sinasabing ginawa nilang palengke ito", "Nag-alay siya ng sakripisyo ayon sa hinihingi ng Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 2:15-16 — Jesus made a whip and drove them all out, and told those selling doves to get out of his Father's house.",
+          "fil": "Juan 2:15-16 — Gumawa si Jesus ng latigo at pinaalis silang lahat, at sinabi sa mga nagbebenta ng kalapati na lumabas sa bahay ng kanyang Ama."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who came to Jesus at night to talk with him in this chapter?",
+          "fil": "Sino ang pumunta kay Jesus sa gabi para makipag-usap sa kanya sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["A Roman centurion named Cornelius", "A Pharisee named Nicodemus, a member of the Jewish ruling council", "A scribe from the temple named Gamaliel"],
+          "fil": ["Isang Romano na senturyon na nagngangalang Cornelio", "Isang Pariseo na nagngangalang Nicodemo, miyembro ng lupon ng mga Judio", "Isang eskriba mula templo na nagngangalang Gamaliel"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 3:1-2 — Nicodemus, a Pharisee and member of the Jewish ruling council, came to Jesus at night.",
+          "fil": "Juan 3:1-2 — Si Nicodemo, isang Pariseo at miyembro ng lupon ng pamamahala ng mga Judio, ay pumunta kay Jesus sa gabi."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus tell Nicodemus was necessary to see the kingdom of God?",
+          "fil": "Ano ang sinabi ni Jesus kay Nicodemo na kinakailangan para makita ang kaharian ng Diyos?"
+        },
+        "options": {
+          "en": ["Strict keeping of all the commandments", "Being born again — born of water and the Spirit", "Building a new temple in Jerusalem"],
+          "fil": ["Mahigpit na pagsunod sa lahat ng utos", "Muling ipanganak — ipinanganak ng tubig at ng Espiritu", "Pagtatayo ng bagong templo sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 3:3,5 — Jesus said no one can see or enter the kingdom unless they are born again, born of water and the Spirit.",
+          "fil": "Juan 3:3,5 — Sinabi ni Jesus na walang makakakita o makakapasok sa kaharian maliban kung sila ay ipinanganak muli, ipinanganak ng tubig at ng Espiritu."
+        }
+      },
+      {
+        "q": {
+          "en": "What does John 3 say God did because he loved the world so much?",
+          "fil": "Ano ang sinabi ng Juan 3 na ginawa ng Diyos dahil lubos niyang minahal ang mundo?"
+        },
+        "options": {
+          "en": ["He sent angels to protect all believers", "He gave his one and only Son so that whoever believes in him will not perish but have eternal life", "He wrote the Law on the hearts of all people"],
+          "fil": ["Nagpadala siya ng mga anghel para protektahan ang lahat ng mananampalataya", "Ibinigay niya ang kanyang nag-iisang Anak para ang sinumang sumasampalataya sa kanya ay hindi mapahamak kundi magkaroon ng buhay na walang hanggan", "Isinulat niya ang Batas sa puso ng lahat ng tao"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 3:16 — 'For God so loved the world that he gave his one and only Son, that whoever believes in him shall not perish but have eternal life.'",
+          "fil": "Juan 3:16 — 'Sapagkat gayon na lamang ang pagmamahal ng Diyos sa mundo kaya ibinigay niya ang kanyang nag-iisang Anak, upang ang sinumang sumasampalataya sa kanya ay hindi mapahamak, kundi magkaroon ng buhay na walang hanggan.'"
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "With whom did Jesus have a long conversation at a well in Samaria?",
+          "fil": "Kanino nagkaroon ng mahabang pag-uusap si Jesus sa isang balon sa Samaria?"
+        },
+        "options": {
+          "en": ["A Jewish scribe passing through", "A Samaritan woman who came to draw water", "A Roman official traveling south"],
+          "fil": ["Isang Judiong eskriba na dumadaan", "Isang babaeng Samaritana na dumating para kumuha ng tubig", "Isang Romano na opisyal na naglalakbay patimog"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 4:7 — A woman from Samaria came to draw water, and Jesus spoke with her at Jacob's well.",
+          "fil": "Juan 4:7 — Isang babaeng Samaritana ang dumating para kumuha ng tubig, at nakipag-usap si Jesus sa kanya sa balon ni Jacob."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus offer the Samaritan woman that would become a spring of water welling up to eternal life?",
+          "fil": "Ano ang inaalok ni Jesus sa babaeng Samaritana na magiging bukal ng tubig na umaapaw patungo sa buhay na walang hanggan?"
+        },
+        "options": {
+          "en": ["Water from a special hidden spring", "Living water", "The water of Jacob's well purified by prayer"],
+          "fil": ["Tubig mula sa espesyal na nakatagong bukal", "Tubig na buhay", "Tubig ng balon ni Jacob na dinalisay ng panalangin"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 4:10,14 — Jesus offered 'living water' — whoever drinks it will never thirst again.",
+          "fil": "Juan 4:10,14 — Nag-alok si Jesus ng 'tubig na buhay' — ang sinumang uminom nito ay hindi na mauuhaw pa kailanman."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say true worshippers would do in a teaching unique to John's account?",
+          "fil": "Ano ang sinabi ni Jesus na gagawin ng tunay na mga sumasamba sa isang turo na natatangi sa salaysay ni Juan?"
+        },
+        "options": {
+          "en": ["Worship only in the temple in Jerusalem", "Worship the Father in spirit and in truth", "Worship on the mountain in Samaria"],
+          "fil": ["Sumamba lamang sa templo sa Jerusalem", "Sumamba sa Ama sa espiritu at sa katotohanan", "Sumamba sa bundok sa Samaria"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 4:23-24 — Jesus said true worshippers will worship the Father in the Spirit and in truth.",
+          "fil": "Juan 4:23-24 — Sinabi ni Jesus na ang tunay na mga sumasamba ay sasamba sa Ama sa Espiritu at sa katotohanan."
+        }
+      },
+      {
+        "q": {
+          "en": "What miracle did Jesus perform for a royal official in this chapter?",
+          "fil": "Anong himala ang ginawa ni Jesus para sa isang opisyal ng hari sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["He raised the official's dead wife", "He healed the official's son from a distance without traveling to see him", "He restored the official's sight"],
+          "fil": ["Binuhay niya ang patay na asawa ng opisyal", "Pinagaling niya ang anak ng opisyal mula sa malayo nang hindi bumiyahe para puntahan ito", "Ibinabalik niya ang paningin ng opisyal"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 4:46-53 — Jesus told the royal official his son would live, and the boy recovered at exactly the hour Jesus spoke.",
+          "fil": "Juan 4:46-53 — Sinabi ni Jesus sa opisyal ng hari na mabubuhay ang kanyang anak, at gumaling ang bata sa eksaktong oras na nagsalita si Jesus."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Where did Jesus heal a man who had been ill for thirty-eight years?",
+          "fil": "Saan pinagaling ni Jesus ang isang lalaki na mayroon nang tatlumpu't walong taong karamdaman?"
+        },
+        "options": {
+          "en": ["At the Pool of Siloam", "At the Pool of Bethesda near the Sheep Gate", "At the Jordan River"],
+          "fil": ["Sa Lawa ng Siloam", "Sa Lawa ng Bethesda malapit sa Pintuan ng Tupa", "Sa Ilog Jordan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 5:2-5 — The pool by the Sheep Gate called Bethesda was where Jesus healed the man who had been invalid for thirty-eight years.",
+          "fil": "Juan 5:2-5 — Ang lawa malapit sa Pintuan ng Tupa na tinatawag na Bethesda ang lugar kung saan pinagaling ni Jesus ang lalaki na may tatlumpu't walong taon nang karamdaman."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did the Jewish leaders want to kill Jesus after the healing at the pool?",
+          "fil": "Bakit nais ng mga lider ng mga Judio na patayin si Jesus pagkatapos ng pagpapagaling sa lawa?"
+        },
+        "options": {
+          "en": ["He charged money for the healing", "He had healed on the Sabbath and called God his own Father", "He spoke against the temple sacrifices"],
+          "fil": ["Humihingi siya ng bayad para sa pagpapagaling", "Nagpagaling siya sa Sabbath at tinawag ang Diyos na kanyang sariling Ama", "Nagsalita siya laban sa mga sakripisyo sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 5:16,18 — They persecuted Jesus for healing on the Sabbath, and sought to kill him for calling God his Father, making himself equal with God.",
+          "fil": "Juan 5:16,18 — Inusig nila si Jesus para sa pagpapagaling sa Sabbath, at pinagsikap nilang patayin siya para sa pagtawag sa Diyos na kanyang Ama, na ginagawang kapantay niya ang Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "In this chapter, what did Jesus say about those who hear his word and believe in God who sent him?",
+          "fil": "Sa kabanatang ito, ano ang sinabi ni Jesus tungkol sa mga nakarinig ng kanyang salita at naniniwala sa Diyos na nagpadala sa kanya?"
+        },
+        "options": {
+          "en": ["They must still keep the Law perfectly", "They have eternal life and will not be judged but have crossed from death to life", "They will need to be baptized again"],
+          "fil": ["Dapat pa rin nilang ganapin ang Batas nang perpekto", "Mayroon silang buhay na walang hanggan at hindi hahatulan kundi tumawid na mula kamatayan patungong buhay", "Kailangan nilang bautismuhan muli"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 5:24 — Jesus said whoever hears his word and believes has eternal life and will not be judged but has crossed from death to life.",
+          "fil": "Juan 5:24 — Sinabi ni Jesus na ang sinumang nakarinig ng kanyang salita at naniniwala ay mayroon nang buhay na walang hanggan at hindi hahatulan kundi tumawid na mula kamatayan patungong buhay."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What miracle did Jesus perform on the mountainside when a large crowd followed him?",
+          "fil": "Anong himala ang ginawa ni Jesus sa bundok nang sundan siya ng malaking karamihan?"
+        },
+        "options": {
+          "en": ["He healed all the sick among them", "He fed about five thousand people using a boy's five loaves and two fish", "He calmed a great storm over the sea"],
+          "fil": ["Pinagaling niya ang lahat ng may sakit sa kanila", "Pinakain niya ang mga limang libong tao gamit ang limang tinapay at dalawang isda ng isang bata", "Pinatahimik niya ang malakas na bagyo sa dagat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 6:9-11 — A boy's lunch of five barley loaves and two fish was used by Jesus to feed the crowd of about five thousand.",
+          "fil": "Juan 6:9-11 — Ang tanghalian ng isang bata na may limang tinapay na sebada at dalawang isda ay ginamit ni Jesus para pakainin ang karamihang mga limang libo."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus declare himself to be in the famous 'I Am' teaching of this chapter?",
+          "fil": "Ano ang idineklara ni Jesus na siya sa tanyag na turo na 'Ako Ang' sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["The living water", "The bread of life", "The light of the world"],
+          "fil": ["Ang tubig na buhay", "Ang tinapay ng buhay", "Ang ilaw ng mundo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 6:35 — Jesus declared 'I am the bread of life. Whoever comes to me will never go hungry.'",
+          "fil": "Juan 6:35 — Idineklara ni Jesus, 'Ako ang tinapay ng buhay. Ang lumalapit sa akin ay hindi na magugutom pa.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What happened when Jesus walked on the water to reach his disciples' boat?",
+          "fil": "Ano ang nangyari nang lumakad si Jesus sa tubig para marating ang bangka ng kanyang mga alagad?"
+        },
+        "options": {
+          "en": ["The disciples were glad and rowed toward him", "They were frightened, but Jesus said 'It is I; do not be afraid,' then the boat immediately reached land", "He called out to them from afar until they returned"],
+          "fil": ["Nagalak ang mga alagad at humugot patungo sa kanya", "Natakot sila, ngunit sinabi ni Jesus, 'Ako ito; huwag kayong matakot,' at agad na nakarating ang bangka sa pampang", "Tinawag niya sila mula sa malayo hanggang bumalik sila"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 6:19-21 — The disciples were afraid, but Jesus said 'It is I; do not be afraid.' Then they were willing to take him into the boat, and immediately the boat reached land.",
+          "fil": "Juan 6:19-21 — Natakot ang mga alagad, ngunit sinabi ni Jesus, 'Ako ito; huwag kayong matakot.' Pagkatapos ay handang-handa silang tanggapin siya sa bangka, at agad na nakarating ang bangka sa pampang."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Where was Jesus teaching when some people tried to arrest him during the Festival of Tabernacles?",
+          "fil": "Saan nagtuturo si Jesus nang subukan ng ilang tao na arestuhin siya sa panahon ng Pista ng mga Tolda?"
+        },
+        "options": {
+          "en": ["In a private home in Bethany", "In the temple courts in Jerusalem", "On the Mount of Olives"],
+          "fil": ["Sa isang pribadong tahanan sa Bethania", "Sa looban ng templo sa Jerusalem", "Sa Bundok ng mga Olibo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 7:14,28 — Jesus went up to the temple courts and began to teach there during the festival.",
+          "fil": "Juan 7:14,28 — Pumunta si Jesus sa looban ng templo at nagsimulang magturo roon sa panahon ng pista."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about anyone who is thirsty in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa sinumang nauuhaw sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["They should fast and pray for rain", "Let them come to him and drink, and rivers of living water would flow from within them", "They should travel to the Pool of Bethesda"],
+          "fil": ["Dapat silang mag-ayuno at manalangin para sa ulan", "Lumapit sila sa kanya at uminom, at ilog ng tubig na buhay ay aagos mula sa kanila", "Dapat silang maglakbay sa Lawa ng Bethesda"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 7:37-38 — Jesus stood and said 'Let anyone who is thirsty come to me and drink. Rivers of living water will flow from within them.'",
+          "fil": "Juan 7:37-38 — Tumayo si Jesus at sinabi, 'Ang sinumang nauuhaw ay lumapit sa akin at uminom. Mga ilog ng tubig na buhay ay aagos mula sa kanya.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Nicodemus say in defense of Jesus when the chief priests and Pharisees discussed arresting him?",
+          "fil": "Ano ang sinabi ni Nicodemo para depensahan si Jesus nang talakayin ng mga punong pari at Pariseo ang pag-aresto sa kanya?"
+        },
+        "options": {
+          "en": ["He said Jesus should be honored in the temple", "He pointed out that their Law does not judge a person without first hearing them", "He offered to testify about Jesus' miracles"],
+          "fil": ["Sinabi niya na dapat parangalan si Jesus sa templo", "Itinuro niya na ang kanilang Batas ay hindi humahatol sa isang tao nang hindi muna siya naririnig", "Nag-alok siyang magpatotoo tungkol sa mga himala ni Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 7:51 — Nicodemus asked the council 'Does our law condemn a man without first hearing him to find out what he has been doing?'",
+          "fil": "Juan 7:51 — Tinanong ni Nicodemo ang konseho, 'Humahatol ba ang ating batas sa isang tao nang hindi muna siya naririnig para malaman kung ano ang kanyang ginagawa?'"
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What did Jesus say to the woman caught in adultery after her accusers all left?",
+          "fil": "Ano ang sinabi ni Jesus sa babaeng nahuli sa pangangalunya pagkatapos umalis ang lahat ng kanyang mga akusador?"
+        },
+        "options": {
+          "en": ["He told her to make a sacrifice at the temple", "He said neither did he condemn her, and she should go and sin no more", "He told her to confess to the chief priests"],
+          "fil": ["Sinabi niya sa kanya na gumawa ng sakripisyo sa templo", "Sinabi niya na hindi rin niya siya hinahatulan, at dapat siyang pumunta at huwag nang magkasala pa", "Sinabi niya sa kanya na kumpisalin sa mga punong pari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 8:11 — Jesus said 'Neither do I condemn you. Go now and leave your life of sin.'",
+          "fil": "Juan 8:11 — Sinabi ni Jesus, 'Hindi rin kita hinahatulan. Humayo ka ngayon at huwag nang magkasala pa.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus declare himself to be in another 'I Am' teaching in this chapter?",
+          "fil": "Ano ang idineklara ni Jesus na siya sa isa pang turo na 'Ako Ang' sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["The gate of the sheep", "The light of the world", "The resurrection and the life"],
+          "fil": ["Ang pintuan ng mga tupa", "Ang ilaw ng mundo", "Ang muling pagkabuhay at ang buhay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 8:12 — Jesus declared 'I am the light of the world. Whoever follows me will never walk in darkness.'",
+          "fil": "Juan 8:12 — Idineklara ni Jesus, 'Ako ang ilaw ng mundo. Ang sumusunod sa akin ay hindi lalakad sa kadiliman.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say the truth would do for those who hold to his teaching?",
+          "fil": "Ano ang sinabi ni Jesus na gagawin ng katotohanan sa mga sumusunod sa kanyang turo?"
+        },
+        "options": {
+          "en": ["It would make them rulers of Israel", "It would set them free", "It would give them long life on earth"],
+          "fil": ["Gagawin silang mga tagapamuno ng Israel", "Palayain sila", "Bibigyan sila ng mahabang buhay sa lupa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 8:32 — 'Then you will know the truth, and the truth will set you free.'",
+          "fil": "Juan 8:32 — 'Kung gayon, malalaman ninyo ang katotohanan, at ang katotohanan ay magpapalaya sa inyo.'"
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What was unique about the man Jesus healed of blindness in this chapter?",
+          "fil": "Ano ang natatangi tungkol sa lalaking pinagaling ni Jesus sa pagkabulag sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["He had been blind for ten years due to illness", "He had been blind from birth", "He lost his sight in an accident"],
+          "fil": ["Bulag siya sa loob ng sampung taon dahil sa karamdaman", "Bulag siya mula pa nang ipanganak", "Nawalan siya ng paningin sa isang aksidente"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 9:1 — As Jesus walked along he saw a man blind from birth.",
+          "fil": "Juan 9:1 — Habang lumalakad si Jesus ay nakita niya ang isang lalaki na bulag mula pa nang ipanganak."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus heal the blind man?",
+          "fil": "Paano pinagaling ni Jesus ang bulag na lalaki?"
+        },
+        "options": {
+          "en": ["He simply touched the man's eyes", "He made mud with saliva, put it on the man's eyes, and told him to wash in the Pool of Siloam", "He spoke a word from a distance without touching him"],
+          "fil": ["Simpleng hinipo niya ang mga mata ng lalaki", "Gumawa siya ng putik gamit ang laway, inilagay ito sa mga mata ng lalaki, at sinabi sa kanya na maghugas sa Lawa ng Siloam", "Nagsalita siya mula sa malayo nang hindi niya ito hinipo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 9:6-7 — Jesus spat on the ground, made mud, and put it on the man's eyes, then sent him to wash in the Pool of Siloam.",
+          "fil": "Juan 9:6-7 — Dumura si Jesus sa lupa, gumawa ng putik, at inilagay ito sa mga mata ng lalaki, pagkatapos ay pinapunta siya sa Lawa ng Siloam para maghugas."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the healed man respond when Jesus asked if he believed in the Son of Man?",
+          "fil": "Paano tumugon ang pinagaling na lalaki nang tanungin siya ni Jesus kung naniniwala siya sa Anak ng Tao?"
+        },
+        "options": {
+          "en": ["He said he was not sure yet", "He asked who the Son of Man was, then believed and worshipped Jesus", "He returned to tell the Pharisees first"],
+          "fil": ["Sinabi niyang hindi pa siya sigurado", "Tinanong niya kung sino ang Anak ng Tao, pagkatapos ay naniwala siya at sumamba kay Jesus", "Bumalik siya muna para sabihin sa mga Pariseo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 9:35-38 — The man asked who the Son of Man was; Jesus said it was he, and the man said 'Lord, I believe' and worshipped him.",
+          "fil": "Juan 9:35-38 — Tinanong ng lalaki kung sino ang Anak ng Tao; sinabi ni Jesus na siya iyon, at sinabi ng lalaki, 'Panginoon, sumasampalataya ako' at sumamba siya sa kanya."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What 'I Am' declaration did Jesus make at the start of this chapter?",
+          "fil": "Anong deklarasyong 'Ako Ang' ang ginawa ni Jesus sa simula ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["'I am the bread of life'", "'I am the gate for the sheep'", "'I am the vine'"],
+          "fil": ["'Ako ang tinapay ng buhay'", "'Ako ang pintuan ng mga tupa'", "'Ako ang puno ng ubas'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 10:7 — Jesus said 'I am the gate for the sheep. Whoever enters through me will be saved.'",
+          "fil": "Juan 10:7 — Sinabi ni Jesus, 'Ako ang pintuan ng mga tupa. Ang sinumang pumapasok sa pamamagitan ko ay maliligtas.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say a good shepherd does for his sheep that a hired hand does not?",
+          "fil": "Ano ang sinabi ni Jesus na ginagawa ng mabuting pastol para sa kanyang mga tupa na hindi ginagawa ng isang upahang manggagawa?"
+        },
+        "options": {
+          "en": ["He gives them the finest grass to eat", "He lays down his life for the sheep", "He counts them three times every day"],
+          "fil": ["Binibigyan niya sila ng pinakamainam na damo", "Ibinibigay niya ang kanyang buhay para sa mga tupa", "Binibilang niya sila tatlong beses bawat araw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 10:11 — 'I am the good shepherd. The good shepherd lays down his life for the sheep.'",
+          "fil": "Juan 10:11 — 'Ako ang mabuting pastol. Ibinibigay ng mabuting pastol ang kanyang buhay para sa mga tupa.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the eternal security of his sheep?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa walang hanggang kaligtasan ng kanyang mga tupa?"
+        },
+        "options": {
+          "en": ["They may still be snatched if they disobey", "No one can snatch them out of his hand or out of the Father's hand", "Only the most faithful will be kept safe"],
+          "fil": ["Maaari pa ring agawin sila kung sila ay sumusuway", "Walang sinuman ang maaaring agawin sila sa kanyang kamay o mula sa kamay ng Ama", "Ang pinakatapat lamang ang mananatiling ligtas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 10:28-29 — Jesus said his sheep have eternal life, no one will snatch them from his hand, and no one can snatch them from his Father's hand.",
+          "fil": "Juan 10:28-29 — Sinabi ni Jesus na mayroon ang kanyang mga tupa ng buhay na walang hanggan, walang sinuman ang maaaring agawin sila sa kanyang kamay, at walang sinuman ang maaaring agawin sila sa kamay ng kanyang Ama."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Who was Lazarus in this chapter?",
+          "fil": "Sino si Lazaro sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["A leader of the synagogue in Bethany", "A man whom Jesus loved, the brother of Mary and Martha", "A blind beggar outside Jerusalem"],
+          "fil": ["Isang pinuno ng sinagoga sa Bethania", "Isang lalaki na minahal ni Jesus, kapatid nina Maria at Marta", "Isang bulag na pulubi sa labas ng Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 11:1-3 — Lazarus was the brother of Mary and Martha, a man Jesus loved, who became seriously ill.",
+          "fil": "Juan 11:1-3 — Si Lazaro ay kapatid nina Maria at Marta, isang lalaki na minahal ni Jesus, na nagkasakit nang malubha."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to Martha about himself when she expressed her faith?",
+          "fil": "Ano ang sinabi ni Jesus kay Marta tungkol sa kanyang sarili nang ipahayag niya ang kanyang pananampalataya?"
+        },
+        "options": {
+          "en": ["'I am the way, the truth, and the life'", "'I am the resurrection and the life; whoever believes in me will live even if they die'", "'I am the bread of life that came down from heaven'"],
+          "fil": ["'Ako ang daan, ang katotohanan, at ang buhay'", "'Ako ang muling pagkabuhay at ang buhay; ang sinumang sumasampalataya sa akin ay mabubuhay kahit mamatay siya'", "'Ako ang tinapay ng buhay na bumaba mula sa langit'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 11:25 — Jesus said 'I am the resurrection and the life. The one who believes in me will live, even though they die.'",
+          "fil": "Juan 11:25 — Sinabi ni Jesus, 'Ako ang muling pagkabuhay at ang buhay. Ang sumasampalataya sa akin ay mabubuhay, kahit mamatay siya.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What miracle did Jesus perform at the tomb of Lazarus?",
+          "fil": "Anong himala ang ginawa ni Jesus sa libingan ni Lazaro?"
+        },
+        "options": {
+          "en": ["He prayed over the tomb and left, saying Lazarus was at peace", "He called out to Lazarus and raised him from the dead after four days in the tomb", "He healed the grief of the mourners but did not open the tomb"],
+          "fil": ["Ipinanalangin niya ang libingan at umalis, na sinasabing nasa kapayapaan si Lazaro", "Tinawag niya si Lazaro at binuhay siya mula sa mga patay pagkatapos ng apat na araw sa libingan", "Pinagaling niya ang kalungkutan ng mga nananangis ngunit hindi niya binuksan ang libingan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 11:43-44 — Jesus called in a loud voice 'Lazarus, come out!' and the dead man came out, still wrapped in burial cloths.",
+          "fil": "Juan 11:43-44 — Tumawag si Jesus nang malakas, 'Lazaro, lumabas ka!' at lumabas ang patay na lalaki, nakabalot pa rin sa kayong panglibing."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Who anointed Jesus' feet with expensive perfume and wiped them with her hair in Bethany?",
+          "fil": "Sino ang nagpahid ng mahal na pabango sa mga paa ni Jesus at pinunasan ng kanyang buhok sa Bethania?"
+        },
+        "options": {
+          "en": ["Martha, the sister of Lazarus", "Mary, the sister of Lazarus", "Mary Magdalene from Galilee"],
+          "fil": ["Si Marta, kapatid ni Lazaro", "Si Maria, kapatid ni Lazaro", "Si Maria Magdalena mula Galilea"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 12:3 — Mary took a pint of pure nard perfume, poured it on Jesus' feet and wiped his feet with her hair.",
+          "fil": "Juan 12:3 — Kinuha ni Maria ang isang pintas ng dalisay na pabango, ibinuhos ito sa mga paa ni Jesus at pinunasan ang kanyang mga paa ng kanyang buhok."
+        }
+      },
+      {
+        "q": {
+          "en": "What imagery did Jesus use to describe what would happen to himself?",
+          "fil": "Anong larawan ang ginamit ni Jesus para ilarawan kung ano ang mangyayari sa kanya?"
+        },
+        "options": {
+          "en": ["A lamp placed under a bowl", "A kernel of wheat that falls into the ground and dies, then produces many seeds", "A vine that is pruned to bear more fruit"],
+          "fil": ["Isang lampara na inilagay sa ilalim ng mangkok", "Isang butil ng trigo na nahuhulog sa lupa at namamatay, pagkatapos ay nagbubunga ng maraming butil", "Isang puno ng ubas na pinuputol para mas maraming bunga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 12:24 — Jesus said 'Unless a kernel of wheat falls to the ground and dies, it remains only a single seed. But if it dies, it produces many seeds.'",
+          "fil": "Juan 12:24 — Sinabi ni Jesus, 'Malibang ang butil ng trigo ay mahulog sa lupa at mamatay, nananatiling iisang butil lamang ito. Ngunit kung ito ay mamamatay, ito ay magbubunga ng maraming butil.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did the voice from heaven say after Jesus prayed 'Father, glorify your name'?",
+          "fil": "Ano ang sinabi ng tinig mula langit pagkatapos ipanalangin ni Jesus, 'Ama, luwalhatiin ang iyong pangalan'?"
+        },
+        "options": {
+          "en": ["Silence fell over all the crowd", "'I have glorified it, and will glorify it again'", "'Your prayer is heard; go in peace'"],
+          "fil": ["Tumahimik ang buong karamihan", "'Niluwalhati ko na ito, at luluwalhatiin ko pa ito muli'", "'Narinig ang iyong panalangin; humayo kang payapa'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 12:28 — A voice came from heaven: 'I have glorified it, and will glorify it again.'",
+          "fil": "Juan 12:28 — Isang tinig mula langit ang nagsabi: 'Niluwalhati ko na ito, at luluwalhatiin ko pa ito muli.'"
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What did Jesus do for his disciples at the beginning of the meal before the Passover?",
+          "fil": "Ano ang ginawa ni Jesus para sa kanyang mga alagad sa simula ng hapunan bago ang Paskuwa?"
+        },
+        "options": {
+          "en": ["He read from the Scriptures to them", "He washed their feet", "He served each of them the first piece of bread"],
+          "fil": ["Nagbasa siya mula sa Kasulatan para sa kanila", "Hinugasan niya ang kanilang mga paa", "Nagsilbi siya sa bawat isa sa kanila ng unang tinapay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 13:4-5 — Jesus got up from the meal, wrapped a towel around his waist, and began to wash his disciples' feet.",
+          "fil": "Juan 13:4-5 — Nagbangon si Jesus mula sa hapunan, nagbigkis ng tuwalya sa kanyang baywang, at nagsimulang hugasan ang mga paa ng kanyang mga alagad."
+        }
+      },
+      {
+        "q": {
+          "en": "What reason did Jesus give for washing the disciples' feet?",
+          "fil": "Anong dahilan ang ibinigay ni Jesus sa paghuhugas ng mga paa ng mga alagad?"
+        },
+        "options": {
+          "en": ["It was required before the Passover meal", "He gave an example: as he served them, so they should serve one another", "He was cleansing them from sin"],
+          "fil": ["Ito ay kinakailangan bago ang hapunang Paskuwa", "Nagbigay siya ng halimbawa: tulad ng kanyang paglilingkod sa kanila, ganoon din dapat silang maglingkod sa isa't isa", "Nilinis niya sila mula sa kasalanan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 13:14-15 — Jesus said they should wash one another's feet; he had set them an example to do as he had done.",
+          "fil": "Juan 13:14-15 — Sinabi ni Jesus na dapat nilang hugasan ang mga paa ng isa't isa; nagbigay siya ng halimbawa para gawin nila ang kanyang ginawa."
+        }
+      },
+      {
+        "q": {
+          "en": "What new commandment did Jesus give his disciples in this chapter?",
+          "fil": "Anong bagong utos ang ibinigay ni Jesus sa kanyang mga alagad sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Keep the Sabbath with all your heart", "Love one another as he has loved them", "Pray without ceasing in his name"],
+          "fil": ["Ganapin ang Sabbath nang buong puso", "Magmahal sa isa't isa tulad ng pagmamahal niya sa kanila", "Manalangin nang walang humpay sa kanyang pangalan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 13:34 — 'A new command I give you: Love one another. As I have loved you, so you must love one another.'",
+          "fil": "Juan 13:34 — 'Isang bagong utos ang ibinibigay ko sa inyo: Magmahal kayo sa isa't isa. Kung paanong minahal ko kayo, gayon din dapat kayong magmahal sa isa't isa.'"
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What did Jesus say to comfort his disciples about going away?",
+          "fil": "Ano ang sinabi ni Jesus para aliwin ang kanyang mga alagad tungkol sa kanyang pag-alis?"
+        },
+        "options": {
+          "en": ["He promised to send another teacher to replace him", "He said he was going to prepare a place for them and would come back to take them with him", "He told them to stay together in Jerusalem forever"],
+          "fil": ["Nangako siyang magpapadala ng ibang guro para palitan siya", "Sinabi niyang pupunta siya para maghanda ng lugar para sa kanila at babalik para isama sila sa kanya", "Sinabi niya sa kanila na manatiling magkakasama sa Jerusalem magpakailanman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 14:2-3 — Jesus said he was going to prepare a place for them, and would come back and take them to be with him.",
+          "fil": "Juan 14:2-3 — Sinabi ni Jesus na pupunta siya para maghanda ng lugar para sa kanila, at babalik at dadalhin sila para makasama siya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about himself in response to Thomas asking how they could know the way?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa kanyang sarili bilang tugon sa tanong ni Tomas kung paano nila malalaman ang daan?"
+        },
+        "options": {
+          "en": ["'I am the door of the sheep'", "'I am the way, the truth, and the life. No one comes to the Father except through me'", "'I am the bread that comes down from heaven'"],
+          "fil": ["'Ako ang pintuan ng mga tupa'", "'Ako ang daan, ang katotohanan, at ang buhay. Walang makakarating sa Ama maliban sa pamamagitan ko'", "'Ako ang tinapay na bumaba mula sa langit'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 14:6 — Jesus answered 'I am the way and the truth and the life. No one comes to the Father except through me.'",
+          "fil": "Juan 14:6 — Sumagot si Jesus, 'Ako ang daan at ang katotohanan at ang buhay. Walang makakarating sa Ama maliban sa pamamagitan ko.'"
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Jesus promise to send to be with the disciples forever after he left?",
+          "fil": "Sino ang ipinangako ni Jesus na ipapadala para manatili sa mga alagad magpakailanman pagkatapos niyang umalis?"
+        },
+        "options": {
+          "en": ["An angel of protection", "The Advocate — the Holy Spirit — who would teach them all things", "A new earthly leader for the group"],
+          "fil": ["Isang anghel ng proteksyon", "Ang Tagapagtanggol — ang Banal na Espiritu — na magtuturo sa kanila ng lahat ng bagay", "Isang bagong lider sa lupa para sa grupo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 14:16,26 — Jesus promised to send the Advocate, the Holy Spirit, who will teach them all things and remind them of everything he said.",
+          "fil": "Juan 14:16,26 — Nangako si Jesus na ipapadala niya ang Tagapagtanggol, ang Banal na Espiritu, na magtuturo sa kanila ng lahat ng bagay at magpapaalaala sa kanila ng lahat ng kanyang sinabi."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What picture did Jesus use to describe his relationship with his disciples?",
+          "fil": "Anong larawan ang ginamit ni Jesus para ilarawan ang kanyang ugnayan sa kanyang mga alagad?"
+        },
+        "options": {
+          "en": ["A shepherd and his flock of sheep", "A vine and its branches", "A father and his children"],
+          "fil": ["Isang pastol at ang kanyang kawan ng mga tupa", "Isang puno ng ubas at ang mga sanga nito", "Isang ama at ang kanyang mga anak"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 15:5 — Jesus said 'I am the vine; you are the branches. If you remain in me and I in you, you will bear much fruit.'",
+          "fil": "Juan 15:5 — Sinabi ni Jesus, 'Ako ang puno ng ubas; kayo ang mga sanga. Kung kayo ay mananatili sa akin at ako sa inyo, magbubunga kayo nang sagana.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to a branch that does not remain in Jesus, according to this chapter?",
+          "fil": "Ano ang mangyayari sa sanga na hindi nananatili kay Jesus, ayon sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["It gradually produces fewer fruits", "It is thrown away and withers, then gathered and burned", "It is replanted in better soil"],
+          "fil": ["Unti-unti itong nagbubunga nang mas kaunti", "Itinatapón ito at natutuyo, pagkatapos ay tinitipon at sinusunog", "Itinatanin muli ito sa mas mainam na lupa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 15:6 — If anyone does not remain in Jesus, they are like a branch thrown away and withered; such branches are gathered, thrown into the fire and burned.",
+          "fil": "Juan 15:6 — Ang sinumang hindi nananatili kay Jesus ay tulad ng sanga na itinapon at natuyo; ang mga sanga ay tinitipon, itinatapon sa apoy at sinusunog."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the greatest love a person can show, according to Jesus in this chapter?",
+          "fil": "Ano ang pinakamataas na pagmamahal na maaaring ipakita ng isang tao, ayon kay Jesus sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Giving all your possessions to the poor", "Laying down one's life for one's friends", "Praying for one's enemies daily"],
+          "fil": ["Ibigay ang lahat ng iyong pag-aari sa mahihirap", "Ibihin ang buhay para sa kanyang mga kaibigan", "Manalangin araw-araw para sa kanyang mga kaaway"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 15:13 — 'Greater love has no one than this: to lay down one's life for one's friends.'",
+          "fil": "Juan 15:13 — 'Walang mas dakilang pagmamahal kaysa rito: ang ibigay ang buhay para sa kanyang mga kaibigan.'"
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Why did Jesus say it was better for the disciples that he went away?",
+          "fil": "Bakit sinabi ni Jesus na mas mabuti para sa mga alagad na siya ay umalis?"
+        },
+        "options": {
+          "en": ["So they could lead others without relying on him", "Because if he did not go, the Advocate (Holy Spirit) would not come to them", "So that the Romans would stop persecuting the group"],
+          "fil": ["Para makapanguna sila sa iba nang hindi umaasa sa kanya", "Dahil kung hindi siya aalis, ang Tagapagtanggol (Banal na Espiritu) ay hindi darating sa kanila", "Para tigilan ng mga Romano ang pag-uusig sa grupo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 16:7 — Jesus said it is for their good that he goes away; unless he goes, the Advocate will not come.",
+          "fil": "Juan 16:7 — Sinabi ni Jesus na para sa kanilang kabutihan na siya ay umalis; malibang umalis siya, ang Tagapagtanggol ay hindi darating."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus promise the Holy Spirit would guide his disciples into?",
+          "fil": "Ano ang ipinangako ni Jesus na gagabayan ng Banal na Espiritu ang kanyang mga alagad?"
+        },
+        "options": {
+          "en": ["The mastery of all human languages", "All truth", "Political power over Rome"],
+          "fil": ["Kabisaan sa lahat ng wika ng tao", "Lahat ng katotohanan", "Kapangyarihang pampulitika sa Roma"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 16:13 — 'When he, the Spirit of truth, comes, he will guide you into all the truth.'",
+          "fil": "Juan 16:13 — 'Kapag dumating siya, ang Espiritu ng katotohanan, gagabayan niya kayo sa lahat ng katotohanan.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What encouraging promise did Jesus give his disciples at the end of this chapter?",
+          "fil": "Anong nakakapagpasiglang pangako ang ibinigay ni Jesus sa kanyang mga alagad sa katapusan ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["They would never face suffering if they prayed daily", "'In me you may have peace. In this world you will have trouble. But take heart! I have overcome the world'", "'Stay together and you will never be afraid'"],
+          "fil": ["Hindi sila haharapin ng pagdurusa kung sila ay magdadasal araw-araw", "'Sa akin mayroon kayong kapayapaan. Sa mundong ito ay magkakaroon kayo ng kaguluhan. Ngunit maglakas-loob kayo! Nalupig ko na ang mundo'", "'Manatiling magkakasama at hindi na kayo matatakot kailanman'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 16:33 — 'I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.'",
+          "fil": "Juan 16:33 — 'Sinabi ko sa inyo ang mga bagay na ito para sa akin ay mayroon kayong kapayapaan. Sa mundong ito ay magkakaroon kayo ng kaguluhan. Ngunit maglakas-loob kayo! Nalupig ko na ang mundo.'"
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What is John 17 often called because of its content?",
+          "fil": "Paano madalas na tinatawag ang Juan 17 dahil sa nilalaman nito?"
+        },
+        "options": {
+          "en": ["The Sermon on the Mount", "The High Priestly Prayer of Jesus", "The Great Commission"],
+          "fil": ["Ang Sermon sa Bundok", "Ang Dakilang Panalangin ni Jesus Bilang Punong Pari", "Ang Dakilang Utos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 17 is known as the High Priestly Prayer — Jesus interceded for himself, his disciples, and all future believers.",
+          "fil": "Ang Juan 17 ay kilala bilang ang Dakilang Panalangin ng Punong Pari — nagmakaawa si Jesus para sa kanyang sarili, kanyang mga alagad, at lahat ng mga maniniwala sa hinaharap."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus pray for on behalf of all his future followers?",
+          "fil": "Ano ang ipinanalangin ni Jesus para sa lahat ng kanyang mga tagasunod sa hinaharap?"
+        },
+        "options": {
+          "en": ["That they would be free from all sickness", "That they would be one, just as he and the Father are one", "That they would rule over all nations"],
+          "fil": ["Na sila ay malaya sa lahat ng karamdaman", "Na sila ay maging isa, tulad ng pagiging isa niya at ng Ama", "Na sila ay maghari sa lahat ng bansa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 17:20-21 — Jesus prayed for those who would believe through the disciples' message to be one, as he and the Father are one.",
+          "fil": "Juan 17:20-21 — Ipinanalangin ni Jesus ang mga maniniwala sa pamamagitan ng mensahe ng mga alagad na sila ay maging isa, tulad ng pagiging isa niya at ng Ama."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus define eternal life in this prayer?",
+          "fil": "Paano tinukoy ni Jesus ang buhay na walang hanggan sa panalanging ito?"
+        },
+        "options": {
+          "en": ["Living forever in a physical body on earth", "Knowing God the only true God, and Jesus Christ whom he sent", "Having great riches and health until the end of time"],
+          "fil": ["Mabuhay magpakailanman sa isang pisikal na katawan sa lupa", "Ang pagkakilala sa Diyos na nag-iisang tunay na Diyos, at kay Jesucristo na kanyang sinugo", "Pagkakaroon ng malaking kayamanan at kalusugan hanggang sa katapusan ng panahon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 17:3 — 'Now this is eternal life: that they know you, the only true God, and Jesus Christ, whom you have sent.'",
+          "fil": "Juan 17:3 — 'At ito ang buhay na walang hanggan: ang makilala nila kayo, ang nag-iisang tunay na Diyos, at si Jesucristo na inyong sinugo.'"
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Where did Judas lead the soldiers and officials to arrest Jesus?",
+          "fil": "Saan dinala ng mga sundalo at opisyal ni Judas si Jesus para arestuhin?"
+        },
+        "options": {
+          "en": ["To the house of Mary and Martha in Bethany", "To a garden across the Kidron Valley where Jesus often went with his disciples", "To the upper room where they had eaten"],
+          "fil": ["Sa bahay nina Maria at Marta sa Bethania", "Sa isang hardin sa kabilang dako ng Kidron Valley kung saan madalas pumunta si Jesus kasama ang kanyang mga alagad", "Sa itaas na silid kung saan sila kumain"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 18:1-3 — Jesus crossed the Kidron Valley with his disciples into a garden, where Judas brought the soldiers to arrest him.",
+          "fil": "Juan 18:1-3 — Tumawid si Jesus sa Kidron Valley kasama ang kanyang mga alagad patungo sa isang hardin, kung saan dinala ni Judas ang mga sundalo para arestuhin siya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say when the soldiers said they were looking for Jesus of Nazareth?",
+          "fil": "Ano ang sinabi ni Jesus nang sabihin ng mga sundalo na hinahanap nila si Jesus ng Nazareth?"
+        },
+        "options": {
+          "en": ["He stayed silent and let them take him", "'I am he' — and they drew back and fell to the ground", "'My disciples are who you want, not me'"],
+          "fil": ["Nanatili siyang tahimik at hinayaan silang dalhin siya", "'Ako nga iyon' — at nagurong sila at nabuwal sa lupa", "'Ang aking mga alagad ang hinahanap ninyo, hindi ako'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 18:5-6 — When Jesus said 'I am he,' they drew back and fell to the ground — a detail unique to John.",
+          "fil": "Juan 18:5-6 — Nang sabihin ni Jesus, 'Ako nga iyon,' nagurong sila at nabuwal sa lupa — isang detalyeng natatangi sa Juan."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus answer Pilate's question 'Are you the king of the Jews?'",
+          "fil": "Paano sinagot ni Jesus ang tanong ni Pilato, 'Ikaw ba ang hari ng mga Judio?'"
+        },
+        "options": {
+          "en": ["He said yes and declared his authority over all Rome", "He said his kingdom was not of this world; if it were, his servants would fight for him", "He refused to answer"],
+          "fil": ["Sinabi niyang oo at inihayag ang kanyang awtoridad sa buong Roma", "Sinabi niyang ang kanyang kaharian ay hindi sa mundong ito; kung gayon ay, makikipaglaban ang kanyang mga lingkod para sa kanya", "Tumanggi siyang sumagot"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 18:36 — Jesus answered 'My kingdom is not of this world. If it were, my servants would fight to prevent my arrest.'",
+          "fil": "Juan 18:36 — Sumagot si Jesus, 'Ang aking kaharian ay hindi ng mundong ito. Kung ng mundong ito ang aking kaharian, makikipaglaban ang aking mga lingkod para mapigilan ang aking pagkakaaresto.'"
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What did Pilate have placed on Jesus' head to mock him?",
+          "fil": "Ano ang ipinailagay ni Pilato sa ulo ni Jesus para siraan siya?"
+        },
+        "options": {
+          "en": ["A gold crown", "A crown of thorns", "A laurel wreath"],
+          "fil": ["Isang gintong korona", "Isang koronang tinik", "Isang kuwintas na laurel"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 19:2 — The soldiers twisted together a crown of thorns and put it on his head.",
+          "fil": "Juan 19:2 — Inihabi ng mga sundalo ang isang koronang tinik at inilagay ito sa kanyang ulo."
+        }
+      },
+      {
+        "q": {
+          "en": "What unique detail does John record about what happened when a soldier pierced Jesus' side after he died?",
+          "fil": "Anong natatanging detalye ang isinulat ni Juan tungkol sa nangyari nang tiyukin ng isang sundalo ang tagiliran ni Jesus pagkatapos niyang mamatay?"
+        },
+        "options": {
+          "en": ["A bright light came from the wound", "Blood and water came out", "Nothing came out because he was already gone"],
+          "fil": ["Isang maliwanag na liwanag ang lumabas sa sugat", "Lumabas ang dugo at tubig", "Wala ang lumabas dahil wala na siya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 19:34 — One of the soldiers pierced Jesus' side with a spear, and blood and water flowed out — a detail John specifically records.",
+          "fil": "Juan 19:34 — Isa sa mga sundalo ang tumiyak sa tagiliran ni Jesus ng sibat, at lumabas ang dugo at tubig — isang detalyeng partikular na isinulat ni Juan."
+        }
+      },
+      {
+        "q": {
+          "en": "Who helped Joseph of Arimathea prepare Jesus' body for burial?",
+          "fil": "Sino ang tumulong kay Jose ng Arimatea sa paghahanda ng katawan ni Jesus para sa paglilibing?"
+        },
+        "options": {
+          "en": ["Peter and John, the disciples", "Nicodemus, who brought a large amount of spices", "Mary Magdalene and Salome"],
+          "fil": ["Sina Pedro at Juan, ang mga alagad", "Si Nicodemo, na nagdala ng malaking dami ng mga pabango", "Sina Maria Magdalena at Salome"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 19:39 — Nicodemus, the man who had visited Jesus at night, came bringing a mixture of myrrh and aloes to help with the burial.",
+          "fil": "Juan 19:39 — Si Nicodemo, ang lalaking bumisita kay Jesus sa gabi, ay dumating na nagdadala ng pinagsamang mira at aloe para sa paglilibing."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Who was the first person to see the risen Jesus in this chapter?",
+          "fil": "Sino ang unang taong nakakita sa muling nabuhay na Jesus sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Peter, who ran to the tomb first", "The disciple whom Jesus loved", "Mary Magdalene, who met Jesus near the tomb"],
+          "fil": ["Si Pedro, na unang tumakbo sa libingan", "Ang alagad na minahal ni Jesus", "Si Maria Magdalena, na nakilala si Jesus malapit sa libingan"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Juan 20:14-16 — Mary Magdalene, weeping outside the tomb, turned around and saw Jesus standing there, and he called her by name.",
+          "fil": "Juan 20:14-16 — Si Maria Magdalena, na umiiyak sa labas ng libingan, lumingon at nakita si Jesus na nakatayo roon, at tinawag niya siya sa pangalan niya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Thomas say he needed before he would believe the other disciples' report that Jesus had risen?",
+          "fil": "Ano ang sinabi ni Tomas na kailangan niya bago siya maniniwala sa ulat ng ibang mga alagad na nabuhay si Jesus?"
+        },
+        "options": {
+          "en": ["He needed to see an angel confirm it", "He needed to see and touch Jesus' hands and side himself", "He needed three witnesses to swear an oath"],
+          "fil": ["Kailangan niyang makakita ng anghel na nagpapatunay nito", "Kailangan niyang makita at mahawakan ang mga kamay at tagiliran ni Jesus mismo", "Kailangan niyang magkaroon ng tatlong saksi na manumpa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 20:25 — Thomas said 'Unless I see the nail marks in his hands and put my finger where the nails were, I will not believe.'",
+          "fil": "Juan 20:25 — Sinabi ni Tomas, 'Malibang makita ko ang mga marka ng pako sa kanyang mga kamay at mailagay ang aking daliri kung saan naroon ang mga pako, hindi ako maniniwala.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to Thomas after showing him his hands and side?",
+          "fil": "Ano ang sinabi ni Jesus kay Tomas pagkatapos ipakita sa kanya ang kanyang mga kamay at tagiliran?"
+        },
+        "options": {
+          "en": ["'You have finally proven your loyalty'", "'Stop doubting and believe. Blessed are those who have not seen and yet have believed'", "'Now go and tell the others what you have seen'"],
+          "fil": ["'Sa wakas, napatunayan mo na ang iyong katapatan'", "'Tumigil ka sa pag-aalinlangan at maniwala. Mapalad ang mga hindi nakakita ngunit naniniwala'", "'Humayo ka ngayon at sabihin sa iba kung ano ang iyong nakita'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 20:27,29 — Jesus told Thomas to stop doubting and believe, then said 'Blessed are those who have not seen and yet have believed.'",
+          "fil": "Juan 20:27,29 — Sinabi ni Jesus kay Tomas na tumigil sa pag-aalinlangan at maniwala, pagkatapos sinabi, 'Mapalad ang mga hindi nakakita ngunit naniniwala.'"
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Where did the risen Jesus appear to seven disciples in this chapter?",
+          "fil": "Saan nagpakita ang muling nabuhay na Jesus sa pitong alagad sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["On the Mount of Olives outside Jerusalem", "At the Sea of Tiberias in Galilee", "In the upper room in Jerusalem"],
+          "fil": ["Sa Bundok ng mga Olibo sa labas ng Jerusalem", "Sa Dagat ng Tiberias sa Galilea", "Sa itaas na silid sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 21:1 — Jesus appeared to his disciples at the Sea of Tiberias (also called the Sea of Galilee).",
+          "fil": "Juan 21:1 — Nagpakita si Jesus sa kanyang mga alagad sa Dagat ng Tiberias (na tinatawag ding Dagat ng Galilea)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened when the disciples followed Jesus' instruction to cast the net on the right side of the boat?",
+          "fil": "Ano ang nangyari nang sundin ng mga alagad ang tagubilin ni Jesus na ihagis ang lambat sa kanang bahagi ng bangka?"
+        },
+        "options": {
+          "en": ["Nothing; the sea was empty that morning", "They caught so many fish they could not haul the net in", "They caught only a few more fish than before"],
+          "fil": ["Wala; walang isda ang dagat nang umaga na iyon", "Nahuli sila ng napakaraming isda na hindi nila mabuhat ang lambat", "Nahuli lamang sila ng iilang isda pa kaysa dati"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 21:6 — When they cast the net on the right side, they were unable to haul it in because of the great number of fish.",
+          "fil": "Juan 21:6 — Nang ihagis nila ang lambat sa kanang bahagi, hindi nila ito mabuhat dahil sa napakaraming isda."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus ask Peter three times near the end of this chapter?",
+          "fil": "Ano ang tatlong beses na tinanong ni Jesus kay Pedro malapit sa katapusan ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["'Will you deny me again?'", "'Do you love me?'", "'Are you ready to die for me?'"],
+          "fil": ["'Itatanggi mo ba ako ulit?'", "'Mahal mo ba ako?'", "'Handa ka na bang mamatay para sa akin?'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Juan 21:15-17 — Jesus asked Peter three times 'Do you love me?' and each time commissioned him to feed or tend his sheep.",
+          "fil": "Juan 21:15-17 — Tatlong beses na tinanong ni Jesus si Pedro, 'Mahal mo ba ako?' at sa bawat beses ay inutusan siya na pakainin o alagaan ang kanyang mga tupa."
+        }
+      }
+    ]
+  }
+}
