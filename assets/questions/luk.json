@@ -1,0 +1,1132 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "To whom does Luke address his Gospel at the very beginning?",
+          "fil": "Kanino inialay ni Lucas ang kanyang Ebanghelyo sa simula pa lamang?"
+        },
+        "options": {
+          "en": ["The twelve apostles", "Theophilus", "The churches of Galatia"],
+          "fil": ["Ang labindalawang apostol", "Si Teofilo", "Ang mga iglesiya ng Galacia"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 1:3 — Luke addressed his orderly account to Theophilus so he could be certain of the things he had been taught.",
+          "fil": "Lucas 1:3 — Inialay ni Lucas ang kanyang maayos na salaysay kay Teofilo para maging tiyak siya sa mga bagay na natutukan sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the angel Gabriel tell Mary when he appeared to her?",
+          "fil": "Ano ang sinabi ng anghel Gabriel kay Maria nang siya ay lumitaw sa kanya?"
+        },
+        "options": {
+          "en": ["That she would marry a man named Joseph immediately", "That she would conceive and give birth to a son, and must name him Jesus", "That she would lead the women of Israel in prayer"],
+          "fil": ["Na magaasawa siya agad sa isang lalaking nagngangalang Jose", "Na magdadala siya ng bata at manganganak ng isang anak na lalaki, at dapat pangalanan siyang Jesus", "Na hahantong siya sa mga babae ng Israel sa panalangin"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 1:31 — The angel told Mary she would conceive and give birth to a son and name him Jesus.",
+          "fil": "Lucas 1:31 — Sinabi ng anghel kay Maria na magdadala siya ng sanggol at manganganak ng isang anak na lalaki at pangalanan siyang Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Mary do after the angel's announcement, and what was Elizabeth's response?",
+          "fil": "Ano ang ginawa ni Maria pagkatapos ng anunsyo ng anghel, at ano ang tugon ni Elisabet?"
+        },
+        "options": {
+          "en": ["She went to Jerusalem to the temple", "She visited Elizabeth, and the baby in Elizabeth's womb leaped with joy", "She returned to her parents' home immediately"],
+          "fil": ["Pumunta siya sa Jerusalem sa templo", "Bumisita siya kay Elisabet, at ang sanggol sa sinapupunan ni Elisabet ay lumukso sa kagalakan", "Agad siyang bumalik sa tahanan ng kanyang mga magulang"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 1:41 — When Mary's greeting reached Elizabeth, the baby leaped in her womb and Elizabeth was filled with the Holy Spirit.",
+          "fil": "Lucas 1:41 — Nang marinig ni Elisabet ang bati ni Maria, lumukso ang sanggol sa kanyang sinapupunan at napuspos si Elisabet ng Banal na Espiritu."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why did Joseph and Mary travel to Bethlehem where Jesus was born?",
+          "fil": "Bakit naglakbay sina Jose at Maria sa Bethlehem kung saan ipinanganak si Jesus?"
+        },
+        "options": {
+          "en": ["They were fleeing from King Herod", "They were going for a census that required everyone to register in their ancestral town", "They were visiting Mary's relatives there"],
+          "fil": ["Tumatakas sila mula sa Haring Herodes", "Pumunta sila para sa isang senso na nangangailangan sa lahat na magrehistro sa kanilang ancestral na bayan", "Binibisita nila ang mga kamag-anak ni Maria doon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 2:1-4 — Caesar Augustus issued a decree for a census, and Joseph went to Bethlehem because he was from the house and line of David.",
+          "fil": "Lucas 2:1-4 — Nag-utos si Augusto Cesar ng isang senso, at pumunta si Jose sa Bethlehem dahil siya ay mula sa angkan at lipi ni David."
+        }
+      },
+      {
+        "q": {
+          "en": "Who were the first people the angel told about Jesus' birth?",
+          "fil": "Sino ang unang mga taong sinabihan ng anghel tungkol sa kapanganakan ni Jesus?"
+        },
+        "options": {
+          "en": ["Wise men from the East", "Shepherds watching their flocks at night in the fields", "The priests in the temple at Jerusalem"],
+          "fil": ["Mga pantas mula sa Silangan", "Mga pastol na nagbabantay ng kanilang mga kawan sa gabi sa mga bukid", "Ang mga pari sa templo sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 2:8-10 — An angel appeared to shepherds in nearby fields and announced the good news of Jesus' birth.",
+          "fil": "Lucas 2:8-10 — Isang anghel ang lumitaw sa mga pastol sa mga bukid na malapit at inanunsyo ang magandang balita ng kapanganakan ni Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the elderly prophet Simeon say when he held the infant Jesus in the temple?",
+          "fil": "Ano ang sinabi ng matandang propetang si Simeon nang hawakan niya ang sanggol na si Jesus sa templo?"
+        },
+        "options": {
+          "en": ["He prayed for Jesus to be kept safe from Herod", "He praised God, saying his eyes had seen God's salvation, a light for the Gentiles and glory for Israel", "He declared Jesus the future king of Israel in a loud voice"],
+          "fil": ["Ipinanalangin niya si Jesus na maprotektahan mula kay Herodes", "Nagpuri siya sa Diyos, na sinasabing nakita na ng kanyang mga mata ang kaligtasan ng Diyos, isang liwanag para sa mga Gentil at kaluwalhatian para sa Israel", "Idineklara niya nang malakas si Jesus bilang hinaharap na hari ng Israel"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 2:28-32 — Simeon took Jesus in his arms and praised God, saying he could now depart in peace because his eyes had seen God's salvation.",
+          "fil": "Lucas 2:28-32 — Kinuha ni Simeon si Jesus sa kanyang mga braso at nagpuri sa Diyos, na sinasabing maaari na siyang umalis nang may kapayapaan dahil nakita na ng kanyang mga mata ang kaligtasan ng Diyos."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What did John the Baptist preach as preparation for the coming of the Lord?",
+          "fil": "Ano ang ipinangaral ni Juan Bautista bilang paghahanda para sa pagdating ng Panginoon?"
+        },
+        "options": {
+          "en": ["Building a new temple in Jerusalem", "A baptism of repentance for the forgiveness of sins", "Strict fasting for forty days"],
+          "fil": ["Pagtatayo ng bagong templo sa Jerusalem", "Isang bautismo ng pagsisisi para sa kapatawaran ng mga kasalanan", "Mahigpit na pag-aayuno sa loob ng apatnapung araw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 3:3 — John went into all the country around the Jordan, preaching a baptism of repentance for the forgiveness of sins.",
+          "fil": "Lucas 3:3 — Pumunta si Juan sa buong lugar sa paligid ng Jordan, na nangangaral ng bautismo ng pagsisisi para sa kapatawaran ng mga kasalanan."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical advice did John give to the crowds, tax collectors, and soldiers who asked what they should do?",
+          "fil": "Anong praktikal na payo ang ibinigay ni Juan sa mga karamihan, maniningil ng buwis, at sundalo na nagtanong kung ano ang dapat nilang gawin?"
+        },
+        "options": {
+          "en": ["To travel to Jerusalem to offer sacrifices", "To share with those who have nothing, collect only what is required, and be content with pay", "To memorize the Law of Moses"],
+          "fil": ["Maglakbay sa Jerusalem para mag-alay ng mga sakripisyo", "Ibahagi sa mga walang wala, mangolekta lamang ng kinakailangan, at maging kontento sa sahod", "Isaulo ang Batas ni Moises"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 3:11-14 — John told people to share, tax collectors to collect no more than required, and soldiers to be content with their pay.",
+          "fil": "Lucas 3:11-14 — Sinabi ni Juan sa mga tao na magbahagi, sa mga maniningil ng buwis na huwag mangolekta nang higit sa kinakailangan, at sa mga sundalo na maging kontento sa kanilang sahod."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened immediately after Jesus was baptized?",
+          "fil": "Ano ang nangyari agad pagkatapos mabautismuhan si Jesus?"
+        },
+        "options": {
+          "en": ["He walked into the wilderness alone", "Heaven opened, the Holy Spirit descended in the form of a dove, and a voice said 'You are my Son, whom I love'", "The crowd tried to make him king"],
+          "fil": ["Pumasok siya sa ilang nag-iisa", "Nabuksan ang langit, bumaba ang Banal na Espiritu sa anyo ng isang kalapati, at isang tinig ang nagsabi, 'Ikaw ang aking Anak, na aking minahal'", "Sinubukan ng karamihan na gawing hari siya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 3:21-22 — After Jesus was baptized and while he was praying, heaven opened, the Holy Spirit descended, and God's voice was heard.",
+          "fil": "Lucas 3:21-22 — Pagkatapos mabautismuhan si Jesus at habang nananalangin siya, nabuksan ang langit, bumaba ang Banal na Espiritu, at narinig ang tinig ng Diyos."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How long was Jesus in the wilderness being tempted by the devil?",
+          "fil": "Gaano katagal si Jesus sa ilang na tinutukso ng diyablo?"
+        },
+        "options": {
+          "en": ["Seven days", "Forty days", "Three months"],
+          "fil": ["Pitong araw", "Apatnapung araw", "Tatlong buwan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 4:2 — Jesus was led by the Spirit in the wilderness for forty days, being tempted by the devil.",
+          "fil": "Lucas 4:2 — Pinamunuan ng Espiritu si Jesus sa ilang sa loob ng apatnapung araw, na tinutukso ng diyablo."
+        }
+      },
+      {
+        "q": {
+          "en": "In the synagogue at Nazareth, what Scripture passage did Jesus read and then say was fulfilled that day?",
+          "fil": "Sa sinagoga sa Nazareth, anong talata ng Kasulatan ang binasa ni Jesus at pagkatapos ay sinabi na natupad nang araw na iyon?"
+        },
+        "options": {
+          "en": ["A passage about the coming of the Messiah from Micah", "A passage from Isaiah about proclaiming good news to the poor and freedom for the oppressed", "A psalm of David about the king's glory"],
+          "fil": ["Isang talata tungkol sa pagdating ng Mesiyas mula sa Mikas", "Isang talata mula kay Isaias tungkol sa pagpapahayag ng magandang balita sa mahihirap at kalayaan para sa mga inaapi", "Isang awit ni David tungkol sa kaluwalhatian ng hari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 4:18-21 — Jesus read from Isaiah about proclaiming good news to the poor and freedom for the oppressed, then said 'Today this scripture is fulfilled in your hearing.'",
+          "fil": "Lucas 4:18-21 — Binasa ni Jesus mula kay Isaias tungkol sa pagpapahayag ng magandang balita sa mahihirap at kalayaan para sa mga inaapi, pagkatapos ay sinabi, 'Ngayon natupad ang kasulatan na ito sa inyong pakikinig.'"
+        }
+      },
+      {
+        "q": {
+          "en": "How did the people of Nazareth react when Jesus implied God's blessings were extended to Gentiles?",
+          "fil": "Paano tumugon ang mga tao sa Nazareth nang ipahiwatig ni Jesus na ang mga pagpapala ng Diyos ay ibinibigay din sa mga Gentil?"
+        },
+        "options": {
+          "en": ["They applauded and invited him to stay", "They were furious and tried to throw him off a cliff", "They wept and asked forgiveness"],
+          "fil": ["Nag-palakpak sila at imbitahan siya na manatili", "Nagalit sila at subukan siyang itapon sa bangin", "Umiyak sila at humingi ng kapatawaran"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 4:28-29 — The people were furious and drove Jesus out of town, taking him to the brow of a hill to throw him off.",
+          "fil": "Lucas 4:28-29 — Nagalit ang mga tao at pinalabas nila si Jesus sa bayan, na dinala siya sa gilid ng isang burol para itapon siya."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What miracle happened with Peter's fishing nets when he obeyed Jesus' instruction to go out into the deep?",
+          "fil": "Anong himala ang nangyari sa lambat ni Pedro nang sundin niya ang tagubilin ni Jesus na lumayo sa kailaliman?"
+        },
+        "options": {
+          "en": ["The nets came up empty as a sign to trust Jesus", "They caught such a large number of fish that the nets began to break", "They caught only a few fish but Jesus multiplied them"],
+          "fil": ["Ang mga lambat ay walang laman bilang tanda ng pagtitiwala kay Jesus", "Nakapanghuli sila ng napakaraming isda kaya nagsimulang mapunit ang mga lambat", "Nakapanghuli lamang sila ng iilang isda ngunit pinarami ni Jesus ang mga ito"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 5:6 — When they had done so, they caught such a large number of fish that their nets began to break.",
+          "fil": "Lucas 5:6 — Nang gawin nila ito, nakapanghuli sila ng napakaraming isda kaya nagsimulang mapunit ang kanilang mga lambat."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to the man suffering from leprosy who asked to be made clean?",
+          "fil": "Ano ang sinabi ni Jesus sa lalaking nagdurusa mula sa ketong na humingi na gawing malinis?"
+        },
+        "options": {
+          "en": ["'Your faith is not yet strong enough'", "'I am willing; be clean!' and immediately his leprosy left him", "'Go to the priest first and come back to me'"],
+          "fil": ["'Ang iyong pananampalataya ay hindi pa sapat na malakas'", "'Nais ko; luminis ka!' at agad na nawala ang kanyang ketong", "'Pumunta muna sa pari at bumalik sa akin'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 5:13 — Jesus reached out his hand and touched the man, saying 'I am willing; be clean!' and immediately the leprosy left him.",
+          "fil": "Lucas 5:13 — Iniunat ni Jesus ang kanyang kamay at hinipo ang lalaki, na sinasabing 'Nais ko; luminis ka!' at agad na nawala ang ketong."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to the Pharisees who grumbled that he ate with tax collectors and sinners?",
+          "fil": "Ano ang sinabi ni Jesus sa mga Pariseo na nagreklamo na kumakain siya kasama ang mga maniningil ng buwis at mga makasalanan?"
+        },
+        "options": {
+          "en": ["That God's Law permits eating with anyone", "That those who are healthy do not need a doctor — he came to call sinners to repentance", "That the sinners had already been forgiven before he arrived"],
+          "fil": ["Na pinapayagan ng Batas ng Diyos ang pagkain kasama ang sinuman", "Na ang mga malusog ay hindi nangangailangan ng doktor — dumating siya para tawagin ang mga makasalanan sa pagsisisi", "Na ang mga makasalanan ay napatawad na bago siya dumating"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 5:31-32 — Jesus replied 'It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners to repentance.'",
+          "fil": "Lucas 5:31-32 — Sumagot si Jesus, 'Hindi ang mga malusog ang nangangailangan ng doktor, kundi ang mga maysakit. Hindi ako naparito para tawagin ang mga matuwid, kundi ang mga makasalanan para sa pagsisisi.'"
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What did Jesus do in this chapter that caused conflict with the religious leaders about the Sabbath?",
+          "fil": "Ano ang ginawa ni Jesus sa kabanatang ito na nagdulot ng salungatan sa mga lider ng relihiyon tungkol sa Sabbath?"
+        },
+        "options": {
+          "en": ["He traveled on the Sabbath from city to city", "His disciples picked grain and he healed a man with a withered hand, both on the Sabbath", "He taught in two synagogues on the same Sabbath"],
+          "fil": ["Naglakbay siya sa Sabbath mula sa isang lungsod patungo sa isa pa", "Pumitas ang kanyang mga alagad ng uhay at pinagaling niya ang isang lalaki na may pilay na kamay, parehong sa Sabbath", "Nagturo siya sa dalawang sinagoga sa iisang Sabbath"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 6:1-10 — Jesus defended his disciples picking grain on the Sabbath and then healed a man's withered hand on another Sabbath.",
+          "fil": "Lucas 6:1-10 — Ipinagtanggol ni Jesus ang kanyang mga alagad na pumipitas ng uhay sa Sabbath at pagkatapos ay pinagaling ang pilay na kamay ng isang lalaki sa isa pang Sabbath."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus teach about loving enemies that is unique to Luke's Sermon on the Plain?",
+          "fil": "Ano ang itinuro ni Jesus tungkol sa pagmamahal sa mga kaaway na natatangi sa Sermon ni Lucas sa Kapatagan?"
+        },
+        "options": {
+          "en": ["He said enemies should be avoided carefully", "He said to love enemies, do good to those who hate you, and lend without expecting anything back", "He said enemies will eventually become friends if left alone"],
+          "fil": ["Sinabi niyang dapat maingat na maiwasan ang mga kaaway", "Sinabi niyang ibigin ang mga kaaway, gumawa ng mabuti sa mga nagtatampo sa inyo, at magpautang nang hindi umaasang ibabalik", "Sinabi niyang ang mga kaaway ay kalaunan ay magiging mga kaibigan kung hayaan silang mag-isa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 6:27,35 — Jesus commanded loving enemies, doing good to those who hate you, and lending without expecting repayment.",
+          "fil": "Lucas 6:27,35 — Inutusan ni Jesus ang pagmamahal sa mga kaaway, paggawa ng mabuti sa mga nagtatampo sa inyo, at pagpapautang nang hindi umaasang ibabalik."
+        }
+      },
+      {
+        "q": {
+          "en": "What parable did Jesus tell about two builders at the end of this chapter?",
+          "fil": "Anong talinhagang sinabi ni Jesus tungkol sa dalawang tagapagtayo sa katapusan ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["One built near water and one built far away", "One dug deep and built on rock, the other built on soil without a foundation — only the first withstood the flood", "One used expensive stones and one used cheap wood"],
+          "fil": ["Isa ang nagtayo malapit sa tubig at isa ay nagtayo nang malayo", "Isa ay humukay nang malalim at nagtayo sa bato, ang isa pa ay nagtayo sa lupa nang walang pundasyon — ang una lamang ang nakatagal sa baha", "Isa ang gumagamit ng mamahaling bato at isa ay gumagamit ng murang kahoy"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 6:47-49 — Jesus compared those who hear and act on his words to a man who dug deep and built on rock, whose house did not fall in the flood.",
+          "fil": "Lucas 6:47-49 — Inihambing ni Jesus ang mga nakarinig at kumikilos ayon sa kanyang mga salita sa isang lalaki na humukay nang malalim at nagtayo sa bato, na ang bahay ay hindi natumba sa baha."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What did the Roman centurion say that amazed Jesus more than anyone else in Israel?",
+          "fil": "Ano ang sinabi ng Romano na senturyon na nagpahanga kay Jesus nang higit sa sinuman sa Israel?"
+        },
+        "options": {
+          "en": ["That he believed Jesus was the Son of God", "That Jesus did not need to come in person — just say the word and the servant would be healed", "That he would give half his wealth to the poor if Jesus healed his servant"],
+          "fil": ["Na naniniwala siyang si Jesus ay Anak ng Diyos", "Na hindi na kailangang pumunta si Jesus — sabihin lamang ang salita at gagaling ang utusan", "Na ibibigay niya ang kalahati ng kanyang kayamanan sa mahihirap kung pagalingin ni Jesus ang kanyang utusan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 7:7-9 — The centurion said 'just say the word, and my servant will be healed,' and Jesus marveled at his faith.",
+          "fil": "Lucas 7:7-9 — Sinabi ng senturyon, 'sabihin lamang ang salita, at gagaling ang aking utusan,' at nagpahanga si Jesus sa kanyang pananampalataya."
+        }
+      },
+      {
+        "q": {
+          "en": "What miracle did Jesus perform at the town of Nain, unique to Luke's Gospel?",
+          "fil": "Anong himala ang ginawa ni Jesus sa bayan ng Nain, na natatangi sa Ebanghelyo ni Lucas?"
+        },
+        "options": {
+          "en": ["He healed ten lepers at the gate of the city", "He raised a widow's only son from the dead on his way to burial", "He fed four thousand people in the town square"],
+          "fil": ["Pinagaling niya ang sampung ketongin sa pintuan ng lungsod", "Binuhay niya ang nag-iisang anak ng isang balo mula sa mga patay habang ito ay dinadala sa libing", "Pinakain niya ang apat na libong tao sa plaza ng bayan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 7:12-15 — At Nain, Jesus saw a widow's only son being carried out for burial, had compassion, and raised him to life.",
+          "fil": "Lucas 7:12-15 — Sa Nain, nakita ni Jesus ang nag-iisang anak ng isang balo na dinadala para ilibing, naawa siya, at binuhay siya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the sinful woman who wept at his feet and anointed them?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa makasalanang babae na umiyak sa kanyang mga paa at pinahiran ang mga ito?"
+        },
+        "options": {
+          "en": ["That she should have repented before approaching him", "That her sins were forgiven because of her great love and faith", "That her act was inappropriate for public setting"],
+          "fil": ["Na dapat muna siyang nagsisi bago lumapit sa kanya", "Na napatawad ang kanyang mga kasalanan dahil sa kanyang dakilang pagmamahal at pananampalataya", "Na ang kanyang gawa ay hindi angkop sa pampublikong lugar"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 7:47-48,50 — Jesus said her many sins were forgiven, told her to go in peace, and praised her great love and faith.",
+          "fil": "Lucas 7:47-48,50 — Sinabi ni Jesus na napatawad ang kanyang maraming kasalanan, sinabi sa kanya na pumunta nang payapa, at pinuri ang kanyang dakilang pagmamahal at pananampalataya."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Who were the women who traveled with Jesus and the twelve in this chapter, supporting them from their own means?",
+          "fil": "Sino ang mga babae na naglakbay kasama ni Jesus at ang labindalawa sa kabanatang ito, na sumusuporta sa kanila mula sa kanilang sariling kabuhayan?"
+        },
+        "options": {
+          "en": ["Martha, Joanna, and Salome", "Mary Magdalene, Joanna, Susanna, and many others", "The mother of Jesus and her sisters"],
+          "fil": ["Sina Marta, Joanna, at Salome", "Sina Maria Magdalena, Joanna, Susana, at marami pang iba", "Ang ina ni Jesus at ang kanyang mga kapatid na babae"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 8:2-3 — Mary Magdalene, Joanna, Susanna, and many other women supported Jesus and the twelve out of their own means.",
+          "fil": "Lucas 8:2-3 — Sina Maria Magdalena, Joanna, Susana, at marami pang ibang babae ay sumuporta kay Jesus at ang labindalawa mula sa kanilang sariling kabuhayan."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus explain the meaning of the parable of the sower to his disciples?",
+          "fil": "Paano ipinaliwanag ni Jesus ang kahulugan ng talinhagang Mamamahasik sa kanyang mga alagad?"
+        },
+        "options": {
+          "en": ["The seed represents the Law, and the soils represent different nations", "The seed is God's word; the soils represent different ways people receive and hold onto it", "The sower is God, and the harvest is the final judgment"],
+          "fil": ["Ang binhi ay kumakatawan sa Batas, at ang mga lupa ay kumakatawan sa iba't ibang bansa", "Ang binhi ay ang salita ng Diyos; ang mga lupa ay kumakatawan sa iba't ibang paraan ng pagtanggap at pananatili ng mga tao sa salita", "Ang mamamahasik ay ang Diyos, at ang ani ay ang panghuling paghuhukom"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 8:11 — Jesus explained 'The seed is the word of God,' and the different soils show how people respond to it.",
+          "fil": "Lucas 8:11 — Ipinaliwanag ni Jesus, 'Ang binhi ay ang salita ng Diyos,' at ang iba't ibang lupa ay nagpapakita kung paano tumutugon ang mga tao sa salita."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened when Jesus commanded the demon-possessed man from the Gerasenes to reveal his name?",
+          "fil": "Ano ang nangyari nang inutusan ni Jesus ang taong inaalihan ng demonyo sa Gerasa na ihayag ang kanyang pangalan?"
+        },
+        "options": {
+          "en": ["The demon refused to answer", "The man said his name was Legion, because many demons had entered him", "The demon said its name was Beelzebul"],
+          "fil": ["Tumanggi ang demonyo na sumagot", "Sinabi ng lalaki na ang pangalan niya ay Lehiyon, dahil maraming demonyo ang pumasok sa kanya", "Sinabi ng demonyo na ang pangalan nito ay Beelzebul"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 8:30 — The man answered 'Legion' because many demons had entered him.",
+          "fil": "Lucas 8:30 — Sumagot ang lalaki ng 'Lehiyon' dahil maraming demonyo ang pumasok sa kanya."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What did Jesus give the twelve authority to do when he sent them out in this chapter?",
+          "fil": "Anong awtoridad ang ibinigay ni Jesus sa labindalawa nang ipadala niya sila sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Authority to collect tithes and offerings", "Power and authority to drive out all demons and to heal diseases", "Authority to teach in the synagogues"],
+          "fil": ["Awtoridad na mangolekta ng mga ikapu at mga handog", "Kapangyarihan at awtoridad na palayasin ang lahat ng demonyo at pagalingin ang mga sakit", "Awtoridad na magturo sa mga sinagoga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 9:1 — Jesus gave the twelve power and authority to drive out all demons and to cure diseases.",
+          "fil": "Lucas 9:1 — Ibinigay ni Jesus sa labindalawa ang kapangyarihan at awtoridad na palayasin ang lahat ng demonyo at pagalingin ang mga sakit."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Peter say when Jesus asked 'Who do you say I am?'",
+          "fil": "Ano ang sinabi ni Pedro nang tanungin ni Jesus, 'Sino kaya ang sinasabi ninyong ako?'"
+        },
+        "options": {
+          "en": ["A great prophet from God", "God's Messiah", "The Son of David"],
+          "fil": ["Isang dakilang propeta mula sa Diyos", "Ang Mesiyas ng Diyos", "Ang Anak ni David"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 9:20 — Peter answered 'God's Messiah.'",
+          "fil": "Lucas 9:20 — Sumagot si Pedro, 'Ang Mesiyas ng Diyos.'"
+        }
+      },
+      {
+        "q": {
+          "en": "Who appeared with Jesus on the mountain during the Transfiguration, and what were they discussing?",
+          "fil": "Sino ang lumitaw kasama ni Jesus sa bundok sa panahon ng Pagbabago ng Anyo, at ano ang kanilang pinag-uusapan?"
+        },
+        "options": {
+          "en": ["Abraham and Isaac, discussing the covenant", "Moses and Elijah, speaking about Jesus' departure which he was about to bring to fulfillment in Jerusalem", "Elijah and Elisha, discussing Israel's future"],
+          "fil": ["Sina Abraham at Isaac, na pinag-uusapan ang tipan", "Sina Moises at Elias, na nagsasalita tungkol sa pag-alis ni Jesus na malapit na niyang matupad sa Jerusalem", "Sina Elias at Eliseo, na pinag-uusapan ang kinabukasan ng Israel"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 9:30-31 — Moses and Elijah appeared in glorious splendor and spoke about Jesus' departure (his death) which he was about to bring to fulfillment at Jerusalem.",
+          "fil": "Lucas 9:30-31 — Sina Moises at Elias ay lumitaw sa maningning na kaluwalhatian at nagsalita tungkol sa pag-alis ni Jesus (ang kanyang kamatayan) na malapit na niyang matupad sa Jerusalem."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "In this chapter, how many disciples did Jesus send out ahead of him, and what were their instructions?",
+          "fil": "Sa kabanatang ito, ilang alagad ang ipinadala ni Jesus nang mauna sa kanya, at ano ang kanilang mga tagubilin?"
+        },
+        "options": {
+          "en": ["Twelve, to go only to the towns of Israel", "Seventy-two, to go ahead to every town and place he was about to visit, like lambs among wolves", "Twenty-four, to stay in Jerusalem and prepare"],
+          "fil": ["Labindalawa, para pumunta lamang sa mga bayan ng Israel", "Pitumpu't dalawa, para mauna sa bawat bayan at lugar na malapit niyang puntahan, tulad ng mga tupa sa gitna ng mga lobo", "Dalawampu't apat, para manatili sa Jerusalem at maghanda"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 10:1-3 — Jesus sent seventy-two others ahead of him in pairs to every town he was about to visit.",
+          "fil": "Lucas 10:1-3 — Nagpadala si Jesus ng pitumpu't dalawa pang iba nang mauna sa kanya nang dalawang-dalawa sa bawat bayan na malapit niyang puntahan."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the parable of the Good Samaritan a response to, according to Luke's account?",
+          "fil": "Bilang tugon sa ano ang talinhagang Mabuting Samaritano, ayon sa salaysay ni Lucas?"
+        },
+        "options": {
+          "en": ["A question about how to fast properly", "A legal expert's question 'And who is my neighbor?' after asking how to inherit eternal life", "A Pharisee's challenge to prove Jesus' teaching authority"],
+          "fil": ["Isang tanong tungkol sa tamang pag-aayuno", "Ang tanong ng isang eksperto sa batas, 'At sino ang aking kapwa?' pagkatapos magtanong kung paano magmamana ng buhay na walang hanggan", "Isang hamon ng isang Pariseo para patunayan ang awtoridad ng turo ni Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 10:29 — After Jesus told the expert to love his neighbor, the man asked 'And who is my neighbor?' which prompted the parable.",
+          "fil": "Lucas 10:29 — Pagkatapos sabihin ni Jesus sa eksperto na mahalin ang kanyang kapwa, tinanong ng lalaki, 'At sino ang aking kapwa?' na nagbunga ng talinhagang iyon."
+        }
+      },
+      {
+        "q": {
+          "en": "In the parable, what did the Samaritan do for the injured man that the priest and Levite did not?",
+          "fil": "Sa talinhagang iyon, ano ang ginawa ng Samaritano para sa sugatan na lalaki na hindi ginawa ng pari at Levita?"
+        },
+        "options": {
+          "en": ["He reported the injury to the authorities", "He bandaged the man's wounds, put him on his animal, took him to an inn, and paid for his care", "He prayed over the man and continued walking"],
+          "fil": ["Inulat niya ang pinsala sa mga awtoridad", "Binendahan niya ang sugat ng lalaki, inisakay siya sa kanyang hayop, dinala siya sa isang tuluyan, at binayaran ang pag-aalaga sa kanya", "Ipinanalangin niya ang lalaki at nagpatuloy sa paglalakad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 10:34-35 — The Samaritan bandaged the wounds, put the man on his own donkey, took him to an inn, and paid the innkeeper to care for him.",
+          "fil": "Lucas 10:34-35 — Binendahan ng Samaritano ang mga sugat, inisakay ang lalaki sa kanyang asno, dinala siya sa isang tuluyan, at binayaran ang tagatuluyan para alagaan siya."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What did Jesus teach his disciples when they asked him to teach them to pray?",
+          "fil": "Ano ang itinuro ni Jesus sa kanyang mga alagad nang hilingin nila na turuan sila kung paano manalangin?"
+        },
+        "options": {
+          "en": ["A very long prayer to be said at sunrise", "A model prayer beginning with 'Father, hallowed be your name'", "Instructions to fast before every prayer"],
+          "fil": ["Isang napakahabang panalangin na sasabihin sa pagsikat ng araw", "Isang panalanging modelo na nagsisimula sa 'Ama, banal nawa ang iyong pangalan'", "Mga tagubilin para mag-ayuno bago ang bawat panalangin"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 11:2 — Jesus taught a prayer starting with 'Father, hallowed be your name, your kingdom come.'",
+          "fil": "Lucas 11:2 — Nagturo si Jesus ng panalangin na nagsisimula sa 'Ama, banal nawa ang iyong pangalan, dumating nawa ang iyong kaharian.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say God gives to those who ask, in the teaching about prayer in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus na ibinibigay ng Diyos sa mga nagtatanong, sa turo tungkol sa panalangin sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Wisdom and long life", "The Holy Spirit to those who ask him", "Whatever they ask without condition"],
+          "fil": ["Karunungan at mahabang buhay", "Ang Banal na Espiritu sa mga nagtatanong sa kanya", "Anumang hihingin nila nang walang kondisyon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 11:13 — Jesus said the Father will give the Holy Spirit to those who ask him.",
+          "fil": "Lucas 11:13 — Sinabi ni Jesus na ang Ama ay magbibigay ng Banal na Espiritu sa mga nagtatanong sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What accusation did some in the crowd make about Jesus when he drove out a demon?",
+          "fil": "Anong akusasyon ang ginawa ng ilang tao sa karamihan tungkol kay Jesus nang palayasin niya ang isang demonyo?"
+        },
+        "options": {
+          "en": ["That he was a false prophet from Galilee", "That by Beelzebul, the prince of demons, he drove out demons", "That he had learned sorcery in Egypt"],
+          "fil": ["Na siya ay isang huwad na propeta mula Galilea", "Na sa pamamagitan ni Beelzebul, ang pinuno ng mga demonyo, pinapalabas niya ang mga demonyo", "Na natuto siya ng mahika sa Ehipto"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 11:15 — Some said 'By Beelzebul, the prince of demons, he is driving out demons.'",
+          "fil": "Lucas 11:15 — Sinabi ng ilan, 'Sa pamamagitan ni Beelzebul, ang pinuno ng mga demonyo, pinapalabas niya ang mga demonyo.'"
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What warning did Jesus give about the Pharisees in this chapter?",
+          "fil": "Anong babala ang ibinigay ni Jesus tungkol sa mga Pariseo sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Beware their fine clothes and long prayers", "Beware their yeast — which is hypocrisy — because nothing hidden will stay hidden forever", "Beware their teachings about the Sabbath"],
+          "fil": ["Mag-ingat sa kanilang magagandang damit at mahabang mga panalangin", "Mag-ingat sa kanilang lebadura — na siyang pagpapakunwari — dahil walang nakatagong bagay na mananatiling nakatago magpakailanman", "Mag-ingat sa kanilang mga turo tungkol sa Sabbath"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 12:1-2 — Jesus warned to guard against the yeast of the Pharisees, which is hypocrisy, for there is nothing hidden that will not be disclosed.",
+          "fil": "Lucas 12:1-2 — Binalaan ni Jesus na mag-ingat sa lebadura ng mga Pariseo, na siyang pagpapakunwari, dahil walang nakatagong bagay na hindi mahahayag."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus call a rich man who kept building bigger barns to store his goods?",
+          "fil": "Ano ang tawag ni Jesus sa isang mayamang lalaki na patuloy na nagtatayo ng mas malalaking imbakan para sa kanyang mga kalakal?"
+        },
+        "options": {
+          "en": ["A wise steward of God's blessings", "A fool — that very night his life would be demanded from him", "A generous soul who would inherit God's kingdom"],
+          "fil": ["Isang matalinong katiwala ng mga pagpapala ng Diyos", "Isang hangal — nang gabing iyon mismo ay hihingiin ang kanyang buhay mula sa kanya", "Isang mapagbigay na kaluluwa na magmamana ng kaharian ng Diyos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 12:20 — God called the man a fool because his life would be taken that very night.",
+          "fil": "Lucas 12:20 — Tinawag ng Diyos ang lalaki na hangal dahil hihingiin ang kanyang buhay nang gabing iyon mismo."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about seeking first God's kingdom regarding worry over food and clothing?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa paghahanap muna ng kaharian ng Diyos kaugnay ng pag-aalala tungkol sa pagkain at damit?"
+        },
+        "options": {
+          "en": ["Work hard first, then pray for God's blessing", "Do not worry because your Father knows what you need; seek his kingdom and these things will be given to you as well", "Give everything away and God will provide"],
+          "fil": ["Magsipag muna, pagkatapos ay manalangin para sa pagpapala ng Diyos", "Huwag mag-alala dahil alam ng inyong Ama ang inyong mga pangangailangan; hanapin ang kanyang kaharian at ang mga bagay na ito ay ibibigay din sa inyo", "Ibigay ang lahat at magbibigay ang Diyos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 12:30-31 — Jesus said the Father knows what is needed; seek his kingdom and all these things will be given as well.",
+          "fil": "Lucas 12:30-31 — Sinabi ni Jesus na alam ng Ama ang mga pangangailangan; hanapin ang kanyang kaharian at lahat ng mga bagay na ito ay ibibigay din."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What healing did Jesus perform in the synagogue on the Sabbath that angered the synagogue leader?",
+          "fil": "Anong pagpapagaling ang ginawa ni Jesus sa sinagoga sa Sabbath na nagpagalit sa pinuno ng sinagoga?"
+        },
+        "options": {
+          "en": ["He healed a man born blind", "He straightened a woman who had been bent over for eighteen years", "He healed a man of leprosy"],
+          "fil": ["Pinagaling niya ang isang lalaking bulag mula pa nang ipanganak", "Inituwid niya ang isang babae na yumuko nang labingwalong taon na", "Pinagaling niya ang isang lalaki mula sa ketong"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 13:11-13 — Jesus placed his hands on a woman bent over for eighteen years, and she was immediately straightened up.",
+          "fil": "Lucas 13:11-13 — Inilagay ni Jesus ang kanyang mga kamay sa isang babaeng yumuko nang labingwalong taon, at agad siyang natuwid."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say the kingdom of God was like, using a small seed and yeast?",
+          "fil": "Saan inihambing ni Jesus ang kaharian ng Diyos, gamit ang isang maliit na buto at lebadura?"
+        },
+        "options": {
+          "en": ["A mustard seed that grows into a great tree, and yeast that leavens the whole batch of dough", "A small stone that becomes a great mountain", "A single candle that lights a whole house"],
+          "fil": ["Isang butil ng mustasa na lumalaki at nagiging isang malaking puno, at lebadura na nagpapaalsahin ang buong masa", "Isang maliit na bato na nagiging isang malaking bundok", "Isang ilaw na nagliliwanag sa buong bahay"]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Lucas 13:18-21 — Jesus compared the kingdom to a mustard seed that grew into a large tree, and to yeast that worked through the whole batch of flour.",
+          "fil": "Lucas 13:18-21 — Inihambing ni Jesus ang kaharian sa isang butil ng mustasa na lumaki at naging isang malaking puno, at sa lebadura na kumikilos sa buong harina."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say about the narrow door in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa makitid na pintuan sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["It is open to everyone at any time", "Make every effort to enter through it because many will try to enter but will not be able to", "It is only for those who are Jewish"],
+          "fil": ["Ito ay bukas sa lahat sa anumang oras", "Magsikap na pumasok sa pamamagitan nito dahil marami ang susubukang pumasok ngunit hindi makakaya", "Para lamang ito sa mga Judio"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 13:24 — Jesus said 'Make every effort to enter through the narrow door, because many, I tell you, will try to enter and will not be able to.'",
+          "fil": "Lucas 13:24 — Sinabi ni Jesus, 'Magsikap na pumasok sa pamamagitan ng makitid na pintuan, dahil marami, sinasabi ko sa inyo, ang susubukang pumasok at hindi makakaya.'"
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What lesson did Jesus teach about taking seats at a banquet?",
+          "fil": "Anong aral ang itinuro ni Jesus tungkol sa pagkuha ng mga upuan sa isang piging?"
+        },
+        "options": {
+          "en": ["Sit in the middle seats so everyone can hear you", "Do not take the place of honor; sit in the lowest place so the host may honor you by asking you to move higher", "Always arrive first to get the best seat"],
+          "fil": ["Umupo sa gitna para marinig kayo ng lahat", "Huwag kunin ang lugar ng karangalan; umupo sa pinakamababang lugar para ang punong-abala ay maaaring parangalan kayo sa pamamagitan ng pagtawag sa inyong umakyat", "Palaging dumating nang mauna para makuha ang pinakamainam na upuan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 14:10 — Jesus said to take the lowest place so the host may honor you by asking you to move to a higher place.",
+          "fil": "Lucas 14:10 — Sinabi ni Jesus na umupo sa pinakamababang lugar para ang punong-abala ay maaaring parangalan kayo sa pamamagitan ng pagtawag sa inyo na pumunta sa mas mataas na lugar."
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Jesus say should be invited to a great banquet, in a teaching unique to Luke?",
+          "fil": "Sino ang sinabi ni Jesus na dapat imbitahan sa isang malaking handaan, sa isang turo na natatangi sa Lucas?"
+        },
+        "options": {
+          "en": ["Friends, family, and rich neighbors", "The poor, the crippled, the lame, and the blind — those who cannot repay", "Only those who follow the Law"],
+          "fil": ["Mga kaibigan, pamilya, at mayayamang kapitbahay", "Ang mga dukha, pilay, lumpo, at bulag — ang mga hindi makakapagsauli", "Ang mga sumusunod lamang sa Batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 14:13-14 — Jesus said when giving a banquet, invite the poor, crippled, lame, and blind who cannot repay, and you will be blessed.",
+          "fil": "Lucas 14:13-14 — Sinabi ni Jesus na sa pagdaraos ng isang piging, imbitahan ang mga dukha, pilay, lumpo, at bulag na hindi makakapagsauli, at kayo ay pagpapalain."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say a person must do to be his disciple?",
+          "fil": "Ano ang sinabi ni Jesus na dapat gawin ng isang tao para maging kanyang alagad?"
+        },
+        "options": {
+          "en": ["Learn the Torah from beginning to end", "Hate no one and love everyone equally", "Carry their cross and come after him, counting the cost like a builder or a king"],
+          "fil": ["Pag-aralan ang Torah mula simula hanggang katapusan", "Huwag magalit sa sinuman at ibigin ang lahat nang pantay-pantay", "Buhatin ang kanilang krus at sumunod sa kanya, na sinusuri ang gastos tulad ng isang tagapagtayo o isang hari"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Lucas 14:27,28-31 — Jesus said anyone who does not carry their cross cannot be his disciple, and used the parables of a builder and a king to teach counting the cost.",
+          "fil": "Lucas 14:27,28-31 — Sinabi ni Jesus na ang sinumang hindi nagdadala ng kanyang krus ay hindi maaaring maging kanyang alagad, at ginamit ang mga talinhagang ng isang tagapagtayo at isang hari para turuan ang pagsusuri ng gastos."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What happened to the lost sheep and lost coin in the first two parables of this chapter?",
+          "fil": "Ano ang nangyari sa nawawalang tupa at nawawalang piso sa unang dalawang talinhagang ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["They were never found, serving as a warning", "They were both found and there was great rejoicing in each case", "The sheep was found but the coin was lost forever"],
+          "fil": ["Hindi sila nahanap kailanman, na nagsisilbing babala", "Parehong nahanap sila at nagkaroon ng malaking kagalakan sa bawat pagkakataon", "Nahanap ang tupa ngunit ang piso ay nawala magpakailanman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 15:5-9 — The shepherd found his lost sheep and rejoiced, and the woman found her lost coin and called her friends to celebrate.",
+          "fil": "Lucas 15:5-9 — Nahanap ng pastol ang kanyang nawawalang tupa at nagdiwang, at nahanap ng babae ang kanyang nawawalang piso at tinawag ang kanyang mga kaibigan para magsaya."
+        }
+      },
+      {
+        "q": {
+          "en": "In the parable of the prodigal son, what did the younger son do with his inheritance?",
+          "fil": "Sa talinhagang ng mapag-aksayang anak, ano ang ginawa ng nakababatang anak sa kanyang mana?"
+        },
+        "options": {
+          "en": ["He invested it wisely and doubled it", "He traveled to a distant country and wasted it in wild living", "He gave it all to the poor"],
+          "fil": ["Marunong niyang inilagak ito at dinobli niya ito", "Naglakbay siya sa isang malayong bansa at nasayang niya ito sa masamang pamumuhay", "Ibinigay niya ang lahat sa mahihirap"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 15:13 — The younger son set off for a distant country and squandered his wealth in wild living.",
+          "fil": "Lucas 15:13 — Umalis ang nakababatang anak patungo sa isang malayong bansa at nasayang ang kanyang kayamanan sa masamang pamumuhay."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the father respond when he saw his returning son while he was still far away?",
+          "fil": "Paano tumugon ang ama nang makita niya ang kanyang nagbabalik na anak habang malayo pa siya?"
+        },
+        "options": {
+          "en": ["He stayed inside and waited for an apology", "He was filled with compassion, ran to his son, threw his arms around him, and kissed him", "He sent a servant to ask what the son wanted"],
+          "fil": ["Nanatili siya sa loob at naghintay ng paghingi ng tawad", "Napuspos siya ng habag, tumakbo patungo sa kanyang anak, niyakap siya, at hinalikan siya", "Nagpadala siya ng utusan para tanungin kung ano ang gusto ng anak"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 15:20 — The father saw his son from a distance, was filled with compassion, ran, threw his arms around him, and kissed him.",
+          "fil": "Lucas 15:20 — Nakita ng ama ang kanyang anak mula sa malayo, napuspos ng habag, tumakbo, niyakap siya, at hinalikan siya."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What lesson did Jesus draw from the parable of the dishonest manager in this chapter?",
+          "fil": "Anong aral ang kinuha ni Jesus mula sa talinhagang ng mapanlinlang na tagapamahala sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Dishonesty in business is sometimes necessary", "People of this world are shrewd in dealing with their own kind; use worldly wealth to gain friends for eternity", "The rich should always share with the poor immediately"],
+          "fil": ["Ang kataksilan sa negosyo ay minsan kinakailangan", "Ang mga tao ng mundong ito ay matalino sa pakikitungo sa kanilang sariling uri; gamitin ang worldly na kayamanan para makakuha ng mga kaibigan para sa kawalang hanggan", "Ang mga mayayaman ay dapat palaging magbahagi agad sa mahihirap"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 16:9 — Jesus said use worldly wealth to gain friends so that when it is gone they will welcome you into eternal dwellings.",
+          "fil": "Lucas 16:9 — Sinabi ni Jesus na gamitin ang worldly na kayamanan para makakuha ng mga kaibigan para kapag wala na ito ay tatanggapin kayo sa mga walang hanggang tirahan."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jesus say about someone who is faithful in a very little thing?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa isang tao na tapat sa isang napakaliit na bagay?"
+        },
+        "options": {
+          "en": ["They will be given more small tasks to test them further", "They can also be trusted with much; whoever is dishonest in little will be dishonest in much", "They should be promoted to handle large tasks immediately"],
+          "fil": ["Bibigyan sila ng mas maraming maliliit na gawain para subukan sila pa", "Maaari rin silang pagkatiwalaan ng malaki; ang sinumang hindi tapat sa maliit ay hindi rin tapat sa malaki", "Dapat agad silang mapromote para pangasiwain ang malalaking gawain"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 16:10 — 'Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much.'",
+          "fil": "Lucas 16:10 — 'Ang sinumang mapagkakatiwalaan sa napakaliit ay maaari ring pagkatiwalaan ng malaki, at ang sinumang hindi tapat sa napakaliit ay hindi rin tapat sa malaki.'"
+        }
+      },
+      {
+        "q": {
+          "en": "In the story of the rich man and Lazarus, what was Lazarus' condition during his life on earth?",
+          "fil": "Sa kwento ng mayamang lalaki at Lazaro, ano ang kalagayan ni Lazaro sa kanyang buhay sa lupa?"
+        },
+        "options": {
+          "en": ["He was a wealthy landowner who lost everything", "He was a poor beggar covered with sores who longed to eat the crumbs from the rich man's table", "He was a temple servant who was mistreated"],
+          "fil": ["Siya ay isang mayamang may-lupa na nawalan ng lahat", "Siya ay isang dukhamang pulubi na puno ng mga sugat na nagnanasa kumain ng mga mumo mula sa mesa ng mayamang lalaki", "Siya ay isang tagapagsilbi sa templo na inabuso"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 16:20-21 — Lazarus was a poor man covered in sores who lay at the rich man's gate, longing to eat scraps from his table.",
+          "fil": "Lucas 16:20-21 — Si Lazaro ay isang dukhamang lalaki na puno ng mga sugat na nakahandusay sa pintuan ng mayamang lalaki, na nagnanasa kumain ng mga tirang pagkain mula sa kanyang mesa."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "How many lepers did Jesus heal in this chapter, and how many returned to give thanks?",
+          "fil": "Ilang ketongin ang pinagaling ni Jesus sa kabanatang ito, at ilang ang bumalik para magpasalamat?"
+        },
+        "options": {
+          "en": ["Five healed, three returned", "Ten healed, only one returned — and he was a Samaritan", "Seven healed, two returned"],
+          "fil": ["Limang napagaling, tatlong bumalik", "Sampung napagaling, isa lamang ang bumalik — at siya ay Samaritano", "Pitong napagaling, dalawang bumalik"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 17:14-16 — Ten lepers were healed, and only one returned to praise God and thank Jesus — he was a Samaritan.",
+          "fil": "Lucas 17:14-16 — Sampung ketongin ang pinagaling, at isa lamang ang bumalik para purihin ang Diyos at magpasalamat kay Jesus — siya ay Samaritano."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say when the Pharisees asked when the kingdom of God would come?",
+          "fil": "Ano ang sinabi ni Jesus nang tanungin ng mga Pariseo kung kailan darating ang kaharian ng Diyos?"
+        },
+        "options": {
+          "en": ["It would come with great signs in the sky", "The kingdom is not coming with observable signs; it is in your midst", "It would come after the rebuilding of the temple"],
+          "fil": ["Darating ito na may malalaking tanda sa langit", "Ang kaharian ay hindi darating na may mga nakikitang tanda; nasa gitna ninyo na ito", "Darating ito pagkatapos ng muling pagtatayo ng templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 17:20-21 — Jesus said the kingdom of God does not come with careful observation; it is already in their midst.",
+          "fil": "Lucas 17:20-21 — Sinabi ni Jesus na ang kaharian ng Diyos ay hindi darating na may maingat na pagmamasid; nasa gitna na nila ito."
+        }
+      },
+      {
+        "q": {
+          "en": "What example did Jesus give about the days of Noah to describe the days before the Son of Man comes?",
+          "fil": "Anong halimbawa ang ibinigay ni Jesus tungkol sa mga araw ni Noe para ilarawan ang mga araw bago dumating ang Anak ng Tao?"
+        },
+        "options": {
+          "en": ["People were building weapons and preparing for war", "People were eating, drinking, marrying — going about normal life — until the flood came suddenly", "People were praying and fasting in the temple"],
+          "fil": ["Ang mga tao ay gumagawa ng sandata at naghahanda para sa digmaan", "Ang mga tao ay kumakain, umiinom, at nag-aasawa — nagpapatuloy sa normal na buhay — hanggang sa biglaang dumating ang baha", "Ang mga tao ay nananalangin at nag-aayuno sa templo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 17:26-27 — Just as in Noah's day people were going about ordinary life until the flood came, so it will be in the days of the Son of Man.",
+          "fil": "Lucas 17:26-27 — Tulad ng sa mga araw ni Noe na ang mga tao ay nagpapatuloy sa ordinaryong buhay hanggang sa dumating ang baha, gayon din sa mga araw ng Anak ng Tao."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What is the main lesson of the parable of the persistent widow in this chapter?",
+          "fil": "Ano ang pangunahing aral ng talinhagang ng matiyagang balo sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["The legal system always gives justice in the end", "Always pray and not give up; God will bring about justice for his chosen ones", "Persistence in prayer forces God to act"],
+          "fil": ["Ang sistemang legal ay laging nagbibigay ng katarungan sa huli", "Laging manalangin at huwag sumuko; ilalabas ng Diyos ang katarungan para sa kanyang mga pinili", "Ang pagiging matiyaga sa panalangin ay nagpipilit sa Diyos na kumilos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 18:1 — Jesus told this parable to show that they should always pray and not give up.",
+          "fil": "Lucas 18:1 — Sinabi ni Jesus ang talinhagang ito para ipakita na dapat silang palaging manalangin at huwag sumuko."
+        }
+      },
+      {
+        "q": {
+          "en": "In the parable of the Pharisee and the tax collector, whose prayer did Jesus say God heard?",
+          "fil": "Sa talinhagang ng Pariseo at maniningil ng buwis, kanino ang panalangin ang sinabi ni Jesus na narinig ng Diyos?"
+        },
+        "options": {
+          "en": ["The Pharisee, because he fasted and tithed", "The tax collector, who humbly beat his breast and asked for mercy", "Both equally, since both prayed sincerely"],
+          "fil": ["Ang Pariseo, dahil nag-ayuno siya at nagbigay ng ikapu", "Ang maniningil ng buwis, na nagpakumbaba at nagpalo ng kanyang dibdib at humingi ng habag", "Parehong pantay, dahil parehong nanalangin nang taos-puso"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 18:13-14 — Jesus said the tax collector, not the Pharisee, went home justified because the humble will be exalted.",
+          "fil": "Lucas 18:13-14 — Sinabi ni Jesus na ang maniningil ng buwis, hindi ang Pariseo, ang umuwing napawalang-sala dahil ang nagpapakumbaba ay itataas."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the blind beggar sitting by the road near Jericho cry out when Jesus passed by?",
+          "fil": "Ano ang sigaw ng bulag na pulubi na nakaupo sa tabi ng daan malapit sa Jericho nang dumaan si Jesus?"
+        },
+        "options": {
+          "en": ["'Jesus, teacher, have mercy on me!'", "'Jesus, Son of David, have mercy on me!'", "'Lord, remember me when you come into your kingdom!'"],
+          "fil": ["'Jesus, guro, mahabag ka sa akin!'", "'Jesus, Anak ni David, mahabag ka sa akin!'", "'Panginoon, alalahanin mo ako kapag dumating ka sa iyong kaharian!'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 18:38 — The blind man shouted 'Jesus, Son of David, have mercy on me!'",
+          "fil": "Lucas 18:38 — Sumigaw ang bulag, 'Jesus, Anak ni David, mahabag ka sa akin!'"
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Who was Zacchaeus and why did he climb a sycamore tree?",
+          "fil": "Sino si Zaqueo at bakit umakyat siya sa puno ng sikomoro?"
+        },
+        "options": {
+          "en": ["A synagogue leader who wanted a better view for teaching", "A chief tax collector who was short and wanted to see Jesus as he passed by", "A Pharisee who climbed to look down on the crowd"],
+          "fil": ["Isang pinuno ng sinagoga na nais ng mas magandang pananaw para magturo", "Isang punong maniningil ng buwis na maiksi at nais makita si Jesus habang dumadaan siya", "Isang Pariseo na umakyat para tumitingin pababa sa karamihan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 19:2-4 — Zacchaeus was a chief tax collector who was short and climbed a sycamore tree to see Jesus above the crowd.",
+          "fil": "Lucas 19:2-4 — Si Zaqueo ay punong maniningil ng buwis na maiksi at umakyat sa isang puno ng sikomoro para makita si Jesus sa itaas ng karamihan."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Zacchaeus promise after Jesus said he would stay at his house?",
+          "fil": "Ano ang pangako ni Zaqueo pagkatapos sabihin ni Jesus na mananatili siya sa kanyang bahay?"
+        },
+        "options": {
+          "en": ["To become a fisherman and follow Jesus", "To give half of his possessions to the poor and repay four times anyone he had cheated", "To build a new synagogue in the city"],
+          "fil": ["Maging mangingisda at sumunod kay Jesus", "Ibigay ang kalahati ng kanyang pag-aari sa mahihirap at ibalik nang apat na beses ang sinuman na niloko niya", "Magtayo ng bagong sinagoga sa lungsod"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 19:8 — Zacchaeus stood and said he would give half his possessions to the poor and repay fourfold anyone he had cheated.",
+          "fil": "Lucas 19:8 — Tumayo si Zaqueo at sinabi na ibibigay niya ang kalahati ng kanyang pag-aari sa mahihirap at ibabalik nang apat na beses ang sinuman na niloko niya."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say was his purpose when the crowd complained he was going to stay with Zacchaeus the sinner?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa kanyang layunin nang magreklamo ang karamihan na manananatili siya kasama ni Zaqueo na makasalanan?"
+        },
+        "options": {
+          "en": ["That he ate with sinners only in private settings", "That the Son of Man came to seek and save what was lost", "That Zacchaeus was no longer a sinner after their meeting"],
+          "fil": ["Na kumakain lamang siya kasama ng mga makasalanan sa mga pribadong lugar", "Na ang Anak ng Tao ay naparito para hanapin at iligtas ang mga nawawala", "Na si Zaqueo ay hindi na makasalanan pagkatapos ng kanilang pagkikita"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 19:10 — Jesus said 'The Son of Man came to seek and to save the lost.'",
+          "fil": "Lucas 19:10 — Sinabi ni Jesus, 'Ang Anak ng Tao ay naparito para hanapin at iligtas ang mga nawawala.'"
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What question did the chief priests and teachers ask Jesus in the temple to challenge him?",
+          "fil": "Anong tanong ang tinanong ng mga punong pari at mga guro kay Jesus sa templo para hamunin siya?"
+        },
+        "options": {
+          "en": ["'By what law do you teach here?'", "'By what authority are you doing these things, and who gave you this authority?'", "'Why do you not observe the Sabbath properly?'"],
+          "fil": ["'Sa anong batas ka nagtuturo dito?'", "'Sa anong awtoridad mo ginagawa ang mga bagay na ito, at sino ang nagbigay sa iyo ng awtoridad na ito?'", "'Bakit hindi mo sinusunod ang Sabbath nang maayos?'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 20:2 — The chief priests and scribes asked Jesus 'Tell us by what authority you are doing these things.'",
+          "fil": "Lucas 20:2 — Tinanong ng mga punong pari at mga eskriba si Jesus, 'Sabihin mo sa amin kung sa anong awtoridad mo ginagawa ang mga bagay na ito.'"
+        }
+      },
+      {
+        "q": {
+          "en": "How did Jesus answer the Sadducees who did not believe in resurrection and tried to trick him?",
+          "fil": "Paano sinagot ni Jesus ang mga Saduseo na hindi naniniwala sa muling pagkabuhay at sinubukang linlangin siya?"
+        },
+        "options": {
+          "en": ["He agreed with their view about marriage after death", "He said those who rise will neither marry nor be given in marriage, and that God is the God of the living, not the dead", "He said only prophets and priests would be resurrected"],
+          "fil": ["Sumasang-ayon siya sa kanilang pananaw tungkol sa kasal pagkatapos ng kamatayan", "Sinabi niya na ang mga babangon ay hindi mag-aasawa ni ipapakasal, at ang Diyos ay Diyos ng mga buhay, hindi ng mga patay", "Sinabi niya na ang mga propeta at pari lamang ang mabubuhay na muli"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 20:35-38 — Jesus said those worthy of resurrection neither marry nor are given in marriage; God is the God of the living.",
+          "fil": "Lucas 20:35-38 — Sinabi ni Jesus na ang mga karapat-dapat sa muling pagkabuhay ay hindi mag-aasawa ni ipapakasal; ang Diyos ay Diyos ng mga buhay."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus warn the people about regarding the religious teachers?",
+          "fil": "Ano ang ibinalaan ni Jesus sa mga tao tungkol sa mga lider ng relihiyon?"
+        },
+        "options": {
+          "en": ["To avoid them because they were all corrupt", "To beware of those who like flowing robes and greetings of honor, but devour widows' houses", "To listen to their teaching but not follow their lifestyle"],
+          "fil": ["Iwasan sila dahil lahat sila ay tiwali", "Mag-ingat sa mga gusto ng magarang damit at mga pagbati ng karangalan, ngunit sumasakop sa mga bahay ng mga balo", "Pakinggan ang kanilang turo ngunit huwag sundin ang kanilang pamumuhay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 20:46-47 — Jesus warned to beware of teachers of the law who like public honor and devour widows' houses while making long prayers.",
+          "fil": "Lucas 20:46-47 — Binalaan ni Jesus ang pag-iingat sa mga guro ng batas na nagugustuhan ang pampublikong karangalan at sumasakop sa mga bahay ng mga balo habang gumagawa ng mahabang panalangin."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What did Jesus say about the poor widow's offering compared to the rich people's gifts?",
+          "fil": "Ano ang sinabi ni Jesus tungkol sa handog ng dukhamang balo kumpara sa mga regalo ng mayayaman?"
+        },
+        "options": {
+          "en": ["The rich gave more because they gave larger amounts", "The widow gave more because she gave all she had to live on, while the rich gave out of their wealth", "Both gave equally in God's eyes"],
+          "fil": ["Nagbigay nang higit ang mayayaman dahil nagbigay sila ng mas malalaking halaga", "Nagbigay nang higit ang balo dahil ibinigay niya ang lahat ng kanyang ikabubuhay, habang ang mayayaman ay nagbigay mula sa kanilang kayamanan", "Parehong pantay ang kanilang pagbibigay sa mata ng Diyos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 21:3-4 — Jesus said the widow put in more than all the others because she gave all she had, while they gave out of their surplus.",
+          "fil": "Lucas 21:3-4 — Sinabi ni Jesus na nagbigay ang balo nang higit sa lahat ng iba dahil ibinigay niya ang lahat ng mayroon siya, habang ang iba ay nagbigay mula sa kanilang labis."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say would happen to Jerusalem according to his prophecy in this chapter?",
+          "fil": "Ano ang sinabi ni Jesus na mangyayari sa Jerusalem ayon sa kanyang hula sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["It would become the capital of the whole earth", "It would be surrounded by armies, destroyed, and the people scattered among nations", "A new Jerusalem would be built by the disciples"],
+          "fil": ["Magiging kabisera ng buong mundo ito", "Palilibutin ito ng mga hukbo, masisira, at ang mga tao ay mangangalat sa mga bansa", "Isang bagong Jerusalem ang itatayo ng mga alagad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 21:20,24 — Jesus said when Jerusalem is surrounded by armies its desolation is near, and the people will be scattered among all nations.",
+          "fil": "Lucas 21:20,24 — Sinabi ni Jesus na kapag napalibot ang Jerusalem ng mga hukbo, malapit na ang pagkawasak nito, at ang mga tao ay mangangalat sa lahat ng bansa."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus urge his disciples to do to be ready for the coming of the Son of Man?",
+          "fil": "Ano ang hiniling ni Jesus sa kanyang mga alagad na gawin para maging handa sa pagdating ng Anak ng Tao?"
+        },
+        "options": {
+          "en": ["Study prophecy carefully and calculate the timing", "Be always on guard, pray that they may escape what is coming, and stand before the Son of Man", "Hide in the mountains until he comes"],
+          "fil": ["Maingat na pag-aralan ang hula at kalkulahin ang tamang oras", "Laging maging alisto, manalangin para makatakas sa mga darating, at makatayo sa harapan ng Anak ng Tao", "Magtago sa mga bundok hanggang dumating siya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 21:36 — Jesus said to be always on the alert and pray to be able to stand before the Son of Man.",
+          "fil": "Lucas 21:36 — Sinabi ni Jesus na laging maging alisto at manalangin para makatayo sa harapan ng Anak ng Tao."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What unique detail does Luke record about Jesus' prayer in Gethsemane?",
+          "fil": "Anong natatanging detalye ang isinulat ni Lucas tungkol sa panalangin ni Jesus sa Getsemane?"
+        },
+        "options": {
+          "en": ["Jesus prayed for three hours without stopping", "An angel appeared from heaven to strengthen him, and his sweat was like drops of blood", "The disciples joined Jesus in prayer for part of the night"],
+          "fil": ["Tatlong oras na nanalangin si Jesus nang walang hinto", "Isang anghel ang lumitaw mula langit para palakasin siya, at ang kanyang pawis ay tulad ng mga patak ng dugo", "Sumali ang mga alagad kay Jesus sa panalangin para sa bahagi ng gabi"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 22:43-44 — Unique to Luke: an angel appeared to strengthen Jesus, and his sweat fell like drops of blood.",
+          "fil": "Lucas 22:43-44 — Natatangi sa Lucas: isang anghel ang lumitaw para palakasin si Jesus, at ang kanyang pawis ay nahuhulog tulad ng mga patak ng dugo."
+        }
+      },
+      {
+        "q": {
+          "en": "What unique moment did Luke record after Peter denied Jesus the third time?",
+          "fil": "Anong natatanging sandali ang isinulat ni Lucas pagkatapos itanggi ni Pedro si Jesus sa ikatlong beses?"
+        },
+        "options": {
+          "en": ["A loud thunderclap was heard from heaven", "The Lord turned and looked straight at Peter, and Peter remembered Jesus' words and wept bitterly", "An angel appeared and rebuked Peter"],
+          "fil": ["Isang malakas na kulog ang narinig mula langit", "Lumingon ang Panginoon at direkta siyang tumingin kay Pedro, at naalaala ni Pedro ang mga salita ni Jesus at umiyak nang mapait", "Isang anghel ang lumitaw at pinagalitan si Pedro"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 22:61 — Unique to Luke: the Lord turned and looked directly at Peter, and Peter remembered the word Jesus had spoken.",
+          "fil": "Lucas 22:61 — Natatangi sa Lucas: lumingon ang Panginoon at direkta siyang tumingin kay Pedro, at naalaala ni Pedro ang salitang sinabi ni Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened when the soldiers arrested Jesus in the garden and one of his disciples struck a man's ear with a sword?",
+          "fil": "Ano ang nangyari nang arestuhin ng mga sundalo si Jesus sa hardin at tinamaan ng isang alagad ang tainga ng isang tao ng espada?"
+        },
+        "options": {
+          "en": ["Jesus told his disciples to draw more swords", "Jesus touched the man's ear and healed it — the only miracle of healing an enemy recorded in the Gospels", "The man with the injured ear fled into the night"],
+          "fil": ["Sinabi ni Jesus sa kanyang mga alagad na kumuha ng mas maraming espada", "Hinipo ni Jesus ang tainga ng lalaki at pinagaling ito — ang tanging himala ng pagpapagaling ng kaaway na naitala sa mga Ebanghelyo", "Ang lalaking may nasaktan na tainga ay tumakas sa gabi"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 22:51 — Jesus touched the servant's ear and healed him — a miracle unique to Luke's account.",
+          "fil": "Lucas 22:51 — Hinipo ni Jesus ang tainga ng utusan at pinagaling siya — isang himala na natatangi sa salaysay ni Lucas."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "To whom did Pilate send Jesus when he learned Jesus was from Galilee?",
+          "fil": "Kanino ipinadala ni Pilato si Jesus nang malaman niyang si Jesus ay mula Galilea?"
+        },
+        "options": {
+          "en": ["To the Roman emperor in Rome", "To Herod, who was in Jerusalem at that time", "To the Sanhedrin for a second trial"],
+          "fil": ["Sa Romano na emperador sa Roma", "Kay Herodes, na nasa Jerusalem noon", "Sa Sanhedrin para sa pangalawang pagsubok"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 23:7 — When Pilate learned Jesus was from Galilee, he sent him to Herod, who was in Jerusalem at the time.",
+          "fil": "Lucas 23:7 — Nang malaman ni Pilato na si Jesus ay mula Galilea, ipinadala niya siya kay Herodes, na nasa Jerusalem noon."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus say to the women who mourned for him on the way to the cross?",
+          "fil": "Ano ang sinabi ni Jesus sa mga babaeng nananangis para sa kanya sa daan patungo sa krus?"
+        },
+        "options": {
+          "en": ["He thanked them for their loyalty", "He told them not to weep for him, but for themselves and their children because of the difficult days ahead", "He asked them to care for his mother Mary"],
+          "fil": ["Nagpasalamat siya sa kanila para sa kanilang katapatan", "Sinabi niya sa kanila na huwag umiyak para sa kanya, kundi para sa kanilang mga sarili at kanilang mga anak dahil sa mahihirap na araw na darating", "Hinilingan niya sila na alagaan ang kanyang inang si Maria"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 23:28 — Jesus turned and said 'Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children.'",
+          "fil": "Lucas 23:28 — Lumingon si Jesus at sinabi, 'Mga anak na babae ng Jerusalem, huwag kayong umiyak para sa akin; umiyak kayo para sa inyong mga sarili at para sa inyong mga anak.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did the criminal crucified beside Jesus say that showed his faith, unique to Luke?",
+          "fil": "Ano ang sinabi ng kriminal na ipinako sa krus sa tabi ni Jesus na nagpapakita ng kanyang pananampalataya, na natatangi sa Lucas?"
+        },
+        "options": {
+          "en": ["'If you are the Christ, save yourself and us!'", "'Remember me when you come into your kingdom'", "'Surely this man was innocent'"],
+          "fil": ["'Kung ikaw nga ang Cristo, iligtas mo ang iyong sarili at kami!'", "'Alalahanin mo ako kapag dumating ka sa iyong kaharian'", "'Talagang walang sala ang taong ito'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 23:42 — One criminal said 'Jesus, remember me when you come into your kingdom,' and Jesus promised he would be with him in paradise.",
+          "fil": "Lucas 23:42 — Sinabi ng isang kriminal, 'Jesus, alalahanin mo ako kapag dumating ka sa iyong kaharian,' at nangako si Jesus na makakasama niya siya sa Paraiso."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What did the two men in dazzling clothes say to the women at the empty tomb?",
+          "fil": "Ano ang sinabi ng dalawang lalaki sa maningning na damit sa mga babae sa walang lamang libingan?"
+        },
+        "options": {
+          "en": ["'Wait here and he will return soon'", "'Why do you look for the living among the dead? He is not here; he has risen!'", "'His body has been taken to Galilee'"],
+          "fil": ["'Hintayin ninyo siya dito at mabilis siyang babalik'", "'Bakit ninyo hinahanap ang buhay sa mga patay? Wala siya rito; nabuhay siya!'", "'Ang kanyang katawan ay dinala na sa Galilea'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 24:5-6 — The two men asked 'Why do you look for the living among the dead? He is not here; he has risen!'",
+          "fil": "Lucas 24:5-6 — Tinanong ng dalawang lalaki, 'Bakit ninyo hinahanap ang buhay sa mga patay? Wala siya rito; nabuhay siya!'"
+        }
+      },
+      {
+        "q": {
+          "en": "What happened on the road to Emmaus that is unique to Luke's Gospel?",
+          "fil": "Ano ang nangyari sa daan patungo sa Emmaus na natatangi sa Ebanghelyo ni Lucas?"
+        },
+        "options": {
+          "en": ["Jesus appeared in a vision of fire and light to two disciples", "The risen Jesus walked and talked with two disciples who did not recognize him until he broke bread with them", "Jesus sent a message through an angel to two disciples going home"],
+          "fil": ["Nagpakita si Jesus sa isang pangitain ng apoy at liwanag sa dalawang alagad", "Ang muling nabuhay na Jesus ay naglakad at nakipag-usap sa dalawang alagad na hindi siya nakilala hanggang pinaghati-hatian niya ng tinapay ang mga ito", "Nagpadala si Jesus ng mensahe sa pamamagitan ng isang anghel sa dalawang alagad na pauwi na"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 24:15-16,31 — The risen Jesus joined the two disciples on the road but they were kept from recognizing him; they recognized him when he broke bread.",
+          "fil": "Lucas 24:15-16,31 — Sumama ang muling nabuhay na Jesus sa dalawang alagad sa daan ngunit pinigilan silang makilala siya; nakilala nila siya nang pinaghati-hatian niya ng tinapay ang mga ito."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Jesus tell his disciples they were to be, and what did he promise before he ascended?",
+          "fil": "Ano ang sinabi ni Jesus sa kanyang mga alagad na sila ay magiging, at ano ang kanyang pangako bago siya umakyat sa langit?"
+        },
+        "options": {
+          "en": ["Teachers of all nations; he promised to give them a new law", "Witnesses to all nations, beginning from Jerusalem; he promised to send what the Father had promised — power from on high", "Rulers of the new kingdom; he promised to give them golden thrones"],
+          "fil": ["Mga guro ng lahat ng bansa; nangako siyang magbibigay sila ng bagong batas", "Mga saksi sa lahat ng bansa, simula sa Jerusalem; nangako siyang ipapadala ang ipinangako ng Ama — kapangyarihan mula sa itaas", "Mga tagapamuno ng bagong kaharian; nangako siyang magbibigay sila ng mga gintong trono"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lucas 24:47-49 — Jesus said repentance and forgiveness would be proclaimed to all nations, beginning in Jerusalem; they were to be witnesses; and the Father's promise (the Holy Spirit) would come.",
+          "fil": "Lucas 24:47-49 — Sinabi ni Jesus na ang pagsisisi at kapatawaran ay ipahahayag sa lahat ng bansa, simula sa Jerusalem; sila ay magiging mga saksi; at darating ang pangako ng Ama (ang Banal na Espiritu)."
+        }
+      }
+    ]
+  }
+}
