@@ -5,6 +5,7 @@ import 'package:bible_track/data/account_controller.dart';
 import 'package:bible_track/data/auth_service.dart';
 import 'package:bible_track/data/cloud_repository.dart';
 import 'package:bible_track/data/progress_controller.dart';
+import 'package:bible_track/data/quiz_repository.dart';
 import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/data/sync_merge.dart';
 import 'package:bible_track/features/auth/login_screen.dart';
@@ -112,6 +113,7 @@ void main() {
         settings: settings,
         account: account,
         cloud: cloud,
+        quizRepo: QuizRepository(),
       ),
     );
     await tester.pumpAndSettle();

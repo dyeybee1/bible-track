@@ -122,6 +122,16 @@ class ProgressController extends ChangeNotifier {
 
   void markAll(Book b) => markUpTo(b, b.totalChapters);
 
+  /// Marks exactly one chapter as read. Used by the quiz on a passing attempt.
+  /// Does nothing if the chapter is already read.
+  void markChapterRead(Book b, int chapter) {
+    if (chapter < 1 || chapter > b.totalChapters) return;
+    final set = _read.putIfAbsent(b.id, () => <int>{});
+    if (set.contains(chapter)) return; // already read, no-op
+    set.add(chapter);
+    _afterWrite(b);
+  }
+
   void clearBook(Book b) {
     _read[b.id] = <int>{};
     // completedEver is intentionally NOT touched here.

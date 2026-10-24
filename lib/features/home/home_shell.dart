@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
+import '../../data/quiz_repository.dart';
 import '../../settings_scope.dart';
 import '../books/books_screen.dart';
 import '../leaderboard/leaderboard_screen.dart';
@@ -24,11 +25,13 @@ class HomeShell extends StatefulWidget {
     required this.progress,
     required this.account,
     required this.cloud,
+    required this.quizRepo,
   });
 
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
+  final QuizRepository quizRepo;
 
   @override
   State<HomeShell> createState() => _HomeShellState();
@@ -50,12 +53,14 @@ class _HomeShellState extends State<HomeShell> {
             progress: widget.progress,
             account: widget.account,
             cloud: widget.cloud,
+            quizRepo: widget.quizRepo,
           ),
           // 1 – Spin
           SpinnerScreen(
             progress: widget.progress,
             account: widget.account,
             cloud: widget.cloud,
+            quizRepo: widget.quizRepo,
           ),
           // 2 – Leaderboard
           LeaderboardScreen(

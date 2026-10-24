@@ -1,0 +1,288 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why did Naomi decide to return to Bethlehem?",
+          "fil": "Bakit nagpasya si Naomi na bumalik sa Bethlehem?"
+        },
+        "options": {
+          "en": [
+            "She heard the LORD had blessed His people with food",
+            "Her sons asked her to return",
+            "She wanted to escape Moab's king"
+          ],
+          "fil": [
+            "Narinig niya na pinagpala ng PANGINOON ang Kanyang bayan ng pagkain",
+            "Sinabi ng kanyang mga anak na bumalik siya",
+            "Nais niyang makatakas sa hari ng Moab"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ruth 1:6 says Naomi heard that the LORD had come to the aid of His people by providing food, so she set out from Moab to return.",
+          "fil": "Sa Ruth 1:6, narinig ni Naomi na dinalaw ng PANGINOON ang Kanyang bayan sa pamamagitan ng pagbibigay ng pagkain, kaya umalis siya sa Moab."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Ruth say to Naomi when Naomi urged her to go back to her own people?",
+          "fil": "Ano ang sinabi ni Ruth kay Naomi nang himukin siya ni Naomi na bumalik sa kanyang sariling bayan?"
+        },
+        "options": {
+          "en": [
+            "\"I will return to my mother's house.\"",
+            "\"Where you go I will go, and where you stay I will stay.\"",
+            "\"Let me stay only until we reach Bethlehem.\""
+          ],
+          "fil": [
+            "\"Babalik ako sa bahay ng aking ina.\"",
+            "\"Saan ka man pumunta, susunod ako, at saan ka man tumira, doon din ako.\"",
+            "\"Hayaan mo akong manatili hanggang makarating tayo sa Bethlehem.\""
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 1:16 records Ruth's famous vow of loyalty: 'Where you go I will go, and where you stay I will stay. Your people will be my people and your God my God.'",
+          "fil": "Sa Ruth 1:16, isinulat ang tanyag na pangako ng katapatan ni Ruth: 'Saan ka man pumunta, susunod ako, at saan ka man tumira, doon din ako. Ang iyong bayan ay aking bayan at ang iyong Diyos ay aking Diyos.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What new name did Naomi ask the townspeople to call her when she returned?",
+          "fil": "Anong bagong pangalan ang hiniing itawag ng mga tao kay Naomi nang bumalik siya?"
+        },
+        "options": {
+          "en": [
+            "Ruth",
+            "Mara",
+            "Orpah"
+          ],
+          "fil": [
+            "Ruth",
+            "Mara",
+            "Orpah"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Ruth 1:20, Naomi told them to call her Mara (meaning 'bitter') because the Almighty had made her life very bitter.",
+          "fil": "Sa Ruth 1:20, sinabi ni Naomi na tawagin siya ng Mara (na nangangahulugang 'mapait') dahil pinait ng Makapangyarihan ang kanyang buhay."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "In whose field did Ruth go to glean after grain?",
+          "fil": "Sa bukid ng sino pumunta si Ruth upang mag-ani ng natirang butil?"
+        },
+        "options": {
+          "en": [
+            "Boaz, a relative of Naomi's husband",
+            "A stranger named Elimelech",
+            "Orpah's husband"
+          ],
+          "fil": [
+            "Boaz, isang kamag-anak ng asawa ni Naomi",
+            "Isang estranghero na si Elimelech",
+            "Asawa ni Orpah"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ruth 2:3 tells us Ruth ended up gleaning in the field belonging to Boaz, who was from the clan of Elimelech, Naomi's late husband.",
+          "fil": "Sa Ruth 2:3, nalaman natin na napunta si Ruth sa bukid ni Boaz, na kabilang sa angkan ni Elimelech, ang yumaong asawa ni Naomi."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did Boaz show such kindness to Ruth?",
+          "fil": "Bakit nagpakita si Boaz ng malaking kabaitan kay Ruth?"
+        },
+        "options": {
+          "en": [
+            "She was the most beautiful woman in Bethlehem",
+            "She had been told about how she cared for Naomi after her husband's death",
+            "She was wealthy and he wanted to trade with her"
+          ],
+          "fil": [
+            "Siya ang pinakamagandang babae sa Bethlehem",
+            "Narinig niya ang tungkol sa pag-aalaga niya kay Naomi matapos mamatay ang kanyang asawa",
+            "Siya ay mayaman at nais niyang makipagkalakalan sa kanya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Boaz told Ruth in 2:11-12 that he had heard all about what she had done for Naomi and how she left her homeland to be with her mother-in-law.",
+          "fil": "Sinabi ni Boaz kay Ruth sa 2:11-12 na narinig niya ang lahat ng ginawa nito para kay Naomi at kung paano iniwan nito ang sariling lupain para maging kasama ang kanyang biyenang babae."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Boaz instruct his workers to do for Ruth?",
+          "fil": "Ano ang iniutos ni Boaz sa kanyang mga manggagawa para kay Ruth?"
+        },
+        "options": {
+          "en": [
+            "Send her away to a richer field",
+            "Pull out stalks from the bundles and leave them for her to gather",
+            "Give her half of the day's harvest"
+          ],
+          "fil": [
+            "Palayasin siya patungo sa mas mayamang bukid",
+            "Humugot ng mga uhay mula sa mga bungkos at iwanan para maani niya",
+            "Ibigay sa kanya ang kalahati ng araw-araw na ani"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 2:15-16 records Boaz ordering his men to deliberately pull out stalks from the bundles and leave them so Ruth could gather more grain.",
+          "fil": "Sa Ruth 2:15-16, iniutos ni Boaz sa kanyang mga lalaki na sadyang humugot ng mga uhay mula sa mga bungkos at iwan para mas maraming butil ang makolekta ni Ruth."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What did Naomi tell Ruth to do at the threshing floor?",
+          "fil": "Ano ang sinabi ni Naomi kay Ruth na gawin sa giikan?"
+        },
+        "options": {
+          "en": [
+            "Confront Boaz publicly about his debt to Elimelech",
+            "Lie at Boaz's feet after he had finished eating and drinking",
+            "Bring him a gift of grain from their harvest"
+          ],
+          "fil": [
+            "Harapin si Boaz sa publiko tungkol sa kanyang utang kay Elimelech",
+            "Humiga sa paanan ni Boaz pagkatapos niyang kumain at uminom",
+            "Magdala sa kanya ng handog na butil mula sa kanilang ani"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 3:3-4 records Naomi's instructions for Ruth to wash, put on perfume, go to the threshing floor, and uncover Boaz's feet and lie down — a culturally significant gesture invoking the kinsman-redeemer role.",
+          "fil": "Sa Ruth 3:3-4, isinulat ang tagubilin ni Naomi para kay Ruth na maligo, magpabango, pumunta sa giikan, at hubarin ang paa ni Boaz at humiga — isang makabuluhang kilos sa kulturang lumalapat sa papel ng mananakop-kamag-anak."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Boaz respond when Ruth asked him to spread his garment over her?",
+          "fil": "Paano tumugon si Boaz nang hilingin ni Ruth na ikubling siya ng kanyang balabal?"
+        },
+        "options": {
+          "en": [
+            "He refused and sent her away",
+            "He agreed and blessed her for her kindness, noting she could have gone after younger men",
+            "He called the elders immediately to arrange a public marriage"
+          ],
+          "fil": [
+            "Tumanggi siya at pinaalis niya ito",
+            "Pumayag siya at pinagpala niya ito sa kanyang kabaitan, na itinutukoy na maaari itong pumunta sa mas batang mga lalaki",
+            "Agad niyang tinawag ang mga matatanda para ayusin ang pampublikong kasal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Ruth 3:10-11, Boaz praised Ruth's kindness (hesed), noting she hadn't chased after younger men. He agreed to fulfill the kinsman-redeemer duty but mentioned a nearer relative had the first right.",
+          "fil": "Sa Ruth 3:10-11, pinuri ni Boaz ang kabaitan (hesed) ni Ruth, na itinutukoy na hindi ito humabol sa mga batang lalaki. Pumayag siyang tuparin ang tungkulin ng mananakop-kamag-anak ngunit binanggit ang isang mas malapit na kamag-anak na may naunang karapatan."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did Boaz not want Ruth to leave the threshing floor empty-handed?",
+          "fil": "Bakit ayaw ni Boaz na umalis si Ruth sa giikan nang walang dala?"
+        },
+        "options": {
+          "en": [
+            "He was afraid she would starve on the way home",
+            "He did not want it known that a woman had come to the threshing floor",
+            "He wanted to pay her for gleaning"
+          ],
+          "fil": [
+            "Natatakot siyang magutom ito sa daan pauwi",
+            "Ayaw niyang malaman na may babaeng pumunta sa giikan",
+            "Nais niyang bayaran ito para sa pag-ani"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 3:14 shows Boaz wanted to protect Ruth's reputation and avoid gossip, so he had her leave before anyone could recognise her, and gave her barley so she would not return empty-handed.",
+          "fil": "Ipinapakita ng Ruth 3:14 na nais protektahan ni Boaz ang reputasyon ni Ruth at maiwasan ang tsismis, kaya pinaalis niya ito bago makilala ng sinuman, at nagbigay ng sebada para hindi ito bumalik nang walang dala."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What did the closer kinsman-redeemer ultimately decide at the city gate?",
+          "fil": "Ano ang pinagdesisyunan ng mas malapit na mananakop-kamag-anak sa pintuan ng lungsod?"
+        },
+        "options": {
+          "en": [
+            "He agreed to redeem the land and marry Ruth",
+            "He gave up his right to redeem, removing his sandal as a public sign",
+            "He demanded silver before he would agree to anything"
+          ],
+          "fil": [
+            "Pumayag siyang tubusin ang lupa at mapangasawa si Ruth",
+            "Ibinigay niya ang kanyang karapatang tubusin, hinubad ang kanyang sandalyas bilang pampublikong tanda",
+            "Humingi siya ng pilak bago pumayag sa anumang bagay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 4:6-8 records the nearer kinsman declining to redeem because it might endanger his own estate. He removed his sandal to formally transfer the right to Boaz — a legal custom of the time.",
+          "fil": "Sa Ruth 4:6-8, isinulat ang pagtanggi ng mas malapit na kamag-anak na tubusin dahil maaari itong magpanganib sa kanyang sariling ari-arian. Hinubad niya ang kanyang sandalyas upang opisyal na ilipat ang karapatan kay Boaz — isang legal na kaugalian noon."
+        }
+      },
+      {
+        "q": {
+          "en": "What was the name of the son born to Ruth and Boaz?",
+          "fil": "Ano ang pangalan ng anak na ipinanganak kina Ruth at Boaz?"
+        },
+        "options": {
+          "en": [
+            "Jesse",
+            "Obed",
+            "Salmon"
+          ],
+          "fil": [
+            "Jesse",
+            "Obed",
+            "Salmon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 4:17 records that the women named the baby Obed. He became the father of Jesse, who was the father of David.",
+          "fil": "Sa Ruth 4:17, isinulat na pinangalanan ng mga babae ang sanggol na Obed. Naging ama siya ni Jesse, na siyang ama ni David."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the book of Ruth end in terms of the genealogy?",
+          "fil": "Paano nagtatapos ang aklat ni Ruth pagdating sa talaan ng mga ninuno?"
+        },
+        "options": {
+          "en": [
+            "With Obed as an ancestor of King Saul",
+            "With a line from Perez leading through Boaz and Obed to King David",
+            "With Ruth returning to Moab after Boaz died"
+          ],
+          "fil": [
+            "Si Obed bilang ninuno ni Haring Saul",
+            "Isang linya mula kay Perez patungo kina Boaz at Obed hanggang kay Haring David",
+            "Bumalik si Ruth sa Moab pagkatapos mamatay si Boaz"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ruth 4:18-22 closes with the genealogy from Perez (son of Judah) to David, placing Ruth and Boaz in the royal lineage that would lead to Israel's greatest king.",
+          "fil": "Isinasara ng Ruth 4:18-22 ang talaan ng mga ninuno mula kay Perez (anak ni Juda) hanggang kay David, na inilalagay sina Ruth at Boaz sa maharlikang linya na hahantong sa pinakadakilang hari ng Israel."
+        }
+      }
+    ]
+  }
+}

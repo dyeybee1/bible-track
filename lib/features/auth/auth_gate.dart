@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
+import '../../data/quiz_repository.dart';
 import '../../data/settings_controller.dart';
 import '../../settings_scope.dart';
 import '../home/home_shell.dart';
@@ -17,11 +18,13 @@ class AuthGate extends StatefulWidget {
     required this.account,
     required this.progress,
     required this.cloud,
+    required this.quizRepo,
   });
 
   final AccountController account;
   final ProgressController progress;
   final CloudRepository cloud;
+  final QuizRepository quizRepo;
 
   @override
   State<AuthGate> createState() => _AuthGateState();
@@ -63,6 +66,7 @@ class _AuthGateState extends State<AuthGate> {
               progress: widget.progress,
               account: widget.account,
               cloud: widget.cloud,
+              quizRepo: widget.quizRepo,
             );
         }
       },

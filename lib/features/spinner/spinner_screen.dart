@@ -7,6 +7,7 @@ import '../../data/account_controller.dart';
 import '../../data/books_data.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
+import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
@@ -21,11 +22,13 @@ class SpinnerScreen extends StatefulWidget {
     required this.progress,
     required this.account,
     required this.cloud,
+    required this.quizRepo,
   });
 
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
+  final QuizRepository quizRepo;
 
   @override
   State<SpinnerScreen> createState() => _SpinnerScreenState();
@@ -176,6 +179,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
           progress: widget.progress,
           account: widget.account,
           cloud: widget.cloud,
+          quizRepo: widget.quizRepo,
         ),
       ),
     );

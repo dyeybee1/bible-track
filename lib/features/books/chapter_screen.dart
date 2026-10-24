@@ -5,9 +5,11 @@ import 'package:flutter/material.dart';
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
+import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
+import 'quiz_screen.dart';
 
 class ChapterScreen extends StatefulWidget {
   const ChapterScreen({
@@ -16,20 +18,21 @@ class ChapterScreen extends StatefulWidget {
     required this.progress,
     required this.account,
     required this.cloud,
+    required this.quizRepo,
   });
 
   final Book book;
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
+  final QuizRepository quizRepo;
 
   @override
   State<ChapterScreen> createState() => _ChapterScreenState();
 }
 
 class _ChapterScreenState extends State<ChapterScreen> {
-  /// One-shot mode: the next tapped chapter marks everything up to it.
-  bool _upTo = false;
+  bool _quizLoading = false;
 
   Future<void> _confirmClear() async {
     final strings = context.s;
@@ -153,24 +156,11 @@ class _ChapterScreenState extends State<ChapterScreen> {
                       )
                     : const SizedBox(width: double.infinity),
               ),
-              SingleChildScrollView(
-                scrollDirection: Axis.horizontal,
+              // ── Chip row — only "Clear all" remains (quiz gates marking) ──
+              Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 16),
                 child: Row(
                   children: [
-                    FilterChip(
-                      label: Text(strings.markUpTo),
-                      selected: _upTo,
-                      onSelected: (v) => setState(() => _upTo = v),
-                    ),
-                    const SizedBox(width: 8),
-                    ActionChip(
-                      label: Text(strings.markAll),
-                      onPressed: done
-                          ? null
-                          : () => widget.progress.markAll(book),
-                    ),
-                    const SizedBox(width: 8),
                     ActionChip(
                       label: Text(strings.clearAll),
                       onPressed: count == 0 ? null : _confirmClear,
@@ -178,16 +168,6 @@ class _ChapterScreenState extends State<ChapterScreen> {
                   ],
                 ),
               ),
-              if (_upTo)
-                Padding(
-                  padding: const EdgeInsets.fromLTRB(20, 8, 20, 0),
-                  child: Text(
-                    strings.upToHint,
-                    style: theme.textTheme.bodySmall?.copyWith(
-                      color: scheme.onSurfaceVariant,
-                    ),
-                  ),
-                ),
 
               // ── "Mga Nakatapos" inline preview ───────────────────────────
               _FinishersPreview(
@@ -208,15 +188,30 @@ class _ChapterScreenState extends State<ChapterScreen> {
                   itemCount: book.totalChapters,
                   itemBuilder: (context, i) {
                     final chapter = i + 1;
+                    final isRead = read.contains(chapter);
                     return _ChapterCell(
                       number: chapter,
-                      read: read.contains(chapter),
-                      onTap: () {
-                        if (_upTo) {
-                          widget.progress.markUpTo(book, chapter);
-                          setState(() => _upTo = false);
-                        } else {
+                      read: isRead,
+                      loading: _quizLoading,
+                      onTap: () async {
+                        if (isRead) {
+                          // Already read — allow free un-mark, no quiz.
                           widget.progress.toggleChapter(book, chapter);
+                        } else {
+                          // Unread — gate through the quiz.
+                          setState(() => _quizLoading = true);
+                          final lang = context.s.lang;
+                          await showQuiz(
+                            context: context,
+                            book: book,
+                            chapter: chapter,
+                            quizRepo: widget.quizRepo,
+                            progress: widget.progress,
+                            lang: lang,
+                          );
+                          if (mounted) setState(() => _quizLoading = false);
+                          // markChapterRead is called inside showQuiz on pass;
+                          // nothing to do on dismiss.
                         }
                       },
                     );
@@ -672,17 +667,23 @@ class _ChapterCell extends StatelessWidget {
   const _ChapterCell({
     required this.number,
     required this.read,
+    required this.loading,
     required this.onTap,
   });
 
   final int number;
   final bool read;
+
+  /// When true and this cell is not yet read, show a subtle loading indicator
+  /// and disable the tap (the quiz is being loaded for another cell).
+  final bool loading;
   final VoidCallback onTap;
 
   @override
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
     final teal = doneColor(context);
+    final busy = loading && !read;
 
     return Semantics(
       button: true,
@@ -696,15 +697,24 @@ class _ChapterCell extends StatelessWidget {
             side: BorderSide(color: read ? teal : scheme.outlineVariant),
           ),
           child: InkWell(
-            onTap: onTap,
+            onTap: busy ? null : onTap,
             child: Center(
-              child: Text(
-                '$number',
-                style: TextStyle(
-                  fontWeight: FontWeight.w700,
-                  color: read ? onDoneColor(context) : scheme.onSurface,
-                ),
-              ),
+              child: busy
+                  ? SizedBox(
+                      width: 20,
+                      height: 20,
+                      child: CircularProgressIndicator(
+                        strokeWidth: 2,
+                        color: scheme.primary,
+                      ),
+                    )
+                  : Text(
+                      '$number',
+                      style: TextStyle(
+                        fontWeight: FontWeight.w700,
+                        color: read ? onDoneColor(context) : scheme.onSurface,
+                      ),
+                    ),
             ),
           ),
         ),

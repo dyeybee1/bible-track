@@ -263,4 +263,28 @@ class Strings {
   );
   String get finishersYou => _t('Ikaw', 'You');
   String get finishersShowAll => _t('Tingnan lahat', 'See all');
+
+  // ---- quiz ----
+  String quizTitle(int chapter) =>
+      _t('Kabanata $chapter — Quiz', 'Chapter $chapter — Quiz');
+  String quizProgress(int current, int total) =>
+      _t('$current / $total', '$current / $total');
+  String get quizChooseAnswer =>
+      _t('Pumili ng sagot', 'Choose an answer');
+  String get quizCheckAnswers =>
+      _t('Suriin ang mga sagot', 'Check answers');
+  String get quizWrong => _t(
+    'Konti na lang! Basahin ulit ang chapter at subukan ulit.',
+    'Almost there! Re-read the chapter and try again.',
+  );
+  String get quizRetry => _t('Subukan ulit', 'Try again');
+  String get quizPassed => _t(
+    '🎉 Magaling! Natapos mo ang quiz!',
+    '🎉 Well done! You passed the quiz!',
+  );
+  String get quizLearnedTitle => _t('Natutunan mo', 'What you learned');
+  String get quizMarkRead =>
+      _t('Markahan bilang nabasa', 'Mark as read');
+  String get quizNoQuestions =>
+      _t('Walang quiz para sa kabanatang ito.', 'No quiz for this chapter.');
 }
