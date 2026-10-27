@@ -1,0 +1,267 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What kind of spirit has God given us, according to Paul's letter to Timothy?",
+          "fil": "Anong uri ng espiritu ang ibinigay ng Diyos sa atin, ayon sa sulat ni Pablo kay Timoteo?"
+        },
+        "options": {
+          "en": ["A spirit of timidity and fear", "A spirit of power, love, and self-discipline", "A spirit of wisdom and knowledge", "A spirit of patience and endurance"],
+          "fil": ["Espiritu ng duwagaan at takot", "Espiritu ng kapangyarihan, pagmamahal, at disiplina sa sarili", "Espiritu ng karunungan at kaalaman", "Espiritu ng pagtitiis at tiyaga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul reminds Timothy that God gave us a spirit of power, love, and self-discipline — not timidity (2 Timothy 1).",
+          "fil": "Ipinaalala ni Pablo kay Timoteo na ang Diyos ay nagbigay sa atin ng espiritu ng kapangyarihan, pagmamahal, at disiplina sa sarili — hindi ng duwagaan (2 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul urge Timothy to do with the gift of God within him?",
+          "fil": "Ano ang hinikayat ni Pablo kay Timoteo na gawin sa kaloob ng Diyos na nasa kanya?"
+        },
+        "options": {
+          "en": ["Hide it until the right time", "Share it only with trusted friends", "Fan it into flame", "Keep it safe and protected"],
+          "fil": ["Itago ito hanggang sa tamang oras", "Ibahagi lamang ito sa mga mapagkakatiwalaang kaibigan", "Palaguin ito tulad ng apoy", "Ingatan ito at protektahan"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul encouraged Timothy to fan into flame the gift of God, stirring it up through faithful ministry (2 Timothy 1).",
+          "fil": "Hinikayat ni Pablo si Timoteo na palaguin ang kaloob ng Diyos sa kanya tulad ng pagpapalaki ng apoy sa pamamagitan ng tapat na paglilingkod (2 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who searched diligently for Paul in Rome and was not ashamed of his chains?",
+          "fil": "Sino ang masipag na naghanap kay Pablo sa Roma at hindi nahiya sa kanyang mga tanikala?"
+        },
+        "options": {
+          "en": ["Titus", "Onesiphorus", "Barnabas", "Silas"],
+          "fil": ["Tito", "Onesiporo", "Bernabe", "Silas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Onesiphorus refreshed Paul many times and was not ashamed of his chains, searching for him until he found him in Rome (2 Timothy 1).",
+          "fil": "Si Onesiporo ay paulit-ulit na nagpalakas-loob kay Pablo at hindi nahiya sa kanyang mga tanikala, at hininap siya nang mabuti hanggang sa mahanap siya sa Roma (2 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul tell Timothy to guard carefully?",
+          "fil": "Ano ang sinabi ni Pablo kay Timoteo na ingatan nang mabuti?"
+        },
+        "options": {
+          "en": ["The good deposit entrusted to him", "The church building and its members", "His own life and safety", "The letters Paul had written"],
+          "fil": ["Ang mahalagang bagay na ipinagkatiwala sa kanya", "Ang gusali ng iglesiya at mga miyembro nito", "Ang kanyang sariling buhay at kaligtasan", "Ang mga sulat na isinulat ni Pablo"]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul charged Timothy to guard the good deposit — the sound teaching of the faith — through the Holy Spirit who lives in us (2 Timothy 1).",
+          "fil": "Inutusan ni Pablo si Timoteo na ingatan ang mahalagang bagay na ipinagkatiwala sa kanya — ang tamang aral ng pananampalataya — sa pamamagitan ng Espiritu Santo na nananahan sa atin (2 Timoteo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Paul told Timothy to entrust what he had heard to reliable people who could do what?",
+          "fil": "Sinabi ni Pablo kay Timoteo na ipagkatiwala ang narinig niya sa mga mapagkakatiwalaang tao na kayang gawin ang ano?"
+        },
+        "options": {
+          "en": ["Lead large congregations", "Teach others also", "Perform signs and wonders", "Write new scriptures"],
+          "fil": ["Pamunuan ang malalaking kongregasyon", "Magturo rin sa iba", "Magsagawa ng mga tanda at kababalaghan", "Sumulat ng bagong kasulatan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructed Timothy to pass on his teaching to reliable people who would also be qualified to teach others, continuing the chain of faithful instruction (2 Timothy 2).",
+          "fil": "Inutusan ni Pablo si Timoteo na ipasa ang kanyang turo sa mga mapagkakatiwalaang tao na magiging karapat-dapat din magturo sa iba, upang mapanatili ang kadena ng tapat na pagtuturo (2 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which of the following is NOT one of the three illustrations Paul used about enduring hardship in ministry?",
+          "fil": "Alin sa mga sumusunod ang HINDI isa sa tatlong ilustrasyon na ginamit ni Pablo tungkol sa pagtitiis ng kahirapan sa ministeryo?"
+        },
+        "options": {
+          "en": ["A soldier", "A shepherd", "An athlete", "A farmer"],
+          "fil": ["Isang sundalo", "Isang pastol", "Isang atleta", "Isang magsasaka"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul used a soldier, an athlete, and a farmer as illustrations of dedicated service — a shepherd was not among them (2 Timothy 2).",
+          "fil": "Ginamit ni Pablo ang isang sundalo, atleta, at magsasaka bilang mga ilustrasyon ng dedikadong paglilingkod — ang pastol ay hindi kabilang sa mga ito (2 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe the kind of worker who is approved by God?",
+          "fil": "Paano inilarawan ni Pablo ang uri ng manggagawa na tinatanggap ng Diyos?"
+        },
+        "options": {
+          "en": ["One who never makes mistakes", "One who preaches every day without rest", "One who correctly handles the word of truth", "One who memorizes all the scriptures"],
+          "fil": ["Isa na hindi nagkakamali", "Isa na nangangaral araw-araw nang walang pahinga", "Isa na tamang-tamang pinangangalagaan ang salita ng katotohanan", "Isa na nagsasaulo ng lahat ng kasulatan"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul described God's approved worker as one who correctly handles — or rightly divides — the word of truth (2 Timothy 2).",
+          "fil": "Inilarawan ni Pablo ang manggagawa na tinatanggap ng Diyos bilang isa na tamang-tamang pinangangalagaan ang salita ng katotohanan (2 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul tell Timothy to flee from, and instead pursue?",
+          "fil": "Ano ang sinabi ni Pablo kay Timoteo na tahulan, at sa halip ay habulin?"
+        },
+        "options": {
+          "en": ["Flee persecution; pursue safety", "Flee evil desires; pursue righteousness, faith, love, and peace", "Flee false teachers; pursue church leadership", "Flee poverty; pursue financial stability"],
+          "fil": ["Tumakas sa pag-uusig; habulin ang kaligtasan", "Tumakas sa masamang pagnanasa; habulin ang katuwiran, pananampalataya, pagmamahal, at kapayapaan", "Tumakas sa mga maling guro; habulin ang pamumuno sa iglesiya", "Tumakas sa kahirapan; habulin ang katatagan sa pananalapi"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urged Timothy to flee youthful evil desires and instead pursue righteousness, faith, love, and peace with those who call on the Lord (2 Timothy 2).",
+          "fil": "Hinimok ni Pablo si Timoteo na tumakas sa masamang pagnanasa ng kabataan at sa halip ay habulin ang katuwiran, pananampalataya, pagmamahal, at kapayapaan kasama ang mga tumatawag sa Panginoon (2 Timoteo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What did Paul say people would be like in the terrible times of the last days?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa mga tao sa mahirap na panahon ng mga huling araw?"
+        },
+        "options": {
+          "en": ["Lovers of God and generous to others", "Lovers of themselves and lovers of money", "Peaceful and filled with wisdom", "Devoted to prayer and fasting"],
+          "fil": ["Mga nagmamahal sa Diyos at mapagbigay sa iba", "Mga nagmamahal sa sarili at mga nagmamahal sa pera", "Mapayapa at puno ng karunungan", "Nakatuon sa pananalangin at pag-aayuno"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warned that in the last days people would be lovers of themselves and money, boastful, proud, and ungodly (2 Timothy 3).",
+          "fil": "Nagbabala si Pablo na sa mga huling araw ang mga tao ay magiging nagmamahal sa sarili at sa pera, mayabang, mapagmataas, at walang takot sa Diyos (2 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "In which three cities did Paul say he experienced persecutions that Timothy knew about?",
+          "fil": "Sa anong tatlong lungsod sinabi ni Pablo na siya ay inusig na nakilala ni Timoteo?"
+        },
+        "options": {
+          "en": ["Jerusalem, Caesarea, and Rome", "Antioch, Iconium, and Lystra", "Ephesus, Corinth, and Philippi", "Damascus, Athens, and Thessalonica"],
+          "fil": ["Jerusalem, Cesarea, at Roma", "Antioquia, Iconio, at Listra", "Efeso, Corinto, at Filipos", "Damasco, Atenas, at Tesalonica"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul mentioned his persecutions at Antioch, Iconium, and Lystra — cities where Timothy was from — and how the Lord rescued him (2 Timothy 3).",
+          "fil": "Binanggit ni Pablo ang kanyang pag-uusig sa Antioquia, Iconio, at Listra — ang mga lungsod kung saan nagmula si Timoteo — at kung paano siya iniligtas ng Panginoon (2 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is Scripture described as in Paul's letter, and what is it useful for?",
+          "fil": "Paano inilarawan ng kasulatan sa sulat ni Pablo, at para saan ito kapaki-pakinabang?"
+        },
+        "options": {
+          "en": ["Written by men; useful for history and culture", "God-breathed; useful for teaching, rebuking, correcting, and training in righteousness", "Inspired by angels; useful for prophecy only", "Given by the church; useful for tradition and worship"],
+          "fil": ["Isinulat ng mga tao; kapaki-pakinabang para sa kasaysayan at kultura", "Hinga ng Diyos; kapaki-pakinabang para sa pagtuturo, pagwawasto, pagpapatama, at pagsasanay sa katuwiran", "Inspirado ng mga anghel; kapaki-pakinabang lamang para sa propesiya", "Ibinigay ng iglesiya; kapaki-pakinabang para sa tradisyon at pagsamba"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declares that all Scripture is God-breathed and is profitable for teaching, rebuking, correcting, and training in righteousness (2 Timothy 3).",
+          "fil": "Ipinahayag ni Pablo na ang lahat ng kasulatan ay hinga ng Diyos at kapaki-pakinabang para sa pagtuturo, pagwawasto, pagpapatama, at pagsasanay sa katuwiran (2 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul urge Timothy to do with what he had learned and become convinced of?",
+          "fil": "Ano ang hinimok ni Pablo kay Timoteo na gawin sa kanyang natutunan at pinaniwalaang mga bagay?"
+        },
+        "options": {
+          "en": ["Question everything he was taught", "Continue in what he had learned", "Share it only with mature believers", "Write it all down for future generations"],
+          "fil": ["Pagdudahan ang lahat ng itinuro sa kanya", "Magpatuloy sa kanyang natutunan", "Ibahagi lamang ito sa mga may-gulang na mananampalataya", "Isulat lahat para sa mga susunod na henerasyon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urged Timothy to continue in what he had learned and become convinced of, knowing from whom he learned it (2 Timothy 3).",
+          "fil": "Hinimok ni Pablo si Timoteo na magpatuloy sa kanyang natutunan at pinaniwalaang mga bagay, alam kung kanino niya ito natutuhan (2 Timoteo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What did Paul charge Timothy to do in season and out of season?",
+          "fil": "Ano ang iniutos ni Pablo kay Timoteo na gawin sa tamang panahon at hindi tamang panahon?"
+        },
+        "options": {
+          "en": ["Pray without ceasing", "Preach the word", "Gather believers together", "Study the scriptures"],
+          "fil": ["Manalangin nang walang tigil", "Ipangaral ang salita", "Tipunin ang mga mananampalataya", "Pag-aralan ang kasulatan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul solemnly charged Timothy to preach the word whether the time is favorable or not, always being ready to correct and encourage (2 Timothy 4).",
+          "fil": "Seryosong inutusan ni Pablo si Timoteo na ipangaral ang salita, maging pabor o hindi ang panahon, laging handang magwasto at magpalakas-loob (2 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say people would do because of their 'itching ears'?",
+          "fil": "Ano ang sinabi ni Pablo na gagawin ng mga tao dahil sa kanilang 'makating mga tainga'?"
+        },
+        "options": {
+          "en": ["Reject all teaching and become atheists", "Gather teachers who say what they want to hear", "Follow only the original apostles", "Study hard to find the truth"],
+          "fil": ["Tanggihan ang lahat ng turo at maging ateista", "Mangalap ng mga guro na nagsasabi ng gusto nilang marinig", "Sundin lamang ang mga orihinal na apostol", "Mag-aral nang husto upang mahanap ang katotohanan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warned that people with 'itching ears' would surround themselves with teachers who say only what they want to hear, turning from truth to myths (2 Timothy 4).",
+          "fil": "Nagbabala si Pablo na ang mga taong may 'makating mga tainga' ay magpapaligid sa kanilang sarili ng mga guro na nagsasabi lamang ng gusto nilang marinig, lumilayo mula sa katotohanan tungo sa mga alamat (2 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe his life as he faced the end of his ministry?",
+          "fil": "Paano inilarawan ni Pablo ang kanyang buhay habang humaharap siya sa katapusan ng kanyang ministeryo?"
+        },
+        "options": {
+          "en": ["He had wasted his years and regretted his choices", "He had finished the race and kept the faith", "He had failed his mission and needed rescue", "He had achieved fame and great success"],
+          "fil": ["Nasayang niya ang kanyang mga taon at nagsisi sa kanyang mga pagpili", "Natapos na niya ang takbuhan at iningatan ang pananampalataya", "Nabigo siya sa kanyang misyon at kailangan ng pagliligtas", "Nakamit niya ang katanyagan at malaking tagumpay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declared that he had fought the good fight, finished the race, and kept the faith, looking forward to the crown of righteousness (2 Timothy 4).",
+          "fil": "Ipinahayag ni Pablo na nilabanan niya ang mabuting laban, natapos ang takbuhan, at iningatan ang pananampalataya, at inaabangan ang korona ng katuwiran (2 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who deserted Paul in his time of need, and who stayed with him?",
+          "fil": "Sino ang umalis kay Pablo sa panahon ng pangangailangan niya, at sino ang nanatili sa kanya?"
+        },
+        "options": {
+          "en": ["Timothy left; Barnabas stayed", "Demas deserted him; only Luke was with him", "Mark abandoned him; Silas remained", "Titus left; John stayed"],
+          "fil": ["Umalis si Timoteo; nanatili si Bernabe", "Iniwan siya ni Demas; si Lucas lamang ang kasama niya", "Tinalikdan siya ni Marcos; nanatili si Silas", "Umalis si Tito; nanatili si Juan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Demas deserted Paul because he loved the world, while only Luke remained with him in his time of need (2 Timothy 4).",
+          "fil": "Iniwan ni Demas si Pablo dahil mahal niya ang mundo, habang si Lucas lamang ang nanatili sa kanya sa panahon ng pangangailangan (2 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say about Alexander the metalworker?",
+          "fil": "Ano ang sinabi ni Pablo tungkol kay Alejandro na panday-metal?"
+        },
+        "options": {
+          "en": ["He was a faithful co-worker in the ministry", "He helped Paul during his first defense", "He did Paul a great deal of harm and strongly opposed his message", "He carried Paul's letters to the churches"],
+          "fil": ["Siya ay isang tapat na katrabaho sa ministeryo", "Tinulungan niya si Pablo sa kanyang unang pagtatanggol", "Siya ay nagdulot ng malaking pinsala kay Pablo at matinding sumalungat sa kanyang mensahe", "Dinala niya ang mga sulat ni Pablo sa mga iglesiya"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul warned Timothy about Alexander the metalworker, saying he did Paul great harm and strongly opposed the message (2 Timothy 4).",
+          "fil": "Nagbabala si Pablo kay Timoteo tungkol kay Alejandro na panday-metal, na sinasabing nagdulot ito ng malaking pinsala kay Pablo at matinding sumalungat sa mensahe (2 Timoteo 4)."
+        }
+      }
+    ]
+  }
+}
