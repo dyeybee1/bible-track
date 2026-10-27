@@ -1,0 +1,308 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why did Paul leave Titus in Crete?",
+          "fil": "Bakit iniwan ni Pablo si Tito sa Crete?"
+        },
+        "options": {
+          "en": [
+            "To collect an offering for Jerusalem",
+            "To appoint elders in every town",
+            "To preach to the Gentiles there",
+            "To start a new congregation"
+          ],
+          "fil": [
+            "Para mangolekta ng handog para sa Jerusalem",
+            "Para magtalaga ng mga elder sa bawat bayan",
+            "Para mangaral sa mga Gentil doon",
+            "Para magsimula ng bagong iglesiya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul left Titus in Crete specifically to appoint qualified elders in every town, as explained in Titus 1.",
+          "fil": "Iniwan ni Pablo si Tito sa Crete upang magtalaga ng mga kwalipikadong elder sa bawat bayan, ayon sa Tito 1."
+        }
+      },
+      {
+        "q": {
+          "en": "Which of these is a required quality for an elder according to Titus chapter 1?",
+          "fil": "Alin sa mga ito ang kinakailangang katangian ng isang elder ayon sa Tito kabanata 1?"
+        },
+        "options": {
+          "en": [
+            "He must be blameless and the husband of one wife",
+            "He must be wealthy and respected in the city",
+            "He must have memorized the scriptures"
+          ],
+          "fil": [
+            "Dapat siyang walang kapintasan at asawa ng isang babae",
+            "Dapat siyang mayaman at iginagalang sa lungsod",
+            "Dapat niyang nasaulo ang mga kasulatan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Titus 1 lists being blameless and faithful to one wife among the key qualifications for an elder.",
+          "fil": "Binanggit sa Tito 1 na ang pagiging walang kapintasan at tapat sa isang asawa ay kabilang sa mga pangunahing katangian ng isang elder."
+        }
+      },
+      {
+        "q": {
+          "en": "What was said about the Cretans by one of their own prophets in Titus 1?",
+          "fil": "Ano ang sinabi ng isa sa kanilang sariling mga propeta tungkol sa mga taga-Crete sa Tito 1?"
+        },
+        "options": {
+          "en": [
+            "They are generous and hospitable people",
+            "They are always liars, evil beasts, and lazy gluttons",
+            "They are devoted to the law of Moses",
+            "They are eager to learn new things"
+          ],
+          "fil": [
+            "Sila ay mga mapagbigay at magiliw na tao",
+            "Sila ay palaging sinungaling, masamang hayop, at tamad na matakaw",
+            "Sila ay tapat sa kautusan ni Moises",
+            "Sila ay sabik na matuto ng mga bagong bagay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Titus 1, a Cretan prophet's own words described the Cretans as liars, evil beasts, and lazy gluttons.",
+          "fil": "Sa Tito 1, inilalarawan ng sariling propeta ng mga taga-Crete ang kanilang mga kababayan bilang mga sinungaling, masamang hayop, at tamad na matakaw."
+        }
+      },
+      {
+        "q": {
+          "en": "What was the main problem with the false teachers in Crete described in Titus 1?",
+          "fil": "Ano ang pangunahing problema sa mga maling guro sa Crete ayon sa Tito 1?"
+        },
+        "options": {
+          "en": [
+            "They denied that Jesus rose from the dead",
+            "They were teaching things they should not for dishonest gain",
+            "They refused to baptize new believers",
+            "They were worshipping idols openly"
+          ],
+          "fil": [
+            "Itinanggi nila na muling nabuhay si Jesus",
+            "Nagtuturo sila ng mga bagay na hindi dapat para sa masamang pakinabang",
+            "Tumanggi silang bautismuhan ang mga bagong mananampalataya",
+            "Bukas nilang sinasamba ang mga diyus-diyusan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Titus 1 warns that the false teachers, especially those of the circumcision group, were upsetting families by teaching for dishonest gain.",
+          "fil": "Binabalaan sa Tito 1 na ang mga maling guro, lalo na ang mga mula sa grupo ng pagtutuli, ay nagdudulot ng kaguluhan sa mga pamilya dahil sa pagtuturo para sa masamang pakinabang."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "In Titus 2, what were older women instructed to teach younger women?",
+          "fil": "Sa Tito 2, ano ang itinuro sa mga matatandang babae na ituro sa mga kabataang babae?"
+        },
+        "options": {
+          "en": [
+            "To love their husbands and children and be self-controlled",
+            "To focus on prayer and fasting daily",
+            "To study the scriptures every morning",
+            "To give generously to the poor"
+          ],
+          "fil": [
+            "Na mahalin ang kanilang mga asawa at mga anak at maging mahinahon",
+            "Na mag-focus sa panalangin at pag-aayuno araw-araw",
+            "Na pag-aralan ang mga kasulatan tuwing umaga",
+            "Na magbigay nang bukas-palad sa mga dukha"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Titus 2 instructs older women to train younger women to love their husbands and children and to live self-controlled lives.",
+          "fil": "Sa Tito 2, inutusan ang mga matatandang babae na turuan ang mga kabataang babae na mahalin ang kanilang mga asawa at anak at mamuhay nang may pagpipigil sa sarili."
+        }
+      },
+      {
+        "q": {
+          "en": "According to Titus 2, what does the grace of God teach us to say 'no' to?",
+          "fil": "Ayon sa Tito 2, sa ano tayo ituturo ng biyaya ng Diyos na sabihing 'hindi'?"
+        },
+        "options": {
+          "en": [
+            "Riches and worldly success",
+            "Ungodliness and worldly passions",
+            "Long hours of work and busyness",
+            "Arguments with unbelievers"
+          ],
+          "fil": [
+            "Kayamanan at tagumpay sa mundong ito",
+            "Kasamaan at makamundong pagnanasa",
+            "Matagal na oras ng trabaho at kaabalan",
+            "Mga pagtatalo sa mga hindi naniniwala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Titus 2 teaches that the grace of God instructs us to reject ungodliness and worldly passions and to live upright lives.",
+          "fil": "Itinuturo sa Tito 2 na ang biyaya ng Diyos ay nagtuturo sa atin na tanggihan ang kasamaan at makamundong pagnanasa at mamuhay nang matuwid."
+        }
+      },
+      {
+        "q": {
+          "en": "What instruction does Paul give to young men in Titus 2?",
+          "fil": "Anong tagubilin ang ibinigay ni Pablo sa mga kabataang lalaki sa Tito 2?"
+        },
+        "options": {
+          "en": [
+            "To avoid marrying too young",
+            "To be self-controlled in everything",
+            "To travel and share the gospel",
+            "To obey the elders without question"
+          ],
+          "fil": [
+            "Na iwasan ang pag-aasawa nang maagang-maaga",
+            "Na magpigil-pigl sa sarili sa lahat ng bagay",
+            "Na maglakbay at ibahagi ang ebanghelyo",
+            "Na sundin ang mga elder nang walang tanong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Titus 2, Paul urges young men to be self-controlled above all things.",
+          "fil": "Sa Tito 2, hinihikayat ni Pablo ang mga kabataang lalaki na magpigil-pigil sa sarili higit sa lahat ng bagay."
+        }
+      },
+      {
+        "q": {
+          "en": "What blessed hope does Paul mention in Titus 2?",
+          "fil": "Anong mapalad na pag-asa ang binanggit ni Pablo sa Tito 2?"
+        },
+        "options": {
+          "en": [
+            "The building of a new temple in Jerusalem",
+            "The glorious appearing of our great God and Savior, Jesus Christ",
+            "The end of Roman rule over God's people",
+            "The resurrection of all the prophets"
+          ],
+          "fil": [
+            "Ang pagtatayo ng bagong templo sa Jerusalem",
+            "Ang maringal na pagpapakita ng ating dakilang Diyos at Tagapagligtas na si Jesu-Cristo",
+            "Ang katapusan ng pamumuno ng Roma sa bayan ng Diyos",
+            "Ang muling pagkabuhay ng lahat ng mga propeta"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Titus 2 calls the glorious return of Jesus Christ our 'blessed hope,' which motivates us to live godly lives now.",
+          "fil": "Tinatawag ng Tito 2 ang maringal na pagbabalik ni Jesu-Cristo bilang ating 'mapalad na pag-asa,' na nagbibigay sa atin ng motibasyon na mamuhay nang may kabanalan ngayon."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Paul instruct believers to do regarding governing authorities in Titus 3?",
+          "fil": "Ano ang iniuutos ni Pablo sa mga mananampalataya tungkol sa mga namamahala sa pamahalaan sa Tito 3?"
+        },
+        "options": {
+          "en": [
+            "To challenge unjust laws openly",
+            "To avoid any involvement in civic life",
+            "To be subject to rulers and authorities and to be ready for every good work",
+            "To pray only for rulers who follow God's ways"
+          ],
+          "fil": [
+            "Na lantarang hamunin ang mga di-makatarungang batas",
+            "Na iwasan ang anumang pakikilahok sa buhay sibiko",
+            "Na sumunod sa mga pinuno at may kapangyarihan at maging handa sa bawat mabuting gawa",
+            "Na ipanalangin lamang ang mga pinunong sumusunod sa mga paraan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Titus 3 calls believers to submit to governing authorities and to always be prepared to do good works.",
+          "fil": "Tinatawagan ng Tito 3 ang mga mananampalataya na sumunod sa mga namamahalang awtoridad at laging maging handa sa paggawa ng mabuti."
+        }
+      },
+      {
+        "q": {
+          "en": "According to Titus 3, how are we saved — not because of works of righteousness, but through what?",
+          "fil": "Ayon sa Tito 3, paano tayo naligtas — hindi dahil sa mga gawa ng katuwiran, kundi sa pamamagitan ng ano?"
+        },
+        "options": {
+          "en": [
+            "Through keeping the law of Moses perfectly",
+            "Through His mercy, the washing of rebirth, and renewing of the Holy Spirit",
+            "Through our sincere effort to live morally",
+            "Through the prayers of the apostles on our behalf"
+          ],
+          "fil": [
+            "Sa pamamagitan ng perpektong pagsunod sa kautusan ni Moises",
+            "Sa pamamagitan ng Kanyang awa, ang paghuhugas ng muling kapanganakan, at pagbabago ng Espiritu Santo",
+            "Sa pamamagitan ng ating tapat na pagsisikap na mamuhay nang maayos",
+            "Sa pamamagitan ng panalangin ng mga apostol para sa atin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Titus 3 clearly states that salvation comes through God's mercy and the renewing work of the Holy Spirit, not our own righteous deeds.",
+          "fil": "Malinaw na sinasabi ng Tito 3 na ang kaligtasan ay dumarating sa pamamagitan ng awa ng Diyos at ng pagbabago ng Espiritu Santo, hindi ng ating sariling mga matuwid na gawa."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say to avoid in Titus 3 because they are unprofitable and worthless?",
+          "fil": "Ano ang sinabi ni Pablo na iwasan sa Tito 3 dahil walang pakinabang at walang kabuluhan?"
+        },
+        "options": {
+          "en": [
+            "Idol worship and pagan festivals",
+            "Foolish controversies, genealogies, arguments, and quarrels about the law",
+            "Contact with unbelievers and tax collectors",
+            "Eating food sacrificed to idols"
+          ],
+          "fil": [
+            "Pagsamba sa mga diyus-diyusan at mga pagdiriwang ng mga pagano",
+            "Hangal na mga pagtatalo, mga talaan ng lahi, mga argumento, at mga away tungkol sa kautusan",
+            "Pakikipag-ugnayan sa mga hindi naniniwala at mga maniningil ng buwis",
+            "Pagkain ng pagkain na inihandog sa mga idolo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warns Titus in Tito 3 to avoid foolish controversies, genealogies, and arguments about the law because they benefit no one.",
+          "fil": "Binabalaan ni Pablo si Tito sa Tito 3 na iwasan ang mga hangal na pagtatalo, mga talaan ng lahi, at mga argumento tungkol sa kautusan dahil walang mapapala sa mga ito."
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Paul plan to send to Titus in Titus 3 so that Titus could come meet him?",
+          "fil": "Sino ang plano ni Pablo na ipadala kay Tito sa Tito 3 para makapunta si Tito at makita siya?"
+        },
+        "options": {
+          "en": [
+            "Barnabas or Silas",
+            "Timothy or Luke",
+            "Artemas or Tychicus",
+            "Mark or Aquila"
+          ],
+          "fil": [
+            "Bernabe o Silas",
+            "Timoteo o Lucas",
+            "Artemas o Tiquico",
+            "Marcos o Aquila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "In Titus 3, Paul mentioned he would send either Artemas or Tychicus to Crete so that Titus could travel to meet Paul in Nicopolis.",
+          "fil": "Sa Tito 3, binanggit ni Pablo na magpapadala siya kay Artemas o Tiquico sa Crete para makaalis si Tito at makarating kay Pablo sa Nicopolis."
+        }
+      }
+    ]
+  }
+}
