@@ -1,0 +1,631 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What title does Paul use for God at the start of 2 Corinthians?",
+          "fil": "Anong titulo ang ginamit ni Pablo para sa Diyos sa simula ng 2 Corinto?"
+        },
+        "options": {
+          "en": ["The God of justice and judgment", "The God of all comfort", "The God of power and miracles", "The God of the law and the prophets"],
+          "fil": ["Ang Diyos ng katarungan at paghuhukom", "Ang Diyos ng lahat ng kaginhawahan", "Ang Diyos ng kapangyarihan at mga himala", "Ang Diyos ng kautusan at mga propeta"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul opens 2 Corinthians praising God as the Father of compassion and the God of all comfort, who comforts us in all our troubles (2 Corinthians 1).",
+          "fil": "Binubuksan ni Pablo ang 2 Corinto sa pamamagitan ng pagpuri sa Diyos bilang Ama ng awa at Diyos ng lahat ng kaginhawahan, na nagbibigay-ginhawa sa atin sa lahat ng ating mga kaguluhan (2 Corinto 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did Paul say he delayed visiting the Corinthians again?",
+          "fil": "Bakit sinabi ni Pablo na naantala siya sa pagbisita muli sa mga taga-Corinto?"
+        },
+        "options": {
+          "en": ["He was too busy building churches elsewhere", "He wanted to spare them and not come with grief again", "He was sick and could not travel", "He was waiting for a vision from God"],
+          "fil": ["Abala siya sa pagtatayo ng mga iglesiya sa ibang lugar", "Gusto niyang paginhawahin sila at hindi na muling pumunta nang may kalungkutan", "Siya ay maysakit at hindi makapaglakbay", "Naghihintay siya ng pangitain mula sa Diyos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul explains his change of travel plans was motivated by love — he didn't want to cause them more pain by another difficult visit (2 Corinthians 1).",
+          "fil": "Ipinaliwanag ni Pablo na ang pagbabago ng kanyang mga plano sa paglalakbay ay udyok ng pagmamahal — hindi niya gusto na magdulot ng higit pang sakit sa kanila sa pamamagitan ng isa pang mahirap na pagbisita (2 Corinto 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say God has done for us in Christ, like sealing and giving a deposit?",
+          "fil": "Ano ang sinabi ni Pablo na ginawa ng Diyos para sa atin kay Cristo, tulad ng pagtatak at pagbibigay ng paunang bayad?"
+        },
+        "options": {
+          "en": ["Given us earthly blessings as a guarantee of heaven", "Anointed us, set his seal on us, and put his Spirit in our hearts as a deposit", "Promised to heal all our physical sicknesses", "Ensured we will never suffer trials"],
+          "fil": ["Binigyan tayo ng makalupang mga pagpapala bilang garantiya ng langit", "Pinahiran tayo, nilagyan ng kanyang tatak, at inilagay ang kanyang Espiritu sa ating mga puso bilang paunang bayad", "Nangako na pagagalingin ang lahat ng ating pisikal na karamdaman", "Tiniyak na hindi na tayo magdurusa ng mga pagsubok"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul beautifully describes how God has anointed, sealed, and given us the Spirit as a deposit guaranteeing our salvation (2 Corinthians 1).",
+          "fil": "Magandang inilarawan ni Pablo kung paano pinahiran, tinatakan, at binigyan tayo ng Diyos ng Espiritu bilang paunang bayad na nagtitiyak ng ating kaligtasan (2 Corinto 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What did Paul urge the Corinthians to do regarding the person who had caused grief to the community?",
+          "fil": "Ano ang hinihingi ni Pablo sa mga taga-Corinto na gawin tungkol sa taong nagdulot ng kalungkutan sa komunidad?"
+        },
+        "options": {
+          "en": ["Continue to discipline him strictly", "Forgive him, comfort him, and reaffirm their love for him", "Ask him to leave the community permanently", "Ignore the matter completely"],
+          "fil": ["Patuloy siyang mahigpit na disiplinahin", "Patawarin siya, aliwin siya, at muling ipakita ang pagmamahal sa kanya", "Hiling sa kanya na umalis nang tuluyan sa komunidad", "Huwag pansinin ang bagay nang buo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urged the church to forgive and comfort the repentant person so he would not be overwhelmed by excessive sorrow (2 Corinthians 2).",
+          "fil": "Hinimok ni Pablo ang iglesiya na patawarin at aliwin ang nagsisising tao para hindi siya malunod ng sobrang kalungkutan (2 Corinto 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image did Paul use to describe how God leads believers in his triumph?",
+          "fil": "Anong larawan ang ginamit ni Pablo upang ilarawan kung paano pinangungunahan ng Diyos ang mga mananampalataya sa kanyang tagumpay?"
+        },
+        "options": {
+          "en": ["A shepherd leading sheep to green pastures", "A triumphal procession where believers spread the aroma of Christ", "A flood that sweeps away enemies", "A fire that refines gold"],
+          "fil": ["Isang pastol na nangunguna sa mga tupa sa berdeng pastulan", "Isang matagumpay na prusisyon kung saan ang mga mananampalataya ay nagpapakalat ng aroma ni Cristo", "Isang baha na nagtatanggal ng mga kaaway", "Isang apoy na nagpipino ng ginto"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul pictures God leading us in a triumphal procession in Christ, spreading everywhere the fragrance of knowing him (2 Corinthians 2).",
+          "fil": "Inilalarawan ni Pablo ang Diyos na nangunguna sa atin sa isang matagumpay na prusisyon kay Cristo, nagpapakalat sa lahat ng dako ng halimuyak ng pagkakilala sa kanya (2 Corinto 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Paul said he does not need letters of recommendation to the Corinthians — why?",
+          "fil": "Sinabi ni Pablo na hindi siya nangangailangan ng mga liham ng rekomendasyon sa mga taga-Corinto — bakit?"
+        },
+        "options": {
+          "en": ["Because he is famous throughout the Roman Empire", "Because the Corinthians themselves are his letter of recommendation, written on hearts", "Because he has already proved himself through miracles", "Because all apostles are exempt from needing recommendations"],
+          "fil": ["Dahil siya ay sikat sa buong Imperyo ng Roma", "Dahil ang mga taga-Corinto mismo ang kanyang liham ng rekomendasyon, nakasulat sa mga puso", "Dahil napatunayan na niya ang kanyang sarili sa pamamagitan ng mga himala", "Dahil lahat ng apostol ay hindi kailangang magpakita ng mga rekomendasyon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul calls the Corinthians themselves his letter — written not with ink but by the Spirit, on tablets of human hearts (2 Corinthians 2–3).",
+          "fil": "Tinatawag ni Pablo ang mga taga-Corinto mismo bilang kanyang sulat — nakasulat hindi ng tinta kundi ng Espiritu, sa mga tapyas ng mga pusong pantao (2 Corinto 2–3)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How does Paul compare the old covenant with the new covenant in this chapter?",
+          "fil": "Paano inihambing ni Pablo ang lumang tipan at ang bagong tipan sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["The old was written on stone and brought death; the new is of the Spirit and brings life", "The old was better because it came with miracles", "Both covenants are equal in glory", "The new covenant is simply a restatement of the old"],
+          "fil": ["Ang luma ay nakasulat sa bato at nagdudulot ng kamatayan; ang bago ay ng Espiritu at nagdudulot ng buhay", "Ang luma ay mas maganda dahil dumating ito na may mga himala", "Ang parehong tipan ay pantay sa kaluwalhatian", "Ang bagong tipan ay simpleng muling pahayag ng luma"]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul contrasts the letter that kills with the Spirit that gives life, showing the new covenant's superior glory (2 Corinthians 3).",
+          "fil": "Inihambing ni Pablo ang titik na pumapatay at ang Espiritu na nagbibigay-buhay, na nagpapakita ng mas mataas na kaluwalhatian ng bagong tipan (2 Corinto 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the veil over people's understanding when they turn to the Lord?",
+          "fil": "Ano ang nangyayari sa tabing sa pag-unawa ng mga tao kapag tumalikod sila sa Panginoon?"
+        },
+        "options": {
+          "en": ["It becomes thicker and harder to remove", "It is taken away", "It remains until the final judgment", "It becomes part of their worship ritual"],
+          "fil": ["Nagiging mas makapal at mas mahirap alisin", "Ito ay tinatanggal", "Nananatili ito hanggang sa huling paghuhukom", "Nagiging bahagi ng kanilang ritwal ng pagsamba"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says when anyone turns to the Lord, the veil is removed, giving clear understanding of God's glory (2 Corinthians 3).",
+          "fil": "Sinabi ni Pablo na kapag ang sinuman ay tumalikod sa Panginoon, ang tabing ay tinatanggal, nagbibigay ng malinaw na pag-unawa sa kaluwalhatian ng Diyos (2 Corinto 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say the Spirit of the Lord brings?",
+          "fil": "Ano ang sinabi ni Pablo na dala ng Espiritu ng Panginoon?"
+        },
+        "options": {
+          "en": ["Strict discipline and structure", "Freedom", "Wealth and prosperity", "Fear and trembling"],
+          "fil": ["Mahigpit na disiplina at istruktura", "Kalayaan", "Kayamanan at kasaganaan", "Takot at panginginig"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declares 'where the Spirit of the Lord is, there is freedom' — a key truth about the liberating power of the Holy Spirit (2 Corinthians 3).",
+          "fil": "Ipinahayag ni Pablo na 'kung saan naroon ang Espiritu ng Panginoon, doon ay may kalayaan' — isang pangunahing katotohanan tungkol sa mapagpalayang kapangyarihan ng Espiritu Santo (2 Corinto 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What image did Paul use for believers who carry the gospel message?",
+          "fil": "Anong larawan ang ginamit ni Pablo para sa mga mananampalataya na nagdadala ng mensahe ng ebanghelyo?"
+        },
+        "options": {
+          "en": ["Soldiers carrying mighty weapons", "Jars of clay that hold a priceless treasure", "Eagles soaring above the mountains", "Rivers flowing from a pure spring"],
+          "fil": ["Mga sundalo na nagdadala ng makapangyarihang sandata", "Mga sisidlang-palayok na nagtataglay ng walang-presyong kayamanan", "Mga agila na lumilipad sa itaas ng mga bundok", "Mga ilog na dumadaloy mula sa isang malinis na bukal"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes believers as jars of clay holding the treasure of the gospel, so God's all-surpassing power is clearly from him, not us (2 Corinthians 4).",
+          "fil": "Inilalarawan ni Pablo ang mga mananampalataya bilang mga sisidlang-palayok na nagtataglay ng kayamanan ng ebanghelyo, upang ang kapangyarihan ng Diyos na higit sa lahat ay malinaw na mula sa kanya, hindi sa atin (2 Corinto 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe the temporary troubles versus the eternal glory awaiting believers?",
+          "fil": "Paano inilarawan ni Pablo ang pansamantalang mga kaguluhan kumpara sa walang hanggang kaluwalhatian na naghihintay sa mga mananampalataya?"
+        },
+        "options": {
+          "en": ["Both are equally important to endure", "Light and momentary troubles are achieving an eternal glory that far outweighs them all", "Troubles on earth mean less glory in heaven", "Eternal glory only comes after a lifetime of suffering"],
+          "fil": ["Parehong pantay ang kahalagahan na tiisin", "Ang magaan at sandaling mga kaguluhan ay nagtatamo ng walang hanggang kaluwalhatian na malayo sa higit sa lahat ng ito", "Ang mga kaguluhan sa lupa ay nangangahulugan ng mas kaunting kaluwalhatian sa langit", "Ang walang hanggang kaluwalhatian ay dumarating lamang pagkatapos ng habambuhay na pagdurusa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul puts troubles in eternal perspective — they are momentary and light compared to the surpassing, eternal weight of glory being prepared for us (2 Corinthians 4).",
+          "fil": "Inilalagay ni Pablo ang mga kaguluhan sa walang hanggang pananaw — sila ay pansamantala at magaan kumpara sa napaka-raming, walang hanggang bigat ng kaluwalhatian na inihahanda para sa atin (2 Corinto 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast did Paul make about the outer self and the inner self?",
+          "fil": "Anong kaibahan ang ginawa ni Pablo tungkol sa panlabas na sarili at panloob na sarili?"
+        },
+        "options": {
+          "en": ["The outer grows stronger, the inner grows weaker", "The outer is wasting away, but the inner is being renewed day by day", "Both the outer and inner grow together in Christ", "The outer matters more than the inner for ministry"],
+          "fil": ["Ang panlabas ay lumakas, ang panloob ay humihina", "Ang panlabas ay nasisira, ngunit ang panloob ay nababago araw-araw", "Ang parehong panlabas at panloob ay lumalaki nang magkasama kay Cristo", "Ang panlabas ay mas mahalaga kaysa sa panloob para sa ministeryo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul offers a hope-filled perspective: even as the body weakens, our inner spirit is renewed daily by God's grace (2 Corinthians 4).",
+          "fil": "Nagbibigay si Pablo ng pananaw na puno ng pag-asa: kahit humihina ang katawan, ang ating panloob na espiritu ay nababago araw-araw ng biyaya ng Diyos (2 Corinto 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What did Paul say about being 'away from the body' and being 'at home with the Lord'?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa pagiging 'malayo sa katawan' at pagiging 'nandoon sa Panginoon'?"
+        },
+        "options": {
+          "en": ["Being away from the body means unconscious sleep until judgment", "He preferred to be away from the body and at home with the Lord", "Being at home with the Lord is the same as being in the body", "Death is a loss with no comfort for believers"],
+          "fil": ["Ang pagiging malayo sa katawan ay nangangahulugan ng walang malay na tulog hanggang sa paghuhukom", "Mas gusto niyang mapalayo sa katawan at mananahanan sa Panginoon", "Ang pagiging nandoon sa Panginoon ay katulad ng pagiging nasa katawan", "Ang kamatayan ay pagkawala na walang kaginhawahan para sa mga mananampalataya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul expressed his preference to be away from the body and present with the Lord, showing his confidence in life after death (2 Corinthians 5).",
+          "fil": "Ipinahayag ni Pablo ang kanyang kagustuhang mapalayo sa katawan at makapiling ang Panginoon, na nagpapakita ng kanyang kumpiyansa sa buhay pagkatapos ng kamatayan (2 Corinto 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What role did Paul say believers have in God's plan of reconciliation?",
+          "fil": "Anong papel ang sinabi ni Pablo na mayroon ang mga mananampalataya sa plano ng Diyos para sa pagkakasundo?"
+        },
+        "options": {
+          "en": ["To judge those who are not yet reconciled", "To be ambassadors for Christ, appealing to others to be reconciled to God", "To record and report who accepts the message", "To stay separate from the unreconciled world"],
+          "fil": ["Husgahan ang mga hindi pa nakikipagkasundo", "Maging mga embahador para kay Cristo, nangangalantas sa iba na makipagkasundo sa Diyos", "I-rekord at iulat kung sino ang tumatanggap ng mensahe", "Manatiling hiwalay mula sa hindi nakikipagkasundong mundo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul calls believers ambassadors for Christ — sent to appeal to the world on God's behalf to be reconciled through the cross (2 Corinthians 5).",
+          "fil": "Tinatawag ni Pablo ang mga mananampalataya na mga embahador para kay Cristo — ipinadala para mangangalantas sa mundo sa ngalan ng Diyos na makipagkasundo sa pamamagitan ng krus (2 Corinto 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul mean when he says 'if anyone is in Christ, the new creation has come'?",
+          "fil": "Ano ang ibig sabihin ni Pablo nang sabihin niya na 'kung ang sinuman ay nasa kay Cristo, ang bagong nilikha ay dumating na'?"
+        },
+        "options": {
+          "en": ["The physical world has been renewed", "The old has gone and the new has come — believers are transformed", "A new physical temple has been built", "New spiritual laws have replaced the old ones"],
+          "fil": ["Ang pisikal na mundo ay na-renew na", "Ang luma ay wala na at ang bago ay dumating na — ang mga mananampalataya ay nabago", "Isang bagong pisikal na templo ang itinayo", "Ang mga bagong espirituwal na batas ay pumalit sa mga lumang batas"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Christ, believers become a new creation — the old sinful self is gone and a new, transformed life has come (2 Corinthians 5).",
+          "fil": "Kay Cristo, ang mga mananampalataya ay nagiging bagong nilikha — ang lumang makasalanang sarili ay wala na at isang bago, nabagong buhay ang dumating (2 Corinto 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What famous declaration does Paul make about the timing of salvation?",
+          "fil": "Anong sikat na deklarasyon ang ginawa ni Pablo tungkol sa oras ng kaligtasan?"
+        },
+        "options": {
+          "en": ["Salvation is for those who wait patiently", "Now is the time of God's favor, now is the day of salvation", "Salvation will come in the last days", "Only those who suffer first receive salvation"],
+          "fil": ["Ang kaligtasan ay para sa mga matiyagang naghihintay", "Ngayon ay oras ng pabor ng Diyos, ngayon ay araw ng kaligtasan", "Ang kaligtasan ay darating sa mga huling araw", "Tanging ang mga unang nagdusa ang tatanggap ng kaligtasan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urges urgency — 'now is the day of salvation' — showing that the response to God's grace should not be delayed (2 Corinthians 6).",
+          "fil": "Inuudyukan ni Pablo ang pagmamadali — 'ngayon ay araw ng kaligtasan' — na nagpapakita na ang tugon sa biyaya ng Diyos ay hindi dapat maantala (2 Corinto 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe his ministry in listing many hardships in this chapter?",
+          "fil": "Paano inilarawan ni Pablo ang kanyang ministeryo sa pagbibilang ng maraming kahirapan sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["As an easy path since God was always with him", "As a series of hardships and sufferings that actually proved his authenticity", "As something he regretted because of the cost", "As work that brought him great material reward"],
+          "fil": ["Bilang isang madaling landas dahil lagi ang Diyos sa kanya", "Bilang isang serye ng mga kahirapan at pagdurusa na talagang nagpatunay ng kanyang katotohanan", "Bilang isang bagay na pinagsisihan niya dahil sa gastos", "Bilang trabaho na nagdulot sa kanya ng malaking materyal na gantimpala"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's list of hardships — beatings, imprisonments, sleepless nights — actually served as his credential of genuine ministry (2 Corinthians 6).",
+          "fil": "Ang listahan ni Pablo ng mga kahirapan — pagpapalo, pagkakulong, walang tulog na gabi — ay nagsilbing katibayan ng kanyang tunay na ministeryo (2 Corinto 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul tell believers about being yoked together with unbelievers?",
+          "fil": "Ano ang sinabi ni Pablo sa mga mananampalataya tungkol sa pagsasama sa ilalim ng isang pamatok kasama ang mga hindi mananampalataya?"
+        },
+        "options": {
+          "en": ["It is encouraged for the purpose of evangelism", "Do not be yoked together with unbelievers — what fellowship can light have with darkness?", "It is acceptable in marriage but not in business", "It depends on the conscience of each believer"],
+          "fil": ["Ito ay hinihikayat para sa layunin ng pangangaral", "Huwag mamatok kasama ang mga hindi mananampalataya — anong pakikisama ang magagawa ng liwanag sa kadiliman?", "Ito ay katanggap-tanggap sa kasal ngunit hindi sa negosyo", "Depende ito sa konsiyensya ng bawat mananampalataya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warns against forming binding partnerships with unbelievers, using contrasting images of light/darkness and Christ/Belial (2 Corinthians 6).",
+          "fil": "Binalaan ni Pablo laban sa pagbuo ng mga nakataling pakikipagsosyo sa mga hindi mananampalataya, gamit ang magkasalungat na mga larawan ng liwanag/kadiliman at Cristo/Belial (2 Corinto 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What kind of sorrow did Paul say produces repentance that leads to salvation?",
+          "fil": "Anong uri ng kalungkutan ang sinabi ni Pablo na nagdudulot ng pagsisisi na humahantong sa kaligtasan?"
+        },
+        "options": {
+          "en": ["Worldly sorrow that leads to shame", "Godly sorrow that leads to repentance without regret", "Emotional sorrow that fades quickly", "Public sorrow displayed before others"],
+          "fil": ["Makamundong kalungkutan na nagdudulot ng kahihiyan", "Banal na kalungkutan na nagdudulot ng pagsisisi nang walang pagsisisi", "Emosyonal na kalungkutan na mabilis na nawawala", "Pampublikong kalungkutan na ipinakita sa harap ng iba"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul distinguishes godly sorrow from worldly sorrow — godly sorrow produces genuine repentance and life, while worldly sorrow produces death (2 Corinthians 7).",
+          "fil": "Inihihiwalay ni Pablo ang banal na kalungkutan mula sa makamundong kalungkutan — ang banal na kalungkutan ay nagdudulot ng tunay na pagsisisi at buhay, habang ang makamundong kalungkutan ay nagdudulot ng kamatayan (2 Corinto 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What was Paul's reaction when Titus reported that the Corinthians had mourned and responded well to his earlier letter?",
+          "fil": "Ano ang reaksyon ni Pablo nang iulat ni Tito na ang mga taga-Corinto ay nagsorrow at mabuting tumugon sa kanyang naunang sulat?"
+        },
+        "options": {
+          "en": ["He was still worried and unsatisfied", "He was overjoyed — his joy was complete", "He was cautious and waited to see if it would last", "He was indifferent since he expected them to respond"],
+          "fil": ["Siya ay nag-aalala pa rin at hindi nasiyahan", "Siya ay labis na nagalak — ang kanyang kagalakan ay kumpleto", "Siya ay maingat at naghintay upang makita kung mananatili ito", "Siya ay walang malasakit dahil inaasahan niya silang tumugon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul was overwhelmed with joy and comfort when Titus brought back news of the Corinthians' godly sorrow and eagerness to make things right (2 Corinthians 7).",
+          "fil": "Si Pablo ay nalubog sa kagalakan at kaginhawahan nang dalhin ni Tito ang balita ng banal na kalungkutan ng mga taga-Corinto at pagnanais na itama ang mga bagay-bagay (2 Corinto 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say the Corinthians' godly sorrow had produced in them?",
+          "fil": "Ano ang sinabi ni Pablo na nagawa ng banal na kalungkutan ng mga taga-Corinto sa kanila?"
+        },
+        "options": {
+          "en": ["It made them fearful and withdrawn", "Earnestness, eagerness to clear themselves, indignation, alarm, and longing to make things right", "It led them to give more money to the church", "It caused them to argue more among themselves"],
+          "fil": ["Nagawa silang matakot at umurong", "Kasipagan, kagustuhang linisin ang kanilang sarili, galit, pagkagulat, at pagnanais na itama ang mga bagay-bagay", "Nagawa itong magbigay sila ng mas maraming pera sa iglesiya", "Nagdulot ito ng mas maraming pag-aaway sa kanilang mga sarili"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul celebrates the fruit of godly sorrow in the Corinthians — it produced a beautiful transformation of earnestness, indignation at sin, and eagerness for restoration (2 Corinthians 7).",
+          "fil": "Ipinagdiriwang ni Pablo ang bunga ng banal na kalungkutan sa mga taga-Corinto — nagdulot ito ng magandang pagbabago ng kasipagan, galit sa kasalanan, at pagnanais para sa pagbabago (2 Corinto 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What example of generosity did Paul hold up for the Corinthians to follow?",
+          "fil": "Anong halimbawa ng pagbibigay ang itinanghal ni Pablo para sundan ng mga taga-Corinto?"
+        },
+        "options": {
+          "en": ["The wealthy church in Antioch", "The Macedonian churches who gave out of their extreme poverty with overflowing joy", "The Jerusalem church who gave from their abundance", "The Roman churches who gave large amounts"],
+          "fil": ["Ang mayamang iglesiya sa Antioquia", "Ang mga iglesiya sa Macedonia na nagbigay mula sa kanilang matinding kahirapan nang may masayang kagalakan", "Ang iglesiya sa Jerusalem na nagbigay mula sa kanilang kasaganaan", "Ang mga iglesiya sa Roma na nagbigay ng malaking halaga"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul amazingly held up the poor Macedonian churches as the model — they begged for the privilege of giving despite their extreme poverty (2 Corinthians 8).",
+          "fil": "Kahanga-hangang itinanghal ni Pablo ang mahihirap na iglesiya sa Macedonia bilang modelo — nakiusap sila para sa pribilehiyo ng pagbibigay kahit sa kanilang matinding kahirapan (2 Corinto 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say Christ did that relates to the grace of giving?",
+          "fil": "Ano ang sinabi ni Pablo na ginawa ni Cristo na may kaugnayan sa biyaya ng pagbibigay?"
+        },
+        "options": {
+          "en": ["He multiplied the loaves to feed thousands", "Though he was rich, for our sake he became poor so that through his poverty we might become rich", "He gave his disciples authority over sickness and death", "He taught the disciples how to manage money wisely"],
+          "fil": ["Pinarami niya ang mga tinapay para mapakain ang libu-libo", "Kahit siya ay mayaman, para sa atin ay naging mahirap siya upang sa pamamagitan ng kanyang kahirapan ay maging mayaman tayo", "Binigyan niya ang kanyang mga alagad ng awtoridad laban sa sakit at kamatayan", "Itinuro niya sa mga alagad kung paano matalino ang pamamahala ng pera"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul points to Christ's ultimate act of generosity — leaving heavenly riches to become poor on earth so we could become spiritually rich (2 Corinthians 8).",
+          "fil": "Itinuturo ni Pablo ang pinakamataas na kilos ng pagbibigay ni Cristo — iniwan ang makalangit na kayamanan upang maging mahirap sa lupa para maging espirituwal na mayaman tayo (2 Corinto 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Paul send to help the Corinthians with the collection?",
+          "fil": "Sino ang ipinadala ni Pablo upang tulungan ang mga taga-Corinto sa koleksyon?"
+        },
+        "options": {
+          "en": ["Timothy and Barnabas", "Titus and another brother", "Silas and Luke", "Mark and Aquila"],
+          "fil": ["Timoteo at Bernabe", "Tito at isa pang kapatid", "Silas at Lucas", "Marcos at Aquila"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul sent Titus and a trusted brother to Corinth to ensure the generous collection was ready and handled with integrity (2 Corinthians 8).",
+          "fil": "Ipinadala ni Pablo si Tito at isang pinagkakatiwalaang kapatid sa Corinto upang matiyak na ang mapagbigay na koleksyon ay handa at pinamamahalaan nang may integridad (2 Corinto 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What principle about generosity did Paul state in this chapter?",
+          "fil": "Anong prinsipyo tungkol sa pagbibigay ang isinabi ni Pablo sa kabanatang ito?"
+        },
+        "options": {
+          "en": ["Give only what you can spare after your needs are met", "Whoever sows sparingly will also reap sparingly, and whoever sows generously will reap generously", "Give in secret so no one knows your amount", "Give only to the Jerusalem church"],
+          "fil": ["Magbigay lamang ng maaari mong isalig pagkatapos matugunan ang iyong mga pangangailangan", "Ang sinumang naghahasik nang tipid ay mag-aani rin nang tipid, at ang sinumang naghahasik nang sagana ay mag-aani nang sagana", "Magbigay nang palihim upang walang makaalam ng iyong halaga", "Magbigay lamang sa iglesiya sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's sowing and reaping principle applies to giving — generous giving leads to generous blessing from God (2 Corinthians 9).",
+          "fil": "Ang prinsipyo ni Pablo ng paghahasik at pag-ani ay naaangkop sa pagbibigay — ang sagana na pagbibigay ay humahantong sa sagana na pagpapala mula sa Diyos (2 Corinto 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of giver does Paul say God loves?",
+          "fil": "Anong uri ng nagbibigay ang sinabi ni Pablo na minamahal ng Diyos?"
+        },
+        "options": {
+          "en": ["One who gives the most money", "A cheerful giver", "One who gives reluctantly but consistently", "One who gives only when asked"],
+          "fil": ["Isa na nagbibigay ng pinakamaraming pera", "Isang masayang nagbibigay", "Isa na nagbibigay nang may pag-aalangan ngunit patuloy", "Isa na nagbibigay lamang kapag hinihiling"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul quotes 'God loves a cheerful giver' — the attitude behind the gift matters as much as the amount (2 Corinthians 9).",
+          "fil": "Sinipi ni Pablo na 'minamahal ng Diyos ang isang masayang nagbibigay' — ang saloobin sa likod ng regalo ay kasinghalaga ng halaga (2 Corinto 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "For what did Paul say God would supply generously to those who give?",
+          "fil": "Para saan sinabi ni Pablo na sagana na magbibigay ang Diyos sa mga nagbibigay?"
+        },
+        "options": {
+          "en": ["Earthly wealth and property", "All grace in abundance so they have enough for every good work", "Eternal recognition and fame", "Health and long life"],
+          "fil": ["Makalupang kayamanan at ari-arian", "Lahat ng biyaya nang sagana upang sila ay magkaroon ng sapat para sa bawat mabuting gawa", "Walang hanggang pagkilala at katanyagan", "Kalusugan at mahabang buhay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul promises that God supplies seed for the sower and will enrich the generous in every way, enabling them to be generous on every occasion (2 Corinthians 9).",
+          "fil": "Nangangako si Pablo na ang Diyos ay nagbibigay ng binhi para sa naghahasik at magpapayaman sa mapagbigay sa bawat paraan, na nagbibigay-kakayahan sa kanila na maging mapagbigay sa bawat pagkakataon (2 Corinto 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "How did Paul respond to critics who said he was bold in letters but weak in person?",
+          "fil": "Paano tumugon si Pablo sa mga nagpupuna na siya ay matapang sa mga sulat ngunit mahina nang personal?"
+        },
+        "options": {
+          "en": ["He admitted they were right and apologized", "He warned that when present he would act just as boldly as he writes in letters", "He avoided the topic entirely", "He agreed to stop writing bold letters"],
+          "fil": ["Inamin niya na tama sila at humihingi ng tawad", "Nagbabala siya na nang naroon siya ay kikilos siya nang kasinglakas ng kanyang isinusulat sa mga sulat", "Iniwasan niya ang paksa nang buo", "Sumang-ayon siya na tumigil sa pagsulat ng matapang na mga sulat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul pushed back firmly — he warned that his actions in person would be just as bold as his letters, defending his apostolic authority (2 Corinthians 10).",
+          "fil": "Matibay na tumutol si Pablo — nagbabala siya na ang kanyang mga kilos nang personal ay magiging kasinlakas ng kanyang mga sulat, inaangkin ang kanyang apostolikong awtoridad (2 Corinto 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of 'weapons' did Paul say believers use in spiritual battles?",
+          "fil": "Anong uri ng 'sandata' ang sinabi ni Pablo na ginagamit ng mga mananampalataya sa mga espirituwal na labanan?"
+        },
+        "options": {
+          "en": ["Physical swords and shields", "Weapons with divine power to demolish strongholds", "Personal charisma and clever arguments", "Wealth used to influence others"],
+          "fil": ["Pisikal na mga espada at kalasag", "Mga sandata na may banal na kapangyarihan upang gibain ang mga kuta", "Personal na karisma at matalinong mga argumento", "Kayamanan na ginagamit para maimpluwensyahan ang iba"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declares that his weapons are not of the flesh but divinely powerful for demolishing every argument and pretension against God's knowledge (2 Corinthians 10).",
+          "fil": "Ipinahayag ni Pablo na ang kanyang mga sandata ay hindi ng laman kundi may banal na kapangyarihan para gibain ang bawat argumento at pagmamataas laban sa kaalaman ng Diyos (2 Corinto 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "In whom did Paul say people should boast, according to scripture?",
+          "fil": "Sa kanino sinabi ni Pablo na dapat magmapuri ang mga tao, ayon sa kasulatan?"
+        },
+        "options": {
+          "en": ["In their own strength and achievement", "In the Lord", "In their apostle or leader", "In their heritage and lineage"],
+          "fil": ["Sa kanilang sariling lakas at nagawa", "Sa Panginoon", "Sa kanilang apostol o lider", "Sa kanilang pamana at angkan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul quotes scripture: 'Let the one who boasts, boast in the Lord' — not in human accomplishments or comparisons (2 Corinthians 10).",
+          "fil": "Sinipi ni Pablo ang kasulatan: 'Ang sinumang nagmamapuri, magmapuri sa Panginoon' — hindi sa mga nagawa ng tao o mga paghahambing (2 Corinto 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Paul called himself a 'fool' in this chapter while boasting. What were the false apostles doing?",
+          "fil": "Tinawag ni Pablo ang kanyang sarili na 'hangal' sa kabanatang ito habang nagmamapuri. Ano ang ginagawa ng mga huwad na apostol?"
+        },
+        "options": {
+          "en": ["Leading powerful prayer revivals", "Disguising themselves as apostles of Christ while preaching a different Jesus", "Healing the sick in spectacular ways", "Translating Paul's letters into other languages"],
+          "fil": ["Nangunguna sa makapangyarihang mga revival ng panalangin", "Nagtatago bilang mga apostol ni Cristo habang nangangaral ng ibang Jesus", "Nagpapagaling ng may sakit sa mga espektakular na paraan", "Isinasalin ang mga sulat ni Pablo sa ibang mga wika"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul exposes false apostles who disguise themselves as servants of righteousness, just as Satan disguises himself as an angel of light (2 Corinthians 11).",
+          "fil": "Inilalantad ni Pablo ang mga huwad na apostol na nagtatago bilang mga lingkod ng katuwiran, tulad ng pagtatago ni Satanas bilang anghel ng liwanag (2 Corinto 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hardships did Paul list from his own experience to prove his ministry was genuine?",
+          "fil": "Anong mga kahirapan ang nakalista ni Pablo mula sa kanyang sariling karanasan upang patunayan na ang kanyang ministeryo ay tunay?"
+        },
+        "options": {
+          "en": ["Long hours of prayer and study only", "Shipwrecked three times, in danger from rivers and robbers, sleepless nights, daily anxiety for the churches", "Financial difficulty in collecting offerings", "Disagreements with other apostles"],
+          "fil": ["Mahabang oras ng panalangin at pag-aaral lamang", "Nalunod ng barko nang tatlong beses, sa panganib mula sa mga ilog at mga tulisan, walang tulog na gabi, pang-araw-araw na pagkabahala para sa mga iglesiya", "Pinansyal na kahirapan sa pagkolekta ng mga handog", "Mga hindi pagkakaunawaan sa ibang mga apostol"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's astonishing list of hardships in 2 Corinthians 11 — including three shipwrecks and constant danger — is his 'resume' of authentic ministry.",
+          "fil": "Ang kamangha-manghang listahan ni Pablo ng mga kahirapan sa 2 Corinto 11 — kabilang ang tatlong paglubog ng barko at patuloy na panganib — ay ang kanyang 'resume' ng tunay na ministeryo."
+        }
+      },
+      {
+        "q": {
+          "en": "Besides external dangers, what daily burden did Paul say pressed on him?",
+          "fil": "Bukod sa mga panlabas na panganib, anong pang-araw-araw na pasanin ang sinabi ni Pablo na pumipigil sa kanya?"
+        },
+        "options": {
+          "en": ["Hunger and thirst each day", "His concern for all the churches", "The weight of his chains in prison", "His grief over rejected letters"],
+          "fil": ["Gutom at uhaw sa bawat araw", "Ang kanyang pag-aalala para sa lahat ng mga iglesiya", "Ang bigat ng kanyang mga tanikala sa bilangguan", "Ang kanyang kalungkutan sa mga tinanggihang sulat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's deepest burden was not physical — it was his daily concern and anxious care for all the churches he had planted (2 Corinthians 11).",
+          "fil": "Ang pinakamalalim na pasanin ni Pablo ay hindi pisikal — ito ay ang kanyang pang-araw-araw na pag-aalala at pagkabalisa para sa lahat ng mga iglesiya na kanyang itinanim (2 Corinto 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What remarkable experience did Paul describe about being 'caught up to the third heaven'?",
+          "fil": "Anong kahanga-hangang karanasan ang inilarawan ni Pablo tungkol sa pagiging 'inagaw hanggang sa ikatlong langit'?"
+        },
+        "options": {
+          "en": ["He saw a vision of the new Jerusalem being built", "He was caught up to paradise and heard inexpressible things he was not permitted to tell", "He saw all the angels singing before God's throne", "He received new scriptures that were never written down"],
+          "fil": ["Nakita niya ang pangitain ng bagong Jerusalem na itinatatayo", "Siya ay inagaw hanggang sa paraiso at narinig ang mga hindi masasalitang bagay na hindi niya pinahintulutang sabihin", "Nakita niya ang lahat ng mga anghel na umaawit sa harap ng trono ng Diyos", "Nakatanggap siya ng bagong kasulatan na hindi kailanman isinulat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes being caught up to paradise where he heard things so glorious they cannot be expressed in human language (2 Corinthians 12).",
+          "fil": "Inilalarawan ni Pablo ang pagiging inagaw hanggang sa paraiso kung saan narinig niya ang mga bagay na napakaluwalhatian na hindi maisasalita sa wika ng tao (2 Corinto 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul call the 'thorn in the flesh' that God allowed to remain with him?",
+          "fil": "Ano ang tawag ni Pablo sa 'tinik sa laman' na pinahintulutan ng Diyos na manatili sa kanya?"
+        },
+        "options": {
+          "en": ["A physical illness that slowed his travel", "A messenger of Satan to torment him, to keep him from becoming conceited", "Opposition from Jewish religious leaders", "A difficult co-worker who undermined his ministry"],
+          "fil": ["Isang pisikal na karamdaman na nagpabagal ng kanyang paglalakbay", "Isang mensahero ni Satanas upang pahirapan siya, upang pigilan siyang maging mapagmataas", "Oposisyon mula sa mga liders na relihiyosong Hudyo", "Isang mahirap na katrabaho na nagpapahina ng kanyang ministeryo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul received a 'thorn' — a messenger of Satan — to keep him humble after his extraordinary revelations, and God allowed it to remain (2 Corinthians 12).",
+          "fil": "Nakatanggap si Pablo ng isang 'tinik' — isang mensahero ni Satanas — upang mapanatili siyang mapagpakumbaba pagkatapos ng kanyang mga pambihirang pahayag, at pinahintulutan ng Diyos na manatili ito (2 Corinto 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did God say to Paul when he pleaded three times for the thorn to be removed?",
+          "fil": "Ano ang sinabi ng Diyos kay Pablo nang tatlong beses siyang nanalangin na alisin ang tinik?"
+        },
+        "options": {
+          "en": ["'Trust me and I will remove it soon'", "'My grace is sufficient for you, for my power is made perfect in weakness'", "'You have not yet suffered enough'", "'Pray once more and I will answer you'"],
+          "fil": ["'Magtiwala ka sa akin at aalisin ko ito sa lalong madaling panahon'", "'Ang aking biyaya ay sapat para sa iyo, sapagkat ang aking kapangyarihan ay nagiging perpekto sa kahinaan'", "'Hindi ka pa nagdurusa nang sapat'", "'Manalangin ka nang isa pang beses at sasagutin kita'"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's beautiful answer to Paul was that his grace is sufficient — power is perfected in weakness, turning suffering into a testimony of grace (2 Corinthians 12).",
+          "fil": "Ang magandang sagot ng Diyos kay Pablo ay ang kanyang biyaya ay sapat — ang kapangyarihan ay nagiging perpekto sa kahinaan, na ginagawang testimoniyo ng biyaya ang pagdurusa (2 Corinto 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What concern did Paul express about his upcoming visit to Corinth?",
+          "fil": "Anong pag-aalala ang ipinahayag ni Pablo tungkol sa kanyang paparating na pagbisita sa Corinto?"
+        },
+        "options": {
+          "en": ["That he might not make it because of poor health", "That he might find quarreling, jealousy, and impurity — and would have to mourn over those who have not repented", "That the church might be closed down by authorities", "That his letters had all been lost"],
+          "fil": ["Na baka hindi siya makarating dahil sa mahinang kalusugan", "Na baka makahanap siya ng away, inggit, at karumihan — at kailangang magdalamhati siya sa mga hindi pa nagsisisi", "Na baka isara ang iglesiya ng mga awtoridad", "Na baka nawala na ang lahat ng kanyang mga sulat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul worried his visit might reveal unrepentant sin still present in Corinth, which would cause him great grief (2 Corinthians 12).",
+          "fil": "Nag-aalala si Pablo na ang kanyang pagbisita ay maaaring magsawalat ng hindi pa nagsisising kasalanan na nananatili sa Corinto, na magdudulot sa kanya ng malaking kalungkutan (2 Corinto 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What test did Paul urge the Corinthians to apply to themselves?",
+          "fil": "Anong pagsubok ang hinimok ni Pablo sa mga taga-Corinto na ilapat sa kanilang mga sarili?"
+        },
+        "options": {
+          "en": ["Test how much they can give to the church", "Examine yourselves to see whether you are in the faith", "Test their knowledge of the scriptures", "Examine whether they follow Paul's exact instructions"],
+          "fil": ["Subukan kung magkano ang maaari nilang ibigay sa iglesiya", "Suriin ang inyong mga sarili upang makita kung kayo ay nasa pananampalataya", "Subukan ang kanilang kaalaman sa mga kasulatan", "Suriin kung sinusunod nila ang eksaktong mga tagubilin ni Pablo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urges the Corinthians to examine themselves and test whether Christ is living in them — a call for honest self-reflection (2 Corinthians 13).",
+          "fil": "Hinihikayat ni Pablo ang mga taga-Corinto na suriin ang kanilang mga sarili at subukan kung si Cristo ay nananahan sa kanila — isang tawag para sa tapat na pagninilap-loob (2 Corinto 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What were Paul's final instructions and tone in closing his letter?",
+          "fil": "Ano ang mga huling tagubilin at tono ni Pablo sa pagsara ng kanyang sulat?"
+        },
+        "options": {
+          "en": ["Stern warnings of punishment", "Aim for restoration, agree with one another, live in peace, and greet one another with a holy kiss", "Instructions to appoint a new leader", "A command to cut off divisive members"],
+          "fil": ["Mahigpit na mga babala ng kaparusahan", "Layunin ang pagpapanumbalik, sumang-ayon sa isa't isa, mamuhay nang may kapayapaan, at batiin ang isa't isa ng banal na halik", "Mga tagubilin na humirang ng bagong lider", "Isang utos na putulin ang mga nagdudulot ng pagkakahati"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul closes on a warm and encouraging note — calling them to restoration, unity, peace, and love as they greet one another (2 Corinthians 13).",
+          "fil": "Isinasara ni Pablo nang mainit at nakakapagpalakas ng loob — tinatawag sila sa pagpapanumbalik, pagkakaisa, kapayapaan, at pagmamahal habang binabati nila ang isa't isa (2 Corinto 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the famous apostolic blessing Paul gave at the end of 2 Corinthians?",
+          "fil": "Ano ang sikat na apostolikong pagpapala na ibinigay ni Pablo sa katapusan ng 2 Corinto?"
+        },
+        "options": {
+          "en": ["Peace, wisdom, and understanding from the Lord", "The grace of the Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit", "Strength, courage, and endurance from heaven", "Faith, hope, and love from the Father"],
+          "fil": ["Kapayapaan, karunungan, at pag-unawa mula sa Panginoon", "Ang biyaya ng Panginoong Jesu-Cristo, ang pagmamahal ng Diyos, at ang pakikipag-isa ng Espiritu Santo", "Lakas, tapang, at tiyaga mula sa langit", "Pananampalataya, pag-asa, at pagmamahal mula sa Ama"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's famous Trinitarian blessing — grace from Christ, love from God, fellowship from the Holy Spirit — is one of the most beloved closings in all of scripture (2 Corinthians 13).",
+          "fil": "Ang sikat na Trinitarian na pagpapala ni Pablo — biyaya mula kay Cristo, pagmamahal mula sa Diyos, pakikipag-isa mula sa Espiritu Santo — ay isa sa pinaka-minamahal na mga pagtatapos sa lahat ng kasulatan (2 Corinto 13)."
+        }
+      }
+    ]
+  }
+}
+
