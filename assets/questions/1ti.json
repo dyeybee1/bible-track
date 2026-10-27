@@ -1,0 +1,406 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What were the false teachers in Ephesus promoting that Paul warned Timothy about?",
+          "fil": "Ano ang itinuturo ng mga maling guro sa Efeso na binalaan ni Pablo si Timoteo?"
+        },
+        "options": {
+          "en": ["Prophecies and visions", "Myths and endless genealogies", "New worship songs", "Rules about the Sabbath"],
+          "fil": ["Mga propesiya at pangitain", "Mga alamat at walang katapusang mga talaan ng lahi", "Mga bagong awit ng pagsamba", "Mga alituntunin tungkol sa Sabbath"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warned Timothy that false teachers in Ephesus were focused on myths and endless genealogies rather than God's work of faith (1 Timothy 1).",
+          "fil": "Binalaan ni Pablo si Timoteo na ang mga maling guro sa Efeso ay nakatuon sa mga alamat at walang katapusang talaan ng lahi kaysa sa gawain ng Diyos sa pananampalataya (1 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "According to Paul, for whom is the law made?",
+          "fil": "Ayon kay Pablo, para kanino ginawa ang batas?"
+        },
+        "options": {
+          "en": ["For the righteous", "For new believers", "For lawbreakers and rebels", "For church leaders"],
+          "fil": ["Para sa mga matuwid", "Para sa mga bagong mananampalataya", "Para sa mga lumalabag sa batas at mga rebelde", "Para sa mga lider ng iglesiya"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul taught that the law is not made for the righteous but for lawbreakers, rebels, and the ungodly (1 Timothy 1).",
+          "fil": "Itinuro ni Pablo na ang batas ay hindi ginawa para sa mga matuwid kundi para sa mga lumalabag sa batas, mga rebelde, at mga makasalanan (1 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe himself before he received God's mercy?",
+          "fil": "Paano inilalarawan ni Pablo ang kanyang sarili bago siya tumanggap ng awa ng Diyos?"
+        },
+        "options": {
+          "en": ["A humble servant", "A devoted Pharisee", "A blasphemer, persecutor, and violent man", "A faithful synagogue leader"],
+          "fil": ["Isang mapagpakumbabang lingkod", "Isang tapat na Pariseo", "Isang murahin ng Diyos, mang-uusig, at marahas", "Isang tapat na lider ng sinagoga"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul humbly admitted he was once a blasphemer, persecutor, and violent man before receiving God's mercy (1 Timothy 1).",
+          "fil": "Mapagpakumbabang inamin ni Pablo na siya noon ay isang murahin ng Diyos, mang-uusig, at marahas bago niya natanggap ang awa ng Diyos (1 Timoteo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What trustworthy saying does Paul quote in chapter 1?",
+          "fil": "Anong mapagkakatiwalaang kasabihan ang sinipi ni Pablo sa kabanata 1?"
+        },
+        "options": {
+          "en": ["Faith without works is dead", "Christ Jesus came into the world to save sinners", "The wages of sin is death", "God is love"],
+          "fil": ["Ang pananampalataya na walang gawa ay patay", "Si Cristo Jesus ay naparito sa mundo upang iligtas ang mga makasalanan", "Ang kabayaran ng kasalanan ay kamatayan", "Ang Diyos ay pagmamahal"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul quotes the trustworthy saying that Christ Jesus came into the world to save sinners — of whom Paul considers himself the worst (1 Timothy 1).",
+          "fil": "Sinipi ni Pablo ang mapagkakatiwalaang kasabihan na si Cristo Jesus ay naparito sa mundo upang iligtas ang mga makasalanan — kung saan itinuturing ni Pablo ang kanyang sarili bilang pinakamasama (1 Timoteo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why does Paul urge believers to pray for kings and all those in authority?",
+          "fil": "Bakit hinihikayat ni Pablo ang mga mananampalataya na manalangin para sa mga hari at lahat ng nasa kapangyarihan?"
+        },
+        "options": {
+          "en": ["So they will become Christians", "So they will build more churches", "So believers may live peaceful and quiet lives", "So the government will give money to the church"],
+          "fil": ["Para maging Cristiano sila", "Para magtayo sila ng mas maraming iglesiya", "Para ang mga mananampalataya ay mabuhay nang mapayapa at tahimik", "Para ang pamahalaan ay magbigay ng pera sa iglesiya"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul urged prayer for rulers so that believers could live peaceful and godly lives — this pleases God who wants all to be saved (1 Timothy 2).",
+          "fil": "Hinikayat ni Pablo ang panalangin para sa mga pinuno upang ang mga mananampalataya ay mabuhay nang mapayapa at may kabanalan — ito ay nakalulugod sa Diyos na nagnanais na ang lahat ay maligtas (1 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who does Paul say is the one mediator between God and mankind?",
+          "fil": "Sino ang sinabi ni Pablo na iisang tagapamagitan sa pagitan ng Diyos at ng sangkatauhan?"
+        },
+        "options": {
+          "en": ["The Holy Spirit", "The apostles", "The man Christ Jesus", "The angels"],
+          "fil": ["Ang Espiritu Santo", "Ang mga apostol", "Ang taong si Cristo Jesus", "Ang mga anghel"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul declares there is one God and one mediator between God and mankind — the man Christ Jesus (1 Timothy 2).",
+          "fil": "Ipinahayag ni Pablo na may iisang Diyos at iisang tagapamagitan sa pagitan ng Diyos at ng sangkatauhan — ang taong si Cristo Jesus (1 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul instruct men to pray?",
+          "fil": "Paano itinuturo ni Pablo sa mga lalaki na manalangin?"
+        },
+        "options": {
+          "en": ["With loud voices and fasting", "By lifting holy hands without anger or disputing", "In silence and solitude only", "With the help of a church elder"],
+          "fil": ["Sa malakas na boses at pag-aayuno", "Sa pag-angat ng mga banal na kamay nang walang galit o pagtatalo", "Sa katahimikan at pag-iisa lamang", "Sa tulong ng isang elder ng iglesiya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructs men to lift holy hands in prayer without anger or disputing, reflecting a pure heart before God (1 Timothy 2).",
+          "fil": "Itinuturo ni Pablo sa mga lalaki na itaas ang mga banal na kamay sa panalangin nang walang galit o pagtatalo, na nagpapakita ng dalisay na puso sa harapan ng Diyos (1 Timoteo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say about God's desire for all people?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa kagustuhan ng Diyos para sa lahat ng tao?"
+        },
+        "options": {
+          "en": ["God wants only the faithful to be saved", "God wants all people to be saved and come to know the truth", "God wants people to suffer before being saved", "God saves only those who pray every day"],
+          "fil": ["Nais ng Diyos na ang mga tapat lamang ang maligtas", "Nais ng Diyos na ang lahat ng tao ay maligtas at makarating sa kaalaman ng katotohanan", "Nais ng Diyos na magdusa ang mga tao bago maligtas", "Inililigtas ng Diyos lamang ang mga nanalangin araw-araw"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul clearly states that God wants all people to be saved and to come to a knowledge of the truth (1 Timothy 2).",
+          "fil": "Malinaw na sinabi ni Pablo na nais ng Diyos na ang lahat ng tao ay maligtas at makarating sa kaalaman ng katotohanan (1 Timoteo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Which of these is NOT listed as a qualification for an overseer in 1 Timothy 3?",
+          "fil": "Alin sa mga ito ang HINDI nakalista bilang kwalipikasyon para sa isang obispo sa 1 Timoteo 3?"
+        },
+        "options": {
+          "en": ["Hospitable", "Able to teach", "Wealthy and well-connected", "Husband of one wife"],
+          "fil": ["Mapagpatuloy", "Kayang magturo", "Mayaman at may maraming koneksyon", "Asawa ng isang babae"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wealth and social connections are never listed as qualifications; an overseer must be above reproach, teachable, hospitable, and self-controlled (1 Timothy 3).",
+          "fil": "Ang kayamanan at mga koneksyon sa lipunan ay hindi kailanman nakalista bilang mga kwalipikasyon; ang isang obispo ay dapat walang kapintasan, marunong magturo, mapagpatuloy, at may pagpipigil sa sarili (1 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What role does Paul say the church plays in relation to the truth?",
+          "fil": "Anong papel ang sinabi ni Pablo na ginagampanan ng iglesiya kaugnay ng katotohanan?"
+        },
+        "options": {
+          "en": ["The judge of all truth", "The pillar and foundation of the truth", "The keeper of written law", "The messenger of prophecy only"],
+          "fil": ["Ang hukom ng lahat ng katotohanan", "Ang haligi at pundasyon ng katotohanan", "Ang tagapangalaga ng nakasulat na batas", "Ang mensahero ng propesiya lamang"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes the church as the pillar and foundation of the truth, showing how central the church is to upholding God's word (1 Timothy 3).",
+          "fil": "Inilalarawan ni Pablo ang iglesiya bilang haligi at pundasyon ng katotohanan, na nagpapakita kung gaano kahalaga ang iglesiya sa pagpapanatili ng salita ng Diyos (1 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is part of the 'mystery of godliness' that Paul mentions in chapter 3?",
+          "fil": "Ano ang bahagi ng 'hiwaga ng kabanalan' na binanggit ni Pablo sa kabanata 3?"
+        },
+        "options": {
+          "en": ["The writing of the Scriptures", "Jesus appearing in the flesh and being taken up in glory", "The building of the first church in Jerusalem", "The giving of the law to Moses"],
+          "fil": ["Ang pagsulat ng Kasulatan", "Si Jesus na nagpakita sa laman at inangat sa kaluwalhatian", "Ang pagtatayo ng unang iglesiya sa Jerusalem", "Ang pagbibigay ng batas kay Moises"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The mystery of godliness includes Jesus appearing in the flesh, being vindicated by the Spirit, seen by angels, and taken up in glory (1 Timothy 3).",
+          "fil": "Ang hiwaga ng kabanalan ay kinabibilangan ng pagpapakita ni Jesus sa laman, pagpapatunay ng Espiritu, pagkakita ng mga anghel sa kanya, at pag-angat sa kanya sa kaluwalhatian (1 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must a deacon be tested for before serving?",
+          "fil": "Ano ang dapat suriin sa isang diakono bago siya maglingkod?"
+        },
+        "options": {
+          "en": ["His age and years in the church", "His ability to sing and lead worship", "His character — he must be found blameless first", "His wealth to support the ministry"],
+          "fil": ["Ang kanyang edad at taon sa iglesiya", "Ang kanyang kakayahang umawit at pamunuan ang pagsamba", "Ang kanyang karakter — dapat matuklasan siyang walang kapintasan muna", "Ang kanyang kayamanan para suportahan ang ministeryo"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul says deacons must first be tested, and if there is nothing against them, then let them serve — character matters above all (1 Timothy 3).",
+          "fil": "Sinabi ni Pablo na ang mga diakono ay dapat suriin muna, at kung wala silang kapintasan, saka sila maglingkod — ang karakter ang pinakamahalaga (1 Timoteo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How many wives should an overseer have, according to Paul's instructions?",
+          "fil": "Ilang asawa dapat mayroon ang isang obispo, ayon sa tagubilin ni Pablo?"
+        },
+        "options": {
+          "en": ["As many as he can care for", "He must be single and celibate", "He must be husband of one wife", "He must be widowed"],
+          "fil": ["Kasing dami ng kaya niyang alagaan", "Dapat siyang walang asawa at malinis", "Dapat siyang asawa ng isang babae", "Dapat siyang biyudo"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul specifies that an overseer must be the husband of one wife, reflecting faithfulness and integrity in personal life (1 Timothy 3).",
+          "fil": "Tinukoy ni Pablo na ang isang obispo ay dapat na asawa ng isang babae, na nagpapakita ng katapatan at integridad sa personal na buhay (1 Timoteo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What does the Spirit explicitly warn will happen in later times?",
+          "fil": "Ano ang malinaw na babala ng Espiritu na mangyayari sa mga huling panahon?"
+        },
+        "options": {
+          "en": ["Great earthquakes and wars", "Some will abandon the faith and follow deceiving spirits", "The church will grow rapidly worldwide", "All nations will worship God together"],
+          "fil": ["Malalaking lindol at mga digmaan", "Ang ilan ay tatalikod sa pananampalataya at susunod sa mapanlinlang na mga espiritu", "Ang iglesiya ay mabilis na lalago sa buong mundo", "Ang lahat ng bansa ay sama-samang sasambahin ang Diyos"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Spirit clearly warns that in later times some will abandon the faith, following deceiving spirits and things taught by demons (1 Timothy 4).",
+          "fil": "Malinaw na babala ng Espiritu na sa mga huling panahon ang ilan ay tatalikod sa pananampalataya, susunod sa mapanlinlang na mga espiritu at mga aral ng mga demonyo (1 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What comparison does Paul make between physical training and godliness?",
+          "fil": "Anong paghahambing ang ginawa ni Pablo sa pagitan ng pisikal na pagsasanay at kabanalan?"
+        },
+        "options": {
+          "en": ["Physical training is more important than godliness", "Physical training has some value, but godliness has value for all things", "Godliness and physical training are equally important", "Neither is important for a minister"],
+          "fil": ["Ang pisikal na pagsasanay ay mas mahalaga kaysa kabanalan", "Ang pisikal na pagsasanay ay may kaunting halaga, ngunit ang kabanalan ay may halaga para sa lahat ng bagay", "Ang kabanalan at pisikal na pagsasanay ay pantay ang kahalagahan", "Wala sa dalawa ang mahalaga para sa isang ministro"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says physical training has some value, but godliness is valuable in every way — holding promise for both the present life and the life to come (1 Timothy 4).",
+          "fil": "Sinabi ni Pablo na ang pisikal na pagsasanay ay may kaunting halaga, ngunit ang kabanalan ay may halaga sa lahat ng paraan — may pangako para sa kasalukuyang buhay at sa buhay na darating (1 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul tell Timothy about his young age?",
+          "fil": "Ano ang sinabi ni Pablo kay Timoteo tungkol sa kanyang kabataan?"
+        },
+        "options": {
+          "en": ["Wait until you are older to lead", "Don't let anyone look down on you because you are young", "Youth is not suitable for church leadership", "Ask the elders for all decisions"],
+          "fil": ["Hintayin mong lumaki bago manguna", "Huwag hayaang maliitin ka ng sinuman dahil sa kabataan mo", "Ang kabataan ay hindi angkop para sa pamumuno ng iglesiya", "Itanong sa mga elder ang lahat ng desisyon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul encouraged Timothy not to let anyone look down on him because of his youth, but to set an example for believers in every area of life (1 Timothy 4).",
+          "fil": "Hinikayat ni Pablo si Timoteo na huwag hayaang maliitin siya ng sinuman dahil sa kanyang kabataan, kundi maging halimbawa sa mga mananampalataya sa bawat larangan ng buhay (1 Timoteo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "In what areas does Paul tell Timothy to set an example for believers?",
+          "fil": "Sa anong mga larangan sinabihan ni Pablo si Timoteo na maging halimbawa para sa mga mananampalataya?"
+        },
+        "options": {
+          "en": ["In wealth, status, and connections", "In debate, knowledge, and scholarship", "In speech, conduct, love, faith, and purity", "In fasting, prayer, and pilgrimages"],
+          "fil": ["Sa kayamanan, katayuan, at mga koneksyon", "Sa debate, kaalaman, at pag-aaral", "Sa pananalita, ugali, pagmamahal, pananampalataya, at kadalisayan", "Sa pag-aayuno, panalangin, at mga paglalakbay"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul told Timothy to set an example in speech, conduct, love, faith, and purity — a complete picture of a godly life (1 Timothy 4).",
+          "fil": "Sinabi ni Pablo kay Timoteo na maging halimbawa sa pananalita, ugali, pagmamahal, pananampalataya, at kadalisayan — isang kumpletong larawan ng banal na buhay (1 Timoteo 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How does Paul say Timothy should treat an older man who sins?",
+          "fil": "Paano sinabi ni Pablo na dapat tratuhin ni Timoteo ang isang nakatatandang lalaki na nagkakasala?"
+        },
+        "options": {
+          "en": ["Remove him from the church immediately", "Rebuke him sharply and publicly", "Do not rebuke him harshly but appeal to him as a father", "Ignore the situation to keep the peace"],
+          "fil": ["Alisin siya agad sa iglesiya", "Pagsabihan siya nang mahigpit at publiko", "Huwag siyang pagsabihang marahas kundi pakiusapan siya bilang ama", "Huwag pansinin ang sitwasyon para mapanatili ang kapayapaan"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul instructs Timothy to appeal to an older man as a father rather than rebuking him harshly, showing respect while still addressing wrongdoing (1 Timothy 5).",
+          "fil": "Itinuturo ni Pablo kay Timoteo na pakiusapan ang isang nakatatandang lalaki bilang ama at hindi pagsabihang marahas, na nagpapakita ng paggalang habang tinutugunan ang pagkakamali (1 Timoteo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the minimum age requirement for a widow to be placed on the official list for church support?",
+          "fil": "Ano ang pinakamababang edad para sa isang biyuda upang makapasok sa opisyal na listahan para sa suporta ng iglesiya?"
+        },
+        "options": {
+          "en": ["50 years old", "60 years old", "70 years old", "40 years old"],
+          "fil": ["50 taong gulang", "60 taong gulang", "70 taong gulang", "40 taong gulang"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul sets the age of 60 as the minimum for a widow to be put on the list, along with other qualifications like being faithful and known for good deeds (1 Timothy 5).",
+          "fil": "Itinakda ni Pablo ang edad na 60 bilang pinakamababa para sa isang biyuda na makapasok sa listahan, kasama ang iba pang mga kwalipikasyon tulad ng pagiging tapat at kilala sa mga mabuting gawa (1 Timoteo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say about elders who lead the church well?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa mga elder na mabuting namumuno sa iglesiya?"
+        },
+        "options": {
+          "en": ["They should retire early and rest", "They deserve double honor, especially those who preach and teach", "They must remain in the same church forever", "They should hand leadership to younger members quickly"],
+          "fil": ["Dapat silang mag-retire nang maaga at magpahinga", "Karapat-dapat sila sa dobleng karangalan, lalo na ang mga nagpapangaral at nagtuturo", "Dapat silang manatili sa parehong iglesiya magpakailanman", "Dapat nilang mabilis na ipasa ang pamumuno sa mga mas batang miyembro"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul teaches that elders who lead well deserve double honor, especially those who work hard at preaching and teaching (1 Timothy 5).",
+          "fil": "Itinuturo ni Pablo na ang mga elder na mabuting namumuno ay karapat-dapat sa dobleng karangalan, lalo na ang mga nagsisikap sa pagpapangaral at pagtuturo (1 Timoteo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What personal health advice did Paul give to Timothy?",
+          "fil": "Anong personal na payo sa kalusugan ang ibinigay ni Pablo kay Timoteo?"
+        },
+        "options": {
+          "en": ["Fast regularly to keep your body pure", "Exercise daily and eat well", "Stop drinking only water and use a little wine for your stomach and frequent illnesses", "Avoid all food offered to idols"],
+          "fil": ["Mag-ayuno nang regular para mapanatiling dalisay ang iyong katawan", "Mag-ehersisyo araw-araw at kumain nang maayos", "Huwag uminom ng tubig lamang at gumamit ng kaunting alak para sa iyong tiyan at madalas na karamdaman", "Iwasan ang lahat ng pagkaing inialok sa mga diyus-diyusan"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul thoughtfully advised Timothy to use a little wine for his frequent stomach problems and illnesses, showing pastoral care for Timothy's health (1 Timothy 5).",
+          "fil": "Maingat na pinahintulutan ni Pablo si Timoteo na gumamit ng kaunting alak para sa kanyang madalas na sakit sa tiyan at mga karamdaman, na nagpapakita ng pastoral na pag-aalaga para sa kalusugan ni Timoteo (1 Timoteo 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Paul say about those who think godliness is a means to financial gain?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa mga nag-iisip na ang kabanalan ay isang paraan para sa pinansyal na pakinabang?"
+        },
+        "options": {
+          "en": ["They are wise stewards of God's blessings", "They have discovered a great truth", "They are corrupted in mind and have wandered from the truth", "They should be made church treasurers"],
+          "fil": ["Sila ay matalinong katiwala ng mga pagpapala ng Diyos", "Natuklasan nila ang isang dakilang katotohanan", "Sila ay may sirang pag-iisip at lumayo sa katotohanan", "Dapat silang gawing mga katiwala ng iglesiya"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul strongly warns that those who think godliness is a way to get rich have corrupt minds and have strayed from the truth (1 Timothy 6).",
+          "fil": "Mahigpit na binalaan ni Pablo na ang mga nag-iisip na ang kabanalan ay isang paraan para yumaman ay may sirang pag-iisip at lumayo na sa katotohanan (1 Timoteo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say is 'great gain'?",
+          "fil": "Ano ang sinabi ni Pablo na 'malaking pakinabang'?"
+        },
+        "options": {
+          "en": ["A large inheritance from your family", "Godliness with contentment", "Success in ministry and many followers", "Good health and long life"],
+          "fil": ["Isang malaking mana mula sa iyong pamilya", "Kabanalan na may kasiyahan", "Tagumpay sa ministeryo at maraming tagasunod", "Magandang kalusugan at mahabang buhay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul teaches that godliness with contentment is great gain — we brought nothing into the world, and we can take nothing out of it (1 Timothy 6).",
+          "fil": "Itinuturo ni Pablo na ang kabanalan na may kasiyahan ay malaking pakinabang — wala tayong dala nang pumasok sa mundo, at wala tayong madadala palabas nito (1 Timoteo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say is a root of all kinds of evil?",
+          "fil": "Ano ang sinabi ni Pablo na ugat ng lahat ng uri ng kasamaan?"
+        },
+        "options": {
+          "en": ["Pride and arrogance", "The love of money", "Disobedience to authority", "Laziness and idleness"],
+          "fil": ["Pagmamalaki at kayabangan", "Ang pagmamahal sa pera", "Pagsuway sa awtoridad", "Katamaran at pagpapabaya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warns that the love of money — not money itself — is a root of all kinds of evil, and some have wandered from the faith because of it (1 Timothy 6).",
+          "fil": "Binalaan ni Pablo na ang pagmamahal sa pera — hindi ang pera mismo — ay ugat ng lahat ng uri ng kasamaan, at ang ilan ay lumayo sa pananampalataya dahil dito (1 Timoteo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What virtues does Paul urge Timothy to pursue instead of fleeing evil?",
+          "fil": "Anong mga birtud ang hinihikayat ni Pablo kay Timoteo na habulin sa halip na tumakas sa kasamaan?"
+        },
+        "options": {
+          "en": ["Wealth, status, and influence", "Righteousness, godliness, faith, love, endurance, and gentleness", "Wisdom, knowledge, prophecy, and healing", "Humility, silence, fasting, and solitude"],
+          "fil": ["Kayamanan, katayuan, at impluwensya", "Katuwiran, kabanalan, pananampalataya, pagmamahal, tiyaga, at kahinahunan", "Karunungan, kaalaman, propesiya, at pagpapagaling", "Kababaang-loob, katahimikan, pag-aayuno, at pag-iisa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul tells Timothy to flee evil and pursue righteousness, godliness, faith, love, endurance, and gentleness — the marks of a true person of God (1 Timothy 6).",
+          "fil": "Sinabihan ni Pablo si Timoteo na tumakas sa kasamaan at habulin ang katuwiran, kabanalan, pananampalataya, pagmamahal, tiyaga, at kahinahunan — mga katangian ng isang tunay na tao ng Diyos (1 Timoteo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What instructions does Paul give to those who are rich in this present age?",
+          "fil": "Anong mga tagubilin ang ibinigay ni Pablo sa mga mayaman sa kasalukuyang panahon?"
+        },
+        "options": {
+          "en": ["Give all their wealth to the poor immediately", "Not to be arrogant or put their hope in wealth, but to be generous and willing to share", "Invest their money to grow the church's funds", "Use their wealth to build bigger worship buildings"],
+          "fil": ["Ibigay agad ang lahat ng kanilang kayamanan sa mga mahihirap", "Huwag maging mayabang o ilagak ang kanilang pag-asa sa kayamanan, kundi maging mapagbigay at handang magbahagi", "I-invest ang kanilang pera para palaguin ang mga pondo ng iglesiya", "Gamitin ang kanilang kayamanan para magtayo ng mas malalaking gusali ng pagsamba"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructs the rich not to be arrogant or trust in wealth, but to be generous and willing to share, storing up treasure for the life that is truly life (1 Timothy 6).",
+          "fil": "Itinuturo ni Pablo sa mga mayaman na huwag maging mayabang o magtiwala sa kayamanan, kundi maging mapagbigay at handang magbahagi, na nag-iimbak ng kayamanan para sa buhay na tunay na buhay (1 Timoteo 6)."
+        }
+      }
+    ]
+  }
+}
