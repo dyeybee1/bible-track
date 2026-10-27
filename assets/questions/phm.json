@@ -1,0 +1,51 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why did Paul write this personal letter to Philemon?",
+          "fil": "Bakit isinulat ni Pablo ang personal na sulat na ito kay Filemon?"
+        },
+        "options": {
+          "en": ["To instruct Philemon on how to lead a church", "To appeal for the return of Onesimus, a runaway slave who had become a Christian", "To ask Philemon to send money for the Jerusalem church"],
+          "fil": ["Para turuan si Filemon kung paano pamunuan ang isang iglesiya", "Para makiusap para sa pagbabalik ni Onesimo, isang aliping tumakas na naging Cristiano", "Para hilingin kay Filemon na magpadala ng pera para sa iglesiya sa Jerusalem"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Filemon 1:10-12 — Paul appealed for Onesimus, whom he had come to regard as his own son, asking Philemon to receive him back.",
+          "fil": "Filemon 1:10-12 — Nakiusap si Pablo para kay Onesimo, na itinuring niya na parang sariling anak, na hinihiling kay Filemon na tanggapin siya ulit."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe his relationship with Onesimus in this letter?",
+          "fil": "Paano inilalarawan ni Pablo ang kanyang ugnayan kay Onesimo sa sulat na ito?"
+        },
+        "options": {
+          "en": ["As a business partner he had hired", "As someone he had led to faith and who had become like a son to him", "As a fellow apostle he trained in Rome"],
+          "fil": ["Bilang isang kasosyo sa negosyo na kanyang inupahan", "Bilang isang taong pinangunahan niya sa pananampalataya at naging parang anak sa kanya", "Bilang isang kapwa apostol na sinanay niya sa Roma"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Filemon 1:10 — Paul called Onesimus 'my son, who became my son while I was in chains.'",
+          "fil": "Filemon 1:10 — Tinawag ni Pablo si Onesimo na 'aking anak, na naging anak ko habang nakakulong ako.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say he was willing to do if Onesimus had wronged Philemon or owed him anything?",
+          "fil": "Ano ang sinabi ni Pablo na handang gawin niya kung nagkasala si Onesimo kay Filemon o may utang siya?"
+        },
+        "options": {
+          "en": ["He would discipline Onesimus himself in Rome", "He would repay Philemon whatever was owed, charging it to his own account", "He would send another servant to replace Onesimus"],
+          "fil": ["Disiplinahin niya si Onesimo mismo sa Roma", "Babayaran niya si Filemon ng anumang utang, isasalang ito sa kanyang sariling account", "Magpapadala siya ng ibang utusan para palitan si Onesimo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Filemon 1:18-19 — Paul wrote 'charge it to me' and signed the letter in his own hand as a personal guarantee.",
+          "fil": "Filemon 1:18-19 — Isinulat ni Pablo na 'isalang ito sa akin' at nilagdaan ang sulat sa kanyang sariling kamay bilang personal na garantiya."
+        }
+      }
+    ]
+  }
+}
