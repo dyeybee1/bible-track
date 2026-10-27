@@ -1,0 +1,75 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What kind of help does the writer praise Gaius for giving?",
+          "fil": "Anong uri ng tulong ang pinuri ng sumulat na ibinigay ni Gayo?"
+        },
+        "options": {
+          "en": [
+            "Welcoming and helping traveling fellow believers",
+            "Paying soldiers to guard the city",
+            "Building a palace for the governor"
+          ],
+          "fil": [
+            "Pagtanggap at pagtulong sa mga naglalakbay na kapwa mananampalataya",
+            "Pagbabayad sa mga sundalo upang bantayan ang lungsod",
+            "Pagtatayo ng palasyo para sa gobernador"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gaius is praised for faithfully caring for fellow believers, including those he did not personally know (3 John 1).",
+          "fil": "Pinuri si Gayo sa tapat na pag-aalaga sa mga kapwa mananampalataya, pati sa mga hindi niya personal na kilala (3 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What problem does the writer address concerning Diotrephes?",
+          "fil": "Anong problema tungkol kay Diotrefes ang tinutugunan ng sumulat?"
+        },
+        "options": {
+          "en": [
+            "He cannot find a ship for his journey",
+            "He wants to be first and refuses to welcome the brothers",
+            "He has lost the money for a temple offering"
+          ],
+          "fil": [
+            "Hindi siya makahanap ng barko para sa kanyang paglalakbay",
+            "Gusto niyang manguna at ayaw niyang tanggapin ang mga kapatid",
+            "Nawala niya ang pera para sa handog sa templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Diotrephes seeks prominence, rejects the writer's authority, and prevents others from welcoming the brothers (3 John 1).",
+          "fil": "Hangad ni Diotrefes na manguna, tinatanggihan niya ang awtoridad ng sumulat, at hinahadlangan ang iba sa pagtanggap sa mga kapatid (3 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of example should Gaius follow, alongside the good testimony about Demetrius?",
+          "fil": "Anong uri ng halimbawa ang dapat sundin ni Gayo, kasabay ng mabuting patotoo tungkol kay Demetrio?"
+        },
+        "options": {
+          "en": [
+            "The pursuit of fame above everything else",
+            "Those who drive fellow believers away",
+            "Good conduct rather than evil behavior"
+          ],
+          "fil": [
+            "Paghahangad ng katanyagan nang higit sa lahat",
+            "Ang mga nagtataboy sa mga kapwa mananampalataya",
+            "Mabuting asal sa halip na masamang pag-uugali"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer urges Gaius to imitate good and then affirms the good testimony about Demetrius (3 John 1).",
+          "fil": "Hinimok ng sumulat si Gayo na tularan ang mabuti at pinagtibay ang mabuting patotoo tungkol kay Demetrio (3 Juan 1)."
+        }
+      }
+    ]
+  }
+}
