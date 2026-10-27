@@ -1,0 +1,344 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What did the Thessalonians turn away from when they accepted the gospel?",
+          "fil": "Ano ang pinagtalikuran ng mga taga-Tesalonica nang tanggapin nila ang ebanghelyo?"
+        },
+        "options": {
+          "en": ["Their sinful lifestyles only", "Their idols, to serve the living God", "The Jewish law", "Their wealth and possessions"],
+          "fil": ["Ang kanilang makasalanang pamumuhay lamang", "Ang kanilang mga diyus-diyosan, upang maglingkod sa buhay na Diyos", "Ang batas ng mga Hudyo", "Ang kanilang kayamanan at pag-aari"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In 1 Thessalonians 1, Paul says they turned from idols to serve the living and true God.",
+          "fil": "Sa 1 Tesalonica 1, sinabi ni Pablo na tumalikod sila sa mga diyus-diyosan upang maglingkod sa buhay at tunay na Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "With what did the gospel come to the Thessalonians, beyond just words?",
+          "fil": "Sa pamamagitan ng ano dumating ang ebanghelyo sa mga taga-Tesalonica, higit sa salita lamang?"
+        },
+        "options": {
+          "en": ["Signs and wonders only", "Great financial blessing", "Power, the Holy Spirit, and deep conviction", "A letter from Jerusalem"],
+          "fil": ["Mga tanda at kababalaghan lamang", "Malaking pagpapala sa pananalapi", "Kapangyarihan, Espiritu Santo, at malalim na katiyakan", "Isang sulat mula sa Jerusalem"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul notes in 1 Thessalonians 1 that the gospel arrived not just in words but with power, the Holy Spirit, and full conviction.",
+          "fil": "Sinabi ni Pablo sa 1 Tesalonica 1 na dumating ang ebanghelyo hindi lamang sa salita kundi pati sa kapangyarihan, Espiritu Santo, at buong katiyakan."
+        }
+      },
+      {
+        "q": {
+          "en": "In which regions did the Thessalonians become a model for other believers?",
+          "fil": "Sa aling mga rehiyon naging halimbawa ang mga taga-Tesalonica sa ibang mga mananampalataya?"
+        },
+        "options": {
+          "en": ["Judea and Samaria", "Macedonia and Achaia", "Asia and Galatia", "Rome and Corinth"],
+          "fil": ["Judea at Samaria", "Macedonia at Achaia", "Asia at Galatia", "Roma at Corinto"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "1 Thessalonians 1 says their faith spread as a model throughout Macedonia and Achaia.",
+          "fil": "Sinasabi sa 1 Tesalonica 1 na kumalat ang kanilang pananampalataya bilang halimbawa sa buong Macedonia at Achaia."
+        }
+      },
+      {
+        "q": {
+          "en": "What three qualities of the Thessalonians did Paul give thanks for?",
+          "fil": "Anong tatlong katangian ng mga taga-Tesalonica ang pinasalamatan ni Pablo?"
+        },
+        "options": {
+          "en": ["Wisdom, knowledge, and prophecy", "Faith, love, and hope", "Prayer, fasting, and giving", "Humility, patience, and obedience"],
+          "fil": ["Karunungan, kaalaman, at propesiya", "Pananampalataya, pagmamahal, at pag-asa", "Panalangin, pag-aayuno, at pagbibigay", "Kababaang-loob, pasensiya, at pagsunod"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul thanked God for their work produced by faith, labor prompted by love, and endurance inspired by hope in 1 Thessalonians 1.",
+          "fil": "Nagpasalamat si Pablo sa Diyos para sa kanilang gawang bunga ng pananampalataya, pagod na dulot ng pagmamahal, at tiyaga na nagmumula sa pag-asa sa 1 Tesalonica 1."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "To what did Paul compare his gentle care for the Thessalonians?",
+          "fil": "Sa ano inihambing ni Pablo ang kanyang malambot na pag-aalaga sa mga taga-Tesalonica?"
+        },
+        "options": {
+          "en": ["A shepherd watching his flock", "A nursing mother caring for her children", "A teacher instructing students", "A king ruling his people"],
+          "fil": ["Isang pastol na nagbabantay sa kanyang kawan", "Isang nagpapasusong ina na nag-aalaga sa kanyang mga anak", "Isang guro na nagtuturo sa mga estudyante", "Isang hari na namumuno sa kanyang bayan"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In 1 Thessalonians 2, Paul compared himself to a nursing mother who tenderly cares for her children.",
+          "fil": "Sa 1 Tesalonica 2, inihambing ni Pablo ang kanyang sarili sa isang nagpapasusong ina na malambot na nag-aalaga sa kanyang mga anak."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the Thessalonians receive Paul's message — as the word of man or of God?",
+          "fil": "Paano tinanggap ng mga taga-Tesalonica ang mensahe ni Pablo — bilang salita ng tao o ng Diyos?"
+        },
+        "options": {
+          "en": ["As the word of man, to be tested first", "As the word of God, which is at work in believers", "As a mixture of wisdom and tradition", "As an inspiring human philosophy"],
+          "fil": ["Bilang salita ng tao, na dapat muna suriin", "Bilang salita ng Diyos, na gumagawa sa mga mananampalataya", "Bilang pinagsamang karunungan at tradisyon", "Bilang nakaka-inspirang pilosopiyang pantao"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul praises them in 1 Thessalonians 2 for accepting his message not as a human word but as what it truly is — the word of God.",
+          "fil": "Pinupuri sila ni Pablo sa 1 Tesalonica 2 dahil tinanggap nila ang kanyang mensahe hindi bilang salita ng tao kundi bilang tunay na salita ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say he was NOT doing in his ministry — things that would show impure motives?",
+          "fil": "Ano ang sinabi ni Pablo na hindi niya ginagawa sa kanyang ministeryo — mga bagay na nagpapakita ng masamang motibo?"
+        },
+        "options": {
+          "en": ["Preaching without preparation", "Using flattery or seeking praise from people", "Traveling to new cities", "Healing the sick"],
+          "fil": ["Mangangaral nang walang paghahanda", "Paggamit ng pagmamalaki o paghahanap ng papuri mula sa mga tao", "Paglalakbay sa mga bagong lungsod", "Pagpapagaling ng mga maysakit"]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "In 1 Thessalonians 2, Paul clarifies his ministry was free from flattery, greed, and seeking glory from people.",
+          "fil": "Sa 1 Tesalonica 2, nilinaw ni Pablo na ang kanyang ministeryo ay walang pagmamalaki, kasakiman, o paghahanap ng kaluwalhatian mula sa mga tao."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say the Jews did that made them displease God and be hostile to everyone?",
+          "fil": "Ano ang ginawa ng mga Hudyo na nagpapabaya sa Diyos at nagpapaaway sa lahat?"
+        },
+        "options": {
+          "en": ["They destroyed the temple", "They killed Jesus and the prophets and drove out the apostles", "They broke the covenant of Moses", "They allied with Rome against believers"],
+          "fil": ["Winasak nila ang templo", "Pinatay nila si Jesus at ang mga propeta at pinalayas ang mga apostol", "Sinira nila ang tipan ni Moises", "Nakiisa sila sa Roma laban sa mga mananampalataya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says in 1 Thessalonians 2 that the Jews killed the Lord Jesus and the prophets and drove out the apostles.",
+          "fil": "Sinabi ni Pablo sa 1 Tesalonica 2 na pinatay ng mga Hudyo ang Panginoong Jesus at ang mga propeta at pinalayas ang mga apostol."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who did Paul send to Thessalonica to strengthen and encourage the believers there?",
+          "fil": "Sino ang isinugo ni Pablo sa Tesalonica upang palakasin at palakasin ng loob ang mga mananampalataya roon?"
+        },
+        "options": {
+          "en": ["Silas", "Barnabas", "Timothy", "Luke"],
+          "fil": ["Silas", "Barnabas", "Timoteo", "Lucas"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "In 1 Thessalonians 3, Paul says he sent Timothy from Athens to strengthen and encourage them in their faith.",
+          "fil": "Sa 1 Tesalonica 3, sinabi ni Pablo na isinugo niya si Timoteo mula sa Atenas upang palakasin at palakasin ng loob sila sa kanilang pananampalataya."
+        }
+      },
+      {
+        "q": {
+          "en": "What good news did Timothy bring back to Paul about the Thessalonians?",
+          "fil": "Anong mabuting balita ang dinala ni Timoteo pabalik kay Pablo tungkol sa mga taga-Tesalonica?"
+        },
+        "options": {
+          "en": ["That they had built a new church building", "That they had good memories of Paul and longed to see him", "That their faith and love were strong", "That many new people had joined them"],
+          "fil": ["Na nagtayo sila ng bagong gusali ng iglesiya", "Na mahal nila ang alaala ni Pablo at nagnanais na makita siya", "Na ang kanilang pananampalataya at pagmamahal ay matatag", "Na maraming bagong tao ang sumali sa kanila"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Timothy returned with encouraging news in 1 Thessalonians 3 — that their faith and love remained strong.",
+          "fil": "Bumalik si Timoteo na may nakapagpapatibay na balita sa 1 Tesalonica 3 — na ang kanilang pananampalataya at pagmamahal ay nananatiling matatag."
+        }
+      },
+      {
+        "q": {
+          "en": "Where was Paul when he sent Timothy to Thessalonica?",
+          "fil": "Nasaan si Pablo nang ipadala niya si Timoteo sa Tesalonica?"
+        },
+        "options": {
+          "en": ["Corinth", "Athens", "Philippi", "Rome"],
+          "fil": ["Corinto", "Atenas", "Filipos", "Roma"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "1 Thessalonians 3 states that Paul sent Timothy while he himself was left in Athens.",
+          "fil": "Sinasabi sa 1 Tesalonica 3 na isinugo ni Pablo si Timoteo habang siya mismo ay naiwan sa Atenas."
+        }
+      },
+      {
+        "q": {
+          "en": "What was Paul's prayer for the Thessalonians at the end of this chapter?",
+          "fil": "Ano ang panalangin ni Pablo para sa mga taga-Tesalonica sa katapusan ng kabanatang ito?"
+        },
+        "options": {
+          "en": ["That they would have great wealth", "That he might see them again and their love would increase", "That they would travel to Rome", "That Timothy would stay with them forever"],
+          "fil": ["Na magkaroon sila ng malaking kayamanan", "Na makita niya sila muli at lumakas ang kanilang pagmamahal", "Na maglakbay sila sa Roma", "Na si Timoteo ay manatili sa kanila magpakailanman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul prays in 1 Thessalonians 3 that God would open the way for him to visit them again and cause their love to grow and overflow.",
+          "fil": "Ipinanalangin ni Pablo sa 1 Tesalonica 3 na buksan ng Diyos ang daan para mapuntahan sila muli at paramihin ang kanilang pagmamahal."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What did Paul urge the Thessalonians to avoid as part of living holy lives?",
+          "fil": "Ano ang iminungkahi ni Pablo sa mga taga-Tesalonica na iwasan bilang bahagi ng pamumuhay ng banal?"
+        },
+        "options": {
+          "en": ["Laziness and poverty", "Sexual immorality", "Eating food offered to idols", "Arguing with leaders"],
+          "fil": ["Katamaran at kahirapan", "Sekswal na imoralidad", "Pagkain ng pagkain na inialay sa mga diyus-diyosan", "Pag-aaway sa mga lider"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In 1 Thessalonians 4, Paul instructs them to avoid sexual immorality and to control their own bodies in holiness.",
+          "fil": "Sa 1 Tesalonica 4, inutusan ni Pablo sila na iwasan ang sekswal na imoralidad at kontrolin ang kanilang sariling katawan sa kabanalan."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical instruction about daily life did Paul give alongside holiness?",
+          "fil": "Anong praktikal na tagubilin tungkol sa pang-araw-araw na buhay ang ibinigay ni Pablo kasabay ng kabanalan?"
+        },
+        "options": {
+          "en": ["Sell everything and give to the poor", "Work with your hands and lead a quiet life", "Gather daily for long prayer meetings", "Avoid contact with unbelievers"],
+          "fil": ["Ibenta ang lahat at ibigay sa mahihirap", "Magtrabaho ng inyong mga kamay at mamuhay nang tahimik", "Mag-ipon araw-araw para sa mahabang pagtitipon ng panalangin", "Iwasan ang pakikipag-ugnayan sa mga hindi mananampalataya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul encourages them in 1 Thessalonians 4 to live quietly, mind their own business, and work with their hands.",
+          "fil": "Hinihikayat sila ni Pablo sa 1 Tesalonica 4 na mamuhay nang tahimik, pangalagaan ang sariling gawain, at magtrabaho ng kanilang mga kamay."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say will happen to believers who have already died when the Lord returns?",
+          "fil": "Ano ang sinabi ni Pablo na mangyayari sa mga mananampalataya na namatay na kapag bumalik ang Panginoon?"
+        },
+        "options": {
+          "en": ["They will remain asleep until judgment day", "They will rise first before those who are still alive", "They will be forgotten since they already passed on", "They will be judged separately from the living"],
+          "fil": ["Mananatili silang natutulog hanggang sa araw ng paghuhukom", "Sila ay mabubuhay muna bago ang mga buhay pa", "Malilimutan sila dahil namatay na sila", "Huhukuman sila nang hiwalay mula sa mga buhay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul assures in 1 Thessalonians 4 that the dead in Christ will rise first at the Lord's coming.",
+          "fil": "Tiniyak ni Pablo sa 1 Tesalonica 4 na ang mga namatay sa kay Cristo ay mabubuhay muna sa pagdating ng Panginoon."
+        }
+      },
+      {
+        "q": {
+          "en": "What event did Paul describe where believers are caught up to meet the Lord in the air?",
+          "fil": "Anong pangyayari ang inilarawan ni Pablo kung saan ang mga mananampalataya ay aagawin upang salubungin ang Panginoon sa hangin?"
+        },
+        "options": {
+          "en": ["The final judgment", "The Lord's return and the gathering of believers", "The outpouring of the Holy Spirit", "The destruction of the earth"],
+          "fil": ["Ang huling paghuhukom", "Ang pagbabalik ng Panginoon at pagtitipon ng mga mananampalataya", "Ang pagbubuhos ng Espiritu Santo", "Ang pagkasira ng lupa"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "1 Thessalonians 4 describes the Lord descending from heaven and believers being caught up together to meet Him in the clouds.",
+          "fil": "Inilalarawan sa 1 Tesalonica 4 ang Panginoon na bumababa mula sa langit at ang mga mananampalataya na magkasamang aagawin upang salubungin Siya sa mga ulap."
+        }
+      },
+      {
+        "q": {
+          "en": "What was the purpose of Paul sharing the teaching about the dead in Christ rising?",
+          "fil": "Ano ang layunin ni Pablo sa pagbabahagi ng turo tungkol sa pagbabangon ng mga namatay sa kay Cristo?"
+        },
+        "options": {
+          "en": ["To warn them about false teachers", "To encourage them not to grieve like those who have no hope", "To explain when the end of the world would come", "To teach them about the resurrection of Jesus"],
+          "fil": ["Upang balaan sila tungkol sa mga maling guro", "Upang palakasin ang loob nila na huwag magdalamhati tulad ng walang pag-asa", "Upang ipaliwanag kung kailan darating ang katapusan ng mundo", "Upang ituro sa kanila ang tungkol sa muling pagkabuhay ni Jesus"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul shares this teaching in 1 Thessalonians 4 so that believers would not grieve without hope for those who have died.",
+          "fil": "Ibinabahagi ni Pablo ang turong ito sa 1 Tesalonica 4 upang ang mga mananampalataya ay hindi magdalamhati nang walang pag-asa para sa mga namatay."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How did Paul say the day of the Lord would come upon unbelievers?",
+          "fil": "Paano sinabi ni Pablo na darating ang araw ng Panginoon sa mga hindi mananampalataya?"
+        },
+        "options": {
+          "en": ["Like a flood with great warning signs", "Like a thief in the night", "Like an earthquake from beneath", "Like a trumpet heard by all"],
+          "fil": ["Tulad ng baha na may malalaking babala", "Tulad ng magnanakaw sa gabi", "Tulad ng lindol mula sa ilalim", "Tulad ng trumpeta na maririnig ng lahat"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says in 1 Thessalonians 5 that the day of the Lord will come like a thief in the night, suddenly and unexpectedly.",
+          "fil": "Sinabi ni Pablo sa 1 Tesalonica 5 na ang araw ng Panginoon ay darating tulad ng magnanakaw sa gabi, bigla at hindi inaasahan."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe believers in contrast to those caught off guard by the day of the Lord?",
+          "fil": "Paano inilalarawan ni Pablo ang mga mananampalataya kumpara sa mga mahuhuli nang walang handa sa araw ng Panginoon?"
+        },
+        "options": {
+          "en": ["As people of fear and trembling", "As children of light and children of the day", "As those who have earned their salvation", "As those already raptured in spirit"],
+          "fil": ["Bilang mga taong may takot at panginginig", "Bilang mga anak ng liwanag at mga anak ng araw", "Bilang mga nagtamo na ng kaligtasan", "Bilang mga inagaw na sa espiritu"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In 1 Thessalonians 5, Paul calls believers children of the light and the day, who are not in darkness.",
+          "fil": "Sa 1 Tesalonica 5, tinatawag ni Pablo ang mga mananampalataya na mga anak ng liwanag at ng araw, na hindi nasa kadiliman."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say believers should be instead of being spiritually asleep or drunk?",
+          "fil": "Ano ang sinabi ni Pablo na dapat maging ng mga mananampalataya sa halip na maging espirituwal na natutulog o lasing?"
+        },
+        "options": {
+          "en": ["Generous and joyful", "Alert and self-controlled", "Quiet and patient", "Knowledgeable and discerning"],
+          "fil": ["Mapagbigay at masaya", "Alerto at may pagpipigil sa sarili", "Tahimik at matiyaga", "Matalino at may pagpapasya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urges believers in 1 Thessalonians 5 to be alert and sober, putting on faith, love, and the hope of salvation as armor.",
+          "fil": "Inaanyayahan ni Pablo ang mga mananampalataya sa 1 Tesalonica 5 na maging alerto at mapagpigil, suotin ang pananampalataya, pagmamahal, at pag-asang kaligtasan bilang sandata."
+        }
+      },
+      {
+        "q": {
+          "en": "Which three short but powerful instructions did Paul give about prayer and thanksgiving?",
+          "fil": "Anong tatlong maikli ngunit makapangyarihang tagubilin ang ibinigay ni Pablo tungkol sa panalangin at pasasalamat?"
+        },
+        "options": {
+          "en": ["Pray at sunrise, fast weekly, give tithes", "Rejoice always, pray continually, give thanks in all circumstances", "Attend every meeting, sing loudly, memorize scripture", "Help the poor, visit the sick, forgive enemies"],
+          "fil": ["Manalangin sa pagsikat ng araw, mag-ayuno linggu-linggo, magbigay ng ikapu", "Magsaya palagi, manalangin nang walang tigil, magpasalamat sa lahat ng kalagayan", "Dumalo sa bawat pagtitipon, kumanta nang malakas, isaulo ang kasulatan", "Tulungan ang mahihirap, bisitahin ang maysakit, patawarin ang mga kaaway"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul gives these three commands in 1 Thessalonians 5 — rejoice always, pray continually, and give thanks in all circumstances.",
+          "fil": "Ibinibigay ni Pablo ang tatlong utos na ito sa 1 Tesalonica 5 — magsaya palagi, manalangin nang walang tigil, at magpasalamat sa lahat ng kalagayan."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say believers should do regarding prophecies and testing things?",
+          "fil": "Ano ang sinabi ni Pablo na dapat gawin ng mga mananampalataya tungkol sa mga propesiya at pagsubok ng mga bagay?"
+        },
+        "options": {
+          "en": ["Ignore prophecies to avoid confusion", "Do not quench the Spirit; test everything and hold to what is good", "Only accept prophecies from apostles", "Report all prophecies to the elders first"],
+          "fil": ["Huwag pansinin ang mga propesiya upang maiwasan ang pagkalito", "Huwag patayin ang Espiritu; suriin ang lahat at panghawakan ang mabuti", "Tanggapin lamang ang mga propesiya mula sa mga apostol", "Iulat muna ang lahat ng propesiya sa mga matatanda"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructs in 1 Thessalonians 5 not to quench the Spirit or despise prophecies, but to test everything and hold on to what is good.",
+          "fil": "Inutusan ni Pablo sa 1 Tesalonica 5 na huwag patayin ang Espiritu o hamakin ang mga propesiya, kundi suriin ang lahat at panghawakan ang mabuti."
+        }
+      }
+    ]
+  }
+}
