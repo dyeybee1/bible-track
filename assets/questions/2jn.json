@@ -1,0 +1,75 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What request does the writer repeat to the chosen lady and her children?",
+          "fil": "Anong pakiusap ang inulit ng sumulat sa hinirang na ginang at sa kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "To keep loving one another",
+            "To stop meeting with other believers",
+            "To seek positions of power"
+          ],
+          "fil": [
+            "Patuloy na magmahalan sa isa't isa",
+            "Tumigil sa pagtitipon kasama ng ibang mananampalataya",
+            "Maghangad ng mga posisyon ng kapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The writer repeats the command to love one another, which they had received from the beginning (2 John 1).",
+          "fil": "Inulit ng sumulat ang utos na magmahalan, na natanggap na nila mula pa sa simula (2 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What teaching identifies the deceivers warned about in this letter?",
+          "fil": "Anong turo ang nagpapakilala sa mga manlilinlang na binabalaan sa sulat na ito?"
+        },
+        "options": {
+          "en": [
+            "They encourage obedience to God's commands",
+            "They deny that Jesus Christ came as a human being",
+            "They teach believers to care for the poor"
+          ],
+          "fil": [
+            "Hinihikayat nilang sundin ang mga utos ng Diyos",
+            "Itinatanggi nila na dumating si Jesu-Cristo bilang tao",
+            "Itinuturo nilang alagaan ang mga mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The letter warns about deceivers who refuse to acknowledge that Jesus Christ came as a human being (2 John 1).",
+          "fil": "Nagbabala ang sulat tungkol sa mga manlilinlang na ayaw kilalaning dumating si Jesu-Cristo bilang tao (2 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the writer hope to visit instead of putting everything in writing?",
+          "fil": "Bakit umaasa ang sumulat na makabisita sa halip na isulat ang lahat?"
+        },
+        "options": {
+          "en": [
+            "To collect a tax from the household",
+            "To choose a new ruler for the city",
+            "To speak face to face and share complete joy"
+          ],
+          "fil": [
+            "Para maningil ng buwis sa sambahayan",
+            "Para pumili ng bagong pinuno ng lungsod",
+            "Para makausap sila nang harapan at maging ganap ang kanilang kagalakan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer hopes for a personal visit so they can speak face to face and share complete joy (2 John 1).",
+          "fil": "Umaasa ang sumulat na makabisita upang makausap sila nang harapan at maging ganap ang kanilang kagalakan (2 Juan 1)."
+        }
+      }
+    ]
+  }
+}
