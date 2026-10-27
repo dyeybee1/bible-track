@@ -1,0 +1,359 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What gives believers a living hope, according to Peter?",
+          "fil": "Ano ang nagbibigay sa mga mananampalataya ng buhay na pag-asa, ayon kay Pedro?"
+        },
+        "options": {
+          "en": [
+            "God's mercy through the resurrection of Jesus",
+            "Their wealth and social position",
+            "Protection from every earthly hardship"
+          ],
+          "fil": [
+            "Ang awa ng Diyos sa pamamagitan ng muling pagkabuhay ni Jesus",
+            "Ang kanilang kayamanan at katayuan sa lipunan",
+            "Proteksiyon mula sa lahat ng paghihirap sa lupa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter connects believers' new birth and living hope with God's mercy and Jesus' resurrection (1 Peter 1).",
+          "fil": "Iniugnay ni Pedro ang bagong kapanganakan at buhay na pag-asa ng mga mananampalataya sa awa ng Diyos at muling pagkabuhay ni Jesus (1 Pedro 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Peter urge believers to do in their daily conduct?",
+          "fil": "Ano ang hinihikayat ni Pedro na gawin ng mga mananampalataya sa kanilang araw-araw na asal?"
+        },
+        "options": {
+          "en": [
+            "Seek praise by displaying their possessions",
+            "Pursue holiness instead of returning to former sinful desires",
+            "Copy every practice of the surrounding society"
+          ],
+          "fil": [
+            "Maghangad ng papuri sa pagpapakita ng kanilang mga ari-arian",
+            "Hangarin ang kabanalan sa halip na bumalik sa dating makasalanang pagnanasa",
+            "Tularan ang lahat ng kaugalian ng lipunang nakapaligid sa kanila"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter calls believers to live holy lives because the God who called them is holy (1 Peter 1).",
+          "fil": "Tinawag ni Pedro ang mga mananampalataya sa banal na pamumuhay dahil banal ang Diyos na tumawag sa kanila (1 Pedro 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Peter say redeemed believers from their former empty way of life?",
+          "fil": "Ano ang sinabi ni Pedro na tumubos sa mga mananampalataya mula sa dati nilang walang-kabuluhang pamumuhay?"
+        },
+        "options": {
+          "en": [
+            "Silver and gold paid by their ancestors",
+            "Their membership in a powerful family",
+            "The precious blood of Christ"
+          ],
+          "fil": [
+            "Pilak at gintong ibinayad ng kanilang mga ninuno",
+            "Ang pagiging kabilang nila sa isang makapangyarihang pamilya",
+            "Ang mahalagang dugo ni Cristo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter teaches that believers were redeemed through Christ's precious blood rather than perishable riches (1 Peter 1).",
+          "fil": "Itinuturo ni Pedro na tinubos ang mga mananampalataya sa pamamagitan ng mahalagang dugo ni Cristo at hindi ng nasisirang kayamanan (1 Pedro 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How does Peter picture believers being built together around Christ?",
+          "fil": "Paano inilarawan ni Pedro ang mga mananampalatayang itinatayong magkakasama kay Cristo?"
+        },
+        "options": {
+          "en": [
+            "As merchants competing for customers",
+            "As living stones forming a spiritual house",
+            "As soldiers building an earthly empire"
+          ],
+          "fil": [
+            "Bilang mga mangangalakal na nag-aagawan ng mamimili",
+            "Bilang mga batong buhay na bumubuo ng isang espirituwal na bahay",
+            "Bilang mga sundalong nagtatayo ng kaharian sa lupa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter describes believers as living stones being built into a spiritual house with Christ as the cornerstone (1 Peter 2).",
+          "fil": "Inilarawan ni Pedro ang mga mananampalataya bilang mga batong buhay na itinatayo bilang espirituwal na bahay na si Cristo ang batong panulok (1 Pedro 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should believers maintain good conduct among those who do not share their faith?",
+          "fil": "Bakit dapat panatilihin ng mga mananampalataya ang mabuting asal sa mga hindi kapareho ng kanilang pananampalataya?"
+        },
+        "options": {
+          "en": [
+            "So they can demand special treatment",
+            "So they will never be criticized",
+            "So others may see their good deeds and glorify God"
+          ],
+          "fil": [
+            "Upang makapaghiling sila ng natatanging pagtrato",
+            "Upang hindi sila kailanman mapuna",
+            "Upang makita ng iba ang kanilang mabubuting gawa at luwalhatiin ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter encourages honorable conduct so that even accusers may recognize believers' good deeds and glorify God (1 Peter 2).",
+          "fil": "Hinikayat ni Pedro ang marangal na asal upang makita maging ng mga nagpaparatang ang mabubuting gawa ng mga mananampalataya at luwalhatiin ang Diyos (1 Pedro 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Christ respond when he was insulted and suffered?",
+          "fil": "Paano tumugon si Cristo nang siya ay laitin at pahirapan?"
+        },
+        "options": {
+          "en": [
+            "He did not retaliate but entrusted himself to the just Judge",
+            "He threatened everyone who opposed him",
+            "He repaid insults with harsher insults"
+          ],
+          "fil": [
+            "Hindi siya gumanti kundi ipinagkatiwala ang sarili sa makatarungang Hukom",
+            "Pinagbantaan niya ang lahat ng sumalungat sa kanya",
+            "Gumanti siya ng mas matinding panlalait"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter presents Christ's refusal to retaliate during suffering as an example for believers (1 Peter 2).",
+          "fil": "Iniharap ni Pedro ang hindi pagganti ni Cristo sa gitna ng pagdurusa bilang halimbawa sa mga mananampalataya (1 Pedro 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What responsibility does Peter give husbands toward their wives?",
+          "fil": "Anong pananagutan ang ibinigay ni Pedro sa mga asawa na lalaki tungkol sa kanilang mga asawa?"
+        },
+        "options": {
+          "en": [
+            "Ignore their concerns when making decisions",
+            "Measure their worth by expensive clothing",
+            "Treat them with understanding and honor as fellow heirs of God's gift of life"
+          ],
+          "fil": [
+            "Balewalain ang kanilang mga alalahanin sa pagpapasya",
+            "Sukatin ang kanilang halaga sa mamahaling damit",
+            "Pakitunguhan sila nang may pag-unawa at paggalang bilang kapwa tagapagmana ng kaloob ng Diyos na buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter instructs husbands to honor their wives as fellow heirs of God's gracious gift of life (1 Peter 3).",
+          "fil": "Tinagubilinan ni Pedro ang mga asawa na lalaki na igalang ang kanilang mga asawa bilang kapwa tagapagmana ng biyaya ng Diyos na buhay (1 Pedro 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers explain their hope when someone asks about it?",
+          "fil": "Paano dapat ipaliwanag ng mga mananampalataya ang kanilang pag-asa kapag may nagtanong?"
+        },
+        "options": {
+          "en": [
+            "With gentleness and respect",
+            "With insults toward the questioner",
+            "By refusing every sincere question"
+          ],
+          "fil": [
+            "Nang may kahinahunan at paggalang",
+            "Nang may panlalait sa nagtatanong",
+            "Sa pagtanggi sa bawat tapat na tanong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter urges believers to be ready to explain their hope with gentleness and respect (1 Peter 3).",
+          "fil": "Hinimok ni Pedro ang mga mananampalataya na maging handang ipaliwanag ang kanilang pag-asa nang may kahinahunan at paggalang (1 Pedro 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers respond to evil or insulting treatment?",
+          "fil": "Paano dapat tumugon ang mga mananampalataya sa masama o mapanlait na pagtrato?"
+        },
+        "options": {
+          "en": [
+            "Spread false accusations in return",
+            "Offer a blessing instead of returning harm",
+            "Plan revenge against the offender"
+          ],
+          "fil": [
+            "Gumanti sa pagpapakalat ng maling paratang",
+            "Magbigay ng pagpapala sa halip na gumanti ng masama",
+            "Magplano ng paghihiganti sa nagkasala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter calls believers to respond to evil and insults with blessing rather than revenge (1 Peter 3).",
+          "fil": "Tinawag ni Pedro ang mga mananampalataya na tumugon sa kasamaan at panlalait sa pamamagitan ng pagpapala sa halip na paghihiganti (1 Pedro 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How should believers use the gifts they have received?",
+          "fil": "Paano dapat gamitin ng mga mananampalataya ang mga kaloob na natanggap nila?"
+        },
+        "options": {
+          "en": [
+            "To serve one another as stewards of God's grace",
+            "To prove that some believers have no value",
+            "To gain control of everyone in the community"
+          ],
+          "fil": [
+            "Upang maglingkod sa isa't isa bilang mga katiwala ng biyaya ng Diyos",
+            "Upang patunayang walang halaga ang ilang mananampalataya",
+            "Upang makontrol ang lahat sa komunidad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter teaches that each believer should use God's gifts to serve others faithfully (1 Peter 4).",
+          "fil": "Itinuturo ni Pedro na dapat tapat na gamitin ng bawat mananampalataya ang mga kaloob ng Diyos upang maglingkod sa iba (1 Pedro 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude should accompany hospitality toward one another?",
+          "fil": "Anong saloobin ang dapat kasama ng magiliw na pagtanggap sa isa't isa?"
+        },
+        "options": {
+          "en": [
+            "A demand for praise before offering help",
+            "A willing spirit without complaining",
+            "Resentment toward every visitor"
+          ],
+          "fil": [
+            "Paghingi ng papuri bago tumulong",
+            "Kusang-loob na saloobin na walang pagrereklamo",
+            "Paghihinanakit sa bawat bisita"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter encourages believers to welcome one another without grumbling (1 Peter 4).",
+          "fil": "Hinihikayat ni Pedro ang mga mananampalataya na magiliw na tanggapin ang isa't isa nang walang pagrereklamo (1 Pedro 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What distinction does Peter make about suffering?",
+          "fil": "Anong pagkakaiba ang ipinakita ni Pedro tungkol sa pagdurusa?"
+        },
+        "options": {
+          "en": [
+            "Every kind of suffering proves someone has committed a crime",
+            "Believers should seek punishment by harming others",
+            "Suffering for following Christ differs from suffering for wrongdoing"
+          ],
+          "fil": [
+            "Lahat ng pagdurusa ay patunay na nakagawa ng krimen ang isang tao",
+            "Dapat maghanap ng parusa ang mga mananampalataya sa pananakit sa iba",
+            "Iba ang pagdurusa dahil sa pagsunod kay Cristo kaysa sa pagdurusa dahil sa paggawa ng masama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter tells believers not to suffer for wrongdoing but not to be ashamed of suffering as Christians (1 Peter 4).",
+          "fil": "Sinabi ni Pedro na huwag magdusa ang mga mananampalataya dahil sa paggawa ng masama ngunit huwag ikahiya ang pagdurusa bilang mga Cristiano (1 Pedro 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How should elders care for the people entrusted to them?",
+          "fil": "Paano dapat alagaan ng mga elder ang mga taong ipinagkatiwala sa kanila?"
+        },
+        "options": {
+          "en": [
+            "By valuing profit above the community",
+            "Willingly and by example, without greed or domination",
+            "By forcing everyone to serve their personal interests"
+          ],
+          "fil": [
+            "Sa pagpapahalaga sa kita nang higit sa komunidad",
+            "Nang kusang-loob at sa mabuting halimbawa, nang walang kasakiman o paniniil",
+            "Sa pagpilit sa lahat na maglingkod sa kanilang pansariling interes"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter urges elders to shepherd willingly, serve eagerly, and lead by example rather than dominate (1 Peter 5).",
+          "fil": "Hinimok ni Pedro ang mga elder na mag-alaga nang kusang-loob, maglingkod nang buong puso, at mamuno sa mabuting halimbawa sa halip na manupil (1 Pedro 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should believers do with their anxieties?",
+          "fil": "Ano ang dapat gawin ng mga mananampalataya sa kanilang mga alalahanin?"
+        },
+        "options": {
+          "en": [
+            "Assume that God is uninterested in their troubles",
+            "Pretend that seeking help shows a lack of faith",
+            "Entrust them to God because he cares for them"
+          ],
+          "fil": [
+            "Isiping walang pakialam ang Diyos sa kanilang mga problema",
+            "Magkunwaring ang paghingi ng tulong ay tanda ng kawalan ng pananampalataya",
+            "Ipagkatiwala ang mga ito sa Diyos dahil nagmamalasakit siya sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter encourages believers to place their worries in God's care (1 Peter 5).",
+          "fil": "Hinihikayat ni Pedro ang mga mananampalataya na ipagkatiwala sa pangangalaga ng Diyos ang kanilang mga alalahanin (1 Pedro 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Peter illustrate with a prowling lion?",
+          "fil": "Anong babala ang inilalarawan ni Pedro sa leong gumagala?"
+        },
+        "options": {
+          "en": [
+            "Be alert and resist the devil by standing firm in faith",
+            "Avoid all contact with fellow believers",
+            "Depend on earthly power instead of God"
+          ],
+          "fil": [
+            "Maging mapagmatyag at labanan ang diyablo sa pagiging matatag sa pananampalataya",
+            "Iwasan ang lahat ng pakikisalamuha sa kapwa mananampalataya",
+            "Umasa sa kapangyarihan sa lupa sa halip na sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter compares the devil to a prowling lion and urges believers to resist him firmly in faith (1 Peter 5).",
+          "fil": "Inihalintulad ni Pedro ang diyablo sa leong gumagala at hinimok ang mga mananampalataya na labanan siya nang matatag sa pananampalataya (1 Pedro 5)."
+        }
+      }
+    ]
+  }
+}
