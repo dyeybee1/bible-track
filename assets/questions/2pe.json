@@ -1,0 +1,217 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What does Peter encourage believers to add to their faith?",
+          "fil": "Ano ang hinihikayat ni Pedro na idagdag ng mga mananampalataya sa kanilang pananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Qualities such as self-control, perseverance, and love",
+            "A desire to gain power over others",
+            "Trust in wealth as their security"
+          ],
+          "fil": [
+            "Mga katangiang tulad ng pagpipigil sa sarili, pagtitiis, at pagmamahal",
+            "Pagnanais na magkaroon ng kapangyarihan sa iba",
+            "Pagtitiwala sa kayamanan bilang kanilang seguridad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter urges believers to grow in qualities that make their knowledge of Jesus fruitful (2 Peter 1).",
+          "fil": "Hinimok ni Pedro ang mga mananampalataya na lumago sa mga katangiang nagpapabunga sa kanilang pagkakilala kay Jesus (2 Pedro 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What experience does Peter mention to show that the message about Jesus was not invented?",
+          "fil": "Anong karanasan ang binanggit ni Pedro upang ipakitang hindi kathang-isip ang mensahe tungkol kay Jesus?"
+        },
+        "options": {
+          "en": [
+            "He learned the story from a merchant in Jerusalem",
+            "He witnessed Jesus' majesty and heard the heavenly voice on the mountain",
+            "He read a report written by the Roman governor"
+          ],
+          "fil": [
+            "Nalaman niya ang kuwento mula sa isang mangangalakal sa Jerusalem",
+            "Nasaksihan niya ang kadakilaan ni Jesus at narinig ang tinig mula sa langit sa bundok",
+            "Nabasa niya ang ulat na isinulat ng gobernador ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter recalls seeing Jesus' majesty and hearing God's voice on the holy mountain (2 Peter 1).",
+          "fil": "Naalala ni Pedro na nakita niya ang kadakilaan ni Jesus at narinig ang tinig ng Diyos sa banal na bundok (2 Pedro 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Peter explain the origin of prophecy in Scripture?",
+          "fil": "Paano ipinaliwanag ni Pedro ang pinagmulan ng propesiya sa Kasulatan?"
+        },
+        "options": {
+          "en": [
+            "Prophets invented stories to entertain crowds",
+            "Rulers decided what God would say",
+            "People spoke from God as the Holy Spirit guided them"
+          ],
+          "fil": [
+            "Gumawa ang mga propeta ng mga kuwento upang aliwin ang mga tao",
+            "Nagpasya ang mga pinuno kung ano ang sasabihin ng Diyos",
+            "Nagsalita ang mga tao mula sa Diyos sa paggabay ng Banal na Espiritu"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter teaches that prophecy came through people moved by the Holy Spirit rather than through human initiative (2 Peter 1).",
+          "fil": "Itinuturo ni Pedro na nagmula ang propesiya sa mga taong ginabayan ng Banal na Espiritu at hindi sa sariling kagustuhan ng tao (2 Pedro 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does Peter warn false teachers will do among believers?",
+          "fil": "Ano ang babala ni Pedro na gagawin ng mga maling guro sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Help the community follow the truth faithfully",
+            "Introduce destructive teachings and exploit people out of greed",
+            "Encourage everyone to abandon greed"
+          ],
+          "fil": [
+            "Tulungan ang komunidad na tapat na sumunod sa katotohanan",
+            "Magpasok ng mapanirang mga turo at pagsamantalahan ang mga tao dahil sa kasakiman",
+            "Hikayatin ang lahat na talikuran ang kasakiman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter warns that false teachers will bring harmful teachings and use deceptive words for selfish gain (2 Peter 2).",
+          "fil": "Nagbabala si Pedro na magdadala ang mga maling guro ng mapaminsalang mga turo at gagamit ng mapanlinlang na mga salita para sa pansariling pakinabang (2 Pedro 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God's rescue of Noah and Lot show in Peter's warning?",
+          "fil": "Ano ang ipinapakita ng pagliligtas ng Diyos kina Noe at Lot sa babala ni Pedro?"
+        },
+        "options": {
+          "en": [
+            "God never notices the suffering of righteous people",
+            "People can buy safety from God's judgment",
+            "God knows how to rescue the godly and judge wrongdoing"
+          ],
+          "fil": [
+            "Hindi kailanman napapansin ng Diyos ang pagdurusa ng mga matuwid",
+            "Maaaring bilhin ng mga tao ang kaligtasan mula sa paghuhukom ng Diyos",
+            "Alam ng Diyos kung paano iligtas ang mga maka-Diyos at hatulan ang kasamaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter uses Noah and Lot as examples of God's ability to rescue the godly while judging evil (2 Peter 2).",
+          "fil": "Ginamit ni Pedro sina Noe at Lot bilang mga halimbawa ng kakayahan ng Diyos na iligtas ang mga maka-Diyos habang hinahatulan ang kasamaan (2 Pedro 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is wrong with the freedom promised by the false teachers?",
+          "fil": "Ano ang mali sa kalayaang ipinapangako ng mga maling guro?"
+        },
+        "options": {
+          "en": [
+            "They themselves are controlled by the corruption they promote",
+            "It requires them to stop deceiving others",
+            "It leads them to serve others without selfish motives"
+          ],
+          "fil": [
+            "Sila mismo ay alipin ng katiwaliang kanilang itinataguyod",
+            "Hinihingi nitong itigil nila ang panlilinlang sa iba",
+            "Inaakay sila nitong maglingkod sa iba nang walang pansariling hangarin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter says the false teachers promise freedom even though they themselves are enslaved by corruption (2 Peter 2).",
+          "fil": "Sinabi ni Pedro na nangangako ng kalayaan ang mga maling guro kahit sila mismo ay alipin ng katiwalian (2 Pedro 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Why does Peter say the Lord has not yet fulfilled the promise of his return?",
+          "fil": "Bakit sinabi ni Pedro na hindi pa tinutupad ng Panginoon ang pangako ng kanyang pagbabalik?"
+        },
+        "options": {
+          "en": [
+            "He has forgotten his promise",
+            "He is waiting for people to build him a palace",
+            "He is patient and gives people an opportunity to repent"
+          ],
+          "fil": [
+            "Nakalimutan niya ang kanyang pangako",
+            "Hinihintay niyang ipagtayo siya ng mga tao ng palasyo",
+            "Matiyaga siya at binibigyan ang mga tao ng pagkakataong magsisi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter explains that the Lord's patience gives people time to repent rather than showing that he has forgotten his promise (2 Peter 3).",
+          "fil": "Ipinaliwanag ni Pedro na ang pagtitiyaga ng Panginoon ay nagbibigay ng panahon sa mga tao upang magsisi at hindi tanda ng pagkalimot sa kanyang pangako (2 Pedro 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers live while waiting for the day of God?",
+          "fil": "Paano dapat mamuhay ang mga mananampalataya habang hinihintay ang araw ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "With holy conduct and devotion to God",
+            "By giving up every effort to do good",
+            "By guessing the exact date of the end"
+          ],
+          "fil": [
+            "May banal na asal at debosyon sa Diyos",
+            "Sa pagtigil sa lahat ng pagsisikap na gumawa ng mabuti",
+            "Sa paghula ng tiyak na petsa ng wakas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter calls believers to holy and godly living as they look forward to God's promised new creation (2 Peter 3).",
+          "fil": "Tinawag ni Pedro ang mga mananampalataya sa banal at maka-Diyos na pamumuhay habang inaasahan ang ipinangakong bagong nilikha ng Diyos (2 Pedro 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Peter give about Paul's letters?",
+          "fil": "Anong babala ang ibinigay ni Pedro tungkol sa mga sulat ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "They should all be discarded as worthless",
+            "Some people distort difficult passages to their own harm",
+            "Every part is too simple to misunderstand"
+          ],
+          "fil": [
+            "Dapat itapon ang lahat ng ito bilang walang halaga",
+            "Binabaluktot ng ilang tao ang mahihirap na bahagi sa sarili nilang kapahamakan",
+            "Napakadali ng bawat bahagi kaya imposibleng magkamali ng unawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter acknowledges that some parts of Paul's letters are difficult and warns against twisting them (2 Peter 3).",
+          "fil": "Kinilala ni Pedro na mahirap unawain ang ilang bahagi ng mga sulat ni Pablo at nagbabala laban sa pagbaluktot sa mga ito (2 Pedro 3)."
+        }
+      }
+    ]
+  }
+}
