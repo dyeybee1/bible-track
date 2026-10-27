@@ -1,0 +1,412 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What title does Paul use to describe Jesus as the one through whom all things in heaven and earth were created?",
+          "fil": "Anong titulo ang ginamit ni Pablo para ilarawan si Jesus bilang siyang pinaglikha ng lahat ng bagay sa langit at sa lupa?"
+        },
+        "options": {
+          "en": [
+            "The Son of Man",
+            "The Firstborn over all creation",
+            "The Lamb of God",
+            "The Bread of Life"
+          ],
+          "fil": [
+            "Ang Anak ng Tao",
+            "Ang Panganay sa lahat ng nilalang",
+            "Ang Kordero ng Diyos",
+            "Ang Tinapay ng Buhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes Jesus as the firstborn over all creation, through whom and for whom all things were made (Colossians 1).",
+          "fil": "Inilalarawan ni Pablo si Jesus bilang Panganay sa lahat ng nilalang, at sa pamamagitan niya at para sa kanya nilikha ang lahat ng bagay (Colosas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "According to Paul, how were people reconciled to God?",
+          "fil": "Ayon kay Pablo, paano ipinagkasundo ang mga tao sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Through the blood of Christ shed on the cross",
+            "Through keeping the Law of Moses",
+            "Through the wisdom of the philosophers",
+            "Through the prayers of the apostles"
+          ],
+          "fil": [
+            "Sa pamamagitan ng dugo ni Cristo na ibinuhos sa krus",
+            "Sa pamamagitan ng pagsunod sa Kautusan ni Moises",
+            "Sa pamamagitan ng karunungan ng mga pilosopo",
+            "Sa pamamagitan ng mga panalangin ng mga apostol"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul teaches that reconciliation with God was made possible through Christ's death on the cross (Colossians 1).",
+          "fil": "Itinuturo ni Pablo na ang pagkakasundo sa Diyos ay naging posible sa pamamagitan ng kamatayan ni Cristo sa krus (Colosas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Paul describes Jesus as the image of what?",
+          "fil": "Inilalarawan ni Pablo si Jesus bilang larawan ng ano?"
+        },
+        "options": {
+          "en": [
+            "The glory of the angels",
+            "The wisdom of God",
+            "The invisible God",
+            "The power of heaven"
+          ],
+          "fil": [
+            "Ang kaluwalhatian ng mga anghel",
+            "Ang karunungan ng Diyos",
+            "Ang di-nakikitang Diyos",
+            "Ang kapangyarihan ng langit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul calls Jesus the image of the invisible God, making the unseen God visible and known (Colossians 1).",
+          "fil": "Tinatawag ni Pablo si Jesus na larawan ng di-nakikitang Diyos, na nagpapakita ng hindi nakikitang Diyos (Colosas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What was Paul's goal for every person he ministered to?",
+          "fil": "Ano ang layunin ni Pablo para sa bawat taong pinaglingkuran niya?"
+        },
+        "options": {
+          "en": [
+            "To make them wealthy and healthy",
+            "To teach them Jewish customs",
+            "To present everyone fully mature in Christ",
+            "To bring them to Jerusalem"
+          ],
+          "fil": [
+            "Upang gawing mayaman at malusog sila",
+            "Upang turuan sila ng mga kaugaliang Hudyo",
+            "Upang maiharap ang bawat isa na ganap na may gulang kay Cristo",
+            "Upang dalhin sila sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul labored to present everyone complete and mature in Christ, which was the purpose of his ministry (Colossians 1).",
+          "fil": "Nagsumikap si Pablo na maiharap ang bawat isa na ganap at may gulang kay Cristo, na siyang layunin ng kanyang ministeryo (Colosas 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What did Paul warn the Colossians not to be taken captive by?",
+          "fil": "Saan binalaan ni Pablo ang mga taga-Colosas na huwag mabihag?"
+        },
+        "options": {
+          "en": [
+            "Hollow philosophy and human tradition",
+            "Foreign languages and customs",
+            "Roman law and taxation",
+            "Jewish feasts and celebrations"
+          ],
+          "fil": [
+            "Walang-kabuluhang pilosopiya at tradisyon ng tao",
+            "Dayuhang wika at kaugalian",
+            "Batas at buwis ng mga Romano",
+            "Mga pistahan at pagdiriwang ng mga Hudyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul warned believers not to be taken captive by hollow philosophy and human tradition rather than Christ (Colossians 2).",
+          "fil": "Binalaan ni Pablo ang mga mananampalataya na huwag mabihag ng walang-kabuluhang pilosopiya at tradisyon ng tao sa halip na kay Cristo (Colosas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the fullness of deity dwell, according to Paul in this chapter?",
+          "fil": "Saan naninirahan ang buong kalikasan ng Diyos, ayon kay Pablo sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "In the temple in Jerusalem",
+            "In the hearts of all believers",
+            "In Christ in bodily form",
+            "In the writings of Moses"
+          ],
+          "fil": [
+            "Sa templo sa Jerusalem",
+            "Sa mga puso ng lahat ng mananampalataya",
+            "Kay Cristo sa pisikal na anyo",
+            "Sa mga sulat ni Moises"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul declares that all the fullness of the Deity lives in Christ in bodily form (Colossians 2).",
+          "fil": "Idineklara ni Pablo na ang buong kaganapan ng Diyos ay naninirahan kay Cristo sa pisikal na anyo (Colosas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What spiritual act did Paul compare to baptism in this chapter?",
+          "fil": "Anong espirituwal na kilos ang inihambing ni Pablo sa binyag sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The offering of sacrifices",
+            "Circumcision of the heart done by Christ",
+            "The washing of hands before prayer",
+            "The keeping of the Sabbath"
+          ],
+          "fil": [
+            "Ang pag-aalay ng mga handog",
+            "Ang pagtutuli ng puso na ginawa ni Cristo",
+            "Ang paghugas ng mga kamay bago manalangin",
+            "Ang pagsunod sa Araw ng Pamamahinga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul compared baptism to a circumcision of the heart performed by Christ, not by human hands (Colossians 2).",
+          "fil": "Inihambing ni Pablo ang binyag sa pagtutuli ng puso na ginawa ni Cristo, hindi ng kamay ng tao (Colosas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Paul told the Colossians not to let anyone judge them about food, drink, or what occasion?",
+          "fil": "Sinabi ni Pablo sa mga taga-Colosas na huwag hayaang husgahan sila ng sinuman tungkol sa pagkain, inumin, o anong okasyon?"
+        },
+        "options": {
+          "en": [
+            "Wedding celebrations",
+            "New Moon festivals or Sabbath days",
+            "Harvest feasts",
+            "Days of fasting"
+          ],
+          "fil": [
+            "Mga pagdiriwang ng kasal",
+            "Mga kapistahan ng Bagong Buwan o mga Araw ng Pamamahinga",
+            "Mga pista ng pag-aani",
+            "Mga araw ng pag-aayuno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructed the Colossians not to allow anyone to judge them regarding food, drink, New Moon festivals, or Sabbath days (Colossians 2).",
+          "fil": "Inutusan ni Pablo ang mga taga-Colosas na huwag hayaang husgahan sila ng sinuman tungkol sa pagkain, inumin, mga kapistahan ng Bagong Buwan, o mga Araw ng Pamamahinga (Colosas 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What did Paul tell believers to set their minds on?",
+          "fil": "Saan sinabi ni Pablo sa mga mananampalataya na itutok ang kanilang isipan?"
+        },
+        "options": {
+          "en": [
+            "Things of the earth",
+            "Political matters of the empire",
+            "Things above, where Christ is seated",
+            "The wisdom of their ancestors"
+          ],
+          "fil": [
+            "Mga bagay sa lupa",
+            "Mga usaping pampulitika ng imperyo",
+            "Mga bagay sa itaas, kung saan nakaupo si Cristo",
+            "Ang karunungan ng kanilang mga ninuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul urged believers to set their minds on things above, where Christ is seated at the right hand of God (Colossians 3).",
+          "fil": "Hinimok ni Pablo ang mga mananampalataya na itutok ang kanilang isipan sa mga bagay sa itaas, kung saan nakaupo si Cristo sa kanan ng Diyos (Colosas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which of the following was listed among the earthly things Paul told believers to put to death?",
+          "fil": "Alin sa mga sumusunod ang kasama sa mga makamundong bagay na sinabi ni Pablo na patayin ng mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Singing hymns and giving thanks",
+            "Sexual immorality and greed",
+            "Hard work and ambition",
+            "Reading and learning"
+          ],
+          "fil": [
+            "Pag-awit ng mga himno at pagpapasalamat",
+            "Pakikiapid at kasakiman",
+            "Pagsusumikap at ambisyon",
+            "Pagbabasa at pag-aaral"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructed believers to put to death earthly behaviors like sexual immorality and greed (Colossians 3).",
+          "fil": "Inutusan ni Pablo ang mga mananampalataya na patayin ang mga makamundong gawi tulad ng pakikiapid at kasakiman (Colosas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "According to Paul's household teaching, what should children do toward their parents?",
+          "fil": "Ayon sa turo ni Pablo para sa pamilya, ano ang dapat gawin ng mga anak sa kanilang mga magulang?"
+        },
+        "options": {
+          "en": [
+            "Challenge their decisions when wrong",
+            "Obey them in everything, for this pleases the Lord",
+            "Honor them only if they are believers",
+            "Follow them only in spiritual matters"
+          ],
+          "fil": [
+            "Hamunin ang kanilang mga desisyon kapag mali",
+            "Sundin sila sa lahat ng bagay, sapagkat ito ay nakalulugod sa Panginoon",
+            "Igalang lamang sila kung sila ay mga mananampalataya",
+            "Sundin lamang sila sa mga espirituwal na usapin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul taught that children should obey their parents in everything, as this pleases the Lord (Colossians 3).",
+          "fil": "Itinuturo ni Pablo na dapat sundin ng mga anak ang kanilang mga magulang sa lahat ng bagay, dahil ito ay nakalulugod sa Panginoon (Colosas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Paul said that whatever believers do, in word or deed, they should do it in whose name?",
+          "fil": "Sinabi ni Pablo na anuman ang gawin ng mga mananampalataya, sa salita o sa gawa, dapat gawin nila ito sa pangalan ng sino?"
+        },
+        "options": {
+          "en": [
+            "In the name of the apostles",
+            "In the name of Abraham",
+            "In the name of the Holy Spirit",
+            "In the name of the Lord Jesus"
+          ],
+          "fil": [
+            "Sa pangalan ng mga apostol",
+            "Sa pangalan ni Abraham",
+            "Sa pangalan ng Espiritu Santo",
+            "Sa pangalan ng Panginoong Jesus"
+          ]
+        },
+        "answer": 3,
+        "explanation": {
+          "en": "Paul instructed that everything believers do should be done in the name of the Lord Jesus, giving thanks to God (Colossians 3).",
+          "fil": "Inutusan ni Pablo na ang lahat ng ginagawa ng mga mananampalataya ay dapat gawin sa pangalan ng Panginoong Jesus, na nagpapasalamat sa Diyos (Colosas 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What did Paul urge the Colossians to devote themselves to in this chapter?",
+          "fil": "Sa anong bagay hinikayat ni Pablo ang mga taga-Colosas na magtalaga ng sarili sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Fasting and giving alms",
+            "Prayer, being watchful and thankful",
+            "Memorizing the scriptures",
+            "Evangelizing the Roman soldiers"
+          ],
+          "fil": [
+            "Pag-aayuno at pagbibigay ng limos",
+            "Panalangin, pagiging mapagbantay at mapagpasalamat",
+            "Pagsasaulo ng mga kasulatan",
+            "Pangangaral sa mga sundalo ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urged the Colossians to devote themselves to prayer, being watchful and thankful (Colossians 4).",
+          "fil": "Hinikayat ni Pablo ang mga taga-Colosas na magtalaga ng sarili sa panalangin, pagiging mapagbantay at mapagpasalamat (Colosas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe the way believers should behave toward outsiders?",
+          "fil": "Paano inilalarawan ni Pablo ang paraan ng pakikitungo ng mga mananampalataya sa mga hindi mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "With suspicion and caution",
+            "With silence and avoidance",
+            "With wisdom, making the most of every opportunity",
+            "With strict rules about fellowship"
+          ],
+          "fil": [
+            "Nang may pagdududa at pag-iingat",
+            "Sa katahimikan at pag-iwas",
+            "Nang may karunungan, sinasamantala ang bawat pagkakataon",
+            "Nang may mahigpit na tuntunin sa pakikisama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul instructed believers to be wise toward outsiders and to make the most of every opportunity (Colossians 4).",
+          "fil": "Inutusan ni Pablo ang mga mananampalataya na maging marunong sa pakikitungo sa mga hindi mananampalataya at samantalahin ang bawat pagkakataon (Colosas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who did Paul identify as the beloved doctor who sent greetings to the Colossians?",
+          "fil": "Sino ang kinilala ni Pablo bilang ang minamahal na doktor na nagpadala ng pagbati sa mga taga-Colosas?"
+        },
+        "options": {
+          "en": [
+            "Demas",
+            "Tychicus",
+            "Luke",
+            "Aristarchus"
+          ],
+          "fil": [
+            "Demas",
+            "Tychicus",
+            "Lucas",
+            "Aristarchus"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul identifies Luke as the beloved doctor who sends greetings along with the other co-workers (Colossians 4).",
+          "fil": "Kinikilala ni Pablo si Lucas bilang ang minamahal na doktor na nagpadala ng pagbati kasama ang ibang mga katrabaho (Colosas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who was identified as a cousin of Barnabas and mentioned in Paul's greetings?",
+          "fil": "Sino ang kinilala bilang pinsan ni Barnabas at binanggit sa mga pagbati ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "Epaphras",
+            "Mark",
+            "Onesimus",
+            "Jesus Justus"
+          ],
+          "fil": [
+            "Epaphras",
+            "Marcos",
+            "Onesimus",
+            "Jesus Justus"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul mentions Mark as the cousin of Barnabas and sends greetings from him to the church at Colossae (Colossians 4).",
+          "fil": "Binabanggit ni Pablo si Marcos bilang pinsan ni Barnabas at nagpadala ng pagbati mula sa kanya sa iglesiya sa Colosas (Colosas 4)."
+        }
+      }
+    ]
+  }
+}
