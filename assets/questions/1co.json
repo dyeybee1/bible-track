@@ -1,0 +1,1140 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What problem does Paul address about believers favoring different leaders?",
+          "fil": "Anong problema ang tinugunan ni Pablo tungkol sa pagkiling ng mga mananampalataya sa iba't ibang pinuno?"
+        },
+        "options": {
+          "en": [
+            "Divisions within the church",
+            "A shortage of meeting places",
+            "A dispute over travel routes"
+          ],
+          "fil": [
+            "Pagkakabaha-bahagi sa iglesiya",
+            "Kakulangan ng lugar na pagtitipunan",
+            "Pagtatalo tungkol sa mga ruta ng paglalakbay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul urges unity instead of dividing into groups around favored leaders (1 Corinthians 1).",
+          "fil": "Hinimok ni Pablo ang pagkakaisa sa halip na pagkakahati sa mga grupong nakasentro sa mga pinunong kanilang kinikilingan (1 Corinto 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe the message of the cross for those being saved?",
+          "fil": "Paano inilarawan ni Pablo ang mensahe ng krus para sa mga inililigtas?"
+        },
+        "options": {
+          "en": [
+            "A way to gain political office",
+            "God's power",
+            "An empty human invention"
+          ],
+          "fil": [
+            "Paraan upang makakuha ng posisyon sa pamahalaan",
+            "Ang kapangyarihan ng Diyos",
+            "Walang-kabuluhang kathang-isip ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cross reveals God's saving power despite seeming foolish to those rejecting it (1 Corinthians 1).",
+          "fil": "Inihahayag ng krus ang nagliligtas na kapangyarihan ng Diyos kahit tila kahangalan ito sa mga tumatanggi rito (1 Corinto 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Paul remind believers that many lacked worldly status when called?",
+          "fil": "Bakit ipinaalala ni Pablo na marami sa kanila ang walang mataas na katayuan nang tawagin?"
+        },
+        "options": {
+          "en": [
+            "So they will despise all learning",
+            "So only rich people can lead",
+            "So their boasting will be in God rather than themselves"
+          ],
+          "fil": [
+            "Upang hamakin nila ang lahat ng pag-aaral",
+            "Upang mayayaman lamang ang makapamuno",
+            "Upang sa Diyos sila magmalaki at hindi sa kanilang sarili"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's choice of the lowly removes grounds for human boasting (1 Corinthians 1).",
+          "fil": "Inaalis ng pagpili ng Diyos sa mga mababa ang katayuan ang batayan ng pagmamayabang ng tao (1 Corinto 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What did Paul make central to his message in Corinth?",
+          "fil": "Ano ang ginawang sentro ni Pablo sa kanyang mensahe sa Corinto?"
+        },
+        "options": {
+          "en": [
+            "Plans for a military rebellion",
+            "Jesus Christ and his crucifixion",
+            "His own family history"
+          ],
+          "fil": [
+            "Mga plano para sa paghihimagsik ng hukbo",
+            "Si Jesu-Cristo at ang kanyang pagpapako sa krus",
+            "Ang kasaysayan ng sarili niyang pamilya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul centered his preaching on the crucified Christ rather than impressive displays of eloquence (1 Corinthians 2).",
+          "fil": "Itinuon ni Pablo ang kanyang pangangaral kay Cristong ipinako sa krus sa halip na kahanga-hangang pananalita (1 Corinto 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who reveals the depths of God's wisdom to believers?",
+          "fil": "Sino ang naghahayag sa mga mananampalataya ng lalim ng karunungan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The rulers of the age",
+            "The wealthiest merchants",
+            "God's Spirit"
+          ],
+          "fil": [
+            "Ang mga pinuno ng panahong iyon",
+            "Ang pinakamayayamang mangangalakal",
+            "Ang Espiritu ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's Spirit knows God's depths and reveals what human wisdom cannot discover alone (1 Corinthians 2).",
+          "fil": "Alam ng Espiritu ng Diyos ang kanyang kalaliman at inihahayag ang hindi kayang matuklasan ng karunungan ng tao lamang (1 Corinto 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What shows that the rulers did not understand God's wisdom?",
+          "fil": "Ano ang nagpapakitang hindi naunawaan ng mga pinuno ang karunungan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They crucified the Lord of glory",
+            "They faithfully followed Jesus' teaching",
+            "They welcomed God's message without resistance"
+          ],
+          "fil": [
+            "Ipinako nila sa krus ang Panginoon ng kaluwalhatian",
+            "Tapat nilang sinunod ang turo ni Jesus",
+            "Tinanggap nila ang mensahe ng Diyos nang walang pagtutol"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul says the rulers would not have crucified the Lord had they understood God's wisdom (1 Corinthians 2).",
+          "fil": "Sinabi ni Pablo na hindi sana ipinako ng mga pinuno ang Panginoon kung naunawaan nila ang karunungan ng Diyos (1 Corinto 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What behavior shows the Corinthians' spiritual immaturity?",
+          "fil": "Anong asal ang nagpapakita ng espirituwal na kawalan ng paglago ng mga taga-Corinto?"
+        },
+        "options": {
+          "en": [
+            "Patient care for the poor",
+            "Willingness to forgive",
+            "Jealousy and quarrels over leaders"
+          ],
+          "fil": [
+            "Matiyagang pag-aalaga sa mahihirap",
+            "Kahandaang magpatawad",
+            "Inggit at pag-aaway tungkol sa mga pinuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul points to jealousy and division as evidence of their immaturity (1 Corinthians 3).",
+          "fil": "Itinuro ni Pablo ang inggit at pagkakabaha-bahagi bilang patunay ng kanilang kawalan ng paglago (1 Corinto 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "In Paul's planting and watering illustration, who makes the growth happen?",
+          "fil": "Sa larawan ni Pablo ng pagtatanim at pagdidilig, sino ang nagpapalago?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "Paul alone",
+            "Apollos alone"
+          ],
+          "fil": [
+            "Ang Diyos",
+            "Si Pablo lamang",
+            "Si Apolos lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul and Apollos serve different roles, but God produces the growth (1 Corinthians 3).",
+          "fil": "Magkaiba ang tungkulin nina Pablo at Apolos, ngunit ang Diyos ang nagpapalago (1 Corinto 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe the believing community as God's dwelling?",
+          "fil": "Paano inilarawan ni Pablo ang komunidad ng mga mananampalataya bilang tahanan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A shrine shared with idols",
+            "God's temple where his Spirit dwells",
+            "A palace belonging to Caesar"
+          ],
+          "fil": [
+            "Dambanang pinagsasaluhan ng mga diyus-diyusan",
+            "Templo ng Diyos kung saan nananahan ang kanyang Espiritu",
+            "Palasyong pag-aari ni Cesar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warns against destroying the community because it is God's holy temple (1 Corinthians 3).",
+          "fil": "Nagbabala si Pablo laban sa pagsira sa komunidad dahil ito ang banal na templo ng Diyos (1 Corinto 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What quality is required of those entrusted with God's mysteries?",
+          "fil": "Anong katangian ang kailangan sa mga pinagkatiwalaan ng mga hiwaga ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Faithfulness",
+            "Great wealth",
+            "Public popularity"
+          ],
+          "fil": [
+            "Katapatan",
+            "Malaking kayamanan",
+            "Katanyagan sa publiko"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul describes himself and his coworkers as stewards required to be faithful (1 Corinthians 4).",
+          "fil": "Inilarawan ni Pablo ang sarili at kanyang mga katrabaho bilang mga katiwalang kailangang maging tapat (1 Corinto 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should believers avoid final judgments before the Lord comes?",
+          "fil": "Bakit dapat iwasan ng mga mananampalataya ang panghuling paghatol bago dumating ang Panginoon?"
+        },
+        "options": {
+          "en": [
+            "No one's conduct will ever be examined",
+            "The Lord will reveal hidden motives",
+            "Popular opinion always reveals the heart"
+          ],
+          "fil": [
+            "Hindi kailanman susuriin ang asal ng sinuman",
+            "Ihahayag ng Panginoon ang mga nakatagong layunin",
+            "Palaging inihahayag ng opinyon ng nakararami ang puso"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul leaves the final disclosure of hidden motives and true praise to the Lord (1 Corinthians 4).",
+          "fil": "Ipinauubaya ni Pablo sa Panginoon ang panghuling paghahayag ng mga nakatagong layunin at tunay na papuri (1 Corinto 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Paul correct the Corinthians as beloved children?",
+          "fil": "Bakit itinuwid ni Pablo ang mga taga-Corinto bilang minamahal na mga anak?"
+        },
+        "options": {
+          "en": [
+            "To humiliate them for entertainment",
+            "To demand an earthly throne",
+            "To warn and guide them as a spiritual father"
+          ],
+          "fil": [
+            "Upang hiyain sila bilang libangan",
+            "Upang humingi ng trono sa lupa",
+            "Upang paalalahanan at gabayan sila bilang espirituwal na ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul explains that his correction aims to guide beloved children rather than shame them (1 Corinthians 4).",
+          "fil": "Ipinaliwanag ni Pablo na layunin ng kanyang pagtutuwid na gabayan ang minamahal na mga anak sa halip na hiyain sila (1 Corinto 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What serious conduct was the church tolerating?",
+          "fil": "Anong malubhang asal ang kinukunsinti ng iglesiya?"
+        },
+        "options": {
+          "en": [
+            "A worker sharing bread",
+            "A man living with his father's wife",
+            "A traveler helping widows"
+          ],
+          "fil": [
+            "Isang manggagawang nagbabahagi ng tinapay",
+            "Isang lalaking kinakasama ang asawa ng kanyang ama",
+            "Isang manlalakbay na tumutulong sa mga biyuda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul confronts the church's tolerance of a man's sexual relationship with his father's wife (1 Corinthians 5).",
+          "fil": "Tinutulan ni Pablo ang pagkunsinti ng iglesiya sa pakikipagtalik ng isang lalaki sa asawa ng kanyang ama (1 Corinto 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the illustration of yeast spreading through dough warn about?",
+          "fil": "Ano ang babala ng larawan ng lebadurang kumakalat sa masa?"
+        },
+        "options": {
+          "en": [
+            "Food preparation is always sinful",
+            "Only bakers can belong to the church",
+            "Tolerated wrongdoing can affect the whole community"
+          ],
+          "fil": [
+            "Palaging makasalanan ang paghahanda ng pagkain",
+            "Mga panadero lamang ang maaaring kabilang sa iglesiya",
+            "Maaaring maapektuhan ng kinukunsinting kasamaan ang buong komunidad"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul uses spreading yeast to warn that tolerated corruption affects the wider community (1 Corinthians 5).",
+          "fil": "Ginamit ni Pablo ang kumakalat na lebadura upang magbabalang nakaaapekto sa buong komunidad ang kinukunsinting kasamaan (1 Corinto 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose conduct does Paul say the church must address within its own fellowship?",
+          "fil": "Kaninong asal ang sinabi ni Pablo na kailangang tugunan ng iglesiya sa sarili nitong samahan?"
+        },
+        "options": {
+          "en": [
+            "Those claiming to be believers while persisting in wrongdoing",
+            "Every resident of the Roman Empire",
+            "Only people who have never heard of Christ"
+          ],
+          "fil": [
+            "Mga nag-aangking mananampalataya ngunit nagpapatuloy sa paggawa ng masama",
+            "Bawat mamamayan ng Imperyo ng Roma",
+            "Mga hindi pa nakarinig tungkol kay Cristo lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul distinguishes responsibility for the church's members from judging outsiders, whom God judges (1 Corinthians 5).",
+          "fil": "Ibinukod ni Pablo ang pananagutan sa mga miyembro ng iglesiya mula sa paghatol sa mga nasa labas, na hinahatulan ng Diyos (1 Corinto 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What practice concerning disputes between believers does Paul criticize?",
+          "fil": "Anong gawain tungkol sa alitan ng mga mananampalataya ang pinuna ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "Seeking peaceful reconciliation",
+            "Asking wise believers to help settle matters",
+            "Taking one another to court before unbelievers"
+          ],
+          "fil": [
+            "Paghahanap ng mapayapang pagkakasundo",
+            "Paghingi sa matatalinong mananampalataya ng tulong sa pag-aayos",
+            "Pagdadala sa isa't isa sa hukuman sa harap ng mga hindi mananampalataya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul challenges believers for taking internal disputes before unbelieving courts instead of resolving them within the community (1 Corinthians 6).",
+          "fil": "Pinuna ni Pablo ang pagdadala ng mga mananampalataya sa kanilang alitan sa hukuman ng mga hindi mananampalataya sa halip na ayusin ito sa komunidad (1 Corinto 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change does Paul remind believers has happened to them?",
+          "fil": "Anong pagbabago ang ipinaalala ni Pablo na nangyari sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "They were cleansed and set apart through Jesus and God's Spirit",
+            "They earned forgiveness by becoming rich",
+            "They no longer need to reject wrongdoing"
+          ],
+          "fil": [
+            "Nilinis at ibinukod sila sa pamamagitan ni Jesus at ng Espiritu ng Diyos",
+            "Nakamit nila ang kapatawaran sa pagpapayaman",
+            "Hindi na nila kailangang tanggihan ang kasamaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul reminds them of their cleansing, sanctification, and justification in Jesus' name and God's Spirit (1 Corinthians 6).",
+          "fil": "Ipinaalala ni Pablo ang paglilinis, pagpapabanal, at pagpapawalang-sala sa kanila sa pangalan ni Jesus at sa Espiritu ng Diyos (1 Corinto 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should believers honor God with their bodies?",
+          "fil": "Bakit dapat parangalan ng mga mananampalataya ang Diyos sa kanilang mga katawan?"
+        },
+        "options": {
+          "en": [
+            "Their bodies exist only for selfish pleasure",
+            "Their bodies belong to God and are temples of the Holy Spirit",
+            "Physical behavior has no spiritual importance"
+          ],
+          "fil": [
+            "Para lamang sa pansariling kasiyahan ang kanilang mga katawan",
+            "Sa Diyos ang kanilang mga katawan at mga templo ang mga ito ng Banal na Espiritu",
+            "Walang espirituwal na halaga ang pisikal na asal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul connects bodily holiness with belonging to God and the Spirit dwelling within believers (1 Corinthians 6).",
+          "fil": "Iniugnay ni Pablo ang kabanalan ng katawan sa pagiging pag-aari ng Diyos at pananahan ng Espiritu sa mga mananampalataya (1 Corinto 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "How does Paul describe marital responsibilities between husband and wife?",
+          "fil": "Paano inilarawan ni Pablo ang pananagutan ng mag-asawa sa isa't isa?"
+        },
+        "options": {
+          "en": [
+            "As mutual responsibilities toward one another",
+            "As duties only the wife must fulfill",
+            "As duties only the husband must fulfill"
+          ],
+          "fil": [
+            "Bilang kapwa pananagutan sa isa't isa",
+            "Bilang tungkuling asawa na babae lamang ang dapat tumupad",
+            "Bilang tungkuling asawa na lalaki lamang ang dapat tumupad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul speaks of reciprocal marital duties rather than obligations belonging to only one spouse (1 Corinthians 7).",
+          "fil": "Tinalakay ni Pablo ang magkapantay na tungkulin ng mag-asawa sa halip na pananagutang para sa isa lamang (1 Corinto 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a believer do if an unbelieving spouse is willing to remain married?",
+          "fil": "Ano ang dapat gawin ng mananampalataya kung handang manatili sa pagsasama ang asawang hindi mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Pretend the marriage never existed",
+            "Not end the marriage because of that difference",
+            "Send the spouse away immediately"
+          ],
+          "fil": [
+            "Magkunwaring hindi kailanman nagkaroon ng kasal",
+            "Huwag wakasan ang pagsasama dahil sa pagkakaibang iyon",
+            "Paalisin agad ang asawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul advises believers not to leave an unbelieving spouse who consents to stay (1 Corinthians 7).",
+          "fil": "Ipinayo ni Pablo na huwag iwan ng mananampalataya ang asawang hindi mananampalataya na pumapayag manatili (1 Corinto 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What benefit does Paul see in remaining unmarried?",
+          "fil": "Anong pakinabang ang nakita ni Pablo sa pananatiling walang asawa?"
+        },
+        "options": {
+          "en": [
+            "Automatic superiority over every married person",
+            "Exemption from loving others",
+            "Greater freedom for undivided devotion to the Lord"
+          ],
+          "fil": [
+            "Awtomatikong pagiging higit sa bawat may-asawa",
+            "Pagkalibre sa pagmamahal sa iba",
+            "Higit na kalayaan para sa buong-pusong paglilingkod sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul values singleness for its opportunity to attend to the Lord without divided concerns (1 Corinthians 7).",
+          "fil": "Pinahalagahan ni Pablo ang pagiging walang asawa dahil sa pagkakataong maglingkod sa Panginoon nang hindi nahahati ang mga alalahanin (1 Corinto 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What should guide knowledge so that the community is built up?",
+          "fil": "Ano ang dapat gumabay sa kaalaman upang mapatibay ang komunidad?"
+        },
+        "options": {
+          "en": [
+            "Competition",
+            "Love",
+            "Pride"
+          ],
+          "fil": [
+            "Pakikipagpaligsahan",
+            "Pagmamahal",
+            "Kapalaluan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul contrasts knowledge that inflates pride with love that strengthens others (1 Corinthians 8).",
+          "fil": "Inihambing ni Pablo ang kaalamang nagpapalaki ng kapalaluan sa pagmamahal na nagpapalakas sa iba (1 Corinto 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul affirm while discussing food offered to idols?",
+          "fil": "Ano ang pinagtibay ni Pablo habang tinatalakay ang pagkaing inihandog sa mga diyus-diyusan?"
+        },
+        "options": {
+          "en": [
+            "Every idol is a true creator",
+            "Food gives idols power over God",
+            "There is one God, the Father, and one Lord, Jesus Christ"
+          ],
+          "fil": [
+            "Tunay na manlilikha ang bawat diyus-diyusan",
+            "Nagbibigay ang pagkain ng kapangyarihan sa mga diyus-diyusan laban sa Diyos",
+            "May iisang Diyos, ang Ama, at iisang Panginoon, si Jesu-Cristo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul distinguishes the one God and one Lord from the many so-called gods and lords (1 Corinthians 8).",
+          "fil": "Ibinukod ni Pablo ang iisang Diyos at iisang Panginoon mula sa maraming tinatawag na mga diyos at panginoon (1 Corinto 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "When should a believer refrain from eating certain food?",
+          "fil": "Kailan dapat umiwas ang mananampalataya sa pagkain ng isang pagkain?"
+        },
+        "options": {
+          "en": [
+            "When eating it would lead another believer into sin",
+            "Whenever avoiding it would impress wealthy guests",
+            "Only when a governor orders it"
+          ],
+          "fil": [
+            "Kapag ang pagkain nito ay aakay sa ibang mananampalataya sa kasalanan",
+            "Kapag makahahanga ito sa mayayamang bisita",
+            "Kapag iniutos lamang ito ng gobernador"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul puts a fellow believer's conscience above the exercise of personal freedom about food (1 Corinthians 8).",
+          "fil": "Inuna ni Pablo ang budhi ng kapwa mananampalataya kaysa sa paggamit ng sariling kalayaan tungkol sa pagkain (1 Corinto 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What right does Paul explain for those who proclaim the gospel?",
+          "fil": "Anong karapatan ang ipinaliwanag ni Pablo para sa mga nagpapahayag ng ebanghelyo?"
+        },
+        "options": {
+          "en": [
+            "Ruling every city they visit",
+            "Demanding worship from believers",
+            "Receiving material support from their ministry"
+          ],
+          "fil": [
+            "Pamumuno sa bawat lungsod na binibisita nila",
+            "Paghingi ng pagsamba sa mga mananampalataya",
+            "Pagtanggap ng materyal na suporta mula sa kanilang ministeryo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul explains that gospel workers have a right to support, as other workers do (1 Corinthians 9).",
+          "fil": "Ipinaliwanag ni Pablo na may karapatan sa suporta ang mga manggagawa ng ebanghelyo tulad ng ibang manggagawa (1 Corinto 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did Paul choose not to use his right to support in Corinth?",
+          "fil": "Bakit pinili ni Pablo na huwag gamitin ang kanyang karapatan sa suporta sa Corinto?"
+        },
+        "options": {
+          "en": [
+            "To avoid hindering the gospel",
+            "To prove that all support is sinful",
+            "To stop preaching entirely"
+          ],
+          "fil": [
+            "Upang hindi mahadlangan ang ebanghelyo",
+            "Upang patunayang makasalanan ang lahat ng suporta",
+            "Upang lubusang tumigil sa pangangaral"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul voluntarily gave up support so that nothing would obstruct his proclamation of Christ (1 Corinthians 9).",
+          "fil": "Kusang isinantabi ni Pablo ang suporta upang walang humadlang sa kanyang pagpapahayag kay Cristo (1 Corinto 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lesson does Paul's comparison with trained athletes emphasize?",
+          "fil": "Anong aral ang binibigyang-diin ng paghahambing ni Pablo sa mga sinanay na atleta?"
+        },
+        "options": {
+          "en": [
+            "Neglecting spiritual effort",
+            "Self-discipline in pursuing a lasting reward",
+            "Winning fame through dishonest methods"
+          ],
+          "fil": [
+            "Pagpapabaya sa espirituwal na pagsisikap",
+            "Pagdidisiplina sa sarili sa paghahangad ng nananatiling gantimpala",
+            "Pagkamit ng katanyagan sa pandaraya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul uses athletic training to illustrate purposeful discipline in Christian life (1 Corinthians 9).",
+          "fil": "Ginamit ni Pablo ang pagsasanay ng atleta upang ilarawan ang disiplinang may layunin sa buhay Cristiano (1 Corinto 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why does Paul recall Israel's failures in the wilderness?",
+          "fil": "Bakit ipinaalala ni Pablo ang mga pagkabigo ng Israel sa ilang?"
+        },
+        "options": {
+          "en": [
+            "To warn believers against repeating their sins",
+            "To encourage worship of idols",
+            "To say past events teach nothing"
+          ],
+          "fil": [
+            "Upang balaan ang mga mananampalataya laban sa pag-ulit ng kanilang mga kasalanan",
+            "Upang hikayatin ang pagsamba sa mga diyus-diyusan",
+            "Upang sabihing walang aral ang mga nakaraang pangyayari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's experiences serve as warnings against idolatry, immorality, and other disobedience (1 Corinthians 10).",
+          "fil": "Nagsisilbing babala ang mga karanasan ng Israel laban sa pagsamba sa diyus-diyusan, kahalayan, at iba pang pagsuway (1 Corinto 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What encouragement does Paul give about temptation?",
+          "fil": "Anong pampalakas ng loob ang ibinigay ni Pablo tungkol sa tukso?"
+        },
+        "options": {
+          "en": [
+            "Temptation proves God has abandoned them",
+            "God provides a way to endure it",
+            "Believers must always surrender to it"
+          ],
+          "fil": [
+            "Patunay ang tukso na pinabayaan na sila ng Diyos",
+            "Nagbibigay ang Diyos ng paraan upang mapagtiisan ito",
+            "Dapat laging sumuko rito ang mga mananampalataya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul assures believers of God's faithfulness and provision of a way through temptation (1 Corinthians 10).",
+          "fil": "Tiniyak ni Pablo sa mga mananampalataya ang katapatan ng Diyos at pagbibigay niya ng paraan sa gitna ng tukso (1 Corinto 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should be the purpose of ordinary actions such as eating and drinking?",
+          "fil": "Ano ang dapat maging layunin ng karaniwang gawa tulad ng pagkain at pag-inom?"
+        },
+        "options": {
+          "en": [
+            "Displaying superiority over others",
+            "Ignoring everyone else's welfare",
+            "Giving glory to God"
+          ],
+          "fil": [
+            "Pagpapakita ng pagiging higit sa iba",
+            "Pagbabalewala sa kapakanan ng lahat ng iba",
+            "Pagbibigay ng kaluwalhatian sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul urges believers to direct even everyday actions toward God's glory (1 Corinthians 10).",
+          "fil": "Hinimok ni Pablo ang mga mananampalataya na ituon maging ang pang-araw-araw na gawain sa kaluwalhatian ng Diyos (1 Corinto 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What principle does Paul mention about men and women in the Lord?",
+          "fil": "Anong prinsipyo ang binanggit ni Pablo tungkol sa lalaki at babae sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Women have no place in the believing community",
+            "They depend on one another",
+            "Only men come from God"
+          ],
+          "fil": [
+            "Walang lugar ang mga babae sa komunidad ng mga mananampalataya",
+            "Umaasa sila sa isa't isa",
+            "Mga lalaki lamang ang mula sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul emphasizes mutual dependence between men and women and that everything comes from God (1 Corinthians 11).",
+          "fil": "Binigyang-diin ni Pablo ang pag-asa ng lalaki at babae sa isa't isa at ang pagmumula ng lahat sa Diyos (1 Corinto 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What problem was spoiling the Corinthians' shared meal?",
+          "fil": "Anong problema ang sumisira sa sama-samang pagkain ng mga taga-Corinto?"
+        },
+        "options": {
+          "en": [
+            "Everyone waited for one another",
+            "The wealthy shared equally with the poor",
+            "Some ate selfishly while others went hungry"
+          ],
+          "fil": [
+            "Naghihintayan ang lahat sa isa't isa",
+            "Pantay na nagbabahagi ang mayayaman sa mahihirap",
+            "May makasariling kumakain habang nagugutom ang iba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul rebukes divisions at the meal where some overindulged while others lacked food (1 Corinthians 11).",
+          "fil": "Sinaway ni Pablo ang pagkakabaha-bahagi sa pagkain kung saan nagpapakalabis ang ilan habang walang pagkain ang iba (1 Corinto 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should believers do before sharing in the Lord's Supper?",
+          "fil": "Ano ang dapat gawin ng mga mananampalataya bago makibahagi sa Hapunan ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Examine themselves",
+            "Compete for the best seats",
+            "Exclude everyone who is poor"
+          ],
+          "fil": [
+            "Suriin ang kanilang sarili",
+            "Mag-unahan sa pinakamagandang upuan",
+            "Ibukod ang lahat ng mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul calls for self-examination and proper regard for the body when sharing the Lord's Supper (1 Corinthians 11).",
+          "fil": "Nanawagan si Pablo ng pagsusuri sa sarili at wastong pagpapahalaga sa katawan sa pakikibahagi sa Hapunan ng Panginoon (1 Corinto 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does the Spirit give different gifts to believers?",
+          "fil": "Bakit nagbibigay ang Espiritu ng iba't ibang kaloob sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "To make some people worthless",
+            "To create rival churches",
+            "For the common good"
+          ],
+          "fil": [
+            "Upang mawalan ng halaga ang ilang tao",
+            "Upang lumikha ng magkakalabang iglesiya",
+            "Para sa kabutihan ng lahat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Different gifts come from the same Spirit for the benefit of the whole community (1 Corinthians 12).",
+          "fil": "Mula sa iisang Espiritu ang iba't ibang kaloob para sa kapakinabangan ng buong komunidad (1 Corinto 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the comparison with a body teach about different members?",
+          "fil": "Ano ang itinuturo ng paghahambing sa katawan tungkol sa iba't ibang bahagi?"
+        },
+        "options": {
+          "en": [
+            "Each belongs and is needed",
+            "Only the most visible members matter",
+            "All must perform the same function"
+          ],
+          "fil": [
+            "Bawat isa ay kabilang at kailangan",
+            "Pinakanakikitang mga bahagi lamang ang mahalaga",
+            "Dapat pare-pareho ang gawain ng lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul's body illustration shows that differing roles do not make any member unnecessary (1 Corinthians 12).",
+          "fil": "Ipinapakita ng larawan ni Pablo ng katawan na hindi ginagawang walang silbi ng magkaibang tungkulin ang sinumang bahagi (1 Corinto 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the community respond when one member suffers?",
+          "fil": "Paano dapat tumugon ang komunidad kapag nagdurusa ang isang bahagi?"
+        },
+        "options": {
+          "en": [
+            "Pretend nothing has happened",
+            "Share in that suffering",
+            "Celebrate the person's pain"
+          ],
+          "fil": [
+            "Magkunwaring walang nangyari",
+            "Makibahagi sa pagdurusang iyon",
+            "Ipagdiwang ang sakit ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul teaches that members of Christ's body share one another's suffering and honor (1 Corinthians 12).",
+          "fil": "Itinuturo ni Pablo na nakikibahagi ang mga bahagi ng katawan ni Cristo sa pagdurusa at karangalan ng isa't isa (1 Corinto 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does Paul say about impressive gifts without love?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa kahanga-hangang mga kaloob na walang pagmamahal?"
+        },
+        "options": {
+          "en": [
+            "They bring no true benefit",
+            "They guarantee spiritual greatness",
+            "They make loving others unnecessary"
+          ],
+          "fil": [
+            "Wala silang tunay na pakinabang",
+            "Tinitiyak nila ang espirituwal na kadakilaan",
+            "Ginagawa nilang hindi na kailangan ang pagmamahal sa iba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul explains that great gifts and sacrifices are empty without love (1 Corinthians 13).",
+          "fil": "Ipinaliwanag ni Pablo na walang kabuluhan ang dakilang mga kaloob at sakripisyo kung walang pagmamahal (1 Corinto 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which behavior fits Paul's description of love?",
+          "fil": "Aling asal ang angkop sa paglalarawan ni Pablo ng pagmamahal?"
+        },
+        "options": {
+          "en": [
+            "Enjoying other people's wrongdoing",
+            "Patient kindness without envy or boasting",
+            "Keeping a list of wrongs for revenge"
+          ],
+          "fil": [
+            "Pagkatuwa sa paggawa ng masama ng iba",
+            "Matiyagang kabaitan na walang inggit o pagmamayabang",
+            "Pagtatala ng mga kasalanan para sa paghihiganti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul portrays love through patience, kindness, humility, and delight in truth (1 Corinthians 13).",
+          "fil": "Inilarawan ni Pablo ang pagmamahal sa pagtitiyaga, kabaitan, pagpapakumbaba, at pagkatuwa sa katotohanan (1 Corinto 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul compare present understanding with future understanding?",
+          "fil": "Paano inihambing ni Pablo ang kasalukuyang pagkaunawa sa pagkaunawa sa hinaharap?"
+        },
+        "options": {
+          "en": [
+            "People already know everything completely",
+            "Future understanding will be less clear",
+            "Present knowledge is partial, but fuller understanding will come"
+          ],
+          "fil": [
+            "Ganap nang alam ng mga tao ang lahat",
+            "Mas malabo ang pagkaunawa sa hinaharap",
+            "Bahagya ang kaalaman ngayon, ngunit darating ang mas ganap na pagkaunawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul uses imperfect reflection and face-to-face seeing to contrast partial and fuller understanding (1 Corinthians 13).",
+          "fil": "Ginamit ni Pablo ang malabong larawan at harapang pagtingin upang ihambing ang bahagya at mas ganap na pagkaunawa (1 Corinto 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What aim should guide speech in a church gathering?",
+          "fil": "Anong layunin ang dapat gumabay sa pagsasalita sa pagtitipon ng iglesiya?"
+        },
+        "options": {
+          "en": [
+            "Making the gathering confusing",
+            "Helping the community understand and grow",
+            "Showing off without helping anyone"
+          ],
+          "fil": [
+            "Paggawang magulo sa pagtitipon",
+            "Pagtulong sa komunidad na makaunawa at lumago",
+            "Pagpapakitang-gilas nang walang natutulungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul prioritizes understandable speech that strengthens the church (1 Corinthians 14).",
+          "fil": "Inuna ni Pablo ang nauunawaang pananalita na nagpapalakas sa iglesiya (1 Corinto 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should someone speaking in a tongue do if no interpreter is present?",
+          "fil": "Ano ang dapat gawin ng nagsasalita sa ibang wika kung walang tagapagpaliwanag?"
+        },
+        "options": {
+          "en": [
+            "Keep interrupting every other speaker",
+            "Demand that everyone pretend to understand",
+            "Remain silent in the gathering and speak to God privately"
+          ],
+          "fil": [
+            "Patuloy na gambalain ang bawat ibang nagsasalita",
+            "Hilinging magkunwari ang lahat na nauunawaan nila",
+            "Manahimik sa pagtitipon at makipag-usap sa Diyos nang sarilinan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul directs tongue-speakers to remain silent in church when no interpreter is available (1 Corinthians 14).",
+          "fil": "Tinagubilinan ni Pablo ang mga nagsasalita sa ibang wika na manahimik sa iglesiya kapag walang tagapagpaliwanag (1 Corinto 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What pattern should characterize contributions during worship?",
+          "fil": "Anong kaayusan ang dapat makita sa pakikibahagi sa pagsamba?"
+        },
+        "options": {
+          "en": [
+            "An orderly gathering where people take turns",
+            "Everyone speaking at once",
+            "Constant rivalry for attention"
+          ],
+          "fil": [
+            "Maayos na pagtitipon kung saan naghahalinhinan ang mga tao",
+            "Sabay-sabay na pagsasalita ng lahat",
+            "Walang-tigil na pag-aagawan ng pansin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul instructs the church to conduct its gathering in an orderly and fitting way (1 Corinthians 14).",
+          "fil": "Tinagubilinan ni Pablo ang iglesiya na idaos ang pagtitipon nang maayos at angkop (1 Corinto 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What events form the gospel Paul reminds the Corinthians they received?",
+          "fil": "Anong mga pangyayari ang bumubuo sa ebanghelyong ipinaalala ni Pablo na natanggap ng mga taga-Corinto?"
+        },
+        "options": {
+          "en": [
+            "Christ conquered Rome with an army",
+            "Christ avoided death and became emperor",
+            "Christ died for sins, was buried, and was raised"
+          ],
+          "fil": [
+            "Sinakop ni Cristo ang Roma gamit ang hukbo",
+            "Iniwasan ni Cristo ang kamatayan at naging emperador",
+            "Namatay si Cristo para sa mga kasalanan, inilibing, at muling binuhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul recalls Christ's death, burial, resurrection, and appearances as the gospel he proclaimed (1 Corinthians 15).",
+          "fil": "Ipinaalala ni Pablo ang pagkamatay, paglilibing, muling pagkabuhay, at pagpapakita ni Cristo bilang ebanghelyong ipinahayag niya (1 Corinto 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What follows if Christ has not been raised?",
+          "fil": "Ano ang kalalabasan kung hindi muling binuhay si Cristo?"
+        },
+        "options": {
+          "en": [
+            "Christian faith would be empty and sins unresolved",
+            "The resurrection would have no importance",
+            "Believers would already have their final bodies"
+          ],
+          "fil": [
+            "Walang kabuluhan ang pananampalatayang Cristiano at hindi naaalis ang mga kasalanan",
+            "Walang magiging halaga ang muling pagkabuhay",
+            "Mayroon na ang mga mananampalataya ng kanilang panghuling katawan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul argues that resurrection is essential because without it faith is futile and believers remain in sin (1 Corinthians 15).",
+          "fil": "Ipinaliwanag ni Pablo na mahalaga ang muling pagkabuhay dahil kung wala ito ay walang saysay ang pananampalataya at nananatili sa kasalanan ang mga mananampalataya (1 Corinto 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change does Paul describe for the resurrection body?",
+          "fil": "Anong pagbabago ang inilarawan ni Pablo para sa katawang muling bubuhayin?"
+        },
+        "options": {
+          "en": [
+            "From honorable to worthless",
+            "From perishable and weak to imperishable and glorious",
+            "From living to permanently forgotten"
+          ],
+          "fil": [
+            "Mula sa marangal tungo sa walang halaga",
+            "Mula sa nasisira at mahina tungo sa hindi nasisira at maluwalhati",
+            "Mula sa buhay tungo sa tuluyang pagkalimot"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul contrasts the body's present weakness and perishability with resurrection power and glory (1 Corinthians 15).",
+          "fil": "Inihambing ni Pablo ang kasalukuyang kahinaan at pagkasira ng katawan sa kapangyarihan at kaluwalhatian ng muling pagkabuhay (1 Corinto 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "How should believers prepare their contribution for the saints?",
+          "fil": "Paano dapat ihanda ng mga mananampalataya ang kanilang ambag para sa mga banal?"
+        },
+        "options": {
+          "en": [
+            "Set aside an amount regularly according to their means",
+            "Wait until Paul arrives before considering it",
+            "Give only if they receive public praise"
+          ],
+          "fil": [
+            "Regular na magtabi ng halaga ayon sa kanilang kakayahan",
+            "Hintaying dumating si Pablo bago ito pag-isipan",
+            "Magbigay lamang kung pupurihin sila sa publiko"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul recommends regular saving according to one's means so the collection will be ready (1 Corinthians 16).",
+          "fil": "Ipinayo ni Pablo ang regular na pagtatabi ayon sa kakayahan upang maging handa ang ambagan (1 Corinto 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the Corinthians treat Timothy when he visits?",
+          "fil": "Paano dapat pakitunguhan ng mga taga-Corinto si Timoteo kapag bumisita siya?"
+        },
+        "options": {
+          "en": [
+            "Refuse to let him continue his journey",
+            "Welcome him without intimidation because he serves the Lord",
+            "Despise him because he is a coworker"
+          ],
+          "fil": [
+            "Tanggihan ang pagpapatuloy niya sa paglalakbay",
+            "Tanggapin siya nang walang pananakot dahil naglilingkod siya sa Panginoon",
+            "Hamakin siya dahil isa siyang katrabaho"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul asks the church to welcome Timothy respectfully and help him continue in peace (1 Corinthians 16).",
+          "fil": "Hiniling ni Pablo sa iglesiya na tanggapin si Timoteo nang may paggalang at tulungan siyang magpatuloy nang payapa (1 Corinto 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should shape everything the believers do?",
+          "fil": "Ano ang dapat humubog sa lahat ng ginagawa ng mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Rivalry",
+            "Fear of losing status",
+            "Love"
+          ],
+          "fil": [
+            "Paglalaban-laban",
+            "Takot na mawalan ng katayuan",
+            "Pagmamahal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul's closing encouragement joins steadfast faith and courage with love in every action (1 Corinthians 16).",
+          "fil": "Pinagsama ng panghuling paghikayat ni Pablo ang matatag na pananampalataya at tapang sa pagmamahal sa bawat pagkilos (1 Corinto 16)."
+        }
+      }
+    ]
+  }
+}
