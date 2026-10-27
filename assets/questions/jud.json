@@ -1,0 +1,75 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why does Jude urge believers to defend the faith they received?",
+          "fil": "Bakit hinimok ni Judas ang mga mananampalataya na ipagtanggol ang pananampalatayang natanggap nila?"
+        },
+        "options": {
+          "en": [
+            "Some people are using God's grace as an excuse for immoral living",
+            "The believers have forgotten how to build boats",
+            "A governor has asked them to change their language"
+          ],
+          "fil": [
+            "Ginagamit ng ilang tao ang biyaya ng Diyos bilang dahilan para sa masamang pamumuhay",
+            "Nakalimutan ng mga mananampalataya kung paano gumawa ng mga bangka",
+            "Hiniling ng isang gobernador na baguhin nila ang kanilang wika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jude warns that ungodly people have slipped in and distorted God's grace to excuse immoral behavior (Jude 1).",
+          "fil": "Nagbabala si Judas na nakapasok ang mga taong walang paggalang sa Diyos at binaluktot ang kanyang biyaya upang bigyang-dahilan ang masamang asal (Judas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jude encourage believers to do as they wait for Jesus' mercy?",
+          "fil": "Ano ang hinihikayat ni Judas na gawin ng mga mananampalataya habang hinihintay ang awa ni Jesus?"
+        },
+        "options": {
+          "en": [
+            "Follow anyone who promises them wealth",
+            "Strengthen their faith and pray in the Holy Spirit",
+            "Abandon their gatherings and live alone"
+          ],
+          "fil": [
+            "Sumunod sa sinumang nangangako ng kayamanan",
+            "Patatagin ang kanilang pananampalataya at manalangin sa Banal na Espiritu",
+            "Iwan ang kanilang mga pagtitipon at mamuhay nang mag-isa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jude encourages believers to build up their faith, pray in the Holy Spirit, and remain in God's love (Jude 1).",
+          "fil": "Hinihikayat ni Judas ang mga mananampalataya na patatagin ang kanilang pananampalataya, manalangin sa Banal na Espiritu, at manatili sa pagmamahal ng Diyos (Judas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ability of God is praised at the end of Jude's letter?",
+          "fil": "Anong kakayahan ng Diyos ang pinuri sa pagtatapos ng sulat ni Judas?"
+        },
+        "options": {
+          "en": [
+            "He can make believers rulers of every earthly city",
+            "He can spare believers from ever needing to learn",
+            "He can keep believers from stumbling and bring them joyfully into his presence"
+          ],
+          "fil": [
+            "Magagawa niyang pinuno ng bawat lungsod sa lupa ang mga mananampalataya",
+            "Maililigtas niya ang mga mananampalataya sa pangangailangang matuto",
+            "Maiingatan niya ang mga mananampalataya sa pagkatisod at maihaharap silang may kagalakan sa kanyang harapan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jude closes by praising God for his power to guard believers and present them blameless with joy (Jude 1).",
+          "fil": "Nagtapos si Judas sa pagpuri sa kapangyarihan ng Diyos na ingatan ang mga mananampalataya at iharap silang walang kapintasan at may kagalakan (Judas 1)."
+        }
+      }
+    ]
+  }
+}
