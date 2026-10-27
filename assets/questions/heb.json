@@ -1,0 +1,927 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Through whom has God spoken in these last days?",
+          "fil": "Sa pamamagitan nino nagsalita ang Diyos sa mga huling araw na ito?"
+        },
+        "options": {
+          "en": [
+            "His Son",
+            "A Roman emperor",
+            "A priest of Baal"
+          ],
+          "fil": [
+            "Ang kanyang Anak",
+            "Isang emperador ng Roma",
+            "Isang pari ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hebrews presents God's Son as the fullest revelation after the prophets (Hebrews 1).",
+          "fil": "Iniharap ng Hebreo ang Anak ng Diyos bilang ganap na paghahayag matapos ang mga propeta (Hebreo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Son do for the universe?",
+          "fil": "Ano ang ginagawa ng Anak para sa sansinukob?"
+        },
+        "options": {
+          "en": [
+            "Hands it over to idols",
+            "Sustains it by his powerful word",
+            "Leaves it beyond God's care"
+          ],
+          "fil": [
+            "Ipinauubaya ito sa mga diyus-diyusan",
+            "Pinananatili ito sa kanyang makapangyarihang salita",
+            "Iniiwan ito sa labas ng pangangalaga ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Son is described as sustaining everything through his powerful word (Hebrews 1).",
+          "fil": "Inilarawan ang Anak bilang nagpapanatili sa lahat sa pamamagitan ng kanyang makapangyarihang salita (Hebreo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are angels described in relation to those receiving salvation?",
+          "fil": "Paano inilarawan ang mga anghel kaugnay ng mga tatanggap ng kaligtasan?"
+        },
+        "options": {
+          "en": [
+            "Rivals seeking God's throne",
+            "Saviors replacing the Son",
+            "Spirits sent by God to serve them"
+          ],
+          "fil": [
+            "Mga karibal na naghahangad ng trono ng Diyos",
+            "Mga tagapagligtas na pumapalit sa Anak",
+            "Mga espiritung isinugo ng Diyos upang maglingkod sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Angels serve those who will inherit salvation rather than replace God's Son (Hebrews 1).",
+          "fil": "Naglilingkod ang mga anghel sa mga magmamana ng kaligtasan at hindi sila pumapalit sa Anak ng Diyos (Hebreo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why must believers pay close attention to the message they heard?",
+          "fil": "Bakit kailangang pagtuunan ng mga mananampalataya ang mensaheng narinig nila?"
+        },
+        "options": {
+          "en": [
+            "So they can boast about themselves",
+            "So they do not drift away",
+            "So they can ignore salvation"
+          ],
+          "fil": [
+            "Upang maipagmalaki nila ang kanilang sarili",
+            "Upang hindi sila malihis",
+            "Upang balewalain nila ang kaligtasan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hebrews urges careful attention because neglecting the message of salvation is serious (Hebrews 2).",
+          "fil": "Hinimok ng Hebreo ang maingat na pakikinig dahil seryoso ang pagpapabaya sa mensahe ng kaligtasan (Hebreo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did Jesus share in human flesh and blood?",
+          "fil": "Bakit nakibahagi si Jesus sa laman at dugo ng tao?"
+        },
+        "options": {
+          "en": [
+            "To escape all human suffering",
+            "To become an earthly emperor",
+            "To free people from slavery to the fear of death"
+          ],
+          "fil": [
+            "Upang takasan ang lahat ng pagdurusa ng tao",
+            "Upang maging emperador sa lupa",
+            "Upang palayain ang mga tao sa pagkaalipin sa takot sa kamatayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "By sharing human life and dying, Jesus broke the power that kept people afraid of death (Hebrews 2).",
+          "fil": "Sa pakikibahagi sa buhay ng tao at pagkamatay, dinaig ni Jesus ang kapangyarihang umaalipin sa mga tao sa takot sa kamatayan (Hebreo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can Jesus help people who are tempted?",
+          "fil": "Bakit natutulungan ni Jesus ang mga tinutukso?"
+        },
+        "options": {
+          "en": [
+            "He himself suffered when tempted",
+            "He never experienced human weakness",
+            "He tells them temptation does not matter"
+          ],
+          "fil": [
+            "Siya mismo ay nagdusa nang tuksuhin",
+            "Hindi niya naranasan ang kahinaan ng tao",
+            "Sinasabi niyang walang halaga ang tukso"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jesus can help the tempted because he experienced suffering and temptation himself (Hebrews 2).",
+          "fil": "Natutulungan ni Jesus ang mga tinutukso dahil siya mismo ay nakaranas ng pagdurusa at tukso (Hebreo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How does Hebrews distinguish Moses from Christ in God's household?",
+          "fil": "Paano pinagkaiba ng Hebreo sina Moises at Cristo sa sambahayan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Moses created the household and Christ left it",
+            "Both are described as unfaithful rulers",
+            "Moses served faithfully, while Christ is the Son over the household"
+          ],
+          "fil": [
+            "Nilikha ni Moises ang sambahayan at iniwan ito ni Cristo",
+            "Pareho silang inilarawang mga pinunong hindi tapat",
+            "Tapat na naglingkod si Moises, samantalang si Cristo ang Anak na namamahala sa sambahayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses is honored as a faithful servant and Christ as the Son over God's household (Hebrews 3).",
+          "fil": "Pinarangalan si Moises bilang tapat na lingkod at si Cristo bilang Anak na namamahala sa sambahayan ng Diyos (Hebreo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kept the rebellious wilderness generation from entering God's rest?",
+          "fil": "Ano ang humadlang sa mapaghimagsik na salinlahi sa ilang na makapasok sa kapahingahan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Their unbelief",
+            "Their lack of military training",
+            "Their distance from the sea"
+          ],
+          "fil": [
+            "Ang kanilang kawalan ng pananampalataya",
+            "Ang kakulangan nila sa pagsasanay sa digmaan",
+            "Ang layo nila sa dagat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hebrews identifies unbelief as the reason the rebellious generation could not enter God's rest (Hebrews 3).",
+          "fil": "Tinukoy ng Hebreo ang kawalan ng pananampalataya bilang dahilan kung bakit hindi nakapasok ang mapaghimagsik na salinlahi sa kapahingahan ng Diyos (Hebreo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should believers do daily to guard against sin's deception?",
+          "fil": "Ano ang dapat gawin ng mga mananampalataya araw-araw upang maingatan laban sa panlilinlang ng kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Praise one another's wrongdoing",
+            "Encourage one another",
+            "Hide every struggle from everyone"
+          ],
+          "fil": [
+            "Purihin ang paggawa ng masama ng isa't isa",
+            "Magpalakasan sa isa't isa",
+            "Itago ang bawat pagsubok sa lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Daily encouragement helps believers avoid hearts hardened by sin's deceit (Hebrews 3).",
+          "fil": "Tumutulong ang araw-araw na pagpapalakasan upang hindi tumigas ang puso ng mga mananampalataya dahil sa panlilinlang ng kasalanan (Hebreo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What invitation concerning God's rest remains for believers?",
+          "fil": "Anong paanyaya tungkol sa kapahingahan ng Diyos ang nananatili para sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "To enter it through faithful trust rather than disobedience",
+            "To earn it through military victory",
+            "To assume God's promise has ended"
+          ],
+          "fil": [
+            "Pumasok dito sa tapat na pananampalataya sa halip na pagsuway",
+            "Makamit ito sa pamamagitan ng tagumpay sa digmaan",
+            "Isiping tapos na ang pangako ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hebrews teaches that God's promised rest remains and warns against repeating earlier disobedience (Hebrews 4).",
+          "fil": "Itinuturo ng Hebreo na nananatili ang ipinangakong kapahingahan ng Diyos at nagbababala laban sa pag-ulit ng dating pagsuway (Hebreo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What can God's living message reveal?",
+          "fil": "Ano ang kayang ihayag ng buhay na mensahe ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only future market prices",
+            "People's inner thoughts and intentions",
+            "Only outward appearances"
+          ],
+          "fil": [
+            "Mga presyo lamang sa hinaharap",
+            "Ang panloob na mga isip at layunin ng tao",
+            "Panlabas na anyo lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's message is described as penetrating deeply and discerning the heart's thoughts and intentions (Hebrews 4).",
+          "fil": "Inilarawan ang mensahe ng Diyos bilang tumatagos nang malalim at kumikilala sa mga isip at layunin ng puso (Hebreo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why may believers confidently approach God's throne for mercy?",
+          "fil": "Bakit makalalapit nang may tiwala ang mga mananampalataya sa trono ng Diyos para sa awa?"
+        },
+        "options": {
+          "en": [
+            "They have never needed forgiveness",
+            "Earthly status guarantees access",
+            "Jesus is a high priest who understands their weaknesses"
+          ],
+          "fil": [
+            "Hindi sila kailanman nangailangan ng kapatawaran",
+            "Tinitiyak ng katayuan sa lupa ang paglapit",
+            "Si Jesus ay pinakapunong paring nakauunawa sa kanilang mga kahinaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jesus' understanding of human weakness encourages believers to seek God's mercy and timely help (Hebrews 4).",
+          "fil": "Ang pag-unawa ni Jesus sa kahinaan ng tao ay naghihikayat sa mga mananampalataya na humingi ng awa at napapanahong tulong ng Diyos (Hebreo 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What is a high priest appointed to do for the people?",
+          "fil": "Ano ang itinalagang gawin ng pinakapunong pari para sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "Replace God's commands with his own",
+            "Offer gifts and sacrifices for sins",
+            "Collect soldiers for foreign wars"
+          ],
+          "fil": [
+            "Palitan ng sarili niyang mga utos ang mga utos ng Diyos",
+            "Maghandog ng mga kaloob at hain para sa mga kasalanan",
+            "Mangalap ng mga sundalo para sa digmaan sa ibang bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A high priest represents people before God by offering gifts and sacrifices for sins (Hebrews 5).",
+          "fil": "Kinakatawan ng pinakapunong pari ang mga tao sa harap ng Diyos sa paghahandog ng mga kaloob at hain para sa mga kasalanan (Hebreo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Through what did Jesus learn obedience in his human life?",
+          "fil": "Sa pamamagitan ng ano natutuhan ni Jesus ang pagsunod sa kanyang buhay bilang tao?"
+        },
+        "options": {
+          "en": [
+            "The pursuit of wealth",
+            "Avoiding every difficult situation",
+            "What he suffered"
+          ],
+          "fil": [
+            "Ang paghahangad ng kayamanan",
+            "Ang pag-iwas sa bawat mahirap na kalagayan",
+            "Ang kanyang mga pagdurusa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Though he was the Son, Jesus learned obedience through suffering (Hebrews 5).",
+          "fil": "Bagaman siya ang Anak, natutuhan ni Jesus ang pagsunod sa pamamagitan ng pagdurusa (Hebreo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the contrast between milk and solid food teach?",
+          "fil": "Ano ang itinuturo ng paghahambing ng gatas at matigas na pagkain?"
+        },
+        "options": {
+          "en": [
+            "Believers should grow toward mature discernment",
+            "Believers should never move beyond basic instruction",
+            "Food choices determine salvation"
+          ],
+          "fil": [
+            "Dapat lumago ang mga mananampalataya tungo sa ganap na pagkilala sa mabuti at masama",
+            "Hindi dapat lumampas ang mga mananampalataya sa mga pangunahing aral",
+            "Ang pagpili ng pagkain ang nagtatakda ng kaligtasan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solid food illustrates mature teaching for those trained to distinguish good from evil (Hebrews 5).",
+          "fil": "Inilalarawan ng matigas na pagkain ang ganap na aral para sa mga sanay kumilala sa mabuti at masama (Hebreo 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What progress does Hebrews urge after the basic teachings about Christ?",
+          "fil": "Anong pagsulong ang hinihikayat ng Hebreo matapos ang mga pangunahing aral tungkol kay Cristo?"
+        },
+        "options": {
+          "en": [
+            "Abandon all earlier faith",
+            "Repeat only the foundation forever",
+            "Move toward spiritual maturity"
+          ],
+          "fil": [
+            "Talikuran ang lahat ng dating pananampalataya",
+            "Ulitin lamang ang pundasyon magpakailanman",
+            "Sumulong sa espirituwal na pagiging ganap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter urges readers to build on the foundations and press toward maturity (Hebrews 6).",
+          "fil": "Hinimok ng kabanata ang mga mambabasa na magpatuloy mula sa pundasyon tungo sa pagiging ganap (Hebreo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the chapter recall God's promise and oath to Abraham?",
+          "fil": "Bakit ipinaalala ng kabanata ang pangako at panunumpa ng Diyos kay Abraham?"
+        },
+        "options": {
+          "en": [
+            "To show how reliable God's promise is",
+            "To suggest that God sometimes lies",
+            "To make wealth the basis of hope"
+          ],
+          "fil": [
+            "Upang ipakita kung gaano katiyak ang pangako ng Diyos",
+            "Upang ipahiwatig na nagsisinungaling kung minsan ang Diyos",
+            "Upang gawing batayan ng pag-asa ang kayamanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's promise and oath provide strong encouragement because God does not lie (Hebrews 6).",
+          "fil": "Nagbibigay ng matibay na lakas ng loob ang pangako at panunumpa ng Diyos dahil hindi siya nagsisinungaling (Hebreo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image describes the hope that leads into God's presence where Jesus has gone?",
+          "fil": "Anong larawan ang naglalarawan sa pag-asang umaabot sa presensya ng Diyos kung saan pumasok si Jesus?"
+        },
+        "options": {
+          "en": [
+            "A boat with no direction",
+            "A secure anchor for the soul",
+            "A door locked against everyone"
+          ],
+          "fil": [
+            "Isang bangkang walang direksiyon",
+            "Isang matibay na angkla para sa kaluluwa",
+            "Isang pintong nakakandado laban sa lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hope is compared to an anchor secured where Jesus has entered ahead of believers (Hebrews 6).",
+          "fil": "Inihalintulad ang pag-asa sa angklang matatag kung saan naunang pumasok si Jesus para sa mga mananampalataya (Hebreo 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What roles does Melchizedek hold in the account discussed here?",
+          "fil": "Anong mga tungkulin ang taglay ni Melquisedec sa salaysay na tinalakay rito?"
+        },
+        "options": {
+          "en": [
+            "King of Salem and priest of God Most High",
+            "Pharaoh and commander of Egypt",
+            "Governor of Rome and tax collector"
+          ],
+          "fil": [
+            "Hari ng Salem at pari ng Kataas-taasang Diyos",
+            "Faraon at pinuno ng hukbo ng Egipto",
+            "Gobernador ng Roma at maniningil ng buwis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Melchizedek's combined roles as king and priest introduce the comparison with Jesus' priesthood (Hebrews 7).",
+          "fil": "Ang pagiging hari at pari ni Melquisedec ang nagsimula ng paghahambing sa pagkapari ni Jesus (Hebreo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Jesus' priesthood continue permanently?",
+          "fil": "Bakit nananatili magpakailanman ang pagkapari ni Jesus?"
+        },
+        "options": {
+          "en": [
+            "An earthly ruler renews his office",
+            "He lives forever",
+            "He passes it to a new son each year"
+          ],
+          "fil": [
+            "Pinananatili ng isang pinuno sa lupa ang kanyang katungkulan",
+            "Nabubuhay siya magpakailanman",
+            "Ipinapasa niya ito sa bagong anak bawat taon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Unlike priests whose service ends in death, Jesus lives forever and holds a permanent priesthood (Hebrews 7).",
+          "fil": "Di-tulad ng mga paring natatapos ang paglilingkod sa kamatayan, buhay si Jesus magpakailanman at nananatili ang kanyang pagkapari (Hebreo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jesus continually do for those who approach God through him?",
+          "fil": "Ano ang patuloy na ginagawa ni Jesus para sa mga lumalapit sa Diyos sa pamamagitan niya?"
+        },
+        "options": {
+          "en": [
+            "Demands repeated payment for salvation",
+            "Turns them away from the Father",
+            "Intercedes for them"
+          ],
+          "fil": [
+            "Humihingi ng paulit-ulit na bayad para sa kaligtasan",
+            "Inilalayo sila sa Ama",
+            "Namamagitan para sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jesus is able to save completely because he continually intercedes for those who come through him (Hebrews 7).",
+          "fil": "Lubusang nakapagliligtas si Jesus dahil patuloy siyang namamagitan para sa mga lumalapit sa pamamagitan niya (Hebreo 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Where does Jesus serve as high priest?",
+          "fil": "Saan naglilingkod si Jesus bilang pinakapunong pari?"
+        },
+        "options": {
+          "en": [
+            "In a shrine to false gods",
+            "In the true heavenly sanctuary",
+            "In a Roman emperor's palace"
+          ],
+          "fil": [
+            "Sa dambana ng mga diyus-diyusan",
+            "Sa tunay na santuwaryo sa langit",
+            "Sa palasyo ng emperador ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jesus ministers in the true sanctuary established by the Lord rather than by human hands (Hebrews 8).",
+          "fil": "Naglilingkod si Jesus sa tunay na santuwaryong itinatag ng Panginoon at hindi ng kamay ng tao (Hebreo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes the covenant mediated by Jesus better?",
+          "fil": "Ano ang nagpapabuti sa tipang pinamamagitanan ni Jesus?"
+        },
+        "options": {
+          "en": [
+            "It is purchased with more gold",
+            "It removes the need to know God",
+            "It rests on better promises"
+          ],
+          "fil": [
+            "Binili ito ng mas maraming ginto",
+            "Inaalis nito ang pangangailangang makilala ang Diyos",
+            "Nakasalig ito sa mas mabubuting pangako"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hebrews links Jesus' superior ministry with a better covenant founded on better promises (Hebrews 8).",
+          "fil": "Iniugnay ng Hebreo ang higit na ministeryo ni Jesus sa mas mabuting tipang itinatag sa mas mabubuting pangako (Hebreo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does God promise to place his laws in the new covenant?",
+          "fil": "Saan ipinangako ng Diyos na ilalagay ang kanyang mga kautusan sa bagong tipan?"
+        },
+        "options": {
+          "en": [
+            "In his people's minds and hearts",
+            "Only on palace walls",
+            "Only in a hidden treasure chest"
+          ],
+          "fil": [
+            "Sa isip at puso ng kanyang bayan",
+            "Sa mga pader lamang ng palasyo",
+            "Sa nakatagong kaban lamang ng kayamanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promised covenant includes God's laws within his people and forgiveness of their sins (Hebrews 8).",
+          "fil": "Kasama sa ipinangakong tipan ang mga kautusan ng Diyos sa kalooban ng kanyang bayan at kapatawaran sa kanilang mga kasalanan (Hebreo 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How was access to the inner sanctuary restricted under the earlier arrangement?",
+          "fil": "Paano nilimitahan ang pagpasok sa pinakaloob na santuwaryo sa dating kaayusan?"
+        },
+        "options": {
+          "en": [
+            "Anyone entered whenever they wished",
+            "Only the king entered every morning",
+            "Only the high priest entered, once a year with blood"
+          ],
+          "fil": [
+            "Sinuman ay pumapasok kahit kailan niya gusto",
+            "Hari lamang ang pumapasok tuwing umaga",
+            "Pinakapunong pari lamang ang pumapasok, minsan sa isang taon na may dalang dugo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The earlier sanctuary allowed the high priest alone to enter the inner room annually with sacrificial blood (Hebrews 9).",
+          "fil": "Sa dating santuwaryo, pinakapunong pari lamang ang pumapasok sa pinakaloob na silid taun-taon na may dalang dugong panghandog (Hebreo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What can Christ's blood cleanse so people may serve the living God?",
+          "fil": "Ano ang malilinis ng dugo ni Cristo upang makapaglingkod ang mga tao sa buhay na Diyos?"
+        },
+        "options": {
+          "en": [
+            "Their conscience",
+            "Only their outer clothing",
+            "Only the temple floor"
+          ],
+          "fil": [
+            "Ang kanilang budhi",
+            "Ang panlabas lamang nilang damit",
+            "Ang sahig lamang ng templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Christ's offering cleanses the conscience from dead works for service to the living God (Hebrews 9).",
+          "fil": "Nililinis ng handog ni Cristo ang budhi mula sa mga gawang walang buhay upang makapaglingkod sa buhay na Diyos (Hebreo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Christ's sacrifice differ from repeated offerings?",
+          "fil": "Paano naiiba ang hain ni Cristo sa paulit-ulit na mga handog?"
+        },
+        "options": {
+          "en": [
+            "He offered only borrowed animals",
+            "He offered himself once to deal with sin",
+            "He must die again every year"
+          ],
+          "fil": [
+            "Mga hiniram na hayop lamang ang inihandog niya",
+            "Minsan niyang inihandog ang sarili upang alisin ang kasalanan",
+            "Kailangan niyang mamatay muli bawat taon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hebrews emphasizes that Christ's self-offering does not require repeated deaths (Hebrews 9).",
+          "fil": "Binigyang-diin ng Hebreo na hindi kailangang paulit-ulit na mamatay si Cristo para sa kanyang paghahandog ng sarili (Hebreo 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What did the repeated sacrifices bring each year?",
+          "fil": "Ano ang idinudulot ng paulit-ulit na mga hain bawat taon?"
+        },
+        "options": {
+          "en": [
+            "A reminder of sins",
+            "Proof that sin never existed",
+            "Permission to continue wrongdoing"
+          ],
+          "fil": [
+            "Paalala ng mga kasalanan",
+            "Patunay na hindi kailanman umiral ang kasalanan",
+            "Pahintulot na magpatuloy sa paggawa ng masama"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The repeated sacrifices reminded worshipers of sins rather than fully removing them (Hebrews 10).",
+          "fil": "Ipinaaalala ng paulit-ulit na mga hain sa mga sumasamba ang mga kasalanan sa halip na lubusang alisin ang mga ito (Hebreo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What access do believers have through Jesus' blood?",
+          "fil": "Anong paglapit ang mayroon ang mga mananampalataya sa pamamagitan ng dugo ni Jesus?"
+        },
+        "options": {
+          "en": [
+            "A right to worship other gods",
+            "Confidence to enter God's presence",
+            "Authority to replace God"
+          ],
+          "fil": [
+            "Karapatang sumamba sa ibang mga diyos",
+            "Tiwalang makapasok sa presensya ng Diyos",
+            "Awtoridad na palitan ang Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jesus opens a new way for believers to draw near to God with sincere faith (Hebrews 10).",
+          "fil": "Nagbukas si Jesus ng bagong daan upang makalapit sa Diyos ang mga mananampalataya nang may tapat na pananampalataya (Hebreo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should believers do instead of giving up meeting together?",
+          "fil": "Ano ang dapat gawin ng mga mananampalataya sa halip na talikuran ang pagtitipon?"
+        },
+        "options": {
+          "en": [
+            "Compete for recognition",
+            "Keep faith entirely separate from community",
+            "Encourage one another toward love and good deeds"
+          ],
+          "fil": [
+            "Magpaligsahan para sa pagkilala",
+            "Lubusang ihiwalay ang pananampalataya sa komunidad",
+            "Magpalakasan sa isa't isa tungo sa pagmamahal at mabubuting gawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Believers are urged to gather and encourage love and good works as the day approaches (Hebrews 10).",
+          "fil": "Hinimok ang mga mananampalataya na magtipon at magpalakasan sa pagmamahal at mabubuting gawa habang papalapit ang araw (Hebreo 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What does the chapter teach about faith and what is unseen?",
+          "fil": "Ano ang itinuturo ng kabanata tungkol sa pananampalataya at sa hindi nakikita?"
+        },
+        "options": {
+          "en": [
+            "Faith refuses every hope for the future",
+            "Faith trusts God's promises beyond what is presently visible",
+            "Faith depends entirely on possessions"
+          ],
+          "fil": [
+            "Tinatanggihan ng pananampalataya ang lahat ng pag-asa sa hinaharap",
+            "Nagtitiwala ang pananampalataya sa mga pangako ng Diyos lampas sa kasalukuyang nakikita",
+            "Lubusang nakasalalay ang pananampalataya sa mga ari-arian"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter introduces faith as confidence in what is hoped for and not yet seen (Hebrews 11).",
+          "fil": "Ipinakilala ng kabanata ang pananampalataya bilang tiwala sa inaasahan at hindi pa nakikita (Hebreo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Abraham show faith when God called him to move?",
+          "fil": "Paano ipinakita ni Abraham ang pananampalataya nang tawagin siya ng Diyos na lumipat?"
+        },
+        "options": {
+          "en": [
+            "He refused to leave until he became king",
+            "He demanded a palace before setting out",
+            "He obeyed without knowing his destination"
+          ],
+          "fil": [
+            "Tumanggi siyang umalis hangga't hindi siya nagiging hari",
+            "Humingi muna siya ng palasyo bago umalis",
+            "Sumunod siya kahit hindi alam ang kanyang patutunguhan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abraham's departure for an unknown destination illustrates obedient trust in God (Hebrews 11).",
+          "fil": "Ang pag-alis ni Abraham patungo sa hindi pa alam na lugar ay larawan ng masunuring pagtitiwala sa Diyos (Hebreo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What choice of Moses is highlighted as an act of faith?",
+          "fil": "Anong pagpili ni Moises ang binigyang-diin bilang gawa ng pananampalataya?"
+        },
+        "options": {
+          "en": [
+            "Sharing hardship with God's people rather than enjoying Egypt's privileges",
+            "Seeking Pharaoh's throne above everything",
+            "Abandoning God's people for wealth"
+          ],
+          "fil": [
+            "Pakikibahagi sa hirap ng bayan ng Diyos sa halip na tamasahin ang mga pribilehiyo ng Egipto",
+            "Paghahangad ng trono ng Faraon nang higit sa lahat",
+            "Pag-iwan sa bayan ng Diyos para sa kayamanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses chose identification with God's suffering people over the temporary advantages of Egypt (Hebrews 11).",
+          "fil": "Pinili ni Moises ang pakikiisa sa nagdurusang bayan ng Diyos kaysa sa pansamantalang pakinabang ng Egipto (Hebreo 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Whom should believers keep in view as they run their race of faith?",
+          "fil": "Kanino dapat tumingin ang mga mananampalataya habang tumatakbo sa takbuhan ng pananampalataya?"
+        },
+        "options": {
+          "en": [
+            "The wealthiest person nearby",
+            "The ruler with the largest army",
+            "Jesus, who endured the cross"
+          ],
+          "fil": [
+            "Sa pinakamayamang taong malapit sa kanila",
+            "Sa pinunong may pinakamalaking hukbo",
+            "Kay Jesus na nagtiis sa krus"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Believers are urged to run with endurance while looking to Jesus' example (Hebrews 12).",
+          "fil": "Hinimok ang mga mananampalataya na tumakbo nang may pagtitiis habang tumitingin sa halimbawa ni Jesus (Hebreo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers understand God's discipline?",
+          "fil": "Paano dapat unawain ng mga mananampalataya ang pagdidisiplina ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "As a Father's training for his children's good",
+            "As proof that God never loved them",
+            "As permission to stop pursuing holiness"
+          ],
+          "fil": [
+            "Bilang pagsasanay ng Ama para sa kabutihan ng kanyang mga anak",
+            "Bilang patunay na hindi sila kailanman minahal ng Diyos",
+            "Bilang pahintulot na tumigil sa paghahangad ng kabanalan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's discipline is compared to a father's training that produces righteousness (Hebrews 12).",
+          "fil": "Inihalintulad ang pagdidisiplina ng Diyos sa pagsasanay ng ama na nagbubunga ng katuwiran (Hebreo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What joyful gathering contrasts with the frightening scene at Sinai?",
+          "fil": "Anong masayang pagtitipon ang inihambing sa nakatatakot na tagpo sa Sinai?"
+        },
+        "options": {
+          "en": [
+            "An assembly worshiping a golden calf",
+            "The heavenly Jerusalem with angels and God's people",
+            "A feast in Pharaoh's palace"
+          ],
+          "fil": [
+            "Isang pagtitipong sumasamba sa gintong guya",
+            "Ang makalangit na Jerusalem kasama ang mga anghel at bayan ng Diyos",
+            "Isang kapistahan sa palasyo ng Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hebrews contrasts Sinai with the joyful heavenly gathering at Mount Zion through Jesus (Hebrews 12).",
+          "fil": "Inihambing ng Hebreo ang Sinai sa masayang makalangit na pagtitipon sa Bundok Zion sa pamamagitan ni Jesus (Hebreo 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Why should believers remember to welcome strangers?",
+          "fil": "Bakit dapat tandaan ng mga mananampalataya na tanggapin ang mga hindi kakilala?"
+        },
+        "options": {
+          "en": [
+            "Some have welcomed angels without realizing it",
+            "Every stranger is guaranteed to be wealthy",
+            "Hospitality buys a place in heaven"
+          ],
+          "fil": [
+            "May mga tumanggap ng mga anghel nang hindi nila namamalayan",
+            "Tiyak na mayaman ang bawat hindi kakilala",
+            "Nabibili ng pagtanggap sa bisita ang lugar sa langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The call to hospitality recalls people who unknowingly welcomed angels (Hebrews 13).",
+          "fil": "Ipinaaalala ng panawagan sa magiliw na pagtanggap ang mga taong tumanggap ng mga anghel nang hindi nila namamalayan (Hebreo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude toward money does the chapter encourage?",
+          "fil": "Anong saloobin tungkol sa pera ang hinihikayat ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Judging faith by the amount of wealth",
+            "Contentment grounded in God's faithful presence",
+            "Greed as the path to holiness"
+          ],
+          "fil": [
+            "Paghusga sa pananampalataya ayon sa dami ng kayamanan",
+            "Pagiging kuntento na nakasalig sa tapat na presensya ng Diyos",
+            "Kasakiman bilang daan sa kabanalan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Believers should avoid love of money and trust God's promise to remain with them (Hebrews 13).",
+          "fil": "Dapat iwasan ng mga mananampalataya ang pag-ibig sa pera at magtiwala sa pangako ng Diyos na mananatiling kasama nila (Hebreo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kinds of sacrifices please God in this chapter?",
+          "fil": "Anong mga uri ng handog ang nakalulugod sa Diyos sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Boasting and seeking revenge",
+            "Hoarding riches and ignoring others",
+            "Praise, doing good, and sharing with others"
+          ],
+          "fil": [
+            "Pagmamayabang at paghihiganti",
+            "Pagtatago ng kayamanan at pagwawalang-bahala sa iba",
+            "Pagpupuri, paggawa ng mabuti, at pagbabahagi sa iba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter encourages praise to God alongside generous and helpful actions toward others (Hebrews 13).",
+          "fil": "Hinihikayat ng kabanata ang pagpupuri sa Diyos kasama ang mapagbigay at matulunging pagkilos para sa iba (Hebreo 13)."
+        }
+      }
+    ]
+  }
+}
