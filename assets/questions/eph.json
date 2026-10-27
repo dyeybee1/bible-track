@@ -1,0 +1,666 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "According to Ephesians 1, when were believers chosen in Christ?",
+          "fil": "Ayon sa Efeso 1, kailan pinili ang mga mananampalataya kay Cristo?"
+        },
+        "options": {
+          "en": [
+            "After they believed in the gospel",
+            "Before the foundation of the world",
+            "At the moment of their baptism",
+            "When they first heard the Word"
+          ],
+          "fil": [
+            "Pagkatapos nilang maniwala sa ebanghelyo",
+            "Bago pa itatag ang mundo",
+            "Sa sandali ng kanilang bautismo",
+            "Nang unang marinig nila ang Salita"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declares in Ephesians 1 that God chose us in Christ before the foundation of the world to be holy and blameless before Him.",
+          "fil": "Ipinahayag ni Pablo sa Efeso 1 na pinili tayo ng Diyos kay Cristo bago pa itatag ang mundo upang tayo ay maging banal at walang kapintasan sa Kanyang harapan."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say believers received through Christ's blood in Ephesians 1?",
+          "fil": "Ano ang natanggap ng mga mananampalataya sa pamamagitan ng dugo ni Cristo ayon sa Efeso 1?"
+        },
+        "options": {
+          "en": [
+            "Eternal life and peace",
+            "Wisdom and understanding",
+            "Redemption and forgiveness of sins",
+            "Power and authority over evil"
+          ],
+          "fil": [
+            "Buhay na walang hanggan at kapayapaan",
+            "Karunungan at pang-unawa",
+            "Katubasan at kapatawaran ng mga kasalanan",
+            "Kapangyarihan at awtoridad laban sa kasamaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 1 teaches that through Christ's blood we have redemption — the forgiveness of sins — according to the riches of God's grace.",
+          "fil": "Itinuturo ng Efeso 1 na sa pamamagitan ng dugo ni Cristo ay mayroon tayong katubasan — ang kapatawaran ng mga kasalanan — ayon sa kayamanan ng biyaya ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "What is described as the 'deposit' or guarantee of believers' inheritance in Ephesians 1?",
+          "fil": "Ano ang inilarawan bilang 'paunang bayad' o garantiya ng mana ng mga mananampalataya sa Efeso 1?"
+        },
+        "options": {
+          "en": [
+            "The Word of God",
+            "Baptism",
+            "Good works",
+            "The Holy Spirit"
+          ],
+          "fil": [
+            "Ang Salita ng Diyos",
+            "Ang bautismo",
+            "Mga mabuting gawa",
+            "Ang Espiritu Santo"
+          ]
+        },
+        "answer": 3,
+        "explanation": {
+          "en": "In Ephesians 1, Paul says that believers were sealed with the Holy Spirit, who is the deposit guaranteeing their inheritance until redemption.",
+          "fil": "Sa Efeso 1, sinabi ni Pablo na ang mga mananampalataya ay tinatakan ng Espiritu Santo, na siyang paunang bayad na nagtitiyak ng kanilang mana hanggang sa katubasan."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul specifically pray for on behalf of the Ephesians in chapter 1?",
+          "fil": "Ano ang espesipikong ipinanalangin ni Pablo para sa mga taga-Efeso sa kabanata 1?"
+        },
+        "options": {
+          "en": [
+            "That they would receive material blessings",
+            "That they would be protected from persecution",
+            "That God would give them a spirit of wisdom and revelation",
+            "That their church would grow in numbers"
+          ],
+          "fil": [
+            "Na sila ay makatanggap ng mga materyal na pagpapala",
+            "Na sila ay mapoprotektahan mula sa pag-uusig",
+            "Na bigyan sila ng Diyos ng espiritu ng karunungan at pahayag",
+            "Na lumago ang kanilang iglesiya sa bilang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul's prayer in Ephesians 1 was that God would grant the believers a spirit of wisdom and revelation so they could know Him better.",
+          "fil": "Ang panalangin ni Pablo sa Efeso 1 ay na bigyan ng Diyos ang mga mananampalataya ng espiritu ng karunungan at pahayag upang makilala nila Siya nang higit pa."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How does Paul describe the spiritual condition of people before they came to Christ in Ephesians 2?",
+          "fil": "Paano inilarawan ni Pablo ang espirituwal na kalagayan ng mga tao bago sila lumapit kay Cristo sa Efeso 2?"
+        },
+        "options": {
+          "en": [
+            "Confused and searching for truth",
+            "Dead in their transgressions and sins",
+            "Weak but still striving for goodness",
+            "Asleep and unaware of God"
+          ],
+          "fil": [
+            "Nalilito at naghahanap ng katotohanan",
+            "Patay sa kanilang mga pagsalangsang at mga kasalanan",
+            "Mahina ngunit nagsisikap pa rin para sa kabutihan",
+            "Natutulog at hindi alam ang tungkol sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 2 opens with Paul reminding believers that they were once dead in their transgressions and sins before God made them alive together with Christ.",
+          "fil": "Nagsisimula ang Efeso 2 sa paalala ni Pablo na ang mga mananampalataya ay dating patay sa kanilang mga pagsalangsang at kasalanan bago sila buhayin ng Diyos kasama si Cristo."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the famous declaration about salvation found in Ephesians 2?",
+          "fil": "Ano ang sikat na pahayag tungkol sa kaligtasan na makikita sa Efeso 2?"
+        },
+        "options": {
+          "en": [
+            "Salvation comes to those who seek it with all their heart",
+            "God saves those who are righteous and obedient",
+            "It is by grace you have been saved through faith — not by works",
+            "Salvation is the reward for a life of devotion and prayer"
+          ],
+          "fil": [
+            "Ang kaligtasan ay dumarating sa mga naghahanap nito nang buong puso",
+            "Inililigtas ng Diyos ang mga matuwid at masunurin",
+            "Sa pamamagitan ng biyaya kayo ay naligtas sa pamamagitan ng pananampalataya — hindi sa pamamagitan ng mga gawa",
+            "Ang kaligtasan ay gantimpala para sa isang buhay ng debosyon at panalangin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 2 contains the powerful truth that salvation is by grace through faith, not by works, so that no one can boast before God.",
+          "fil": "Naglalaman ang Efeso 2 ng makapangyarihang katotohanang ang kaligtasan ay sa pamamagitan ng biyaya at pananampalataya, hindi sa pamamagitan ng mga gawa, upang walang makapagmapuri sa harap ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say believers are, having been created in Christ Jesus according to Ephesians 2?",
+          "fil": "Ano ang sinabi ni Pablo na ang mga mananampalataya, na nilikhang muli kay Cristo Jesus ayon sa Efeso 2?"
+        },
+        "options": {
+          "en": [
+            "Rulers over all creation",
+            "God's workmanship created for good works",
+            "Servants chosen for worship and prayer",
+            "Witnesses destined to preach to all nations"
+          ],
+          "fil": [
+            "Mga tagapamahala sa lahat ng nilikha",
+            "Obra-maestra ng Diyos na nilikha para sa mabuting gawa",
+            "Mga lingkod na pinili para sa pagsamba at panalangin",
+            "Mga saksi na itinalaga upang mangaral sa lahat ng bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 2 declares that we are God's workmanship — His masterpiece — created in Christ Jesus to do good works that He prepared in advance.",
+          "fil": "Ipinahayag ng Efeso 2 na tayo ang obra-maestra ng Diyos — nilikha kay Cristo Jesus upang gumawa ng mga mabuting gawa na inihanda na Niya nang maaga."
+        }
+      },
+      {
+        "q": {
+          "en": "In Ephesians 2, how were the Gentiles — who were once far away — brought near to God?",
+          "fil": "Sa Efeso 2, paano nalapit sa Diyos ang mga Gentil — na dating malayo?"
+        },
+        "options": {
+          "en": [
+            "Through keeping the law of Moses",
+            "By following the teachings of the prophets",
+            "Through the blood of Christ",
+            "By joining the community of Israel"
+          ],
+          "fil": [
+            "Sa pamamagitan ng pagsunod sa kautusan ni Moises",
+            "Sa pamamagitan ng pagsunod sa mga turo ng mga propeta",
+            "Sa pamamagitan ng dugo ni Cristo",
+            "Sa pamamagitan ng pagsali sa komunidad ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 2 teaches that the Gentiles who were far off were brought near to God through the blood of Christ, who is our peace.",
+          "fil": "Itinuturo ng Efeso 2 na ang mga Gentil na dating malayo ay nalapit sa Diyos sa pamamagitan ng dugo ni Cristo, na siyang ating kapayapaan."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Christ destroy between Jews and Gentiles according to Ephesians 2?",
+          "fil": "Ano ang winasak ni Cristo sa pagitan ng mga Hudyo at mga Gentil ayon sa Efeso 2?"
+        },
+        "options": {
+          "en": [
+            "The differences in their languages",
+            "The wall of hostility dividing them",
+            "The traditions of their ancestors",
+            "The separate places of worship"
+          ],
+          "fil": [
+            "Ang mga pagkakaiba ng kanilang mga wika",
+            "Ang pader ng poot na naghihiwalay sa kanila",
+            "Ang mga tradisyon ng kanilang mga ninuno",
+            "Ang magkaibang lugar ng pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 2 says Christ broke down the dividing wall of hostility between Jews and Gentiles, making them one new humanity in Himself.",
+          "fil": "Sinasabi ng Efeso 2 na winasak ni Cristo ang pader ng poot sa pagitan ng mga Hudyo at mga Gentil, ginagawa silang isang bagong sangkatauhan sa Kanya."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What mystery was revealed to Paul and other apostles according to Ephesians 3?",
+          "fil": "Anong hiwaga ang nahayag kay Pablo at sa iba pang mga apostol ayon sa Efeso 3?"
+        },
+        "options": {
+          "en": [
+            "That Christ would return to judge the world",
+            "That the law would be fulfilled through love",
+            "That Gentiles are fellow heirs and members of one body in Christ",
+            "That the temple of God would be rebuilt"
+          ],
+          "fil": [
+            "Na si Cristo ay babalik upang humusga sa mundo",
+            "Na ang kautusan ay matutupad sa pamamagitan ng pagmamahal",
+            "Na ang mga Gentil ay kapwa tagapagmana at mga kasapi ng isang katawan kay Cristo",
+            "Na ang templo ng Diyos ay itatayo muli"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 3 reveals that the mystery hidden for ages was that Gentiles are fellow heirs, members of the same body, and sharers in the promise through Christ Jesus.",
+          "fil": "Inihayag ng Efeso 3 na ang hiwaga na nakatago sa maraming panahon ay ang mga Gentil ay kapwa tagapagmana, mga kasapi ng iisang katawan, at mga kabahagi ng pangako kay Cristo Jesus."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe himself in relation to his mission to the Gentiles in Ephesians 3?",
+          "fil": "Paano inilarawan ni Pablo ang kanyang sarili kaugnay ng kanyang misyon sa mga Gentil sa Efeso 3?"
+        },
+        "options": {
+          "en": [
+            "As the greatest of all apostles",
+            "As a servant and prisoner of Christ Jesus for the Gentiles",
+            "As a teacher sent to reform the synagogues",
+            "As a prophet with visions for the nations"
+          ],
+          "fil": [
+            "Bilang pinakadakila sa lahat ng mga apostol",
+            "Bilang isang lingkod at bilanggo ni Cristo Jesus para sa mga Gentil",
+            "Bilang isang guro na ipinadala upang baguhin ang mga sinagoga",
+            "Bilang isang propeta na may mga pangitain para sa mga bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "In Ephesians 3, Paul humbly identifies himself as a prisoner of Christ Jesus for the sake of the Gentiles and calls himself the least of all God's people.",
+          "fil": "Sa Efeso 3, mapagkumbabang tinukoy ni Pablo ang kanyang sarili bilang bilanggo ni Cristo Jesus para sa mga Gentil at tinawag ang kanyang sarili na pinakamababa sa lahat ng bayan ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "What was the focus of Paul's prayer for the believers in Ephesians 3?",
+          "fil": "Ano ang pokus ng panalangin ni Pablo para sa mga mananampalataya sa Efeso 3?"
+        },
+        "options": {
+          "en": [
+            "That they would be strengthened inwardly through the Spirit and know Christ's love",
+            "That they would be protected from false teachers",
+            "That their church would be known throughout the Roman Empire",
+            "That they would receive financial provision for ministry"
+          ],
+          "fil": [
+            "Na sila ay mapalakas sa kalooban sa pamamagitan ng Espiritu at makilala ang pagmamahal ni Cristo",
+            "Na sila ay mapoprotektahan mula sa mga maling guro",
+            "Na ang kanilang iglesiya ay makilala sa buong Imperyo ng Roma",
+            "Na sila ay makatanggap ng pinansyal na probisyon para sa ministeryo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul's prayer in Ephesians 3 was that believers would be strengthened with power through the Spirit in their inner being and grasp the love of Christ that surpasses knowledge.",
+          "fil": "Ang panalangin ni Pablo sa Efeso 3 ay na ang mga mananampalataya ay mapalakas ng kapangyarihan sa pamamagitan ng Espiritu sa kanilang panloob na pagkatao at maunawaan ang pagmamahal ni Cristo na lumalagpas sa kaalaman."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say about the love of Christ in Ephesians 3?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa pagmamahal ni Cristo sa Efeso 3?"
+        },
+        "options": {
+          "en": [
+            "It is perfectly described in the Scriptures",
+            "It is available only to those who obey fully",
+            "It surpasses knowledge and fills believers with all the fullness of God",
+            "It rewards those who suffer most for the faith"
+          ],
+          "fil": [
+            "Ito ay perpektong inilalarawan sa Kasulatan",
+            "Ito ay available lamang sa mga ganap na sumusunod",
+            "Ito ay lumalagpas sa kaalaman at pinupuno ang mga mananampalataya ng buong kapunuan ng Diyos",
+            "Ito ay ginagantimpalaan ang mga pinaka-nagdurusa para sa pananampalataya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 3 declares that the love of Christ surpasses knowledge, and Paul prays that believers would be filled to the measure of all the fullness of God.",
+          "fil": "Ipinahayag ng Efeso 3 na ang pagmamahal ni Cristo ay lumalagpas sa kaalaman, at nanalangin si Pablo na ang mga mananampalataya ay mapuno sa sukat ng buong kapunuan ng Diyos."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Which of the following is NOT one of the 'ones' Paul lists to describe Christian unity in Ephesians 4?",
+          "fil": "Alin sa mga sumusunod ang HINDI isa sa mga 'iisa' na nakalista ni Pablo upang ilarawan ang pagkakaisa ng Cristiano sa Efeso 4?"
+        },
+        "options": {
+          "en": [
+            "One body and one Spirit",
+            "One Lord and one faith",
+            "One temple and one priest",
+            "One baptism and one God and Father"
+          ],
+          "fil": [
+            "Isang katawan at isang Espiritu",
+            "Isang Panginoon at isang pananampalataya",
+            "Isang templo at isang pari",
+            "Isang bautismo at isang Diyos at Ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 4 lists one body, one Spirit, one hope, one Lord, one faith, one baptism, and one God and Father — but not 'one temple and one priest.'",
+          "fil": "Naglista ang Efeso 4 ng isang katawan, isang Espiritu, isang pag-asa, isang Panginoon, isang pananampalataya, isang bautismo, at isang Diyos at Ama — ngunit hindi 'isang templo at isang pari.'"
+        }
+      },
+      {
+        "q": {
+          "en": "What was the purpose of the gifts Christ gave — apostles, prophets, evangelists, pastors and teachers — according to Ephesians 4?",
+          "fil": "Ano ang layunin ng mga kaloob na ibinigay ni Cristo — mga apostol, propeta, ebanghelista, pastor at guro — ayon sa Efeso 4?"
+        },
+        "options": {
+          "en": [
+            "To rule over the church with authority",
+            "To equip God's people for works of service and build up the body of Christ",
+            "To record the teachings of Jesus for future generations",
+            "To translate the Scriptures into every language"
+          ],
+          "fil": [
+            "Upang mamuno sa iglesiya nang may awtoridad",
+            "Upang ihanda ang bayan ng Diyos para sa mga gawa ng paglilingkod at itayo ang katawan ni Cristo",
+            "Upang itala ang mga turo ni Jesus para sa mga susunod na henerasyon",
+            "Upang isalin ang Kasulatan sa bawat wika"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 4 teaches that Christ gave these ministry gifts to equip His people for works of service so that the body of Christ may be built up.",
+          "fil": "Itinuturo ng Efeso 4 na ibinigay ni Cristo ang mga kaloob na ito ng ministeryo upang ihanda ang Kanyang bayan para sa mga gawa ng paglilingkod upang ang katawan ni Cristo ay maitayo."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul urge believers to put off and put on in Ephesians 4?",
+          "fil": "Ano ang ipinapayo ni Pablo sa mga mananampalataya na ihulog at isuot sa Efeso 4?"
+        },
+        "options": {
+          "en": [
+            "Put off pride and put on humility only",
+            "Put off the old self and put on the new self created to be like God",
+            "Put off their traditions and put on Roman customs",
+            "Put off mourning and put on joy and celebration"
+          ],
+          "fil": [
+            "Ihulog ang pagmamalaki at isuot ang kababaan lamang",
+            "Ihulog ang lumang pagkatao at isuot ang bagong pagkatao na nilikha upang maging katulad ng Diyos",
+            "Ihulog ang kanilang mga tradisyon at isuot ang mga kaugaliang Romano",
+            "Ihulog ang pagdadalamhati at isuot ang kagalakan at pagdiriwang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 4 calls believers to put off the old self corrupted by deceitful desires and to put on the new self, created to be like God in righteousness and holiness.",
+          "fil": "Tinatawag ng Efeso 4 ang mga mananampalataya na ihulog ang lumang pagkatao na nasiraan ng mga mapanlinlang na pagnanasa at isuot ang bagong pagkatao, nilikha upang maging katulad ng Diyos sa katuwiran at kabanalan."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Paul give about anger in Ephesians 4?",
+          "fil": "Anong babala ang ibinibigay ni Pablo tungkol sa galit sa Efeso 4?"
+        },
+        "options": {
+          "en": [
+            "Never feel anger since it is always sinful",
+            "Always express anger openly so it does not grow inside",
+            "Do not let the sun go down while you are still angry — do not give the devil a foothold",
+            "Channel your anger into righteous acts of justice"
+          ],
+          "fil": [
+            "Huwag kailanman magalit dahil ito ay laging kasalanan",
+            "Laging ipahayag ang galit nang hayagan upang hindi ito lumaki sa loob",
+            "Huwag hayaang lumubog ang araw habang galit ka pa — huwag bigyan ng puwang ang diyablo",
+            "Gamitin ang iyong galit para sa mga matuwid na kilos ng katarungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 4 warns believers not to let the sun go down on their anger because unresolved anger gives the devil a foothold in their lives.",
+          "fil": "Binabalaan ng Efeso 4 ang mga mananampalataya na huwag hayaang lumubog ang araw habang nagagalit pa sila dahil ang hindi nalutas na galit ay nagbibigay ng puwang sa diyablo sa kanilang buhay."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who does Paul tell believers to imitate at the beginning of Ephesians 5?",
+          "fil": "Sino ang sinabihan ni Pablo sa mga mananampalataya na tularan sa simula ng Efeso 5?"
+        },
+        "options": {
+          "en": [
+            "The apostles and elders of the church",
+            "The great heroes of faith in the Old Testament",
+            "God, as dearly loved children",
+            "Angels who serve before the throne"
+          ],
+          "fil": [
+            "Ang mga apostol at matatanda ng iglesiya",
+            "Ang mga dakilang bayani ng pananampalataya sa Lumang Tipan",
+            "Ang Diyos, bilang mga minamahal na anak",
+            "Ang mga anghel na naglilingkod sa harapan ng trono"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 5 opens with the call to be imitators of God as dearly loved children, and to walk in the way of love just as Christ loved us.",
+          "fil": "Nagsisimula ang Efeso 5 sa tawag na maging mga tagagaya ng Diyos bilang mga minamahal na anak, at lumakad sa daan ng pagmamahal tulad ni Cristo na nagmahal sa atin."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul say believers should be filled with instead of getting drunk on wine in Ephesians 5?",
+          "fil": "Ano ang sinabi ni Pablo na dapat punan ng mga mananampalataya sa halip na maglasing sa alak sa Efeso 5?"
+        },
+        "options": {
+          "en": [
+            "The Word of God",
+            "Joy and thanksgiving",
+            "The Holy Spirit",
+            "The peace of Christ"
+          ],
+          "fil": [
+            "Ang Salita ng Diyos",
+            "Kagalakan at pasasalamat",
+            "Ang Espiritu Santo",
+            "Ang kapayapaan ni Cristo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 5 instructs believers not to get drunk on wine, but instead to be filled with the Holy Spirit, expressing this through psalms, hymns, and spiritual songs.",
+          "fil": "Itinuturo ng Efeso 5 sa mga mananampalataya na huwag maglasing sa alak, kundi mapuno ng Espiritu Santo, na ipinahahayag ito sa pamamagitan ng mga salmo, himno, at mga espirituwal na awit."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe the relationship between husbands and wives using Christ as the model in Ephesians 5?",
+          "fil": "Paano inilarawan ni Pablo ang relasyon ng mga asawa gamit si Cristo bilang modelo sa Efeso 5?"
+        },
+        "options": {
+          "en": [
+            "Husbands should lead with authority and wives should be silent",
+            "Husbands should love their wives as Christ loved the church, giving Himself up for her",
+            "Both husband and wife should lead the household equally without any structure",
+            "Wives should honor their husbands only if the husbands earn that respect"
+          ],
+          "fil": [
+            "Ang mga asawang lalaki ay dapat manguna nang may awtoridad at ang mga asawang babae ay dapat manahimik",
+            "Ang mga asawang lalaki ay dapat magmahal sa kanilang mga asawa tulad ng pagmamahal ni Cristo sa iglesiya, ibinibigay ang Kanyang sarili para sa kanya",
+            "Ang asawang lalaki at babae ay parehong dapat manguna sa tahanan nang walang anumang estruktura",
+            "Ang mga asawang babae ay dapat igalang ang kanilang mga asawa lamang kung nakuha ng mga asawa ang paggalang na iyon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 5 uses Christ's self-giving love for the church as the standard for husbands, calling them to love their wives sacrificially.",
+          "fil": "Ginagamit ng Efeso 5 ang mapagsakripisyong pagmamahal ni Cristo para sa iglesiya bilang pamantayan para sa mga asawang lalaki, tinatawag silang magmahal sa kanilang mga asawa nang may sakripisyo."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul urge believers to do with the deeds of darkness in Ephesians 5?",
+          "fil": "Ano ang ipinapayo ni Pablo sa mga mananampalataya na gawin sa mga gawa ng kadiliman sa Efeso 5?"
+        },
+        "options": {
+          "en": [
+            "Ignore them and focus only on personal growth",
+            "Tolerate them to avoid conflict in the community",
+            "Expose them by walking in the light",
+            "Report them to the church leaders for judgment"
+          ],
+          "fil": [
+            "Huwag pansinin ang mga ito at tumuon lamang sa personal na paglago",
+            "Tiisin ang mga ito upang maiwasan ang salungatan sa komunidad",
+            "Ilantad ang mga ito sa pamamagitan ng paglakad sa liwanag",
+            "Iulat ang mga ito sa mga lider ng iglesiya para sa paghuhukom"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 5 calls believers to walk in the light as children of light and to expose the fruitless deeds of darkness rather than participate in them.",
+          "fil": "Tinatawag ng Efeso 5 ang mga mananampalataya na lumakad sa liwanag bilang mga anak ng liwanag at ilantad ang mga walang bunga na gawa ng kadiliman sa halip na lumahok sa mga ito."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What instruction does Paul give to children in Ephesians 6?",
+          "fil": "Anong tagubilin ang ibinibigay ni Pablo sa mga anak sa Efeso 6?"
+        },
+        "options": {
+          "en": [
+            "Study the Scriptures and teach others",
+            "Obey your parents in the Lord, for this is right",
+            "Follow the example of the apostles in all things",
+            "Serve in the temple from a young age"
+          ],
+          "fil": [
+            "Pag-aralan ang Kasulatan at turuan ang iba",
+            "Sundin ang inyong mga magulang sa Panginoon, sapagkat ito ay tama",
+            "Sundin ang halimbawa ng mga apostol sa lahat ng bagay",
+            "Maglingkod sa templo mula sa murang edad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 6 instructs children to obey their parents in the Lord, calling this the first commandment with a promise — that it may go well with them.",
+          "fil": "Itinuturo ng Efeso 6 sa mga anak na sundin ang kanilang mga magulang sa Panginoon, tinatawag ito na unang utos na may pangako — na mabuti ang mangyari sa kanila."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul warn fathers not to do in Ephesians 6?",
+          "fil": "Ano ang binabalaan ni Pablo sa mga ama na huwag gawin sa Efeso 6?"
+        },
+        "options": {
+          "en": [
+            "Not to neglect reading the Scriptures to their children",
+            "Not to exasperate their children, but to bring them up in the Lord",
+            "Not to let their children play with unbelievers",
+            "Not to allow laziness in the household"
+          ],
+          "fil": [
+            "Huwag balewalain ang pagbabasa ng Kasulatan sa kanilang mga anak",
+            "Huwag painitin ang ulo ng kanilang mga anak, kundi palakihin sila sa Panginoon",
+            "Huwag hayaang makipaglaro ang kanilang mga anak sa mga hindi mananampalataya",
+            "Huwag pahintulutan ang katamaran sa tahanan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 6 tells fathers not to exasperate their children, but to raise them with the training and instruction of the Lord.",
+          "fil": "Sinasabi ng Efeso 6 sa mga ama na huwag painitin ang ulo ng kanilang mga anak, kundi palakihin sila sa pagsasanay at tagubilin ng Panginoon."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the 'sword of the Spirit' identified as in the armor of God passage in Ephesians 6?",
+          "fil": "Ano ang 'tabak ng Espiritu' na natukoy sa talata ng baluting pandigma ng Diyos sa Efeso 6?"
+        },
+        "options": {
+          "en": [
+            "Prayer and fasting",
+            "The love of God poured into our hearts",
+            "The Word of God",
+            "Faith that moves mountains"
+          ],
+          "fil": [
+            "Panalangin at pag-aayuno",
+            "Ang pagmamahal ng Diyos na ibinuhos sa ating mga puso",
+            "Ang Salita ng Diyos",
+            "Pananampalataya na nagpapalipat ng mga bundok"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ephesians 6 identifies the sword of the Spirit as the Word of God — the only offensive weapon in the full armor of God.",
+          "fil": "Tinutukoy ng Efeso 6 ang tabak ng Espiritu bilang ang Salita ng Diyos — ang nag-iisang sandata ng pag-atake sa buong baluting pandigma ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "Which piece of the armor of God in Ephesians 6 represents salvation?",
+          "fil": "Aling piraso ng baluting pandigma ng Diyos sa Efeso 6 ang kumakatawan sa kaligtasan?"
+        },
+        "options": {
+          "en": [
+            "The breastplate",
+            "The belt",
+            "The shield",
+            "The helmet"
+          ],
+          "fil": [
+            "Ang baluti sa dibdib",
+            "Ang sinturon",
+            "Ang kalasag",
+            "Ang helmet"
+          ]
+        },
+        "answer": 3,
+        "explanation": {
+          "en": "Ephesians 6 describes the helmet of salvation as part of the full armor of God, protecting the mind and thoughts of the believer.",
+          "fil": "Inilalarawan ng Efeso 6 ang helmet ng kaligtasan bilang bahagi ng buong baluting pandigma ng Diyos, pinoprotektahan ang isip at mga kaisipan ng mananampalataya."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul urge believers to do at all times as part of the armor of God in Ephesians 6?",
+          "fil": "Ano ang ipinapayo ni Pablo sa mga mananampalataya na gawin sa lahat ng oras bilang bahagi ng baluting pandigma ng Diyos sa Efeso 6?"
+        },
+        "options": {
+          "en": [
+            "Fast and give generously to the poor",
+            "Pray in the Spirit on all occasions with all kinds of prayers",
+            "Read the Scriptures aloud every morning",
+            "Gather with other believers every single day"
+          ],
+          "fil": [
+            "Mag-ayuno at magbigay nang bukas-palad sa mahihirap",
+            "Manalangin sa Espiritu sa lahat ng okasyon nang may lahat ng uri ng mga panalangin",
+            "Basahin ang Kasulatan nang malakas tuwing umaga",
+            "Magtipun-tipon sa ibang mga mananampalataya araw-araw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesians 6 concludes the armor of God section by urging believers to pray in the Spirit at all times with all kinds of prayers and requests.",
+          "fil": "Tinapos ng Efeso 6 ang seksyon ng baluting pandigma sa pamamagitan ng pagpapayo sa mga mananampalataya na manalangin sa Espiritu sa lahat ng oras nang may lahat ng uri ng mga panalangin at kahilingan."
+        }
+      }
+    ]
+  }
+}
