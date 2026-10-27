@@ -1,0 +1,331 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why was Paul astonished at the beginning of his letter to the Galatians?",
+          "fil": "Bakit nagtataka si Pablo sa simula ng kanyang sulat sa mga taga-Galacia?"
+        },
+        "options": {
+          "en": ["They were suffering severe persecution", "They were so quickly deserting Christ for a different gospel", "They had refused to support him financially", "They were fighting among themselves about leadership"],
+          "fil": ["Napakaraming pag-uusig ang kanilang nararamdaman", "Napakabilis nilang tumatalikod kay Cristo para sa ibang ebanghelyo", "Tumanggi silang suportahan siya sa pananalapi", "Nag-aaway sila sa isa't isa tungkol sa pamumuno"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul opens Galatians with shock — the believers were so quickly abandoning the true gospel of Christ for a distorted version (Galatians 1).",
+          "fil": "Binubuksan ni Pablo ang Galacia nang may gulat — ang mga mananampalataya ay napakabilis na tumalikod sa tunay na ebanghelyo ni Cristo para sa isang baluktot na bersyon (Galacia 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where did Paul say he received his gospel message from?",
+          "fil": "Saan sinabi ni Pablo na natanggap niya ang kanyang mensahe ng ebanghelyo?"
+        },
+        "options": {
+          "en": ["From the other apostles in Jerusalem", "From his own study of the scriptures", "By revelation from Jesus Christ, not from any human source", "From his teacher Gamaliel"],
+          "fil": ["Mula sa ibang mga apostol sa Jerusalem", "Mula sa kanyang sariling pag-aaral ng mga kasulatan", "Sa pamamagitan ng pahayag mula kay Jesu-Cristo, hindi mula sa anumang pinagmulan ng tao", "Mula sa kanyang gurong si Gamaliel"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul insists his gospel came by direct revelation from Jesus Christ, not from any human teacher, establishing its divine authority (Galatians 1).",
+          "fil": "Iginigiit ni Pablo na ang kanyang ebanghelyo ay dumating sa pamamagitan ng direktang pahayag mula kay Jesu-Cristo, hindi mula sa anumang guro ng tao, na nagtatag ng banal na awtoridad nito (Galacia 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What was Paul's life like before he became a follower of Christ?",
+          "fil": "Ano ang buhay ni Pablo bago siya naging tagasunod ni Cristo?"
+        },
+        "options": {
+          "en": ["He was a fisherman with no religious background", "He was a Roman soldier who worshipped pagan gods", "He was a persecutor of the church who tried to destroy it", "He was a quiet farmer in Tarsus"],
+          "fil": ["Siya ay isang manlalangoy na walang relihiyosong pinagmulan", "Siya ay isang sundalong Romano na sumasamba sa mga diyos-diyosan", "Siya ay isang mang-uusig ng iglesiya na nagsikap na sirain ito", "Siya ay isang tahimik na magsasaka sa Tarsus"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul himself admitted he was once a zealous persecutor of the church of God, trying to destroy it (Galatians 1).",
+          "fil": "Inamin mismo ni Pablo na siya noon ay isang masigasig na mang-uusig ng iglesiya ng Diyos, na nagsisikap na sirain ito (Galacia 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "After his conversion, how long did Paul wait before going to Jerusalem to see the apostles?",
+          "fil": "Pagkatapos ng kanyang pagbabago, gaano katagal naghintay si Pablo bago pumunta sa Jerusalem upang makita ang mga apostol?"
+        },
+        "options": {
+          "en": ["He went immediately", "Three years", "Seven years", "Ten years"],
+          "fil": ["Pumunta siya agad", "Tatlong taon", "Pitong taon", "Sampung taon"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul emphasizes his independence by noting he went to Arabia first, then Damascus, and only after three years went to Jerusalem (Galatians 1).",
+          "fil": "Binibigyang-diin ni Pablo ang kanyang kalayaan sa pamamagitan ng pagpapansin na pumunta siya sa Arabia muna, pagkatapos ay sa Damascus, at pagkatapos lamang ng tatlong taon ay pumunta sa Jerusalem (Galacia 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What happened when Paul confronted Peter (Cephas) at Antioch?",
+          "fil": "Ano ang nangyari nang humarap si Pablo kay Pedro (Cephas) sa Antioquia?"
+        },
+        "options": {
+          "en": ["Peter welcomed Paul and they agreed on everything", "Paul rebuked Peter to his face because Peter was living like a hypocrite", "They had a friendly debate about mission strategies", "Peter refused to speak with Paul"],
+          "fil": ["Tinanggap ni Pedro si Pablo at sumang-ayon sila sa lahat", "Sinampal ni Pablo si Pedro sa mukha dahil namumuhay si Pedro nang parang mapagpaimbabaw", "Nagkaroon sila ng mapagkaibigan na debate tungkol sa mga estratehiya ng misyon", "Tumanggi si Pedro na makipag-usap kay Pablo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul publicly opposed Peter for withdrawing from Gentile believers when Jewish Christians arrived, acting out of hypocrisy and fear (Galatians 2).",
+          "fil": "Lantarang tinulan ni Pablo si Pedro dahil sa pag-atras nito mula sa mga Gentil na mananampalataya nang dumating ang mga Kristiyanong Hudyo, na kumikilos nang mapagpaimbabaw at may takot (Galacia 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is a key truth Paul declared about how a person is justified before God?",
+          "fil": "Ano ang pangunahing katotohanang ipinahayag ni Pablo tungkol sa kung paano mapapawalang-sala ang isang tao sa harapan ng Diyos?"
+        },
+        "options": {
+          "en": ["By observing the works of the law", "By faith in Jesus Christ, not by observing the law", "By being baptized and circumcised", "By giving generously to the poor"],
+          "fil": ["Sa pamamagitan ng pagsunod sa mga gawa ng kautusan", "Sa pamamagitan ng pananampalataya kay Jesu-Cristo, hindi sa pamamagitan ng pagsunod sa kautusan", "Sa pamamagitan ng pagbabautismo at pagtutuli", "Sa pamamagitan ng mapagbigay na pagbibigay sa mga mahihirap"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "This is the heart of Galatians — justification comes by faith in Christ, not by works of the law; no one is justified by the law (Galatians 2).",
+          "fil": "Ito ang puso ng Galacia — ang pagpapawalang-sala ay dumarating sa pamamagitan ng pananampalataya kay Cristo, hindi sa gawa ng kautusan; walang sinuman ang napapawalang-sala sa kautusan (Galacia 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul mean when he wrote 'I have been crucified with Christ'?",
+          "fil": "Ano ang ibig sabihin ni Pablo nang isulat niya na 'Ako ay ipinako sa krus na kasama ni Cristo'?"
+        },
+        "options": {
+          "en": ["He literally suffered physical crucifixion", "His old self died with Christ, and now Christ lives in him", "He was sent to die as a martyr", "He gave up all his possessions for Christ"],
+          "fil": ["Literal siyang nagdusa ng pisikal na pagpapako sa krus", "Namatay ang kanyang lumang sarili kasama ni Cristo, at ngayon si Cristo ay nabubuhay sa kanya", "Ipinadala siya upang mamatay bilang martir", "Ipinagkaloob niya ang lahat ng kanyang pag-aari para kay Cristo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes the transformative union with Christ — the old Paul died, and now Christ lives in him through faith (Galatians 2).",
+          "fil": "Inilalarawan ni Pablo ang nagbabagong pagkakaisa kay Cristo — namatay ang lumang Pablo, at ngayon si Cristo ay nabubuhay sa kanya sa pamamagitan ng pananampalataya (Galacia 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What question did Paul ask the Galatians to make them think about how they received the Holy Spirit?",
+          "fil": "Anong tanong ang itinanong ni Pablo sa mga taga-Galacia upang mapaisip sila kung paano nila natanggap ang Espiritu Santo?"
+        },
+        "options": {
+          "en": ["Did you receive the Spirit by prayer and fasting?", "Did you receive the Spirit by observing the law or by believing what you heard?", "Did you receive the Spirit through Paul's laying on of hands?", "Did you receive the Spirit through baptism?"],
+          "fil": ["Natanggap ba ninyo ang Espiritu sa pamamagitan ng panalangin at pag-aayuno?", "Natanggap ba ninyo ang Espiritu sa pamamagitan ng pagsunod sa kautusan o sa pamamagitan ng pananalig sa inyong narinig?", "Natanggap ba ninyo ang Espiritu sa pamamagitan ng pagpapatong ng kamay ni Pablo?", "Natanggap ba ninyo ang Espiritu sa pamamagitan ng bautismo?"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul challenges the Galatians with a simple but powerful question — they received the Spirit through faith, not law-keeping (Galatians 3).",
+          "fil": "Hinahamon ni Pablo ang mga taga-Galacia ng isang simpleng ngunit makapangyarihang tanong — natanggap nila ang Espiritu sa pamamagitan ng pananampalataya, hindi ng pagsunod sa kautusan (Galacia 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What role did Paul say the law played before Christ came?",
+          "fil": "Anong papel ang sinabi ni Pablo na ginampanan ng kautusan bago dumating si Cristo?"
+        },
+        "options": {
+          "en": ["It was the final path to salvation", "It was a guardian or tutor to lead us to Christ", "It was only for the nation of Israel", "It was never truly binding on anyone"],
+          "fil": ["Ito ang panghuling landas tungo sa kaligtasan", "Ito ay isang tagapag-alaga o guro upang dalhin tayo kay Cristo", "Ito ay para lamang sa bansa ng Israel", "Hindi ito tunay na umaaplika sa sinuman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul describes the law as a guardian or tutor whose purpose was to lead people to Christ, after which we are justified by faith (Galatians 3).",
+          "fil": "Inilalarawan ni Pablo ang kautusan bilang isang tagapag-alaga o guro na ang layunin ay dalhin ang mga tao kay Cristo, pagkatapos nito ay pinapawalang-sala tayo sa pamamagitan ng pananampalataya (Galacia 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What example did Paul use to show that faith — not law — is the basis of righteousness?",
+          "fil": "Anong halimbawa ang ginamit ni Pablo upang ipakita na ang pananampalataya — hindi ang kautusan — ang batayan ng katuwiran?"
+        },
+        "options": {
+          "en": ["Noah, who built the ark in obedience", "Moses, who received the law on Sinai", "Abraham, who believed God and it was credited to him as righteousness", "David, who was called a man after God's own heart"],
+          "fil": ["Si Noe, na nagtayo ng arko nang may pagsunod", "Si Moises, na tumanggap ng kautusan sa Sinai", "Si Abraham, na naniwala sa Diyos at ito ay ibinanggit bilang katuwiran sa kanya", "Si David, na tinawag na tao na may pusong katulad ng puso ng Diyos"]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul cites Abraham as the example of someone justified by faith — Abraham believed God, and that faith was counted as righteousness (Galatians 3).",
+          "fil": "Binabanggit ni Pablo si Abraham bilang halimbawa ng isang napawalang-sala sa pamamagitan ng pananampalataya — naniwala si Abraham sa Diyos, at ang pananampalatayang iyon ay binibilang bilang katuwiran (Galacia 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Paul say about all believers in Christ regarding their status and identity?",
+          "fil": "Ano ang sinabi ni Pablo tungkol sa lahat ng mananampalataya kay Cristo tungkol sa kanilang katayuan at pagkakakilanlan?"
+        },
+        "options": {
+          "en": ["They are ranked according to their deeds", "They are all one in Christ Jesus — neither Jew nor Gentile, slave nor free, male nor female", "They must follow different rules based on their backgrounds", "They earn different rewards in heaven"],
+          "fil": ["Sila ay pinaguri ayon sa kanilang mga gawa", "Sila ay iisa kay Cristo Jesus — walang Hudyo ni Gentil, alipin ni malaya, lalaki ni babae", "Dapat silang sumunod sa iba't ibang mga patakaran batay sa kanilang mga pinagmulan", "Nagtatamo sila ng iba't ibang gantimpala sa langit"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's powerful declaration that all believers are one in Christ removes every wall of division — social, ethnic, or gender-based (Galatians 3).",
+          "fil": "Ang makapangyarihang deklarasyon ni Pablo na ang lahat ng mananampalataya ay iisa kay Cristo ay tinatanggal ang bawat pader ng pagkakahati — panlipunan, etniko, o batay sa kasarian (Galacia 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What did Paul say believers received instead of the spirit of slavery that leads to fear?",
+          "fil": "Ano ang sinabi ni Pablo na natanggap ng mga mananampalataya sa halip ng espiritu ng pagkaalipin na nagdudulot ng takot?"
+        },
+        "options": {
+          "en": ["A spirit of wisdom and revelation", "The spirit of adoption by which we cry 'Abba, Father'", "A spirit of power and might", "A spirit of prophecy and knowledge"],
+          "fil": ["Isang espiritu ng karunungan at pahayag", "Ang espiritu ng pag-aampon sa pamamagitan nito ay sumisigaw tayo ng 'Abba, Ama'", "Isang espiritu ng kapangyarihan at lakas", "Isang espiritu ng propesiya at kaalaman"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul declares that through Christ we received the spirit of adoption as God's children, allowing us to call God 'Abba, Father' (Galatians 4).",
+          "fil": "Ipinahayag ni Pablo na sa pamamagitan ni Cristo ay natanggap natin ang espiritu ng pag-aampon bilang mga anak ng Diyos, na nagpapahintulot sa atin na tawagin ang Diyos na 'Abba, Ama' (Galacia 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What allegory did Paul use involving Hagar and Sarah?",
+          "fil": "Anong alegoria ang ginamit ni Pablo na kinasasangkutan nina Hagar at Sara?"
+        },
+        "options": {
+          "en": ["They represent two types of prayer — private and public", "They represent two covenants — one of slavery (law) and one of freedom (grace)", "They represent two kinds of suffering — earthly and spiritual", "They represent two missions — to Jews and to Gentiles"],
+          "fil": ["Kumakatawan sila sa dalawang uri ng panalangin — pribado at pampubliko", "Kumakatawan sila sa dalawang tipan — isa ng pagkaalipin (kautusan) at isa ng kalayaan (biyaya)", "Kumakatawan sila sa dalawang uri ng pagdurusa — makalupa at espirituwal", "Kumakatawan sila sa dalawang misyon — sa mga Hudyo at sa mga Gentil"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul uses Hagar and Sarah to illustrate two covenants — the law that enslaves versus the promise that sets free (Galatians 4).",
+          "fil": "Ginagamit ni Pablo sina Hagar at Sara upang ilarawan ang dalawang tipan — ang kautusan na nagaalipin kumpara sa pangako na nagpapalaya (Galacia 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Paul describe his concern for the Galatians who were being led astray?",
+          "fil": "Paano inilarawan ni Pablo ang kanyang pag-aalala para sa mga taga-Galacia na naliligaw?"
+        },
+        "options": {
+          "en": ["He was angry and threatened to stop visiting them", "He was in pain like a woman in childbirth until Christ was formed in them", "He was disappointed but had given up on them", "He was at peace knowing God would correct them"],
+          "fil": ["Siya ay galit at nagbanta na hihinto sa pagbisita sa kanila", "Siya ay nasa sakit tulad ng isang babae na nanganganak hanggang si Cristo ay mabuo sa kanila", "Siya ay nabigo ngunit sumuko na sa kanila", "Siya ay nasa kapayapaan na alam na ang Diyos ang magtatama sa kanila"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul used the tender image of labor pains to describe how much he ached for the Galatians to be restored to Christ (Galatians 4).",
+          "fil": "Ginamit ni Pablo ang malambot na larawan ng mga panahon ng panganganak upang ilarawan kung gaano siya nagnanais na maibalik ang mga taga-Galacia kay Cristo (Galacia 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What did Paul say would happen to anyone seeking to be justified through circumcision?",
+          "fil": "Ano ang sinabi ni Pablo na mangyayari sa sinumang naghahanap ng pagpapawalang-sala sa pamamagitan ng pagtutuli?"
+        },
+        "options": {
+          "en": ["They would be blessed above others", "Christ would be of no value to them at all", "They would receive a different blessing", "They would still be saved but have less reward"],
+          "fil": ["Sila ay pagpapalain nang higit sa iba", "Si Cristo ay walang silbi sa kanila", "Makakatanggap sila ng ibang pagpapala", "Maliligtas pa rin sila ngunit may mas kaunting gantimpala"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warned sternly that anyone seeking justification through circumcision has fallen away from grace — Christ becomes of no benefit to them (Galatians 5).",
+          "fil": "Mahigpit na binalaan ni Pablo na ang sinumang naghahanap ng pagpapawalang-sala sa pamamagitan ng pagtutuli ay nahulog mula sa biyaya — si Cristo ay nagiging walang silbi sa kanila (Galacia 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are some of the fruits of the Spirit that Paul listed?",
+          "fil": "Ano ang ilan sa mga bunga ng Espiritu na nakalista ni Pablo?"
+        },
+        "options": {
+          "en": ["Wealth, fame, power, and influence", "Love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, and self-control", "Prophecy, healing, wisdom, and tongues", "Fasting, prayer, giving, and pilgrimage"],
+          "fil": ["Kayamanan, katanyagan, kapangyarihan, at impluwensya", "Pagmamahal, kagalakan, kapayapaan, pasensiya, kabaitan, kabutihan, katapatan, kahinahunan, at pagpipigil sa sarili", "Propesiya, pagpapagaling, karunungan, at wika", "Pag-aayuno, panalangin, pagbibigay, at paglalakbay"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's list of the fruit of the Spirit in Galatians 5 — love, joy, peace, and others — contrasts with the works of the flesh.",
+          "fil": "Ang listahan ni Pablo ng bunga ng Espiritu sa Galacia 5 — pagmamahal, kagalakan, kapayapaan, at iba pa — ay kaiba sa mga gawa ng laman."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning did Paul give about using Christian freedom?",
+          "fil": "Anong babala ang ibinigay ni Pablo tungkol sa paggamit ng kalayaang Kristiyano?"
+        },
+        "options": {
+          "en": ["Use it to earn more rights in society", "Do not use freedom as an opportunity to indulge the flesh, but serve one another in love", "Freedom means you no longer need to pray or worship", "Use it to challenge all authority"],
+          "fil": ["Gamitin ito para makakuha ng mas maraming karapatan sa lipunan", "Huwag gamitin ang kalayaan bilang pagkakataon para ibigay sa laman, kundi maglingkod sa isa't isa nang may pagmamahal", "Ang kalayaan ay nangangahulugan na hindi na kayo kailangang manalangin o sumamba", "Gamitin ito para hamunin ang lahat ng awtoridad"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul reminds believers that freedom in Christ is not a license to sin but a call to serve one another through love (Galatians 5).",
+          "fil": "Pinapaalalahanan ni Pablo ang mga mananampalataya na ang kalayaan kay Cristo ay hindi lisensya para magkasala kundi isang tawag na maglingkod sa isa't isa sa pamamagitan ng pagmamahal (Galacia 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Paul say believers should do if someone is caught in a sin?",
+          "fil": "Ano ang sinabi ni Pablo na dapat gawin ng mga mananampalataya kung may nahuhuli sa kasalanan?"
+        },
+        "options": {
+          "en": ["Remove them from the community immediately", "Restore them gently, watching out for temptation in yourselves", "Publicly expose their sin as a warning to others", "Pray for them from a distance only"],
+          "fil": ["Alisin sila agad sa komunidad", "Ibalik sila nang mahinahon, mag-ingat sa tukso sa inyong mga sarili", "Lantarang ibulgar ang kanilang kasalanan bilang babala sa iba", "Ipanalangin lamang sila mula sa malayo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul instructs the spiritual to gently restore the fallen believer, while guarding themselves against temptation too — this is bearing one another's burdens (Galatians 6).",
+          "fil": "Inutusan ni Pablo ang mga espirituwal na mahinahon na ibalik ang naliligaw na mananampalataya, habang pinoprotektahan din ang kanilang mga sarili laban sa tukso — ito ang pagdadala ng isa't isa ng mga pasanin (Galacia 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What principle did Paul lay out about sowing and reaping?",
+          "fil": "Anong prinsipyo ang inilatag ni Pablo tungkol sa paghahasik at pag-ani?"
+        },
+        "options": {
+          "en": ["Whoever sows to please the flesh will harvest eternal life", "Whatever a person sows, that is what they will also reap", "Sowing in hard soil produces double the harvest", "A person who sows little will still reap much if they pray"],
+          "fil": ["Ang sinumang naghahasik para masiyahan ang laman ay mag-aani ng buhay na walang hanggan", "Anuman ang itanim ng isang tao, iyon din ang kanyang aanihin", "Ang paghahasik sa matigas na lupa ay nagbibigay ng doble ng ani", "Ang isang taong naghahasik nang kaunti ay mag-aani pa rin nang marami kung manalangin siya"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's principle of sowing and reaping means that choices have consequences — sowing to the flesh brings destruction; sowing to the Spirit brings eternal life (Galatians 6).",
+          "fil": "Ang prinsipyo ni Pablo ng paghahasik at pag-ani ay nangangahulugan na ang mga pagpili ay may mga kahihinatnan — ang paghahasik sa laman ay nagdudulot ng pagkasira; ang paghahasik sa Espiritu ay nagdudulot ng buhay na walang hanggan (Galacia 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "In what did Paul say he would boast, to the exclusion of everything else?",
+          "fil": "Sa ano sinabi ni Pablo na magmamapuri siya, hindi kasama ang lahat ng iba pa?"
+        },
+        "options": {
+          "en": ["In his many revelations and visions", "In the cross of our Lord Jesus Christ", "In the number of churches he founded", "In his sufferings for the gospel"],
+          "fil": ["Sa kanyang maraming pahayag at pangitain", "Sa krus ng ating Panginoong Jesu-Cristo", "Sa bilang ng mga iglesiya na kanyang itinayo", "Sa kanyang mga pagdurusa para sa ebanghelyo"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's final boast is only in the cross of Christ — through which the world has been crucified to him and he to the world (Galatians 6).",
+          "fil": "Ang huling ipinagmamalaki ni Pablo ay ang krus ni Cristo lamang — sa pamamagitan nito ang mundo ay nailing sa krus sa kanya at siya sa mundo (Galacia 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What physical mark did Paul mention at the end of Galatians?",
+          "fil": "Anong pisikal na tanda ang binanggit ni Pablo sa katapusan ng Galacia?"
+        },
+        "options": {
+          "en": ["His circumcision as a sign of his covenant", "The scars of Jesus on his body from his sufferings for Christ", "A tattoo marking him as a servant of Christ", "His shaved head as a sign of his vow"],
+          "fil": ["Ang kanyang pagtutuli bilang tanda ng kanyang tipan", "Ang mga pasa ni Jesus sa kanyang katawan mula sa kanyang mga pagdurusa para kay Cristo", "Isang tattoo na nagtatanda sa kanya bilang isang lingkod ni Cristo", "Ang kanyang nahuling ulo bilang tanda ng kanyang panata"]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul closes by mentioning the marks on his body — scars from his sufferings for Christ — declaring no one should trouble him (Galatians 6).",
+          "fil": "Isinasara ni Pablo sa pamamagitan ng pagbanggit ng mga tanda sa kanyang katawan — mga pasa mula sa kanyang mga pagdurusa para kay Cristo — na idineklara na walang sinuman ang dapat mag-abala sa kanya (Galacia 6)."
+        }
+      }
+    ]
+  }
+}
