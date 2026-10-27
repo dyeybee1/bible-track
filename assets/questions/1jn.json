@@ -1,0 +1,359 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What does the writer emphasize about the message of life he announces?",
+          "fil": "Ano ang binigyang-diin ng sumulat tungkol sa mensahe ng buhay na kanyang ipinapahayag?"
+        },
+        "options": {
+          "en": [
+            "It concerns what he and others personally heard, saw, and touched",
+            "It came only from distant rumors",
+            "It was invented as a story for entertainment"
+          ],
+          "fil": [
+            "Tungkol ito sa personal nilang narinig, nakita, at nahawakan",
+            "Nagmula lamang ito sa malalayong sabi-sabi",
+            "Gawa-gawa ito bilang kuwentong panlibang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The letter opens with firsthand testimony about the life revealed in Jesus (1 John 1).",
+          "fil": "Nagsimula ang sulat sa personal na patotoo tungkol sa buhay na nahayag kay Jesus (1 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contradicts a claim to have fellowship with God?",
+          "fil": "Ano ang sumasalungat sa pag-aangking may pakikisama sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Sharing fellowship with other believers",
+            "Continuing to live in darkness",
+            "Living honestly before God"
+          ],
+          "fil": [
+            "Pakikisama sa ibang mananampalataya",
+            "Patuloy na pamumuhay sa kadiliman",
+            "Pamumuhay nang tapat sa harap ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer explains that a life of darkness contradicts a claim to fellowship with the God who is light (1 John 1).",
+          "fil": "Ipinaliwanag ng sumulat na salungat ang pamumuhay sa kadiliman sa pag-aangking may pakikisama sa Diyos na liwanag (1 Juan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God do when people honestly confess their sins?",
+          "fil": "Ano ang ginagawa ng Diyos kapag tapat na ipinahahayag ng mga tao ang kanilang mga kasalanan?"
+        },
+        "options": {
+          "en": [
+            "He declares that sin never existed",
+            "He tells them to hide their faults from him",
+            "He forgives them and cleanses them from wrongdoing"
+          ],
+          "fil": [
+            "Ipinapahayag niyang hindi kailanman umiral ang kasalanan",
+            "Sinasabi niyang itago nila sa kanya ang kanilang mga pagkakamali",
+            "Pinatatawad niya sila at nililinis mula sa kasamaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer assures readers that God faithfully forgives and cleanses those who confess their sins (1 John 1).",
+          "fil": "Tiniyak ng sumulat na tapat na pinatatawad at nililinis ng Diyos ang mga nagpapahayag ng kanilang mga kasalanan (1 Juan 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Who helps believers before the Father when they sin?",
+          "fil": "Sino ang tumutulong sa mga mananampalataya sa harap ng Ama kapag nagkasala sila?"
+        },
+        "options": {
+          "en": [
+            "An earthly ruler with a powerful army",
+            "Jesus Christ, the righteous one",
+            "A wealthy patron who can pay for forgiveness"
+          ],
+          "fil": [
+            "Isang pinuno sa lupa na may makapangyarihang hukbo",
+            "Si Jesu-Cristo na matuwid",
+            "Isang mayamang tagatangkilik na makababayad para sa kapatawaran"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer identifies Jesus Christ as the righteous advocate believers have with the Father (1 John 2).",
+          "fil": "Tinukoy ng sumulat si Jesu-Cristo bilang matuwid na tagapagtanggol ng mga mananampalataya sa harap ng Ama (1 Juan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the writer warn against loving the world's sinful desires and pride?",
+          "fil": "Bakit nagbabala ang sumulat laban sa pagmamahal sa makasalanang pagnanasa at kapalaluan ng mundo?"
+        },
+        "options": {
+          "en": [
+            "They always lead people to obey God",
+            "They are the only reliable source of life",
+            "These are passing away, while doing God's will has lasting value"
+          ],
+          "fil": [
+            "Palagi nilang inaakay ang mga tao na sumunod sa Diyos",
+            "Ang mga ito lamang ang maaasahang pinagmumulan ng buhay",
+            "Lumilipas ang mga ito, samantalang may pangmatagalang halaga ang paggawa ng kalooban ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer contrasts the passing world and its desires with the lasting life of those who do God's will (1 John 2).",
+          "fil": "Inihambing ng sumulat ang lumilipas na mundo at mga pagnanasa nito sa nananatiling buhay ng mga gumagawa ng kalooban ng Diyos (1 Juan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happened to the opponents the writer says had once been among the believers?",
+          "fil": "Ano ang nangyari sa mga kalabang sinabi ng sumulat na dating kasama ng mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "They left the community, showing they did not truly belong to it",
+            "They became the only trustworthy teachers",
+            "They were appointed to replace Jesus"
+          ],
+          "fil": [
+            "Umalis sila sa komunidad, na nagpapakitang hindi sila tunay na kabilang dito",
+            "Sila ang naging tanging mapagkakatiwalaang mga guro",
+            "Itinalaga sila upang palitan si Jesus"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The writer says the opponents' departure revealed that they did not truly belong to the believing community (1 John 2).",
+          "fil": "Sinabi ng sumulat na ipinakita ng pag-alis ng mga kalaban na hindi sila tunay na kabilang sa komunidad ng mga mananampalataya (1 Juan 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What hope does the writer connect with being God's children?",
+          "fil": "Anong pag-asa ang iniugnay ng sumulat sa pagiging mga anak ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They will never need to grow in goodness",
+            "They will gain control of every earthly nation",
+            "They will be like Christ when he appears"
+          ],
+          "fil": [
+            "Hindi na nila kailangang lumago sa kabutihan",
+            "Magkakaroon sila ng kapangyarihan sa bawat bansa sa lupa",
+            "Magiging katulad sila ni Cristo kapag nahayag siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer says God's children look forward to becoming like Christ when they see him as he is (1 John 3).",
+          "fil": "Sinabi ng sumulat na inaasahan ng mga anak ng Diyos na maging katulad ni Cristo kapag nakita nila siya kung ano siya (1 Juan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the writer mention Cain's treatment of his brother?",
+          "fil": "Bakit binanggit ng sumulat ang pagtrato ni Cain sa kanyang kapatid?"
+        },
+        "options": {
+          "en": [
+            "To warn against hatred that leads to violence",
+            "To praise revenge as a sign of faith",
+            "To encourage competition between brothers"
+          ],
+          "fil": [
+            "Upang magbabala laban sa pagkapoot na humahantong sa karahasan",
+            "Upang purihin ang paghihiganti bilang tanda ng pananampalataya",
+            "Upang hikayatin ang paglalaban ng magkapatid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Cain's murder of his brother serves as a warning against hatred in a chapter calling believers to love (1 John 3).",
+          "fil": "Ang pagpatay ni Cain sa kanyang kapatid ay babala laban sa pagkapoot sa kabanatang tumatawag sa mga mananampalataya na magmahal (1 Juan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should someone with material resources respond to a fellow believer in need?",
+          "fil": "Paano dapat tumugon ang may materyal na kakayahan sa kapwa mananampalatayang nangangailangan?"
+        },
+        "options": {
+          "en": [
+            "Blame the needy person without listening",
+            "Offer practical help rather than empty words",
+            "Close their heart and keep everything for themselves"
+          ],
+          "fil": [
+            "Sisihin ang nangangailangan nang hindi nakikinig",
+            "Magbigay ng praktikal na tulong sa halip na walang-kabuluhang salita",
+            "Isara ang kanilang puso at itago ang lahat para sa sarili"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer calls for love expressed in genuine actions, including sharing with those in need (1 John 3).",
+          "fil": "Tinawag ng sumulat ang mga mananampalataya na ipakita ang pagmamahal sa tunay na gawa, kabilang ang pagbabahagi sa mga nangangailangan (1 Juan 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why should believers test spiritual messages rather than accept them all?",
+          "fil": "Bakit dapat suriin ng mga mananampalataya ang mga mensaheng espirituwal sa halip na tanggapin ang lahat?"
+        },
+        "options": {
+          "en": [
+            "Many false prophets have gone out into the world",
+            "Every message from a popular speaker is true",
+            "God wants them to reject every truthful teacher"
+          ],
+          "fil": [
+            "Maraming maling propeta ang lumaganap sa mundo",
+            "Totoo ang bawat mensahe mula sa sikat na tagapagsalita",
+            "Gusto ng Diyos na tanggihan nila ang bawat tapat na guro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The writer urges discernment because many false prophets are active in the world (1 John 4).",
+          "fil": "Hinimok ng sumulat ang maingat na pagsusuri dahil maraming maling propeta ang kumikilos sa mundo (1 Juan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can believers overcome the false prophets, according to the writer?",
+          "fil": "Bakit makapananaig ang mga mananampalataya sa mga maling propeta, ayon sa sumulat?"
+        },
+        "options": {
+          "en": [
+            "They never need to examine what they hear",
+            "God's presence in them is greater than the power opposed to him",
+            "They have more money than every false teacher"
+          ],
+          "fil": [
+            "Hindi na nila kailangang suriin ang kanilang naririnig",
+            "Higit ang presensya ng Diyos sa kanila kaysa sa kapangyarihang sumasalungat sa kanya",
+            "Mas marami silang pera kaysa sa bawat maling guro"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer assures believers that the one in them is greater than the one influencing the world (1 John 4).",
+          "fil": "Tiniyak ng sumulat sa mga mananampalataya na higit ang nasa kanila kaysa sa nakaiimpluwensiya sa mundo (1 Juan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did God show his love before people loved him?",
+          "fil": "Paano ipinakita ng Diyos ang kanyang pagmamahal bago pa siya mahalin ng mga tao?"
+        },
+        "options": {
+          "en": [
+            "He required people to earn his love with riches",
+            "He waited for people to become perfect on their own",
+            "He sent his Son so that people could have life through him"
+          ],
+          "fil": [
+            "Hiningi niyang bilhin ng mga tao ang kanyang pagmamahal sa pamamagitan ng kayamanan",
+            "Hinintay muna niyang maging ganap ang mga tao sa sarili nilang kakayahan",
+            "Isinugo niya ang kanyang Anak upang magkaroon ng buhay ang mga tao sa pamamagitan niya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer grounds Christian love in God's initiative of sending his Son to bring life and deal with sin (1 John 4).",
+          "fil": "Iniugat ng sumulat ang pagmamahalang Cristiano sa unang pagkilos ng Diyos na isugo ang kanyang Anak upang magbigay ng buhay at tugunan ang kasalanan (1 Juan 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How does the writer describe loving God in relation to his commands?",
+          "fil": "Paano inilarawan ng sumulat ang pagmamahal sa Diyos kaugnay ng kanyang mga utos?"
+        },
+        "options": {
+          "en": [
+            "Loving God means changing his commands for personal gain",
+            "Loving God includes keeping his commands",
+            "Loving God makes obedience unnecessary"
+          ],
+          "fil": [
+            "Ang pagmamahal sa Diyos ay pagbabago ng kanyang mga utos para sa pansariling pakinabang",
+            "Kasama sa pagmamahal sa Diyos ang pagsunod sa kanyang mga utos",
+            "Dahil sa pagmamahal sa Diyos ay hindi na kailangan ang pagsunod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer connects love for God with obedience and explains that God's commands are not crushing burdens (1 John 5).",
+          "fil": "Iniugnay ng sumulat ang pagmamahal sa Diyos sa pagsunod at ipinaliwanag na hindi mabigat na pasanin ang kanyang mga utos (1 Juan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the writer say he has written to those who believe in God's Son?",
+          "fil": "Bakit sinabi ng sumulat na sumulat siya sa mga nananampalataya sa Anak ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "So they can predict the date of the world's end",
+            "So they can claim they have never sinned",
+            "So they may know they have eternal life"
+          ],
+          "fil": [
+            "Upang mahulaan nila ang petsa ng katapusan ng mundo",
+            "Upang maangkin nilang hindi sila kailanman nagkasala",
+            "Upang malaman nilang mayroon silang buhay na walang hanggan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer explains that the letter gives believers assurance of eternal life in God's Son (1 John 5).",
+          "fil": "Ipinaliwanag ng sumulat na nagbibigay ang sulat ng katiyakan sa mga mananampalataya tungkol sa buhay na walang hanggan sa Anak ng Diyos (1 Juan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gives believers confidence that God hears their prayers?",
+          "fil": "Ano ang nagbibigay ng tiwala sa mga mananampalataya na pinakikinggan ng Diyos ang kanilang mga panalangin?"
+        },
+        "options": {
+          "en": [
+            "Asking in accordance with God's will",
+            "Demanding whatever will make them famous",
+            "Repeating requests without caring about God's will"
+          ],
+          "fil": [
+            "Paghingi ayon sa kalooban ng Diyos",
+            "Paghingi ng anumang magpapasikat sa kanila",
+            "Pag-uulit ng mga hiling nang walang pakialam sa kalooban ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The writer teaches confidence in prayer when believers ask according to God's will (1 John 5).",
+          "fil": "Itinuturo ng sumulat ang pagtitiwala sa panalangin kapag humihingi ang mga mananampalataya ayon sa kalooban ng Diyos (1 Juan 5)."
+        }
+      }
+    ]
+  }
+}
