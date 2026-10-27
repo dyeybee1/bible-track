@@ -1,0 +1,359 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What can enduring trials develop in believers?",
+          "fil": "Ano ang maaaring malinang sa mga mananampalataya sa pagtitiis sa mga pagsubok?"
+        },
+        "options": {
+          "en": [
+            "Perseverance and maturity",
+            "A right to look down on others",
+            "Freedom to ignore God's teaching"
+          ],
+          "fil": [
+            "Pagtitiis at pagiging ganap",
+            "Karapatang maliitin ang iba",
+            "Kalayaang balewalain ang turo ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "James explains that tested faith develops perseverance that leads toward maturity (James 1).",
+          "fil": "Ipinaliwanag ni Santiago na ang nasubok na pananampalataya ay nagpapalago ng pagtitiis tungo sa pagiging ganap (Santiago 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should someone who lacks wisdom do?",
+          "fil": "Ano ang dapat gawin ng taong kulang sa karunungan?"
+        },
+        "options": {
+          "en": [
+            "Trust only in personal wealth",
+            "Ask God with faith",
+            "Pretend to know everything"
+          ],
+          "fil": [
+            "Magtiwala lamang sa sariling kayamanan",
+            "Humingi sa Diyos nang may pananampalataya",
+            "Magkunwaring alam ang lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "James encourages those who lack wisdom to ask the generous God with faith (James 1).",
+          "fil": "Hinihikayat ni Santiago ang mga kulang sa karunungan na humingi nang may pananampalataya sa mapagbigay na Diyos (Santiago 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does James compare to looking in a mirror and then forgetting one's appearance?",
+          "fil": "Ano ang inihalintulad ni Santiago sa pagtingin sa salamin at paglimot sa sariling hitsura?"
+        },
+        "options": {
+          "en": [
+            "Helping orphans and widows",
+            "Listening carefully before speaking",
+            "Hearing God's message without putting it into practice"
+          ],
+          "fil": [
+            "Pagtulong sa mga ulila at biyuda",
+            "Pakikinig nang mabuti bago magsalita",
+            "Pakikinig sa mensahe ng Diyos nang hindi ito isinasagawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "James uses the forgotten reflection to describe hearing God's message without acting on it (James 1).",
+          "fil": "Ginamit ni Santiago ang nalimutang larawan sa salamin upang ilarawan ang pakikinig sa mensahe ng Diyos nang hindi ito isinasagawa (Santiago 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What unfair behavior does James describe at a gathering?",
+          "fil": "Anong hindi patas na asal ang inilarawan ni Santiago sa isang pagtitipon?"
+        },
+        "options": {
+          "en": [
+            "Welcoming people without judging their clothing",
+            "Giving a rich visitor better treatment than a poor visitor",
+            "Giving food to visitors who are hungry"
+          ],
+          "fil": [
+            "Pagtanggap sa mga tao nang hindi hinuhusgahan ang kanilang damit",
+            "Pagbibigay ng mas mabuting pagtrato sa mayamang bisita kaysa sa mahirap",
+            "Pagbibigay ng pagkain sa mga bisitang nagugutom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "James warns against favoritism that honors the rich while humiliating the poor (James 2).",
+          "fil": "Nagbabala si Santiago laban sa pagtatanging nagpaparangal sa mayayaman habang hinihiya ang mahihirap (Santiago 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is missing when someone wishes a needy believer well but gives no help?",
+          "fil": "Ano ang kulang kapag binati ng mabuti ang kapatid na nangangailangan ngunit hindi tinulungan?"
+        },
+        "options": {
+          "en": [
+            "A more impressive greeting",
+            "A public announcement of the person's need",
+            "Faith expressed through practical action"
+          ],
+          "fil": [
+            "Mas kahanga-hangang pagbati",
+            "Pampublikong pagpapahayag ng pangangailangan ng tao",
+            "Pananampalatayang ipinapakita sa praktikal na gawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "James teaches that faith must be accompanied by action, including helping those who lack food and clothing (James 2).",
+          "fil": "Itinuturo ni Santiago na dapat samahan ng gawa ang pananampalataya, kabilang ang pagtulong sa mga walang pagkain at damit (Santiago 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does James give about judging others without mercy?",
+          "fil": "Anong babala ang ibinigay ni Santiago tungkol sa paghatol sa iba nang walang awa?"
+        },
+        "options": {
+          "en": [
+            "Those who show no mercy will face judgment without mercy",
+            "Harsh judgment always pleases God",
+            "Only wealthy people need to show mercy"
+          ],
+          "fil": [
+            "Haharapin ng mga walang awa ang paghatol na walang awa",
+            "Palaging nakalulugod sa Diyos ang malupit na paghatol",
+            "Mga mayayaman lamang ang kailangang magpakita ng awa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "James warns that judgment is without mercy for those who have not shown mercy (James 2).",
+          "fil": "Nagbabala si Santiago na walang awa ang paghatol sa mga hindi nagpakita ng awa (Santiago 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What point do the bit in a horse's mouth and a ship's rudder illustrate?",
+          "fil": "Anong punto ang inilalarawan ng renda sa bibig ng kabayo at timon ng barko?"
+        },
+        "options": {
+          "en": [
+            "Only large and powerful things can influence others",
+            "Speech has no effect on a person's life",
+            "Small things can direct something much larger, like the tongue does"
+          ],
+          "fil": [
+            "Malalaki at makapangyarihang bagay lamang ang nakaaimpluwensiya sa iba",
+            "Walang epekto ang pananalita sa buhay ng tao",
+            "Maaaring gumabay sa mas malaki ang maliit na bagay, tulad ng dila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "James uses the bit and rudder to show the great influence of the small tongue (James 3).",
+          "fil": "Ginamit ni Santiago ang renda at timon upang ipakita ang malaking impluwensiya ng maliit na dila (Santiago 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inconsistency does James identify in the way people speak?",
+          "fil": "Anong hindi pagkakatugma ang nakita ni Santiago sa pananalita ng mga tao?"
+        },
+        "options": {
+          "en": [
+            "Praising God while cursing people made in his likeness",
+            "Speaking kindly to both friends and strangers",
+            "Thanking God for help during trials"
+          ],
+          "fil": [
+            "Pagpupuri sa Diyos habang sinusumpa ang mga taong nilikha sa kanyang wangis",
+            "Mabait na pakikipag-usap sa mga kaibigan at hindi kakilala",
+            "Pagpapasalamat sa Diyos sa tulong sa mga pagsubok"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "James says the same mouth should not bless God and curse people made in God's likeness (James 3).",
+          "fil": "Sinabi ni Santiago na hindi dapat purihin ng iisang bibig ang Diyos at sumpain ang mga taong nilikha sa kanyang wangis (Santiago 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What characterizes the wisdom that comes from above?",
+          "fil": "Ano ang katangian ng karunungang mula sa itaas?"
+        },
+        "options": {
+          "en": [
+            "It praises disorder and deception",
+            "It is peaceable, gentle, and full of mercy",
+            "It encourages jealousy and selfish ambition"
+          ],
+          "fil": [
+            "Pinupuri nito ang kaguluhan at panlilinlang",
+            "Ito ay mapayapa, mahinahon, at puno ng awa",
+            "Hinihikayat nito ang inggit at makasariling hangarin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "James describes heavenly wisdom as pure, peaceable, gentle, and rich in mercy and good deeds (James 3).",
+          "fil": "Inilarawan ni Santiago ang makalangit na karunungan bilang dalisay, mapayapa, mahinahon, at sagana sa awa at mabubuting gawa (Santiago 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What source of quarrels does James identify among his readers?",
+          "fil": "Anong pinagmumulan ng mga alitan ang tinukoy ni Santiago sa kanyang mga mambabasa?"
+        },
+        "options": {
+          "en": [
+            "Selfish desires fighting within them",
+            "Their habit of helping needy neighbors",
+            "Their willingness to forgive one another"
+          ],
+          "fil": [
+            "Mga makasariling pagnanasang naglalaban sa kanilang kalooban",
+            "Ang ugali nilang tumulong sa mga kapitbahay na nangangailangan",
+            "Ang kahandaan nilang magpatawad sa isa't isa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "James traces their quarrels to desires that struggle within them (James 4).",
+          "fil": "Iniugnay ni Santiago ang kanilang mga alitan sa mga pagnanasang naglalaban sa kanilang kalooban (Santiago 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does James encourage people to return to God?",
+          "fil": "Paano hinihikayat ni Santiago ang mga tao na bumalik sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Seek honor by humiliating their neighbors",
+            "Submit to God, resist the devil, and draw near to God",
+            "Blame others and refuse to repent"
+          ],
+          "fil": [
+            "Maghanap ng karangalan sa pagpapahiya sa kanilang kapwa",
+            "Magpasakop sa Diyos, labanan ang diyablo, at lumapit sa Diyos",
+            "Sisihin ang iba at tumangging magsisi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "James calls people to humble themselves, resist the devil, and draw near to God (James 4).",
+          "fil": "Tinawag ni Santiago ang mga tao na magpakumbaba, labanan ang diyablo, at lumapit sa Diyos (Santiago 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should people remember when making plans for business and travel?",
+          "fil": "Ano ang dapat tandaan ng mga tao sa pagpaplano ng negosyo at paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "They can guarantee tomorrow's success",
+            "Wealth lets them control how long they live",
+            "Their lives and plans depend on the Lord's will"
+          ],
+          "fil": [
+            "Matitiyak nila ang tagumpay bukas",
+            "Dahil sa kayamanan ay makokontrol nila ang haba ng kanilang buhay",
+            "Nakasalalay sa kalooban ng Panginoon ang kanilang buhay at mga plano"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "James warns against boasting about tomorrow and urges people to acknowledge their dependence on the Lord (James 4).",
+          "fil": "Nagbabala si Santiago laban sa pagmamayabang tungkol sa bukas at hinimok ang mga tao na kilalanin ang kanilang pag-asa sa Panginoon (Santiago 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What injustice does James condemn among the wealthy?",
+          "fil": "Anong kawalang-katarungan ang kinondena ni Santiago sa mga mayayaman?"
+        },
+        "options": {
+          "en": [
+            "Sharing their harvest with hungry families",
+            "Withholding the wages of their workers",
+            "Paying workers fairly and promptly"
+          ],
+          "fil": [
+            "Pagbabahagi ng ani sa mga pamilyang nagugutom",
+            "Pagkakait ng sahod ng kanilang mga manggagawa",
+            "Patas at maagap na pagbabayad sa mga manggagawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "James warns the wealthy that God hears the cries of workers whose wages they have withheld (James 5).",
+          "fil": "Binalaan ni Santiago ang mga mayayaman na naririnig ng Diyos ang daing ng mga manggagawang pinagkaitan nila ng sahod (Santiago 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does James point to a farmer waiting for the harvest?",
+          "fil": "Bakit itinuro ni Santiago ang magsasakang naghihintay ng ani?"
+        },
+        "options": {
+          "en": [
+            "To tell believers to stop working",
+            "To promise that every crop will be large",
+            "To encourage patience while waiting for the Lord"
+          ],
+          "fil": [
+            "Upang sabihan ang mga mananampalataya na tumigil sa pagtatrabaho",
+            "Upang ipangakong magiging sagana ang bawat ani",
+            "Upang hikayatin ang pagtitiyaga habang hinihintay ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "James uses the farmer's patient waiting to encourage believers to remain steadfast until the Lord comes (James 5).",
+          "fil": "Ginamit ni Santiago ang matiyagang paghihintay ng magsasaka upang hikayatin ang mga mananampalataya na magpakatatag hanggang sa pagdating ng Panginoon (Santiago 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a sick believer ask the elders of the church to do?",
+          "fil": "Ano ang dapat hilingin ng maysakit na mananampalataya sa mga elder ng iglesiya?"
+        },
+        "options": {
+          "en": [
+            "Pray over the person and anoint the person with oil in the Lord's name",
+            "Keep the illness secret and offer no prayer",
+            "Demand payment before offering any help"
+          ],
+          "fil": [
+            "Ipanalangin at pahiran ng langis ang maysakit sa pangalan ng Panginoon",
+            "Ilihim ang sakit at huwag manalangin",
+            "Humingi ng bayad bago magbigay ng anumang tulong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "James instructs sick believers to call the elders to pray over them and anoint them with oil in the Lord's name (James 5).",
+          "fil": "Itinagubilin ni Santiago sa mga maysakit na mananampalataya na tawagin ang mga elder upang ipanalangin at pahiran sila ng langis sa pangalan ng Panginoon (Santiago 5)."
+        }
+      }
+    ]
+  }
+}
