@@ -1,0 +1,856 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What does the Teacher emphasize about human activity and the passing generations?",
+          "fil": "Ano ang binigyang-diin ng Mangangaral tungkol sa gawain ng tao at paglipas ng mga henerasyon?"
+        },
+        "options": {
+          "en": [
+            "Its ability to create a new God",
+            "Its passing nature and repeated patterns",
+            "Its power to prevent every death"
+          ],
+          "fil": [
+            "Ang kakayahan nitong lumikha ng bagong Diyos",
+            "Ang paglipas nito at paulit-ulit na takbo",
+            "Ang kapangyarihan nitong pigilan ang bawat kamatayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter introduces the fleeting and repetitive character of earthly life (Ecclesiastes 1).",
+          "fil": "Ipinakilala ng kabanata ang panandalian at paulit-ulit na takbo ng buhay sa lupa (Eclesiastes 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the sun, wind, and rivers illustrate?",
+          "fil": "Ano ang inilalarawan ng araw, hangin, at mga ilog?"
+        },
+        "options": {
+          "en": [
+            "Nature coming to a complete stop",
+            "Human control over all creation",
+            "Cycles that continue while people come and go"
+          ],
+          "fil": [
+            "Lubusang paghinto ng kalikasan",
+            "Paghahari ng tao sa buong sangnilikha",
+            "Mga ikot na nagpapatuloy habang dumarating at lumilipas ang mga tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The natural cycles picture ongoing movement without a final earthly gain (Ecclesiastes 1).",
+          "fil": "Inilalarawan ng mga ikot sa kalikasan ang patuloy na paggalaw na walang ganap na pakinabang sa lupa (Eclesiastes 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What difficult result can accompany greater knowledge?",
+          "fil": "Anong mahirap na bunga ang maaaring kasama ng mas malawak na kaalaman?"
+        },
+        "options": {
+          "en": [
+            "Guaranteed control of the future",
+            "Greater awareness of sorrow and trouble",
+            "Freedom from all grief forever"
+          ],
+          "fil": [
+            "Tiyak na paghahari sa hinaharap",
+            "Mas malalim na kamalayan sa lungkot at suliranin",
+            "Kalayaan sa lahat ng lungkot habambuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Teacher finds that increased understanding can also increase sorrow (Ecclesiastes 1).",
+          "fil": "Natuklasan ng Mangangaral na maaari ring magdagdag ng lungkot ang paglago ng kaalaman (Eclesiastes 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does the Teacher find after pursuing pleasure and impressive projects?",
+          "fil": "Ano ang natuklasan ng Mangangaral matapos hangarin ang kasiyahan at malalaking proyekto?"
+        },
+        "options": {
+          "en": [
+            "They do not provide lasting satisfaction by themselves",
+            "They remove every human limit",
+            "They guarantee that no one will die"
+          ],
+          "fil": [
+            "Hindi nagbibigay ang mga ito lamang ng pangmatagalang kasiyahan",
+            "Inaalis ng mga ito ang bawat limitasyon ng tao",
+            "Tinitiyak ng mga ito na walang mamamatay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Pleasure and achievements fail to supply the lasting gain he seeks (Ecclesiastes 2).",
+          "fil": "Hindi naibigay ng kasiyahan at mga nagawa ang nananatiling pakinabang na hinahanap niya (Eclesiastes 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What troubles him about leaving the results of his labor to another person?",
+          "fil": "Ano ang ikinabahala niya sa pag-iiwan ng bunga ng kanyang paggawa sa iba?"
+        },
+        "options": {
+          "en": [
+            "He cannot know whether that person will use it wisely",
+            "Every heir must become a king",
+            "No one is ever allowed to inherit"
+          ],
+          "fil": [
+            "Hindi niya alam kung gagamitin iyon nang may karunungan",
+            "Kailangang maging hari ang bawat tagapagmana",
+            "Walang sinumang maaaring magmana kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The uncertainty of an heir's wisdom makes accumulated labor seem fragile (Ecclesiastes 2).",
+          "fil": "Dahil sa hindi tiyak na karunungan ng tagapagmana, tila marupok ang naipong bunga ng paggawa (Eclesiastes 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the ability to enjoy food and work ultimately understood?",
+          "fil": "Paano sa huli itinuring ang kakayahang masiyahan sa pagkain at paggawa?"
+        },
+        "options": {
+          "en": [
+            "As something only kings may receive",
+            "As a gift from God",
+            "As proof that God is unnecessary"
+          ],
+          "fil": [
+            "Bilang bagay na para lamang sa mga hari",
+            "Bilang kaloob ng Diyos",
+            "Bilang patunay na hindi kailangan ang Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Teacher recognizes ordinary enjoyment as dependent on God's gift (Ecclesiastes 2).",
+          "fil": "Kinilala ng Mangangaral na nakasalalay sa kaloob ng Diyos ang karaniwang kasiyahan (Eclesiastes 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does the poem about different times teach?",
+          "fil": "Ano ang itinuturo ng tula tungkol sa iba't ibang panahon?"
+        },
+        "options": {
+          "en": [
+            "Human beings can stop time",
+            "Life includes different seasons for different activities",
+            "Every activity should happen at once"
+          ],
+          "fil": [
+            "Kayang pigilan ng tao ang panahon",
+            "May iba't ibang panahon ang buhay para sa iba't ibang gawain",
+            "Dapat sabay-sabay ang bawat gawain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem places contrasting experiences within life's changing seasons (Ecclesiastes 3).",
+          "fil": "Inilagay ng tula ang magkakaibang karanasan sa nagbabagong mga panahon ng buhay (Eclesiastes 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Can people fully grasp everything God does from beginning to end?",
+          "fil": "Ganap bang nauunawaan ng tao ang lahat ng ginagawa ng Diyos mula simula hanggang wakas?"
+        },
+        "options": {
+          "en": [
+            "No, human understanding remains limited",
+            "Only wealth makes such knowledge complete",
+            "Yes, every person knows all of it"
+          ],
+          "fil": [
+            "Hindi, nananatiling limitado ang pang-unawa ng tao",
+            "Kayamanan lamang ang nagpapaganap sa gayong kaalaman",
+            "Oo, alam ng bawat tao ang lahat ng iyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Teacher affirms God's ordering of time while recognizing human limits (Ecclesiastes 3).",
+          "fil": "Kinilala ng Mangangaral ang pag-aayos ng Diyos sa panahon habang kinikilala ang limitasyon ng tao (Eclesiastes 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What good response to daily life is encouraged?",
+          "fil": "Anong mabuting pagtugon sa araw-araw na buhay ang hinimok?"
+        },
+        "options": {
+          "en": [
+            "Pretend that time never passes",
+            "Refuse every simple joy",
+            "Do good and receive enjoyment as God's gift"
+          ],
+          "fil": [
+            "Magkunwaring hindi lumilipas ang panahon",
+            "Tanggihan ang bawat simpleng kagalakan",
+            "Gumawa ng mabuti at tanggapin ang kasiyahan bilang kaloob ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Doing good and enjoying one's work are presented as gifts within life's limits (Ecclesiastes 3).",
+          "fil": "Iniharap ang paggawa ng mabuti at kasiyahan sa gawain bilang mga kaloob sa loob ng limitasyon ng buhay (Eclesiastes 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What question exposes the problem of the person who works endlessly alone?",
+          "fil": "Anong tanong ang naglalantad sa suliranin ng taong walang tigil na gumagawa nang mag-isa?"
+        },
+        "options": {
+          "en": [
+            "For whom is all this work and self-denial?",
+            "How can I become Pharaoh today?",
+            "Why should no one ever rest?"
+          ],
+          "fil": [
+            "Para kanino ang lahat ng gawaing ito at pagkakait sa sarili?",
+            "Paano ako magiging Faraon ngayon?",
+            "Bakit hindi dapat magpahinga kailanman ang sinuman?"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The solitary worker questions labor that leaves no room for companionship or enjoyment (Ecclesiastes 4).",
+          "fil": "Kinuwestiyon ng nag-iisang manggagawa ang paggawa na walang puwang para sa kasama o kasiyahan (Eclesiastes 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What advantage do companions have when one falls?",
+          "fil": "Anong pakinabang ng may kasama kapag nadapa ang isa?"
+        },
+        "options": {
+          "en": [
+            "Neither may ask for help",
+            "One can help the other up",
+            "Both must remain on the ground"
+          ],
+          "fil": [
+            "Wala sa kanilang maaaring humingi ng tulong",
+            "Maaaring ibangon ng isa ang kasama",
+            "Kailangan nilang parehong manatili sa lupa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Companionship provides practical help in difficulty (Ecclesiastes 4).",
+          "fil": "Nagbibigay ng praktikal na tulong sa kahirapan ang pagkakaroon ng kasama (Eclesiastes 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the image of a strong cord suggest?",
+          "fil": "Ano ang ipinahihiwatig ng larawan ng matibay na lubid?"
+        },
+        "options": {
+          "en": [
+            "Isolation always guarantees safety",
+            "Wealth makes friendship useless",
+            "United people are harder to overcome"
+          ],
+          "fil": [
+            "Laging tinitiyak ng pag-iisa ang kaligtasan",
+            "Ginagawang walang silbi ng kayamanan ang pagkakaibigan",
+            "Mas mahirap daigin ang nagkakaisang mga tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cord image reinforces the strength found in companionship (Ecclesiastes 4).",
+          "fil": "Pinagtibay ng larawan ng lubid ang lakas na matatagpuan sa pagkakaroon ng kasama (Eclesiastes 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What problem follows a love of money?",
+          "fil": "Anong suliranin ang kasunod ng pagmamahal sa salapi?"
+        },
+        "options": {
+          "en": [
+            "Money never brings complete satisfaction",
+            "It guarantees perfect contentment",
+            "It removes the need for food"
+          ],
+          "fil": [
+            "Hindi nagbibigay ng ganap na kasiyahan ang salapi",
+            "Tinitiyak nito ang ganap na pagkakuntento",
+            "Inaalis nito ang pangangailangan sa pagkain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Teacher observes that those who love wealth remain unsatisfied (Ecclesiastes 5).",
+          "fil": "Napansin ng Mangangaral na nananatiling hindi nasisiyahan ang mga umiibig sa kayamanan (Eclesiastes 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the worker's sleep contrasted with the rich person's worries?",
+          "fil": "Paano inihambing ang tulog ng manggagawa sa pag-aalala ng mayaman?"
+        },
+        "options": {
+          "en": [
+            "The rich can never experience worry",
+            "The worker can sleep peacefully while abundance may keep the rich awake",
+            "The worker never sleeps at all"
+          ],
+          "fil": [
+            "Hindi kailanman nakararanas ng pag-aalala ang mayaman",
+            "Maaaring mahimbing ang tulog ng manggagawa habang gising ang mayaman dahil sa kayamanan",
+            "Hindi natutulog kailanman ang manggagawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The contrast shows that abundance does not guarantee peace of mind (Ecclesiastes 5).",
+          "fil": "Ipinakikita ng paghahambing na hindi tinitiyak ng kasaganaan ang kapayapaan ng isip (Eclesiastes 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes receiving wealth and enjoying one's work a blessing?",
+          "fil": "Ano ang dahilan upang maging pagpapala ang pagtanggap ng kayamanan at kasiyahan sa gawain?"
+        },
+        "options": {
+          "en": [
+            "God grants both provision and the ability to enjoy it",
+            "Riches replace every relationship",
+            "Possessions make a person immortal"
+          ],
+          "fil": [
+            "Ipinagkakaloob ng Diyos ang kabuhayan at kakayahang tamasahin ito",
+            "Pinapalitan ng yaman ang bawat ugnayan",
+            "Ginagawang walang kamatayan ng ari-arian ang tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter treats the enjoyment of one's portion as God's gift (Ecclesiastes 5).",
+          "fil": "Itinuring ng kabanata ang kasiyahan sa sariling bahagi bilang kaloob ng Diyos (Eclesiastes 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What painful situation is described concerning a wealthy person?",
+          "fil": "Anong masakit na kalagayan ang inilarawan tungkol sa mayaman?"
+        },
+        "options": {
+          "en": [
+            "Having no need for anything from God",
+            "Having much but being unable to enjoy it",
+            "Knowing every future event"
+          ],
+          "fil": [
+            "Hindi nangangailangan ng anuman mula sa Diyos",
+            "Maraming pag-aari ngunit hindi ito matamasa",
+            "Pag-alam sa bawat pangyayari sa hinaharap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Possessing abundance without enjoying it illustrates life's frustration (Ecclesiastes 6).",
+          "fil": "Inilalarawan ng saganang pag-aari na hindi matamasa ang kabiguan sa buhay (Eclesiastes 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the observation about work and appetite show?",
+          "fil": "Ano ang ipinakikita ng puna tungkol sa paggawa at pagnanasa?"
+        },
+        "options": {
+          "en": [
+            "Work removes all desire forever",
+            "Human desires can remain unsatisfied despite labor",
+            "Only kings ever feel hunger"
+          ],
+          "fil": [
+            "Inaalis ng paggawa ang lahat ng pagnanasa habambuhay",
+            "Maaaring hindi pa rin masiyahan ang pagnanasa ng tao sa kabila ng paggawa",
+            "Mga hari lamang ang nakararamdam ng gutom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter notes the continuing appetite that labor does not finally satisfy (Ecclesiastes 6).",
+          "fil": "Binanggit ng kabanata ang patuloy na pagnanasang hindi lubusang napupunan ng paggawa (Eclesiastes 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What limit is emphasized about knowing what comes after one's life?",
+          "fil": "Anong limitasyon ang binigyang-diin sa pag-alam sa darating pagkatapos ng sariling buhay?"
+        },
+        "options": {
+          "en": [
+            "People cannot tell all that the future will bring",
+            "A larger inheritance removes uncertainty",
+            "Every person can predict it perfectly"
+          ],
+          "fil": [
+            "Hindi masasabi ng tao ang lahat ng dadalhin ng hinaharap",
+            "Inaalis ng mas malaking mana ang kawalan ng katiyakan",
+            "Kayang hulaan ito nang ganap ng bawat tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter ends by recognizing uncertainty about the future (Ecclesiastes 6).",
+          "fil": "Nagtatapos ang kabanata sa pagkilala sa kawalan ng katiyakan tungkol sa hinaharap (Eclesiastes 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What can a house of mourning teach that a feast may hide?",
+          "fil": "Ano ang maituturo ng bahay ng pagluluksa na maaaring matakpan ng handaan?"
+        },
+        "options": {
+          "en": [
+            "The reality of death and the need to reflect on life",
+            "That human life has no limits",
+            "That grief is impossible"
+          ],
+          "fil": [
+            "Ang katotohanan ng kamatayan at pangangailangang pag-isipan ang buhay",
+            "Na walang hangganan ang buhay ng tao",
+            "Na imposible ang lungkot"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Facing mortality can turn the heart toward wisdom (Ecclesiastes 7).",
+          "fil": "Maaaring ibaling sa karunungan ang puso sa pagharap sa kamatayan (Eclesiastes 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which attitude is preferred to pride and impatience?",
+          "fil": "Anong saloobin ang mas mabuti kaysa sa pagmamataas at pagkainip?"
+        },
+        "options": {
+          "en": [
+            "Patient humility",
+            "Boasting before listening",
+            "Quick resentment"
+          ],
+          "fil": [
+            "Matiyagang pagpapakumbaba",
+            "Pagyayabang bago makinig",
+            "Mabilis na pagkagalit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Teacher commends patience over a proud spirit (Ecclesiastes 7).",
+          "fil": "Pinuri ng Mangangaral ang pagtitiis sa halip na mapagmataas na diwa (Eclesiastes 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about becoming angry quickly?",
+          "fil": "Anong babala ang ibinigay tungkol sa mabilis na pagkagalit?"
+        },
+        "options": {
+          "en": [
+            "Quick anger always proves wisdom",
+            "Do not let anger take up residence in the heart",
+            "Anger guarantees a fair judgment"
+          ],
+          "fil": [
+            "Laging patunay ng karunungan ang mabilis na galit",
+            "Huwag hayaang mamalagi ang galit sa puso",
+            "Tinitiyak ng galit ang makatarungang hatol"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter associates readily harbored anger with foolishness (Ecclesiastes 7).",
+          "fil": "Iniugnay ng kabanata sa kamangmangan ang madaling pagkikimkim ng galit (Eclesiastes 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What advice is given about the king's command?",
+          "fil": "Anong payo ang ibinigay tungkol sa utos ng hari?"
+        },
+        "options": {
+          "en": [
+            "Respect it in light of the oath before God",
+            "Ignore every command immediately",
+            "Treat the king as the creator of the world"
+          ],
+          "fil": [
+            "Igalang ito kaugnay ng panunumpa sa harap ng Diyos",
+            "Balewalain agad ang bawat utos",
+            "Ituring ang hari na lumikha ng mundo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Teacher counsels care and obedience in dealing with royal authority (Ecclesiastes 8).",
+          "fil": "Ipinayo ng Mangangaral ang pag-iingat at pagsunod sa pakikitungo sa kapangyarihan ng hari (Eclesiastes 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does a wise person recognize when responding to authority?",
+          "fil": "Ano ang kinikilala ng marunong sa pagtugon sa kapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "That rashness solves every difficulty",
+            "That no decision ever has consequences",
+            "The proper time and way to act"
+          ],
+          "fil": [
+            "Na nalulutas ng padalus-dalos na kilos ang bawat hirap",
+            "Na walang bunga ang anumang pasya",
+            "Ang tamang panahon at paraan ng pagkilos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wisdom includes discernment about timing and procedure (Ecclesiastes 8).",
+          "fil": "Kasama sa karunungan ang pagkilala sa tamang panahon at paraan (Eclesiastes 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What shows that human power has limits even for rulers?",
+          "fil": "Ano ang nagpapakitang may limitasyon ang kapangyarihan ng tao maging sa mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "No one can control the day of death",
+            "Kings never face uncertainty",
+            "Every ruler can live forever"
+          ],
+          "fil": [
+            "Walang makapamamahala sa araw ng kamatayan",
+            "Hindi nahaharap sa kawalan ng katiyakan ang mga hari",
+            "Kayang mabuhay habambuhay ng bawat pinuno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter uses death to expose the limits of human control (Ecclesiastes 8).",
+          "fil": "Ginamit ng kabanata ang kamatayan upang ilantad ang limitasyon ng pamamahala ng tao (Eclesiastes 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What common reality faces both the righteous and the wicked?",
+          "fil": "Anong parehong katotohanan ang hinaharap ng matuwid at masama?"
+        },
+        "options": {
+          "en": [
+            "Freedom from every sorrow",
+            "Death",
+            "Permanent rule over Egypt"
+          ],
+          "fil": [
+            "Kalayaan sa bawat lungkot",
+            "Kamatayan",
+            "Panghabambuhay na paghahari sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Teacher observes that death comes to people of different moral conditions (Ecclesiastes 9).",
+          "fil": "Napansin ng Mangangaral na dumarating ang kamatayan sa mga taong may iba't ibang asal (Eclesiastes 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should people approach the work available during their lives?",
+          "fil": "Paano dapat harapin ng tao ang gawaing magagawa habang nabubuhay?"
+        },
+        "options": {
+          "en": [
+            "Wait until after death to begin",
+            "Postpone every task forever",
+            "Do it wholeheartedly while there is opportunity"
+          ],
+          "fil": [
+            "Hintaying mamatay bago magsimula",
+            "Ipagpaliban ang bawat gawain habambuhay",
+            "Gawin ito nang buong puso habang may pagkakataon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter urges vigorous use of the opportunities of life (Ecclesiastes 9).",
+          "fil": "Hinimok ng kabanata ang masigasig na paggamit ng mga pagkakataon sa buhay (Eclesiastes 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is success not guaranteed simply by speed or strength?",
+          "fil": "Bakit hindi tinitiyak ng bilis o lakas lamang ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Ability never has any value",
+            "The strongest person controls all events",
+            "Unexpected circumstances affect everyone"
+          ],
+          "fil": [
+            "Walang anumang halaga ang kakayahan",
+            "Kontrolado ng pinakamalakas ang lahat ng pangyayari",
+            "Naaapektuhan ang lahat ng di-inaasahang pangyayari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Time and unforeseen events limit predictable outcomes (Ecclesiastes 9).",
+          "fil": "Nililimitahan ng panahon at di-inaasahang pangyayari ang matitiyak na bunga (Eclesiastes 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What does the image of dead flies spoiling perfume illustrate?",
+          "fil": "Ano ang inilalarawan ng patay na mga langaw na sumisira sa pabango?"
+        },
+        "options": {
+          "en": [
+            "Perfume makes every decision wise",
+            "Foolishness always improves a good reputation",
+            "A little folly can damage much wisdom and honor"
+          ],
+          "fil": [
+            "Ginagawang marunong ng pabango ang bawat pasya",
+            "Laging pinabubuti ng kamangmangan ang mabuting pangalan",
+            "Kayang sirain ng kaunting kamangmangan ang malaking karunungan at dangal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening image warns about the disproportionate damage of folly (Ecclesiastes 10).",
+          "fil": "Nagbabala ang unang larawan tungkol sa pinsalang higit sa inaasahan mula sa kamangmangan (Eclesiastes 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the words of the wise contrasted with a fool's speech?",
+          "fil": "Paano inihambing ang salita ng marunong sa pananalita ng mangmang?"
+        },
+        "options": {
+          "en": [
+            "Fools always speak more helpfully",
+            "Wise people are told never to speak",
+            "Wise words are gracious while foolish speech brings harm"
+          ],
+          "fil": [
+            "Laging mas nakatutulong magsalita ang mangmang",
+            "Inutusang huwag magsalita kailanman ang marurunong",
+            "Magiliw ang salita ng marunong habang nakapipinsala ang pananalita ng mangmang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter contrasts helpful speech with self-destructive foolish talk (Ecclesiastes 10).",
+          "fil": "Inihambing ng kabanata ang nakatutulong na pananalita sa pananalitang mangmang na nakapipinsala sa sarili (Eclesiastes 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does a neglected, leaking house illustrate?",
+          "fil": "Ano ang inilalarawan ng napabayaang bahay na tumutulo?"
+        },
+        "options": {
+          "en": [
+            "Laziness allows damage to grow",
+            "Neglect always makes buildings stronger",
+            "Work is unnecessary for maintenance"
+          ],
+          "fil": [
+            "Hinahayaan ng katamaran na lumala ang pinsala",
+            "Laging pinatitibay ng pagpapabaya ang mga gusali",
+            "Hindi kailangan ang paggawa sa pangangalaga"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The house image warns that inactivity has practical consequences (Ecclesiastes 10).",
+          "fil": "Nagbabala ang larawan ng bahay na may praktikal na bunga ang hindi pagkilos (Eclesiastes 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Why does the chapter encourage spreading one's efforts rather than relying on one venture?",
+          "fil": "Bakit hinimok ng kabanata ang pamamahagi ng pagsisikap sa halip na umasa sa iisang gawain?"
+        },
+        "options": {
+          "en": [
+            "Every venture is certain to fail",
+            "Future trouble cannot be predicted",
+            "God has forbidden all work"
+          ],
+          "fil": [
+            "Tiyak na mabibigo ang bawat gawain",
+            "Hindi mahuhulaan ang darating na kapahamakan",
+            "Ipinagbawal ng Diyos ang lahat ng paggawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The advice takes uncertainty seriously without demanding inactivity (Ecclesiastes 11).",
+          "fil": "Isinasaalang-alang ng payo ang kawalan ng katiyakan nang hindi hinihinging tumigil sa pagkilos (Eclesiastes 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to someone who waits for perfect weather before planting?",
+          "fil": "Ano ang nangyayari sa naghihintay ng perpektong panahon bago magtanim?"
+        },
+        "options": {
+          "en": [
+            "They may never plant or harvest",
+            "They automatically receive the largest harvest",
+            "They gain control of the wind"
+          ],
+          "fil": [
+            "Maaaring hindi na siya makapagtanim o makaani",
+            "Awtomatiko niyang natatanggap ang pinakamalaking ani",
+            "Nakokontrol niya ang hangin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Excessive watching of conditions becomes an excuse not to act (Ecclesiastes 11).",
+          "fil": "Nagiging dahilan upang hindi kumilos ang labis na pagbabantay sa kalagayan (Eclesiastes 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the comparison with life forming in the womb remind people?",
+          "fil": "Ano ang ipinapaalala ng paghahambing sa buhay na nabubuo sa sinapupunan?"
+        },
+        "options": {
+          "en": [
+            "They already know every hidden process",
+            "There is no need to respect the Creator",
+            "They do not fully understand God's work"
+          ],
+          "fil": [
+            "Alam na nila ang bawat lihim na proseso",
+            "Hindi kailangang igalang ang Maylikha",
+            "Hindi nila ganap na nauunawaan ang gawa ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The image encourages humility about what humans cannot explain (Ecclesiastes 11).",
+          "fil": "Hinihikayat ng larawan ang pagpapakumbaba sa mga bagay na hindi maipaliwanag ng tao (Eclesiastes 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "When does the Teacher urge people to remember their Creator?",
+          "fil": "Kailan hinimok ng Mangangaral ang mga tao na alalahanin ang kanilang Maylikha?"
+        },
+        "options": {
+          "en": [
+            "Only after becoming wealthy",
+            "Only after death",
+            "While young, before the difficulties of old age"
+          ],
+          "fil": [
+            "Pagkatapos lamang yumaman",
+            "Pagkatapos lamang mamatay",
+            "Habang bata pa, bago ang mga hirap ng pagtanda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing poem urges early remembrance of God (Ecclesiastes 12).",
+          "fil": "Hinimok ng huling tula ang maagang pag-alala sa Diyos (Eclesiastes 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the fading lights and failing household images portray?",
+          "fil": "Ano ang inilalarawan ng humihinang liwanag at mga larawang humihina sa sambahayan?"
+        },
+        "options": {
+          "en": [
+            "A successful military campaign",
+            "Human aging and approaching death",
+            "The construction of a royal palace"
+          ],
+          "fil": [
+            "Matagumpay na digmaan",
+            "Pagtanda ng tao at papalapit na kamatayan",
+            "Ang pagtatayo ng palasyo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poetic images describe the weakening of human life (Ecclesiastes 12).",
+          "fil": "Inilalarawan ng mga larawan sa tula ang paghina ng buhay ng tao (Eclesiastes 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What final responsibility is emphasized for everyone?",
+          "fil": "Anong huling pananagutan ang binigyang-diin para sa lahat?"
+        },
+        "options": {
+          "en": [
+            "Pursue wealth without any moral limits",
+            "Revere God and obey his commands, remembering his judgment",
+            "Ignore every hidden wrong"
+          ],
+          "fil": [
+            "Hangarin ang kayamanan nang walang anumang limitasyong moral",
+            "Igalang ang Diyos at sundin ang kanyang mga utos, na inaalala ang kanyang paghatol",
+            "Balewalain ang bawat lihim na kasalanan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The book concludes with reverence, obedience, and accountability before God (Ecclesiastes 12).",
+          "fil": "Nagtatapos ang aklat sa paggalang, pagsunod, at pananagutan sa harap ng Diyos (Eclesiastes 12)."
+        }
+      }
+    ]
+  }
+}
