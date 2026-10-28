@@ -1,0 +1,359 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How is Jerusalem pictured at the beginning of the poem?",
+          "fil": "Paano inilarawan ang Jerusalem sa simula ng tula?"
+        },
+        "options": {
+          "en": [
+            "As a new city untouched by trouble",
+            "As a lonely widow after former greatness",
+            "As a victorious queen welcoming guests"
+          ],
+          "fil": [
+            "Bilang bagong lungsod na hindi nakaranas ng hirap",
+            "Bilang nag-iisang biyuda matapos ang dating kadakilaan",
+            "Bilang matagumpay na reynang tumatanggap ng mga bisita"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The once crowded city is pictured as deserted and bereaved (Lamentations 1).",
+          "fil": "Inilarawan ang dating mataong lungsod na iniwan at nagdadalamhati (Panaghoy 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What has happened to the city's former friends and allies?",
+          "fil": "Ano ang nangyari sa mga dating kaibigan at kakampi ng lungsod?"
+        },
+        "options": {
+          "en": [
+            "They offer no comfort and have turned against her",
+            "They have rebuilt every ruined house",
+            "They have ended all her suffering"
+          ],
+          "fil": [
+            "Hindi sila nagbigay ng aliw at tumalikod sila sa kanya",
+            "Muli nilang itinayo ang bawat nasirang bahay",
+            "Winakasan nila ang lahat ng kanyang pagdurusa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jerusalem mourns the failure of those she once trusted (Lamentations 1).",
+          "fil": "Ipinagluksa ng Jerusalem ang pagkabigo ng mga dati niyang pinagkatiwalaan (Panaghoy 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jerusalem acknowledge about her own conduct?",
+          "fil": "Ano ang kinilala ng Jerusalem tungkol sa kanyang sariling asal?"
+        },
+        "options": {
+          "en": [
+            "She has always obeyed perfectly",
+            "She has rebelled against the Lord",
+            "She has never needed God's help"
+          ],
+          "fil": [
+            "Lagi siyang sumunod nang walang pagkukulang",
+            "Naghimagsik siya laban sa Panginoon",
+            "Hindi niya kailanman kinailangan ang tulong ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The lament admits rebellion while pleading for God to see the suffering (Lamentations 1).",
+          "fil": "Inamin ng panaghoy ang paghihimagsik habang nakikiusap na tingnan ng Diyos ang pagdurusa (Panaghoy 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does the poem emphasize about Jerusalem's destruction?",
+          "fil": "Ano ang binigyang-diin ng tula tungkol sa pagkawasak ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "It expresses the Lord's anger against his people",
+            "It proves the city never faced judgment",
+            "It is a celebration of military victory"
+          ],
+          "fil": [
+            "Ipinahahayag nito ang galit ng Panginoon laban sa kanyang bayan",
+            "Patunay itong hindi kailanman nahatulan ang lungsod",
+            "Pagdiriwang ito ng tagumpay sa digmaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The poem describes the city's collapse in terms of divine judgment (Lamentations 2).",
+          "fil": "Inilarawan ng tula ang pagbagsak ng lungsod bilang hatol ng Diyos (Panaghoy 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How have the prophets failed the people?",
+          "fil": "Paano nagkulang ang mga propeta sa bayan?"
+        },
+        "options": {
+          "en": [
+            "They refused every gift of food",
+            "They gave misleading visions instead of exposing sin",
+            "They rebuilt the temple without permission"
+          ],
+          "fil": [
+            "Tinanggihan nila ang bawat regalong pagkain",
+            "Nagbigay sila ng mapanlinlang na pangitain sa halip na ilantad ang kasalanan",
+            "Muli nilang itinayo ang templo nang walang pahintulot"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "False visions failed to confront the wrongdoing that needed repentance (Lamentations 2).",
+          "fil": "Hindi hinarap ng mga maling pangitain ang pagkakasalang dapat pagsisihan (Panaghoy 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response is urged for the sake of the starving children?",
+          "fil": "Anong pagtugon ang hinimok alang-alang sa mga batang nagugutom?"
+        },
+        "options": {
+          "en": [
+            "Hold a feast only for the wealthy",
+            "Ignore their cries",
+            "Pour out the heart in prayer to the Lord"
+          ],
+          "fil": [
+            "Maghanda ng pista para lamang sa mayayaman",
+            "Balewalain ang kanilang mga iyak",
+            "Ibuhos ang laman ng puso sa panalangin sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The poem calls for earnest prayer over the children's suffering (Lamentations 2).",
+          "fil": "Nanawagan ang tula ng taimtim na panalangin para sa pagdurusa ng mga bata (Panaghoy 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What gives the suffering speaker renewed hope?",
+          "fil": "Ano ang nagbigay ng panibagong pag-asa sa nagdurusang nagsasalita?"
+        },
+        "options": {
+          "en": [
+            "God's continuing compassion and faithfulness",
+            "The belief that wealth prevents all sorrow",
+            "The certainty that enemies never exist"
+          ],
+          "fil": [
+            "Ang patuloy na habag at katapatan ng Diyos",
+            "Ang paniniwalang pinipigil ng kayamanan ang lahat ng lungkot",
+            "Ang katiyakang walang kaaway kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Remembering God's compassion interrupts the speaker's despair (Lamentations 3).",
+          "fil": "Naputol ang kawalan ng pag-asa ng nagsasalita nang alalahanin ang habag ng Diyos (Panaghoy 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude is encouraged while seeking God's help?",
+          "fil": "Anong saloobin ang hinihikayat habang naghahanap ng tulong ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Patient and quiet trust",
+            "Complete refusal to pray",
+            "Pride in revenge"
+          ],
+          "fil": [
+            "Matiyaga at tahimik na pagtitiwala",
+            "Lubusang pagtangging manalangin",
+            "Pagmamalaki sa paghihiganti"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The poem commends waiting patiently for the Lord's deliverance (Lamentations 3).",
+          "fil": "Pinuri ng tula ang matiyagang paghihintay sa pagliligtas ng Panginoon (Panaghoy 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the people examine as they turn back to God?",
+          "fil": "Ano ang dapat suriin ng bayan sa pagbabalik sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Their own ways and wrongdoing",
+            "The size of a royal palace",
+            "Only their neighbors' clothing"
+          ],
+          "fil": [
+            "Ang sarili nilang pamumuhay at pagkakasala",
+            "Ang laki ng palasyo ng hari",
+            "Damit lamang ng kanilang mga kapitbahay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The call to return includes honest examination of one's conduct (Lamentations 3).",
+          "fil": "Kasama sa panawagang manumbalik ang tapat na pagsusuri sa sariling asal (Panaghoy 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What does the image of gold losing its brightness express?",
+          "fil": "Ano ang ipinahahayag ng larawan ng gintong nawalan ng kinang?"
+        },
+        "options": {
+          "en": [
+            "The success of a building project",
+            "The collapse of Jerusalem's former splendor",
+            "The discovery of new royal treasure"
+          ],
+          "fil": [
+            "Ang tagumpay ng isang pagtatayo",
+            "Ang pagbagsak ng dating karilagan ng Jerusalem",
+            "Ang pagkakatuklas ng bagong kayamanan ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The faded gold introduces the loss of the city's former glory (Lamentations 4).",
+          "fil": "Ipinakilala ng gintong nawalan ng kinang ang pagkawala ng dating karilagan ng lungsod (Panaghoy 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How has life changed for those once used to luxury?",
+          "fil": "Paano nagbago ang buhay ng mga dating marangya?"
+        },
+        "options": {
+          "en": [
+            "They enjoy greater luxury than before",
+            "They now suffer hunger and destitution",
+            "They have escaped every hardship"
+          ],
+          "fil": [
+            "Mas marangya na sila kaysa dati",
+            "Dumaranas na sila ng gutom at karalitaan",
+            "Naiwasan nila ang lahat ng paghihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem contrasts former comfort with present deprivation (Lamentations 4).",
+          "fil": "Inihambing ng tula ang dating kaginhawahan sa kasalukuyang kakapusan (Panaghoy 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What especially painful need do the children experience?",
+          "fil": "Anong lalong masakit na pangangailangan ang dinaranas ng mga bata?"
+        },
+        "options": {
+          "en": [
+            "They lack crowns for a parade",
+            "They need larger houses for feasts",
+            "They ask for food that no one provides"
+          ],
+          "fil": [
+            "Wala silang korona para sa parada",
+            "Kailangan nila ng mas malaking bahay para sa pista",
+            "Humihingi sila ng pagkaing walang nagbibigay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The hungry children show the depth of the siege's suffering (Lamentations 4).",
+          "fil": "Ipinakikita ng mga gutom na bata ang tindi ng pagdurusa sa pagkubkob (Panaghoy 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What does the community ask God to notice?",
+          "fil": "Ano ang hiniling ng pamayanan na pansinin ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Their victory over every nation",
+            "Their suffering and disgrace",
+            "Their complete freedom from trouble"
+          ],
+          "fil": [
+            "Ang tagumpay nila laban sa bawat bansa",
+            "Ang kanilang pagdurusa at kahihiyan",
+            "Ang ganap nilang kalayaan sa hirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing prayer asks God to remember the people's humiliation (Lamentations 5).",
+          "fil": "Hiniling ng huling panalangin na alalahanin ng Diyos ang kahihiyan ng bayan (Panaghoy 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast remains between the people's condition and God?",
+          "fil": "Anong pagkakaiba ang nananatili sa kalagayan ng bayan at sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Both have permanently ceased to exist",
+            "Their world has collapsed, but God's reign endures",
+            "They rule forever, but God has vanished"
+          ],
+          "fil": [
+            "Kapwa sila tuluyang nawala",
+            "Bumagsak ang kanilang daigdig, ngunit nananatili ang paghahari ng Diyos",
+            "Naghahari sila habambuhay, ngunit naglaho ang Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer acknowledges God's enduring throne amid national ruin (Lamentations 5).",
+          "fil": "Kinilala ng panalangin ang nananatiling trono ng Diyos sa gitna ng pagkawasak ng bansa (Panaghoy 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What restoration does the prayer seek?",
+          "fil": "Anong pagpapanumbalik ang hinihingi ng panalangin?"
+        },
+        "options": {
+          "en": [
+            "Permission to abandon God forever",
+            "A throne for every citizen",
+            "A return to God and renewal of their former life"
+          ],
+          "fil": [
+            "Pahintulot na talikuran ang Diyos habambuhay",
+            "Trono para sa bawat mamamayan",
+            "Pagbabalik sa Diyos at pagpapanibago ng dating buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people ask God to bring them back and renew their days (Lamentations 5).",
+          "fil": "Hiniling ng bayan sa Diyos na ibalik sila at panibaguhin ang kanilang mga araw (Panaghoy 5)."
+        }
+      }
+    ]
+  }
+}
