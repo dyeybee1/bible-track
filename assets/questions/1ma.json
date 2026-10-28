@@ -1,0 +1,1140 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What happens to Alexander's kingdom after his death?",
+          "fil": "Ano ang nangyari sa kaharian ni Alejandro matapos siyang mamatay?"
+        },
+        "options": {
+          "en": [
+            "It becomes a single temple estate",
+            "It is given entirely to Jerusalem",
+            "His officers take power over different parts"
+          ],
+          "fil": [
+            "Naging iisang ari-arian ito ng templo",
+            "Ibinigay ito nang buo sa Jerusalem",
+            "Namahala ang kanyang mga pinuno sa iba't ibang bahagi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Alexander's successors divide power and establish their own rule (1 Maccabees 1).",
+          "fil": "Hinati ng mga kahalili ni Alejandro ang kapangyarihan at nagtatag ng sariling pamamahala (1 Macabeo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Antiochus take from the Jerusalem sanctuary?",
+          "fil": "Ano ang kinuha ni Antioco mula sa santuwaryo ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Only letters from Rome",
+            "Only unused building stones",
+            "Sacred vessels and treasures"
+          ],
+          "fil": [
+            "Mga sulat lamang mula sa Roma",
+            "Mga hindi nagamit na batong panggusali lamang",
+            "Mga banal na kagamitan at kayamanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Antiochus plunders the sanctuary's precious objects and wealth (1 Maccabees 1).",
+          "fil": "Sinamsam ni Antioco ang mahahalagang kagamitan at yaman ng santuwaryo (1 Macabeo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the king's religious policy demand of the Jews?",
+          "fil": "Ano ang hinihingi ng patakarang panrelihiyon ng hari sa mga Judio?"
+        },
+        "options": {
+          "en": [
+            "Restore all the laws of Moses",
+            "Give every family freedom to worship peacefully",
+            "Abandon their covenant practices and follow foreign worship"
+          ],
+          "fil": [
+            "Ibalik ang lahat ng kautusan ni Moises",
+            "Bigyan ang bawat pamilya ng kalayaang sumamba nang payapa",
+            "Talikuran ang mga gawain ng tipan at sumunod sa dayuhang pagsamba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The decrees forbid Jewish observances and impose practices contrary to the covenant (1 Maccabees 1).",
+          "fil": "Ipinagbawal ng mga utos ang mga kaugaliang Judio at ipinilit ang mga gawaing salungat sa tipan (1 Macabeo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How does Mattathias respond to pressure to offer the king's sacrifice?",
+          "fil": "Paano tumugon si Matatias sa pamimilit na maghandog ng hain ng hari?"
+        },
+        "options": {
+          "en": [
+            "He asks to become a priest of foreign gods",
+            "He refuses and calls others to remain faithful to the covenant",
+            "He eagerly abandons God's law"
+          ],
+          "fil": [
+            "Humiling siyang maging pari ng mga dayuhang diyos",
+            "Tumanggi siya at nanawagang manatiling tapat sa tipan",
+            "Masaya niyang tinalikuran ang kautusan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mattathias rejects the command to abandon his people's worship (1 Maccabees 2).",
+          "fil": "Tinanggihan ni Matatias ang utos na talikuran ang pagsamba ng kanyang bayan (1 Macabeo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What decision follows the killing of those who would not defend themselves on the Sabbath?",
+          "fil": "Anong pasya ang sumunod sa pagpatay sa mga hindi nagtanggol sa sarili sa Sabbath?"
+        },
+        "options": {
+          "en": [
+            "They will defend themselves if attacked on the Sabbath",
+            "They will surrender all their children",
+            "They will stop observing every religious feast"
+          ],
+          "fil": [
+            "Ipagtatanggol nila ang sarili kapag sinalakay sa Sabbath",
+            "Isusuko nila ang lahat ng kanilang mga anak",
+            "Titigil sila sa pagdiriwang ng bawat kapistahang panrelihiyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The survivors decide that self-defense is necessary to prevent the community's destruction (1 Maccabees 2).",
+          "fil": "Nagpasya ang mga nakaligtas na kailangan ang pagtatanggol sa sarili upang hindi mawasak ang komunidad (1 Macabeo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Mattathias name to lead the fighting after him?",
+          "fil": "Sino ang pinili ni Matatias na mamuno sa pakikipaglaban pagkatapos niya?"
+        },
+        "options": {
+          "en": [
+            "Nicanor",
+            "Judas Maccabeus",
+            "Antiochus"
+          ],
+          "fil": [
+            "Si Nicanor",
+            "Si Judas Macabeo",
+            "Si Antioco"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mattathias entrusts military leadership to his son Judas (1 Maccabees 2).",
+          "fil": "Ipinagkatiwala ni Matatias ang pamumuno sa hukbo sa anak niyang si Judas (1 Macabeo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who takes up leadership after Mattathias?",
+          "fil": "Sino ang namuno pagkatapos ni Matatias?"
+        },
+        "options": {
+          "en": [
+            "Judas Maccabeus",
+            "Ptolemy",
+            "Alcimus"
+          ],
+          "fil": [
+            "Si Judas Macabeo",
+            "Si Tolomeo",
+            "Si Alcimo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judas rises in his father's place with the support of his brothers and followers (1 Maccabees 3).",
+          "fil": "Humalili si Judas sa kanyang ama sa suporta ng kanyang mga kapatid at tagasunod (1 Macabeo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Apollonius attacks Judas?",
+          "fil": "Ano ang nangyari nang salakayin ni Apolonio si Judas?"
+        },
+        "options": {
+          "en": [
+            "Judas makes him high priest",
+            "Judas defeats him and takes his sword",
+            "Apollonius captures Jerusalem's temple peacefully"
+          ],
+          "fil": [
+            "Ginawa siyang pinakapunong pari ni Judas",
+            "Tinalo siya ni Judas at kinuha ang kanyang tabak",
+            "Payapang nasakop ni Apolonio ang templo ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Apollonius falls in battle, and his sword becomes Judas' weapon (1 Maccabees 3).",
+          "fil": "Namatay sa labanan si Apolonio at naging sandata ni Judas ang kanyang tabak (1 Macabeo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Judas encourage his outnumbered men before facing Seron?",
+          "fil": "Paano pinalakas ni Judas ang loob ng kakaunti niyang kawal bago harapin si Seron?"
+        },
+        "options": {
+          "en": [
+            "Their enemies have promised not to fight",
+            "Only the largest army can ever win",
+            "Victory depends on help from heaven, not merely numbers"
+          ],
+          "fil": [
+            "Nangako ang kanilang mga kaaway na hindi lalaban",
+            "Pinakamalaking hukbo lamang ang maaaring manalo",
+            "Nakasalalay ang tagumpay sa tulong mula sa langit at hindi lamang sa dami"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judas points his men toward God's help rather than the size of their force (1 Maccabees 3).",
+          "fil": "Itinuro ni Judas ang kanyang mga kawal sa tulong ng Diyos sa halip na sa laki ng kanilang hukbo (1 Macabeo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How does Judas respond to Gorgias' planned surprise attack?",
+          "fil": "Paano tumugon si Judas sa planong biglaang paglusob ni Gorgias?"
+        },
+        "options": {
+          "en": [
+            "He leaves camp and attacks the enemy camp at Emmaus",
+            "He waits unarmed inside his tent",
+            "He sends the army away permanently"
+          ],
+          "fil": [
+            "Nilisan niya ang kampo at sinalakay ang kampo ng kaaway sa Emaus",
+            "Naghintay siyang walang sandata sa loob ng tolda",
+            "Tuluyan niyang pinaalis ang hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gorgias finds an empty camp while Judas strikes the forces remaining at Emmaus (1 Maccabees 4).",
+          "fil": "Walang taong natagpuan si Gorgias sa kampo habang nilusob ni Judas ang hukbong naiwan sa Emaus (1 Macabeo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the priests do with the defiled altar during the sanctuary's restoration?",
+          "fil": "Ano ang ginawa ng mga pari sa nilapastangang altar sa pagpapanumbalik ng santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Dedicate it to a foreign god",
+            "Sell it to the invading king",
+            "Replace it with a new altar built according to the law"
+          ],
+          "fil": [
+            "Inialay ito sa dayuhang diyos",
+            "Ipinagbili ito sa sumasalakay na hari",
+            "Pinalitan ito ng bagong altar ayon sa kautusan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The profaned altar is dismantled and a lawful new altar is built (1 Maccabees 4).",
+          "fil": "Binaklas ang nilapastangang altar at nagtayo ng bagong altar ayon sa kautusan (1 Macabeo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What annual celebration do Judas and the people establish?",
+          "fil": "Anong taunang pagdiriwang ang itinatag ni Judas at ng bayan?"
+        },
+        "options": {
+          "en": [
+            "The joyful dedication of the altar",
+            "The surrender of Jerusalem",
+            "The king's destruction of the law"
+          ],
+          "fil": [
+            "Ang masayang pagtatalaga ng altar",
+            "Ang pagsuko ng Jerusalem",
+            "Ang pagsira ng hari sa kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They decide to commemorate the altar's rededication with rejoicing each year (1 Maccabees 4).",
+          "fil": "Nagpasya silang gunitain taun-taon nang may kagalakan ang muling pagtatalaga ng altar (1 Macabeo 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Why do Judas and his brothers launch rescue expeditions?",
+          "fil": "Bakit nagsagawa ng mga paglalakbay sa pagliligtas si Judas at ang kanyang mga kapatid?"
+        },
+        "options": {
+          "en": [
+            "Fellow Jews outside Judea face attack",
+            "They want to stop all worship in Jerusalem",
+            "Rome has ordered them to conquer Egypt"
+          ],
+          "fil": [
+            "Sinasalakay ang kapwa mga Judio sa labas ng Judea",
+            "Gusto nilang itigil ang lahat ng pagsamba sa Jerusalem",
+            "Inutusan sila ng Roma na sakupin ang Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Appeals from endangered Jewish communities lead to military rescue efforts (1 Maccabees 5).",
+          "fil": "Nagdulot ng mga pagsisikap na magligtas ang mga paghingi ng tulong ng nanganganib na mga komunidad ng Judio (1 Macabeo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Simon go to rescue the threatened communities?",
+          "fil": "Saan pumunta si Simon upang iligtas ang mga nanganganib na komunidad?"
+        },
+        "options": {
+          "en": [
+            "Persia",
+            "Rome",
+            "Galilee"
+          ],
+          "fil": [
+            "Sa Persia",
+            "Sa Roma",
+            "Sa Galilea"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Simon leads the expedition to Galilee and brings the rescued people to Judea (1 Maccabees 5).",
+          "fil": "Pinangunahan ni Simon ang paglalakbay sa Galilea at dinala ang mga nailigtas sa Judea (1 Macabeo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which region do Judas and Jonathan set out to help?",
+          "fil": "Aling rehiyon ang pinuntahan nina Judas at Jonatan upang tulungan?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Gilead",
+            "Spain"
+          ],
+          "fil": [
+            "Ang Egipto",
+            "Ang Gilead",
+            "Ang Espanya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judas and Jonathan undertake the rescue in Gilead while Simon serves elsewhere (1 Maccabees 5).",
+          "fil": "Isinagawa nina Judas at Jonatan ang pagliligtas sa Gilead habang naglilingkod si Simon sa ibang lugar (1 Macabeo 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Antiochus recall with grief as he approaches death?",
+          "fil": "Ano ang may-lungkot na naalala ni Antioco habang papalapit sa kamatayan?"
+        },
+        "options": {
+          "en": [
+            "His failure to collect Roman crowns",
+            "The harm he did to Jerusalem and its people",
+            "His kindness in restoring the temple"
+          ],
+          "fil": [
+            "Ang pagkabigo niyang mangolekta ng mga koronang Romano",
+            "Ang pinsalang ginawa niya sa Jerusalem at sa bayan nito",
+            "Ang kanyang kabaitan sa pagpapanumbalik ng templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Antiochus connects his suffering with his plunder and unjust attacks on the Jews (1 Maccabees 6).",
+          "fil": "Iniugnay ni Antioco ang kanyang pagdurusa sa kanyang pandarambong at di-makatarungang paglusob sa mga Judio (1 Macabeo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Eleazar attacks the royal-looking elephant?",
+          "fil": "Ano ang nangyari nang salakayin ni Eleazar ang elepanteng tila sinasakyan ng hari?"
+        },
+        "options": {
+          "en": [
+            "He rides it safely into Jerusalem",
+            "The elephant carries him to Rome",
+            "He kills it but dies when it falls on him"
+          ],
+          "fil": [
+            "Ligtas niyang sinakyan ito patungong Jerusalem",
+            "Dinala siya ng elepante sa Roma",
+            "Napatay niya ito ngunit namatay nang mabagsakan nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eleazar strikes the elephant from below and is crushed as it falls (1 Maccabees 6).",
+          "fil": "Sinaksak ni Eleazar ang elepante mula sa ilalim at nadaganan nang bumagsak ito (1 Macabeo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What freedom is included in the proposed peace with the Jews?",
+          "fil": "Anong kalayaan ang kasama sa iminungkahing kapayapaan sa mga Judio?"
+        },
+        "options": {
+          "en": [
+            "Ending every form of worship",
+            "Living according to their own laws",
+            "Ruling all of Persia"
+          ],
+          "fil": [
+            "Pagwawakas sa bawat uri ng pagsamba",
+            "Pamumuhay ayon sa sarili nilang mga kautusan",
+            "Pamumuno sa buong Persia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lysias recommends restoring the people's freedom to follow their ancestral laws (1 Maccabees 6).",
+          "fil": "Iminungkahi ni Lisias ang pagbabalik ng kalayaan ng bayan na sundin ang kanilang mga minanang kautusan (1 Macabeo 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Whom does Demetrius support as high priest against Judas' party?",
+          "fil": "Sino ang sinuportahan ni Demetrio bilang pinakapunong pari laban sa pangkat ni Judas?"
+        },
+        "options": {
+          "en": [
+            "Alcimus",
+            "Mattathias",
+            "Simon Peter"
+          ],
+          "fil": [
+            "Si Alcimo",
+            "Si Matatias",
+            "Si Simon Pedro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Demetrius backs Alcimus and sends forces to establish his authority (1 Maccabees 7).",
+          "fil": "Sinuportahan ni Demetrio si Alcimo at nagsugo ng hukbo upang itatag ang kanyang awtoridad (1 Macabeo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What threat does Nicanor make at the sanctuary?",
+          "fil": "Anong banta ang ginawa ni Nicanor sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "He will burn it if Judas is not handed over",
+            "He will build a new altar for the priests",
+            "He will remove every Roman tax"
+          ],
+          "fil": [
+            "Susunugin niya ito kung hindi isusuko si Judas",
+            "Magtatayo siya ng bagong altar para sa mga pari",
+            "Aalisin niya ang bawat buwis ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nicanor angrily threatens the temple, prompting the priests to appeal to God (1 Maccabees 7).",
+          "fil": "Galit na pinagbantaan ni Nicanor ang templo, kaya dumaing sa Diyos ang mga pari (1 Macabeo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Nicanor in the final battle of the chapter?",
+          "fil": "Ano ang nangyari kay Nicanor sa huling labanan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "He is killed and his army flees",
+            "He joins Judas as a priest",
+            "He becomes king of Judea"
+          ],
+          "fil": [
+            "Namatay siya at tumakas ang kanyang hukbo",
+            "Sumama siya kay Judas bilang pari",
+            "Naging hari siya ng Judea"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nicanor falls first in the battle, and his troops lose courage and run (1 Maccabees 7).",
+          "fil": "Unang namatay si Nicanor sa labanan at nawalan ng loob at tumakas ang kanyang mga kawal (1 Macabeo 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What reputation makes Rome attractive to Judas as an ally?",
+          "fil": "Anong reputasyon ang nag-udyok kay Judas na piliin ang Roma bilang kakampi?"
+        },
+        "options": {
+          "en": [
+            "Its refusal to make any treaties",
+            "Military strength and loyalty toward allies",
+            "A promise to worship Judas"
+          ],
+          "fil": [
+            "Pagtanggi nitong gumawa ng anumang kasunduan",
+            "Lakas sa digmaan at katapatan sa mga kakampi",
+            "Pangakong sasambahin si Judas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judas hears of Roman power and Rome's support for those allied with it (1 Maccabees 8).",
+          "fil": "Narinig ni Judas ang tungkol sa kapangyarihan ng Roma at suporta nito sa mga kakampi (1 Macabeo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What Roman body receives the Jewish envoys?",
+          "fil": "Anong kapulungan ng Roma ang tumanggap sa mga sugong Judio?"
+        },
+        "options": {
+          "en": [
+            "The senate",
+            "The council of Sparta",
+            "The Jerusalem priesthood"
+          ],
+          "fil": [
+            "Ang senado",
+            "Ang kapulungan ng Esparta",
+            "Ang kaparian ng Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The envoys enter the Roman senate to request friendship and alliance (1 Maccabees 8).",
+          "fil": "Pumasok ang mga sugo sa senado ng Roma upang humiling ng pagkakaibigan at alyansa (1 Macabeo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility does the treaty place on both sides in time of war?",
+          "fil": "Anong pananagutan ang iniatas ng kasunduan sa magkabilang panig sa panahon ng digmaan?"
+        },
+        "options": {
+          "en": [
+            "Always attack one another first",
+            "Abandon every agreement when convenient",
+            "Help the ally and avoid supplying its enemies"
+          ],
+          "fil": [
+            "Palaging unang salakayin ang isa't isa",
+            "Talikuran ang bawat kasunduan kapag maginhawa",
+            "Tulungan ang kakampi at iwasang tustusan ang mga kaaway nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The treaty describes mutual aid and withholding supplies from enemies (1 Maccabees 8).",
+          "fil": "Inilarawan ng kasunduan ang pagtutulungan at hindi pagbibigay ng panustos sa mga kaaway (1 Macabeo 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What happens to Judas in the battle against Bacchides?",
+          "fil": "Ano ang nangyari kay Judas sa labanan laban kay Bacchides?"
+        },
+        "options": {
+          "en": [
+            "He peacefully retires in Egypt",
+            "He is killed in battle",
+            "He becomes ruler of Rome"
+          ],
+          "fil": [
+            "Payapa siyang namahinga sa Egipto",
+            "Namatay siya sa labanan",
+            "Naging pinuno siya ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judas falls in battle, and his brothers bury him amid national mourning (1 Maccabees 9).",
+          "fil": "Namatay si Judas sa labanan at inilibing siya ng kanyang mga kapatid sa gitna ng pagluluksa ng bayan (1 Macabeo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is chosen to lead Judas' followers after his death?",
+          "fil": "Sino ang piniling mamuno sa mga tagasunod ni Judas matapos siyang mamatay?"
+        },
+        "options": {
+          "en": [
+            "Alcimus",
+            "Jonathan",
+            "Nicanor"
+          ],
+          "fil": [
+            "Si Alcimo",
+            "Si Jonatan",
+            "Si Nicanor"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judas' supporters choose his brother Jonathan to continue their leadership and defense (1 Maccabees 9).",
+          "fil": "Pinili ng mga tagasuporta ni Judas ang kapatid niyang si Jonatan upang magpatuloy sa pamumuno at pagtatanggol (1 Macabeo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Bacchides treat Judas' supporters after the defeat?",
+          "fil": "Paano pinakitunguhan ni Bacchides ang mga tagasuporta ni Judas matapos ang pagkatalo?"
+        },
+        "options": {
+          "en": [
+            "He asks them to rule his homeland",
+            "He gives every one a royal office",
+            "He hunts them down and punishes them"
+          ],
+          "fil": [
+            "Hiniling niyang pamahalaan nila ang kanyang bayan",
+            "Binigyan niya ang bawat isa ng katungkulan sa palasyo",
+            "Hinanap niya sila at pinarusahan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Bacchides installs hostile leaders and persecutes those associated with Judas (1 Maccabees 9).",
+          "fil": "Naglagay si Bacchides ng mga pinunong kalaban at inusig ang mga kaugnay ni Judas (1 Macabeo 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What important office does Alexander offer Jonathan?",
+          "fil": "Anong mahalagang katungkulan ang inialok ni Alejandro kay Jonatan?"
+        },
+        "options": {
+          "en": [
+            "High priest of the Jewish nation",
+            "King of Egypt",
+            "Roman consul"
+          ],
+          "fil": [
+            "Pinakapunong pari ng bayang Judio",
+            "Hari ng Egipto",
+            "Consul ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Alexander appoints Jonathan high priest while seeking his support (1 Maccabees 10).",
+          "fil": "Itinalaga ni Alejandro si Jonatan bilang pinakapunong pari habang hinahanap ang kanyang suporta (1 Macabeo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Jonathan and the people distrust Demetrius' generous promises?",
+          "fil": "Bakit hindi pinagtiwalaan ni Jonatan at ng bayan ang bukas-palad na mga pangako ni Demetrio?"
+        },
+        "options": {
+          "en": [
+            "They remember the harm he previously caused them",
+            "He refuses to make any offers",
+            "They have never heard of him"
+          ],
+          "fil": [
+            "Naalala nila ang pinsalang dati niyang ginawa sa kanila",
+            "Tumanggi siyang mag-alok ng anuman",
+            "Hindi pa sila nakarinig tungkol sa kanya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Past mistreatment leads them to reject Demetrius' promises and side with Alexander (1 Maccabees 10).",
+          "fil": "Dahil sa dating masamang pagtrato ay tinanggihan nila ang mga pangako ni Demetrio at kumampi kay Alejandro (1 Macabeo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the result of Jonathan's campaign against Apollonius?",
+          "fil": "Ano ang naging bunga ng kampanya ni Jonatan laban kay Apolonio?"
+        },
+        "options": {
+          "en": [
+            "He defeats the enemy and captures Ashdod",
+            "He surrenders Jerusalem to Apollonius",
+            "He abandons all military leadership"
+          ],
+          "fil": [
+            "Tinalo niya ang kaaway at nasakop ang Asdod",
+            "Isinuko niya ang Jerusalem kay Apolonio",
+            "Tinalikuran niya ang lahat ng pamumuno sa hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonathan and Simon defeat the opposing force, and Jonathan takes Ashdod and its surrounding towns (1 Maccabees 10).",
+          "fil": "Tinalo nina Jonatan at Simon ang kalabang hukbo, at nasakop ni Jonatan ang Asdod at mga kalapit na bayan (1 Macabeo 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What happens to Alexander after his defeat and flight into Arabia?",
+          "fil": "Ano ang nangyari kay Alejandro matapos matalo at tumakas sa Arabia?"
+        },
+        "options": {
+          "en": [
+            "He becomes ruler of Rome",
+            "He is killed",
+            "He is made Jerusalem's high priest"
+          ],
+          "fil": [
+            "Naging pinuno siya ng Roma",
+            "Pinatay siya",
+            "Ginawa siyang pinakapunong pari ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Alexander's death forms part of the change of power leading to Demetrius' kingship (1 Maccabees 11).",
+          "fil": "Bahagi ng pagbabago ng kapangyarihang humantong sa paghahari ni Demetrio ang pagkamatay ni Alejandro (1 Macabeo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Demetrius treat Jonathan's office after their meeting?",
+          "fil": "Paano pinakitunguhan ni Demetrio ang katungkulan ni Jonatan matapos silang magtagpo?"
+        },
+        "options": {
+          "en": [
+            "He orders Jonathan to serve as a temple slave",
+            "He gives the office to a Roman soldier",
+            "He confirms his high priesthood and honors"
+          ],
+          "fil": [
+            "Iniutos niyang maging alipin sa templo si Jonatan",
+            "Ibinigay niya ang katungkulan sa sundalong Romano",
+            "Pinagtibay niya ang pagiging pinakapunong pari at mga karangalan nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan finds favor with Demetrius and retains his high priesthood (1 Maccabees 11).",
+          "fil": "Nagkaroon ng pabor si Jonatan kay Demetrio at nanatili sa pagiging pinakapunong pari (1 Macabeo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relief does Jonathan obtain for Judea through negotiation?",
+          "fil": "Anong ginhawa ang nakuha ni Jonatan para sa Judea sa pakikipagkasundo?"
+        },
+        "options": {
+          "en": [
+            "The removal of every Jewish priest",
+            "Release from specified royal taxes and payments",
+            "A ban on all farming"
+          ],
+          "fil": [
+            "Pag-aalis sa bawat paring Judio",
+            "Paglaya sa itinakdang mga buwis at bayarin sa hari",
+            "Pagbabawal sa lahat ng pagsasaka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Demetrius issues a letter granting tax relief and confirming territory for the Jews (1 Maccabees 11).",
+          "fil": "Nagpalabas si Demetrio ng sulat na nagbibigay ng ginhawa sa buwis at nagpapatibay ng lupain para sa mga Judio (1 Macabeo 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What diplomatic effort does Jonathan renew?",
+          "fil": "Anong pagsisikap sa pakikipag-ugnayan ang muling ginawa ni Jonatan?"
+        },
+        "options": {
+          "en": [
+            "Worship of the Egyptian king",
+            "A plan to abolish the Jerusalem temple",
+            "Friendship and alliance with Rome and Sparta"
+          ],
+          "fil": [
+            "Pagsamba sa hari ng Egipto",
+            "Plano upang alisin ang templo ng Jerusalem",
+            "Pagkakaibigan at alyansa sa Roma at Esparta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan sends envoys and letters to renew established foreign friendships (1 Maccabees 12).",
+          "fil": "Nagsugo si Jonatan ng mga kinatawan at sulat upang papanibaguhin ang dating pakikipagkaibigan sa ibang bansa (1 Macabeo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Jonathan strengthen Jerusalem's walls and separate the citadel from the city?",
+          "fil": "Bakit pinatibay ni Jonatan ang mga pader ng Jerusalem at ibinukod ang kuta sa lungsod?"
+        },
+        "options": {
+          "en": [
+            "To improve defense and isolate the hostile garrison",
+            "To make it easier for enemies to enter",
+            "To stop people from worshiping God"
+          ],
+          "fil": [
+            "Upang pagbutihin ang pananggalang at ihiwalay ang hukbo ng kaaway",
+            "Upang padaliin ang pagpasok ng mga kaaway",
+            "Upang pigilan ang mga tao sa pagsamba sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The building project protects the city and restricts the citadel's access to supplies (1 Maccabees 12).",
+          "fil": "Pinrotektahan ng pagtatayo ang lungsod at nilimitahan ang pagkuha ng kuta ng mga panustos (1 Macabeo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Tryphon capture Jonathan?",
+          "fil": "Paano nabihag ni Trifon si Jonatan?"
+        },
+        "options": {
+          "en": [
+            "He defeats him in a public debate",
+            "He captures him during prayer in Rome",
+            "He lures him into Ptolemais with friendly promises"
+          ],
+          "fil": [
+            "Tinalo niya siya sa pampublikong pagtatalo",
+            "Nabihag niya siya habang nananalangin sa Roma",
+            "Inakit niya siya sa Tolemaida sa mga pangakong pagkakaibigan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "After persuading Jonathan to dismiss most of his army, Tryphon has him seized inside Ptolemais (1 Maccabees 12).",
+          "fil": "Matapos hikayatin si Jonatan na pauwiin ang karamihan ng hukbo ay ipinadakip siya ni Trifon sa loob ng Tolemaida (1 Macabeo 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Who takes responsibility for defending the people while Jonathan is captive?",
+          "fil": "Sino ang nangasiwa sa pagtatanggol sa bayan habang bihag si Jonatan?"
+        },
+        "options": {
+          "en": [
+            "Nicanor",
+            "Simon",
+            "Alcimus"
+          ],
+          "fil": [
+            "Si Nicanor",
+            "Si Simon",
+            "Si Alcimo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Simon rises to lead his people in the crisis caused by Jonathan's capture (1 Maccabees 13).",
+          "fil": "Namuno si Simon sa bayan sa krisis na dulot ng pagkabihag ni Jonatan (1 Macabeo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does Tryphon release Jonathan after receiving the demanded money and hostages?",
+          "fil": "Pinalaya ba ni Trifon si Jonatan matapos tanggapin ang hinihinging pera at mga bihag?"
+        },
+        "options": {
+          "en": [
+            "Yes, he returns him safely at once",
+            "Yes, he makes Jonathan king of Asia",
+            "No, he breaks his promise and later kills Jonathan"
+          ],
+          "fil": [
+            "Oo, agad niya siyang ibinalik nang ligtas",
+            "Oo, ginawa niyang hari ng Asia si Jonatan",
+            "Hindi, sinira niya ang pangako at kalaunan ay pinatay si Jonatan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tryphon's demand proves deceitful, and Jonathan is killed despite Simon's payment (1 Maccabees 13).",
+          "fil": "Napatunayang mapanlinlang ang hiling ni Trifon, at pinatay si Jonatan sa kabila ng pagbabayad ni Simon (1 Macabeo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What marks a new period of freedom under Simon?",
+          "fil": "Ano ang naging tanda ng bagong panahon ng kalayaan sa ilalim ni Simon?"
+        },
+        "options": {
+          "en": [
+            "Israel agrees to abandon its law",
+            "The ending of foreign tribute",
+            "The temple is sold to a foreign king"
+          ],
+          "fil": [
+            "Pumayag ang Israel na talikuran ang kautusan nito",
+            "Ang pagwawakas ng buwis sa dayuhan",
+            "Ipinagbili ang templo sa dayuhang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The removal of tribute is celebrated as release from foreign domination (1 Maccabees 13).",
+          "fil": "Ipinagdiwang ang pag-aalis ng buwis bilang paglaya sa pamamahala ng dayuhan (1 Macabeo 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "How is life in the land portrayed under Simon's rule?",
+          "fil": "Paano inilarawan ang buhay sa lupain sa pamumuno ni Simon?"
+        },
+        "options": {
+          "en": [
+            "Peaceful farming, security, and prosperity",
+            "Constant flight from every village",
+            "A complete end to temple worship"
+          ],
+          "fil": [
+            "Mapayapang pagsasaka, katiwasayan, at kasaganaan",
+            "Walang-tigil na pagtakas mula sa bawat nayon",
+            "Lubusang pagtatapos ng pagsamba sa templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter praises a time of fruitful land and public safety under Simon (1 Maccabees 14).",
+          "fil": "Pinuri ng kabanata ang panahon ng mabungang lupain at kaligtasan ng bayan sa ilalim ni Simon (1 Macabeo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What offices do the people formally entrust to Simon?",
+          "fil": "Anong mga katungkulan ang pormal na ipinagkatiwala ng bayan kay Simon?"
+        },
+        "options": {
+          "en": [
+            "Kingship over Egypt and Rome",
+            "Service as a priest of foreign idols",
+            "Leadership of the nation and the high priesthood"
+          ],
+          "fil": [
+            "Pagkahari sa Egipto at Roma",
+            "Paglilingkod bilang pari ng mga dayuhang diyus-diyusan",
+            "Pamumuno sa bansa at pagiging pinakapunong pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The public decree recognizes Simon as leader, high priest, and protector (1 Maccabees 14).",
+          "fil": "Kinilala ng hayag na kautusan si Simon bilang pinuno, pinakapunong pari, at tagapagtanggol (1 Macabeo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Rome and Sparta respond to Simon's succession?",
+          "fil": "Paano tumugon ang Roma at Esparta sa paghalili ni Simon?"
+        },
+        "options": {
+          "en": [
+            "They renew friendship and alliance with him",
+            "They demand the immediate destruction of Jerusalem",
+            "They appoint Tryphon as high priest"
+          ],
+          "fil": [
+            "Pinaibayo nila ang pagkakaibigan at alyansa sa kanya",
+            "Hiniling nila ang agarang pagkawasak ng Jerusalem",
+            "Itinalaga nila si Trifon bilang pinakapunong pari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The foreign partners renew the relationships previously held with Simon's brothers (1 Maccabees 14).",
+          "fil": "Pinaibayo ng mga dayuhang kakampi ang ugnayang dating taglay sa mga kapatid ni Simon (1 Macabeo 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How does King Antiochus later treat his earlier agreements with Simon?",
+          "fil": "Paano pinakitunguhan kalaunan ni Haring Antioco ang dati niyang mga kasunduan kay Simon?"
+        },
+        "options": {
+          "en": [
+            "He rejects Simon's help and withdraws his promises",
+            "He retires and becomes Simon's servant",
+            "He gives Simon control of all Asia"
+          ],
+          "fil": [
+            "Tinanggihan niya ang tulong ni Simon at binawi ang kanyang mga pangako",
+            "Nagretiro siya at naging lingkod ni Simon",
+            "Ibinigay niya kay Simon ang buong Asia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Antiochus turns hostile and revokes the arrangements he had offered (1 Maccabees 15).",
+          "fil": "Naging kalaban si Antioco at binawi ang mga kaayusang inialok niya (1 Macabeo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Simon answer the demand to surrender the towns he holds?",
+          "fil": "Paano sinagot ni Simon ang kahilingang isuko ang mga bayang hawak niya?"
+        },
+        "options": {
+          "en": [
+            "They are ancestral lands recovered from wrongful occupation",
+            "They were purchased from a Roman emperor",
+            "They have no connection to his people"
+          ],
+          "fil": [
+            "Mga lupaing minana sa mga ninuno at nabawi mula sa di-makatarungang pananakop ang mga ito",
+            "Binili ang mga ito sa emperador ng Roma",
+            "Walang kaugnayan ang mga ito sa kanyang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Simon defends possession of the land as recovery of his people's inheritance (1 Maccabees 15).",
+          "fil": "Ipinagtanggol ni Simon ang paghawak sa lupain bilang pagbawi ng mana ng kanyang bayan (1 Macabeo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Rome's letters ask other rulers to respect?",
+          "fil": "Ano ang hiniling ng mga sulat ng Roma na igalang ng ibang pinuno?"
+        },
+        "options": {
+          "en": [
+            "Tryphon's right to destroy Jerusalem",
+            "A ban on Jewish worship everywhere",
+            "The Jews' security as friends and allies of Rome"
+          ],
+          "fil": [
+            "Ang karapatan ni Trifon na wasakin ang Jerusalem",
+            "Pagbabawal sa pagsambang Judio sa lahat ng lugar",
+            "Ang kaligtasan ng mga Judio bilang mga kaibigan at kakampi ng Roma"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rome warns other powers not to harm the Jews or assist their enemies (1 Maccabees 15).",
+          "fil": "Binalaan ng Roma ang ibang kapangyarihan na huwag pinsalain ang mga Judio o tulungan ang kanilang mga kaaway (1 Macabeo 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Whom does the aging Simon send to confront Cendebeus?",
+          "fil": "Sino ang isinugo ng tumatandang si Simon upang harapin si Cendebeo?"
+        },
+        "options": {
+          "en": [
+            "The Roman senate",
+            "Alcimus and Nicanor",
+            "His sons John and Judas"
+          ],
+          "fil": [
+            "Ang senado ng Roma",
+            "Sina Alcimo at Nicanor",
+            "Ang mga anak niyang sina Juan at Judas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Simon entrusts the campaign to his sons, who defeat Cendebeus' forces (1 Maccabees 16).",
+          "fil": "Ipinagkatiwala ni Simon ang kampanya sa kanyang mga anak na tumalo sa hukbo ni Cendebeo (1 Macabeo 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What betrayal takes place at Ptolemy's banquet near Jericho?",
+          "fil": "Anong pagtataksil ang nangyari sa piging ni Tolomeo malapit sa Jerico?"
+        },
+        "options": {
+          "en": [
+            "The guests elect Ptolemy high priest peacefully",
+            "Simon sells Jerusalem to Rome",
+            "Ptolemy has Simon and two of his sons killed"
+          ],
+          "fil": [
+            "Payapang inihalal ng mga panauhin si Tolomeo bilang pinakapunong pari",
+            "Ipinagbili ni Simon ang Jerusalem sa Roma",
+            "Ipinapatay ni Tolomeo si Simon at dalawa nitong anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ptolemy hides armed men and murders Simon and his sons during the feast (1 Maccabees 16).",
+          "fil": "Nagtago si Tolomeo ng mga lalaking may sandata at pinatay si Simon at ang kanyang mga anak sa piging (1 Macabeo 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does John escape the plot against his own life?",
+          "fil": "Paano nakaligtas si Juan sa plano laban sa kanyang buhay?"
+        },
+        "options": {
+          "en": [
+            "He is crowned king by Ptolemy",
+            "He has already sailed away to Spain",
+            "He receives a warning and stops the men sent to kill him"
+          ],
+          "fil": [
+            "Kinoronahan siya ni Tolomeo bilang hari",
+            "Nakapaglayag na siya patungong Espanya",
+            "Nakatanggap siya ng babala at pinigil ang mga lalaking isinugong pumatay sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A messenger warns John, allowing him to seize the would-be assassins (1 Maccabees 16).",
+          "fil": "Binalaan si Juan ng isang sugo kaya nahuli niya ang mga nagbalak pumatay sa kanya (1 Macabeo 16)."
+        }
+      }
+    ]
+  }
+}
