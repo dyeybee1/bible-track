@@ -1,0 +1,1069 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What celebration do the Jews in Judea invite the Jews in Egypt to share?",
+          "fil": "Anong pagdiriwang ang inanyayahan ng mga Judio sa Judea na salihan ng mga Judio sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "The destruction of God's law",
+            "The coronation of a Roman emperor",
+            "The purification of the Jerusalem temple"
+          ],
+          "fil": [
+            "Ang pagsira sa kautusan ng Diyos",
+            "Ang pagpuputong ng korona sa emperador ng Roma",
+            "Ang paglilinis ng templo ng Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening letters invite shared celebration of the restored sanctuary (2 Maccabees 1).",
+          "fil": "Inanyayahan ng mga pambungad na sulat ang sama-samang pagdiriwang ng napanumbalik na santuwaryo (2 Macabeo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the letter writers give thanks to God?",
+          "fil": "Bakit nagpasalamat sa Diyos ang mga sumulat?"
+        },
+        "options": {
+          "en": [
+            "He has made every Jew a king",
+            "He has ended their need to worship",
+            "He has delivered them from great dangers"
+          ],
+          "fil": [
+            "Ginawa niyang hari ang bawat Judio",
+            "Inalis niya ang pangangailangan nilang sumamba",
+            "Iniligtas niya sila sa matitinding panganib"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writers acknowledge God's rescue and invite shared thanksgiving (2 Maccabees 1).",
+          "fil": "Kinilala ng mga sumulat ang pagliligtas ng Diyos at inanyayahan ang iba sa pasasalamat (2 Macabeo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the recovered liquid is poured on Nehemiah's sacrifice?",
+          "fil": "Ano ang nangyari nang ibuhos ang nabawing likido sa hain ni Nehemias?"
+        },
+        "options": {
+          "en": [
+            "The offering turns into gold",
+            "The priests abandon the sanctuary",
+            "A great fire blazes up"
+          ],
+          "fil": [
+            "Naging ginto ang handog",
+            "Iniwan ng mga pari ang santuwaryo",
+            "Sumiklab ang malaking apoy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The liquid found where the altar fire had been hidden ignites the sacrifice (2 Maccabees 1).",
+          "fil": "Pinaliyab ng likidong natagpuan sa pinagtaguan ng apoy ng altar ang hain (2 Macabeo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does Jeremiah urge the departing exiles to remember?",
+          "fil": "Ano ang hinimok ni Jeremias na alalahanin ng mga bihag na paalis?"
+        },
+        "options": {
+          "en": [
+            "A plan to forget their faith",
+            "Only the prices of foreign goods",
+            "God's law rather than the attraction of idols"
+          ],
+          "fil": [
+            "Planong limutin ang kanilang pananampalataya",
+            "Mga presyo lamang ng dayuhang kalakal",
+            "Ang kautusan ng Diyos sa halip na ang pang-akit ng mga diyus-diyusan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah warns against letting impressive idols draw their hearts from God's law (2 Maccabees 2).",
+          "fil": "Nagbabala si Jeremias laban sa pagpapalayo ng puso sa kautusan ng Diyos dahil sa kahanga-hangang mga diyus-diyusan (2 Macabeo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jeremiah do with the tent, ark, and altar of incense in the account?",
+          "fil": "Ano ang ginawa ni Jeremias sa tolda, kaban, at altar ng insenso sa salaysay?"
+        },
+        "options": {
+          "en": [
+            "Hides them in a cave",
+            "Burns them before the people",
+            "Sells them to the king of Egypt"
+          ],
+          "fil": [
+            "Itinago ang mga ito sa kuweba",
+            "Sinunog ang mga ito sa harap ng bayan",
+            "Ipinagbili ang mga ito sa hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account describes Jeremiah securing the sacred objects in a concealed cave (2 Maccabees 2).",
+          "fil": "Inilarawan ng salaysay ang pag-iingat ni Jeremias sa mga banal na bagay sa nakatagong kuweba (2 Macabeo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judas gather that had been scattered by war?",
+          "fil": "Ano ang tinipon ni Judas na ikinalat ng digmaan?"
+        },
+        "options": {
+          "en": [
+            "Books",
+            "Crowns of every foreign king",
+            "Ships from Rome"
+          ],
+          "fil": [
+            "Mga aklat",
+            "Mga korona ng bawat dayuhang hari",
+            "Mga barko mula sa Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judas preserves the books dispersed during the conflict (2 Maccabees 2).",
+          "fil": "Iningatan ni Judas ang mga aklat na nangalat sa panahon ng labanan (2 Macabeo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Why does Onias object to confiscating the temple treasury?",
+          "fil": "Bakit tumutol si Onias sa pagsamsam sa kabang-yaman ng templo?"
+        },
+        "options": {
+          "en": [
+            "He wants to buy a throne for himself",
+            "It contains only weapons stolen from Rome",
+            "It includes deposits entrusted by widows and orphans"
+          ],
+          "fil": [
+            "Gusto niyang bumili ng trono para sa sarili",
+            "Mga sandatang ninakaw sa Roma lamang ang laman nito",
+            "Kasama rito ang mga lagak na ipinagkatiwala ng mga biyuda at ulila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The high priest defends entrusted funds and the sanctuary's integrity (2 Maccabees 3).",
+          "fil": "Ipinagtanggol ng pinakapunong pari ang mga ipinagkatiwalang salapi at dangal ng santuwaryo (2 Macabeo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What stops Heliodorus from taking the money?",
+          "fil": "Ano ang pumigil kay Heliodoro sa pagkuha ng pera?"
+        },
+        "options": {
+          "en": [
+            "A decree from the Roman senate",
+            "A peaceful sale to merchants",
+            "A terrifying divine appearance overwhelms him"
+          ],
+          "fil": [
+            "Kautusan mula sa senado ng Roma",
+            "Payapang pagbebenta sa mga mangangalakal",
+            "Dinaig siya ng nakatatakot na pagpapakitang mula sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A horseman and two radiant young men appear and leave Heliodorus helpless (2 Maccabees 3).",
+          "fil": "Lumitaw ang mangangabayo at dalawang maningning na binata at naiwang walang magawa si Heliodoro (2 Macabeo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Onias respond when asked to help the stricken Heliodorus?",
+          "fil": "Paano tumugon si Onias nang hilinging tulungan ang napahamak na si Heliodoro?"
+        },
+        "options": {
+          "en": [
+            "He orders people to mock him",
+            "He offers sacrifice for his recovery",
+            "He sells him into slavery"
+          ],
+          "fil": [
+            "Iniutos niyang kutyain siya ng mga tao",
+            "Naghandog siya ng hain para sa paggaling nito",
+            "Ipinagbili niya siya bilang alipin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Onias intercedes, and Heliodorus recovers and acknowledges God's power (2 Maccabees 3).",
+          "fil": "Namamagitan si Onias, at gumaling si Heliodoro at kinilala ang kapangyarihan ng Diyos (2 Macabeo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How does Jason obtain the high priesthood?",
+          "fil": "Paano nakuha ni Jason ang pagiging pinakapunong pari?"
+        },
+        "options": {
+          "en": [
+            "By being chosen unanimously by the poor",
+            "By defeating Rome in battle",
+            "By offering the king money"
+          ],
+          "fil": [
+            "Sa lubos na pagpili sa kanya ng mahihirap",
+            "Sa pagtalo sa Roma sa digmaan",
+            "Sa pag-aalok ng pera sa hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jason secures the office through promised payments to the king (2 Maccabees 4).",
+          "fil": "Nakuha ni Jason ang katungkulan sa mga pangakong pagbabayad sa hari (2 Macabeo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What effect does Jason's promotion of Greek practices have on some priests?",
+          "fil": "Ano ang naging epekto sa ilang pari ng pagtataguyod ni Jason ng mga kaugaliang Griego?"
+        },
+        "options": {
+          "en": [
+            "They neglect the altar for athletic activities",
+            "They devote more attention to every sacrifice",
+            "They all leave for Egypt to farm"
+          ],
+          "fil": [
+            "Pinabayaan nila ang altar para sa mga paligsahang pangkatawan",
+            "Lalo nilang pinagtuunan ang bawat hain",
+            "Umalis silang lahat patungong Egipto upang magsaka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account criticizes priests who value the gymnasium over their sacred duties (2 Maccabees 4).",
+          "fil": "Pinuna ng salaysay ang mga paring higit na pinahalagahan ang palaruan kaysa sa kanilang mga banal na tungkulin (2 Macabeo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Onias after he exposes Menelaus' theft of temple vessels?",
+          "fil": "Ano ang nangyari kay Onias matapos ilantad ang pagnanakaw ni Menelao ng mga kagamitan ng templo?"
+        },
+        "options": {
+          "en": [
+            "He is crowned ruler of Asia",
+            "He is sent to lead the Roman senate",
+            "He is treacherously murdered"
+          ],
+          "fil": [
+            "Kinoronahan siyang pinuno ng Asia",
+            "Isinugo siya upang pamunuan ang senado ng Roma",
+            "Pinatay siya sa pagtataksil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Menelaus persuades Andronicus to murder Onias after the theft is exposed (2 Maccabees 4).",
+          "fil": "Hinikayat ni Menelao si Andronico na patayin si Onias matapos mailantad ang pagnanakaw (2 Macabeo 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What false report prompts Jason's attack on Jerusalem?",
+          "fil": "Anong maling balita ang nag-udyok sa paglusob ni Jason sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "That the temple has moved to Egypt",
+            "That Antiochus has died",
+            "That Rome has surrendered to Judas"
+          ],
+          "fil": [
+            "Na lumipat na ang templo sa Egipto",
+            "Na namatay na si Antioco",
+            "Na sumuko na ang Roma kay Judas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jason tries to seize power after hearing a false report of the king's death (2 Maccabees 5).",
+          "fil": "Sinubukan ni Jason na agawin ang kapangyarihan matapos marinig ang maling balita ng pagkamatay ng hari (2 Macabeo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Antiochus do after interpreting events in Judea as a revolt?",
+          "fil": "Ano ang ginawa ni Antioco matapos ituring na paghihimagsik ang mga pangyayari sa Judea?"
+        },
+        "options": {
+          "en": [
+            "Offers his throne to the high priest",
+            "Returns every sacred vessel with an apology",
+            "Attacks Jerusalem and plunders the temple"
+          ],
+          "fil": [
+            "Inialok ang kanyang trono sa pinakapunong pari",
+            "Ibinalik ang bawat banal na kagamitan nang may paghingi ng tawad",
+            "Nilusob ang Jerusalem at sinamsam ang templo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Antiochus responds with violent repression and theft from the sanctuary (2 Maccabees 5).",
+          "fil": "Tumugon si Antioco sa marahas na panunupil at pagnanakaw mula sa santuwaryo (2 Macabeo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Judas avoid sharing in the imposed defilement?",
+          "fil": "Paano naiwasan ni Judas ang pakikibahagi sa ipinilit na karumihan?"
+        },
+        "options": {
+          "en": [
+            "He withdraws with a small group to the mountains",
+            "He leads the foreign temple rites",
+            "He becomes an officer of Antiochus"
+          ],
+          "fil": [
+            "Umatras siya kasama ang maliit na grupo patungo sa mga bundok",
+            "Pinangunahan niya ang mga dayuhang ritwal sa templo",
+            "Naging pinuno siya sa hukbo ni Antioco"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judas and a few companions survive in the wilderness on wild food (2 Maccabees 5).",
+          "fil": "Nabuhay si Judas at ilang kasama sa ilang sa pagkain ng mga tumutubong halaman (2 Macabeo 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What change is imposed on Jerusalem's sanctuary?",
+          "fil": "Anong pagbabago ang ipinilit sa santuwaryo ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "It is restored to Moses' exact design",
+            "It is profaned and named for Olympian Zeus",
+            "It is moved to Rome intact"
+          ],
+          "fil": [
+            "Ibinalik ito sa mismong disenyo ni Moises",
+            "Nilapastangan ito at pinangalanan kay Zeus ng Olimpo",
+            "Inilipat ito nang buo sa Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The king's agents impose foreign religious practices in place of lawful worship (2 Maccabees 6).",
+          "fil": "Ipinilit ng mga tauhan ng hari ang mga dayuhang gawaing panrelihiyon sa halip na wastong pagsamba (2 Macabeo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Eleazar reject a pretense that could save his life?",
+          "fil": "Bakit tinanggihan ni Eleazar ang pagkukunwaring maaaring magligtas sa kanyang buhay?"
+        },
+        "options": {
+          "en": [
+            "He believes public conduct never matters",
+            "It would mislead young people into thinking he abandoned the law",
+            "He wants a higher army position"
+          ],
+          "fil": [
+            "Naniniwala siyang walang halaga ang asal sa publiko",
+            "Ililigaw nito ang mga kabataan sa pag-aakalang tinalikuran niya ang kautusan",
+            "Gusto niya ng mas mataas na posisyon sa hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eleazar chooses integrity because pretending to eat forbidden food would give a harmful example (2 Maccabees 6).",
+          "fil": "Pinili ni Eleazar ang katapatan dahil magbibigay ng masamang halimbawa ang pagkukunwaring kumain ng ipinagbabawal (2 Macabeo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the narrator tell readers to understand the nation's suffering?",
+          "fil": "Paano sinabi ng tagapagsalaysay na unawain ng mga mambabasa ang pagdurusa ng bansa?"
+        },
+        "options": {
+          "en": [
+            "As proof that God has lost all power",
+            "As discipline without God's abandoning his people",
+            "As a reason to praise foreign gods"
+          ],
+          "fil": [
+            "Bilang patunay na nawalan na ng lahat ng kapangyarihan ang Diyos",
+            "Bilang pagdidisiplina nang hindi pinababayaan ng Diyos ang kanyang bayan",
+            "Bilang dahilan upang purihin ang mga dayuhang diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The narrator presents the trials as correction while affirming God's continuing mercy (2 Maccabees 6).",
+          "fil": "Itinuring ng tagapagsalaysay ang mga pagsubok bilang pagtutuwid habang pinagtitibay ang patuloy na awa ng Diyos (2 Macabeo 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Why do the seven brothers refuse the king's demand?",
+          "fil": "Bakit tumanggi ang pitong magkakapatid sa hiling ng hari?"
+        },
+        "options": {
+          "en": [
+            "They are waiting for a more expensive meal",
+            "They want a share of his throne",
+            "They will not violate God's law by eating forbidden food"
+          ],
+          "fil": [
+            "Naghihintay sila ng mas mamahaling pagkain",
+            "Gusto nila ng bahagi sa kanyang trono",
+            "Ayaw nilang labagin ang kautusan ng Diyos sa pagkain ng ipinagbabawal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The brothers remain faithful to God's law despite the king's threats (2 Maccabees 7).",
+          "fil": "Nanatiling tapat ang magkakapatid sa kautusan ng Diyos sa kabila ng mga banta ng hari (2 Macabeo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope strengthens the brothers as they face death?",
+          "fil": "Anong pag-asa ang nagpalakas sa magkakapatid habang humaharap sa kamatayan?"
+        },
+        "options": {
+          "en": [
+            "The king will give them Roman offices",
+            "Their suffering will make idols powerful",
+            "God can raise them to life again"
+          ],
+          "fil": [
+            "Bibigyan sila ng hari ng mga katungkulan sa Roma",
+            "Palalakasin ng kanilang pagdurusa ang mga diyus-diyusan",
+            "Kayang buhayin silang muli ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The brothers trust that the Creator can restore their lives (2 Maccabees 7).",
+          "fil": "Nagtiwala ang magkakapatid na maibabalik ng Manlilikha ang kanilang buhay (2 Macabeo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does their mother support her sons?",
+          "fil": "Paano sinuportahan ng kanilang ina ang kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "She encourages faithfulness and trust in the Creator",
+            "She tells them to worship the king as God",
+            "She denies knowing them"
+          ],
+          "fil": [
+            "Hinikayat niya ang katapatan at pagtitiwala sa Manlilikha",
+            "Sinabihan niya silang sambahin ang hari bilang Diyos",
+            "Itinanggi niyang kilala niya sila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their mother strengthens them with hope in God's power and mercy (2 Maccabees 7).",
+          "fil": "Pinalakas sila ng kanilang ina sa pag-asa sa kapangyarihan at awa ng Diyos (2 Macabeo 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does Nicanor plan to do with captured Jews?",
+          "fil": "Ano ang plano ni Nicanor sa mga mabibihag na Judio?"
+        },
+        "options": {
+          "en": [
+            "Sell them as slaves to raise money",
+            "Appoint them all as priests",
+            "Give them seats in Rome's senate"
+          ],
+          "fil": [
+            "Ipagbili sila bilang mga alipin upang makalikom ng pera",
+            "Italaga silang lahat bilang mga pari",
+            "Bigyan sila ng mga luklukan sa senado ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nicanor invites slave buyers before the battle, expecting to profit from victory (2 Maccabees 8).",
+          "fil": "Nag-anyaya si Nicanor ng mga bibili ng alipin bago ang labanan dahil umaasang kikita sa tagumpay (2 Macabeo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Judas place his confidence before facing Nicanor's army?",
+          "fil": "Saan inilagay ni Judas ang kanyang tiwala bago harapin ang hukbo ni Nicanor?"
+        },
+        "options": {
+          "en": [
+            "In God's help rather than weapons alone",
+            "In the promise of the slave buyers",
+            "In his right to rule every nation"
+          ],
+          "fil": [
+            "Sa tulong ng Diyos sa halip na sa mga sandata lamang",
+            "Sa pangako ng mga bibili ng alipin",
+            "Sa karapatan niyang mamuno sa bawat bansa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judas encourages his men to trust the Almighty instead of fearing the enemy's numbers (2 Maccabees 8).",
+          "fil": "Hinikayat ni Judas ang mga kawal na magtiwala sa Makapangyarihan sa halip na matakot sa dami ng kaaway (2 Macabeo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Nicanor after his army is defeated here?",
+          "fil": "Ano ang nangyari kay Nicanor matapos matalo rito ang kanyang hukbo?"
+        },
+        "options": {
+          "en": [
+            "He escapes in humiliation and returns to Antioch",
+            "He becomes Judas' high priest",
+            "He is crowned king in Jerusalem"
+          ],
+          "fil": [
+            "Tumakas siyang napahiya at bumalik sa Antioquia",
+            "Naging pinakapunong pari siya ni Judas",
+            "Kinoronahan siyang hari sa Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nicanor survives this defeat and flees after abandoning his splendid appearance (2 Maccabees 8).",
+          "fil": "Nakaligtas si Nicanor sa pagkatalong ito at tumakas matapos iwan ang magarang anyo niya (2 Macabeo 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does the suffering Antiochus acknowledge about himself before God?",
+          "fil": "Ano ang kinilala ng nagdurusang si Antioco tungkol sa sarili sa harap ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God depends on his army",
+            "A mortal must not claim equality with God",
+            "His throne makes him stronger than God"
+          ],
+          "fil": [
+            "Umaasa ang Diyos sa kanyang hukbo",
+            "Hindi dapat angkinin ng tao ang pagiging kapantay ng Diyos",
+            "Ginagawa siyang mas malakas sa Diyos ng kanyang trono"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Severe suffering forces Antiochus to recognize the limits of his pride (2 Maccabees 9).",
+          "fil": "Pinilit ng matinding pagdurusa si Antioco na kilalanin ang hangganan ng kanyang kapalaluan (2 Macabeo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Antiochus promise concerning the sanctuary he plundered?",
+          "fil": "Ano ang ipinangako ni Antioco tungkol sa santuwaryong kanyang sinamsam?"
+        },
+        "options": {
+          "en": [
+            "Remove every priest from the land",
+            "Turn it permanently into a marketplace",
+            "Restore its vessels and provide for sacrifices"
+          ],
+          "fil": [
+            "Alisin ang bawat pari sa lupain",
+            "Gawin itong pamilihan magpakailanman",
+            "Ibalik ang mga kagamitan nito at tustusan ang mga hain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "In his distress Antiochus vows to repair the wrong he did to the sanctuary (2 Maccabees 9).",
+          "fil": "Sa kanyang paghihirap ay nanumpa si Antioco na itutuwid ang pinsalang ginawa niya sa santuwaryo (2 Macabeo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Antiochus name as his successor in his letter?",
+          "fil": "Sino ang pinangalanan ni Antioco na kahalili sa kanyang sulat?"
+        },
+        "options": {
+          "en": [
+            "Onias the high priest",
+            "His son Antiochus",
+            "Judas Maccabeus"
+          ],
+          "fil": [
+            "Si Onias na pinakapunong pari",
+            "Ang anak niyang si Antioco",
+            "Si Judas Macabeo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The king's letter commends his son as the next ruler (2 Maccabees 9).",
+          "fil": "Ipinakilala ng sulat ng hari ang kanyang anak bilang susunod na pinuno (2 Macabeo 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What do Judas and his followers restore after recovering the temple?",
+          "fil": "Ano ang ibinalik ni Judas at ng kanyang mga tagasunod matapos mabawi ang templo?"
+        },
+        "options": {
+          "en": [
+            "Lawful sacrifice, incense, lamps, and worship",
+            "The sale of the priesthood to the highest bidder",
+            "The foreign idols placed there"
+          ],
+          "fil": [
+            "Wastong hain, insenso, mga ilawan, at pagsamba",
+            "Ang pagbebenta ng pagkapari sa pinakamataas magbayad",
+            "Ang mga dayuhang diyus-diyusang inilagay roon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They cleanse the sanctuary and resume its proper worship (2 Maccabees 10).",
+          "fil": "Nilinis nila ang santuwaryo at ipinagpatuloy ang wastong pagsamba rito (2 Macabeo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hardship do the people remember during the joyful rededication?",
+          "fil": "Anong paghihirap ang naalala ng mga tao sa masayang muling pagtatalaga?"
+        },
+        "options": {
+          "en": [
+            "Hiding in mountains and caves during the earlier feast",
+            "Being unable to find crowns in Rome",
+            "Losing a race at the Greek games"
+          ],
+          "fil": [
+            "Pagtatago sa mga bundok at kuweba noong naunang kapistahan",
+            "Hindi makahanap ng mga korona sa Roma",
+            "Pagkatalo sa takbuhan sa mga paligsahang Griego"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their thanksgiving contrasts restored worship with the recent days of hiding in the wilderness (2 Maccabees 10).",
+          "fil": "Inihambing ng kanilang pasasalamat ang napanumbalik na pagsamba sa kamakailang pagtatago sa ilang (2 Macabeo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What betrayal does Judas confront during the fighting in Idumea?",
+          "fil": "Anong pagtataksil ang hinarap ni Judas sa pakikipaglaban sa Idumea?"
+        },
+        "options": {
+          "en": [
+            "The poor decline to receive food",
+            "The priests refuse to light the lamps",
+            "Men accept bribes to let enemies escape"
+          ],
+          "fil": [
+            "Tumanggi ang mahihirap na tumanggap ng pagkain",
+            "Tumanggi ang mga pari na sindihan ang mga ilawan",
+            "Tumanggap ng suhol ang mga lalaki upang patakasin ang mga kaaway"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judas punishes those who release trapped enemies for money (2 Maccabees 10).",
+          "fil": "Pinarusahan ni Judas ang mga nagpalaya sa nakulong na kaaway kapalit ng pera (2 Macabeo 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What encouraging appearance is seen as Judas' men advance?",
+          "fil": "Anong nakapagpapalakas na pagpapakita ang nakita habang sumusulong ang mga kawal ni Judas?"
+        },
+        "options": {
+          "en": [
+            "A ship carrying the Roman senate",
+            "A horseman in white with golden weapons",
+            "A statue demanding their worship"
+          ],
+          "fil": [
+            "Barkong lulan ang senado ng Roma",
+            "Mangangabayong nakaputi na may gintong mga sandata",
+            "Rebultong humihingi ng kanilang pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The appearance of the horseman strengthens their confidence in God's help (2 Maccabees 11).",
+          "fil": "Pinalakas ng pagpapakita ng mangangabayo ang kanilang tiwala sa tulong ng Diyos (2 Macabeo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Lysias respond after his defeat?",
+          "fil": "Paano tumugon si Lisias matapos matalo?"
+        },
+        "options": {
+          "en": [
+            "He immediately captures the temple",
+            "He seeks negotiated peace",
+            "He crowns himself king of Judea"
+          ],
+          "fil": [
+            "Agad niyang nasakop ang templo",
+            "Humingi siya ng kapayapaang pinagkasunduan",
+            "Kinoronahan niya ang sarili bilang hari ng Judea"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lysias recognizes that God fights for the Jews and offers terms (2 Maccabees 11).",
+          "fil": "Kinilala ni Lisias na ipinaglalaban ng Diyos ang mga Judio at nag-alok ng kasunduan (2 Macabeo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What religious freedom do the royal letters recognize?",
+          "fil": "Anong kalayaang panrelihiyon ang kinilala ng mga sulat ng hari?"
+        },
+        "options": {
+          "en": [
+            "The Jews must all worship Zeus",
+            "Every sacrifice must be offered in Rome",
+            "The Jews may follow their ancestral laws and have their temple restored"
+          ],
+          "fil": [
+            "Kailangang sambahin ng lahat ng Judio si Zeus",
+            "Kailangang ihandog sa Roma ang bawat hain",
+            "Maaaring sundin ng mga Judio ang minanang kautusan at maibalik sa kanila ang templo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The settlement permits the Jews to resume their own lawful religious life (2 Maccabees 11).",
+          "fil": "Pinahintulutan ng kasunduan ang mga Judio na ipagpatuloy ang sarili nilang wastong buhay panrelihiyon (2 Macabeo 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does Judas attack the harbor at Joppa?",
+          "fil": "Bakit sinalakay ni Judas ang daungan sa Joppa?"
+        },
+        "options": {
+          "en": [
+            "The harbor belongs to a peaceful Jewish school",
+            "The city has refused to crown him emperor",
+            "The townspeople have murdered fellow Jews by deceit"
+          ],
+          "fil": [
+            "Pag-aari ng payapang paaralang Judio ang daungan",
+            "Tumanggi ang lungsod na koronahan siyang emperador",
+            "Pinatay ng mga mamamayan ang kapwa mga Judio sa panlilinlang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judas responds to the treacherous killing of Jews at Joppa (2 Maccabees 12).",
+          "fil": "Tumugon si Judas sa mapanlinlang na pagpatay sa mga Judio sa Joppa (2 Macabeo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Judas respond when defeated Arabians ask for friendship?",
+          "fil": "Paano tumugon si Judas nang humingi ng pagkakaibigan ang mga natalong taga-Arabia?"
+        },
+        "options": {
+          "en": [
+            "He surrenders Jerusalem to them",
+            "He forbids all future agreements",
+            "He agrees to peace and accepts their pledges"
+          ],
+          "fil": [
+            "Isinuko niya sa kanila ang Jerusalem",
+            "Ipinagbawal niya ang lahat ng kasunduan sa hinaharap",
+            "Pumayag siya sa kapayapaan at tinanggap ang kanilang mga pangako"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judas sees value in the offered friendship and makes peace with them (2 Maccabees 12).",
+          "fil": "Nakita ni Judas ang pakinabang sa inialok na pagkakaibigan at nakipagpayapaan sa kanila (2 Macabeo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Judas arrange an offering for fallen soldiers?",
+          "fil": "Bakit naghanda si Judas ng handog para sa mga namatay na kawal?"
+        },
+        "options": {
+          "en": [
+            "He wants to honor the idols found among them",
+            "He hopes for their resurrection and forgiveness of sin",
+            "He believes death makes every prayer meaningless"
+          ],
+          "fil": [
+            "Gusto niyang parangalan ang mga diyus-diyusang natagpuan sa kanila",
+            "Umaasa siya sa kanilang muling pagkabuhay at kapatawaran sa kasalanan",
+            "Naniniwala siyang ginagawang walang saysay ng kamatayan ang bawat panalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The narrator connects Judas' prayer and offering for the dead with hope in resurrection (2 Maccabees 12).",
+          "fil": "Iniugnay ng tagapagsalaysay ang panalangin at handog ni Judas para sa mga patay sa pag-asa sa muling pagkabuhay (2 Macabeo 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What happens to Menelaus after the king is turned against him?",
+          "fil": "Ano ang nangyari kay Menelao matapos ibaling laban sa kanya ang hari?"
+        },
+        "options": {
+          "en": [
+            "He is executed in a tower filled with ashes",
+            "He becomes king of Egypt",
+            "He is welcomed as Rome's savior"
+          ],
+          "fil": [
+            "Pinatay siya sa toreng puno ng abo",
+            "Naging hari siya ng Egipto",
+            "Tinanggap siya bilang tagapagligtas ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Menelaus loses royal support and is punished for his wrongdoing (2 Maccabees 13).",
+          "fil": "Nawala kay Menelao ang suporta ng hari at pinarusahan siya sa kanyang kasamaan (2 Macabeo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Judas and the people prepare for the threatening royal army?",
+          "fil": "Paano naghanda si Judas at ang bayan para sa nagbabantang hukbo ng hari?"
+        },
+        "options": {
+          "en": [
+            "They immediately abandon their law",
+            "They stop defending the temple",
+            "They seek God's help with prayer and fasting"
+          ],
+          "fil": [
+            "Agad nilang tinalikuran ang kanilang kautusan",
+            "Tumigil sila sa pagtatanggol sa templo",
+            "Humingi sila ng tulong sa Diyos sa panalangin at pag-aayuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people join in earnest prayer before Judas leads the defense (2 Maccabees 13).",
+          "fil": "Nagkaisa ang bayan sa taimtim na panalangin bago pinangunahan ni Judas ang pagtatanggol (2 Macabeo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the king make peace and hurry away?",
+          "fil": "Bakit nakipagpayapaan ang hari at nagmadaling umalis?"
+        },
+        "options": {
+          "en": [
+            "Judas has sold him the temple",
+            "All his opponents have disappeared forever",
+            "News of trouble involving Philip at Antioch changes his plans"
+          ],
+          "fil": [
+            "Ipinagbili ni Judas sa kanya ang templo",
+            "Nawala na magpakailanman ang lahat ng kalaban niya",
+            "Binago ng balita ng kaguluhan na kinasasangkutan ni Felipe sa Antioquia ang kanyang mga plano"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Trouble at Antioch helps bring about a treaty recognizing Jewish rights (2 Maccabees 13).",
+          "fil": "Nakatulong ang kaguluhan sa Antioquia upang magkaroon ng kasunduang kumikilala sa mga karapatan ng mga Judio (2 Macabeo 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What relationship initially develops between Nicanor and Judas?",
+          "fil": "Anong ugnayan ang nabuo sa simula nina Nicanor at Judas?"
+        },
+        "options": {
+          "en": [
+            "They immediately divide the Roman Empire",
+            "They reach an agreement and become friendly",
+            "They become priests of Zeus together"
+          ],
+          "fil": [
+            "Agad nilang hinati ang Imperyo ng Roma",
+            "Nagkasundo sila at naging magkaibigan",
+            "Magkasama silang naging mga pari ni Zeus"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Nicanor first comes to peaceful terms with Judas and treats him favorably (2 Maccabees 14).",
+          "fil": "Sa simula ay nakipagpayapaan si Nicanor kay Judas at mabuti ang pagtrato sa kanya (2 Macabeo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What royal order overturns that peaceful arrangement?",
+          "fil": "Anong utos ng hari ang sumira sa mapayapang kaayusang iyon?"
+        },
+        "options": {
+          "en": [
+            "Nicanor must send Judas as a prisoner to Antioch",
+            "Nicanor must give Judas the whole kingdom",
+            "The king must move to Jerusalem as a pupil"
+          ],
+          "fil": [
+            "Kailangang ipadala ni Nicanor si Judas bilang bilanggo sa Antioquia",
+            "Kailangang ibigay ni Nicanor kay Judas ang buong kaharian",
+            "Kailangang lumipat ang hari sa Jerusalem bilang mag-aaral"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "After hostile accusations, Demetrius orders Judas' arrest despite the existing agreement (2 Maccabees 14).",
+          "fil": "Matapos ang masasamang paratang ay iniutos ni Demetrio ang pagdakip kay Judas sa kabila ng umiiral na kasunduan (2 Macabeo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Nicanor threaten when the priests cannot hand over Judas?",
+          "fil": "Ano ang ibinanta ni Nicanor nang hindi maibigay ng mga pari si Judas?"
+        },
+        "options": {
+          "en": [
+            "End all taxes in Judea",
+            "Destroy the temple and replace it with a shrine to Dionysus",
+            "Build a new house for each priest"
+          ],
+          "fil": [
+            "Wakasan ang lahat ng buwis sa Judea",
+            "Wasakin ang templo at palitan ng dambana ni Dionisio",
+            "Magtayo ng bagong bahay para sa bawat pari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Nicanor threatens the sanctuary, and the priests appeal to God to preserve it (2 Maccabees 14).",
+          "fil": "Pinagbantaan ni Nicanor ang santuwaryo at humingi ang mga pari sa Diyos na ingatan ito (2 Macabeo 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What does Nicanor disregard when planning his attack?",
+          "fil": "Ano ang binale-wala ni Nicanor sa pagpaplano ng kanyang paglusob?"
+        },
+        "options": {
+          "en": [
+            "An order to make him high priest",
+            "The sanctity of the Sabbath",
+            "A promise to visit Egypt's pyramids"
+          ],
+          "fil": [
+            "Utos na gawin siyang pinakapunong pari",
+            "Ang kabanalan ng Sabbath",
+            "Pangakong dalawin ang mga piramide ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Nicanor arrogantly intends to attack on the day of rest (2 Maccabees 15).",
+          "fil": "May kapalaluang binalak ni Nicanor na lumusob sa araw ng pamamahinga (2 Macabeo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What encouragement does Judas receive in his dream?",
+          "fil": "Anong pampalakas ng loob ang tinanggap ni Judas sa kanyang panaginip?"
+        },
+        "options": {
+          "en": [
+            "The temple's idols promise him wealth",
+            "Onias prays for the people and Jeremiah gives him a sword",
+            "Caesar gives him the Roman throne"
+          ],
+          "fil": [
+            "Nangako ang mga diyus-diyusan ng templo ng kayamanan sa kanya",
+            "Ipinanalangin ni Onias ang bayan at binigyan siya ni Jeremias ng tabak",
+            "Ibinigay ni Cesar sa kanya ang trono ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judas recounts a dream of intercession and a God-given sword to encourage his men (2 Maccabees 15).",
+          "fil": "Isinalaysay ni Judas ang panaginip ng pamamagitan at tabak na kaloob ng Diyos upang palakasin ang mga kawal (2 Macabeo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the outcome of the final battle against Nicanor?",
+          "fil": "Ano ang kinalabasan ng huling labanan laban kay Nicanor?"
+        },
+        "options": {
+          "en": [
+            "Judas gives up worship of God",
+            "Nicanor is killed and the Jews celebrate deliverance",
+            "Nicanor takes permanent control of the temple"
+          ],
+          "fil": [
+            "Tinalikuran ni Judas ang pagsamba sa Diyos",
+            "Namatay si Nicanor at ipinagdiwang ng mga Judio ang pagliligtas",
+            "Tuluyang napasakamay ni Nicanor ang templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The final victory ends Nicanor's threat and becomes an occasion of public thanksgiving (2 Maccabees 15).",
+          "fil": "Tinapos ng huling tagumpay ang banta ni Nicanor at naging pagkakataon ng hayagang pasasalamat (2 Macabeo 15)."
+        }
+      }
+    ]
+  }
+}
