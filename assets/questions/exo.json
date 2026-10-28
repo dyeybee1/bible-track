@@ -1,0 +1,3304 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why does Egypt's new king fear the Israelites?",
+          "fil": "Bakit natakot sa mga Israelita ang bagong hari ng Egipto?"
+        },
+        "options": {
+          "en": [
+            "They have no children",
+            "Their population is growing",
+            "They have captured his palace"
+          ],
+          "fil": [
+            "Wala silang mga anak",
+            "Dumarami ang kanilang populasyon",
+            "Nasakop nila ang kanyang palasyo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The king sees Israel's growing population as a threat (Exodus 1).",
+          "fil": "Itinuring ng hari na banta ang pagdami ng mga Israelita (Exodo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What work do the Egyptians force on Israel?",
+          "fil": "Anong trabaho ang ipinilit ng mga taga-Egipto sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Hard labor building storage cities",
+            "Teaching Egyptian priests",
+            "Ruling the royal court"
+          ],
+          "fil": [
+            "Mabigat na trabaho sa pagtatayo ng mga lungsod na imbakan",
+            "Pagtuturo sa mga pari ng Egipto",
+            "Pamumuno sa korte ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel suffers forced labor on Egypt's building projects (Exodus 1).",
+          "fil": "Nagdusa ang Israel sa sapilitang paggawa sa mga pagtatayo sa Egipto (Exodo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the midwives refuse to kill the Hebrew baby boys?",
+          "fil": "Bakit tumanggi ang mga hilot na patayin ang mga sanggol na lalaking Hebreo?"
+        },
+        "options": {
+          "en": [
+            "They fear God",
+            "No Hebrew children are being born",
+            "Pharaoh has canceled his order"
+          ],
+          "fil": [
+            "May takot sila sa Diyos",
+            "Walang ipinapanganak na batang Hebreo",
+            "Kinansela ni Faraon ang kanyang utos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The midwives honor God rather than obey the murderous order (Exodus 1).",
+          "fil": "Pinarangalan ng mga hilot ang Diyos sa halip na sundin ang utos na pumatay (Exodo 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What order does Pharaoh finally give all his people about Hebrew baby boys?",
+          "fil": "Anong utos ang ibinigay ni Faraon sa buong bayan tungkol sa mga sanggol na lalaking Hebreo?"
+        },
+        "options": {
+          "en": [
+            "Send them to Canaan",
+            "Throw them into the Nile",
+            "Adopt them as princes"
+          ],
+          "fil": [
+            "Ipadala sila sa Canaan",
+            "Itapon sila sa Nilo",
+            "Amponin sila bilang mga prinsipe"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh orders the boys thrown into the river (Exodus 1).",
+          "fil": "Ipinag-utos ni Faraon na itapon sa ilog ang mga batang lalaki (Exodo 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Where does Moses' mother place him when she can no longer hide him?",
+          "fil": "Saan inilagay ng ina si Moises nang hindi na niya maitago ito?"
+        },
+        "options": {
+          "en": [
+            "In a basket among the river reeds",
+            "Inside a desert cave",
+            "On Pharaoh's throne"
+          ],
+          "fil": [
+            "Sa basket sa gitna ng mga tambo sa ilog",
+            "Sa loob ng kuweba sa disyerto",
+            "Sa trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses' mother places his basket among the reeds by the Nile (Exodus 2).",
+          "fil": "Inilagay ng ina ni Moises ang basket nito sa mga tambo sa tabi ng Nilo (Exodo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who finds the baby Moses?",
+          "fil": "Sino ang nakakita sa sanggol na si Moises?"
+        },
+        "options": {
+          "en": [
+            "The king of Moab",
+            "Pharaoh's daughter",
+            "Aaron"
+          ],
+          "fil": [
+            "Ang hari ng Moab",
+            "Ang anak na babae ni Faraon",
+            "Si Aaron"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh's daughter finds the basket and takes pity on the child (Exodus 2).",
+          "fil": "Nakita ng anak ni Faraon ang basket at nahabag siya sa bata (Exodo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is called to nurse Moses after his sister offers to find a nurse?",
+          "fil": "Sino ang tinawag upang magpasuso kay Moises matapos mag-alok ang kapatid niyang humanap ng tagapag-alaga?"
+        },
+        "options": {
+          "en": [
+            "Jethro's daughter",
+            "His own mother",
+            "A queen from Canaan"
+          ],
+          "fil": [
+            "Ang anak ni Jetro",
+            "Ang sarili niyang ina",
+            "Isang reyna mula sa Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses' sister arranges for their mother to nurse him (Exodus 2).",
+          "fil": "Naayos ng kapatid ni Moises na sariling ina nila ang magpasuso sa kanya (Exodo 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Moses flee after Pharaoh learns he killed an Egyptian?",
+          "fil": "Saan tumakas si Moises nang malaman ni Faraon na nakapatay siya ng taga-Egipto?"
+        },
+        "options": {
+          "en": [
+            "Babylon",
+            "Midian",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Babilonia",
+            "Midian",
+            "Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses escapes to Midian and begins a new life there (Exodus 2).",
+          "fil": "Tumakas si Moises sa Midian at nagsimula ng bagong buhay roon (Exodo 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What unusual sight draws Moses' attention at Horeb?",
+          "fil": "Anong kakaibang tanawin ang nakatawag sa pansin ni Moises sa Horeb?"
+        },
+        "options": {
+          "en": [
+            "A river flows with gold",
+            "A mountain turns into a ship",
+            "A bush burns without being consumed"
+          ],
+          "fil": [
+            "Umaagos ang ginto sa ilog",
+            "Nagiging barko ang bundok",
+            "Nasusunog ang palumpong ngunit hindi nauubos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls Moses from a burning bush that is not consumed (Exodus 3).",
+          "fil": "Tinawag ng Diyos si Moises mula sa nagliliyab na palumpong na hindi nauubos (Exodo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must Moses remove his sandals?",
+          "fil": "Bakit kailangang alisin ni Moises ang kanyang sandalyas?"
+        },
+        "options": {
+          "en": [
+            "He is entering Pharaoh's palace",
+            "He is about to swim",
+            "He is standing on holy ground"
+          ],
+          "fil": [
+            "Papasok siya sa palasyo ni Faraon",
+            "Lalangoy siya",
+            "Nakatayo siya sa banal na lugar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God identifies the place of encounter as holy ground (Exodus 3).",
+          "fil": "Kinilala ng Diyos ang lugar ng pakikipagtagpo bilang banal na lugar (Exodo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What suffering does God say he has seen?",
+          "fil": "Anong pagdurusa ang sinabi ng Diyos na nakita niya?"
+        },
+        "options": {
+          "en": [
+            "The fall of Babylon",
+            "The oppression of his people in Egypt",
+            "The destruction of Jerusalem's temple"
+          ],
+          "fil": [
+            "Ang pagbagsak ng Babilonia",
+            "Ang pang-aapi sa kanyang bayan sa Egipto",
+            "Ang pagkawasak ng templo ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God has heard Israel's cries and seen its suffering in Egypt (Exodus 3).",
+          "fil": "Narinig ng Diyos ang daing ng Israel at nakita ang pagdurusa nito sa Egipto (Exodo 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mission does God give Moses?",
+          "fil": "Anong misyon ang ibinigay ng Diyos kay Moises?"
+        },
+        "options": {
+          "en": [
+            "Build a new tower in Babel",
+            "Go to Pharaoh and bring Israel out of Egypt",
+            "Become priest of Egypt's idols"
+          ],
+          "fil": [
+            "Magtayo ng bagong tore sa Babel",
+            "Pumunta kay Faraon at ilabas ang Israel sa Egipto",
+            "Maging pari ng mga diyus-diyosan ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God sends Moses to lead his people out of slavery (Exodus 3).",
+          "fil": "Isinugo ng Diyos si Moises upang akayin ang kanyang bayan palabas sa pagkaalipin (Exodo 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What happens to Moses' staff as a sign from God?",
+          "fil": "Ano ang nangyari sa tungkod ni Moises bilang tanda mula sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "It disappears forever",
+            "It becomes a snake and then a staff again",
+            "It becomes a royal crown"
+          ],
+          "fil": [
+            "Naglaho ito habambuhay",
+            "Naging ahas ito at muling naging tungkod",
+            "Naging korona ito ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God gives Moses the staff sign to support his message (Exodus 4).",
+          "fil": "Ibinigay ng Diyos kay Moises ang tanda sa tungkod upang patunayan ang kanyang mensahe (Exodo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What concern does Moses raise about speaking?",
+          "fil": "Anong alalahanin ang iniharap ni Moises tungkol sa pagsasalita?"
+        },
+        "options": {
+          "en": [
+            "He does not consider himself an effective speaker",
+            "He has forgotten who Pharaoh is",
+            "He wants to speak only to idols"
+          ],
+          "fil": [
+            "Hindi niya itinuturing ang sarili na mahusay magsalita",
+            "Nakalimutan niya kung sino si Faraon",
+            "Sa mga diyus-diyosan lamang niya gustong magsalita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses objects that speaking is difficult for him (Exodus 4).",
+          "fil": "Nagdahilan si Moises na mahirap para sa kanya ang pagsasalita (Exodo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does God appoint to speak alongside Moses?",
+          "fil": "Sino ang itinalaga ng Diyos na magsalitang kasama ni Moises?"
+        },
+        "options": {
+          "en": [
+            "Joseph",
+            "Balak",
+            "Aaron"
+          ],
+          "fil": [
+            "Si Jose",
+            "Si Balac",
+            "Si Aaron"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God appoints Aaron to help communicate Moses' message (Exodus 4).",
+          "fil": "Itinalaga ng Diyos si Aaron na tumulong sa pagpapahayag ng mensahe ni Moises (Exodo 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Israel's elders and people respond after hearing the message and seeing the signs?",
+          "fil": "Paano tumugon ang mga pinuno at bayan ng Israel matapos marinig ang mensahe at makita ang mga tanda?"
+        },
+        "options": {
+          "en": [
+            "They immediately sail to Canaan",
+            "They believe and bow in worship",
+            "They crown Pharaoh as their god"
+          ],
+          "fil": [
+            "Agad silang naglayag patungong Canaan",
+            "Naniwala sila at yumukod sa pagsamba",
+            "Kinoronahan nila si Faraon bilang kanilang diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people believe that God has seen their suffering and worship him (Exodus 4).",
+          "fil": "Naniwala ang bayan na nakita ng Diyos ang kanilang pagdurusa at sumamba sa kanya (Exodo 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What do Moses and Aaron ask Pharaoh to allow?",
+          "fil": "Ano ang hiniling nina Moises at Aaron na payagan ni Faraon?"
+        },
+        "options": {
+          "en": [
+            "Let Israel go to worship the Lord",
+            "Build a shrine to Baal",
+            "Give Moses Egypt's throne"
+          ],
+          "fil": [
+            "Pahintulutang umalis ang Israel upang sumamba sa Panginoon",
+            "Magtayo ng dambana ni Baal",
+            "Ibigay kay Moises ang trono ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They ask Pharaoh to release the people for worship (Exodus 5).",
+          "fil": "Hiniling nilang pahintulutan ni Faraon ang bayan na umalis upang sumamba (Exodo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Pharaoh make brickmaking harder?",
+          "fil": "Paano pinahirap ni Faraon ang paggawa ng laryo?"
+        },
+        "options": {
+          "en": [
+            "He cancels every building project",
+            "He stops supplying straw but demands the same output",
+            "He provides more workers and rest"
+          ],
+          "fil": [
+            "Kinansela niya ang lahat ng pagtatayo",
+            "Itinigil niya ang pagbibigay ng dayami ngunit pareho pa rin ang hinihinging dami",
+            "Nagdagdag siya ng manggagawa at pahinga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh increases the burden by withholding straw without reducing the quota (Exodus 5).",
+          "fil": "Dinagdagan ni Faraon ang pasanin sa hindi pagbibigay ng dayami nang hindi binabawasan ang takdang gawain (Exodo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do the Israelite foremen blame after their appeal to Pharaoh fails?",
+          "fil": "Sino ang sinisi ng mga kapatas na Israelita matapos mabigo ang kanilang paglapit kay Faraon?"
+        },
+        "options": {
+          "en": [
+            "Moses and Aaron",
+            "Abraham and Isaac",
+            "Joshua and Caleb"
+          ],
+          "fil": [
+            "Sina Moises at Aaron",
+            "Sina Abraham at Isaac",
+            "Sina Josue at Caleb"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The foremen accuse Moses and Aaron of worsening their situation (Exodus 5).",
+          "fil": "Inakusahan ng mga kapatas sina Moises at Aaron na pinalala nila ang kalagayan (Exodo 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom does Moses bring his distress about the people's worsening suffering?",
+          "fil": "Kanino dinala ni Moises ang kanyang hinagpis sa lumalalang pagdurusa ng bayan?"
+        },
+        "options": {
+          "en": [
+            "The king of Moab",
+            "The Lord",
+            "The priests of Baal"
+          ],
+          "fil": [
+            "Sa hari ng Moab",
+            "Sa Panginoon",
+            "Sa mga pari ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses turns to God with his questions about the people's suffering (Exodus 5).",
+          "fil": "Lumapit si Moises sa Diyos na may mga tanong tungkol sa pagdurusa ng bayan (Exodo 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does God promise to do about Israel's slavery?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa pagkaalipin ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Free them and take them as his people",
+            "Leave them in slavery forever",
+            "Give them to Moab's king"
+          ],
+          "fil": [
+            "Palayain sila at gawing kanyang bayan",
+            "Iwan sila sa pagkaalipin habambuhay",
+            "Ibigay sila sa hari ng Moab"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God renews his promise of deliverance and covenant relationship (Exodus 6).",
+          "fil": "Muling ipinangako ng Diyos ang pagliligtas at ugnayan sa tipan (Exodo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the Israelites struggle to listen to Moses' hopeful message?",
+          "fil": "Bakit nahirapang makinig ang mga Israelita sa mensahe ng pag-asa ni Moises?"
+        },
+        "options": {
+          "en": [
+            "They have no work to do",
+            "They already rule Egypt",
+            "They are discouraged by cruel slavery"
+          ],
+          "fil": [
+            "Wala silang gawain",
+            "Namumuno na sila sa Egipto",
+            "Pinanghinaan sila dahil sa malupit na pagkaalipin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their broken spirits and harsh labor prevent them from listening (Exodus 6).",
+          "fil": "Nahadlangan ang kanilang pakikinig ng panghihina ng loob at mabigat na paggawa (Exodo 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the genealogy establish about Moses and Aaron?",
+          "fil": "Ano ang ipinakikita ng talaan ng angkan tungkol kina Moises at Aaron?"
+        },
+        "options": {
+          "en": [
+            "Their rule over Babylon",
+            "Their place within the tribe of Levi",
+            "Their descent from Pharaoh"
+          ],
+          "fil": [
+            "Ang kanilang paghahari sa Babilonia",
+            "Ang kanilang pinagmulan sa lipi ni Levi",
+            "Ang kanilang pinagmulan kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The genealogy identifies Moses and Aaron within Levi's family (Exodus 6).",
+          "fil": "Kinilala ng talaan sina Moises at Aaron sa pamilya ni Levi (Exodo 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What happens to the other staffs after Aaron's staff becomes a snake?",
+          "fil": "Ano ang nangyari sa ibang mga tungkod matapos maging ahas ang tungkod ni Aaron?"
+        },
+        "options": {
+          "en": [
+            "They become boats",
+            "Aaron's staff swallows them",
+            "They turn into bread"
+          ],
+          "fil": [
+            "Naging mga bangka ang mga ito",
+            "Nilamon ang mga ito ng tungkod ni Aaron",
+            "Naging tinapay ang mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Aaron's staff overcomes the magicians' staffs by swallowing them (Exodus 7).",
+          "fil": "Nadaig ng tungkod ni Aaron ang mga tungkod ng mga salamangkero sa paglunok sa mga ito (Exodo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the Nile when Aaron strikes its water?",
+          "fil": "Ano ang nangyari sa Nilo nang hampasin ni Aaron ang tubig nito?"
+        },
+        "options": {
+          "en": [
+            "The river becomes a road of gold",
+            "The water turns to blood",
+            "The water becomes oil"
+          ],
+          "fil": [
+            "Naging daang ginto ang ilog",
+            "Naging dugo ang tubig",
+            "Naging langis ang tubig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Nile's water turns to blood as a sign of God's power (Exodus 7).",
+          "fil": "Naging dugo ang tubig ng Nilo bilang tanda ng kapangyarihan ng Diyos (Exodo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the changed river affect its fish?",
+          "fil": "Paano naapektuhan ng pagbabago sa ilog ang mga isda?"
+        },
+        "options": {
+          "en": [
+            "They fill Pharaoh's palace alive",
+            "They become birds",
+            "The fish die"
+          ],
+          "fil": [
+            "Napuno ng buhay na isda ang palasyo ni Faraon",
+            "Naging mga ibon ang mga ito",
+            "Namatay ang mga isda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The fish die and the river becomes foul (Exodus 7).",
+          "fil": "Namatay ang mga isda at bumaho ang ilog (Exodo 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where do the Egyptians seek drinking water after the river is struck?",
+          "fil": "Saan naghanap ng maiinom ang mga taga-Egipto matapos tamaan ang ilog?"
+        },
+        "options": {
+          "en": [
+            "By digging along the Nile",
+            "Inside golden statues",
+            "From the top of Mount Sinai"
+          ],
+          "fil": [
+            "Sa paghuhukay sa tabi ng Nilo",
+            "Sa loob ng mga gintong rebulto",
+            "Mula sa tuktok ng Bundok Sinai"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Egyptians dig near the Nile because they cannot drink its water (Exodus 7).",
+          "fil": "Naghukay ang mga taga-Egipto sa tabi ng Nilo dahil hindi nila mainom ang tubig nito (Exodo 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What animals invade Egypt's homes and cooking areas?",
+          "fil": "Anong mga hayop ang sumalakay sa mga tahanan at lutuan sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Frogs",
+            "Camels",
+            "Lions"
+          ],
+          "fil": [
+            "Mga palaka",
+            "Mga kamelyo",
+            "Mga leon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Frogs spread through Egypt's homes during the plague (Exodus 8).",
+          "fil": "Kumalat ang mga palaka sa mga tahanan sa Egipto sa panahon ng salot (Exodo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Pharaoh's willingness to release Israel once the frogs are gone?",
+          "fil": "Ano ang nangyari sa kahandaan ni Faraon na palayain ang Israel nang mawala ang mga palaka?"
+        },
+        "options": {
+          "en": [
+            "He immediately leaves Egypt with Israel",
+            "He hardens his heart again",
+            "He becomes Israel's priest"
+          ],
+          "fil": [
+            "Agad siyang umalis sa Egipto kasama ang Israel",
+            "Muli niyang pinatigas ang kanyang puso",
+            "Naging pari siya ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Relief from the frogs is followed by Pharaoh's renewed refusal (Exodus 8).",
+          "fil": "Sinundan ng muling pagtanggi ni Faraon ang ginhawa mula sa mga palaka (Exodo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the magicians admit when they cannot produce gnats?",
+          "fil": "Ano ang inamin ng mga salamangkero nang hindi sila makalikha ng mga lamok?"
+        },
+        "options": {
+          "en": [
+            "Moses has become Pharaoh",
+            "God's power is at work",
+            "No plague has occurred"
+          ],
+          "fil": [
+            "Naging Faraon si Moises",
+            "Kumikilos ang kapangyarihan ng Diyos",
+            "Walang naganap na salot"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The magicians recognize divine power when their imitation fails (Exodus 8).",
+          "fil": "Kinilala ng mga salamangkero ang kapangyarihan ng Diyos nang mabigo ang kanilang paggaya (Exodo 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which area is spared from the swarms of flies?",
+          "fil": "Anong lugar ang hindi sinalanta ng mga kuyog ng langaw?"
+        },
+        "options": {
+          "en": [
+            "Goshen, where Israel lives",
+            "All of Egypt",
+            "Pharaoh's palace alone"
+          ],
+          "fil": [
+            "Gosen, kung saan naninirahan ang Israel",
+            "Buong Egipto",
+            "Palasyo lamang ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God distinguishes Goshen from the affected parts of Egypt (Exodus 8).",
+          "fil": "Ibinukod ng Diyos ang Gosen sa mga bahaging sinalanta sa Egipto (Exodo 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Whose livestock are spared when Egypt's livestock are struck?",
+          "fil": "Kaninong mga alagang hayop ang naligtas nang salantain ang mga hayop ng Egipto?"
+        },
+        "options": {
+          "en": [
+            "Only Pharaoh's horses",
+            "The Israelites' livestock",
+            "Only Moab's goats"
+          ],
+          "fil": [
+            "Mga kabayo lamang ni Faraon",
+            "Mga alagang hayop ng mga Israelita",
+            "Mga kambing lamang ng Moab"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord distinguishes Israel's livestock from Egypt's (Exodus 9).",
+          "fil": "Ibinukod ng Panginoon ang mga alagang hayop ng Israel sa mga hayop ng Egipto (Exodo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can the magicians not stand before Moses during the plague of boils?",
+          "fil": "Bakit hindi makaharap kay Moises ang mga salamangkero sa salot ng pigsa?"
+        },
+        "options": {
+          "en": [
+            "They are covered with boils too",
+            "They have sailed to Babylon",
+            "They have become shepherds in Canaan"
+          ],
+          "fil": [
+            "Napuno rin sila ng mga pigsa",
+            "Naglayag sila sa Babilonia",
+            "Naging mga pastol sila sa Canaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The magicians suffer from the boils along with other Egyptians (Exodus 9).",
+          "fil": "Nagdusa rin ang mga salamangkero sa mga pigsa gaya ng ibang taga-Egipto (Exodo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Pharaoh's servants who heed God's warning do before the hail?",
+          "fil": "Ano ang ginawa ng mga lingkod ni Faraon na nakinig sa babala ng Diyos bago ang granizo?"
+        },
+        "options": {
+          "en": [
+            "Bring servants and livestock indoors",
+            "Leave everyone outside deliberately",
+            "Build a golden calf"
+          ],
+          "fil": [
+            "Ipinasok sa silungan ang mga alipin at alagang hayop",
+            "Sadyang iniwan ang lahat sa labas",
+            "Gumawa ng gintong guya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Those who respect the warning shelter their people and animals (Exodus 9).",
+          "fil": "Isinilong ng mga gumalang sa babala ang kanilang mga tao at hayop (Exodo 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Pharaoh do after the hail and thunder stop?",
+          "fil": "Ano ang ginawa ni Faraon matapos tumigil ang granizo at kulog?"
+        },
+        "options": {
+          "en": [
+            "He gives up Egypt's throne to Moses",
+            "He refuses again to release Israel",
+            "He joins Aaron as a priest"
+          ],
+          "fil": [
+            "Ibinigay niya kay Moises ang trono ng Egipto",
+            "Muli siyang tumangging palayain ang Israel",
+            "Sumama siya kay Aaron bilang pari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh again hardens his heart after relief comes (Exodus 9).",
+          "fil": "Muling pinatigas ni Faraon ang kanyang puso matapos dumating ang ginhawa (Exodo 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What do the locusts eat?",
+          "fil": "Ano ang kinain ng mga balang?"
+        },
+        "options": {
+          "en": [
+            "The bronze altar",
+            "The stones of Sinai",
+            "The plants left after the hail"
+          ],
+          "fil": [
+            "Ang altar na tanso",
+            "Ang mga bato ng Sinai",
+            "Ang mga halamang natira matapos ang granizo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The locusts consume what remains of Egypt's vegetation (Exodus 10).",
+          "fil": "Kinain ng mga balang ang natirang mga halaman ng Egipto (Exodo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Pharaoh remove Moses and Aaron after rejecting their demand before the locusts?",
+          "fil": "Paano pinaalis ni Faraon sina Moises at Aaron matapos tanggihan ang hiling bago ang mga balang?"
+        },
+        "options": {
+          "en": [
+            "He sends them away as Egypt's kings",
+            "He lets all Israel leave at once",
+            "He has them driven from his presence"
+          ],
+          "fil": [
+            "Pinaalis niya sila bilang mga hari ng Egipto",
+            "Pinaalis niya agad ang buong Israel",
+            "Ipinataboy niya sila mula sa kanyang harapan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Pharaoh drives them out after refusing to let the whole community go (Exodus 10).",
+          "fil": "Ipinataboy sila ni Faraon matapos tumangging paalisin ang buong pamayanan (Exodo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is different in Israel's homes during the darkness?",
+          "fil": "Ano ang naiiba sa mga tahanan ng Israel sa panahon ng kadiliman?"
+        },
+        "options": {
+          "en": [
+            "They are moved to Babylon",
+            "They turn into boats",
+            "They have light"
+          ],
+          "fil": [
+            "Inilipat ang mga ito sa Babilonia",
+            "Naging mga bangka ang mga ito",
+            "May liwanag sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel has light where it lives while darkness covers Egypt (Exodus 10).",
+          "fil": "May liwanag sa tirahan ng Israel habang nababalot ng dilim ang Egipto (Exodo 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Moses refuse to leave the livestock behind?",
+          "fil": "Bakit tumanggi si Moises na iwan ang mga alagang hayop?"
+        },
+        "options": {
+          "en": [
+            "They plan to sell every animal to Pharaoh",
+            "God has forbidden every sacrifice",
+            "They need animals to worship the Lord"
+          ],
+          "fil": [
+            "Plano nilang ipagbili kay Faraon ang bawat hayop",
+            "Ipinagbawal ng Diyos ang lahat ng paghahandog",
+            "Kailangan nila ng mga hayop sa pagsamba sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses insists the animals must go because worship will require offerings (Exodus 10).",
+          "fil": "Iginiit ni Moises na dapat isama ang mga hayop dahil kailangan ng mga handog sa pagsamba (Exodo 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What final plague does Moses announce?",
+          "fil": "Anong huling salot ang ipinahayag ni Moises?"
+        },
+        "options": {
+          "en": [
+            "A return of the frogs only",
+            "A flood covering Sinai",
+            "Death of Egypt's firstborn"
+          ],
+          "fil": [
+            "Pagbabalik lamang ng mga palaka",
+            "Bahang sasaklaw sa Sinai",
+            "Pagkamatay ng mga panganay ng Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses announces judgment on the firstborn in Egypt (Exodus 11).",
+          "fil": "Ipinahayag ni Moises ang hatol sa mga panganay sa Egipto (Exodo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What valuables are the Israelites told to request from their neighbors?",
+          "fil": "Anong mahahalagang bagay ang ipinahingi sa mga Israelita sa kanilang mga kapitbahay?"
+        },
+        "options": {
+          "en": [
+            "Royal thrones",
+            "Stone idols",
+            "Silver and gold articles"
+          ],
+          "fil": [
+            "Mga trono ng hari",
+            "Mga diyus-diyosang bato",
+            "Mga bagay na pilak at ginto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God directs the people to ask their neighbors for silver and gold (Exodus 11).",
+          "fil": "Inutusan ng Diyos ang bayan na humingi sa mga kapitbahay ng pilak at ginto (Exodo 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses say Pharaoh's officials will eventually urge?",
+          "fil": "Ano ang sinabi ni Moises na sa huli ay hihilingin ng mga opisyal ni Faraon?"
+        },
+        "options": {
+          "en": [
+            "That Moses and all his people leave",
+            "That Moses worship Pharaoh",
+            "That Israel build another city first"
+          ],
+          "fil": [
+            "Na umalis si Moises at ang buo niyang bayan",
+            "Na sambahin ni Moises si Faraon",
+            "Na magtayo muna ng isa pang lungsod ang Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses predicts that Pharaoh's officials will plead for Israel's departure (Exodus 11).",
+          "fil": "Ipinahayag ni Moises na makikiusap ang mga opisyal ni Faraon na umalis ang Israel (Exodo 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What sign marks the homes protected during the final plague?",
+          "fil": "Anong tanda ang nasa mga tahanang pinangalagaan sa huling salot?"
+        },
+        "options": {
+          "en": [
+            "A royal crown on the roof",
+            "Blood on the doorframe",
+            "A statue of Pharaoh"
+          ],
+          "fil": [
+            "Korona ng hari sa bubong",
+            "Dugo sa hamba ng pinto",
+            "Rebulto ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The blood marks the homes spared during the Passover judgment (Exodus 12).",
+          "fil": "Tanda ng mga tahanang iniligtas sa hatol ng Paskuwa ang dugo (Exodo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Israel leave with dough that has not risen?",
+          "fil": "Bakit umalis ang Israel na may masang hindi pa umaalsa?"
+        },
+        "options": {
+          "en": [
+            "They have no grain at all",
+            "They are urged to leave in haste",
+            "They are preparing a royal wedding"
+          ],
+          "fil": [
+            "Wala silang anumang butil",
+            "Minadali silang umalis",
+            "Naghahanda sila ng kasal ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The urgent departure leaves no time for the dough to rise (Exodus 12).",
+          "fil": "Walang panahon upang umalsa ang masa dahil sa agarang pag-alis (Exodo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should parents explain when children ask about the Passover observance?",
+          "fil": "Ano ang dapat ipaliwanag ng mga magulang kapag nagtanong ang mga bata tungkol sa Paskuwa?"
+        },
+        "options": {
+          "en": [
+            "How Israel built the tower of Babel",
+            "How Pharaoh created the world",
+            "How God spared Israel's homes in Egypt"
+          ],
+          "fil": [
+            "Kung paano itinayo ng Israel ang tore ng Babel",
+            "Kung paano nilikha ni Faraon ang mundo",
+            "Kung paano iniligtas ng Diyos ang mga tahanan ng Israel sa Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The observance teaches children about God's protection and rescue (Exodus 12).",
+          "fil": "Itinuturo ng pagdiriwang sa mga bata ang pangangalaga at pagliligtas ng Diyos (Exodo 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the Egyptians react after the death of the firstborn?",
+          "fil": "Paano tumugon ang mga taga-Egipto matapos mamatay ang mga panganay?"
+        },
+        "options": {
+          "en": [
+            "They urge Israel to leave quickly",
+            "They ask Israel to crown Pharaoh again",
+            "They demand more storage cities first"
+          ],
+          "fil": [
+            "Hinimok nilang umalis agad ang Israel",
+            "Hiniling nilang muling koronahan ng Israel si Faraon",
+            "Humingi muna sila ng mas maraming lungsod na imbakan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Egyptians press the Israelites to depart after the devastating plague (Exodus 12).",
+          "fil": "Minadali ng mga taga-Egipto ang pag-alis ng Israel matapos ang mapaminsalang salot (Exodo 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does dedicating the firstborn help Israel remember?",
+          "fil": "Ano ang ipinapaalala sa Israel ng pagtatalaga ng mga panganay?"
+        },
+        "options": {
+          "en": [
+            "The victories of Pharaoh",
+            "God's rescue from Egypt",
+            "The founding of Babylon"
+          ],
+          "fil": [
+            "Ang mga tagumpay ni Faraon",
+            "Ang pagliligtas ng Diyos mula sa Egipto",
+            "Ang pagtatatag ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The firstborn instructions are tied to Israel's deliverance (Exodus 13).",
+          "fil": "Kaugnay ng pagliligtas sa Israel ang mga tagubilin tungkol sa mga panganay (Exodo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God avoid the shorter route through Philistine territory?",
+          "fil": "Bakit iniwasan ng Diyos ang mas maikling daan sa lupain ng mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "There is no sea anywhere nearby",
+            "War might make the people turn back to Egypt",
+            "Pharaoh has already joined Israel"
+          ],
+          "fil": [
+            "Walang dagat saanman sa malapit",
+            "Maaaring magpabalik sa bayan sa Egipto ang digmaan",
+            "Sumama na si Faraon sa Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God leads by another route to keep fear of war from sending Israel back (Exodus 13).",
+          "fil": "Sa ibang daan inakay ng Diyos ang Israel upang hindi ito ibalik sa Egipto ng takot sa digmaan (Exodo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose bones does Moses take out of Egypt?",
+          "fil": "Kaninong mga buto ang dinala ni Moises palabas ng Egipto?"
+        },
+        "options": {
+          "en": [
+            "Joseph's",
+            "Aaron's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Kay Jose",
+            "Kay Aaron",
+            "Kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses honors Joseph's request by taking his bones with them (Exodus 13).",
+          "fil": "Tinupad ni Moises ang hiling ni Jose sa pagdadala ng mga buto nito (Exodo 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God guide the people by day and night?",
+          "fil": "Paano ginabayan ng Diyos ang bayan sa araw at gabi?"
+        },
+        "options": {
+          "en": [
+            "With an Egyptian royal banner",
+            "With a golden calf",
+            "With a pillar of cloud and a pillar of fire"
+          ],
+          "fil": [
+            "Sa pamamagitan ng watawat ng hari ng Egipto",
+            "Sa pamamagitan ng gintong guya",
+            "Sa pamamagitan ng haliging ulap at haliging apoy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's cloud and fire guide Israel on the journey (Exodus 13).",
+          "fil": "Ginabayan ng ulap at apoy ng Diyos ang Israel sa paglalakbay (Exodo 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Who pursues Israel as it camps near the sea?",
+          "fil": "Sino ang humabol sa Israel nang magkampo ito malapit sa dagat?"
+        },
+        "options": {
+          "en": [
+            "Joshua and Caleb",
+            "Pharaoh and his army",
+            "The people of Nineveh"
+          ],
+          "fil": [
+            "Sina Josue at Caleb",
+            "Si Faraon at ang kanyang hukbo",
+            "Ang mga taga-Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh pursues Israel with his chariots and troops (Exodus 14).",
+          "fil": "Hinabol ni Faraon ang Israel kasama ang kanyang mga karwahe at kawal (Exodo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the cloud protect Israel before the crossing?",
+          "fil": "Paano pinangalagaan ng ulap ang Israel bago ang pagtawid?"
+        },
+        "options": {
+          "en": [
+            "It carries Egypt to Babylon",
+            "It moves between Israel and the Egyptian army",
+            "It becomes Pharaoh's throne"
+          ],
+          "fil": [
+            "Dinala nito ang Egipto sa Babilonia",
+            "Lumipat ito sa pagitan ng Israel at hukbo ng Egipto",
+            "Naging trono ito ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cloud separates Israel's camp from its pursuers (Exodus 14).",
+          "fil": "Inihiwalay ng ulap ang kampo ng Israel sa mga humahabol dito (Exodo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What path does God open through the sea?",
+          "fil": "Anong daan ang binuksan ng Diyos sa dagat?"
+        },
+        "options": {
+          "en": [
+            "A bridge made by Pharaoh",
+            "A tunnel through Mount Sinai",
+            "Dry ground between divided waters"
+          ],
+          "fil": [
+            "Tulay na ginawa ni Faraon",
+            "Lagusan sa ilalim ng Bundok Sinai",
+            "Tuyong lupa sa pagitan ng nahating tubig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God opens a dry passage through the sea for Israel (Exodus 14).",
+          "fil": "Nagbukas ang Diyos ng tuyong daan sa dagat para sa Israel (Exodo 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the pursuing Egyptian army when the waters return?",
+          "fil": "Ano ang nangyari sa humahabol na hukbo ng Egipto nang bumalik ang tubig?"
+        },
+        "options": {
+          "en": [
+            "The soldiers become Israel's priests",
+            "The army captures Israel",
+            "The sea covers the army"
+          ],
+          "fil": [
+            "Naging mga pari ng Israel ang mga kawal",
+            "Nabihag ng hukbo ang Israel",
+            "Natabunan ng dagat ang hukbo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The returning waters overwhelm the Egyptians who pursue Israel (Exodus 14).",
+          "fil": "Nilamon ng bumalik na tubig ang mga taga-Egiptong humabol sa Israel (Exodo 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What rescue does the people's song celebrate?",
+          "fil": "Anong pagliligtas ang ipinagdiwang ng awit ng bayan?"
+        },
+        "options": {
+          "en": [
+            "The conquest of Jericho",
+            "The defeat of Babylon",
+            "God's victory over the pursuing army at the sea"
+          ],
+          "fil": [
+            "Ang pagsakop sa Jerico",
+            "Ang pagkatalo ng Babilonia",
+            "Ang tagumpay ng Diyos laban sa humahabol na hukbo sa dagat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song celebrates the Lord's deliverance at the sea (Exodus 15).",
+          "fil": "Ipinagdiwang ng awit ang pagliligtas ng Panginoon sa dagat (Exodo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who leads the women with tambourines and dancing?",
+          "fil": "Sino ang nanguna sa mga babae sa pagtugtog ng tamburin at pagsayaw?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's daughter",
+            "Miriam",
+            "Zipporah"
+          ],
+          "fil": [
+            "Ang anak ni Faraon",
+            "Si Miriam",
+            "Si Zipora"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Miriam leads the women in celebrating God's victory (Exodus 15).",
+          "fil": "Pinangunahan ni Miriam ang mga babae sa pagdiriwang ng tagumpay ng Diyos (Exodo 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future hope does the song express for God's rescued people?",
+          "fil": "Anong pag-asa sa hinaharap ang ipinahayag ng awit para sa iniligtas na bayan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They will forget the Lord forever",
+            "They will willingly return to slavery",
+            "God will bring them to the place of his dwelling"
+          ],
+          "fil": [
+            "Kalilimutan nila ang Panginoon habambuhay",
+            "Kusa silang babalik sa pagkaalipin",
+            "Dadalhin sila ng Diyos sa lugar ng kanyang tahanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song looks ahead to God settling his people in his appointed place (Exodus 15).",
+          "fil": "Inaasahan ng awit ang pagtira ng bayan sa lugar na itinakda ng Diyos (Exodo 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What appears on the ground after the morning dew?",
+          "fil": "Ano ang lumitaw sa lupa matapos ang hamog sa umaga?"
+        },
+        "options": {
+          "en": [
+            "Egyptian weapons",
+            "Golden coins",
+            "Manna"
+          ],
+          "fil": [
+            "Mga sandata ng Egipto",
+            "Mga gintong barya",
+            "Manna"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God provides manna as food in the wilderness (Exodus 16).",
+          "fil": "Naglaan ang Diyos ng manna bilang pagkain sa ilang (Exodo 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What birds arrive in the evening for food?",
+          "fil": "Anong mga ibon ang dumating sa gabi bilang pagkain?"
+        },
+        "options": {
+          "en": [
+            "Quail",
+            "Eagles",
+            "Ravens"
+          ],
+          "fil": [
+            "Mga pugo",
+            "Mga agila",
+            "Mga uwak"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Quail cover the camp in the evening (Exodus 16).",
+          "fil": "Napuno ng mga pugo ang kampo sa gabi (Exodo 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the people gather extra manna before the Sabbath?",
+          "fil": "Bakit nag-ipon ng dagdag na manna ang bayan bago ang Araw ng Pamamahinga?"
+        },
+        "options": {
+          "en": [
+            "So they can sell it to Pharaoh",
+            "So they can rest instead of gathering that day",
+            "So they can build a tower"
+          ],
+          "fil": [
+            "Upang maipagbili ito kay Faraon",
+            "Upang makapagpahinga sa halip na mangalap sa araw na iyon",
+            "Upang makagawa sila ng tore"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The extra provision prepares Israel for Sabbath rest (Exodus 16).",
+          "fil": "Inihanda ng dagdag na pagkain ang Israel para sa Araw ng Pamamahinga (Exodo 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is a portion of manna preserved for later generations?",
+          "fil": "Bakit iningatan ang isang bahagi ng manna para sa mga susunod na henerasyon?"
+        },
+        "options": {
+          "en": [
+            "To crown a new king",
+            "To replace the covenant",
+            "To show how God fed Israel in the wilderness"
+          ],
+          "fil": [
+            "Upang magluklok ng bagong hari",
+            "Upang palitan ang tipan",
+            "Upang ipakita kung paano pinakain ng Diyos ang Israel sa ilang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The preserved manna is a reminder of God's provision (Exodus 16).",
+          "fil": "Paalaala ng pagkakaloob ng Diyos ang iningatang manna (Exodo 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What does God tell Moses to strike at Horeb to provide water?",
+          "fil": "Ano ang ipinahampas ng Diyos kay Moises sa Horeb upang magkaroon ng tubig?"
+        },
+        "options": {
+          "en": [
+            "A rock",
+            "The ark",
+            "Pharaoh's throne"
+          ],
+          "fil": [
+            "Isang bato",
+            "Ang kaban",
+            "Ang trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Water comes from the rock Moses strikes as instructed (Exodus 17).",
+          "fil": "Lumabas ang tubig sa batong hinampas ni Moises ayon sa tagubilin (Exodo 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who leads Israel's fighters against Amalek?",
+          "fil": "Sino ang nanguna sa mga mandirigma ng Israel laban sa Amalec?"
+        },
+        "options": {
+          "en": [
+            "Joshua",
+            "Jethro",
+            "Aaron"
+          ],
+          "fil": [
+            "Si Josue",
+            "Si Jetro",
+            "Si Aaron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua leads the battle while Moses stands on the hill (Exodus 17).",
+          "fil": "Pinangunahan ni Josue ang labanan habang nasa burol si Moises (Exodo 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Aaron and Hur help Moses during the battle?",
+          "fil": "Paano tinulungan nina Aaron at Hur si Moises sa labanan?"
+        },
+        "options": {
+          "en": [
+            "They support his raised hands",
+            "They hide his staff in the sea",
+            "They carry him back to Egypt"
+          ],
+          "fil": [
+            "Inalalayan nila ang kanyang nakataas na mga kamay",
+            "Itinago nila sa dagat ang kanyang tungkod",
+            "Dinala nila siya pabalik sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron and Hur keep Moses' hands steady until the battle is won (Exodus 17).",
+          "fil": "Pinanatiling matatag nina Aaron at Hur ang mga kamay ni Moises hanggang magwagi sa labanan (Exodo 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the altar Moses builds after the victory honor?",
+          "fil": "Ano ang pinararangalan ng altar na itinayo ni Moises matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh as Israel's rescuer",
+            "The Lord as Israel's banner",
+            "Joshua as a new god"
+          ],
+          "fil": [
+            "Si Faraon bilang tagapagligtas ng Israel",
+            "Ang Panginoon bilang watawat ng Israel",
+            "Si Josue bilang bagong diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses names the altar to acknowledge the Lord as his banner (Exodus 17).",
+          "fil": "Pinangalanan ni Moises ang altar upang kilalanin ang Panginoon bilang kanyang watawat (Exodo 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Who visits Moses with his wife and sons?",
+          "fil": "Sino ang dumalaw kay Moises kasama ang kanyang asawa at mga anak?"
+        },
+        "options": {
+          "en": [
+            "Balak, king of Moab",
+            "Pharaoh, his former ruler",
+            "Jethro, his father-in-law"
+          ],
+          "fil": [
+            "Si Balac na hari ng Moab",
+            "Si Faraon na dating pinuno niya",
+            "Si Jetro na kanyang biyenang lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jethro brings Moses' family to him in the wilderness (Exodus 18).",
+          "fil": "Dinala ni Jetro kay Moises ang pamilya nito sa ilang (Exodo 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What burden does Jethro notice in Moses' daily work?",
+          "fil": "Anong pasanin ang napansin ni Jetro sa araw-araw na gawain ni Moises?"
+        },
+        "options": {
+          "en": [
+            "He hears the people's disputes alone all day",
+            "He rules all foreign kingdoms",
+            "He builds every house in Egypt"
+          ],
+          "fil": [
+            "Mag-isa niyang dinidinig ang mga usapin ng bayan buong araw",
+            "Pinamumunuan niya ang lahat ng dayuhang kaharian",
+            "Siya ang gumagawa ng bawat bahay sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jethro sees that handling every case alone exhausts Moses and the people (Exodus 18).",
+          "fil": "Nakita ni Jetro na nakapapagod kay Moises at sa bayan ang mag-isang pagdinig sa bawat usapin (Exodo 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What qualities should the men chosen to help Moses have?",
+          "fil": "Anong mga katangian ang dapat taglay ng mga pipiliing tutulong kay Moises?"
+        },
+        "options": {
+          "en": [
+            "Capability, reverence for God, and honesty",
+            "Loyalty to Egypt's idols",
+            "Love of bribes and power"
+          ],
+          "fil": [
+            "Kakayahan, paggalang sa Diyos, at katapatan",
+            "Katapatan sa mga diyus-diyosan ng Egipto",
+            "Pagmamahal sa suhol at kapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jethro recommends trustworthy men who reject dishonest gain (Exodus 18).",
+          "fil": "Iminungkahi ni Jetro ang mga mapagkakatiwalaang lalaking tumatanggi sa di-tapat na pakinabang (Exodo 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which cases should still be brought to Moses?",
+          "fil": "Anong mga usapin ang dapat pa ring dalhin kay Moises?"
+        },
+        "options": {
+          "en": [
+            "The difficult cases",
+            "Only disputes about Egyptian crowns",
+            "Every minor disagreement only"
+          ],
+          "fil": [
+            "Ang mahihirap na usapin",
+            "Mga usapin lamang tungkol sa mga korona ng Egipto",
+            "Bawat maliit na hindi pagkakasundo lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The appointed leaders handle ordinary cases and bring difficult ones to Moses (Exodus 18).",
+          "fil": "Dinidinig ng mga itinalagang pinuno ang karaniwang usapin at dinadala kay Moises ang mahihirap (Exodo 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "At what mountain does Israel camp for the covenant encounter?",
+          "fil": "Sa anong bundok nagkampo ang Israel para sa pakikipagtipan?"
+        },
+        "options": {
+          "en": [
+            "Nebo",
+            "Sinai",
+            "Carmel"
+          ],
+          "fil": [
+            "Nebo",
+            "Sinai",
+            "Carmel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel camps at Sinai, where God calls Moses to the mountain (Exodus 19).",
+          "fil": "Nagkampo ang Israel sa Sinai kung saan tinawag ng Diyos si Moises sa bundok (Exodo 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What special calling does God hold out to Israel if they keep his covenant?",
+          "fil": "Anong natatanging tawag ang ibinigay ng Diyos sa Israel kung tutuparin nila ang kanyang tipan?"
+        },
+        "options": {
+          "en": [
+            "A nation serving Pharaoh forever",
+            "A people free to worship every idol",
+            "A holy nation serving him as a kingdom of priests"
+          ],
+          "fil": [
+            "Bansang maglilingkod kay Faraon habambuhay",
+            "Bayang malayang sasamba sa bawat diyus-diyosan",
+            "Banal na bansang maglilingkod sa kanya bilang kaharian ng mga pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls Israel to a holy and priestly identity among the nations (Exodus 19).",
+          "fil": "Tinawag ng Diyos ang Israel sa banal na pagkakakilanlan at paglilingkod bilang mga pari sa mga bansa (Exodo 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are boundaries placed around the mountain?",
+          "fil": "Bakit nilagyan ng hangganan ang palibot ng bundok?"
+        },
+        "options": {
+          "en": [
+            "To keep the people from approaching God's holy presence carelessly",
+            "To reserve it for idol makers",
+            "To hide Pharaoh's treasure"
+          ],
+          "fil": [
+            "Upang hindi basta lumapit ang bayan sa banal na presensya ng Diyos",
+            "Upang ilaan ito sa mga gumagawa ng diyus-diyosan",
+            "Upang itago ang kayamanan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The boundaries warn the people to respect God's holiness (Exodus 19).",
+          "fil": "Nagbabala ang mga hangganan na igalang ng bayan ang kabanalan ng Diyos (Exodo 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What signs accompany God's descent on Sinai?",
+          "fil": "Anong mga tanda ang kasabay ng pagbaba ng Diyos sa Sinai?"
+        },
+        "options": {
+          "en": [
+            "A royal parade from Moab",
+            "Gentle music from Pharaoh's palace",
+            "Thunder, smoke, fire, and a trumpet sound"
+          ],
+          "fil": [
+            "Parada ng hari mula sa Moab",
+            "Mahinang musika mula sa palasyo ni Faraon",
+            "Kulog, usok, apoy, at tunog ng trumpeta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The mountain's dramatic signs mark God's awesome presence (Exodus 19).",
+          "fil": "Tanda ng nakapangyayarihang presensya ng Diyos ang mga kamangha-manghang pangyayari sa bundok (Exodo 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What loyalty is required at the beginning of the commandments?",
+          "fil": "Anong katapatan ang hinihingi sa simula ng mga utos?"
+        },
+        "options": {
+          "en": [
+            "Worship Pharaoh alongside the Lord",
+            "Worship the Lord without other gods",
+            "Choose any idol as Israel's rescuer"
+          ],
+          "fil": [
+            "Sambahin si Faraon kasabay ng Panginoon",
+            "Sambahin ang Panginoon nang walang ibang diyos",
+            "Pumili ng anumang diyus-diyosan bilang tagapagligtas ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The commandments begin with exclusive loyalty to the God who rescued Israel (Exodus 20).",
+          "fil": "Nagsisimula ang mga utos sa katapatan sa Diyos lamang na nagligtas sa Israel (Exodo 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Sabbath command provide for households and their workers?",
+          "fil": "Ano ang inilalaan ng utos sa Araw ng Pamamahinga para sa sambahayan at mga manggagawa?"
+        },
+        "options": {
+          "en": [
+            "A day of rest",
+            "Extra forced labor",
+            "A day to serve idols"
+          ],
+          "fil": [
+            "Araw ng pagpapahinga",
+            "Dagdag na sapilitang paggawa",
+            "Araw ng paglilingkod sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Sabbath command extends rest to the household and those who work for it (Exodus 20).",
+          "fil": "Ibinibigay ng utos sa Araw ng Pamamahinga ang pahinga sa sambahayan at mga nagtatrabaho para rito (Exodo 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the commands against killing, stealing, and false testimony protect?",
+          "fil": "Ano ang pinangangalagaan ng mga utos laban sa pagpatay, pagnanakaw, at maling pagsaksi?"
+        },
+        "options": {
+          "en": [
+            "The right to mistreat weaker people",
+            "Pharaoh's claim to own Israel",
+            "The life and well-being of one's neighbors"
+          ],
+          "fil": [
+            "Ang karapatang abusuhin ang mas mahina",
+            "Ang pag-aangkin ni Faraon sa Israel",
+            "Ang buhay at kapakanan ng kapwa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "These commandments protect people from harm and dishonesty (Exodus 20).",
+          "fil": "Pinangangalagaan ng mga utos na ito ang mga tao laban sa pananakit at pandaraya (Exodo 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "How does the chapter distinguish different cases of causing death?",
+          "fil": "Paano pinag-iba ng kabanata ang mga kaso ng pagdudulot ng kamatayan?"
+        },
+        "options": {
+          "en": [
+            "Every death is treated as harmless",
+            "Intentional killing differs from an unintended death",
+            "Only the victim's wealth matters"
+          ],
+          "fil": [
+            "Itinuturing na walang masamang bunga ang bawat pagkamatay",
+            "Iba ang sadyang pagpatay sa di-sinasadyang pagkamatay",
+            "Kayamanan lamang ng biktima ang mahalaga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The laws distinguish deliberate violence from death without premeditation (Exodus 21).",
+          "fil": "Pinag-iba ng mga batas ang sadyang karahasan at pagkamatay na walang paunang balak (Exodo 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility follows injuring someone who later recovers?",
+          "fil": "Anong pananagutan ang kasunod ng pananakit sa taong gumaling pagkaraan?"
+        },
+        "options": {
+          "en": [
+            "Receive a reward for the injury",
+            "Demand payment from the injured person",
+            "Pay for lost time and recovery"
+          ],
+          "fil": [
+            "Tumanggap ng gantimpala sa pananakit",
+            "Humingi ng bayad sa nasaktan",
+            "Bayaran ang nawalang panahon at pagpapagaling"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The offender bears responsibility for the injured person's lost work and healing (Exodus 21).",
+          "fil": "Pananagutan ng nanakit ang nawalang trabaho at pagpapagaling ng nasaktan (Exodo 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the law about a known dangerous ox emphasize?",
+          "fil": "Ano ang binigyang-diin ng batas tungkol sa bakang alam nang mapanganib?"
+        },
+        "options": {
+          "en": [
+            "Owners are accountable if they fail to restrain it",
+            "Only the victim can ever be blamed",
+            "Owners may ignore repeated warnings"
+          ],
+          "fil": [
+            "May pananagutan ang may-ari kapag hindi niya ito napigilan",
+            "Biktima lamang ang laging maaaring sisihin",
+            "Maaaring balewalain ng may-ari ang paulit-ulit na babala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "An owner who ignores a known danger can be held responsible for the harm (Exodus 21).",
+          "fil": "Maaaring panagutin sa pinsala ang may-aring bumabalewala sa alam nang panganib (Exodo 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What response to theft is emphasized in the property laws?",
+          "fil": "Anong pagtugon sa pagnanakaw ang binigyang-diin sa mga batas sa ari-arian?"
+        },
+        "options": {
+          "en": [
+            "The thief receives the owner's land",
+            "The victim must reward the thief",
+            "The thief must make restitution"
+          ],
+          "fil": [
+            "Mapupunta sa magnanakaw ang lupa ng may-ari",
+            "Kailangang gantimpalaan ng biktima ang magnanakaw",
+            "Kailangang magbayad ang magnanakaw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The property laws require repayment for stolen goods (Exodus 22).",
+          "fil": "Hinihingi ng mga batas sa ari-arian ang pagbabayad sa ninakaw (Exodo 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is responsible when a fire spreads and destroys another person's crop?",
+          "fil": "Sino ang may pananagutan kapag kumalat ang apoy at nasira ang ani ng iba?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh in every case",
+            "The poorest neighbor automatically",
+            "The person who started the fire"
+          ],
+          "fil": [
+            "Si Faraon sa lahat ng kaso",
+            "Awtomatikong ang pinakamahirap na kapitbahay",
+            "Ang taong nagsimula ng apoy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The person who starts a damaging fire must make restitution (Exodus 22).",
+          "fil": "Kailangang magbayad ang nagsimula ng apoy na nakapinsala (Exodo 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What concern is addressed by the laws about goods left with a neighbor?",
+          "fil": "Anong usapin ang tinutugunan ng mga batas tungkol sa mga bagay na inihabilin sa kapitbahay?"
+        },
+        "options": {
+          "en": [
+            "How to build a new temple",
+            "How to crown a king",
+            "Responsibility for entrusted property"
+          ],
+          "fil": [
+            "Kung paano magtayo ng bagong templo",
+            "Kung paano magluklok ng hari",
+            "Pananagutan sa ipinagkatiwalang ari-arian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter sets out accountability when entrusted goods are lost or disputed (Exodus 22).",
+          "fil": "Itinakda ng kabanata ang pananagutan kapag nawala o pinagtalunan ang inihabiling bagay (Exodo 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "How should a person treat a false report?",
+          "fil": "Paano dapat tratuhin ng isang tao ang maling ulat?"
+        },
+        "options": {
+          "en": [
+            "Repeat it to gain influence",
+            "Use it to harm an enemy",
+            "Refuse to spread it"
+          ],
+          "fil": [
+            "Ulitin ito upang magkaroon ng impluwensiya",
+            "Gamitin ito upang saktan ang kaaway",
+            "Tumangging ipakalat ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The justice instructions forbid spreading false reports (Exodus 23).",
+          "fil": "Ipinagbabawal ng mga tagubilin sa katarungan ang pagpapakalat ng maling ulat (Exodo 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must judges reject bribes?",
+          "fil": "Bakit kailangang tanggihan ng mga hukom ang suhol?"
+        },
+        "options": {
+          "en": [
+            "God requires payment for favorable verdicts",
+            "Bribes make every witness truthful",
+            "Bribes distort judgment and justice"
+          ],
+          "fil": [
+            "Hinihingi ng Diyos ang bayad para sa paborableng hatol",
+            "Ginagawang tapat ng suhol ang bawat saksi",
+            "Binabaluktot ng suhol ang paghatol at katarungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter warns that bribes corrupt fair judgment (Exodus 23).",
+          "fil": "Nagbabala ang kabanata na sinisira ng suhol ang makatarungang paghatol (Exodo 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should someone do on finding an enemy's lost animal?",
+          "fil": "Ano ang dapat gawin kapag nakita ang nawawalang hayop ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "Keep it as revenge",
+            "Return it to its owner",
+            "Sell it secretly"
+          ],
+          "fil": [
+            "Angkinin ito bilang paghihiganti",
+            "Ibalik ito sa may-ari",
+            "Ipagbili ito nang palihim"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Fair treatment extends even to returning an enemy's wandering animal (Exodus 23).",
+          "fil": "Kasama sa makatarungang pakikitungo ang pagbabalik maging ng naliligaw na hayop ng kaaway (Exodo 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "How do the people respond when Moses reports God's commands?",
+          "fil": "Paano tumugon ang bayan nang ipahayag ni Moises ang mga utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They commit themselves to obey",
+            "They choose Egypt's gods",
+            "They ask Pharaoh to rewrite the law"
+          ],
+          "fil": [
+            "Nangako silang sumunod",
+            "Pinili nila ang mga diyos ng Egipto",
+            "Hiniling nila kay Faraon na baguhin ang kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people affirm their willingness to keep the covenant (Exodus 24).",
+          "fil": "Pinagtibay ng bayan ang kahandaang tuparin ang tipan (Exodo 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses use to confirm the covenant with the people?",
+          "fil": "Ano ang ginamit ni Moises upang pagtibayin ang tipan sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Blood from the sacrifices",
+            "Gold from a royal crown",
+            "Water from Babylon"
+          ],
+          "fil": [
+            "Dugo mula sa mga handog",
+            "Ginto mula sa korona ng hari",
+            "Tubig mula sa Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sacrificial blood marks the covenant's confirmation (Exodus 24).",
+          "fil": "Tanda ng pagpapatibay ng tipan ang dugo ng mga handog (Exodo 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Israel's leaders do after seeing God without being struck down?",
+          "fil": "Ano ang ginawa ng mga pinuno ng Israel matapos makita ang Diyos nang hindi napahamak?"
+        },
+        "options": {
+          "en": [
+            "They eat and drink",
+            "They return to Pharaoh's court",
+            "They build an idol"
+          ],
+          "fil": [
+            "Kumain at uminom sila",
+            "Bumalik sila sa korte ni Faraon",
+            "Gumawa sila ng diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The leaders share a meal in connection with the covenant encounter (Exodus 24).",
+          "fil": "Nagsalo sa pagkain ang mga pinuno kaugnay ng pakikipagtipan (Exodo 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who accompanies Moses as he sets out toward the mountain?",
+          "fil": "Sino ang kasama ni Moises nang magtungo siya sa bundok?"
+        },
+        "options": {
+          "en": [
+            "Balak",
+            "Pharaoh",
+            "Joshua"
+          ],
+          "fil": [
+            "Si Balac",
+            "Si Faraon",
+            "Si Josue"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses sets out with Joshua before entering the cloud on the mountain (Exodus 24).",
+          "fil": "Lumakad si Moises kasama si Josue bago pumasok sa ulap sa bundok (Exodo 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What is the purpose of the sanctuary God asks Israel to make?",
+          "fil": "Ano ang layunin ng santuwaryong ipinagawa ng Diyos sa Israel?"
+        },
+        "options": {
+          "en": [
+            "For God to dwell among his people",
+            "For Israel to worship the stars",
+            "For Pharaoh to store his wealth"
+          ],
+          "fil": [
+            "Upang manahan ang Diyos sa gitna ng kanyang bayan",
+            "Upang sambahin ng Israel ang mga bituin",
+            "Upang itago ni Faraon ang kanyang kayamanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God calls for a sanctuary as his dwelling among Israel (Exodus 25).",
+          "fil": "Ipinagawa ng Diyos ang santuwaryo bilang kanyang tahanan sa gitna ng Israel (Exodo 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "From whom should the materials for the sanctuary be received?",
+          "fil": "Kanino dapat tanggapin ang mga materyales para sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Only foreign kings",
+            "Those willing to give",
+            "Only unwilling prisoners"
+          ],
+          "fil": [
+            "Sa mga dayuhang hari lamang",
+            "Sa mga handang magbigay",
+            "Sa mga bilanggong ayaw magbigay lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The contribution is requested from willing hearts (Exodus 25).",
+          "fil": "Hiniling ang ambag mula sa mga pusong handang magbigay (Exodo 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is to be placed inside the ark?",
+          "fil": "Ano ang ilalagay sa loob ng kaban?"
+        },
+        "options": {
+          "en": [
+            "Weapons captured from Moab",
+            "The covenant testimony God gives Moses",
+            "A statue of Pharaoh"
+          ],
+          "fil": [
+            "Mga sandatang nasamsam sa Moab",
+            "Ang mga tuntunin ng tipan na ibibigay ng Diyos kay Moises",
+            "Rebulto ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ark holds the testimony entrusted by God (Exodus 25).",
+          "fil": "Iniingatan sa kaban ang mga tuntunin ng tipan na ipinagkatiwala ng Diyos (Exodo 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What is the main building project described here?",
+          "fil": "Anong pangunahing pagtatayo ang inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "A tower in Babylon",
+            "A palace for Moses",
+            "The tabernacle with its coverings and framework"
+          ],
+          "fil": [
+            "Tore sa Babilonia",
+            "Palasyo para kay Moises",
+            "Ang tabernakulo na may mga takip at balangkas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Exodus 26 describes the structure of the tabernacle.",
+          "fil": "Inilarawan sa Exodo 26 ang kayarian ng tabernakulo."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the inner curtain separate?",
+          "fil": "Ano ang pinaghihiwalay ng panloob na tabing?"
+        },
+        "options": {
+          "en": [
+            "Two royal bedrooms",
+            "The holy place and the most holy place",
+            "Egypt and Canaan"
+          ],
+          "fil": [
+            "Dalawang silid-tulugan ng hari",
+            "Ang banal na lugar at ang kabanal-banalang lugar",
+            "Ang Egipto at Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The curtain marks the division between the sanctuary's holy spaces (Exodus 26).",
+          "fil": "Tanda ang tabing ng paghihiwalay ng mga banal na bahagi ng santuwaryo (Exodo 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is the ark placed in relation to that curtain?",
+          "fil": "Saan inilalagay ang kaban kaugnay ng tabing na iyon?"
+        },
+        "options": {
+          "en": [
+            "Outside the camp",
+            "Inside Pharaoh's palace",
+            "Behind it in the most holy place"
+          ],
+          "fil": [
+            "Sa labas ng kampo",
+            "Sa loob ng palasyo ni Faraon",
+            "Sa likod nito sa kabanal-banalang lugar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ark belongs in the inner, most holy space (Exodus 26).",
+          "fil": "Nasa pinakaloob na kabanal-banalang lugar ang kaban (Exodo 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "For what worship activity is the bronze altar intended?",
+          "fil": "Para sa anong gawain sa pagsamba ang altar na tanso?"
+        },
+        "options": {
+          "en": [
+            "Burnt offerings",
+            "Storing Egyptian idols",
+            "Crowning a king"
+          ],
+          "fil": [
+            "Mga handog na sinusunog nang buo",
+            "Pag-iimbak ng mga diyus-diyosan ng Egipto",
+            "Pagluklok ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The bronze altar is provided for sacrificial worship (Exodus 27).",
+          "fil": "Inilaan ang altar na tanso para sa pagsambang may paghahandog (Exodo 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What surrounds the tabernacle area in the instructions?",
+          "fil": "Ano ang nakapalibot sa lugar ng tabernakulo ayon sa mga tagubilin?"
+        },
+        "options": {
+          "en": [
+            "A royal city wall",
+            "An ocean",
+            "A courtyard enclosed by hangings"
+          ],
+          "fil": [
+            "Pader ng lungsod ng hari",
+            "Karagatan",
+            "Patyo na napalilibutan ng mga tabing"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The courtyard defines the area around the tabernacle (Exodus 27).",
+          "fil": "Itinatakda ng patyo ang lugar sa paligid ng tabernakulo (Exodo 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ongoing duty is assigned to Aaron and his sons?",
+          "fil": "Anong patuloy na tungkulin ang ibinigay kay Aaron at sa kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "Tend the sanctuary lamps",
+            "Collect tribute for Pharaoh",
+            "Guard the idols of Canaan"
+          ],
+          "fil": [
+            "Asikasuhin ang mga ilawan ng santuwaryo",
+            "Maningil ng buwis para kay Faraon",
+            "Bantayan ang mga diyus-diyosan ng Canaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron and his sons are responsible for keeping the lamps in order (Exodus 27).",
+          "fil": "Pananagutan ni Aaron at ng kanyang mga anak ang pag-aasikaso sa mga ilawan (Exodo 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "For whom are the sacred garments being made?",
+          "fil": "Para kanino ginagawa ang mga banal na kasuotan?"
+        },
+        "options": {
+          "en": [
+            "Moab's royal family",
+            "Aaron and his sons as priests",
+            "Pharaoh and his generals"
+          ],
+          "fil": [
+            "Sa pamilya ng hari ng Moab",
+            "Kay Aaron at sa kanyang mga anak bilang mga pari",
+            "Kay Faraon at sa kanyang mga heneral"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The garments set apart Aaron's family for priestly service (Exodus 28).",
+          "fil": "Ibinubukod ng mga kasuotan ang pamilya ni Aaron para sa paglilingkod bilang mga pari (Exodo 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the tribal names on Aaron's garments represent?",
+          "fil": "Ano ang kinakatawan ng mga pangalan ng lipi sa kasuotan ni Aaron?"
+        },
+        "options": {
+          "en": [
+            "He rules Egypt's army",
+            "He bears Israel before the Lord",
+            "He owns the tribes as slaves"
+          ],
+          "fil": [
+            "Pinamumunuan niya ang hukbo ng Egipto",
+            "Dinadala niya ang Israel sa harap ng Panginoon",
+            "Pag-aari niya ang mga lipi bilang mga alipin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The tribal names show Aaron representing the people before God (Exodus 28).",
+          "fil": "Ipinakikita ng mga pangalan ng lipi ang pagkatawan ni Aaron sa bayan sa harap ng Diyos (Exodo 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the emblem on the high priest's head emphasize?",
+          "fil": "Ano ang binibigyang-diin ng sagisag sa ulo ng pinakapunong pari?"
+        },
+        "options": {
+          "en": [
+            "Power over every foreign king",
+            "Dedication as holy to the Lord",
+            "Freedom to ignore God's law"
+          ],
+          "fil": [
+            "Kapangyarihan sa bawat dayuhang hari",
+            "Pagkatalaga bilang banal para sa Panginoon",
+            "Kalayaang balewalain ang kautusan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The headpiece marks the high priest's holy dedication to God (Exodus 28).",
+          "fil": "Tanda ng banal na pagtatalaga sa Diyos ng pinakapunong pari ang palamuti sa ulo (Exodo 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "What is the main purpose of the ceremony described here?",
+          "fil": "Ano ang pangunahing layunin ng ritwal na inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "Choose new gods for Israel",
+            "Consecrate Aaron and his sons as priests",
+            "Make Moses king of Egypt"
+          ],
+          "fil": [
+            "Pumili ng mga bagong diyos para sa Israel",
+            "Italaga sina Aaron at ang kanyang mga anak bilang mga pari",
+            "Gawing hari ng Egipto si Moises"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Exodus 29 sets out the dedication of the priests.",
+          "fil": "Inilahad sa Exodo 29 ang pagtatalaga sa mga pari."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is instructed to carry out this consecration?",
+          "fil": "Sino ang inatasang magsagawa ng pagtatalagang ito?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh",
+            "Moses",
+            "Balak"
+          ],
+          "fil": [
+            "Si Faraon",
+            "Si Moises",
+            "Si Balac"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God gives Moses the instructions for consecrating Aaron's family (Exodus 29).",
+          "fil": "Ibinigay ng Diyos kay Moises ang mga tagubilin sa pagtatalaga sa pamilya ni Aaron (Exodo 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship does God promise through this sanctuary service?",
+          "fil": "Anong ugnayan ang ipinangako ng Diyos sa pamamagitan ng paglilingkod sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "He will give Israel back to Pharaoh",
+            "He will abandon the covenant forever",
+            "He will dwell among Israel as their God"
+          ],
+          "fil": [
+            "Ibabalik niya ang Israel kay Faraon",
+            "Iiwan niya ang tipan habambuhay",
+            "Mananahan siya sa gitna ng Israel bilang kanilang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priestly instructions lead to God's promise to dwell among his people (Exodus 29).",
+          "fil": "Humahantong ang mga tagubilin sa mga pari sa pangako ng Diyos na manahan sa gitna ng kanyang bayan (Exodo 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What worship activity belongs to the incense altar?",
+          "fil": "Anong gawain sa pagsamba ang para sa altar ng insenso?"
+        },
+        "options": {
+          "en": [
+            "Preparing royal banquets",
+            "Selling goods to travelers",
+            "Burning sacred incense before the Lord"
+          ],
+          "fil": [
+            "Paghahanda ng mga handaan ng hari",
+            "Pagbebenta sa mga manlalakbay",
+            "Pagsusunog ng banal na insenso sa harap ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The incense altar serves the sanctuary's regular worship (Exodus 30).",
+          "fil": "Para sa regular na pagsamba sa santuwaryo ang altar ng insenso (Exodo 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is the bronze basin provided for the priests?",
+          "fil": "Bakit inilaan ang palanggana na tanso para sa mga pari?"
+        },
+        "options": {
+          "en": [
+            "For making an idol",
+            "For washing before sacred service",
+            "For storing Pharaoh's taxes"
+          ],
+          "fil": [
+            "Para sa paggawa ng diyus-diyosan",
+            "Para sa paghuhugas bago ang banal na paglilingkod",
+            "Para sa pag-iimbak ng buwis ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priests must wash before approaching their sacred duties (Exodus 30).",
+          "fil": "Kailangang maghugas ang mga pari bago gampanan ang kanilang mga banal na tungkulin (Exodo 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the special anointing oil and incense be treated?",
+          "fil": "Paano dapat tratuhin ang natatanging langis na pampahid at insenso?"
+        },
+        "options": {
+          "en": [
+            "As holy, not copied for ordinary personal use",
+            "As tribute to foreign idols",
+            "As ordinary perfume anyone may copy"
+          ],
+          "fil": [
+            "Bilang banal at hindi gagayahin para sa karaniwang pansariling gamit",
+            "Bilang alay sa mga dayuhang diyus-diyosan",
+            "Bilang karaniwang pabangong maaaring gayahin ng sinuman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God reserves these mixtures for their sacred purpose (Exodus 30).",
+          "fil": "Inilaan ng Diyos ang mga timplang ito para sa kanilang banal na layunin (Exodo 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "Who is named as the lead craftsman equipped by God?",
+          "fil": "Sino ang pinangalanang pangunahing manggagawang binigyan ng kakayahan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Bezalel",
+            "Pharaoh",
+            "Balaam"
+          ],
+          "fil": [
+            "Si Bezalel",
+            "Si Faraon",
+            "Si Balaam"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God chooses Bezalel for skilled work on the sanctuary (Exodus 31).",
+          "fil": "Pinili ng Diyos si Bezalel para sa bihasang paggawa sa santuwaryo (Exodo 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God give Bezalel for this work?",
+          "fil": "Ano ang ibinigay ng Diyos kay Bezalel para sa gawaing ito?"
+        },
+        "options": {
+          "en": [
+            "His Spirit with wisdom and craftsmanship",
+            "A royal army",
+            "Power to replace Moses' law"
+          ],
+          "fil": [
+            "Kanyang Espiritu na may karunungan at kasanayan",
+            "Hukbo ng hari",
+            "Kapangyarihang palitan ang kautusan ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God equips Bezalel with wisdom and practical skill through his Spirit (Exodus 31).",
+          "fil": "Binigyan ng Diyos si Bezalel ng karunungan at praktikal na kasanayan sa pamamagitan ng kanyang Espiritu (Exodo 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must the appointed craftspeople make?",
+          "fil": "Ano ang kailangang gawin ng mga itinalagang bihasang manggagawa?"
+        },
+        "options": {
+          "en": [
+            "A new palace for Pharaoh",
+            "Everything God has commanded for the sanctuary",
+            "Statues of Canaan's gods"
+          ],
+          "fil": [
+            "Bagong palasyo para kay Faraon",
+            "Lahat ng ipinag-utos ng Diyos para sa santuwaryo",
+            "Mga rebulto ng mga diyos ng Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The craftspeople must follow God's instructions for the sacred work (Exodus 31).",
+          "fil": "Dapat sundin ng mga bihasang manggagawa ang mga tagubilin ng Diyos para sa banal na gawain (Exodo 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "What does Aaron make while Moses is away on the mountain?",
+          "fil": "Ano ang ginawa ni Aaron habang wala si Moises at nasa bundok?"
+        },
+        "options": {
+          "en": [
+            "A silver trumpet",
+            "A bronze snake",
+            "A golden calf"
+          ],
+          "fil": [
+            "Isang trumpetang pilak",
+            "Isang ahas na tanso",
+            "Isang gintong guya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Aaron makes a calf image and the people turn to it in worship (Exodus 32).",
+          "fil": "Gumawa si Aaron ng larawan ng guya at sinamba ito ng bayan (Exodo 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people supply for making the calf?",
+          "fil": "Ano ang ibinigay ng bayan upang magawa ang guya?"
+        },
+        "options": {
+          "en": [
+            "Their gold earrings",
+            "The bones of Joseph",
+            "The tablets of the law"
+          ],
+          "fil": [
+            "Kanilang mga gintong hikaw",
+            "Ang mga buto ni Jose",
+            "Ang mga tapyas ng kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron uses gold collected from the people's earrings (Exodus 32).",
+          "fil": "Ginamit ni Aaron ang gintong nakolekta mula sa mga hikaw ng bayan (Exodo 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses do with the tablets when he sees the calf and dancing?",
+          "fil": "Ano ang ginawa ni Moises sa mga tapyas nang makita ang guya at pagsasayaw?"
+        },
+        "options": {
+          "en": [
+            "He throws them down and breaks them",
+            "He sells them to Pharaoh",
+            "He hides them inside the calf"
+          ],
+          "fil": [
+            "Inihagis niya ang mga ito at nabasag",
+            "Ipinagbili niya ang mga ito kay Faraon",
+            "Itinago niya ang mga ito sa loob ng guya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses breaks the tablets in anger at the people's rebellion (Exodus 32).",
+          "fil": "Binasag ni Moises ang mga tapyas sa galit sa paghihimagsik ng bayan (Exodo 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses ask God to do after this great sin?",
+          "fil": "Ano ang hiniling ni Moises sa Diyos matapos ang malaking kasalanang ito?"
+        },
+        "options": {
+          "en": [
+            "Return every family to slavery",
+            "Forgive the people",
+            "Make the calf their permanent god"
+          ],
+          "fil": [
+            "Ibalik sa pagkaalipin ang bawat pamilya",
+            "Patawarin ang bayan",
+            "Gawing permanenteng diyos nila ang guya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses returns to God to plead for the people's forgiveness (Exodus 32).",
+          "fil": "Bumalik si Moises sa Diyos upang makiusap para sa kapatawaran ng bayan (Exodo 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "Where does Moses pitch the tent used for meeting with God in this chapter?",
+          "fil": "Saan itinayo ni Moises ang toldang ginagamit sa pakikipagtagpo sa Diyos sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "On a ship",
+            "Inside Pharaoh's palace",
+            "Outside the camp"
+          ],
+          "fil": [
+            "Sa barko",
+            "Sa loob ng palasyo ni Faraon",
+            "Sa labas ng kampo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses places this meeting tent outside the camp (Exodus 33).",
+          "fil": "Itinayo ni Moises ang toldang ito ng pakikipagtagpo sa labas ng kampo (Exodo 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What descends at the tent entrance when God speaks with Moses?",
+          "fil": "Ano ang bumababa sa pasukan ng tolda kapag nakikipag-usap ang Diyos kay Moises?"
+        },
+        "options": {
+          "en": [
+            "A golden chariot",
+            "A statue of Pharaoh",
+            "The pillar of cloud"
+          ],
+          "fil": [
+            "Isang gintong karwahe",
+            "Rebulto ni Faraon",
+            "Ang haliging ulap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cloud stands at the entrance during God's conversation with Moses (Exodus 33).",
+          "fil": "Nananatili ang ulap sa pasukan habang nakikipag-usap ang Diyos kay Moises (Exodo 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses say Israel needs in order to continue the journey?",
+          "fil": "Ano ang sinabi ni Moises na kailangan ng Israel upang magpatuloy sa paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "A new idol to lead them",
+            "Permission from Pharaoh again",
+            "God's presence going with them"
+          ],
+          "fil": [
+            "Bagong diyus-diyosang mangunguna sa kanila",
+            "Muling pahintulot ni Faraon",
+            "Ang presensya ng Diyos na kasama nila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses insists that God's presence is essential for their journey (Exodus 33).",
+          "fil": "Iginiit ni Moises na mahalaga ang presensya ng Diyos sa kanilang paglalakbay (Exodo 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses ask God to show him?",
+          "fil": "Ano ang hiniling ni Moises na ipakita sa kanya ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The kings of Babylon",
+            "Pharaoh's treasury",
+            "His glory"
+          ],
+          "fil": [
+            "Ang mga hari ng Babilonia",
+            "Ang kabang-yaman ni Faraon",
+            "Ang kanyang kaluwalhatian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses asks for a deeper glimpse of God's glory (Exodus 33).",
+          "fil": "Humiling si Moises ng mas malalim na pagkakita sa kaluwalhatian ng Diyos (Exodo 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "What does Moses take up the mountain to replace the broken tablets?",
+          "fil": "Ano ang dinala ni Moises sa bundok kapalit ng mga nabasag na tapyas?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "New stone tablets",
+            "An Egyptian crown"
+          ],
+          "fil": [
+            "Isang gintong guya",
+            "Bagong mga tapyas na bato",
+            "Isang korona ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses prepares new stone tablets as God instructs (Exodus 34).",
+          "fil": "Naghanda si Moises ng bagong mga tapyas na bato ayon sa tagubilin ng Diyos (Exodo 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What qualities does God emphasize when revealing his character?",
+          "fil": "Anong mga katangian ang binigyang-diin ng Diyos sa pagpapakilala ng kanyang sarili?"
+        },
+        "options": {
+          "en": [
+            "Compassion, patience, and faithful love, without ignoring guilt",
+            "Indifference to all human conduct",
+            "Cruelty and dishonesty"
+          ],
+          "fil": [
+            "Habag, pagtitiis, at tapat na pagmamahal, nang hindi binabalewala ang kasalanan",
+            "Pagwawalang-bahala sa lahat ng asal ng tao",
+            "Kalupitan at kawalang-katapatan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God reveals mercy and faithfulness alongside moral accountability (Exodus 34).",
+          "fil": "Ipinakilala ng Diyos ang awa at katapatan kasabay ng pananagutan sa kasalanan (Exodo 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does the renewed covenant warn Israel to avoid among the nations?",
+          "fil": "Anong panganib sa mga bansa ang ibinabala ng muling pinagtibay na tipan sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Being drawn into their idol worship",
+            "Refusing to build Pharaoh's palace",
+            "Being too faithful to God"
+          ],
+          "fil": [
+            "Pagkahikayat sa kanilang pagsamba sa diyus-diyosan",
+            "Pagtangging itayo ang palasyo ni Faraon",
+            "Pagiging sobrang tapat sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The renewed covenant warns against alliances that lead to idolatry (Exodus 34).",
+          "fil": "Nagbabala ang muling pinagtibay na tipan laban sa mga ugnayang aakay sa pagsamba sa diyus-diyosan (Exodo 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people notice about Moses' face after he speaks with God?",
+          "fil": "Ano ang napansin ng bayan sa mukha ni Moises matapos siyang makipag-usap sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "It is hidden by a royal crown",
+            "It has turned to stone",
+            "It shines"
+          ],
+          "fil": [
+            "Natakpan ito ng korona ng hari",
+            "Naging bato ito",
+            "Nagniningning ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses' radiant face reflects his encounter with God (Exodus 34).",
+          "fil": "Ipinakikita ng nagniningning na mukha ni Moises ang pakikipagtagpo niya sa Diyos (Exodo 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "How should people give materials for the sanctuary?",
+          "fil": "Paano dapat magbigay ang mga tao ng materyales para sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Willingly from the heart",
+            "Only after being threatened",
+            "Only to gain a royal title"
+          ],
+          "fil": [
+            "Nang kusang-loob mula sa puso",
+            "Pagkatapos lamang pagbantaan",
+            "Upang magkaroon lamang ng titulong maharlika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses invites willing contributions for the sacred work (Exodus 35).",
+          "fil": "Inanyayahan ni Moises ang kusang-loob na pagbibigay para sa banal na gawain (Exodo 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "How can skilled people contribute besides giving materials?",
+          "fil": "Paano makatutulong ang mga may kasanayan bukod sa pagbibigay ng materyales?"
+        },
+        "options": {
+          "en": [
+            "Replace God's plan with idols",
+            "Use their skills to make what God commands",
+            "Sell the sanctuary to Egypt"
+          ],
+          "fil": [
+            "Palitan ng mga diyus-diyosan ang plano ng Diyos",
+            "Gamitin ang kasanayan sa paggawa ng ipinag-utos ng Diyos",
+            "Ipagbili ang santuwaryo sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "People offer both resources and craftsmanship for the sanctuary (Exodus 35).",
+          "fil": "Naghandog ang mga tao ng materyales at kasanayan para sa santuwaryo (Exodo 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contribution by skilled women is specifically described?",
+          "fil": "Anong ambag ng mga babaeng may kasanayan ang partikular na inilarawan?"
+        },
+        "options": {
+          "en": [
+            "Spinning thread for the work",
+            "Carving foreign idols",
+            "Building warships for Pharaoh"
+          ],
+          "fil": [
+            "Pag-iikid ng sinulid para sa gawain",
+            "Pag-ukit ng mga dayuhang diyus-diyosan",
+            "Paggawa ng mga barkong pandigma para kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Skilled women prepare thread as part of the community's contribution (Exodus 35).",
+          "fil": "Naghanda ng sinulid ang mga babaeng may kasanayan bilang bahagi ng ambag ng pamayanan (Exodo 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "What do the workers report about the people's gifts?",
+          "fil": "Ano ang ibinalita ng mga manggagawa tungkol sa mga handog ng bayan?"
+        },
+        "options": {
+          "en": [
+            "There is more than enough for the work",
+            "No one has given anything",
+            "Everything has been sent to Pharaoh"
+          ],
+          "fil": [
+            "Sobra-sobra ang mga ito para sa gawain",
+            "Walang sinumang nagbigay ng anuman",
+            "Naipadala na kay Faraon ang lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The workers report that the contributions exceed what is needed (Exodus 36).",
+          "fil": "Ibinalita ng mga manggagawa na higit sa kailangan ang mga ambag (Exodo 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses tell the people after hearing that report?",
+          "fil": "Ano ang sinabi ni Moises sa bayan matapos marinig ang ulat na iyon?"
+        },
+        "options": {
+          "en": [
+            "Destroy the donated materials",
+            "Stop bringing more contributions",
+            "Bring twice as much every day"
+          ],
+          "fil": [
+            "Sirain ang mga ibinigay na materyales",
+            "Tumigil na sa pagdadala ng dagdag na ambag",
+            "Magdala ng dobleng dami araw-araw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses stops further collection because the supplies are sufficient (Exodus 36).",
+          "fil": "Ipinatigil ni Moises ang pangongolekta dahil sapat na ang mga materyales (Exodo 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the skilled workers begin making with the supplied materials?",
+          "fil": "Ano ang sinimulang gawin ng mga bihasang manggagawa sa mga ibinigay na materyales?"
+        },
+        "options": {
+          "en": [
+            "The tabernacle's structure and curtains",
+            "A new tower of Babel",
+            "A royal palace for Aaron"
+          ],
+          "fil": [
+            "Ang kayarian at mga tabing ng tabernakulo",
+            "Bagong tore ng Babel",
+            "Palasyo para kay Aaron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The workers construct the tabernacle according to the sacred plan (Exodus 36).",
+          "fil": "Ginawa ng mga manggagawa ang tabernakulo ayon sa banal na plano (Exodo 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "What kind of work is described in this chapter?",
+          "fil": "Anong uri ng gawain ang inilarawan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Making the sanctuary's sacred furnishings",
+            "Preparing an invasion of Moab",
+            "Building Pharaoh's store cities"
+          ],
+          "fil": [
+            "Paggawa ng mga banal na kagamitan ng santuwaryo",
+            "Paghahanda sa pagsalakay sa Moab",
+            "Pagtatayo ng mga lungsod na imbakan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Exodus 37 records the making of furnishings for the sanctuary.",
+          "fil": "Itinala sa Exodo 37 ang paggawa ng mga kagamitan para sa santuwaryo."
+        }
+      },
+      {
+        "q": {
+          "en": "Which furnishing provides light in the sanctuary?",
+          "fil": "Anong kagamitan ang nagbibigay-liwanag sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "The war chariot",
+            "The lampstand",
+            "The royal throne"
+          ],
+          "fil": [
+            "Ang karwaheng pandigma",
+            "Ang patungan ng ilawan",
+            "Ang trono ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The lampstand and its lamps are made for the sacred space (Exodus 37).",
+          "fil": "Ginawa ang patungan ng ilawan at mga ilawan nito para sa banal na lugar (Exodo 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the smaller gold-covered altar made for?",
+          "fil": "Para saan ginawa ang mas maliit na altar na binalutan ng ginto?"
+        },
+        "options": {
+          "en": [
+            "Burning incense",
+            "Storing weapons",
+            "Preparing bricks"
+          ],
+          "fil": [
+            "Pagsusunog ng insenso",
+            "Pag-iimbak ng sandata",
+            "Paghahanda ng laryo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The gold-covered altar is the sanctuary's incense altar (Exodus 37).",
+          "fil": "Ang altar na binalutan ng ginto ay altar ng insenso ng santuwaryo (Exodo 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "What offering is associated with the large bronze altar made here?",
+          "fil": "Anong handog ang kaugnay ng malaking altar na tanso na ginawa rito?"
+        },
+        "options": {
+          "en": [
+            "Gifts to Baal",
+            "Tribute to Pharaoh",
+            "Burnt offerings"
+          ],
+          "fil": [
+            "Mga regalo kay Baal",
+            "Buwis kay Faraon",
+            "Mga handog na sinusunog nang buo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The workers make the altar intended for burnt offerings (Exodus 38).",
+          "fil": "Ginawa ng mga manggagawa ang altar para sa mga handog na sinusunog nang buo (Exodo 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which item made here serves the need for washing?",
+          "fil": "Anong kagamitang ginawa rito ang para sa paghuhugas?"
+        },
+        "options": {
+          "en": [
+            "The ark's cover",
+            "The lampstand",
+            "The bronze basin"
+          ],
+          "fil": [
+            "Ang takip ng kaban",
+            "Ang patungan ng ilawan",
+            "Ang palanggana na tanso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A bronze basin is made among the furnishings of the sanctuary area (Exodus 38).",
+          "fil": "Ginawa ang palanggana na tanso bilang isa sa mga kagamitan sa lugar ng santuwaryo (Exodo 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is built around the tabernacle's outdoor worship area?",
+          "fil": "Ano ang itinayo sa paligid ng panlabas na lugar ng pagsamba ng tabernakulo?"
+        },
+        "options": {
+          "en": [
+            "A courtyard with supporting posts and hangings",
+            "A city for Pharaoh's soldiers",
+            "A palace for foreign kings"
+          ],
+          "fil": [
+            "Patyo na may mga haligi at tabing",
+            "Lungsod para sa mga kawal ni Faraon",
+            "Palasyo para sa mga dayuhang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The courtyard and its hangings define the outer sanctuary area (Exodus 38).",
+          "fil": "Itinatakda ng patyo at mga tabing nito ang panlabas na lugar ng santuwaryo (Exodo 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "For what service are the garments described here made?",
+          "fil": "Para sa anong paglilingkod ginawa ang mga kasuotang inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "Military service in Egypt",
+            "Worship of Baal",
+            "Priestly service in the sanctuary"
+          ],
+          "fil": [
+            "Paglilingkod sa hukbo ng Egipto",
+            "Pagsamba kay Baal",
+            "Paglilingkod bilang mga pari sa santuwaryo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The sacred garments are made for Aaron's priestly service (Exodus 39).",
+          "fil": "Ginawa ang mga banal na kasuotan para sa paglilingkod ni Aaron bilang pari (Exodo 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do the names engraved on the breastpiece's stones represent?",
+          "fil": "Sino ang kinakatawan ng mga pangalang nakaukit sa mga bato ng baluti sa dibdib?"
+        },
+        "options": {
+          "en": [
+            "The tribes of Israel",
+            "The gods of Canaan",
+            "The kings of Egypt"
+          ],
+          "fil": [
+            "Ang mga lipi ng Israel",
+            "Ang mga diyos ng Canaan",
+            "Ang mga hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The stones bear Israel's tribal names as part of the priestly garments (Exodus 39).",
+          "fil": "Nasa mga bato ang mga pangalan ng mga lipi ng Israel bilang bahagi ng kasuotan ng pari (Exodo 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Moses respond after inspecting the completed work?",
+          "fil": "Paano tumugon si Moises matapos suriin ang natapos na gawain?"
+        },
+        "options": {
+          "en": [
+            "He blesses the people for following God's commands",
+            "He orders everything destroyed",
+            "He gives the sanctuary to Pharaoh"
+          ],
+          "fil": [
+            "Binasbasan niya ang bayan sa pagsunod sa mga utos ng Diyos",
+            "Ipinag-utos niyang sirain ang lahat",
+            "Ibinigay niya kay Faraon ang santuwaryo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses sees that the work follows God's instructions and blesses the people (Exodus 39).",
+          "fil": "Nakita ni Moises na ayon sa tagubilin ng Diyos ang gawain at binasbasan ang bayan (Exodo 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "What does Moses do with the completed tabernacle and furnishings?",
+          "fil": "Ano ang ginawa ni Moises sa natapos na tabernakulo at mga kagamitan?"
+        },
+        "options": {
+          "en": [
+            "Sells them to Egypt",
+            "Sets them up as the Lord commanded",
+            "Replaces them with a golden calf"
+          ],
+          "fil": [
+            "Ipinagbili ang mga ito sa Egipto",
+            "Inayos ang mga ito ayon sa utos ng Panginoon",
+            "Pinalitan ang mga ito ng gintong guya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses sets up the sanctuary according to God's instructions (Exodus 40).",
+          "fil": "Inayos ni Moises ang santuwaryo ayon sa mga tagubilin ng Diyos (Exodo 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fills the tabernacle after it is set up?",
+          "fil": "Ano ang pumuno sa tabernakulo matapos itong maitayo?"
+        },
+        "options": {
+          "en": [
+            "The glory of the Lord",
+            "Pharaoh's army",
+            "Statues from Canaan"
+          ],
+          "fil": [
+            "Ang kaluwalhatian ng Panginoon",
+            "Ang hukbo ni Faraon",
+            "Mga rebulto mula sa Canaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's glory fills the completed tabernacle (Exodus 40).",
+          "fil": "Pinuno ng kaluwalhatian ng Diyos ang natapos na tabernakulo (Exodo 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the cloud guide Israel's journey from then on?",
+          "fil": "Paano ginabayan ng ulap ang paglalakbay ng Israel mula noon?"
+        },
+        "options": {
+          "en": [
+            "They set out when it rises and stay when it remains",
+            "They travel only when Pharaoh commands",
+            "They ignore it and return to Egypt"
+          ],
+          "fil": [
+            "Umaalis sila kapag umaangat ito at nananatili kapag hindi",
+            "Naglalakbay lamang sila kapag iniutos ni Faraon",
+            "Binale-wala nila ito at bumalik sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The cloud over God's dwelling directs Israel's movements (Exodus 40).",
+          "fil": "Ginabayan ng ulap sa ibabaw ng tahanan ng Diyos ang paggalaw ng Israel (Exodo 40)."
+        }
+      }
+    ]
+  }
+}
