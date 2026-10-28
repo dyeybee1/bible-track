@@ -1,0 +1,852 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which king authorizes the return to rebuild God's temple?",
+          "fil": "Sinong hari ang nagpahintulot sa pagbabalik upang muling itayo ang templo ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh of Egypt",
+            "Cyrus of Persia",
+            "Saul of Israel"
+          ],
+          "fil": [
+            "Si Faraon ng Egipto",
+            "Si Ciro ng Persia",
+            "Si Saul ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God moves Cyrus to permit the rebuilding in Jerusalem (Ezra 1).",
+          "fil": "Kinilos ng Diyos si Ciro upang pahintulutan ang muling pagtatayo sa Jerusalem (Ezra 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where are the returning people to rebuild the temple?",
+          "fil": "Saan muling itatayo ng mga nagbabalik ang templo?"
+        },
+        "options": {
+          "en": [
+            "Nineveh in Assyria",
+            "Jerusalem in Judah",
+            "Babel in Shinar"
+          ],
+          "fil": [
+            "Sa Nineve sa Asiria",
+            "Sa Jerusalem sa Juda",
+            "Sa Babel sa Sinar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The royal proclamation identifies Jerusalem as the place of rebuilding (Ezra 1).",
+          "fil": "Tinukoy ng pahayag ng hari ang Jerusalem bilang lugar ng muling pagtatayo (Ezra 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do neighbors help those preparing to return?",
+          "fil": "Paano tinulungan ng mga kapitbahay ang mga naghahandang bumalik?"
+        },
+        "options": {
+          "en": [
+            "By destroying their supplies",
+            "With goods, valuables, and voluntary gifts",
+            "By demanding that they remain prisoners"
+          ],
+          "fil": [
+            "Sa pagsira ng kanilang mga panustos",
+            "Sa mga kagamitan, mahahalagang bagay, at kusang-loob na handog",
+            "Sa paghinging manatili silang bilanggo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The surrounding people support the journey with practical gifts (Ezra 1).",
+          "fil": "Sinuportahan ng mga tao sa paligid ang paglalakbay sa praktikal na mga handog (Ezra 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Cyrus return that Nebuchadnezzar had taken from Jerusalem?",
+          "fil": "Ano ang ibinalik ni Ciro na kinuha ni Nebucadnezar mula sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "The tablets Moses broke",
+            "The temple vessels",
+            "Joseph's royal chariot"
+          ],
+          "fil": [
+            "Ang mga tapyas na binasag ni Moises",
+            "Ang mga kagamitan ng templo",
+            "Ang karwahe ni Jose"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Cyrus releases the sacred vessels taken from the Lord's temple (Ezra 1).",
+          "fil": "Ibinalik ni Ciro ang mga banal na kagamitang kinuha mula sa templo ng Panginoon (Ezra 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What is the main purpose of the chapter's long list?",
+          "fil": "Ano ang pangunahing layunin ng mahabang talaan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "List the kings who built Babel",
+            "Identify the community returning from exile",
+            "Record Pharaoh's army"
+          ],
+          "fil": [
+            "Itala ang mga haring nagtayo ng Babel",
+            "Kilalanin ang pamayanang bumabalik mula sa pagkakatapon",
+            "Itala ang hukbo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The list preserves the identity of the returning families and groups (Ezra 2).",
+          "fil": "Iningatan ng talaan ang pagkakakilanlan ng mga bumabalik na pamilya at pangkat (Ezra 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which worship-related groups appear among the returnees?",
+          "fil": "Anong mga pangkat sa pagsamba ang kabilang sa mga nagbalik?"
+        },
+        "options": {
+          "en": [
+            "Priests, Levites, singers, and gatekeepers",
+            "Only Egyptian magicians",
+            "Only foreign royal guards"
+          ],
+          "fil": [
+            "Mga pari, Levita, mang-aawit, at bantay-pinto",
+            "Mga salamangkero lamang ng Egipto",
+            "Mga dayuhang bantay lamang ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The returning community includes people assigned to temple service (Ezra 2).",
+          "fil": "Kasama sa nagbalik na pamayanan ang mga nakatalaga sa paglilingkod sa templo (Ezra 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are some priestly claimants temporarily excluded from priestly privileges?",
+          "fil": "Bakit pansamantalang hindi binigyan ng pribilehiyo ng pari ang ilang umaangking kabilang dito?"
+        },
+        "options": {
+          "en": [
+            "They cannot establish their family records",
+            "They have donated too generously",
+            "They have already become kings"
+          ],
+          "fil": [
+            "Hindi nila mapatunayan ang talaan ng kanilang angkan",
+            "Masyado silang bukas-palad na nagbigay",
+            "Naging mga hari na sila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uncertain ancestry requires the disputed priestly status to await a proper decision (Ezra 2).",
+          "fil": "Kailangang hintayin ang tamang pasya sa pinagtatalunang pagkapari dahil hindi tiyak ang angkan (Ezra 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What do the leaders rebuild so offerings can resume before the temple is complete?",
+          "fil": "Ano ang muling itinayo ng mga pinuno upang makapaghain bago matapos ang templo?"
+        },
+        "options": {
+          "en": [
+            "The king's palace",
+            "A tower to heaven",
+            "The altar"
+          ],
+          "fil": [
+            "Ang palasyo ng hari",
+            "Tore hanggang langit",
+            "Ang altar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The altar is rebuilt so worship can resume amid the ruins (Ezra 3).",
+          "fil": "Muling itinayo ang altar upang maipagpatuloy ang pagsamba sa gitna ng mga guho (Ezra 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fear do the people overcome as they set up the altar?",
+          "fil": "Anong takot ang dinaig ng bayan sa pagtatayo ng altar?"
+        },
+        "options": {
+          "en": [
+            "Fear of losing Egypt's throne",
+            "Fear that no harvest ever existed",
+            "Fear of the surrounding peoples"
+          ],
+          "fil": [
+            "Takot na mawala ang trono ng Egipto",
+            "Takot na walang ani kailanman",
+            "Takot sa mga nakapaligid na bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "They restore the altar despite fear of neighboring peoples (Ezra 3).",
+          "fil": "Ibinalik nila ang altar sa kabila ng takot sa mga kalapit na bayan (Ezra 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What event prompts praise when the builders begin work on the temple?",
+          "fil": "Anong pangyayari ang nag-udyok ng papuri nang magsimula ang pagtatayo ng templo?"
+        },
+        "options": {
+          "en": [
+            "The appointment of a new Pharaoh",
+            "The capture of Babylon by Israel",
+            "The laying of its foundation"
+          ],
+          "fil": [
+            "Ang pagtatalaga ng bagong Faraon",
+            "Ang pagsakop ng Israel sa Babilonia",
+            "Ang paglalagay ng pundasyon nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The temple foundation is celebrated with praise and thanksgiving (Ezra 3).",
+          "fil": "Ipinagdiwang sa papuri at pasasalamat ang pundasyon ng templo (Ezra 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do some older people weep during that celebration?",
+          "fil": "Bakit umiyak ang ilang matatanda sa pagdiriwang na iyon?"
+        },
+        "options": {
+          "en": [
+            "They have never seen Jerusalem before",
+            "They are mourning the death of Cyrus that day",
+            "They remember the former temple"
+          ],
+          "fil": [
+            "Hindi pa nila kailanman nakita ang Jerusalem",
+            "Ipinagluluksa nila ang pagkamatay ni Ciro sa araw na iyon",
+            "Naalala nila ang dating templo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Those who had seen the earlier temple weep while others shout with joy (Ezra 3).",
+          "fil": "Umiyak ang mga nakakita sa naunang templo habang sumisigaw sa saya ang iba (Ezra 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What do the opponents initially offer the returning leaders?",
+          "fil": "Ano ang unang inialok ng mga kalaban sa mga pinunong nagbalik?"
+        },
+        "options": {
+          "en": [
+            "To join in the temple building",
+            "To surrender Egypt's throne",
+            "To return Noah's ark"
+          ],
+          "fil": [
+            "Makibahagi sa pagtatayo ng templo",
+            "Isuko ang trono ng Egipto",
+            "Ibalik ang arka ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The surrounding opponents first offer to take part in rebuilding (Ezra 4).",
+          "fil": "Unang nag-alok ang mga kalaban sa paligid na makibahagi sa muling pagtatayo (Ezra 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Zerubbabel and the other leaders respond to that offer?",
+          "fil": "Paano tumugon si Zerubabel at ang ibang pinuno sa alok na iyon?"
+        },
+        "options": {
+          "en": [
+            "They say the rebuilding is entrusted to their community",
+            "They dedicate the temple to foreign gods",
+            "They abandon Jerusalem at once"
+          ],
+          "fil": [
+            "Sinabi nilang sa kanilang pamayanan ipinagkatiwala ang pagtatayo",
+            "Inialay nila ang templo sa mga dayuhang diyos",
+            "Agad nilang iniwan ang Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The leaders refuse shared control of the work entrusted to them (Ezra 4).",
+          "fil": "Tinanggihan ng mga pinuno ang paghahati ng pamamahala sa gawaing ipinagkatiwala sa kanila (Ezra 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What tactics are then used against the rebuilding community?",
+          "fil": "Anong mga paraan ang ginamit laban sa pamayanang muling nagtatayo?"
+        },
+        "options": {
+          "en": [
+            "A public promise of friendship without opposition",
+            "Free food and protection",
+            "Intimidation, discouragement, and hired opposition"
+          ],
+          "fil": [
+            "Hayagang pangako ng pagkakaibigang walang paghadlang",
+            "Libreng pagkain at proteksiyon",
+            "Pananakot, pagpapahina ng loob, at pag-upa sa mga hahadlang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opponents work to frustrate the rebuilding effort (Ezra 4).",
+          "fil": "Kumilos ang mga kalaban upang hadlangan ang pagsisikap na muling magtayo (Ezra 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What accusation does the letter to Artaxerxes make about Jerusalem?",
+          "fil": "Anong paratang tungkol sa Jerusalem ang nasa sulat kay Artaxerxes?"
+        },
+        "options": {
+          "en": [
+            "It has no inhabitants anywhere",
+            "It is a rebellious city that may stop paying tribute",
+            "It has become Egypt's capital"
+          ],
+          "fil": [
+            "Wala itong sinumang naninirahan",
+            "Mapanghimagsik itong lungsod na maaaring tumigil sa pagbabayad ng buwis",
+            "Naging kabisera ito ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The letter portrays the city as a political and financial danger to the king (Ezra 4).",
+          "fil": "Inilarawan ng sulat ang lungsod bilang panganib sa pamumuno at kita ng hari (Ezra 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Which prophets encourage the renewed rebuilding?",
+          "fil": "Sinong mga propeta ang nagpasigla sa muling pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Elijah and Elisha",
+            "Moses and Aaron",
+            "Haggai and Zechariah"
+          ],
+          "fil": [
+            "Sina Elias at Eliseo",
+            "Sina Moises at Aaron",
+            "Sina Hagai at Zacarias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Haggai and Zechariah support the people as temple work resumes (Ezra 5).",
+          "fil": "Sinuportahan nina Hagai at Zacarias ang bayan sa pagpapatuloy ng gawain sa templo (Ezra 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the governor ask the builders?",
+          "fil": "Ano ang itinanong ng gobernador sa mga nagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Who authorized the temple rebuilding",
+            "Who stole Pharaoh's crown",
+            "Who built Noah's ark"
+          ],
+          "fil": [
+            "Kung sino ang nagpahintulot sa muling pagtatayo ng templo",
+            "Kung sino ang nagnakaw ng korona ni Faraon",
+            "Kung sino ang gumawa ng arka ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The governor challenges the legal authorization for the project (Ezra 5).",
+          "fil": "Tinanong ng gobernador ang legal na pahintulot para sa proyekto (Ezra 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What enables the elders to continue while the report is sent to Darius?",
+          "fil": "Ano ang nagpahintulot sa mga pinuno na magpatuloy habang ipinadala ang ulat kay Dario?"
+        },
+        "options": {
+          "en": [
+            "They move the temple to Egypt",
+            "They capture the governor's army",
+            "God watches over them and the work is not stopped"
+          ],
+          "fil": [
+            "Inilipat nila ang templo sa Egipto",
+            "Nabihag nila ang hukbo ng gobernador",
+            "Binabantayan sila ng Diyos at hindi itinigil ang gawain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's care preserves the work while the royal answer is awaited (Ezra 5).",
+          "fil": "Iningatan ng Diyos ang gawain habang hinihintay ang sagot ng hari (Ezra 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What earlier royal decision do the elders ask officials to verify?",
+          "fil": "Anong naunang pasya ng hari ang ipinatiyak ng mga pinuno sa mga opisyal?"
+        },
+        "options": {
+          "en": [
+            "Saul's appointment of David",
+            "Pharaoh's order to destroy Israel",
+            "Cyrus's permission to rebuild"
+          ],
+          "fil": [
+            "Ang pagtatalaga ni Saul kay David",
+            "Ang utos ni Faraon na lipulin ang Israel",
+            "Ang pahintulot ni Ciro na muling magtayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The report requests a search for Cyrus's authorization (Ezra 5).",
+          "fil": "Hiniling ng ulat na hanapin ang pahintulot ni Ciro (Ezra 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What discovery supports the temple builders' claim?",
+          "fil": "Anong natuklasan ang sumuporta sa pahayag ng mga nagtatayo ng templo?"
+        },
+        "options": {
+          "en": [
+            "A new law against all worship",
+            "A map to Pharaoh's tomb",
+            "A record of Cyrus's rebuilding decree"
+          ],
+          "fil": [
+            "Bagong batas laban sa lahat ng pagsamba",
+            "Mapa patungo sa libingan ni Faraon",
+            "Talaan ng utos ni Ciro sa muling pagtatayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The royal search finds Cyrus's decree in the archives at Ecbatana (Ezra 6).",
+          "fil": "Natagpuan sa paghahanap ng hari ang utos ni Ciro sa mga talaan sa Ecbatana (Ezra 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Darius instruct the local officials to treat the work?",
+          "fil": "Paano inutusan ni Dario ang mga lokal na opisyal na pakitunguhan ang gawain?"
+        },
+        "options": {
+          "en": [
+            "Do not interfere and provide the required support",
+            "Replace the temple with a palace",
+            "Destroy the foundation immediately"
+          ],
+          "fil": [
+            "Huwag humadlang at ibigay ang kailangang suporta",
+            "Palitan ng palasyo ang templo",
+            "Sirain agad ang pundasyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Darius protects the rebuilding and orders public support for it (Ezra 6).",
+          "fil": "Pinangalagaan ni Dario ang pagtatayo at iniutos ang suporta ng pamahalaan dito (Ezra 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the community celebrate the completed temple?",
+          "fil": "Paano ipinagdiwang ng pamayanan ang natapos na templo?"
+        },
+        "options": {
+          "en": [
+            "By shutting it forever",
+            "With a feast honoring Babylon's idols",
+            "With a joyful dedication and offerings"
+          ],
+          "fil": [
+            "Sa pagsasara nito habambuhay",
+            "Sa pistang nagpaparangal sa mga diyus-diyosan ng Babilonia",
+            "Sa masayang pagtatalaga at mga handog"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The returned exiles dedicate God's house with joy (Ezra 6).",
+          "fil": "Masayang itinalaga ng mga nagbalik mula sa pagkakatapon ang bahay ng Diyos (Ezra 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which feast do the returned exiles keep after the temple dedication?",
+          "fil": "Anong pista ang ipinagdiwang ng mga nagbalik matapos italaga ang templo?"
+        },
+        "options": {
+          "en": [
+            "A birthday feast for Pharaoh",
+            "Passover",
+            "A festival for Baal"
+          ],
+          "fil": [
+            "Pista sa kaarawan ni Faraon",
+            "Paskuwa",
+            "Pista para kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The community celebrates Passover and the Festival of Unleavened Bread (Ezra 6).",
+          "fil": "Ipinagdiwang ng pamayanan ang Paskuwa at Pista ng Tinapay na Walang Pampaalsa (Ezra 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What expertise is emphasized when Ezra is introduced?",
+          "fil": "Anong kahusayan ang binigyang-diin sa pagpapakilala kay Ezra?"
+        },
+        "options": {
+          "en": [
+            "Command of Egypt's navy",
+            "Knowledge of the law of Moses",
+            "Skill in making idols"
+          ],
+          "fil": [
+            "Pamumuno sa hukbong-dagat ng Egipto",
+            "Kaalaman sa kautusan ni Moises",
+            "Kasanayan sa paggawa ng diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ezra is introduced as a priest and skilled teacher of God's law (Ezra 7).",
+          "fil": "Ipinakilala si Ezra bilang pari at bihasang guro ng kautusan ng Diyos (Ezra 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What has Ezra devoted himself to doing with God's law?",
+          "fil": "Ano ang pinag-ukulan ni Ezra ng sarili tungkol sa kautusan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Study it, practice it, and teach it",
+            "Hide it from the people",
+            "Replace it with royal legends"
+          ],
+          "fil": [
+            "Pag-aralan, isagawa, at ituro ito",
+            "Itago ito sa bayan",
+            "Palitan ito ng mga alamat ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ezra's commitment joins learning with obedience and teaching (Ezra 7).",
+          "fil": "Pinagsasama ng pagtalaga ni Ezra ang pag-aaral, pagsunod, at pagtuturo (Ezra 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which king gives Ezra a letter supporting his mission?",
+          "fil": "Sinong hari ang nagbigay kay Ezra ng sulat na sumusuporta sa kanyang gawain?"
+        },
+        "options": {
+          "en": [
+            "Nebuchadnezzar",
+            "Artaxerxes",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Si Nebucadnezar",
+            "Si Artaxerxes",
+            "Si Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Artaxerxes authorizes Ezra's journey and support for the temple (Ezra 7).",
+          "fil": "Pinahintulutan ni Artaxerxes ang paglalakbay ni Ezra at suporta para sa templo (Ezra 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility does the king give Ezra regarding justice?",
+          "fil": "Anong pananagutan sa katarungan ang ibinigay ng hari kay Ezra?"
+        },
+        "options": {
+          "en": [
+            "Abolish all courts permanently",
+            "Make every wealthy person exempt from the law",
+            "Appoint judges and teach those who do not know God's law"
+          ],
+          "fil": [
+            "Tuluyang alisin ang lahat ng hukuman",
+            "Iligtas sa batas ang bawat mayaman",
+            "Magtalaga ng mga hukom at turuan ang hindi nakaaalam ng kautusan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ezra receives authority to organize justice according to God's law (Ezra 7).",
+          "fil": "Tumanggap si Ezra ng kapangyarihang ayusin ang katarungan ayon sa kautusan ng Diyos (Ezra 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does the opening list identify?",
+          "fil": "Ano ang tinutukoy ng unang talaan?"
+        },
+        "options": {
+          "en": [
+            "The builders of Babel",
+            "The kings who conquered Egypt",
+            "Family leaders and groups traveling with Ezra"
+          ],
+          "fil": [
+            "Ang mga nagtayo ng Babel",
+            "Ang mga haring sumakop sa Egipto",
+            "Mga pinuno ng pamilya at pangkat na naglakbay kasama ni Ezra"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The genealogy identifies the community accompanying Ezra (Ezra 8).",
+          "fil": "Kinilala ng talaan ng angkan ang pamayanang kasama ni Ezra (Ezra 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What missing group does Ezra recruit before departure?",
+          "fil": "Anong kulang na pangkat ang kinuha ni Ezra bago umalis?"
+        },
+        "options": {
+          "en": [
+            "Levites for temple service",
+            "Egyptian chariot drivers",
+            "Priests of Baal"
+          ],
+          "fil": [
+            "Mga Levita para sa paglilingkod sa templo",
+            "Mga tagapagpatakbo ng karwahe ng Egipto",
+            "Mga pari ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ezra sends for Levites after finding none in the initial gathering (Ezra 8).",
+          "fil": "Nagpasundo si Ezra ng mga Levita nang wala siyang matagpuan sa unang pagtitipon (Ezra 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the group fast before its journey?",
+          "fil": "Bakit nag-ayuno ang pangkat bago maglakbay?"
+        },
+        "options": {
+          "en": [
+            "To seek God's protection for themselves, their children, and possessions",
+            "To choose a new god",
+            "To celebrate victory over Pharaoh"
+          ],
+          "fil": [
+            "Upang humingi ng proteksiyon ng Diyos para sa sarili, mga anak, at ari-arian",
+            "Upang pumili ng bagong diyos",
+            "Upang ipagdiwang ang tagumpay laban kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The fast expresses humble dependence on God for a safe journey (Ezra 8).",
+          "fil": "Ipinahahayag ng pag-aayuno ang mapagpakumbabang pag-asa sa Diyos para sa ligtas na paglalakbay (Ezra 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What report deeply troubles Ezra?",
+          "fil": "Anong ulat ang labis na ikinabahala ni Ezra?"
+        },
+        "options": {
+          "en": [
+            "The community, including leaders, has entered marriages tied to forbidden practices",
+            "The temple has never been built",
+            "Everyone has returned to Egypt"
+          ],
+          "fil": [
+            "Nakipag-asawa ang pamayanan, pati mga pinuno, sa mga bayang may ipinagbabawal na gawain",
+            "Hindi kailanman naitayo ang templo",
+            "Bumalik ang lahat sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The report presents the marriages as unfaithfulness to God's commands (Ezra 9).",
+          "fil": "Iniharap ng ulat ang mga pag-aasawa bilang pagtataksil sa mga utos ng Diyos (Ezra 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Ezra show his grief when he hears the report?",
+          "fil": "Paano ipinakita ni Ezra ang kanyang dalamhati nang marinig ang ulat?"
+        },
+        "options": {
+          "en": [
+            "He holds a victory parade",
+            "He crowns himself king",
+            "He tears his clothes and sits appalled"
+          ],
+          "fil": [
+            "Nagdaos siya ng parada ng tagumpay",
+            "Kinoronahan niya ang sarili bilang hari",
+            "Pinunit niya ang damit at naupong nangilabot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ezra's visible distress expresses the seriousness of the community's failure (Ezra 9).",
+          "fil": "Ipinahahayag ng hayag na pagdadalamhati ni Ezra ang bigat ng pagkukulang ng pamayanan (Ezra 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Ezra speak about guilt in his prayer?",
+          "fil": "Paano nagsalita si Ezra tungkol sa kasalanan sa kanyang panalangin?"
+        },
+        "options": {
+          "en": [
+            "He identifies with the people's guilt and acknowledges God's mercy",
+            "He blames God for commanding idolatry",
+            "He says the people have never sinned"
+          ],
+          "fil": [
+            "Nakiisa siya sa pananagutan ng bayan at kinilala ang awa ng Diyos",
+            "Sinisi niya ang Diyos sa pag-uutos ng pagsamba sa diyus-diyosan",
+            "Sinabi niyang hindi kailanman nagkasala ang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ezra confesses communal failure despite the mercy already received (Ezra 9).",
+          "fil": "Ipinahayag ni Ezra ang pagkukulang ng pamayanan sa kabila ng natanggap nang awa (Ezra 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What is the purpose of the names listed near the chapter's end?",
+          "fil": "Ano ang layunin ng mga pangalang nakatala sa hulihan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Identify those involved in the disputed marriages",
+            "List soldiers sent to Egypt",
+            "Record a new royal dynasty"
+          ],
+          "fil": [
+            "Kilalanin ang mga sangkot sa pinagtatalunang pag-aasawa",
+            "Itala ang mga kawal na ipinadala sa Egipto",
+            "Itala ang bagong angkan ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The list records people involved in the marriage reforms (Ezra 10).",
+          "fil": "Itinala ng talaan ang mga taong sangkot sa pag-aayos ng mga usapin sa pag-aasawa (Ezra 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the community propose to handle the many individual cases?",
+          "fil": "Paano iminungkahi ng pamayanan na asikasuhin ang maraming indibidwal na kaso?"
+        },
+        "options": {
+          "en": [
+            "Through appointed leaders and scheduled examination",
+            "By pretending no problem exists",
+            "By asking Pharaoh to choose the marriages"
+          ],
+          "fil": [
+            "Sa mga itinalagang pinuno at nakatakdang pagsusuri",
+            "Sa pagkukunwaring walang suliranin",
+            "Sa paghinging piliin ni Faraon ang mga pag-aasawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The community arranges an orderly inquiry rather than settling every case at once (Ezra 10).",
+          "fil": "Nag-ayos ang pamayanan ng maayos na pagsisiyasat sa halip na tapusin ang bawat kaso nang sabay-sabay (Ezra 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Are priests and Levites excluded from accountability in the list?",
+          "fil": "Hindi ba saklaw ng pananagutan sa talaan ang mga pari at Levita?"
+        },
+        "options": {
+          "en": [
+            "No, they are included among those named",
+            "Yes, only ordinary farmers are named",
+            "Yes, temple workers can never break a command"
+          ],
+          "fil": [
+            "Saklaw sila, at kabilang sa mga pinangalanan",
+            "Oo, karaniwang magsasaka lamang ang pinangalanan",
+            "Oo, hindi kailanman makalalabag sa utos ang naglilingkod sa templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The list includes religious servants as well as other members of the community (Ezra 10).",
+          "fil": "Kasama sa talaan ang mga naglilingkod sa pagsamba pati ang ibang kasapi ng pamayanan (Ezra 10)."
+        }
+      }
+    ]
+  }
+}
