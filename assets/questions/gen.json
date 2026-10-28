@@ -1,0 +1,4520 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What does God create when he first speaks in this chapter?",
+          "fil": "Ano ang nilikha ng Diyos nang una siyang magsalita sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Human beings",
+            "Light",
+            "Birds"
+          ],
+          "fil": [
+            "Mga tao",
+            "Liwanag",
+            "Mga ibon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God first calls light into being in the creation account (Genesis 1).",
+          "fil": "Unang pinairal ng Diyos ang liwanag sa salaysay ng paglikha (Genesis 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What separates the waters above from the waters below?",
+          "fil": "Ano ang naghihiwalay sa tubig sa itaas at tubig sa ibaba?"
+        },
+        "options": {
+          "en": [
+            "The sky",
+            "A city wall",
+            "A wooden boat"
+          ],
+          "fil": [
+            "Ang kalangitan",
+            "Pader ng lungsod",
+            "Bangkang kahoy"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God makes the sky to separate the waters (Genesis 1).",
+          "fil": "Ginawa ng Diyos ang kalangitan upang paghiwalayin ang mga tubig (Genesis 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What grows on the land after dry ground appears?",
+          "fil": "Ano ang tumubo sa lupa matapos lumitaw ang tuyong lupa?"
+        },
+        "options": {
+          "en": [
+            "Plants and fruit-bearing trees",
+            "Royal palaces",
+            "Stone towers"
+          ],
+          "fil": [
+            "Mga halaman at punong namumunga",
+            "Mga palasyo ng hari",
+            "Mga toreng bato"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God brings forth vegetation on the dry land (Genesis 1).",
+          "fil": "Pinatubo ng Diyos ang mga halaman sa tuyong lupa (Genesis 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What distinguishes the creation of human beings?",
+          "fil": "Ano ang natatangi sa paglikha sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "They exist before God",
+            "They are made in God's image",
+            "They create the sun"
+          ],
+          "fil": [
+            "Nauna silang umiral kaysa sa Diyos",
+            "Nilikha sila ayon sa larawan ng Diyos",
+            "Nilikha nila ang araw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Human beings receive a special dignity as bearers of God's image (Genesis 1).",
+          "fil": "Tumanggap ang mga tao ng natatanging dangal bilang nilikha ayon sa larawan ng Diyos (Genesis 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does God do on the seventh day?",
+          "fil": "Ano ang ginawa ng Diyos sa ikapitong araw?"
+        },
+        "options": {
+          "en": [
+            "Begins building Babel",
+            "Creates the sun for the first time",
+            "Rests from his work and makes the day holy"
+          ],
+          "fil": [
+            "Nagsimulang itayo ang Babel",
+            "Unang nilikha ang araw",
+            "Nagpahinga sa kanyang gawain at ginawang banal ang araw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God rests and sets apart the seventh day (Genesis 2).",
+          "fil": "Nagpahinga ang Diyos at ibinukod ang ikapitong araw (Genesis 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "From what does God form the man?",
+          "fil": "Mula saan hinubog ng Diyos ang lalaki?"
+        },
+        "options": {
+          "en": [
+            "Dust from the ground",
+            "Wood from the ark",
+            "Gold from a river"
+          ],
+          "fil": [
+            "Alikabok ng lupa",
+            "Kahoy mula sa arka",
+            "Ginto mula sa ilog"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God forms the man from the ground and gives him life (Genesis 2).",
+          "fil": "Hinubog ng Diyos ang lalaki mula sa lupa at binigyan ng buhay (Genesis 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What task is given to the man in the garden of Eden?",
+          "fil": "Anong gawain ang ibinigay sa lalaki sa halamanan ng Eden?"
+        },
+        "options": {
+          "en": [
+            "Cultivate and care for it",
+            "Make an idol",
+            "Build a royal army"
+          ],
+          "fil": [
+            "Bungkalin at pangalagaan ito",
+            "Gumawa ng diyus-diyosan",
+            "Bumuo ng hukbo ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The man is placed in Eden to work and care for the garden (Genesis 2).",
+          "fil": "Inilagay ang lalaki sa Eden upang bungkalin at pangalagaan ang halamanan (Genesis 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God form the woman in this account?",
+          "fil": "Paano hinubog ng Diyos ang babae sa salaysay na ito?"
+        },
+        "options": {
+          "en": [
+            "From a stone tower",
+            "From a rib taken from the man",
+            "From Pharaoh's crown"
+          ],
+          "fil": [
+            "Mula sa toreng bato",
+            "Mula sa tadyang na kinuha sa lalaki",
+            "Mula sa korona ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God forms the woman from the man's rib while he sleeps (Genesis 2).",
+          "fil": "Hinubog ng Diyos ang babae mula sa tadyang ng lalaki habang natutulog ito (Genesis 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who questions the woman about God's command?",
+          "fil": "Sino ang nagtanong sa babae tungkol sa utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The serpent",
+            "Abraham",
+            "Noah"
+          ],
+          "fil": [
+            "Ang ahas",
+            "Si Abraham",
+            "Si Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The serpent challenges the woman about the forbidden tree (Genesis 3).",
+          "fil": "Hinamon ng ahas ang babae tungkol sa ipinagbabawal na puno (Genesis 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the man and woman do when they hear God in the garden after disobeying?",
+          "fil": "Ano ang ginawa ng lalaki at babae nang marinig nila ang Diyos sa halamanan matapos sumuway?"
+        },
+        "options": {
+          "en": [
+            "Sail away in an ark",
+            "Build an altar of gold",
+            "Hide among the trees"
+          ],
+          "fil": [
+            "Naglayag sa arka",
+            "Gumawa ng altar na ginto",
+            "Nagtago sa mga puno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "They hide from God after their disobedience (Genesis 3).",
+          "fil": "Nagtago sila sa Diyos matapos ang kanilang pagsuway (Genesis 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hardship is announced concerning the man's work?",
+          "fil": "Anong paghihirap ang ipinahayag tungkol sa gawain ng lalaki?"
+        },
+        "options": {
+          "en": [
+            "He will never need to work",
+            "Producing food will involve painful toil",
+            "Every field will produce gold"
+          ],
+          "fil": [
+            "Hindi na niya kailangang magtrabaho",
+            "Mangailangan ng mabigat na pagpapagal ang paggawa ng pagkain",
+            "Mamumunga ng ginto ang bawat bukid"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ground's curse brings toil into the man's work for food (Genesis 3).",
+          "fil": "Nagdulot ng pagpapagal sa paghahanap ng pagkain ng lalaki ang sumpa sa lupa (Genesis 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What guards the way to the tree of life after the couple leaves?",
+          "fil": "Ano ang nagbabantay sa daan patungo sa puno ng buhay matapos umalis ang mag-asawa?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "Cherubim and a flaming sword",
+            "Egyptian chariots"
+          ],
+          "fil": [
+            "Isang gintong guya",
+            "Mga kerubin at nagliliyab na tabak",
+            "Mga karwahe ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God places guardians at the way to the tree of life (Genesis 3).",
+          "fil": "Naglagay ang Diyos ng mga tagabantay sa daan patungo sa puno ng buhay (Genesis 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What work does Cain do?",
+          "fil": "Anong gawain ang ginagawa ni Cain?"
+        },
+        "options": {
+          "en": [
+            "He rules Egypt",
+            "He builds the ark",
+            "He cultivates the ground"
+          ],
+          "fil": [
+            "Pinamumunuan niya ang Egipto",
+            "Ginagawa niya ang arka",
+            "Binubungkal niya ang lupa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Cain works the soil while Abel keeps flocks (Genesis 4).",
+          "fil": "Nagsasaka si Cain samantalang nag-aalaga ng kawan si Abel (Genesis 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose offering receives God's favorable regard?",
+          "fil": "Kaninong handog ang kinalugdan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's",
+            "Cain's",
+            "Abel's"
+          ],
+          "fil": [
+            "Kay Faraon",
+            "Kay Cain",
+            "Kay Abel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God looks favorably on Abel and his offering (Genesis 4).",
+          "fil": "Kinalugdan ng Diyos si Abel at ang kanyang handog (Genesis 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God place a mark on Cain after Abel's death?",
+          "fil": "Bakit nilagyan ng Diyos ng tanda si Cain matapos mamatay si Abel?"
+        },
+        "options": {
+          "en": [
+            "To erase Abel from memory",
+            "To crown him king",
+            "To protect him from being killed in revenge"
+          ],
+          "fil": [
+            "Upang burahin si Abel sa alaala",
+            "Upang koronahan siyang hari",
+            "Upang pangalagaan siya laban sa pagpatay bilang paghihiganti"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The mark warns others not to kill Cain (Genesis 4).",
+          "fil": "Babala sa iba na huwag patayin si Cain ang tanda (Genesis 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son is born to Adam and Eve after Abel's death?",
+          "fil": "Sinong anak ang ipinanganak kina Adan at Eva matapos mamatay si Abel?"
+        },
+        "options": {
+          "en": [
+            "Isaac",
+            "Joseph",
+            "Seth"
+          ],
+          "fil": [
+            "Si Isaac",
+            "Si Jose",
+            "Si Set"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eve gives birth to Seth after losing Abel (Genesis 4).",
+          "fil": "Isinilang ni Eva si Set matapos mawala si Abel (Genesis 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What family line does this chapter trace?",
+          "fil": "Anong angkan ang sinusundan ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "From Pharaoh to Moses",
+            "From David to Solomon",
+            "From Adam toward Noah"
+          ],
+          "fil": [
+            "Mula kay Faraon hanggang kay Moises",
+            "Mula kay David hanggang kay Solomon",
+            "Mula kay Adan hanggang kay Noe"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Genesis 5 traces the generations from Adam to Noah's family.",
+          "fil": "Sinusundan ng Genesis 5 ang mga henerasyon mula kay Adan hanggang sa pamilya ni Noe."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is remembered as living the longest in this list?",
+          "fil": "Sino ang kilalang pinakamatagal nabuhay sa talaang ito?"
+        },
+        "options": {
+          "en": [
+            "Methuselah",
+            "Lamech",
+            "Enoch"
+          ],
+          "fil": [
+            "Si Matusalem",
+            "Si Lamec",
+            "Si Enoc"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Methuselah has the longest lifespan recorded in the genealogy (Genesis 5).",
+          "fil": "Si Matusalem ang may pinakamahabang buhay na nakatala sa talaan ng angkan (Genesis 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose account says that God took him rather than recording his death in the usual way?",
+          "fil": "Kaninong salaysay ang nagsabing kinuha siya ng Diyos sa halip na karaniwang itala ang kanyang kamatayan?"
+        },
+        "options": {
+          "en": [
+            "Enoch's",
+            "Seth's",
+            "Adam's"
+          ],
+          "fil": [
+            "Kay Enoc",
+            "Kay Set",
+            "Kay Adan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Enoch's faithful life ends with God taking him (Genesis 5).",
+          "fil": "Nagtapos ang tapat na buhay ni Enoc sa pagkuha sa kanya ng Diyos (Genesis 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What condition on earth grieves God?",
+          "fil": "Anong kalagayan sa daigdig ang ikinalungkot ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "People caring for their neighbors",
+            "Too much gratitude",
+            "Widespread wickedness and violence"
+          ],
+          "fil": [
+            "Pagmamalasakit ng mga tao sa kapwa",
+            "Sobrang pasasalamat",
+            "Laganap na kasamaan at karahasan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Human wickedness and violence lead to the announcement of judgment (Genesis 6).",
+          "fil": "Humantong sa pagpapahayag ng hatol ang kasamaan at karahasan ng tao (Genesis 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Noah distinguished from the people around him?",
+          "fil": "Paano naiba si Noe sa mga tao sa kanyang paligid?"
+        },
+        "options": {
+          "en": [
+            "He is king of Egypt",
+            "He refuses every instruction from God",
+            "He lives righteously and walks with God"
+          ],
+          "fil": [
+            "Hari siya ng Egipto",
+            "Tinatanggihan niya ang bawat tagubilin ng Diyos",
+            "Namuhay siya nang matuwid at may pakikipag-ugnayan sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Noah finds favor with God and is described as righteous (Genesis 6).",
+          "fil": "Kinalugdan ng Diyos si Noe at inilarawan siyang matuwid (Genesis 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God command Noah to build?",
+          "fil": "Ano ang ipinagawa ng Diyos kay Noe?"
+        },
+        "options": {
+          "en": [
+            "A palace",
+            "An ark",
+            "A tower"
+          ],
+          "fil": [
+            "Isang palasyo",
+            "Isang arka",
+            "Isang tore"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God instructs Noah to build an ark for survival through the flood (Genesis 6).",
+          "fil": "Inutusan ng Diyos si Noe na gumawa ng arka upang maligtas sa baha (Genesis 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical provision must Noah bring for those entering the ark?",
+          "fil": "Anong praktikal na pangangailangan ang dapat dalhin ni Noe para sa papasok sa arka?"
+        },
+        "options": {
+          "en": [
+            "Weapons for invading Egypt",
+            "Crowns for every person",
+            "Food for people and animals"
+          ],
+          "fil": [
+            "Mga sandata sa pagsalakay sa Egipto",
+            "Mga korona para sa bawat tao",
+            "Pagkain para sa mga tao at hayop"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Noah must store food for his household and the animals (Genesis 6).",
+          "fil": "Kailangang mag-imbak ni Noe ng pagkain para sa kanyang sambahayan at mga hayop (Genesis 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "How does Noah respond to God's instructions about entering the ark?",
+          "fil": "Paano tumugon si Noe sa mga tagubilin ng Diyos tungkol sa pagpasok sa arka?"
+        },
+        "options": {
+          "en": [
+            "He moves to Egypt instead",
+            "He abandons the ark",
+            "He obeys and enters with his household"
+          ],
+          "fil": [
+            "Lumipat siya sa Egipto sa halip",
+            "Iniwan niya ang arka",
+            "Sumunod siya at pumasok kasama ang kanyang sambahayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Noah obeys God's command and enters the ark (Genesis 7).",
+          "fil": "Sinunod ni Noe ang utos ng Diyos at pumasok sa arka (Genesis 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who closes the ark after those appointed have entered?",
+          "fil": "Sino ang nagsara ng arka matapos pumasok ang mga itinakda?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh",
+            "Abraham",
+            "The Lord"
+          ],
+          "fil": [
+            "Si Faraon",
+            "Si Abraham",
+            "Ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord shuts Noah in before the flood rises (Genesis 7).",
+          "fil": "Isinara ng Panginoon ang arka bago tumaas ang baha (Genesis 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How high does the flood rise in the account?",
+          "fil": "Gaano kataas ang baha sa salaysay?"
+        },
+        "options": {
+          "en": [
+            "It never rises above the grass",
+            "It covers even the high mountains",
+            "It wets only the riverbank"
+          ],
+          "fil": [
+            "Hindi ito umabot sa taas ng damo",
+            "Natakpan nito maging ang matataas na bundok",
+            "Nabasa lamang nito ang pampang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The flood covers the mountains while the ark floats above the waters (Genesis 7).",
+          "fil": "Natakpan ng baha ang mga bundok habang lumulutang ang arka sa ibabaw ng tubig (Genesis 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Where does the ark come to rest?",
+          "fil": "Saan sumadsad ang arka?"
+        },
+        "options": {
+          "en": [
+            "In Pharaoh's palace",
+            "On Mount Sinai",
+            "On the mountains of Ararat"
+          ],
+          "fil": [
+            "Sa palasyo ni Faraon",
+            "Sa Bundok Sinai",
+            "Sa mga bundok ng Ararat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ark rests on the mountains of Ararat as the waters recede (Genesis 8).",
+          "fil": "Sumadsad ang arka sa mga bundok ng Ararat habang humuhupa ang tubig (Genesis 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the dove bring back that shows the waters are receding?",
+          "fil": "Ano ang ibinalik ng kalapati na nagpakitang humuhupa ang tubig?"
+        },
+        "options": {
+          "en": [
+            "A golden ring",
+            "A fresh olive leaf",
+            "A royal crown"
+          ],
+          "fil": [
+            "Isang gintong singsing",
+            "Bagong pitas na dahon ng olibo",
+            "Korona ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The olive leaf tells Noah that the earth is emerging from the flood (Genesis 8).",
+          "fil": "Ipinabatid ng dahon ng olibo kay Noe na lumilitaw na ang lupa mula sa baha (Genesis 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What finally prompts Noah to bring everyone out of the ark?",
+          "fil": "Ano ang nagtulak kay Noe na ilabas na ang lahat mula sa arka?"
+        },
+        "options": {
+          "en": [
+            "God tells him to come out",
+            "Pharaoh sends a letter",
+            "The ark turns into stone"
+          ],
+          "fil": [
+            "Sinabi ng Diyos na lumabas na siya",
+            "Nagpadala si Faraon ng sulat",
+            "Naging bato ang arka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Noah leaves the ark after receiving God's instruction (Genesis 8).",
+          "fil": "Lumabas si Noe sa arka matapos tanggapin ang tagubilin ng Diyos (Genesis 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Noah build after leaving the ark?",
+          "fil": "Ano ang itinayo ni Noe matapos lumabas sa arka?"
+        },
+        "options": {
+          "en": [
+            "A palace for himself",
+            "A tower to reach heaven",
+            "An altar to the Lord"
+          ],
+          "fil": [
+            "Palasyo para sa sarili",
+            "Tore upang abutin ang langit",
+            "Altar para sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Noah builds an altar and offers sacrifices to the Lord (Genesis 8).",
+          "fil": "Nagtayo si Noe ng altar at naghandog sa Panginoon (Genesis 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What sign does God give for his covenant after the flood?",
+          "fil": "Anong tanda ang ibinigay ng Diyos para sa kanyang tipan matapos ang baha?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "A rainbow",
+            "A burning bush"
+          ],
+          "fil": [
+            "Gintong guya",
+            "Bahaghari",
+            "Nagliliyab na palumpong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The rainbow marks God's covenant after the flood (Genesis 9).",
+          "fil": "Tanda ng tipan ng Diyos matapos ang baha ang bahaghari (Genesis 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is included in this covenant besides Noah's family?",
+          "fil": "Sino ang kasama sa tipang ito bukod sa pamilya ni Noe?"
+        },
+        "options": {
+          "en": [
+            "Only Egyptian soldiers",
+            "The living creatures with them",
+            "Only future kings"
+          ],
+          "fil": [
+            "Mga kawal lamang ng Egipto",
+            "Ang mga hayop na kasama nila",
+            "Mga hari lamang sa hinaharap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's covenant embraces living creatures as well as Noah's descendants (Genesis 9).",
+          "fil": "Saklaw ng tipan ng Diyos ang mga hayop pati ang mga inapo ni Noe (Genesis 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise about a flood destroying all life?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa bahang lilipol sa lahat ng buhay?"
+        },
+        "options": {
+          "en": [
+            "He will send such a flood every year",
+            "No river will ever overflow anywhere",
+            "He will not again destroy all life by a flood"
+          ],
+          "fil": [
+            "Magpapadala siya ng ganoong baha taun-taon",
+            "Walang ilog na aapaw saanman kailanman",
+            "Hindi na niya muling lilipulin sa baha ang lahat ng buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise concerns another flood that destroys all living creatures (Genesis 9).",
+          "fil": "Tungkol ang pangako sa panibagong bahang lilipol sa lahat ng nilalang na may buhay (Genesis 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Whose descendants form the main list in this chapter?",
+          "fil": "Kaninong mga inapo ang pangunahing nakatala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "David's sons",
+            "Noah's sons",
+            "Moses' sons"
+          ],
+          "fil": [
+            "Ng mga anak ni David",
+            "Ng mga anak ni Noe",
+            "Ng mga anak ni Moises"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Genesis 10 traces the peoples descended from Noah's sons.",
+          "fil": "Sinusundan ng Genesis 10 ang mga bayang nagmula sa mga anak ni Noe."
+        }
+      },
+      {
+        "q": {
+          "en": "Which memorable figure is described as a mighty hunter?",
+          "fil": "Sinong kilalang tao ang inilarawang makapangyarihang mangangaso?"
+        },
+        "options": {
+          "en": [
+            "Isaac",
+            "Abel",
+            "Nimrod"
+          ],
+          "fil": [
+            "Si Isaac",
+            "Si Abel",
+            "Si Nimrod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nimrod is singled out as a mighty hunter among the listed descendants (Genesis 10).",
+          "fil": "Ibinukod si Nimrod bilang makapangyarihang mangangaso sa mga nakatalang inapo (Genesis 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter describe the spreading peoples?",
+          "fil": "Paano inilarawan ng kabanata ang mga bayang lumaganap?"
+        },
+        "options": {
+          "en": [
+            "As people without any descendants",
+            "By families, languages, lands, and nations",
+            "As one royal household in Egypt"
+          ],
+          "fil": [
+            "Bilang mga taong walang mga inapo",
+            "Ayon sa pamilya, wika, lupain, at bansa",
+            "Bilang isang pamilya ng hari sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The list presents the nations as related peoples spread across their territories (Genesis 10).",
+          "fil": "Ipinakikita ng talaan ang mga bansa bilang magkakaugnay na bayang lumaganap sa kani-kanilang lupain (Genesis 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What is the builders' goal in making a city and high tower?",
+          "fil": "Ano ang layunin ng mga nagtayo ng lungsod at mataas na tore?"
+        },
+        "options": {
+          "en": [
+            "Build an ark for Noah",
+            "Make a name for themselves and avoid being scattered",
+            "Prepare a home for Pharaoh"
+          ],
+          "fil": [
+            "Gumawa ng arka para kay Noe",
+            "Magkaroon ng tanyag na pangalan at maiwasan ang pagkalat",
+            "Maghanda ng tahanan para kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The builders seek fame and security through their city and tower (Genesis 11).",
+          "fil": "Hinangad ng mga nagtayo ang katanyagan at katiyakan sa kanilang lungsod at tore (Genesis 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God change that disrupts the building project?",
+          "fil": "Ano ang binago ng Diyos na nakahadlang sa pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "The color of the stones",
+            "Their shared language",
+            "The number of stars"
+          ],
+          "fil": [
+            "Ang kulay ng mga bato",
+            "Ang kanilang iisang wika",
+            "Ang dami ng mga bituin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Confused language prevents the builders from understanding one another (Genesis 11).",
+          "fil": "Nahahadlangan ng magkakaibang wika ang pagkakaunawaan ng mga nagtayo (Genesis 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the people after their language is confused?",
+          "fil": "Ano ang nangyari sa mga tao matapos magulo ang kanilang wika?"
+        },
+        "options": {
+          "en": [
+            "They scatter across the earth",
+            "They all become kings of Egypt",
+            "They finish the tower to heaven"
+          ],
+          "fil": [
+            "Nangalat sila sa daigdig",
+            "Naging mga hari silang lahat ng Egipto",
+            "Natapos nila ang tore hanggang langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The unfinished project ends with the people dispersed (Genesis 11).",
+          "fil": "Nauwi ang hindi natapos na pagtatayo sa pagkalat ng mga tao (Genesis 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Where does Abram go in response to God's call?",
+          "fil": "Saan pumunta si Abram bilang pagtugon sa tawag ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Canaan",
+            "Egypt's capital as king",
+            "Babylon to build a tower"
+          ],
+          "fil": [
+            "Canaan",
+            "Sa kabisera ng Egipto bilang hari",
+            "Sa Babilonia upang gumawa ng tore"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abram leaves Haran and travels to Canaan (Genesis 12).",
+          "fil": "Umalis si Abram sa Haran at naglakbay sa Canaan (Genesis 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise will reach other peoples through Abram?",
+          "fil": "Ano ang ipinangako ng Diyos na makararating sa ibang mga bayan sa pamamagitan ni Abram?"
+        },
+        "options": {
+          "en": [
+            "Permanent slavery",
+            "The end of all harvests",
+            "Blessing"
+          ],
+          "fil": [
+            "Panghabambuhay na pagkaalipin",
+            "Pagtatapos ng lahat ng ani",
+            "Pagpapala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's promise to Abram includes blessing for the families of the earth (Genesis 12).",
+          "fil": "Kasama sa pangako ng Diyos kay Abram ang pagpapala para sa mga pamilya ng daigdig (Genesis 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Abram go down to Egypt?",
+          "fil": "Bakit bumaba si Abram sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "He wants to fight Noah",
+            "There is a famine in the land",
+            "He has been appointed Pharaoh"
+          ],
+          "fil": [
+            "Nais niyang labanan si Noe",
+            "May taggutom sa lupain",
+            "Itinalaga siyang Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Famine leads Abram to seek temporary refuge in Egypt (Genesis 12).",
+          "fil": "Nagtungo si Abram sa Egipto upang pansamantalang makaiwas sa taggutom (Genesis 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abram ask Sarai to describe their relationship in Egypt?",
+          "fil": "Paano hiniling ni Abram kay Sarai na ilarawan ang kanilang ugnayan sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Say she is his daughter",
+            "Say she is his sister",
+            "Say she is Pharaoh's mother"
+          ],
+          "fil": [
+            "Sabihing anak niya ito",
+            "Sabihing kapatid niya ito",
+            "Sabihing ina siya ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abram asks Sarai to present herself as his sister because he fears for his life (Genesis 12).",
+          "fil": "Hiniling ni Abram kay Sarai na magpakilalang kapatid niya dahil natatakot siyang mapatay (Genesis 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What problem leads Abram and Lot to separate?",
+          "fil": "Anong suliranin ang humantong sa paghihiwalay nina Abram at Lot?"
+        },
+        "options": {
+          "en": [
+            "Their large herds lead to conflict over shared land",
+            "Lot refuses to leave Egypt's throne",
+            "Abram loses every animal"
+          ],
+          "fil": [
+            "Nagkaroon ng alitan sa lupain dahil sa malalaki nilang kawan",
+            "Tumanggi si Lot na iwan ang trono ng Egipto",
+            "Nawala ang lahat ng hayop ni Abram"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The land cannot support both households' herds without conflict (Genesis 13).",
+          "fil": "Hindi sapat ang lupain para sa mga kawan ng dalawang sambahayan nang walang alitan (Genesis 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What land does Lot choose?",
+          "fil": "Anong lupain ang pinili ni Lot?"
+        },
+        "options": {
+          "en": [
+            "The well-watered Jordan plain",
+            "The desert around Sinai",
+            "The mountains of Ararat"
+          ],
+          "fil": [
+            "Ang matubig na kapatagan ng Jordan",
+            "Ang disyerto sa paligid ng Sinai",
+            "Ang mga bundok ng Ararat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Lot chooses the fertile plain and moves toward Sodom (Genesis 13).",
+          "fil": "Pinili ni Lot ang matabang kapatagan at lumipat patungo sa Sodoma (Genesis 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God tell Abram about the land he can see?",
+          "fil": "Ano ang sinabi ng Diyos kay Abram tungkol sa lupaing natatanaw niya?"
+        },
+        "options": {
+          "en": [
+            "It will belong to Pharaoh forever",
+            "It must never be inhabited",
+            "God will give it to him and his descendants"
+          ],
+          "fil": [
+            "Magiging kay Faraon ito habambuhay",
+            "Hindi ito dapat tirhan kailanman",
+            "Ibibigay ito ng Diyos sa kanya at sa kanyang mga inapo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God renews the promise of land after Lot separates from Abram (Genesis 13).",
+          "fil": "Muling ipinangako ng Diyos ang lupain matapos humiwalay si Lot kay Abram (Genesis 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Abram settle and build an altar near the great trees of Mamre?",
+          "fil": "Saan nanirahan at nagtayo ng altar si Abram malapit sa malalaking puno ng Mamre?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Babel",
+            "Nineveh"
+          ],
+          "fil": [
+            "Hebron",
+            "Babel",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abram settles near Mamre at Hebron and worships the Lord (Genesis 13).",
+          "fil": "Nanirahan si Abram malapit sa Mamre sa Hebron at sumamba sa Panginoon (Genesis 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What happens to Lot when the invading kings defeat Sodom?",
+          "fil": "Ano ang nangyari kay Lot nang talunin ng mga sumalakay na hari ang Sodoma?"
+        },
+        "options": {
+          "en": [
+            "He builds the ark",
+            "He is taken captive with his possessions",
+            "He becomes king of Egypt"
+          ],
+          "fil": [
+            "Ginawa niya ang arka",
+            "Nabihag siya kasama ang kanyang mga ari-arian",
+            "Naging hari siya ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lot is carried away among Sodom's captives (Genesis 14).",
+          "fil": "Dinala si Lot kasama ng mga bihag mula sa Sodoma (Genesis 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abram respond when he hears about Lot's capture?",
+          "fil": "Paano tumugon si Abram nang mabalitaan ang pagkabihag ni Lot?"
+        },
+        "options": {
+          "en": [
+            "He joins Pharaoh's household",
+            "He refuses to help any relative",
+            "He leads his trained men to rescue him"
+          ],
+          "fil": [
+            "Sumama siya sa sambahayan ni Faraon",
+            "Tumanggi siyang tulungan ang sinumang kamag-anak",
+            "Pinamunuan niya ang kanyang mga sinanay na tauhan upang iligtas ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abram pursues the captors and recovers Lot and the others (Genesis 14).",
+          "fil": "Hinabol ni Abram ang mga bumihag at nailigtas si Lot at ang iba (Genesis 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who blesses Abram after the rescue?",
+          "fil": "Sino ang nagbasbas kay Abram matapos ang pagliligtas?"
+        },
+        "options": {
+          "en": [
+            "Melchizedek, king of Salem and priest of God",
+            "Nimrod, builder of Babel",
+            "Pharaoh, king of Egypt"
+          ],
+          "fil": [
+            "Si Melquisedec na hari ng Salem at pari ng Diyos",
+            "Si Nimrod na nagtayo ng Babel",
+            "Si Faraon na hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Melchizedek blesses Abram and honors God for the victory (Genesis 14).",
+          "fil": "Binasbasan ni Melquisedec si Abram at pinarangalan ang Diyos sa tagumpay (Genesis 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Abram refuse the king of Sodom's offer of goods for himself?",
+          "fil": "Bakit tinanggihan ni Abram para sa sarili ang alok na mga ari-arian ng hari ng Sodoma?"
+        },
+        "options": {
+          "en": [
+            "Because he wants to become Pharaoh",
+            "Because Lot remains a captive",
+            "So the king cannot claim to have made him rich"
+          ],
+          "fil": [
+            "Dahil nais niyang maging Faraon",
+            "Dahil bihag pa rin si Lot",
+            "Upang hindi maangkin ng hari na siya ang nagpayaman kay Abram"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abram refuses personal gain that would let Sodom's king claim credit for his wealth (Genesis 14).",
+          "fil": "Tinanggihan ni Abram ang pansariling pakinabang na magpapahintulot sa hari ng Sodoma na angkining siya ang nagpayaman dito (Genesis 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What concern does Abram raise about his household?",
+          "fil": "Anong alalahanin ang iniharap ni Abram tungkol sa kanyang sambahayan?"
+        },
+        "options": {
+          "en": [
+            "He has too many kingdoms to rule",
+            "He has no child to inherit after him",
+            "He has lost the ark"
+          ],
+          "fil": [
+            "Napakarami niyang kahariang pamumunuan",
+            "Wala siyang anak na magmamana pagkatapos niya",
+            "Nawala niya ang arka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abram asks about an heir because he remains childless (Genesis 15).",
+          "fil": "Nagtanong si Abram tungkol sa tagapagmana dahil wala pa siyang anak (Genesis 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God use to picture Abram's future descendants?",
+          "fil": "Ano ang ginamit ng Diyos upang ilarawan ang magiging mga inapo ni Abram?"
+        },
+        "options": {
+          "en": [
+            "The crowns of Egypt",
+            "The bricks of Babel",
+            "The stars"
+          ],
+          "fil": [
+            "Ang mga korona ng Egipto",
+            "Ang mga laryo ng Babel",
+            "Ang mga bituin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God points Abram to the stars as a picture of numerous descendants (Genesis 15).",
+          "fil": "Itinuro ng Diyos kay Abram ang mga bituin bilang larawan ng maraming inapo (Genesis 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abram respond to God's promise?",
+          "fil": "Paano tumugon si Abram sa pangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He worships Pharaoh",
+            "He believes God",
+            "He refuses to listen"
+          ],
+          "fil": [
+            "Sinamba niya si Faraon",
+            "Naniwala siya sa Diyos",
+            "Tumanggi siyang makinig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abram's trust in God is credited to him as righteousness (Genesis 15).",
+          "fil": "Kinilala bilang katuwiran ang pagtitiwala ni Abram sa Diyos (Genesis 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future hardship does God foretell for Abram's descendants?",
+          "fil": "Anong paghihirap sa hinaharap ang ipinahayag ng Diyos para sa mga inapo ni Abram?"
+        },
+        "options": {
+          "en": [
+            "They will never have any children",
+            "They will suffer as foreigners before returning",
+            "They will all become Pharaohs"
+          ],
+          "fil": [
+            "Hindi sila kailanman magkakaanak",
+            "Magdurusa sila bilang mga dayuhan bago bumalik",
+            "Lahat sila ay magiging mga Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God foretells oppression abroad followed by deliverance and return (Genesis 15).",
+          "fil": "Ipinahayag ng Diyos ang pang-aapi sa ibang lupain na susundan ng pagliligtas at pagbabalik (Genesis 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Whom does Sarai give to Abram because she has no child?",
+          "fil": "Sino ang ibinigay ni Sarai kay Abram dahil wala siyang anak?"
+        },
+        "options": {
+          "en": [
+            "Hagar, her Egyptian servant",
+            "Rebekah",
+            "Rachel"
+          ],
+          "fil": [
+            "Si Hagar na kanyang aliping taga-Egipto",
+            "Si Rebeca",
+            "Si Raquel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Sarai gives Hagar to Abram in an attempt to obtain a child (Genesis 16).",
+          "fil": "Ibinigay ni Sarai si Hagar kay Abram sa pagtatangkang magkaroon ng anak (Genesis 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Hagar flee from Sarai?",
+          "fil": "Bakit tumakas si Hagar mula kay Sarai?"
+        },
+        "options": {
+          "en": [
+            "She has been made queen of Egypt",
+            "Sarai treats her harshly",
+            "She is sent to rescue Lot"
+          ],
+          "fil": [
+            "Ginawa siyang reyna ng Egipto",
+            "Pinagmalupitan siya ni Sarai",
+            "Ipinadala siya upang iligtas si Lot"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hagar runs away after Sarai mistreats her (Genesis 16).",
+          "fil": "Tumakas si Hagar matapos siyang pagmalupitan ni Sarai (Genesis 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the Lord's angel find Hagar?",
+          "fil": "Saan natagpuan ng anghel ng Panginoon si Hagar?"
+        },
+        "options": {
+          "en": [
+            "By a spring in the wilderness",
+            "On Mount Ararat",
+            "Inside Pharaoh's palace"
+          ],
+          "fil": [
+            "Sa bukal sa ilang",
+            "Sa Bundok Ararat",
+            "Sa loob ng palasyo ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The angel meets Hagar by a wilderness spring (Genesis 16).",
+          "fil": "Nakipagtagpo ang anghel kay Hagar sa isang bukal sa ilang (Genesis 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name is Hagar told to give her son?",
+          "fil": "Anong pangalan ang ipinabigay kay Hagar sa kanyang anak?"
+        },
+        "options": {
+          "en": [
+            "Isaac",
+            "Ishmael",
+            "Jacob"
+          ],
+          "fil": [
+            "Isaac",
+            "Ismael",
+            "Jacob"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The angel names her son Ishmael because God has heard her affliction (Genesis 16).",
+          "fil": "Pinangalanan ng anghel ang anak na Ismael dahil narinig ng Diyos ang kanyang pagdurusa (Genesis 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What new name does God give Abram?",
+          "fil": "Anong bagong pangalan ang ibinigay ng Diyos kay Abram?"
+        },
+        "options": {
+          "en": [
+            "Abraham",
+            "Israel",
+            "Isaac"
+          ],
+          "fil": [
+            "Abraham",
+            "Israel",
+            "Isaac"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God renames Abram as Abraham in connection with the covenant promise (Genesis 17).",
+          "fil": "Pinangalanang Abraham ng Diyos si Abram kaugnay ng pangako sa tipan (Genesis 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sign of the covenant is required for the males of Abraham's household?",
+          "fil": "Anong tanda ng tipan ang hinihingi sa mga lalaki ng sambahayan ni Abraham?"
+        },
+        "options": {
+          "en": [
+            "A tattoo of Pharaoh",
+            "Circumcision",
+            "A royal crown"
+          ],
+          "fil": [
+            "Tatu ni Faraon",
+            "Pagtutuli",
+            "Korona ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Circumcision becomes the household's sign of God's covenant (Genesis 17).",
+          "fil": "Naging tanda ng tipan ng Diyos sa sambahayan ang pagtutuli (Genesis 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What new name does God give Sarai?",
+          "fil": "Anong bagong pangalan ang ibinigay ng Diyos kay Sarai?"
+        },
+        "options": {
+          "en": [
+            "Sarah",
+            "Rebekah",
+            "Rachel"
+          ],
+          "fil": [
+            "Sara",
+            "Rebeca",
+            "Raquel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God renames Sarai as Sarah and promises to bless her (Genesis 17).",
+          "fil": "Pinangalanang Sara ng Diyos si Sarai at ipinangakong pagpapalain siya (Genesis 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Through which promised son will God establish the covenant?",
+          "fil": "Sa sinong ipinangakong anak itatatag ng Diyos ang tipan?"
+        },
+        "options": {
+          "en": [
+            "Isaac, Sarah's son",
+            "Lot, Abraham's nephew",
+            "Eliezer, Abraham's servant"
+          ],
+          "fil": [
+            "Kay Isaac na anak ni Sara",
+            "Kay Lot na pamangkin ni Abraham",
+            "Kay Eliezer na lingkod ni Abraham"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God specifies Isaac as the son through whom the covenant will continue (Genesis 17).",
+          "fil": "Tinukoy ng Diyos si Isaac bilang anak na pagpapatuluyan ng tipan (Genesis 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "For which city does Abraham plead with God?",
+          "fil": "Para sa anong lungsod nakiusap si Abraham sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem",
+            "Nineveh",
+            "Sodom"
+          ],
+          "fil": [
+            "Jerusalem",
+            "Nineve",
+            "Sodoma"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abraham pleads over the threatened judgment on Sodom (Genesis 18).",
+          "fil": "Nakiusap si Abraham tungkol sa nakaambang hatol sa Sodoma (Genesis 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What concern does Abraham raise about the righteous and the wicked?",
+          "fil": "Anong alalahanin ang iniharap ni Abraham tungkol sa matuwid at masama?"
+        },
+        "options": {
+          "en": [
+            "Whether the wicked should rule heaven",
+            "Whether the righteous should perish with the wicked",
+            "Whether righteous people need food"
+          ],
+          "fil": [
+            "Kung dapat maghari sa langit ang masama",
+            "Kung dapat mapahamak ang matuwid kasama ng masama",
+            "Kung kailangan ng matuwid ang pagkain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abraham appeals to God's justice in distinguishing the righteous from the wicked (Genesis 18).",
+          "fil": "Umapela si Abraham sa katarungan ng Diyos sa pagkilala sa matuwid at masama (Genesis 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abraham continue his appeal about the city?",
+          "fil": "Paano ipinagpatuloy ni Abraham ang kanyang pakiusap tungkol sa lungsod?"
+        },
+        "options": {
+          "en": [
+            "He asks about progressively fewer righteous people",
+            "He offers to build idols",
+            "He commands God to leave"
+          ],
+          "fil": [
+            "Nagtanong siya tungkol sa unti-unting mas kakaunting matuwid",
+            "Nag-alok siyang gumawa ng diyus-diyosan",
+            "Inutusan niya ang Diyos na umalis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abraham respectfully continues asking about smaller groups of righteous residents (Genesis 18).",
+          "fil": "Magalang na nagpatuloy si Abraham sa pagtatanong tungkol sa mas maliliit na pangkat ng matuwid na naninirahan (Genesis 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Who welcomes the two angels into his home in Sodom?",
+          "fil": "Sino ang tumanggap sa dalawang anghel sa kanyang tahanan sa Sodoma?"
+        },
+        "options": {
+          "en": [
+            "Abraham",
+            "Lot",
+            "Isaac"
+          ],
+          "fil": [
+            "Si Abraham",
+            "Si Lot",
+            "Si Isaac"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lot offers the visitors hospitality in Sodom (Genesis 19).",
+          "fil": "Malugod na tinanggap ni Lot ang mga bisita sa Sodoma (Genesis 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the visitors stop the mob at Lot's doorway?",
+          "fil": "Paano pinigilan ng mga bisita ang nagkakagulong tao sa pintuan ni Lot?"
+        },
+        "options": {
+          "en": [
+            "They ask Pharaoh to guard the house",
+            "They give the men royal crowns",
+            "They strike the men with blindness"
+          ],
+          "fil": [
+            "Hiniling nila kay Faraon na bantayan ang bahay",
+            "Binigyan nila ng mga korona ang mga lalaki",
+            "Binulag nila ang mga lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The angels blind the men so they cannot find the doorway (Genesis 19).",
+          "fil": "Binulag ng mga anghel ang mga lalaki kaya hindi nila mahanap ang pintuan (Genesis 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which small town does Lot ask to flee to?",
+          "fil": "Sa anong maliit na bayan hiniling ni Lot na tumakas?"
+        },
+        "options": {
+          "en": [
+            "Zoar",
+            "Hebron",
+            "Babel"
+          ],
+          "fil": [
+            "Zoar",
+            "Hebron",
+            "Babel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Lot receives permission to escape to the small town of Zoar (Genesis 19).",
+          "fil": "Pinahintulutan si Lot na tumakas sa maliit na bayan ng Zoar (Genesis 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Lot's wife when she looks back?",
+          "fil": "Ano ang nangyari sa asawa ni Lot nang lumingon siya?"
+        },
+        "options": {
+          "en": [
+            "She returns safely to the city",
+            "She becomes queen of Sodom",
+            "She becomes a pillar of salt"
+          ],
+          "fil": [
+            "Ligtas siyang bumalik sa lungsod",
+            "Naging reyna siya ng Sodoma",
+            "Naging haliging asin siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Lot's wife looks back and becomes a pillar of salt (Genesis 19).",
+          "fil": "Lumingon ang asawa ni Lot at naging haliging asin (Genesis 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "How does Abraham describe Sarah to Abimelech?",
+          "fil": "Paano ipinakilala ni Abraham si Sara kay Abimelec?"
+        },
+        "options": {
+          "en": [
+            "As his sister",
+            "As his mother",
+            "As his daughter"
+          ],
+          "fil": [
+            "Bilang kanyang kapatid",
+            "Bilang kanyang ina",
+            "Bilang kanyang anak"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abraham presents Sarah as his sister in Gerar (Genesis 20).",
+          "fil": "Ipinakilala ni Abraham si Sara bilang kanyang kapatid sa Gerar (Genesis 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God warn Abimelech that Sarah is married?",
+          "fil": "Paano binalaan ng Diyos si Abimelec na may asawa si Sara?"
+        },
+        "options": {
+          "en": [
+            "Through a golden idol",
+            "Through a letter from Pharaoh",
+            "In a dream"
+          ],
+          "fil": [
+            "Sa gintong diyus-diyosan",
+            "Sa sulat mula kay Faraon",
+            "Sa panaginip"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God speaks to Abimelech in a dream about Sarah (Genesis 20).",
+          "fil": "Kinausap ng Diyos si Abimelec sa panaginip tungkol kay Sara (Genesis 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Abimelech do after receiving God's warning?",
+          "fil": "Ano ang ginawa ni Abimelec matapos tanggapin ang babala ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Returns Sarah to Abraham",
+            "Sends Sarah to Babylon",
+            "Makes Abraham his prisoner forever"
+          ],
+          "fil": [
+            "Ibinalik si Sara kay Abraham",
+            "Ipinadala si Sara sa Babilonia",
+            "Ibinilanggo si Abraham habambuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abimelech returns Sarah and gives gifts to Abraham (Genesis 20).",
+          "fil": "Ibinalik ni Abimelec si Sara at nagbigay ng mga regalo kay Abraham (Genesis 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Abraham prays for Abimelech's household?",
+          "fil": "Ano ang nangyari nang ipanalangin ni Abraham ang sambahayan ni Abimelec?"
+        },
+        "options": {
+          "en": [
+            "They become builders of Babel",
+            "God heals them so they can have children again",
+            "They all move to Egypt"
+          ],
+          "fil": [
+            "Naging mga tagapagtayo sila ng Babel",
+            "Pinagaling sila ng Diyos upang muli silang magkaanak",
+            "Lumipat silang lahat sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God restores the household's ability to have children after Abraham prays (Genesis 20).",
+          "fil": "Ibinalik ng Diyos ang kakayahan ng sambahayan na magkaanak matapos manalangin si Abraham (Genesis 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What son is born to Abraham and Sarah as God promised?",
+          "fil": "Sinong anak ang ipinanganak kina Abraham at Sara ayon sa pangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Ishmael",
+            "Isaac",
+            "Esau"
+          ],
+          "fil": [
+            "Si Ismael",
+            "Si Isaac",
+            "Si Esau"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Sarah gives birth to Isaac at the time God promised (Genesis 21).",
+          "fil": "Isinilang ni Sara si Isaac sa panahong ipinangako ng Diyos (Genesis 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Sarah ask Abraham to do about Hagar and her son?",
+          "fil": "Ano ang hiniling ni Sara kay Abraham tungkol kay Hagar at sa anak nito?"
+        },
+        "options": {
+          "en": [
+            "Make Hagar queen",
+            "Give them Egypt's throne",
+            "Send them away"
+          ],
+          "fil": [
+            "Gawing reyna si Hagar",
+            "Ibigay sa kanila ang trono ng Egipto",
+            "Paalisin sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Sarah asks that Hagar and her son leave the household (Genesis 21).",
+          "fil": "Hiniling ni Sara na umalis sina Hagar at ang anak nito sa sambahayan (Genesis 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God help Hagar when the water runs out in the wilderness?",
+          "fil": "Paano tinulungan ng Diyos si Hagar nang maubos ang tubig sa ilang?"
+        },
+        "options": {
+          "en": [
+            "He enables her to see a well",
+            "He turns the boy into a bird",
+            "He sends Pharaoh's chariots"
+          ],
+          "fil": [
+            "Ipinakita niya sa kanya ang isang balon",
+            "Ginawa niyang ibon ang bata",
+            "Ipinadala niya ang mga karwahe ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God opens Hagar's eyes to a well that supplies water (Genesis 21).",
+          "fil": "Iminulat ng Diyos ang mga mata ni Hagar sa balong may tubig (Genesis 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What skill does Hagar's son develop as he grows in the wilderness?",
+          "fil": "Anong kasanayan ang natutuhan ng anak ni Hagar habang lumalaki sa ilang?"
+        },
+        "options": {
+          "en": [
+            "Archery",
+            "Sailing ocean fleets",
+            "Building royal palaces"
+          ],
+          "fil": [
+            "Pamamana",
+            "Pagpapatakbo ng mga barko sa karagatan",
+            "Pagtatayo ng mga palasyo ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The boy grows up in the wilderness and becomes an archer (Genesis 21).",
+          "fil": "Lumaki ang bata sa ilang at naging mamamana (Genesis 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Which son does God ask Abraham to offer in this test?",
+          "fil": "Sinong anak ang ipinahandog ng Diyos kay Abraham sa pagsubok na ito?"
+        },
+        "options": {
+          "en": [
+            "Isaac",
+            "Jacob",
+            "Ishmael"
+          ],
+          "fil": [
+            "Si Isaac",
+            "Si Jacob",
+            "Si Ismael"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The test concerns Abraham's willingness to offer Isaac (Genesis 22).",
+          "fil": "Tungkol sa kahandaan ni Abraham na ihandog si Isaac ang pagsubok (Genesis 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Isaac carry as he and Abraham approach the place of sacrifice?",
+          "fil": "Ano ang dinala ni Isaac nang lumapit sila ni Abraham sa lugar ng paghahandog?"
+        },
+        "options": {
+          "en": [
+            "The wood for the offering",
+            "A royal crown",
+            "The tablets of the law"
+          ],
+          "fil": [
+            "Ang kahoy para sa handog",
+            "Korona ng hari",
+            "Ang mga tapyas ng kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abraham places the wood on Isaac for the climb (Genesis 22).",
+          "fil": "Ipinasan ni Abraham kay Isaac ang kahoy para sa pag-akyat (Genesis 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What animal is provided in Isaac's place after the angel stops Abraham?",
+          "fil": "Anong hayop ang inilaan kapalit ni Isaac matapos pigilan ng anghel si Abraham?"
+        },
+        "options": {
+          "en": [
+            "A lion from Moab",
+            "A ram caught in a thicket",
+            "A horse from Egypt"
+          ],
+          "fil": [
+            "Leong mula sa Moab",
+            "Lalaking tupang nasabit sa mga palumpong",
+            "Kabayong mula sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abraham offers the ram instead of his son (Genesis 22).",
+          "fil": "Inihandog ni Abraham ang lalaking tupa sa halip na ang kanyang anak (Genesis 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What promise is reaffirmed after Abraham's obedience?",
+          "fil": "Anong pangako ang muling pinagtibay matapos sumunod si Abraham?"
+        },
+        "options": {
+          "en": [
+            "The end of all descendants",
+            "Blessing for the nations through his descendants",
+            "A permanent throne in Egypt"
+          ],
+          "fil": [
+            "Pagtatapos ng lahat ng inapo",
+            "Pagpapala sa mga bansa sa pamamagitan ng kanyang mga inapo",
+            "Permanenteng trono sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God renews the promise that Abraham's descendants will bring blessing to the nations (Genesis 22).",
+          "fil": "Muling ipinangako ng Diyos na magdadala ng pagpapala sa mga bansa ang mga inapo ni Abraham (Genesis 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Whose death leads Abraham to seek a burial place?",
+          "fil": "Kaninong kamatayan ang nagtulak kay Abraham na humanap ng libingan?"
+        },
+        "options": {
+          "en": [
+            "Hagar's",
+            "Sarah's",
+            "Rebekah's"
+          ],
+          "fil": [
+            "Ni Hagar",
+            "Ni Sara",
+            "Ni Rebeca"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abraham seeks a burial site after Sarah dies at Hebron (Genesis 23).",
+          "fil": "Humanap si Abraham ng libingan matapos mamatay si Sara sa Hebron (Genesis 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which burial place does Abraham request?",
+          "fil": "Anong libingan ang hiniling ni Abraham?"
+        },
+        "options": {
+          "en": [
+            "The cave of Machpelah",
+            "The tower of Babel",
+            "Pharaoh's royal tomb"
+          ],
+          "fil": [
+            "Ang yungib ng Macpela",
+            "Ang tore ng Babel",
+            "Ang libingan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abraham asks to purchase the cave of Machpelah (Genesis 23).",
+          "fil": "Hiniling ni Abraham na bilhin ang yungib ng Macpela (Genesis 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who owns the field and cave that Abraham buys?",
+          "fil": "Sino ang may-ari ng bukid at yungib na binili ni Abraham?"
+        },
+        "options": {
+          "en": [
+            "Lot of Sodom",
+            "Ephron the Hittite",
+            "Abimelech of Gerar"
+          ],
+          "fil": [
+            "Si Lot ng Sodoma",
+            "Si Efron na Heteo",
+            "Si Abimelec ng Gerar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abraham negotiates the purchase with Ephron (Genesis 23).",
+          "fil": "Nakipag-usap si Abraham kay Efron para sa pagbili (Genesis 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abraham secure the burial property publicly?",
+          "fil": "Paano tiniyak ni Abraham sa harap ng bayan ang pagmamay-ari sa libingan?"
+        },
+        "options": {
+          "en": [
+            "He takes it by force",
+            "He pays the agreed price before witnesses",
+            "He asks Pharaoh to seize it"
+          ],
+          "fil": [
+            "Kinuha niya ito sa dahas",
+            "Binayaran niya ang napagkasunduang halaga sa harap ng mga saksi",
+            "Hiniling niyang agawin ito ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The witnessed payment establishes the field and cave as Abraham's property (Genesis 23).",
+          "fil": "Pinagtibay ng bayad sa harap ng mga saksi ang bukid at yungib bilang ari-arian ni Abraham (Genesis 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Where does Abraham send his servant to find a wife for Isaac?",
+          "fil": "Saan ipinadala ni Abraham ang lingkod upang humanap ng asawa ni Isaac?"
+        },
+        "options": {
+          "en": [
+            "To Pharaoh's royal court",
+            "To the ruins of Sodom",
+            "To Abraham's relatives in his homeland"
+          ],
+          "fil": [
+            "Sa korte ni Faraon",
+            "Sa mga guho ng Sodoma",
+            "Sa mga kamag-anak ni Abraham sa kanyang pinagmulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abraham sends the servant to his own relatives rather than the local Canaanites (Genesis 24).",
+          "fil": "Ipinadala ni Abraham ang lingkod sa sarili niyang mga kamag-anak sa halip na sa mga taga-Canaan (Genesis 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What generous action is part of the sign the servant asks God for?",
+          "fil": "Anong bukas-palad na kilos ang bahagi ng tandang hiniling ng lingkod sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Offering him a royal crown",
+            "Offering water to him and his camels",
+            "Giving him a city to rule"
+          ],
+          "fil": [
+            "Pag-aalok sa kanya ng korona ng hari",
+            "Pag-aalok ng tubig sa kanya at sa kanyang mga kamelyo",
+            "Pagbibigay sa kanya ng lungsod na pamumunuan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The requested sign includes kindness to the servant's thirsty camels (Genesis 24).",
+          "fil": "Kasama sa hiniling na tanda ang kabaitan sa mga uhaw na kamelyo ng lingkod (Genesis 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who meets the servant and fulfills that sign?",
+          "fil": "Sino ang nakatagpo ng lingkod at tumupad sa tandang iyon?"
+        },
+        "options": {
+          "en": [
+            "Sarah",
+            "Rebekah",
+            "Hagar"
+          ],
+          "fil": [
+            "Si Sara",
+            "Si Rebeca",
+            "Si Hagar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rebekah draws water for the servant and his camels (Genesis 24).",
+          "fil": "Sumalok si Rebeca ng tubig para sa lingkod at mga kamelyo nito (Genesis 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Rebekah respond when asked whether she will go with the servant?",
+          "fil": "Paano tumugon si Rebeca nang tanungin kung sasama siya sa lingkod?"
+        },
+        "options": {
+          "en": [
+            "She refuses ever to leave home",
+            "She demands Egypt's throne",
+            "She agrees to go"
+          ],
+          "fil": [
+            "Tumanggi siyang umalis kailanman sa bahay",
+            "Hiningi niya ang trono ng Egipto",
+            "Pumayag siyang sumama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rebekah willingly leaves with the servant to become Isaac's wife (Genesis 24).",
+          "fil": "Kusang sumama si Rebeca sa lingkod upang maging asawa ni Isaac (Genesis 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What does Isaac do because Rebekah cannot have children?",
+          "fil": "Ano ang ginawa ni Isaac dahil hindi magkaanak si Rebeca?"
+        },
+        "options": {
+          "en": [
+            "He asks Pharaoh for a child",
+            "He builds an idol",
+            "He prays to the Lord for her"
+          ],
+          "fil": [
+            "Humingi siya ng anak kay Faraon",
+            "Gumawa siya ng diyus-diyosan",
+            "Ipinanalangin niya siya sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God answers Isaac's prayer and Rebekah becomes pregnant (Genesis 25).",
+          "fil": "Sinagot ng Diyos ang panalangin ni Isaac at nagdalang-tao si Rebeca (Genesis 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What surprising relationship does God announce between Rebekah's twins?",
+          "fil": "Anong di-inaasahang ugnayan ang ipinahayag ng Diyos tungkol sa kambal ni Rebeca?"
+        },
+        "options": {
+          "en": [
+            "Neither will have descendants",
+            "Both will become Pharaohs",
+            "The older will serve the younger"
+          ],
+          "fil": [
+            "Walang magiging inapo ang alinman",
+            "Kapwa sila magiging mga Faraon",
+            "Maglilingkod ang nakatatanda sa nakababata"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God tells Rebekah that the older son's people will serve the younger's (Genesis 25).",
+          "fil": "Sinabi ng Diyos kay Rebeca na maglilingkod ang bayan ng nakatatandang anak sa bayan ng nakababata (Genesis 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What way of life is associated with Esau?",
+          "fil": "Anong uri ng pamumuhay ang kaugnay ni Esau?"
+        },
+        "options": {
+          "en": [
+            "He is a priest in Egypt",
+            "He builds ocean ships",
+            "He is a skilled hunter and outdoorsman"
+          ],
+          "fil": [
+            "Pari siya sa Egipto",
+            "Gumagawa siya ng mga barkong pandagat",
+            "Bihasa siyang mangangaso at mahilig sa parang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esau becomes a skillful hunter while Jacob stays among the tents (Genesis 25).",
+          "fil": "Naging bihasang mangangaso si Esau samantalang nananatili si Jacob sa mga tolda (Genesis 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Esau give Jacob in exchange for food?",
+          "fil": "Ano ang ibinigay ni Esau kay Jacob kapalit ng pagkain?"
+        },
+        "options": {
+          "en": [
+            "The ark of the covenant",
+            "Pharaoh's crown",
+            "His birthright"
+          ],
+          "fil": [
+            "Ang kaban ng tipan",
+            "Ang korona ni Faraon",
+            "Ang kanyang karapatan bilang panganay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esau sells his birthright to Jacob for a meal (Genesis 25).",
+          "fil": "Ipinagbili ni Esau kay Jacob ang karapatan bilang panganay kapalit ng pagkain (Genesis 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "Where does Isaac stay during the famine after God tells him not to go to Egypt?",
+          "fil": "Saan nanatili si Isaac sa taggutom matapos sabihan ng Diyos na huwag pumunta sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Gerar",
+            "Babylon"
+          ],
+          "fil": [
+            "Nineve",
+            "Gerar",
+            "Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Isaac stays in Gerar under God's instruction (Genesis 26).",
+          "fil": "Nanatili si Isaac sa Gerar ayon sa tagubilin ng Diyos (Genesis 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Abimelech discover that Rebekah is Isaac's wife?",
+          "fil": "Paano nalaman ni Abimelec na asawa ni Isaac si Rebeca?"
+        },
+        "options": {
+          "en": [
+            "He sees Isaac showing her affection",
+            "He finds their names on the ark",
+            "He reads Pharaoh's letter"
+          ],
+          "fil": [
+            "Nakita niyang nagpapakita ng lambing si Isaac sa kanya",
+            "Nakita niya ang kanilang mga pangalan sa arka",
+            "Nabasa niya ang sulat ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abimelech sees their affectionate behavior and challenges Isaac's claim (Genesis 26).",
+          "fil": "Nakita ni Abimelec ang kanilang paglalambingan at kinuwestiyon ang pagpapakilala ni Isaac (Genesis 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens at the well Isaac names Rehoboth?",
+          "fil": "Ano ang nangyari sa balong pinangalanan ni Isaac na Rehobot?"
+        },
+        "options": {
+          "en": [
+            "There is no quarrel over it",
+            "It produces gold",
+            "Pharaoh seals it forever"
+          ],
+          "fil": [
+            "Walang naging alitan tungkol dito",
+            "Naglabas ito ng ginto",
+            "Isinara ito ni Faraon habambuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Isaac finds room to settle when no one quarrels over this well (Genesis 26).",
+          "fil": "Nagkaroon si Isaac ng lugar na matitirhan nang walang makipagtalo tungkol sa balong ito (Genesis 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Abimelech seek an agreement with Isaac?",
+          "fil": "Bakit nakipagkasundo si Abimelec kay Isaac?"
+        },
+        "options": {
+          "en": [
+            "He recognizes that the Lord is with Isaac",
+            "He wants to rebuild Babel",
+            "He wants Isaac to worship him"
+          ],
+          "fil": [
+            "Kinilala niyang kasama ni Isaac ang Panginoon",
+            "Nais niyang muling itayo ang Babel",
+            "Nais niyang sambahin siya ni Isaac"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abimelech seeks peace after recognizing God's blessing on Isaac (Genesis 26).",
+          "fil": "Humiling si Abimelec ng kapayapaan matapos kilalanin ang pagpapala ng Diyos kay Isaac (Genesis 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "Who helps Jacob prepare to receive Isaac's blessing in Esau's place?",
+          "fil": "Sino ang tumulong kay Jacob upang tanggapin ang basbas ni Isaac sa halip na si Esau?"
+        },
+        "options": {
+          "en": [
+            "Sarah",
+            "Rebekah",
+            "Hagar"
+          ],
+          "fil": [
+            "Si Sara",
+            "Si Rebeca",
+            "Si Hagar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rebekah plans how Jacob will appear before Isaac (Genesis 27).",
+          "fil": "Pinlano ni Rebeca kung paano haharap si Jacob kay Isaac (Genesis 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are Jacob's smooth hands and neck disguised?",
+          "fil": "Paano itinago ang makinis na mga kamay at leeg ni Jacob?"
+        },
+        "options": {
+          "en": [
+            "With river mud alone",
+            "With goatskins",
+            "With bronze armor"
+          ],
+          "fil": [
+            "Sa putik lamang ng ilog",
+            "Sa pamamagitan ng mga balat ng kambing",
+            "Sa pamamagitan ng baluting tanso"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Goatskins make Jacob feel hairy like Esau to Isaac's touch (Genesis 27).",
+          "fil": "Dahil sa balat ng kambing, tila mabalahibo si Jacob tulad ni Esau sa paghipo ni Isaac (Genesis 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Esau react when he learns Jacob has received the blessing?",
+          "fil": "Paano tumugon si Esau nang malaman niyang natanggap ni Jacob ang basbas?"
+        },
+        "options": {
+          "en": [
+            "He cries bitterly and asks for a blessing too",
+            "He joyfully gives Jacob a crown",
+            "He immediately leaves to build the ark"
+          ],
+          "fil": [
+            "Umiyak siya nang matindi at humingi rin ng basbas",
+            "Masaya niyang binigyan si Jacob ng korona",
+            "Agad siyang umalis upang gawin ang arka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esau is deeply distressed when he discovers what happened (Genesis 27).",
+          "fil": "Labis na nagdalamhati si Esau nang malaman ang nangyari (Genesis 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Rebekah tell Jacob to leave for her brother's home?",
+          "fil": "Bakit sinabihan ni Rebeca si Jacob na pumunta sa bahay ng kapatid niya?"
+        },
+        "options": {
+          "en": [
+            "Isaac has made him Pharaoh",
+            "The garden of Eden has reopened",
+            "Esau plans to kill him"
+          ],
+          "fil": [
+            "Ginawa siyang Faraon ni Isaac",
+            "Muling nabuksan ang halamanan ng Eden",
+            "Balak siyang patayin ni Esau"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rebekah seeks to protect Jacob from Esau's anger (Genesis 27).",
+          "fil": "Nais ni Rebeca na pangalagaan si Jacob laban sa galit ni Esau (Genesis 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "Where is Jacob sent to find a wife from his mother's relatives?",
+          "fil": "Saan ipinadala si Jacob upang humanap ng asawa sa mga kamag-anak ng kanyang ina?"
+        },
+        "options": {
+          "en": [
+            "Lot's house in Sodom",
+            "Pharaoh's court in Egypt",
+            "Laban's household in Paddan-aram"
+          ],
+          "fil": [
+            "Sa bahay ni Lot sa Sodoma",
+            "Sa korte ni Faraon sa Egipto",
+            "Sa sambahayan ni Laban sa Padan-aram"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Isaac sends Jacob to his mother's family to find a wife (Genesis 28).",
+          "fil": "Ipinadala ni Isaac si Jacob sa pamilya ng kanyang ina upang humanap ng asawa (Genesis 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jacob see in his dream on the journey?",
+          "fil": "Ano ang nakita ni Jacob sa kanyang panaginip sa paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "A ship carrying Pharaoh",
+            "A stairway reaching heaven with angels moving on it",
+            "A golden calf leading an army"
+          ],
+          "fil": [
+            "Barkong sakay si Faraon",
+            "Hagdang umaabot sa langit na dinaraanan ng mga anghel",
+            "Gintong guyang nangunguna sa hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob dreams of a connection between earth and heaven attended by angels (Genesis 28).",
+          "fil": "Napanaginipan ni Jacob ang ugnayan ng lupa at langit na dinaraanan ng mga anghel (Genesis 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise Jacob about his journey?",
+          "fil": "Ano ang ipinangako ng Diyos kay Jacob tungkol sa kanyang paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "To make him Pharaoh that night",
+            "To be with him, protect him, and bring him back",
+            "To leave him alone forever"
+          ],
+          "fil": [
+            "Gagawin siyang Faraon sa gabing iyon",
+            "Sasamahan, pangangalagaan, at ibabalik siya",
+            "Iiwan siya habambuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God assures Jacob of his presence and eventual return (Genesis 28).",
+          "fil": "Tiniyak ng Diyos kay Jacob ang kanyang presensya at pagbabalik nito balang araw (Genesis 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name does Jacob give the place of his dream?",
+          "fil": "Anong pangalan ang ibinigay ni Jacob sa lugar ng kanyang panaginip?"
+        },
+        "options": {
+          "en": [
+            "Bethel",
+            "Babel",
+            "Beersheba"
+          ],
+          "fil": [
+            "Betel",
+            "Babel",
+            "Beerseba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jacob names the place Bethel after recognizing God's presence (Genesis 28).",
+          "fil": "Pinangalanan ni Jacob ang lugar na Betel matapos kilalanin ang presensya ng Diyos (Genesis 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "Where does Jacob first meet Rachel?",
+          "fil": "Saan unang nakilala ni Jacob si Raquel?"
+        },
+        "options": {
+          "en": [
+            "At a well where she brings her father's sheep",
+            "Inside Noah's ark",
+            "At Pharaoh's palace"
+          ],
+          "fil": [
+            "Sa balon kung saan dinala niya ang mga tupa ng kanyang ama",
+            "Sa loob ng arka ni Noe",
+            "Sa palasyo ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jacob meets Rachel as she comes to water Laban's flock (Genesis 29).",
+          "fil": "Nakilala ni Jacob si Raquel nang dumating ito upang painumin ang kawan ni Laban (Genesis 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whom does Jacob agree to work in order to marry Rachel?",
+          "fil": "Kanino pumayag na magtrabaho si Jacob upang mapangasawa si Raquel?"
+        },
+        "options": {
+          "en": [
+            "Lot",
+            "Laban",
+            "Abimelech"
+          ],
+          "fil": [
+            "Kay Lot",
+            "Kay Laban",
+            "Kay Abimelec"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob serves Laban under an agreement to marry Rachel (Genesis 29).",
+          "fil": "Naglingkod si Jacob kay Laban sa kasunduang mapapangasawa niya si Raquel (Genesis 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Laban give Jacob first at the wedding?",
+          "fil": "Sino ang unang ibinigay ni Laban kay Jacob sa kasalan?"
+        },
+        "options": {
+          "en": [
+            "Leah",
+            "Rachel",
+            "Rebekah"
+          ],
+          "fil": [
+            "Si Lea",
+            "Si Raquel",
+            "Si Rebeca"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Laban substitutes Leah for Rachel at the first wedding (Genesis 29).",
+          "fil": "Ibinigay ni Laban si Lea sa halip na si Raquel sa unang kasalan (Genesis 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God do for Leah when she is less loved?",
+          "fil": "Ano ang ginawa ng Diyos para kay Lea nang hindi siya gaanong minahal?"
+        },
+        "options": {
+          "en": [
+            "He makes her the owner of Babel",
+            "He enables her to have children",
+            "He sends her to rule Egypt"
+          ],
+          "fil": [
+            "Ginawa niya siyang may-ari ng Babel",
+            "Binigyan niya siya ng kakayahang magkaanak",
+            "Ipinadala niya siyang mamuno sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God sees Leah's situation and grants her children (Genesis 29).",
+          "fil": "Nakita ng Diyos ang kalagayan ni Lea at pinagkalooban siya ng mga anak (Genesis 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "Whom does Rachel give Jacob when she cannot yet have children?",
+          "fil": "Sino ang ibinigay ni Raquel kay Jacob nang hindi pa siya magkaanak?"
+        },
+        "options": {
+          "en": [
+            "Her mother Rebekah",
+            "Her servant Bilhah",
+            "Sarah"
+          ],
+          "fil": [
+            "Ang kanyang inang si Rebeca",
+            "Ang kanyang aliping si Bilha",
+            "Si Sara"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rachel gives Bilhah to Jacob so that she may have children through her (Genesis 30).",
+          "fil": "Ibinigay ni Raquel si Bilha kay Jacob upang magkaroon ng mga anak sa pamamagitan nito (Genesis 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What plants does Reuben find that become part of an exchange between Leah and Rachel?",
+          "fil": "Anong mga halaman ang nakita ni Ruben na naging bahagi ng palitan nina Lea at Raquel?"
+        },
+        "options": {
+          "en": [
+            "Cedar trees",
+            "Olive branches",
+            "Mandrakes"
+          ],
+          "fil": [
+            "Mga punong sedro",
+            "Mga sanga ng olibo",
+            "Mga mondragora"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Reuben's mandrakes lead to an exchange between the sisters (Genesis 30).",
+          "fil": "Humantong sa palitan ng magkapatid ang mga mondragorang nakita ni Ruben (Genesis 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What son does Rachel bear when God enables her to conceive?",
+          "fil": "Sinong anak ang isinilang ni Raquel nang magdalang-tao siya sa tulong ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Judah",
+            "Benjamin",
+            "Joseph"
+          ],
+          "fil": [
+            "Si Juda",
+            "Si Benjamin",
+            "Si Jose"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rachel gives birth to Joseph after God answers her longing for a child (Genesis 30).",
+          "fil": "Isinilang ni Raquel si Jose matapos tugunan ng Diyos ang kanyang pagnanais na magkaanak (Genesis 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "What does God tell Jacob to do after his years with Laban?",
+          "fil": "Ano ang sinabi ng Diyos na gawin ni Jacob matapos ang mga taon kay Laban?"
+        },
+        "options": {
+          "en": [
+            "Become king of Egypt",
+            "Return to his homeland and relatives",
+            "Build another tower at Babel"
+          ],
+          "fil": [
+            "Maging hari ng Egipto",
+            "Bumalik sa kanyang lupain at mga kamag-anak",
+            "Magtayo ng isa pang tore sa Babel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God directs Jacob to return and promises to be with him (Genesis 31).",
+          "fil": "Inutusan ng Diyos si Jacob na bumalik at ipinangakong sasamahan siya (Genesis 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Rachel secretly take from Laban's house?",
+          "fil": "Ano ang palihim na kinuha ni Raquel mula sa bahay ni Laban?"
+        },
+        "options": {
+          "en": [
+            "The ark of the covenant",
+            "Pharaoh's crown",
+            "His household idols"
+          ],
+          "fil": [
+            "Ang kaban ng tipan",
+            "Ang korona ni Faraon",
+            "Ang mga diyus-diyosan ng kanyang sambahayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rachel takes her father's household idols without Jacob knowing (Genesis 31).",
+          "fil": "Kinuha ni Raquel ang mga diyus-diyosan ng kanyang ama nang hindi alam ni Jacob (Genesis 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God warn Laban as he pursues Jacob?",
+          "fil": "Paano binalaan ng Diyos si Laban habang hinahabol niya si Jacob?"
+        },
+        "options": {
+          "en": [
+            "By telling him to seize every child",
+            "In a dream, warning him about how he addresses Jacob",
+            "By making him Pharaoh"
+          ],
+          "fil": [
+            "Sa pagsasabing agawin ang bawat bata",
+            "Sa panaginip, binabalaan siya tungkol sa pakikitungo kay Jacob",
+            "Sa paggawa sa kanya bilang Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's dream warning restrains Laban's conduct toward Jacob (Genesis 31).",
+          "fil": "Nilimitahan ng babala ng Diyos sa panaginip ang pakikitungo ni Laban kay Jacob (Genesis 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the heap of stones mark in their agreement?",
+          "fil": "Ano ang tanda ng bunton ng mga bato sa kanilang kasunduan?"
+        },
+        "options": {
+          "en": [
+            "A witness and boundary against harming each other",
+            "A throne for Rachel",
+            "A storehouse for Egypt's grain"
+          ],
+          "fil": [
+            "Saksi at hangganan laban sa pananakit sa isa't isa",
+            "Trono para kay Raquel",
+            "Imbakan ng butil ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The stone heap witnesses their agreement not to cross over to harm one another (Genesis 31).",
+          "fil": "Saksi ang bunton ng bato sa kasunduang hindi tatawid upang saktan ang isa't isa (Genesis 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "Why does Jacob become afraid after his messengers return from Esau?",
+          "fil": "Bakit natakot si Jacob matapos bumalik ang mga sugo mula kay Esau?"
+        },
+        "options": {
+          "en": [
+            "Esau has become Pharaoh",
+            "Esau is coming with a large group of men",
+            "Esau has destroyed the ark"
+          ],
+          "fil": [
+            "Naging Faraon si Esau",
+            "Paparating si Esau kasama ang maraming lalaki",
+            "Winasak ni Esau ang arka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The report of Esau's approaching men makes Jacob fear an attack (Genesis 32).",
+          "fil": "Pinatakot si Jacob sa posibleng pagsalakay ng ulat tungkol sa paparating na mga tauhan ni Esau (Genesis 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jacob send ahead to help make peace with Esau?",
+          "fil": "Ano ang ipinadala muna ni Jacob upang makatulong sa pakikipagkasundo kay Esau?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's army",
+            "A golden idol",
+            "Gifts of livestock"
+          ],
+          "fil": [
+            "Hukbo ni Faraon",
+            "Gintong diyus-diyosan",
+            "Mga alagang hayop bilang regalo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob sends herds ahead as gifts to seek Esau's goodwill (Genesis 32).",
+          "fil": "Nagpadala muna si Jacob ng mga kawan bilang regalo upang makuha ang mabuting loob ni Esau (Genesis 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jacob when he is left alone that night?",
+          "fil": "Ano ang nangyari kay Jacob nang maiwan siyang mag-isa sa gabing iyon?"
+        },
+        "options": {
+          "en": [
+            "He wrestles with a man until daybreak",
+            "He rebuilds Sodom",
+            "He sails to Egypt"
+          ],
+          "fil": [
+            "Nakipagbuno siya sa isang lalaki hanggang magbukang-liwayway",
+            "Muli niyang itinayo ang Sodoma",
+            "Naglayag siya sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jacob struggles through the night in a life-changing encounter (Genesis 32).",
+          "fil": "Nakipagbuno si Jacob buong gabi sa isang pakikipagtagpong bumago sa kanyang buhay (Genesis 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What new name does Jacob receive in this encounter?",
+          "fil": "Anong bagong pangalan ang tinanggap ni Jacob sa pakikipagtagpong ito?"
+        },
+        "options": {
+          "en": [
+            "Ishmael",
+            "Israel",
+            "Abraham"
+          ],
+          "fil": [
+            "Ismael",
+            "Israel",
+            "Abraham"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob receives the name Israel after the struggle (Genesis 32).",
+          "fil": "Tinanggap ni Jacob ang pangalang Israel matapos ang pakikipagbuno (Genesis 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "How does Esau greet Jacob when they meet?",
+          "fil": "Paano binati ni Esau si Jacob nang magkita sila?"
+        },
+        "options": {
+          "en": [
+            "He runs to embrace and kiss him",
+            "He sells him to Egypt",
+            "He immediately attacks him"
+          ],
+          "fil": [
+            "Tumakbo siya upang yakapin at halikan ito",
+            "Ipinagbili niya ito sa Egipto",
+            "Agad niya itong sinalakay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esau welcomes Jacob with affection and they weep together (Genesis 33).",
+          "fil": "Malugod na tinanggap ni Esau si Jacob at magkasama silang umiyak (Genesis 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jacob urge Esau to accept?",
+          "fil": "Ano ang hinimok ni Jacob na tanggapin ni Esau?"
+        },
+        "options": {
+          "en": [
+            "The gift of livestock sent ahead",
+            "The throne of Egypt",
+            "The tablets of the covenant"
+          ],
+          "fil": [
+            "Ang regalong mga hayop na naunang ipinadala",
+            "Ang trono ng Egipto",
+            "Ang mga tapyas ng tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jacob presses Esau to accept his gift as a sign of reconciliation (Genesis 33).",
+          "fil": "Hinimok ni Jacob si Esau na tanggapin ang kanyang regalo bilang tanda ng pagkakasundo (Genesis 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Jacob say his group must travel slowly?",
+          "fil": "Bakit sinabi ni Jacob na kailangang mabagal maglakbay ang kanyang pangkat?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh has forbidden movement",
+            "The children and nursing animals need care",
+            "He is building a tower along the road"
+          ],
+          "fil": [
+            "Ipinagbawal ni Faraon ang paglalakbay",
+            "Kailangan ng pag-iingat ang mga bata at hayop na nagpapasuso",
+            "Gumagawa siya ng tore sa daan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob considers the needs of the children and vulnerable animals (Genesis 33).",
+          "fil": "Isinaalang-alang ni Jacob ang pangangailangan ng mga bata at mahihinang hayop (Genesis 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "Near which city does Jacob buy land and build an altar?",
+          "fil": "Malapit sa anong lungsod bumili ng lupa at nagtayo ng altar si Jacob?"
+        },
+        "options": {
+          "en": [
+            "Shechem",
+            "Babel",
+            "Nineveh"
+          ],
+          "fil": [
+            "Siquem",
+            "Babel",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jacob settles near Shechem and builds an altar there (Genesis 33).",
+          "fil": "Nanirahan si Jacob malapit sa Siquem at nagtayo ng altar roon (Genesis 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "Why are Jacob's sons deeply upset with Shechem?",
+          "fil": "Bakit labis na nagalit ang mga anak ni Jacob kay Siquem?"
+        },
+        "options": {
+          "en": [
+            "He has stolen Pharaoh's crown",
+            "He has mistreated their sister Dinah",
+            "He has refused to build the ark"
+          ],
+          "fil": [
+            "Ninakaw niya ang korona ni Faraon",
+            "Inabuso niya ang kapatid nilang si Dina",
+            "Tumanggi siyang gumawa ng arka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The brothers are outraged by the wrong done to Dinah (Genesis 34).",
+          "fil": "Nagalit ang magkakapatid sa ginawang mali kay Dina (Genesis 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What condition do the brothers deceptively demand for intermarriage?",
+          "fil": "Anong kondisyon ang mapanlinlang na hiningi ng magkakapatid para sa pag-aasawa?"
+        },
+        "options": {
+          "en": [
+            "The men of the town must be circumcised",
+            "The king must build a sea fleet",
+            "The town must move to Egypt"
+          ],
+          "fil": [
+            "Kailangang tuliin ang mga lalaki ng bayan",
+            "Kailangang gumawa ng mga barko ang hari",
+            "Kailangang lumipat ang bayan sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The brothers use circumcision as a deceptive condition for their agreement (Genesis 34).",
+          "fil": "Ginamit ng magkakapatid ang pagtutuli bilang mapanlinlang na kondisyon sa kasunduan (Genesis 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which two brothers attack the town?",
+          "fil": "Sinong dalawang magkapatid ang sumalakay sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Reuben and Judah",
+            "Joseph and Benjamin",
+            "Simeon and Levi"
+          ],
+          "fil": [
+            "Sina Ruben at Juda",
+            "Sina Jose at Benjamin",
+            "Sina Simeon at Levi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Simeon and Levi attack while the men are still recovering (Genesis 34).",
+          "fil": "Sumalakay sina Simeon at Levi habang nagpapagaling pa ang mga lalaki (Genesis 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Jacob fear after their attack?",
+          "fil": "Anong panganib ang kinatakutan ni Jacob matapos ang kanilang pagsalakay?"
+        },
+        "options": {
+          "en": [
+            "Esau may become a priest",
+            "The sea may cover Egypt",
+            "Neighboring peoples may unite against his household"
+          ],
+          "fil": [
+            "Maaaring maging pari si Esau",
+            "Maaaring tabunan ng dagat ang Egipto",
+            "Maaaring magkaisa ang mga kalapit na bayan laban sa kanyang sambahayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob fears retaliation from the surrounding inhabitants (Genesis 34).",
+          "fil": "Nangamba si Jacob sa paghihiganti ng mga naninirahan sa paligid (Genesis 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "What must Jacob's household put away before going to Bethel?",
+          "fil": "Ano ang dapat alisin ng sambahayan ni Jacob bago pumunta sa Betel?"
+        },
+        "options": {
+          "en": [
+            "All their food",
+            "Every young animal",
+            "Foreign gods"
+          ],
+          "fil": [
+            "Lahat ng kanilang pagkain",
+            "Bawat batang hayop",
+            "Mga dayuhang diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob calls his household to abandon foreign gods and purify themselves (Genesis 35).",
+          "fil": "Tinawag ni Jacob ang kanyang sambahayan na alisin ang mga dayuhang diyos at maglinis (Genesis 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God reaffirm about Jacob's name at Bethel?",
+          "fil": "Ano ang muling pinagtibay ng Diyos tungkol sa pangalan ni Jacob sa Betel?"
+        },
+        "options": {
+          "en": [
+            "He is to be called Abraham",
+            "He is to be called Israel",
+            "He is to be called Pharaoh"
+          ],
+          "fil": [
+            "Tatawagin siyang Abraham",
+            "Tatawagin siyang Israel",
+            "Tatawagin siyang Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God reaffirms the name Israel in the encounter at Bethel (Genesis 35).",
+          "fil": "Muling pinagtibay ng Diyos ang pangalang Israel sa pakikipagtagpo sa Betel (Genesis 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son is born during the journey when Rachel dies?",
+          "fil": "Sinong anak ang isinilang sa paglalakbay nang mamatay si Raquel?"
+        },
+        "options": {
+          "en": [
+            "Joseph",
+            "Reuben",
+            "Benjamin"
+          ],
+          "fil": [
+            "Si Jose",
+            "Si Ruben",
+            "Si Benjamin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rachel gives birth to Benjamin and dies during the journey (Genesis 35).",
+          "fil": "Isinilang ni Raquel si Benjamin at namatay sa paglalakbay (Genesis 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who joins Jacob in burying Isaac?",
+          "fil": "Sino ang kasama ni Jacob sa paglilibing kay Isaac?"
+        },
+        "options": {
+          "en": [
+            "Esau",
+            "Pharaoh",
+            "Laban"
+          ],
+          "fil": [
+            "Si Esau",
+            "Si Faraon",
+            "Si Laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esau and Jacob bury their father Isaac together (Genesis 35).",
+          "fil": "Magkasamang inilibing nina Esau at Jacob ang kanilang amang si Isaac (Genesis 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "Whose descendants are the main subject of this chapter?",
+          "fil": "Kaninong mga inapo ang pangunahing paksa ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Joseph's",
+            "Moses'",
+            "Esau's"
+          ],
+          "fil": [
+            "Ni Jose",
+            "Ni Moises",
+            "Ni Esau"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Genesis 36 records Esau's family and the peoples descended from him.",
+          "fil": "Itinala sa Genesis 36 ang pamilya ni Esau at mga bayang nagmula sa kanya."
+        }
+      },
+      {
+        "q": {
+          "en": "What other name identifies Esau and his people?",
+          "fil": "Anong ibang pangalan ang tumutukoy kay Esau at sa kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Babylon",
+            "Edom"
+          ],
+          "fil": [
+            "Egipto",
+            "Babilonia",
+            "Edom"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The genealogy repeatedly connects Esau with Edom (Genesis 36).",
+          "fil": "Paulit-ulit na iniugnay ng talaan ng angkan si Esau sa Edom (Genesis 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Esau settle apart from Jacob?",
+          "fil": "Saan nanirahan si Esau nang hiwalay kay Jacob?"
+        },
+        "options": {
+          "en": [
+            "The hill country of Seir",
+            "The Nile delta",
+            "The city of Nineveh"
+          ],
+          "fil": [
+            "Ang kabundukan ng Seir",
+            "Ang bukana ng Nilo",
+            "Ang lungsod ng Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esau makes his home in Seir (Genesis 36).",
+          "fil": "Nanirahan si Esau sa Seir (Genesis 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "What does Joseph dream about the brothers' sheaves of grain?",
+          "fil": "Ano ang napanaginipan ni Jose tungkol sa mga bungkos ng butil ng magkakapatid?"
+        },
+        "options": {
+          "en": [
+            "His sheaf disappears into the sea",
+            "Their sheaves bow to his sheaf",
+            "Their sheaves become ships"
+          ],
+          "fil": [
+            "Naglaho sa dagat ang kanyang bungkos",
+            "Yumukod ang kanilang mga bungkos sa kanyang bungkos",
+            "Naging mga barko ang kanilang mga bungkos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph's dream pictures his brothers bowing before him (Genesis 37).",
+          "fil": "Inilarawan ng panaginip ni Jose ang pagyukod ng kanyang mga kapatid sa kanya (Genesis 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is Reuben's intention when he urges the brothers to put Joseph in a pit?",
+          "fil": "Ano ang layunin ni Ruben nang himukin ang magkakapatid na ilagay si Jose sa hukay?"
+        },
+        "options": {
+          "en": [
+            "Rescue Joseph later and return him to their father",
+            "Leave Joseph there as a permanent punishment",
+            "Make Joseph king of Egypt immediately"
+          ],
+          "fil": [
+            "Iligtas si Jose pagkaraan at ibalik sa kanilang ama",
+            "Iwan si Jose roon bilang permanenteng parusa",
+            "Gawing hari agad ng Egipto si Jose"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Reuben plans to rescue Joseph from the pit (Genesis 37).",
+          "fil": "Binalak ni Ruben na iligtas si Jose mula sa hukay (Genesis 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judah suggest instead of killing Joseph?",
+          "fil": "Ano ang iminungkahi ni Juda sa halip na patayin si Jose?"
+        },
+        "options": {
+          "en": [
+            "Send him home with a royal guard",
+            "Give him every brother's inheritance",
+            "Sell him to the passing traders"
+          ],
+          "fil": [
+            "Pauwiin siya na may bantay ng hari",
+            "Ibigay sa kanya ang mana ng bawat kapatid",
+            "Ipagbili siya sa mga dumaraang mangangalakal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judah proposes selling Joseph rather than killing him (Genesis 37).",
+          "fil": "Iminungkahi ni Juda na ipagbili si Jose sa halip na patayin (Genesis 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the brothers make Jacob think a wild animal has killed Joseph?",
+          "fil": "Paano pinaniwala ng magkakapatid si Jacob na pinatay ng mabangis na hayop si Jose?"
+        },
+        "options": {
+          "en": [
+            "They show him an Egyptian crown",
+            "They bring him the ark",
+            "They show him Joseph's robe stained with goat's blood"
+          ],
+          "fil": [
+            "Ipinakita nila ang korona ng Egipto",
+            "Dinala nila sa kanya ang arka",
+            "Ipinakita nila ang damit ni Jose na may dugo ng kambing"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The bloodstained robe leads Jacob to believe Joseph is dead (Genesis 37).",
+          "fil": "Dahil sa damit na may dugo, naniwala si Jacob na patay na si Jose (Genesis 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "How is Tamar related to Judah?",
+          "fil": "Ano ang ugnayan ni Tamar kay Juda?"
+        },
+        "options": {
+          "en": [
+            "She is his mother",
+            "She is his sister",
+            "She is his daughter-in-law"
+          ],
+          "fil": [
+            "Ina niya ito",
+            "Kapatid niya ito",
+            "Manugang niya ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tamar enters Judah's family as the wife of his son Er (Genesis 38).",
+          "fil": "Naging bahagi ng pamilya ni Juda si Tamar bilang asawa ng anak niyang si Er (Genesis 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What promised arrangement does Judah fail to fulfill for Tamar?",
+          "fil": "Anong ipinangakong kaayusan ang hindi tinupad ni Juda para kay Tamar?"
+        },
+        "options": {
+          "en": [
+            "Giving his son Shelah to her as husband when grown",
+            "Making her queen of Egypt",
+            "Sending her to build the ark"
+          ],
+          "fil": [
+            "Pagbibigay sa anak niyang si Shela bilang asawa nito kapag nasa edad na",
+            "Paggawa sa kanya bilang reyna ng Egipto",
+            "Pagpapadala sa kanya upang gawin ang arka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah does not give Tamar to Shelah even after he grows up (Genesis 38).",
+          "fil": "Hindi ibinigay ni Juda si Tamar kay Shela kahit nasa edad na ito (Genesis 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What items identify Judah when Tamar produces his pledges?",
+          "fil": "Anong mga bagay ang nagpakilala kay Juda nang ilabas ni Tamar ang kanyang mga sangla?"
+        },
+        "options": {
+          "en": [
+            "His royal throne and chariot",
+            "His sword and shield",
+            "His seal, cord, and staff"
+          ],
+          "fil": [
+            "Kanyang trono at karwahe",
+            "Kanyang tabak at kalasag",
+            "Kanyang pantatak, tali, at tungkod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tamar presents Judah's personal pledges as evidence (Genesis 38).",
+          "fil": "Iniharap ni Tamar bilang katibayan ang mga personal na sangla ni Juda (Genesis 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Judah respond when he recognizes those items?",
+          "fil": "Paano tumugon si Juda nang makilala niya ang mga bagay na iyon?"
+        },
+        "options": {
+          "en": [
+            "He admits Tamar has acted more rightly than he has",
+            "He denies ever seeing them",
+            "He crowns himself Pharaoh"
+          ],
+          "fil": [
+            "Inamin niyang mas matuwid ang ginawa ni Tamar kaysa sa kanya",
+            "Itinanggi niyang nakita na niya ang mga iyon",
+            "Kinoronahan niya ang sarili bilang Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah acknowledges his own failure after recognizing the pledges (Genesis 38).",
+          "fil": "Kinilala ni Juda ang sariling pagkukulang matapos makilala ang mga sangla (Genesis 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "In whose household does Joseph first serve in Egypt?",
+          "fil": "Sa kaninong sambahayan unang naglingkod si Jose sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Laban's",
+            "Potiphar's",
+            "Abimelech's"
+          ],
+          "fil": [
+            "Kay Laban",
+            "Kay Potifar",
+            "Kay Abimelec"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph is bought by Potiphar and serves in his house (Genesis 39).",
+          "fil": "Binili si Jose ni Potifar at naglingkod sa bahay nito (Genesis 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Joseph refuse Potiphar's wife's invitation to wrongdoing?",
+          "fil": "Bakit tinanggihan ni Jose ang pag-anyaya ng asawa ni Potifar sa paggawa ng mali?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh has ordered him to sail away",
+            "He wants a larger royal crown",
+            "It would betray his master's trust and sin against God"
+          ],
+          "fil": [
+            "Inutusan siya ni Faraon na maglayag",
+            "Gusto niya ng mas malaking korona",
+            "Pagtataksil ito sa tiwala ng kanyang amo at kasalanan laban sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph understands the act as both betrayal and sin against God (Genesis 39).",
+          "fil": "Itinuring ni Jose ang gagawin bilang pagtataksil at kasalanan laban sa Diyos (Genesis 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joseph leave behind as he flees from her?",
+          "fil": "Ano ang naiwan ni Jose nang tumakas mula sa babae?"
+        },
+        "options": {
+          "en": [
+            "His garment",
+            "The ark",
+            "His royal chariot"
+          ],
+          "fil": [
+            "Ang kanyang damit",
+            "Ang arka",
+            "Ang kanyang karwahe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph leaves his garment in her hand while escaping (Genesis 39).",
+          "fil": "Naiwan sa kamay ng babae ang damit ni Jose habang tumatakas siya (Genesis 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What shows God's care for Joseph even in prison?",
+          "fil": "Ano ang nagpapakita ng pangangalaga ng Diyos kay Jose kahit sa bilangguan?"
+        },
+        "options": {
+          "en": [
+            "He becomes Pharaoh immediately",
+            "He never has to work again",
+            "The warden trusts him with responsibility"
+          ],
+          "fil": [
+            "Naging Faraon siya agad",
+            "Hindi na niya kailangang magtrabaho muli",
+            "Pinagkatiwalaan siya ng tagapamahala ng bilangguan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God gives Joseph favor with the prison warden (Genesis 39).",
+          "fil": "Pinagkalooban ng Diyos si Jose ng mabuting pagtanggap ng tagapamahala ng bilangguan (Genesis 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "Which two royal servants are imprisoned with Joseph?",
+          "fil": "Sinong dalawang lingkod ng hari ang nabilanggong kasama ni Jose?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's shepherd and gardener",
+            "Pharaoh's cupbearer and baker",
+            "Pharaoh's general and tax collector"
+          ],
+          "fil": [
+            "Pastol at hardinero ni Faraon",
+            "Tagasilbi ng inumin at panadero ni Faraon",
+            "Heneral at maniningil ng buwis ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph meets the cupbearer and baker in prison (Genesis 40).",
+          "fil": "Nakilala ni Jose ang tagasilbi ng inumin at panadero sa bilangguan (Genesis 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom does Joseph attribute the ability to interpret dreams?",
+          "fil": "Kanino iniugnay ni Jose ang kakayahang magpaliwanag ng panaginip?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "Pharaoh's idols",
+            "His own magical powers"
+          ],
+          "fil": [
+            "Sa Diyos",
+            "Sa mga diyus-diyosan ni Faraon",
+            "Sa sarili niyang mahika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph credits God with the meaning of dreams (Genesis 40).",
+          "fil": "Kinilala ni Jose na sa Diyos nagmumula ang kahulugan ng mga panaginip (Genesis 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What favorable outcome does Joseph predict for the cupbearer?",
+          "fil": "Anong mabuting bunga ang ipinahayag ni Jose para sa tagasilbi ng inumin?"
+        },
+        "options": {
+          "en": [
+            "Ownership of the prison",
+            "Appointment as king of Canaan",
+            "Restoration to his royal service"
+          ],
+          "fil": [
+            "Pagmamay-ari sa bilangguan",
+            "Pagtatalaga bilang hari ng Canaan",
+            "Pagbabalik sa kanyang paglilingkod sa hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph predicts that the cupbearer will serve Pharaoh again (Genesis 40).",
+          "fil": "Ipinahayag ni Jose na muling maglilingkod kay Faraon ang tagasilbi ng inumin (Genesis 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the restored cupbearer fail to do?",
+          "fil": "Ano ang hindi ginawa ng tagasilbi ng inumin nang maibalik sa tungkulin?"
+        },
+        "options": {
+          "en": [
+            "Remember Joseph and speak for him",
+            "Recognize his own cup",
+            "Return to Pharaoh's service"
+          ],
+          "fil": [
+            "Alalahanin si Jose at magsalita para sa kanya",
+            "Kilalanin ang sarili niyang kopa",
+            "Bumalik sa paglilingkod kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The cupbearer forgets Joseph despite the request to remember him (Genesis 40).",
+          "fil": "Nalimutan ng tagasilbi ng inumin si Jose sa kabila ng hiling na alalahanin siya (Genesis 40)."
+        }
+      }
+    ],
+    "41": [
+      {
+        "q": {
+          "en": "What two kinds of things appear in Pharaoh's troubling dreams?",
+          "fil": "Anong dalawang uri ng bagay ang lumitaw sa nakababahalang mga panaginip ni Faraon?"
+        },
+        "options": {
+          "en": [
+            "Cows and heads of grain",
+            "Lions and ships",
+            "Crowns and swords"
+          ],
+          "fil": [
+            "Mga baka at uhay ng butil",
+            "Mga leon at barko",
+            "Mga korona at tabak"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Pharaoh dreams of cows and grain that Joseph later interprets (Genesis 41).",
+          "fil": "Napanaginipan ni Faraon ang mga baka at butil na ipinaliwanag pagkaraan ni Jose (Genesis 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What coming pattern do both dreams announce?",
+          "fil": "Anong darating na kalagayan ang ipinahayag ng dalawang panaginip?"
+        },
+        "options": {
+          "en": [
+            "Unending abundance with no hardship",
+            "Years of abundance followed by years of famine",
+            "A flood destroying the whole world"
+          ],
+          "fil": [
+            "Walang-hanggang kasaganaan na walang hirap",
+            "Mga taon ng kasaganaan na susundan ng mga taon ng taggutom",
+            "Bahang lilipol sa buong mundo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph explains that plenty will be followed by severe famine (Genesis 41).",
+          "fil": "Ipinaliwanag ni Jose na susundan ng matinding taggutom ang kasaganaan (Genesis 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What preparation does Joseph recommend?",
+          "fil": "Anong paghahanda ang iminungkahi ni Jose?"
+        },
+        "options": {
+          "en": [
+            "Store grain during the plentiful years",
+            "Destroy every storehouse",
+            "Spend all the grain on royal feasts"
+          ],
+          "fil": [
+            "Mag-imbak ng butil sa mga taon ng kasaganaan",
+            "Sirain ang bawat imbakan",
+            "Ubusin ang lahat ng butil sa handaan ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph recommends storing food to prepare for the famine (Genesis 41).",
+          "fil": "Iminungkahi ni Jose ang pag-iimbak ng pagkain upang maghanda sa taggutom (Genesis 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility does Pharaoh give Joseph?",
+          "fil": "Anong pananagutan ang ibinigay ni Faraon kay Jose?"
+        },
+        "options": {
+          "en": [
+            "Command of a prison only",
+            "Authority over Egypt under Pharaoh",
+            "Leadership of Canaan's idols"
+          ],
+          "fil": [
+            "Pamamahala lamang sa bilangguan",
+            "Kapangyarihan sa Egipto sa ilalim ni Faraon",
+            "Pamumuno sa mga diyus-diyosan ng Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Pharaoh places Joseph in high authority to carry out the plan (Genesis 41).",
+          "fil": "Binigyan ni Faraon si Jose ng mataas na kapangyarihan upang isagawa ang plano (Genesis 41)."
+        }
+      }
+    ],
+    "42": [
+      {
+        "q": {
+          "en": "Why does Jacob send Joseph's brothers to Egypt?",
+          "fil": "Bakit ipinadala ni Jacob sa Egipto ang mga kapatid ni Jose?"
+        },
+        "options": {
+          "en": [
+            "To build a tower to heaven",
+            "To make a golden calf",
+            "To buy grain during the famine"
+          ],
+          "fil": [
+            "Upang gumawa ng tore hanggang langit",
+            "Upang gumawa ng gintong guya",
+            "Upang bumili ng butil sa panahon ng taggutom"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob sends his sons to obtain food for the family (Genesis 42).",
+          "fil": "Ipinadala ni Jacob ang kanyang mga anak upang kumuha ng pagkain para sa pamilya (Genesis 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is unusual about the first meeting between Joseph and his brothers?",
+          "fil": "Ano ang kakaiba sa unang pagkikita ni Jose at ng kanyang mga kapatid?"
+        },
+        "options": {
+          "en": [
+            "They all recognize each other immediately",
+            "Joseph has forgotten their language completely",
+            "Joseph recognizes them, but they do not recognize him"
+          ],
+          "fil": [
+            "Agad nilang nakilala ang isa't isa",
+            "Lubusang nakalimutan ni Jose ang kanilang wika",
+            "Nakilala sila ni Jose, ngunit hindi nila siya nakilala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph knows his brothers while they see only Egypt's official (Genesis 42).",
+          "fil": "Nakilala ni Jose ang kanyang mga kapatid samantalang opisyal lamang ng Egipto ang nakita nila (Genesis 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which brother is kept behind while the others return home?",
+          "fil": "Sinong kapatid ang pinanatili habang umuuwi ang iba?"
+        },
+        "options": {
+          "en": [
+            "Judah",
+            "Simeon",
+            "Reuben"
+          ],
+          "fil": [
+            "Si Juda",
+            "Si Simeon",
+            "Si Ruben"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph keeps Simeon while requiring the others to return with Benjamin (Genesis 42).",
+          "fil": "Pinanatili ni Jose si Simeon habang inaatasang bumalik ang iba kasama si Benjamin (Genesis 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the brothers discover has been returned inside their sacks?",
+          "fil": "Ano ang natuklasan ng magkakapatid na ibinalik sa kanilang mga sako?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's crown",
+            "Their payment money",
+            "Their father's staff"
+          ],
+          "fil": [
+            "Ang korona ni Faraon",
+            "Ang kanilang ibinayad na pera",
+            "Ang tungkod ng kanilang ama"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The returned money alarms the brothers on their journey home (Genesis 42).",
+          "fil": "Ikinabahala ng magkakapatid ang ibinalik na pera sa kanilang pag-uwi (Genesis 42)."
+        }
+      }
+    ],
+    "43": [
+      {
+        "q": {
+          "en": "Who personally guarantees Benjamin's safe return to Jacob?",
+          "fil": "Sino ang personal na nangako kay Jacob na ligtas na maibabalik si Benjamin?"
+        },
+        "options": {
+          "en": [
+            "Judah",
+            "Simeon",
+            "Laban"
+          ],
+          "fil": [
+            "Si Juda",
+            "Si Simeon",
+            "Si Laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah accepts personal responsibility for Benjamin's safety (Genesis 43).",
+          "fil": "Tinanggap ni Juda ang personal na pananagutan sa kaligtasan ni Benjamin (Genesis 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joseph ask about his father when the brothers return?",
+          "fil": "Ano ang itinanong ni Jose tungkol sa kanyang ama nang bumalik ang magkakapatid?"
+        },
+        "options": {
+          "en": [
+            "Whether he has become king of Egypt",
+            "Whether he has rebuilt Babel",
+            "Whether he is still alive and well"
+          ],
+          "fil": [
+            "Kung naging hari na siya ng Egipto",
+            "Kung muli niyang itinayo ang Babel",
+            "Kung buhay at mabuti pa ang kanyang kalagayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph inquires about the welfare of the father they mentioned (Genesis 43).",
+          "fil": "Nagtanong si Jose tungkol sa kalagayan ng amang binanggit nila (Genesis 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Joseph withdraw to weep privately?",
+          "fil": "Bakit lumayo si Jose upang umiyak nang mag-isa?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh has dismissed him",
+            "He has lost every storehouse",
+            "He is deeply moved on seeing Benjamin"
+          ],
+          "fil": [
+            "Tinanggal siya ni Faraon sa tungkulin",
+            "Nawala ang lahat ng kanyang imbakan",
+            "Labis siyang naantig nang makita si Benjamin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Seeing his younger brother stirs Joseph's emotions (Genesis 43).",
+          "fil": "Naantig ang damdamin ni Jose nang makita ang kanyang nakababatang kapatid (Genesis 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What surprises the brothers about their seating at Joseph's meal?",
+          "fil": "Ano ang ikinagulat ng magkakapatid sa pagkakaupo nila sa salu-salo ni Jose?"
+        },
+        "options": {
+          "en": [
+            "They are seated inside the grain sacks",
+            "They are all seated on royal thrones",
+            "They are seated in birth order"
+          ],
+          "fil": [
+            "Nasa loob sila ng mga sako ng butil",
+            "Lahat sila ay nakaupo sa mga trono",
+            "Nakaayos sila ayon sa pagkakasunod ng kapanganakan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The brothers marvel at being arranged from eldest to youngest (Genesis 43).",
+          "fil": "Namangha ang magkakapatid sa pagkakaayos mula sa panganay hanggang sa bunso (Genesis 43)."
+        }
+      }
+    ],
+    "44": [
+      {
+        "q": {
+          "en": "Where is Joseph's silver cup found during the search?",
+          "fil": "Saan natagpuan ang kopang pilak ni Jose sa paghahalughog?"
+        },
+        "options": {
+          "en": [
+            "In Benjamin's sack",
+            "In Judah's tent at home",
+            "Under Pharaoh's throne"
+          ],
+          "fil": [
+            "Sa sako ni Benjamin",
+            "Sa tolda ni Juda sa kanilang bahay",
+            "Sa ilalim ng trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The cup Joseph has ordered planted is found in Benjamin's sack (Genesis 44).",
+          "fil": "Natagpuan sa sako ni Benjamin ang kopang ipinailagay ni Jose (Genesis 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the brothers do after the cup is discovered?",
+          "fil": "Ano ang ginawa ng magkakapatid matapos makita ang kopa?"
+        },
+        "options": {
+          "en": [
+            "They abandon Benjamin and celebrate",
+            "They all return to the city",
+            "They sail directly to Canaan"
+          ],
+          "fil": [
+            "Iniwan nila si Benjamin at nagdiwang",
+            "Bumalik silang lahat sa lungsod",
+            "Tuwiran silang naglayag sa Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The brothers return together instead of leaving Benjamin behind (Genesis 44).",
+          "fil": "Magkakasamang bumalik ang magkakapatid sa halip na iwan si Benjamin (Genesis 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What would Benjamin's failure to return mean for Jacob, according to Judah?",
+          "fil": "Ano ang magiging bunga para kay Jacob kung hindi bumalik si Benjamin ayon kay Juda?"
+        },
+        "options": {
+          "en": [
+            "A celebration of great wealth",
+            "Overwhelming grief that could cause his death",
+            "Immediate appointment as Pharaoh"
+          ],
+          "fil": [
+            "Pagdiriwang ng malaking kayamanan",
+            "Matinding dalamhating maaaring ikamatay niya",
+            "Agarang pagtatalaga bilang Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judah explains that losing Benjamin would devastate their father (Genesis 44).",
+          "fil": "Ipinaliwanag ni Juda na labis na ikapipighati ng kanilang ama ang pagkawala ni Benjamin (Genesis 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judah offer in order to let Benjamin go home?",
+          "fil": "Ano ang inialok ni Juda upang makauwi si Benjamin?"
+        },
+        "options": {
+          "en": [
+            "To remain as a slave in Benjamin's place",
+            "To make Benjamin king",
+            "To sell Jacob's burial cave"
+          ],
+          "fil": [
+            "Manatili bilang alipin kapalit ni Benjamin",
+            "Gawing hari si Benjamin",
+            "Ipagbili ang libingan ni Jacob"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah offers himself in place of his younger brother (Genesis 44).",
+          "fil": "Inialok ni Juda ang sarili kapalit ng kanyang nakababatang kapatid (Genesis 44)."
+        }
+      }
+    ],
+    "45": [
+      {
+        "q": {
+          "en": "What does Joseph finally reveal to his brothers?",
+          "fil": "Ano ang sa wakas ay ipinakilala ni Jose sa kanyang mga kapatid?"
+        },
+        "options": {
+          "en": [
+            "He is Joseph, the brother they sold",
+            "He is Esau in disguise",
+            "He is actually Pharaoh's father"
+          ],
+          "fil": [
+            "Siya si Jose, ang kapatid na ipinagbili nila",
+            "Siya si Esau na nagbabalatkayo",
+            "Siya pala ang ama ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph discloses his identity after sending the attendants away (Genesis 45).",
+          "fil": "Ipinakilala ni Jose ang sarili matapos paalisin ang mga tagapaglingkod (Genesis 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joseph explain God's purpose in his arrival in Egypt?",
+          "fil": "Paano ipinaliwanag ni Jose ang layunin ng Diyos sa pagdating niya sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "God used it to preserve lives during the famine",
+            "God wanted the family to worship Pharaoh",
+            "God intended to end every promise to Jacob"
+          ],
+          "fil": [
+            "Ginamit ito ng Diyos upang magligtas ng buhay sa taggutom",
+            "Nais ng Diyos na sambahin ng pamilya si Faraon",
+            "Balak ng Diyos na wakasan ang bawat pangako kay Jacob"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph sees God's preserving purpose despite the wrong done to him (Genesis 45).",
+          "fil": "Nakita ni Jose ang layunin ng Diyos na magligtas sa kabila ng maling ginawa sa kanya (Genesis 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joseph ask his brothers to do about their father?",
+          "fil": "Ano ang hiniling ni Jose sa kanyang mga kapatid tungkol sa kanilang ama?"
+        },
+        "options": {
+          "en": [
+            "Send him to rebuild Sodom",
+            "Leave him alone without food",
+            "Bring him and the household to Egypt for care"
+          ],
+          "fil": [
+            "Ipadala siya upang muling itayo ang Sodoma",
+            "Iwan siyang mag-isa nang walang pagkain",
+            "Dalhin siya at ang sambahayan sa Egipto upang alagaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph invites the family to come near him where he can provide for them (Genesis 45).",
+          "fil": "Inanyayahan ni Jose ang pamilya na lumapit sa kanya upang matustusan niya sila (Genesis 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps Jacob believe the news that Joseph is alive?",
+          "fil": "Ano ang nakatulong kay Jacob na maniwala sa balitang buhay si Jose?"
+        },
+        "options": {
+          "en": [
+            "A letter from Laban",
+            "A crown taken from Esau",
+            "Joseph's message and the wagons sent for him"
+          ],
+          "fil": [
+            "Sulat mula kay Laban",
+            "Koronang kinuha kay Esau",
+            "Ang mensahe ni Jose at mga karitong ipinadala para sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hearing Joseph's words and seeing the wagons renews Jacob's spirit (Genesis 45).",
+          "fil": "Nanumbalik ang sigla ni Jacob nang marinig ang mensahe ni Jose at makita ang mga kariton (Genesis 45)."
+        }
+      }
+    ],
+    "46": [
+      {
+        "q": {
+          "en": "Where does Jacob offer sacrifices before God speaks to him about Egypt?",
+          "fil": "Saan naghandog si Jacob bago siya kausapin ng Diyos tungkol sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Babel",
+            "Beersheba"
+          ],
+          "fil": [
+            "Nineve",
+            "Babel",
+            "Beerseba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob worships at Beersheba before receiving God's reassurance (Genesis 46).",
+          "fil": "Sumamba si Jacob sa Beerseba bago tanggapin ang katiyakan mula sa Diyos (Genesis 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance does God give Jacob about going to Egypt?",
+          "fil": "Anong katiyakan ang ibinigay ng Diyos kay Jacob tungkol sa pagpunta sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "God will go with him and make his family a great nation",
+            "He must worship Egypt's gods to survive",
+            "God will forget him once he arrives"
+          ],
+          "fil": [
+            "Sasamahan siya ng Diyos at gagawing malaking bansa ang kanyang pamilya",
+            "Kailangan niyang sambahin ang mga diyos ng Egipto upang mabuhay",
+            "Kalilimutan siya ng Diyos kapag dumating na"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God tells Jacob not to fear the move because his purpose will continue there (Genesis 46).",
+          "fil": "Sinabi ng Diyos kay Jacob na huwag matakot sa paglipat dahil magpapatuloy roon ang kanyang layunin (Genesis 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Joseph meets his father in Goshen?",
+          "fil": "Ano ang nangyari nang makatagpo ni Jose ang kanyang ama sa Gosen?"
+        },
+        "options": {
+          "en": [
+            "Joseph refuses to recognize him",
+            "Jacob orders Joseph back to prison",
+            "Joseph embraces him and weeps"
+          ],
+          "fil": [
+            "Tumanggi si Jose na kilalanin siya",
+            "Ipinabilanggo muli ni Jacob si Jose",
+            "Niyakap siya ni Jose at umiyak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Father and son share an emotional reunion in Goshen (Genesis 46).",
+          "fil": "Nagkaroon ng madamdaming muling pagkikita ang mag-ama sa Gosen (Genesis 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What occupation does Joseph tell his brothers to acknowledge before Pharaoh?",
+          "fil": "Anong hanapbuhay ang ipinakilala ni Jose na dapat sabihin ng mga kapatid kay Faraon?"
+        },
+        "options": {
+          "en": [
+            "Making idols",
+            "Building warships",
+            "Keeping livestock"
+          ],
+          "fil": [
+            "Paggawa ng diyus-diyosan",
+            "Paggawa ng mga barkong pandigma",
+            "Pag-aalaga ng hayop"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph prepares the brothers to identify their family's work with livestock (Genesis 46).",
+          "fil": "Inihanda ni Jose ang mga kapatid na ipakilala ang gawain ng pamilya sa pag-aalaga ng hayop (Genesis 46)."
+        }
+      }
+    ],
+    "47": [
+      {
+        "q": {
+          "en": "Where does Pharaoh allow Joseph's family to settle?",
+          "fil": "Saan pinayagan ni Faraon na manirahan ang pamilya ni Jose?"
+        },
+        "options": {
+          "en": [
+            "Goshen",
+            "Seir",
+            "Babylon"
+          ],
+          "fil": [
+            "Gosen",
+            "Seir",
+            "Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Pharaoh gives Joseph's family a place in Goshen (Genesis 47).",
+          "fil": "Binigyan ni Faraon ang pamilya ni Jose ng lugar sa Gosen (Genesis 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jacob do when he meets Pharaoh?",
+          "fil": "Ano ang ginawa ni Jacob nang makaharap si Faraon?"
+        },
+        "options": {
+          "en": [
+            "He refuses to enter the palace",
+            "He takes Pharaoh's throne",
+            "He blesses Pharaoh"
+          ],
+          "fil": [
+            "Tumanggi siyang pumasok sa palasyo",
+            "Kinuha niya ang trono ni Faraon",
+            "Binasbasan niya si Faraon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob blesses Pharaoh during their meeting (Genesis 47).",
+          "fil": "Binasbasan ni Jacob si Faraon sa kanilang pagkikita (Genesis 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the Egyptians receive so they can sow the land again?",
+          "fil": "Ano ang tinanggap ng mga taga-Egipto upang muli nilang mahasikan ang lupain?"
+        },
+        "options": {
+          "en": [
+            "Seed from Joseph",
+            "Ships from Canaan",
+            "Golden crowns"
+          ],
+          "fil": [
+            "Binhi mula kay Jose",
+            "Mga barko mula sa Canaan",
+            "Mga gintong korona"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph supplies seed as part of the arrangement for cultivating the land (Genesis 47).",
+          "fil": "Nagbigay si Jose ng binhi bilang bahagi ng kaayusan sa pagbubungkal ng lupa (Genesis 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What burial request does Jacob make to Joseph?",
+          "fil": "Anong hiling sa paglilibing ang sinabi ni Jacob kay Jose?"
+        },
+        "options": {
+          "en": [
+            "Leave his body in the desert",
+            "Bury him beneath Pharaoh's throne",
+            "Bury him with his ancestors outside Egypt"
+          ],
+          "fil": [
+            "Iwan ang kanyang bangkay sa disyerto",
+            "Ilibing siya sa ilalim ng trono ni Faraon",
+            "Ilibing siya kasama ng kanyang mga ninuno sa labas ng Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob asks Joseph to take him to his ancestors' burial place (Genesis 47).",
+          "fil": "Hiniling ni Jacob kay Jose na dalhin siya sa libingan ng kanyang mga ninuno (Genesis 47)."
+        }
+      }
+    ],
+    "48": [
+      {
+        "q": {
+          "en": "Whom does Joseph bring to his ill father for a blessing?",
+          "fil": "Sino ang dinala ni Jose sa kanyang amang may sakit upang basbasan?"
+        },
+        "options": {
+          "en": [
+            "Simeon and Levi",
+            "Esau and Laban",
+            "Ephraim and Manasseh"
+          ],
+          "fil": [
+            "Sina Simeon at Levi",
+            "Sina Esau at Laban",
+            "Sina Efraim at Manases"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph brings his two sons to Jacob (Genesis 48).",
+          "fil": "Dinala ni Jose ang dalawa niyang anak kay Jacob (Genesis 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "What place does Jacob give Joseph's two sons in the family inheritance?",
+          "fil": "Anong bahagi sa mana ng pamilya ang ibinigay ni Jacob sa dalawang anak ni Jose?"
+        },
+        "options": {
+          "en": [
+            "He excludes them completely",
+            "He treats them as his own sons",
+            "He gives their inheritance to Pharaoh"
+          ],
+          "fil": [
+            "Lubusan niya silang inalis",
+            "Itinuring niya silang sarili niyang mga anak",
+            "Ibinigay niya kay Faraon ang kanilang mana"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob receives Ephraim and Manasseh as his own for inheritance purposes (Genesis 48).",
+          "fil": "Tinanggap ni Jacob sina Efraim at Manases bilang sariling mga anak kaugnay ng mana (Genesis 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son receives Jacob's right-hand blessing despite being younger?",
+          "fil": "Sinong anak ang tumanggap ng basbas ng kanang kamay ni Jacob kahit nakababata?"
+        },
+        "options": {
+          "en": [
+            "Reuben",
+            "Manasseh",
+            "Ephraim"
+          ],
+          "fil": [
+            "Si Ruben",
+            "Si Manases",
+            "Si Efraim"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob deliberately places his right hand on Ephraim (Genesis 48).",
+          "fil": "Sadyang ipinatong ni Jacob ang kanang kamay kay Efraim (Genesis 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jacob respond when Joseph tries to correct the position of his hands?",
+          "fil": "Paano tumugon si Jacob nang subukang itama ni Jose ang puwesto ng kanyang mga kamay?"
+        },
+        "options": {
+          "en": [
+            "He gives the blessing to Pharaoh instead",
+            "He says he cannot bless either boy",
+            "He explains that his choice is deliberate"
+          ],
+          "fil": [
+            "Ibinigay niya kay Faraon ang basbas sa halip",
+            "Sinabi niyang hindi niya mababasbasan ang alinman",
+            "Ipinaliwanag niyang sinadya ang kanyang pagpili"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob maintains that the younger son's future greatness justifies his choice (Genesis 48).",
+          "fil": "Nanindigan si Jacob na dahilan ng kanyang pagpili ang kadakilaan ng nakababatang anak sa hinaharap (Genesis 48)."
+        }
+      }
+    ],
+    "49": [
+      {
+        "q": {
+          "en": "Why does Jacob gather his sons in this chapter?",
+          "fil": "Bakit tinipon ni Jacob ang kanyang mga anak sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "To send them all back to prison",
+            "To speak over their futures and bless them",
+            "To choose a new Pharaoh"
+          ],
+          "fil": [
+            "Upang ibalik silang lahat sa bilangguan",
+            "Upang magsalita tungkol sa kanilang hinaharap at basbasan sila",
+            "Upang pumili ng bagong Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jacob addresses his sons about the future of their families (Genesis 49).",
+          "fil": "Kinausap ni Jacob ang kanyang mga anak tungkol sa hinaharap ng kanilang mga pamilya (Genesis 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son's blessing uses a lion and royal authority as images?",
+          "fil": "Kaninong pagpapala ang gumamit ng leon at kapangyarihan ng hari bilang mga larawan?"
+        },
+        "options": {
+          "en": [
+            "Issachar's",
+            "Judah's",
+            "Zebulun's"
+          ],
+          "fil": [
+            "Kay Isacar",
+            "Kay Juda",
+            "Kay Zebulun"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judah's blessing contains images of a lion and enduring rule (Genesis 49).",
+          "fil": "May mga larawan ng leon at nananatiling paghahari ang pagpapala kay Juda (Genesis 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son's blessing pictures a fruitful plant despite hostility?",
+          "fil": "Kaninong pagpapala ang naglarawan ng halamang mabunga sa kabila ng pagsalungat?"
+        },
+        "options": {
+          "en": [
+            "Dan's",
+            "Joseph's",
+            "Reuben's"
+          ],
+          "fil": [
+            "Kay Dan",
+            "Kay Jose",
+            "Kay Ruben"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joseph is pictured as fruitful and sustained by God's help (Genesis 49).",
+          "fil": "Inilarawan si Jose na mabunga at pinatatatag ng tulong ng Diyos (Genesis 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Jacob ask his sons to bury him?",
+          "fil": "Saan hiniling ni Jacob na ilibing siya ng kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "At the tower of Babel",
+            "In Pharaoh's palace",
+            "In the cave of Machpelah with his ancestors"
+          ],
+          "fil": [
+            "Sa tore ng Babel",
+            "Sa palasyo ni Faraon",
+            "Sa yungib ng Macpela kasama ng kanyang mga ninuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jacob names the ancestral burial cave as his desired resting place (Genesis 49).",
+          "fil": "Tinukoy ni Jacob ang yungib na libingan ng mga ninuno bilang nais niyang hantungan (Genesis 49)."
+        }
+      }
+    ],
+    "50": [
+      {
+        "q": {
+          "en": "Where do Joseph and his brothers bury Jacob?",
+          "fil": "Saan inilibing nina Jose at ng kanyang mga kapatid si Jacob?"
+        },
+        "options": {
+          "en": [
+            "In the cave of Machpelah in Canaan",
+            "Under Pharaoh's throne",
+            "On Mount Ararat"
+          ],
+          "fil": [
+            "Sa yungib ng Macpela sa Canaan",
+            "Sa ilalim ng trono ni Faraon",
+            "Sa Bundok Ararat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sons carry Jacob to Canaan and bury him in the family cave (Genesis 50).",
+          "fil": "Dinala ng mga anak si Jacob sa Canaan at inilibing sa yungib ng pamilya (Genesis 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the brothers fear after their father's death?",
+          "fil": "Ano ang kinatakutan ng magkakapatid matapos mamatay ang kanilang ama?"
+        },
+        "options": {
+          "en": [
+            "Joseph may give them too much land",
+            "Pharaoh may make Jacob king",
+            "Joseph may take revenge for their wrongdoing"
+          ],
+          "fil": [
+            "Maaaring bigyan sila ni Jose ng napakaraming lupa",
+            "Maaaring gawing hari ni Faraon si Jacob",
+            "Maaaring maghiganti si Jose sa ginawa nilang mali"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The brothers worry that Joseph will now repay the harm they caused (Genesis 50).",
+          "fil": "Nangamba ang magkakapatid na gagantihan na ni Jose ang pinsalang ginawa nila (Genesis 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joseph reassure them about their families' future?",
+          "fil": "Paano sila pinanatag ni Jose tungkol sa hinaharap ng kanilang mga pamilya?"
+        },
+        "options": {
+          "en": [
+            "He orders them all imprisoned",
+            "He demands that they worship him",
+            "He promises to provide for them and their children"
+          ],
+          "fil": [
+            "Ipinabilanggo niya silang lahat",
+            "Hiningi niyang sambahin nila siya",
+            "Nangako siyang tutustusan sila at ang kanilang mga anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph responds with kindness and promises continuing care (Genesis 50).",
+          "fil": "Tumugon si Jose nang may kabaitan at nangakong patuloy na mangangalaga (Genesis 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joseph ask his people to do with his bones when God brings them out of Egypt?",
+          "fil": "Ano ang hiniling ni Jose na gawin ng kanyang bayan sa kanyang mga buto kapag inilabas sila ng Diyos sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Carry them out with them",
+            "Leave them in Pharaoh's treasury",
+            "Throw them into the Nile"
+          ],
+          "fil": [
+            "Dalhin ang mga ito sa kanilang pag-alis",
+            "Iwan ang mga ito sa kabang-yaman ni Faraon",
+            "Itapon ang mga ito sa Nilo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph's final request expresses trust in God's promise to bring his people back to the land (Genesis 50).",
+          "fil": "Ipinahahayag ng huling hiling ni Jose ang pagtitiwala sa ipinangakong pagbabalik ng Diyos sa lupain (Genesis 50)."
+        }
+      }
+    ]
+  }
+}
