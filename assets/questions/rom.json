@@ -1,0 +1,1140 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why is Paul not ashamed of the gospel?",
+          "fil": "Bakit hindi ikinahihiya ni Pablo ang ebanghelyo?"
+        },
+        "options": {
+          "en": [
+            "It is God's power for salvation to everyone who believes",
+            "It guarantees political influence",
+            "It makes all believers wealthy"
+          ],
+          "fil": [
+            "Ito ang kapangyarihan ng Diyos para sa kaligtasan ng bawat nananampalataya",
+            "Tinitiyak nito ang impluwensiya sa pamahalaan",
+            "Pinayayaman nito ang lahat ng mananampalataya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul presents the gospel as God's saving power for both Jews and Gentiles (Romans 1).",
+          "fil": "Iniharap ni Pablo ang ebanghelyo bilang nagliligtas na kapangyarihan ng Diyos para sa mga Judio at Gentil (Roma 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes God's power recognizable in the world?",
+          "fil": "Ano ang nagpapakilala sa kapangyarihan ng Diyos sa mundo?"
+        },
+        "options": {
+          "en": [
+            "The price of temple gifts",
+            "The things he has created",
+            "The size of Rome's army"
+          ],
+          "fil": [
+            "Ang presyo ng mga handog sa templo",
+            "Ang mga bagay na kanyang nilikha",
+            "Ang laki ng hukbo ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says creation makes God's invisible power and divine nature recognizable (Romans 1).",
+          "fil": "Sinabi ni Pablo na nakikilala sa nilikha ang di-nakikitang kapangyarihan at pagka-Diyos ng Diyos (Roma 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrong exchange does Paul describe in human worship?",
+          "fil": "Anong maling pagpapalit ang inilarawan ni Pablo sa pagsamba ng tao?"
+        },
+        "options": {
+          "en": [
+            "Giving thanks to the true God",
+            "Rejecting idols to honor God",
+            "Worshiping created things instead of the Creator"
+          ],
+          "fil": [
+            "Pagpapasalamat sa tunay na Diyos",
+            "Pagtanggi sa mga diyus-diyusan upang parangalan ang Diyos",
+            "Pagsamba sa mga nilikha sa halip na sa Manlilikha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul describes people exchanging God's truth for a lie and serving creation instead of its Creator (Romans 1).",
+          "fil": "Inilarawan ni Pablo ang pagpapalit ng mga tao sa katotohanan ng Diyos ng kasinungalingan at paglilingkod sa nilikha sa halip na sa Manlilikha (Roma 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why does Paul challenge people who condemn others while doing the same things?",
+          "fil": "Bakit hinamon ni Pablo ang mga humahatol sa iba habang ginagawa ang gayunding mga bagay?"
+        },
+        "options": {
+          "en": [
+            "Their social rank makes them innocent",
+            "They condemn themselves by their hypocrisy",
+            "Their judgment cancels their own wrongdoing"
+          ],
+          "fil": [
+            "Ginagawang inosente sila ng kanilang katayuan",
+            "Hinatulan nila ang sarili sa kanilang pagkukunwari",
+            "Pinapawalang-bisa ng kanilang paghatol ang sarili nilang kasamaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul warns that judging others does not excuse practicing the same wrongs (Romans 2).",
+          "fil": "Nagbabala si Pablo na hindi dahilan ang paghatol sa iba upang gawin ang gayunding kasamaan (Roma 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God treat people of different backgrounds in judgment?",
+          "fil": "Paano pinakikitunguhan ng Diyos ang mga taong may iba't ibang pinagmulan sa paghatol?"
+        },
+        "options": {
+          "en": [
+            "By favoring the wealthy",
+            "By exempting powerful families",
+            "Without favoritism"
+          ],
+          "fil": [
+            "Sa pagkiling sa mayayaman",
+            "Sa paglilibre sa makapangyarihang mga pamilya",
+            "Nang walang pagtatangi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul emphasizes God's impartial judgment rather than privilege based on background (Romans 2).",
+          "fil": "Binigyang-diin ni Pablo ang walang-kinikilingang paghatol ng Diyos sa halip na pribilehiyong batay sa pinagmulan (Roma 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inward change matters beyond an outward religious mark?",
+          "fil": "Anong panloob na pagbabago ang mahalaga higit sa panlabas na tandang panrelihiyon?"
+        },
+        "options": {
+          "en": [
+            "A heart changed by the Spirit",
+            "A more expensive ceremony",
+            "A better public reputation alone"
+          ],
+          "fil": [
+            "Pusong binago ng Espiritu",
+            "Mas mamahaling seremonya",
+            "Mas mabuting reputasyon lamang sa publiko"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul describes true inward circumcision as a work of the Spirit in the heart (Romans 2).",
+          "fil": "Inilarawan ni Pablo ang tunay na panloob na pagtutuli bilang gawa ng Espiritu sa puso (Roma 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Paul conclude about Jews and Gentiles regarding sin?",
+          "fil": "Ano ang pasya ni Pablo tungkol sa mga Judio at Gentil kaugnay ng kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Only Gentiles need forgiveness",
+            "Neither group needs God's mercy",
+            "Both are under sin"
+          ],
+          "fil": [
+            "Mga Gentil lamang ang nangangailangan ng kapatawaran",
+            "Walang grupo ang nangangailangan ng awa ng Diyos",
+            "Pareho silang nasa ilalim ng kasalanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul places both Jews and Gentiles under sin and in need of God's righteousness (Romans 3).",
+          "fil": "Inilagay ni Pablo ang mga Judio at Gentil sa ilalim ng kasalanan at nangangailangan ng katuwiran ng Diyos (Roma 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Paul describe being made right with God through Christ?",
+          "fil": "Paano inilarawan ni Pablo ang pagpapawalang-sala ng Diyos sa pamamagitan ni Cristo?"
+        },
+        "options": {
+          "en": [
+            "A gift of grace through Christ's redemption",
+            "A reward purchased with money",
+            "A privilege earned by ancestry"
+          ],
+          "fil": [
+            "Kaloob ng biyaya sa pamamagitan ng pagtubos ni Cristo",
+            "Gantimpalang binili ng pera",
+            "Pribilehiyong nakamit sa angkan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul describes justification as God's gracious gift through the redemption accomplished in Christ (Romans 3).",
+          "fil": "Inilarawan ni Pablo ang pagpapawalang-sala bilang kaloob ng biyaya ng Diyos sa pamamagitan ng pagtubos na ginawa ni Cristo (Roma 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the law bring people to recognize?",
+          "fil": "Ano ang ipinakikilala ng kautusan sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "Their right to boast over everyone",
+            "Their sin",
+            "Their complete independence from God"
+          ],
+          "fil": [
+            "Ang karapatan nilang magmalaki sa lahat",
+            "Ang kanilang kasalanan",
+            "Ang lubos nilang kalayaan mula sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul explains that the law gives knowledge of sin rather than grounds for boasting (Romans 3).",
+          "fil": "Ipinaliwanag ni Pablo na ipinakikilala ng kautusan ang kasalanan sa halip na magbigay ng dahilan upang magmalaki (Roma 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why is Abraham an example in Paul's discussion of righteousness?",
+          "fil": "Bakit halimbawa si Abraham sa pagtalakay ni Pablo ng katuwiran?"
+        },
+        "options": {
+          "en": [
+            "His faith was credited as righteousness",
+            "He bought God's approval",
+            "He ruled the Roman Empire"
+          ],
+          "fil": [
+            "Itinuring na katuwiran ang kanyang pananampalataya",
+            "Binili niya ang pagsang-ayon ng Diyos",
+            "Pinamunuan niya ang Imperyo ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul uses Abraham to illustrate being counted righteous through faith rather than earned wages (Romans 4).",
+          "fil": "Ginamit ni Pablo si Abraham upang ilarawan ang pagturing na matuwid dahil sa pananampalataya at hindi bilang nakamit na sahod (Roma 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "When was Abraham counted righteous in relation to circumcision?",
+          "fil": "Kailan itinuring na matuwid si Abraham kaugnay ng pagtutuli?"
+        },
+        "options": {
+          "en": [
+            "Only after the law of Moses was given",
+            "Before he was circumcised",
+            "Only after he was circumcised"
+          ],
+          "fil": [
+            "Pagkatapos lamang ibigay ang kautusan ni Moises",
+            "Bago siya tinuli",
+            "Pagkatapos lamang siyang tuliin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abraham's righteousness preceded circumcision, supporting his role as father of believing Jews and Gentiles (Romans 4).",
+          "fil": "Nauna ang pagturing na matuwid kay Abraham sa pagtutuli, kaya siya ang ama ng mga nananampalatayang Judio at Gentil (Roma 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Abraham respond to God's promise despite his and Sarah's old age?",
+          "fil": "Paano tumugon si Abraham sa pangako ng Diyos kahit matanda na siya at si Sara?"
+        },
+        "options": {
+          "en": [
+            "He decided God could not act",
+            "He replaced God's promise with idol worship",
+            "He trusted God's ability to fulfill it"
+          ],
+          "fil": [
+            "Nagpasya siyang hindi makakikilos ang Diyos",
+            "Pinalitan niya ang pangako ng Diyos ng pagsamba sa diyus-diyusan",
+            "Nagtiwala siyang kayang tuparin ito ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul emphasizes Abraham's confidence that God could accomplish what he had promised (Romans 4).",
+          "fil": "Binigyang-diin ni Pablo ang tiwala ni Abraham na kayang gawin ng Diyos ang kanyang ipinangako (Roma 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What do those justified through faith have through Jesus Christ?",
+          "fil": "Ano ang mayroon ang mga pinawalang-sala sa pamamagitan ng pananampalataya kay Jesu-Cristo?"
+        },
+        "options": {
+          "en": [
+            "Guaranteed earthly comfort",
+            "Peace with God",
+            "Freedom to harm others"
+          ],
+          "fil": [
+            "Tiyak na kaginhawahan sa lupa",
+            "Kapayapaan sa Diyos",
+            "Kalayaang manakit ng iba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul begins by connecting justification through faith with peace with God through Jesus (Romans 5).",
+          "fil": "Nagsimula si Pablo sa pag-uugnay ng pagpapawalang-sala sa pamamagitan ng pananampalataya sa kapayapaan sa Diyos kay Jesus (Roma 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did God demonstrate love toward sinful people?",
+          "fil": "Paano ipinakita ng Diyos ang pagmamahal sa mga makasalanan?"
+        },
+        "options": {
+          "en": [
+            "He waited until they became perfect",
+            "He required them to purchase his kindness",
+            "Christ died for them while they were still sinners"
+          ],
+          "fil": [
+            "Hinintay niyang maging ganap muna sila",
+            "Hiningi niyang bilhin nila ang kanyang kabutihan",
+            "Namatay si Cristo para sa kanila habang makasalanan pa sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Christ's death for people still in sin demonstrates God's love (Romans 5).",
+          "fil": "Ipinapakita ng pagkamatay ni Cristo para sa mga taong makasalanan pa ang pagmamahal ng Diyos (Roma 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast does Paul draw between Adam and Christ?",
+          "fil": "Anong pagkakaiba ang ipinakita ni Pablo kina Adan at Cristo?"
+        },
+        "options": {
+          "en": [
+            "Adam's disobedience brought death, while Christ brings life",
+            "Both brought only condemnation",
+            "Christ repeated Adam's disobedience"
+          ],
+          "fil": [
+            "Nagdala ng kamatayan ang pagsuway ni Adan, samantalang buhay ang dulot ni Cristo",
+            "Kapwa sila nagdala lamang ng paghatol",
+            "Inulit ni Cristo ang pagsuway ni Adan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul contrasts the spread of sin and death through Adam with grace and life through Christ (Romans 5).",
+          "fil": "Inihambing ni Pablo ang paglaganap ng kasalanan at kamatayan kay Adan sa biyaya at buhay kay Cristo (Roma 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does baptism into Christ's death point believers toward?",
+          "fil": "Saan itinuturo ng bautismo sa kamatayan ni Cristo ang mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "A return to slavery to sin",
+            "A reason to ignore the resurrection",
+            "A new way of life with him"
+          ],
+          "fil": [
+            "Pagbabalik sa pagkaalipin sa kasalanan",
+            "Dahilan upang balewalain ang muling pagkabuhay",
+            "Bagong pamumuhay kasama niya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Sharing Christ's death and burial in baptism points toward walking in new life (Romans 6).",
+          "fil": "Ang pakikibahagi sa pagkamatay at paglilibing ni Cristo sa bautismo ay nagtuturo sa bagong pamumuhay (Roma 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers use their bodies after being freed from sin's rule?",
+          "fil": "Paano dapat gamitin ng mga mananampalataya ang kanilang katawan matapos mapalaya sa paghahari ng kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Offer themselves to God for righteousness",
+            "Let sin control their actions",
+            "Treat grace as permission for wrongdoing"
+          ],
+          "fil": [
+            "Ihandog ang sarili sa Diyos para sa katuwiran",
+            "Hayaang kontrolin ng kasalanan ang kanilang mga gawa",
+            "Ituring ang biyaya bilang pahintulot sa kasamaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul urges believers to offer their bodies to God rather than as instruments of sin (Romans 6).",
+          "fil": "Hinimok ni Pablo ang mga mananampalataya na ihandog ang kanilang katawan sa Diyos at hindi bilang mga kasangkapan ng kasalanan (Roma 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God's gift contrast with sin's outcome?",
+          "fil": "Paano naiiba ang kaloob ng Diyos sa bunga ng kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Sin earns eternal life",
+            "God gives eternal life, while sin leads to death",
+            "Both lead only to death"
+          ],
+          "fil": [
+            "Nagkakamit ng buhay na walang hanggan ang kasalanan",
+            "Nagbibigay ang Diyos ng buhay na walang hanggan, samantalang kamatayan ang dulot ng kasalanan",
+            "Pareho silang humahantong lamang sa kamatayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul contrasts death as sin's outcome with eternal life as God's gift in Christ (Romans 6).",
+          "fil": "Inihambing ni Pablo ang kamatayang bunga ng kasalanan sa buhay na walang hanggang kaloob ng Diyos kay Cristo (Roma 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What does the illustration of marriage ending at death help explain?",
+          "fil": "Ano ang ipinaliliwanag ng larawan ng pag-aasawang nagtatapos sa kamatayan?"
+        },
+        "options": {
+          "en": [
+            "Believers' changed relationship to the law through Christ's death",
+            "That marriage is always wrong",
+            "That the law was created by idols"
+          ],
+          "fil": [
+            "Ang nagbagong kaugnayan ng mga mananampalataya sa kautusan sa pamamagitan ng kamatayan ni Cristo",
+            "Na palaging mali ang pag-aasawa",
+            "Na nilikha ng mga diyus-diyusan ang kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul uses death's effect on marriage to explain release into belonging to the risen Christ (Romans 7).",
+          "fil": "Ginamit ni Pablo ang epekto ng kamatayan sa pag-aasawa upang ipaliwanag ang paglaya tungo sa pagiging kay Cristong muling nabuhay (Roma 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the command against coveting help Paul recognize?",
+          "fil": "Ano ang nakilala ni Pablo sa tulong ng utos laban sa pag-iimbot?"
+        },
+        "options": {
+          "en": [
+            "That greed is harmless",
+            "The reality of sin",
+            "That the law itself is evil"
+          ],
+          "fil": [
+            "Na walang masama sa kasakiman",
+            "Ang katotohanan ng kasalanan",
+            "Na masama mismo ang kautusan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul says the law made sin recognizable, using coveting as his example (Romans 7).",
+          "fil": "Sinabi ni Pablo na ipinakilala ng kautusan ang kasalanan, gamit ang pag-iimbot bilang halimbawa (Roma 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inner struggle is described in this chapter?",
+          "fil": "Anong panloob na pakikibaka ang inilarawan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Having no awareness of right and wrong",
+            "Always doing good without any conflict",
+            "Wanting to do good but doing the evil one rejects"
+          ],
+          "fil": [
+            "Kawalan ng kaalaman sa mabuti at masama",
+            "Palaging paggawa ng mabuti nang walang anumang pakikibaka",
+            "Pagnanais gumawa ng mabuti ngunit paggawa ng kasamaang tinatanggihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter portrays the painful conflict between approving what is good and the power of sin (Romans 7).",
+          "fil": "Inilarawan ng kabanata ang masakit na tunggalian ng pagsang-ayon sa mabuti at kapangyarihan ng kasalanan (Roma 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What has the Spirit's life-giving work in Christ done for believers?",
+          "fil": "Ano ang ginawa para sa mga mananampalataya ng nagbibigay-buhay na gawa ng Espiritu kay Cristo?"
+        },
+        "options": {
+          "en": [
+            "Removed every earthly difficulty",
+            "Freed them from sin and death's rule",
+            "Made obedience to God pointless"
+          ],
+          "fil": [
+            "Inalis ang bawat paghihirap sa lupa",
+            "Pinalaya sila sa paghahari ng kasalanan at kamatayan",
+            "Ginawang walang saysay ang pagsunod sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul announces freedom from condemnation and from sin and death through Christ and the Spirit (Romans 8).",
+          "fil": "Ipinahayag ni Pablo ang kalayaan sa paghatol at sa kasalanan at kamatayan sa pamamagitan ni Cristo at ng Espiritu (Roma 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship with God does the Spirit affirm in believers?",
+          "fil": "Anong kaugnayan sa Diyos ang pinagtitibay ng Espiritu sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "They are strangers God refuses to hear",
+            "They are rivals for God's authority",
+            "They are God's children who may call him Father"
+          ],
+          "fil": [
+            "Mga dayuhan silang ayaw pakinggan ng Diyos",
+            "Mga karibal sila sa awtoridad ng Diyos",
+            "Mga anak sila ng Diyos na maaaring tumawag sa kanya bilang Ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Spirit affirms adoption as God's children rather than slavery to fear (Romans 8).",
+          "fil": "Pinagtitibay ng Espiritu ang pagkupkop bilang mga anak ng Diyos sa halip na pagkaalipin sa takot (Roma 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What confidence does Paul express about hardship and God's love?",
+          "fil": "Anong tiwala ang ipinahayag ni Pablo tungkol sa paghihirap at pagmamahal ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Nothing in creation can separate believers from God's love in Christ",
+            "Suffering always means God has stopped loving them",
+            "Only wealthy people remain loved"
+          ],
+          "fil": [
+            "Walang nilikha ang makapaghihiwalay sa mga mananampalataya sa pagmamahal ng Diyos kay Cristo",
+            "Palaging tanda ang pagdurusa na hindi na sila mahal ng Diyos",
+            "Mga mayayaman lamang ang patuloy na minamahal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul declares the security of God's love in Christ even amid suffering and hostile powers (Romans 8).",
+          "fil": "Ipinahayag ni Pablo ang katiyakan ng pagmamahal ng Diyos kay Cristo kahit sa gitna ng pagdurusa at mga kapangyarihang kalaban (Roma 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How does Paul feel about his fellow Israelites?",
+          "fil": "Ano ang nadarama ni Pablo para sa kapwa niya mga Israelita?"
+        },
+        "options": {
+          "en": [
+            "Indifference toward their relationship with God",
+            "Joy that they face difficulty",
+            "Deep sorrow and concern for them"
+          ],
+          "fil": [
+            "Kawalang-pakialam sa kanilang kaugnayan sa Diyos",
+            "Kagalakan sa mga paghihirap nila",
+            "Matinding kalungkutan at pagmamalasakit sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul begins with profound grief and love for his fellow Israelites (Romans 9).",
+          "fil": "Nagsimula si Pablo sa matinding dalamhati at pagmamahal para sa kapwa niya mga Israelita (Roma 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image does Paul use to discuss God's authority as Creator?",
+          "fil": "Anong larawan ang ginamit ni Pablo sa pagtalakay sa awtoridad ng Diyos bilang Manlilikha?"
+        },
+        "options": {
+          "en": [
+            "A potter shaping clay",
+            "A merchant losing a ship",
+            "A soldier fleeing a battle"
+          ],
+          "fil": [
+            "Magpapalayok na humuhubog ng luwad",
+            "Mangangalakal na nawalan ng barko",
+            "Sundalong tumatakas sa labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul uses a potter's authority over clay as an illustration of God's authority (Romans 9).",
+          "fil": "Ginamit ni Pablo ang awtoridad ng magpapalayok sa luwad bilang larawan ng awtoridad ng Diyos (Roma 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did Gentiles obtain righteousness in Paul's contrast at the chapter's end?",
+          "fil": "Paano nakamit ng mga Gentil ang katuwiran sa paghahambing ni Pablo sa dulo ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Through buying religious titles",
+            "Through faith",
+            "Through military victory"
+          ],
+          "fil": [
+            "Sa pagbili ng mga titulong panrelihiyon",
+            "Sa pamamagitan ng pananampalataya",
+            "Sa pamamagitan ng tagumpay sa digmaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul contrasts righteousness received by faith with a pursuit relying on works rather than faith (Romans 9).",
+          "fil": "Inihambing ni Pablo ang katuwirang tinanggap sa pananampalataya sa paghahangad na umaasa sa gawa sa halip na pananampalataya (Roma 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What is Paul's heartfelt prayer for Israel?",
+          "fil": "Ano ang taimtim na panalangin ni Pablo para sa Israel?"
+        },
+        "options": {
+          "en": [
+            "That they may be saved",
+            "That they may conquer Rome",
+            "That they may stop seeking God"
+          ],
+          "fil": [
+            "Na sila ay maligtas",
+            "Na masakop nila ang Roma",
+            "Na tumigil silang hanapin ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul expresses his desire and prayer for Israel's salvation (Romans 10).",
+          "fil": "Ipinahayag ni Pablo ang kanyang hangarin at panalangin para sa kaligtasan ng Israel (Roma 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response to Jesus does Paul connect with salvation?",
+          "fil": "Anong pagtugon kay Jesus ang iniugnay ni Pablo sa kaligtasan?"
+        },
+        "options": {
+          "en": [
+            "Denying his resurrection while seeking status",
+            "Acknowledging him as Lord and believing God raised him",
+            "Honoring him only as a successful merchant"
+          ],
+          "fil": [
+            "Pagtanggi sa kanyang muling pagkabuhay habang naghahangad ng katayuan",
+            "Pagkilala sa kanya bilang Panginoon at paniniwalang binuhay siyang muli ng Diyos",
+            "Paggalang lamang sa kanya bilang matagumpay na mangangalakal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul connects heartfelt belief in Jesus' resurrection with openly acknowledging him as Lord (Romans 10).",
+          "fil": "Iniugnay ni Pablo ang taos-pusong paniniwala sa muling pagkabuhay ni Jesus sa hayagang pagkilala sa kanya bilang Panginoon (Roma 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are people sent to proclaim the message about Christ?",
+          "fil": "Bakit may mga taong isinusugo upang ipahayag ang mensahe tungkol kay Cristo?"
+        },
+        "options": {
+          "en": [
+            "Faith grows only through political power",
+            "No one needs to hear about Jesus",
+            "People need to hear the message in order to believe"
+          ],
+          "fil": [
+            "Sa kapangyarihan lamang ng pamahalaan lumalago ang pananampalataya",
+            "Walang kailangang makarinig tungkol kay Jesus",
+            "Kailangang marinig ng mga tao ang mensahe upang manampalataya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul links sending, preaching, hearing, and believing in explaining the spread of faith (Romans 10).",
+          "fil": "Iniugnay ni Pablo ang pagsusugo, pangangaral, pakikinig, at paniniwala sa pagpapaliwanag ng paglaganap ng pananampalataya (Roma 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Why does Paul recall the faithful remnant in Elijah's time?",
+          "fil": "Bakit ipinaalala ni Pablo ang tapat na nalabi noong panahon ni Elias?"
+        },
+        "options": {
+          "en": [
+            "To end every hope of mercy",
+            "To show that God has not rejected all his people",
+            "To say no Israelite ever remained faithful"
+          ],
+          "fil": [
+            "Upang wakasan ang lahat ng pag-asa sa awa",
+            "Upang ipakitang hindi itinakwil ng Diyos ang lahat ng kanyang bayan",
+            "Upang sabihing walang Israelitang nanatiling tapat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah's experience illustrates the preservation of a remnant by God's grace (Romans 11).",
+          "fil": "Inilalarawan ng karanasan ni Elias ang pagpapanatili ng nalabi sa pamamagitan ng biyaya ng Diyos (Roma 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does the olive-tree illustration give Gentile believers?",
+          "fil": "Anong babala ang ibinigay ng larawan ng punong olibo sa mga mananampalatayang Gentil?"
+        },
+        "options": {
+          "en": [
+            "Assume they support the root by their own greatness",
+            "Treat other people as beyond God's mercy",
+            "Do not boast over the branches or become arrogant"
+          ],
+          "fil": [
+            "Isiping sila ang bumubuhay sa ugat dahil sa sarili nilang kadakilaan",
+            "Ituring ang iba bilang hindi na maaabot ng awa ng Diyos",
+            "Huwag magmalaki sa mga sanga o maging palalo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul warns grafted-in Gentiles to remain humble because the root supports them (Romans 11).",
+          "fil": "Binalaan ni Pablo ang mga Gentil na idinugtong sa puno na manatiling mapagpakumbaba dahil ang ugat ang bumubuhay sa kanila (Roma 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul affirm about God's gifts and calling?",
+          "fil": "Ano ang pinagtibay ni Pablo tungkol sa mga kaloob at pagtawag ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God does not withdraw them",
+            "They depend on constant changes of fashion",
+            "They are sold to the highest bidder"
+          ],
+          "fil": [
+            "Hindi binabawi ng Diyos ang mga ito",
+            "Nakasalalay ang mga ito sa palaging pagbabago ng uso",
+            "Ipinagbibili ang mga ito sa pinakamataas magbayad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul affirms God's enduring gifts and calling while discussing mercy for Israel and the Gentiles (Romans 11).",
+          "fil": "Pinagtibay ni Pablo ang nananatiling mga kaloob at pagtawag ng Diyos habang tinatalakay ang awa para sa Israel at mga Gentil (Roma 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "How should believers offer their bodies to God?",
+          "fil": "Paano dapat ihandog ng mga mananampalataya ang kanilang katawan sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "As instruments for selfish revenge",
+            "As possessions with no relation to worship",
+            "As a living sacrifice in service to him"
+          ],
+          "fil": [
+            "Bilang mga kasangkapan sa makasariling paghihiganti",
+            "Bilang mga pag-aaring walang kaugnayan sa pagsamba",
+            "Bilang buhay na handog sa paglilingkod sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul calls for whole-life worship and transformation through a renewed mind (Romans 12).",
+          "fil": "Nanawagan si Pablo ng pagsambang saklaw ang buong buhay at pagbabago sa pamamagitan ng panibagong pag-iisip (Roma 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers use their differing gifts?",
+          "fil": "Paano dapat gamitin ng mga mananampalataya ang kanilang magkakaibang kaloob?"
+        },
+        "options": {
+          "en": [
+            "Serve faithfully as members of one body",
+            "Compete to prove others useless",
+            "Keep every ability hidden from the community"
+          ],
+          "fil": [
+            "Maglingkod nang tapat bilang mga bahagi ng iisang katawan",
+            "Makipagpaligsahan upang patunayang walang silbi ang iba",
+            "Itago ang bawat kakayahan sa komunidad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul describes different gifts as contributions within one body in Christ (Romans 12).",
+          "fil": "Inilarawan ni Pablo ang iba't ibang kaloob bilang mga ambag sa iisang katawan kay Cristo (Roma 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should believers respond to evil?",
+          "fil": "Paano dapat tumugon ang mga mananampalataya sa kasamaan?"
+        },
+        "options": {
+          "en": [
+            "Seek revenge whenever possible",
+            "Overcome it by doing good rather than taking revenge",
+            "Repay every insult with harm"
+          ],
+          "fil": [
+            "Maghiganti sa bawat pagkakataon",
+            "Daigin ito sa paggawa ng mabuti sa halip na paghihiganti",
+            "Gantihan ng pananakit ang bawat panlalait"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul urges peace, kindness toward enemies, and overcoming evil through good (Romans 12).",
+          "fil": "Hinimok ni Pablo ang kapayapaan, kabaitan sa mga kaaway, at pagdaig sa kasamaan sa pamamagitan ng mabuti (Roma 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What duties toward governing authorities does Paul mention?",
+          "fil": "Anong mga tungkulin sa mga namamahala ang binanggit ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "Paying taxes and giving proper respect",
+            "Worshiping rulers as gods",
+            "Refusing every public obligation"
+          ],
+          "fil": [
+            "Pagbabayad ng buwis at pagbibigay ng nararapat na paggalang",
+            "Pagsamba sa mga pinuno bilang mga diyos",
+            "Pagtanggi sa bawat pananagutan sa lipunan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul includes taxes, revenue, respect, and honor among obligations toward authorities (Romans 13).",
+          "fil": "Isinama ni Pablo ang buwis, bayarin, paggalang, at karangalan sa mga pananagutan sa mga namamahala (Roma 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does loving one's neighbor fulfill the law?",
+          "fil": "Bakit tinutupad ng pagmamahal sa kapwa ang kautusan?"
+        },
+        "options": {
+          "en": [
+            "Love makes deception acceptable",
+            "Love does not harm the neighbor",
+            "Love permits every selfish act"
+          ],
+          "fil": [
+            "Ginagawang katanggap-tanggap ng pagmamahal ang panlilinlang",
+            "Hindi sinasaktan ng pagmamahal ang kapwa",
+            "Pinapayagan ng pagmamahal ang bawat makasariling gawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul explains that the commands against harming others are fulfilled in love of neighbor (Romans 13).",
+          "fil": "Ipinaliwanag ni Pablo na natutupad sa pagmamahal sa kapwa ang mga utos laban sa pananakit sa iba (Roma 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does Paul urge because salvation is drawing nearer?",
+          "fil": "Anong pagtugon ang hinimok ni Pablo dahil papalapit ang kaligtasan?"
+        },
+        "options": {
+          "en": [
+            "Put off every effort to change",
+            "Use the waiting time for uncontrolled indulgence",
+            "Leave dark deeds behind and live honorably in Christ"
+          ],
+          "fil": [
+            "Ipagpaliban ang bawat pagsisikap na magbago",
+            "Gamitin ang paghihintay sa walang-pigil na pagpapakasasa",
+            "Iwan ang mga gawa ng kadiliman at mamuhay nang marangal kay Cristo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul calls believers to awaken and exchange sinful conduct for a life shaped by Christ (Romans 13).",
+          "fil": "Tinawag ni Pablo ang mga mananampalataya na gumising at ipalit sa makasalanang asal ang pamumuhay na hinuhubog ni Cristo (Roma 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What differences should not lead believers to despise or condemn one another?",
+          "fil": "Anong mga pagkakaiba ang hindi dapat maging dahilan ng paghamak o paghatol sa isa't isa?"
+        },
+        "options": {
+          "en": [
+            "Whether cruelty should be praised",
+            "Differences about foods and observing days",
+            "Whether stealing is acceptable"
+          ],
+          "fil": [
+            "Kung dapat purihin ang kalupitan",
+            "Mga pagkakaiba tungkol sa pagkain at paggalang sa mga araw",
+            "Kung katanggap-tanggap ang pagnanakaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul calls for welcome rather than contempt over disputed food practices and special days (Romans 14).",
+          "fil": "Nanawagan si Pablo ng pagtanggap sa halip na paghamak dahil sa pinagtatalunang pagkain at natatanging mga araw (Roma 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom will each believer give an account?",
+          "fil": "Kanino magbibigay ng pananagutan ang bawat mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "The wealthiest church member",
+            "The nearest merchant",
+            "God"
+          ],
+          "fil": [
+            "Sa pinakamayamang miyembro ng iglesiya",
+            "Sa pinakamalapit na mangangalakal",
+            "Sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul reminds believers of their personal accountability before God instead of judging one another (Romans 14).",
+          "fil": "Ipinaalala ni Pablo ang personal na pananagutan ng mga mananampalataya sa Diyos sa halip na paghatol sa isa't isa (Roma 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should limit the exercise of freedom about food?",
+          "fil": "Ano ang dapat magtakda ng hangganan sa paggamit ng kalayaan tungkol sa pagkain?"
+        },
+        "options": {
+          "en": [
+            "Care not to cause another believer to stumble",
+            "A desire to embarrass weaker believers",
+            "A need to show off one's knowledge"
+          ],
+          "fil": [
+            "Pag-iingat na hindi maging sanhi ng pagkatisod ng ibang mananampalataya",
+            "Pagnanais na hiyain ang mas mahihinang mananampalataya",
+            "Pangangailangang ipagmalaki ang sariling kaalaman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul places a fellow believer's spiritual welfare above insisting on food-related freedom (Romans 14).",
+          "fil": "Inuna ni Pablo ang espirituwal na kapakanan ng kapwa mananampalataya kaysa sa paggiit ng kalayaan tungkol sa pagkain (Roma 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How should the strong treat those who are weak?",
+          "fil": "Paano dapat pakitunguhan ng malalakas ang mahihina?"
+        },
+        "options": {
+          "en": [
+            "Please only themselves",
+            "Exclude them from every gathering",
+            "Bear with them and seek their good"
+          ],
+          "fil": [
+            "Paluguran lamang ang kanilang sarili",
+            "Ibukod sila sa bawat pagtitipon",
+            "Pagtiisan sila at hangarin ang kanilang kabutihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul urges the strong to support the weak and build up their neighbors rather than please themselves (Romans 15).",
+          "fil": "Hinimok ni Pablo ang malalakas na suportahan ang mahihina at patibayin ang kapwa sa halip na paluguran ang sarili (Roma 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should Jewish and Gentile believers welcome one another?",
+          "fil": "Bakit dapat tanggapin ng mga mananampalatayang Judio at Gentil ang isa't isa?"
+        },
+        "options": {
+          "en": [
+            "Christ has welcomed them for God's glory",
+            "They must all share the same ancestry",
+            "Only one group can receive God's mercy"
+          ],
+          "fil": [
+            "Tinanggap sila ni Cristo para sa kaluwalhatian ng Diyos",
+            "Kailangang pareho ang angkan nilang lahat",
+            "Isang grupo lamang ang maaaring tumanggap ng awa ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul grounds mutual welcome in Christ's work for both Israel and the nations (Romans 15).",
+          "fil": "Iniugat ni Pablo ang pagtanggap sa isa't isa sa ginawa ni Cristo para sa Israel at sa mga bansa (Roma 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical help is Paul taking to Jerusalem?",
+          "fil": "Anong praktikal na tulong ang dinadala ni Pablo sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "A new crown for the governor",
+            "A contribution for poor believers",
+            "Weapons for a revolt"
+          ],
+          "fil": [
+            "Bagong korona para sa gobernador",
+            "Ambag para sa mahihirap na mananampalataya",
+            "Mga sandata para sa paghihimagsik"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul is taking the contribution from Macedonia and Achaia to needy believers in Jerusalem (Romans 15).",
+          "fil": "Dinadala ni Pablo ang ambag mula sa Macedonia at Acaya sa mga mananampalatayang nangangailangan sa Jerusalem (Roma 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "How does Paul ask the Roman believers to receive Phoebe?",
+          "fil": "Paano hiniling ni Pablo na tanggapin ng mga mananampalataya sa Roma si Febe?"
+        },
+        "options": {
+          "en": [
+            "Welcome her in the Lord and help her as needed",
+            "Treat her as a stranger without support",
+            "Demand payment before hearing her"
+          ],
+          "fil": [
+            "Tanggapin siya sa Panginoon at tulungan ayon sa kanyang kailangan",
+            "Ituring siya bilang dayuhang walang suporta",
+            "Humingi ng bayad bago siya pakinggan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul commends Phoebe as a servant of the church and asks believers to assist her (Romans 16).",
+          "fil": "Ipinakilala ni Pablo si Febe bilang lingkod ng iglesiya at hiniling sa mga mananampalataya na tulungan siya (Roma 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Paul's many greetings show about the work of the gospel?",
+          "fil": "Ano ang ipinapakita ng maraming pagbati ni Pablo tungkol sa gawain ng ebanghelyo?"
+        },
+        "options": {
+          "en": [
+            "Only rulers could contribute",
+            "Many men and women shared in faithful service",
+            "Paul worked without any helpers"
+          ],
+          "fil": [
+            "Mga pinuno lamang ang maaaring mag-ambag",
+            "Maraming lalaki at babae ang nakibahagi sa tapat na paglilingkod",
+            "Naglingkod si Pablo nang walang mga katulong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's greetings recognize the labor, hospitality, and sacrifices of many fellow workers (Romans 16).",
+          "fil": "Kinikilala ng mga pagbati ni Pablo ang paggawa, magiliw na pagtanggap, at mga sakripisyo ng maraming kapwa manggagawa (Roma 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of people does Paul warn the church to avoid?",
+          "fil": "Anong uri ng mga tao ang binalaan ni Pablo na iwasan ng iglesiya?"
+        },
+        "options": {
+          "en": [
+            "Those serving quietly and faithfully",
+            "Those helping travelers continue their work",
+            "Those causing divisions contrary to the teaching received"
+          ],
+          "fil": [
+            "Mga naglilingkod nang tahimik at tapat",
+            "Mga tumutulong sa mga manlalakbay na magpatuloy sa gawain",
+            "Mga nagdudulot ng pagkakabaha-bahagi na salungat sa natanggap na aral"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul warns against divisive people who use flattering words to serve their own interests (Romans 16).",
+          "fil": "Nagbabala si Pablo laban sa mga mapagpasimuno ng pagkakabaha-bahagi na gumagamit ng pambobola para sa sariling interes (Roma 16)."
+        }
+      }
+    ]
+  }
+}
