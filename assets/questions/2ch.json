@@ -1,0 +1,2836 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Where does Solomon go with the assembly to seek God?",
+          "fil": "Saan nagtungo si Solomon kasama ang kapulungan upang sumangguni sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Nineveh, beside an Assyrian palace",
+            "Egypt, inside Pharaoh's tomb",
+            "Gibeon, where the tent of meeting stands"
+          ],
+          "fil": [
+            "Sa Nineve sa tabi ng palasyo ng Asiria",
+            "Sa Egipto sa loob ng libingan ni Faraon",
+            "Sa Gibeon na kinaroroonan ng Toldang Tipanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon worships at Gibeon where the tabernacle and bronze altar are located (2 Chronicles 1).",
+          "fil": "Sumamba si Solomon sa Gibeon na kinaroroonan ng tabernakulo at altar na tanso (2 Cronica 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon ask God to give him?",
+          "fil": "Ano ang hiniling ni Solomon na ibigay sa kanya ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Freedom from every responsibility",
+            "The death of every foreign visitor",
+            "Wisdom and knowledge to lead the people"
+          ],
+          "fil": [
+            "Kalayaan mula sa lahat ng pananagutan",
+            "Pagkamatay ng bawat dayuhang bisita",
+            "Karunungan at kaalaman upang pamunuan ang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon seeks the ability to govern the people entrusted to him (2 Chronicles 1).",
+          "fil": "Hiniling ni Solomon ang kakayahang pamahalaan ang bayang ipinagkatiwala sa kanya (2 Cronica 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God add to the wisdom Solomon requests?",
+          "fil": "Ano ang idinagdag ng Diyos sa karunungang hiniling ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Exile from Jerusalem",
+            "Wealth and honor",
+            "A command to worship Baal"
+          ],
+          "fil": [
+            "Pagkakatapon mula sa Jerusalem",
+            "Kayamanan at karangalan",
+            "Utos na sumamba kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God grants Solomon wisdom together with exceptional wealth and honor (2 Chronicles 1).",
+          "fil": "Binigyan ng Diyos si Solomon ng karunungan kasama ang natatanging kayamanan at karangalan (2 Cronica 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does Solomon ask Hiram of Tyre to help him build?",
+          "fil": "Ano ang hiniling ni Solomon kay Hiram ng Tiro na tulungan siyang itayo?"
+        },
+        "options": {
+          "en": [
+            "A new tower of Babel",
+            "A temple for the Lord and a royal palace",
+            "A temple for Dagon in Jerusalem"
+          ],
+          "fil": [
+            "Bagong tore ng Babel",
+            "Templo para sa Panginoon at palasyo ng hari",
+            "Templo para kay Dagon sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon requests skilled help and timber for his building projects (2 Chronicles 2).",
+          "fil": "Humingi si Solomon ng bihasang tulong at kahoy para sa kanyang mga itatayo (2 Cronica 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Solomon say the house for God should be great?",
+          "fil": "Bakit sinabi ni Solomon na dapat maging dakila ang bahay para sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "The God they worship is greater than all gods",
+            "Tyre will own all Israel afterward",
+            "God needs a palace to become powerful"
+          ],
+          "fil": [
+            "Higit sa lahat ng diyos ang Diyos na kanilang sinasamba",
+            "Magiging pag-aari ng Tiro ang buong Israel pagkatapos",
+            "Kailangan ng Diyos ng palasyo upang maging makapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon connects the temple's greatness with the greatness of the Lord (2 Chronicles 2).",
+          "fil": "Iniugnay ni Solomon ang kadakilaan ng templo sa kadakilaan ng Panginoon (2 Cronica 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does Solomon think a building can contain God?",
+          "fil": "Iniisip ba ni Solomon na makapaglalaman sa Diyos ang isang gusali?"
+        },
+        "options": {
+          "en": [
+            "Yes, God will fit inside one small room",
+            "Yes, God can never leave the building",
+            "No, even the heavens cannot contain him"
+          ],
+          "fil": [
+            "Oo, magkakasya ang Diyos sa isang maliit na silid",
+            "Oo, hindi na kailanman makalalabas ang Diyos sa gusali",
+            "Hindi, kahit ang kalangitan ay hindi makapaglalaman sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon sees the temple as a place of worship rather than a limit on God's presence (2 Chronicles 2).",
+          "fil": "Nakita ni Solomon ang templo bilang lugar ng pagsamba at hindi hangganan ng presensiya ng Diyos (2 Cronica 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Where does Solomon begin building the temple?",
+          "fil": "Saan sinimulan ni Solomon ang pagtatayo ng templo?"
+        },
+        "options": {
+          "en": [
+            "Mount Carmel beside the sea",
+            "Mount Sinai in the wilderness",
+            "Mount Moriah in Jerusalem"
+          ],
+          "fil": [
+            "Sa Bundok Carmel sa tabi ng dagat",
+            "Sa Bundok Sinai sa ilang",
+            "Sa Bundok Moria sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The temple is built on Mount Moriah at the site prepared by David (2 Chronicles 3).",
+          "fil": "Itinayo ang templo sa Bundok Moria sa lugar na inihanda ni David (2 Cronica 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What especially holy room is described inside the temple?",
+          "fil": "Anong lubhang banal na silid ang inilarawan sa loob ng templo?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's throne room",
+            "The Most Holy Place",
+            "A prison for the prophets"
+          ],
+          "fil": [
+            "Ang silid-trono ni Faraon",
+            "Ang Dakong Kabanal-banalan",
+            "Isang bilangguan para sa mga propeta"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter describes the inner sanctuary set apart within God's house (2 Chronicles 3).",
+          "fil": "Inilarawan ng kabanata ang pinakaloob na santuwaryong ibinukod sa bahay ng Diyos (2 Cronica 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What winged figures are made for the inner sanctuary?",
+          "fil": "Anong mga anyong may pakpak ang ginawa para sa pinakaloob na santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Images of Baal",
+            "Cherubim",
+            "Statues of Pharaoh"
+          ],
+          "fil": [
+            "Mga imahen ni Baal",
+            "Mga kerubin",
+            "Mga rebulto ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cherubim form part of the sacred furnishings of the Most Holy Place (2 Chronicles 3).",
+          "fil": "Kabilang ang mga kerubin sa mga banal na kagamitan ng Dakong Kabanal-banalan (2 Cronica 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What is the main subject of this chapter?",
+          "fil": "Ano ang pangunahing paksa ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "A battle against the Philistines",
+            "Furnishings made for the temple",
+            "David's escape from Saul"
+          ],
+          "fil": [
+            "Isang labanan sa mga Filisteo",
+            "Mga kagamitang ginawa para sa templo",
+            "Ang pagtakas ni David kay Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter describes the altar, basins, and other furnishings for temple worship (2 Chronicles 4).",
+          "fil": "Inilarawan ng kabanata ang altar, mga hugasan, at ibang kagamitan para sa pagsamba sa templo (2 Cronica 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whom does the large bronze Sea provide washing water?",
+          "fil": "Para kanino ang tubig na panghugas sa malaking Dagat na tanso?"
+        },
+        "options": {
+          "en": [
+            "The priests",
+            "The army of Babylon",
+            "Foreign kings' horses"
+          ],
+          "fil": [
+            "Sa mga pari",
+            "Sa hukbo ng Babilonia",
+            "Sa mga kabayo ng mga dayuhang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The bronze Sea is provided for the priests to wash (2 Chronicles 4).",
+          "fil": "Inilaan ang Dagat na tanso upang makapaghugas ang mga pari (2 Cronica 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What valuable metal is used for the lampstands and tables inside the temple?",
+          "fil": "Anong mahalagang metal ang ginamit sa mga patungan ng ilawan at mesa sa loob ng templo?"
+        },
+        "options": {
+          "en": [
+            "Iron from Goliath's spear",
+            "Gold",
+            "Lead"
+          ],
+          "fil": [
+            "Bakal mula sa sibat ni Goliat",
+            "Ginto",
+            "Tingga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gold furnishings are prepared for service inside the temple (2 Chronicles 4).",
+          "fil": "Inihanda ang mga kagamitang ginto para sa paglilingkod sa loob ng templo (2 Cronica 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What sacred object is brought into the completed temple?",
+          "fil": "Anong sagradong bagay ang dinala sa natapos na templo?"
+        },
+        "options": {
+          "en": [
+            "Saul's throne",
+            "Dagon's statue",
+            "The ark of the covenant"
+          ],
+          "fil": [
+            "Ang trono ni Saul",
+            "Ang rebulto ni Dagon",
+            "Ang Kaban ng Tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priests bring the ark into the inner sanctuary beneath the cherubim (2 Chronicles 5).",
+          "fil": "Dinala ng mga pari ang Kaban sa pinakaloob na santuwaryo sa ilalim ng mga kerubin (2 Cronica 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the singers and musicians doing together at the dedication?",
+          "fil": "Ano ang sama-samang ginawa ng mga mang-aawit at musikero sa pagtatalaga?"
+        },
+        "options": {
+          "en": [
+            "Praising the Lord for his goodness and lasting love",
+            "Announcing war against Egypt",
+            "Calling the people to worship Baal"
+          ],
+          "fil": [
+            "Pinupuri ang Panginoon sa kanyang kabutihan at walang hanggang pag-ibig",
+            "Nagpapahayag ng digmaan laban sa Egipto",
+            "Tinatawag ang bayan na sumamba kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "United musical praise accompanies the arrival of the ark (2 Chronicles 5).",
+          "fil": "Sinabayan ng nagkakaisang pagpupuri sa musika ang pagdating ng Kaban (2 Cronica 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fills the temple and prevents the priests from continuing their service?",
+          "fil": "Ano ang pumuno sa templo at pumigil sa mga pari na ipagpatuloy ang paglilingkod?"
+        },
+        "options": {
+          "en": [
+            "Floodwater from the Jordan",
+            "A cloud of the Lord's glory",
+            "An army of Philistines"
+          ],
+          "fil": [
+            "Baha mula sa Jordan",
+            "Ulap ng kaluwalhatian ng Panginoon",
+            "Hukbo ng mga Filisteo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's glory fills the temple in a cloud during the dedication (2 Chronicles 5).",
+          "fil": "Pinuno ng kaluwalhatian ng Diyos ang templo sa isang ulap sa pagtatalaga (2 Cronica 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Solomon say the completed temple fulfills?",
+          "fil": "Ano ang sinabi ni Solomon na natupad sa pagtatapos ng templo?"
+        },
+        "options": {
+          "en": [
+            "The Lord's promise connected with David's son",
+            "A plan to honor Baal",
+            "A command from Pharaoh"
+          ],
+          "fil": [
+            "Ang pangako ng Panginoon tungkol sa anak ni David",
+            "Isang balak na parangalan si Baal",
+            "Isang utos ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon credits the Lord with fulfilling the promise about the house for his name (2 Chronicles 6).",
+          "fil": "Kinilala ni Solomon na tinupad ng Panginoon ang pangako tungkol sa bahay para sa kanyang pangalan (2 Cronica 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon acknowledge about God and the temple he has built?",
+          "fil": "Ano ang kinilala ni Solomon tungkol sa Diyos at sa templong kanyang itinayo?"
+        },
+        "options": {
+          "en": [
+            "God is too great to be contained by any building",
+            "God cannot act outside Jerusalem",
+            "God needs walls to protect him"
+          ],
+          "fil": [
+            "Napakadakila ng Diyos upang magkasya sa anumang gusali",
+            "Hindi makakikilos ang Diyos sa labas ng Jerusalem",
+            "Kailangan ng Diyos ng mga pader upang ingatan siya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon recognizes that God's greatness exceeds even the heavens, much more any temple (2 Chronicles 6).",
+          "fil": "Kinilala ni Solomon na higit sa kalangitan ang kadakilaan ng Diyos, lalo na sa anumang templo (2 Cronica 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose prayers does Solomon include beyond those of Israel?",
+          "fil": "Kaninong mga panalangin ang isinama ni Solomon bukod sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Foreigners who come because of God's name",
+            "Only the king of Tyre",
+            "Only David's descendants"
+          ],
+          "fil": [
+            "Mga dayuhang dumarating dahil sa pangalan ng Diyos",
+            "Ang hari lamang ng Tiro",
+            "Ang mga inapo lamang ni David"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon prays that foreigners may be heard so all peoples may know God (2 Chronicles 6).",
+          "fil": "Ipinanalangin ni Solomon na dinggin ang mga dayuhan upang makilala ng lahat ng bayan ang Diyos (2 Cronica 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon ask for people who repent while in exile?",
+          "fil": "Ano ang hiniling ni Solomon para sa mga magsisisi habang nasa pagkakatapon?"
+        },
+        "options": {
+          "en": [
+            "That God forget they ever belonged to him",
+            "That they stop praying forever",
+            "That God hear and forgive them"
+          ],
+          "fil": [
+            "Na kalimutan ng Diyos na naging bayan niya sila",
+            "Na tumigil sila sa pananalangin magpakailanman",
+            "Na dinggin at patawarin sila ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon asks for mercy when exiles return to God with their whole hearts (2 Chronicles 6).",
+          "fil": "Humingi si Solomon ng awa kapag buong pusong nagbalik sa Diyos ang mga ipinatapon (2 Cronica 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What happens when Solomon finishes praying?",
+          "fil": "Ano ang nangyari nang matapos manalangin si Solomon?"
+        },
+        "options": {
+          "en": [
+            "The temple is immediately torn down",
+            "The ark is taken to Egypt",
+            "Fire comes from heaven and consumes the offerings"
+          ],
+          "fil": [
+            "Agad na giniba ang templo",
+            "Dinala ang Kaban sa Egipto",
+            "Bumaba ang apoy mula sa langit at tinupok ang mga handog"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Heavenly fire and God's glory mark the acceptance of the dedication (2 Chronicles 7).",
+          "fil": "Ipinakita ng apoy mula sa langit at kaluwalhatian ng Diyos ang pagtanggap sa pagtatalaga (2 Cronica 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people respond when they see the fire and glory?",
+          "fil": "Paano tumugon ang mga tao nang makita ang apoy at kaluwalhatian?"
+        },
+        "options": {
+          "en": [
+            "They demand a different temple",
+            "They bow down and thank the Lord",
+            "They praise the priests of Baal"
+          ],
+          "fil": [
+            "Humingi sila ng ibang templo",
+            "Nagpatirapa sila at nagpasalamat sa Panginoon",
+            "Pinuri nila ang mga pari ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people worship and praise God's goodness and faithful love (2 Chronicles 7).",
+          "fil": "Sumamba ang mga tao at pinuri ang kabutihan at tapat na pag-ibig ng Diyos (2 Cronica 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does God call for when his people face judgment?",
+          "fil": "Anong pagtugon ang hinihingi ng Diyos kapag humarap sa paghatol ang kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "Trusting idols instead of changing",
+            "Boasting that the temple makes repentance unnecessary",
+            "Humility, prayer, and turning from evil"
+          ],
+          "fil": [
+            "Pagtitiwala sa diyus-diyosan sa halip na magbago",
+            "Pagmamalaking hindi na kailangan ang pagsisisi dahil may templo",
+            "Pagpapakumbaba, panalangin, at pagtalikod sa masama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises to hear and restore when his people humbly return to him (2 Chronicles 7).",
+          "fil": "Ipinangako ng Diyos na makikinig at magpapanumbalik kapag mapagpakumbabang bumalik sa kanya ang bayan (2 Cronica 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning accompanies God's answer to Solomon?",
+          "fil": "Anong babala ang kasama ng sagot ng Diyos kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Every foreign idol must be placed inside the sanctuary",
+            "Turning to other gods can bring loss and ruin",
+            "The temple guarantees safety even without faithfulness"
+          ],
+          "fil": [
+            "Dapat ilagay sa santuwaryo ang bawat dayuhang diyus-diyosan",
+            "Maaaring magdala ng pagkawala at pagkawasak ang pagbaling sa ibang mga diyos",
+            "Tiyak ang kaligtasan dahil sa templo kahit walang katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God warns that abandoning the covenant can bring judgment on the land and temple (2 Chronicles 7).",
+          "fil": "Nagbabala ang Diyos na ang pagtalikod sa tipan ay maaaring magdala ng hatol sa lupain at templo (2 Cronica 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does Solomon do with the towns Hiram gives him?",
+          "fil": "Ano ang ginawa ni Solomon sa mga bayang ibinigay sa kanya ni Hiram?"
+        },
+        "options": {
+          "en": [
+            "He sinks them into the sea",
+            "He rebuilds them and settles Israelites there",
+            "He turns them all into prisons"
+          ],
+          "fil": [
+            "Pinalubog niya ang mga ito sa dagat",
+            "Itinayo niya muli ang mga ito at pinatira roon ang mga Israelita",
+            "Ginawa niyang bilangguan ang lahat ng ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon develops the towns and settles his people in them (2 Chronicles 8).",
+          "fil": "Pinaunlad ni Solomon ang mga bayan at pinatira roon ang kanyang bayan (2 Cronica 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What pattern guides Solomon's regular offerings and festivals?",
+          "fil": "Anong huwaran ang gumabay sa mga regular na handog at kapistahan ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's birthday customs",
+            "The commands given through Moses",
+            "The rituals of Baal's priests"
+          ],
+          "fil": [
+            "Ang mga kaugalian sa kaarawan ni Faraon",
+            "Ang mga utos na ibinigay sa pamamagitan ni Moises",
+            "Ang mga ritwal ng mga pari ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon arranges the offerings and appointed feasts according to Moses' command (2 Chronicles 8).",
+          "fil": "Isinaayos ni Solomon ang mga handog at takdang kapistahan ayon sa utos ni Moises (2 Cronica 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose earlier arrangements does Solomon follow for priests and musicians?",
+          "fil": "Kaninong naunang pagsasaayos ang sinunod ni Solomon para sa mga pari at musikero?"
+        },
+        "options": {
+          "en": [
+            "Goliath's",
+            "Jeroboam's",
+            "David's"
+          ],
+          "fil": [
+            "Kay Goliat",
+            "Kay Jeroboam",
+            "Kay David"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon maintains the service divisions that David had established (2 Chronicles 8).",
+          "fil": "Pinanatili ni Solomon ang mga pangkat ng paglilingkod na itinatag ni David (2 Cronica 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Why does the queen of Sheba come to Jerusalem?",
+          "fil": "Bakit dumating sa Jerusalem ang reyna ng Sheba?"
+        },
+        "options": {
+          "en": [
+            "To conquer the temple with an army",
+            "To crown Saul again",
+            "To test Solomon's wisdom with questions"
+          ],
+          "fil": [
+            "Upang sakupin ang templo sa pamamagitan ng hukbo",
+            "Upang muling koronahan si Saul",
+            "Upang subukin ang karunungan ni Solomon sa mga tanong"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The queen brings difficult questions after hearing of Solomon's fame (2 Chronicles 9).",
+          "fil": "Nagdala ang reyna ng mahihirap na tanong matapos mabalitaan ang katanyagan ni Solomon (2 Cronica 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the queen judge what she has heard about Solomon?",
+          "fil": "Paano tinaya ng reyna ang kanyang nabalitaan tungkol kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "His wisdom is greater than the reports suggested",
+            "He knows nothing about any question",
+            "The reports were entirely false"
+          ],
+          "fil": [
+            "Higit ang kanyang karunungan kaysa sa mga balita",
+            "Wala siyang alam sa anumang tanong",
+            "Lubusang mali ang mga balita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The queen finds Solomon's wisdom and kingdom more impressive than she expected (2 Chronicles 9).",
+          "fil": "Natuklasan ng reyna na higit sa inaasahan niya ang karunungan at kaharian ni Solomon (2 Cronica 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does she praise for appointing Solomon to rule justly?",
+          "fil": "Sino ang pinuri niya sa paglalagay kay Solomon upang mamahala nang makatarungan?"
+        },
+        "options": {
+          "en": [
+            "Baal of Samaria",
+            "The Lord his God",
+            "Pharaoh of Egypt"
+          ],
+          "fil": [
+            "Si Baal ng Samaria",
+            "Ang Panginoon niyang Diyos",
+            "Si Faraon ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The queen recognizes God's love for Israel in Solomon's appointment (2 Chronicles 9).",
+          "fil": "Kinilala ng reyna ang pag-ibig ng Diyos sa Israel sa pagtalaga kay Solomon (2 Cronica 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What relief do the people request from Rehoboam?",
+          "fil": "Anong ginhawa ang hiniling ng mga tao kay Roboam?"
+        },
+        "options": {
+          "en": [
+            "Freedom to destroy Jerusalem",
+            "A ban on every harvest",
+            "A lighter burden than Solomon had imposed"
+          ],
+          "fil": [
+            "Kalayaang wasakin ang Jerusalem",
+            "Pagbabawal sa bawat ani",
+            "Mas magaan na pasanin kaysa ipinataw ni Solomon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people ask Rehoboam to ease the hard service placed upon them (2 Chronicles 10).",
+          "fil": "Hiniling ng mga tao kay Roboam na pagaanin ang mabigat na paglilingkod na ipinataw sa kanila (2 Cronica 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which advice does Rehoboam choose?",
+          "fil": "Aling payo ang pinili ni Roboam?"
+        },
+        "options": {
+          "en": [
+            "The people's request to reduce the load",
+            "The young men's call to threaten a heavier burden",
+            "The elders' call to answer kindly"
+          ],
+          "fil": [
+            "Ang kahilingan ng bayang bawasan ang pasanin",
+            "Ang mungkahi ng mga kabataang magbanta ng mas mabigat na pasanin",
+            "Ang mungkahi ng matatandang sumagot nang mabait"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rehoboam rejects the elders and gives a harsh answer (2 Chronicles 10).",
+          "fil": "Tinanggihan ni Roboam ang matatanda at nagbigay ng mabagsik na sagot (2 Cronica 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What follows Rehoboam's answer?",
+          "fil": "Ano ang sumunod sa sagot ni Roboam?"
+        },
+        "options": {
+          "en": [
+            "The northern tribes reject David's royal house",
+            "Solomon returns to rule again",
+            "All Israel becomes more united under him"
+          ],
+          "fil": [
+            "Tinanggihan ng mga lipi sa hilaga ang maharlikang sambahayan ni David",
+            "Bumalik si Solomon upang muling mamuno",
+            "Mas nagkaisa ang buong Israel sa ilalim niya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The harsh response leads to rebellion and division of the kingdom (2 Chronicles 10).",
+          "fil": "Humantong sa paghihimagsik at pagkakahati ng kaharian ang mabagsik na sagot (2 Cronica 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Why does Rehoboam abandon his planned attack on the northern tribes?",
+          "fil": "Bakit hindi itinuloy ni Roboam ang planong pagsalakay sa mga lipi sa hilaga?"
+        },
+        "options": {
+          "en": [
+            "God's message through Shemaiah tells him not to fight his relatives",
+            "Pharaoh gives him the northern throne",
+            "Jeroboam has already surrendered"
+          ],
+          "fil": [
+            "Sinabi ng mensahe ng Diyos sa pamamagitan ni Semaias na huwag labanan ang kanyang mga kamag-anak",
+            "Ibinigay ni Faraon sa kanya ang trono sa hilaga",
+            "Sumuko na si Jeroboam"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Rehoboam and his troops obey the Lord's command not to begin that war (2 Chronicles 11).",
+          "fil": "Sinunod ni Roboam at ng kanyang hukbo ang utos ng Panginoon na huwag simulan ang digmaang iyon (2 Cronica 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do priests and Levites leave the northern kingdom for Judah?",
+          "fil": "Bakit umalis ang mga pari at Levita sa kaharian sa hilaga patungong Juda?"
+        },
+        "options": {
+          "en": [
+            "The temple has moved to Nineveh",
+            "Jeroboam excludes them and appoints priests for false worship",
+            "Judah has forbidden worship of the Lord"
+          ],
+          "fil": [
+            "Lumipat ang templo sa Nineve",
+            "Inalis sila ni Jeroboam at nagtalaga ng mga pari para sa maling pagsamba",
+            "Ipinagbawal ng Juda ang pagsamba sa Panginoon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeroboam's religious changes drive faithful worship workers toward Jerusalem (2 Chronicles 11).",
+          "fil": "Dahil sa mga pagbabago ni Jeroboam sa pagsamba ay nagtungo sa Jerusalem ang mga tapat na lingkod (2 Cronica 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What strengthens Judah during the early part of Rehoboam's reign?",
+          "fil": "Ano ang nagpatatag sa Juda sa unang bahagi ng paghahari ni Roboam?"
+        },
+        "options": {
+          "en": [
+            "Everyone begins worshiping the golden calves",
+            "People come to seek the Lord and follow the ways of David and Solomon",
+            "All priests stop serving"
+          ],
+          "fil": [
+            "Nagsimulang sumamba ang lahat sa mga gintong guya",
+            "Dumating ang mga taong naghahanap sa Panginoon at sumusunod sa mga daan nina David at Solomon",
+            "Tumigil sa paglilingkod ang lahat ng pari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Faithful people from the tribes help strengthen Rehoboam's kingdom (2 Chronicles 11).",
+          "fil": "Nakatulong ang mga tapat na tao mula sa mga lipi na patatagin ang kaharian ni Roboam (2 Cronica 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does Shemaiah say Judah is facing Shishak's invasion?",
+          "fil": "Bakit sinabi ni Semaias na humaharap ang Juda sa pagsalakay ni Sisac?"
+        },
+        "options": {
+          "en": [
+            "They have cared too much for the poor",
+            "They have refused to honor Baal",
+            "They have abandoned the Lord"
+          ],
+          "fil": [
+            "Sobra ang pag-aalaga nila sa mahihirap",
+            "Tumanggi silang parangalan si Baal",
+            "Tinalikuran nila ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The invasion exposes Judah's unfaithfulness after Rehoboam becomes secure (2 Chronicles 12).",
+          "fil": "Inilantad ng pagsalakay ang pagtataksil ng Juda matapos maging matatag si Roboam (2 Cronica 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Rehoboam and the leaders respond to the warning?",
+          "fil": "Paano tumugon si Roboam at ang mga pinuno sa babala?"
+        },
+        "options": {
+          "en": [
+            "They declare themselves greater than God",
+            "They humble themselves and acknowledge God's justice",
+            "They order Shemaiah killed at once"
+          ],
+          "fil": [
+            "Ipinahayag nilang mas dakila sila sa Diyos",
+            "Nagpakumbaba sila at kinilala ang katarungan ng Diyos",
+            "Agad nilang ipinapatay si Semaias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their humility leads the Lord to spare them from complete destruction (2 Chronicles 12).",
+          "fil": "Dahil sa kanilang pagpapakumbaba ay hindi sila lubusang nilipol ng Panginoon (2 Cronica 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What replaces the golden shields taken by Shishak?",
+          "fil": "Ano ang ipinalit sa mga gintong kalasag na kinuha ni Sisac?"
+        },
+        "options": {
+          "en": [
+            "Bronze shields",
+            "Stone tablets",
+            "Cedar doors"
+          ],
+          "fil": [
+            "Mga kalasag na tanso",
+            "Mga tapyas na bato",
+            "Mga pintuang sedro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Rehoboam makes bronze shields after Egypt takes Solomon's golden ones (2 Chronicles 12).",
+          "fil": "Gumawa si Roboam ng mga kalasag na tanso matapos kunin ng Egipto ang mga gintong kalasag ni Solomon (2 Cronica 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does Abijah remind Jeroboam about David's descendants?",
+          "fil": "Ano ang ipinaalala ni Abias kay Jeroboam tungkol sa mga inapo ni David?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh appointed them priests of Baal",
+            "They have no connection with Judah",
+            "God gave them a lasting royal covenant"
+          ],
+          "fil": [
+            "Ginawa silang mga pari ni Baal ni Faraon",
+            "Wala silang kaugnayan sa Juda",
+            "Binigyan sila ng Diyos ng matatag na tipan sa pagkahari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abijah appeals to God's covenant with David's royal house (2 Chronicles 13).",
+          "fil": "Umapela si Abias sa tipan ng Diyos sa maharlikang sambahayan ni David (2 Cronica 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast does Abijah draw about worship?",
+          "fil": "Anong pagkakaiba sa pagsamba ang binanggit ni Abias?"
+        },
+        "options": {
+          "en": [
+            "Both armies worship only Pharaoh",
+            "Judah still serves the Lord while Jeroboam has made substitute gods and priests",
+            "Judah has never had priests"
+          ],
+          "fil": [
+            "Si Faraon lamang ang sinasamba ng dalawang hukbo",
+            "Naglilingkod pa ang Juda sa Panginoon habang gumawa si Jeroboam ng kapalit na mga diyos at pari",
+            "Hindi kailanman nagkaroon ng pari ang Juda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abijah contrasts service in the Lord's house with Jeroboam's false worship (2 Chronicles 13).",
+          "fil": "Inihambing ni Abias ang paglilingkod sa bahay ng Panginoon sa maling pagsamba ni Jeroboam (2 Cronica 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Judah's soldiers do when they discover the enemy on both sides?",
+          "fil": "Ano ang ginawa ng mga kawal ng Juda nang makita ang kaaway sa dalawang panig?"
+        },
+        "options": {
+          "en": [
+            "They surrender the temple to Baal",
+            "They cry to the Lord for help",
+            "They send Abijah away to Egypt"
+          ],
+          "fil": [
+            "Isinuko nila ang templo kay Baal",
+            "Humingi sila ng tulong sa Panginoon",
+            "Ipinadala nila si Abias sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judah calls on the Lord and wins because they rely on him (2 Chronicles 13).",
+          "fil": "Tumawag ang Juda sa Panginoon at nagtagumpay dahil umasa sila sa kanya (2 Cronica 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What religious changes does Asa make early in his reign?",
+          "fil": "Anong pagbabago sa pagsamba ang ginawa ni Asa sa simula ng kanyang paghahari?"
+        },
+        "options": {
+          "en": [
+            "He removes foreign altars and tells Judah to seek the Lord",
+            "He closes every place of prayer",
+            "He orders worship of the golden calves"
+          ],
+          "fil": [
+            "Inalis niya ang mga dayuhang altar at sinabing hanapin ng Juda ang Panginoon",
+            "Isinara niya ang bawat lugar ng panalangin",
+            "Iniutos niya ang pagsamba sa mga gintong guya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Asa works to turn Judah away from idols and toward God's commands (2 Chronicles 14).",
+          "fil": "Sinikap ni Asa na ilayo ang Juda sa diyus-diyosan at ibalik sa mga utos ng Diyos (2 Cronica 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Asa build during the years of peace?",
+          "fil": "Ano ang itinayo ni Asa sa mga taon ng kapayapaan?"
+        },
+        "options": {
+          "en": [
+            "Fortified towns with walls and gates",
+            "A palace for Pharaoh in Jerusalem",
+            "A temple for every foreign idol"
+          ],
+          "fil": [
+            "Mga pinatibay na bayang may pader at pintuan",
+            "Palasyo para kay Faraon sa Jerusalem",
+            "Templo para sa bawat dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Asa uses the period of rest to strengthen Judah's defenses (2 Chronicles 14).",
+          "fil": "Ginamit ni Asa ang panahon ng kapahingahan upang patibayin ang mga pananggalang ng Juda (2 Cronica 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Asa face Zerah's large invading army?",
+          "fil": "Paano hinarap ni Asa ang malaking hukbo ni Zera na sumasalakay?"
+        },
+        "options": {
+          "en": [
+            "He hands Jerusalem over without a word",
+            "He appeals to the Lord whose help does not depend on human strength",
+            "He boasts that he needs no help"
+          ],
+          "fil": [
+            "Isinuko niya ang Jerusalem nang walang salita",
+            "Umapela siya sa Panginoon na hindi umaasa sa lakas ng tao ang tulong",
+            "Ipinagmalaki niyang hindi niya kailangan ng tulong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Asa trusts the Lord against a stronger enemy and receives deliverance (2 Chronicles 14).",
+          "fil": "Nagtiwala si Asa sa Panginoon laban sa mas malakas na kaaway at iniligtas (2 Cronica 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Who brings the Spirit-inspired message that encourages Asa?",
+          "fil": "Sino ang nagdala ng mensahe mula sa Espiritu na nagpalakas kay Asa?"
+        },
+        "options": {
+          "en": [
+            "Azariah",
+            "Goliath",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Si Azarias",
+            "Si Goliat",
+            "Si Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Azariah brings God's encouragement to Asa and the people (2 Chronicles 15).",
+          "fil": "Dinala ni Azarias kay Asa at sa bayan ang pagpapalakas ng loob mula sa Diyos (2 Cronica 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Asa respond to the prophetic encouragement?",
+          "fil": "Paano tumugon si Asa sa pagpapalakas ng loob ng propeta?"
+        },
+        "options": {
+          "en": [
+            "He builds a new temple for Baal",
+            "He removes idols and repairs the Lord's altar",
+            "He forbids the people to gather"
+          ],
+          "fil": [
+            "Nagtayo siya ng bagong templo para kay Baal",
+            "Inalis niya ang mga diyus-diyosan at kinumpuni ang altar ng Panginoon",
+            "Pinagbawalan niya ang mga tao na magtipon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Asa takes courage and continues the reform of worship in Judah (2 Chronicles 15).",
+          "fil": "Lumakas ang loob ni Asa at ipinagpatuloy ang pagbabago sa pagsamba ng Juda (2 Cronica 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What commitment do the assembled people make?",
+          "fil": "Anong pangako ang ginawa ng nagkatipong bayan?"
+        },
+        "options": {
+          "en": [
+            "To make Egypt their permanent home",
+            "To replace the covenant with idol worship",
+            "To seek the Lord with all their heart and soul"
+          ],
+          "fil": [
+            "Gawing permanenteng tahanan ang Egipto",
+            "Palitan ng pagsamba sa diyus-diyosan ang tipan",
+            "Hanapin ang Panginoon nang buong puso at kaluluwa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people joyfully renew a covenant to seek God wholeheartedly (2 Chronicles 15).",
+          "fil": "Masayang pinanibago ng bayan ang tipang buong pusong hahanapin ang Diyos (2 Cronica 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Whose help does Asa purchase when Baasha threatens Judah?",
+          "fil": "Kaninong tulong ang binayaran ni Asa nang magbanta si Baasa sa Juda?"
+        },
+        "options": {
+          "en": [
+            "Ben-Hadad's",
+            "Moses'",
+            "David's"
+          ],
+          "fil": [
+            "Kay Ben-hadad",
+            "Kay Moises",
+            "Kay David"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Asa uses temple and palace treasures to secure an alliance with Aram (2 Chronicles 16).",
+          "fil": "Ginamit ni Asa ang kayamanan ng templo at palasyo upang makipag-alyansa sa Siria (2 Cronica 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Hanani rebuke Asa despite the plan's apparent success?",
+          "fil": "Bakit sinaway ni Hanani si Asa kahit tila nagtagumpay ang plano?"
+        },
+        "options": {
+          "en": [
+            "He relied on the king of Aram rather than the Lord",
+            "He had given too much food to the poor",
+            "He had refused to protect any town"
+          ],
+          "fil": [
+            "Umasa siya sa hari ng Siria sa halip na sa Panginoon",
+            "Sobra ang ibinigay niyang pagkain sa mahihirap",
+            "Tumanggi siyang protektahan ang anumang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hanani warns that reliance on human alliances has cost Asa a greater victory (2 Chronicles 16).",
+          "fil": "Nagbabala si Hanani na nawala kay Asa ang mas malaking tagumpay dahil sa pag-asa sa alyansa ng tao (2 Cronica 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Asa treat Hanani after hearing the rebuke?",
+          "fil": "Paano tinrato ni Asa si Hanani matapos marinig ang pagsaway?"
+        },
+        "options": {
+          "en": [
+            "He angrily puts him in prison",
+            "He joyfully restores every reform at his request",
+            "He immediately appoints him king"
+          ],
+          "fil": [
+            "Galit niya itong ipinabilanggo",
+            "Masaya niyang ibinalik ang bawat pagbabago sa hiling nito",
+            "Agad niya itong ginawang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Asa responds to correction with anger and imprisons the messenger (2 Chronicles 16).",
+          "fil": "Tumugon si Asa sa pagtutuwid nang may galit at ipinabilanggo ang tagapagbalita (2 Cronica 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Whom does Jehoshaphat seek instead of the Baals?",
+          "fil": "Sino ang hinanap ni Josafat sa halip na ang mga Baal?"
+        },
+        "options": {
+          "en": [
+            "The gods of Egypt",
+            "The God of his father",
+            "The spirit of Goliath"
+          ],
+          "fil": [
+            "Ang mga diyos ng Egipto",
+            "Ang Diyos ng kanyang ama",
+            "Ang espiritu ni Goliat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jehoshaphat follows God's commands rather than the northern kingdom's practices (2 Chronicles 17).",
+          "fil": "Sinunod ni Josafat ang mga utos ng Diyos sa halip na ang mga gawain ng kaharian sa hilaga (2 Cronica 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jehoshaphat send officials, Levites, and priests to do?",
+          "fil": "Ano ang ipinagawa ni Josafat sa mga opisyal, Levita, at pari na kanyang isinugo?"
+        },
+        "options": {
+          "en": [
+            "Collect idols from every family for worship",
+            "Prepare a rebellion against David",
+            "Teach the Book of the Law in Judah's towns"
+          ],
+          "fil": [
+            "Mangolekta ng diyus-diyosan sa bawat pamilya upang sambahin",
+            "Maghanda ng paghihimagsik laban kay David",
+            "Ituro ang Aklat ng Kautusan sa mga bayan ng Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Teachers travel through Judah with the Lord's law to instruct the people (2 Chronicles 17).",
+          "fil": "Naglakbay ang mga guro sa Juda dala ang kautusan ng Panginoon upang turuan ang bayan (2 Cronica 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do surrounding kingdoms respond as the fear of the Lord falls on them?",
+          "fil": "Paano tumugon ang mga kalapit na kaharian nang mapuspos sila ng takot sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "They all conquer Jerusalem together",
+            "They appoint Baal as Judah's king",
+            "They refrain from war against Jehoshaphat"
+          ],
+          "fil": [
+            "Sama-sama nilang sinakop ang Jerusalem",
+            "Ginawa nilang hari ng Juda si Baal",
+            "Hindi sila nakipagdigma kay Josafat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judah enjoys security as the surrounding kingdoms hold back from attacking (2 Chronicles 17).",
+          "fil": "Naranasan ng Juda ang katiwasayan habang hindi sumasalakay ang mga kalapit na kaharian (2 Cronica 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "With which king does Jehoshaphat join in a proposed campaign?",
+          "fil": "Sinong hari ang sinamahan ni Josafat sa isang planong pagsalakay?"
+        },
+        "options": {
+          "en": [
+            "Cyrus of Persia",
+            "Ahab of Israel",
+            "Hiram of Tyre"
+          ],
+          "fil": [
+            "Si Ciro ng Persia",
+            "Si Ahab ng Israel",
+            "Si Hiram ng Tiro"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jehoshaphat agrees to join Ahab's campaign against Ramoth Gilead (2 Chronicles 18).",
+          "fil": "Pumayag si Josafat na sumama sa pagsalakay ni Ahab sa Ramot Gilead (2 Cronica 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Micaiah insist about the message he will give?",
+          "fil": "Ano ang iginiit ni Micaias tungkol sa mensaheng ibibigay niya?"
+        },
+        "options": {
+          "en": [
+            "He will speak only what God tells him",
+            "He will let Ahab write the prophecy",
+            "He will agree with the others for a reward"
+          ],
+          "fil": [
+            "Sasabihin lamang niya ang sasabihin ng Diyos",
+            "Hahayaan niyang isulat ni Ahab ang propesiya",
+            "Sasang-ayon siya sa iba kapalit ng gantimpala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Micaiah refuses pressure to echo the favorable predictions of other prophets (2 Chronicles 18).",
+          "fil": "Tumanggi si Micaias sa pamimilit na ulitin ang magagandang hula ng ibang mga propeta (2 Cronica 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when enemy chariot commanders mistake Jehoshaphat for their target?",
+          "fil": "Ano ang nangyari nang mapagkamalan ng mga pinuno ng karwahe si Josafat bilang kanilang pakay?"
+        },
+        "options": {
+          "en": [
+            "He surrenders Judah's throne to them",
+            "He cries out and God helps turn them away",
+            "He kills every commander alone"
+          ],
+          "fil": [
+            "Isinuko niya sa kanila ang trono ng Juda",
+            "Sumigaw siya at tinulungan siya ng Diyos na lumayo ang mga ito",
+            "Mag-isa niyang pinatay ang bawat pinuno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord helps Jehoshaphat when the enemy commanders turn toward him (2 Chronicles 18).",
+          "fil": "Tinulungan ng Panginoon si Josafat nang bumaling sa kanya ang mga pinuno ng kaaway (2 Cronica 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Ahab despite his disguise?",
+          "fil": "Ano ang nangyari kay Ahab sa kabila ng kanyang pagbabalatkayo?"
+        },
+        "options": {
+          "en": [
+            "He escapes the battle completely unharmed",
+            "He captures the entire enemy kingdom",
+            "An arrow wounds him and he dies"
+          ],
+          "fil": [
+            "Nakatakas siya sa labanan nang lubusang walang pinsala",
+            "Nasakop niya ang buong kaharian ng kaaway",
+            "Sinugatan siya ng palaso at namatay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ahab's death fulfills the warning that his campaign will end in disaster (2 Chronicles 18).",
+          "fil": "Tinupad ng pagkamatay ni Ahab ang babalang hahantong sa kapahamakan ang kanyang pagsalakay (2 Cronica 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Why does Jehu rebuke Jehoshaphat after his return?",
+          "fil": "Bakit sinaway ni Jehu si Josafat matapos nitong bumalik?"
+        },
+        "options": {
+          "en": [
+            "He has taught God's law too widely",
+            "He has refused to worship Baal",
+            "He has helped a wicked king who hates the Lord"
+          ],
+          "fil": [
+            "Sobra ang lawak ng pagtuturo niya ng kautusan ng Diyos",
+            "Tumanggi siyang sumamba kay Baal",
+            "Tinulungan niya ang masamang haring napopoot sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehu confronts Jehoshaphat about his alliance with Ahab (2 Chronicles 19).",
+          "fil": "Hinarap ni Jehu si Josafat tungkol sa kanyang pakikipag-alyansa kay Ahab (2 Cronica 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What work does Jehoshaphat organize throughout Judah?",
+          "fil": "Anong gawain ang isinaayos ni Josafat sa buong Juda?"
+        },
+        "options": {
+          "en": [
+            "Appointing judges in the fortified towns",
+            "Removing every teacher from the towns",
+            "Building temples for every idol"
+          ],
+          "fil": [
+            "Pagtatalaga ng mga hukom sa mga pinatibay na bayan",
+            "Pag-aalis sa bawat guro sa mga bayan",
+            "Pagtatayo ng templo para sa bawat diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoshaphat establishes judges to administer justice among the people (2 Chronicles 19).",
+          "fil": "Nagtalaga si Josafat ng mga hukom upang magbigay ng katarungan sa bayan (2 Cronica 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What principle should guide the judges?",
+          "fil": "Anong tuntunin ang dapat gumabay sa mga hukom?"
+        },
+        "options": {
+          "en": [
+            "Favoring rich families in every case",
+            "Reverence for God without partiality or bribery",
+            "Selling verdicts to the highest bidder"
+          ],
+          "fil": [
+            "Pagpabor sa mayayamang pamilya sa bawat usapin",
+            "Paggalang sa Diyos nang walang pagtatangi o panunuhol",
+            "Pagbebenta ng hatol sa may pinakamalaking alok"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jehoshaphat reminds the judges that their judgments are accountable to God (2 Chronicles 19).",
+          "fil": "Ipinaalala ni Josafat sa mga hukom na mananagot sa Diyos ang kanilang mga paghatol (2 Cronica 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What does Jehoshaphat do when a large enemy force approaches?",
+          "fil": "Ano ang ginawa ni Josafat nang lumapit ang malaking hukbo ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "He calls a fast and seeks the Lord with the people",
+            "He immediately begins worshiping Baal",
+            "He leaves the people without a leader"
+          ],
+          "fil": [
+            "Nanawagan siya ng pag-aayuno at hinanap ang Panginoon kasama ng bayan",
+            "Agad siyang nagsimulang sumamba kay Baal",
+            "Iniwan niyang walang pinuno ang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah gathers to ask God's help against the threatening army (2 Chronicles 20).",
+          "fil": "Nagtipon ang Juda upang humingi ng tulong ng Diyos laban sa nagbabantang hukbo (2 Cronica 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance does Jahaziel give through the Spirit?",
+          "fil": "Anong katiyakan ang ibinigay ni Jahaziel sa pamamagitan ng Espiritu?"
+        },
+        "options": {
+          "en": [
+            "Baal has promised to protect them",
+            "The battle belongs to God and they need not fear",
+            "They must surrender Jerusalem immediately"
+          ],
+          "fil": [
+            "Nangako si Baal na iingatan sila",
+            "Sa Diyos ang labanan at hindi sila dapat matakot",
+            "Dapat nilang isuko agad ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jahaziel directs the people to stand firm and trust God's deliverance (2 Chronicles 20).",
+          "fil": "Itinuro ni Jahaziel sa bayan na magpakatatag at magtiwala sa pagliligtas ng Diyos (2 Cronica 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Jehoshaphat place at the front of the army?",
+          "fil": "Sino ang inilagay ni Josafat sa unahan ng hukbo?"
+        },
+        "options": {
+          "en": [
+            "Priests carrying Baal's image",
+            "Singers praising the Lord",
+            "Captive children as shields"
+          ],
+          "fil": [
+            "Mga paring may dalang imahen ni Baal",
+            "Mga mang-aawit na pumupuri sa Panginoon",
+            "Mga batang bihag bilang panangga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The appointed singers praise God's faithful love as the army goes out (2 Chronicles 20).",
+          "fil": "Pinuri ng mga itinalagang mang-aawit ang tapat na pag-ibig ng Diyos habang lumalabas ang hukbo (2 Cronica 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Judah's troops find when they reach the lookout?",
+          "fil": "Ano ang natagpuan ng hukbo ng Juda nang makarating sila sa tanawan?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem has moved into the valley",
+            "The enemy has peacefully crowned Jehoshaphat",
+            "The enemy armies have destroyed one another"
+          ],
+          "fil": [
+            "Lumipat ang Jerusalem sa lambak",
+            "Mapayapang kinoronahan ng kaaway si Josafat",
+            "Naglipulan na ang mga hukbo ng kaaway"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God defeats the attackers before Judah has to fight them (2 Chronicles 20).",
+          "fil": "Tinalo ng Diyos ang mga sumasalakay bago pa sila kailangang labanan ng Juda (2 Cronica 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What does Jehoram do to his brothers after securing his rule?",
+          "fil": "Ano ang ginawa ni Jehoram sa kanyang mga kapatid matapos matiyak ang kanyang pamamahala?"
+        },
+        "options": {
+          "en": [
+            "He appoints them all priests of the Lord",
+            "He freely divides the throne among them",
+            "He kills them"
+          ],
+          "fil": [
+            "Ginawa niya silang lahat na pari ng Panginoon",
+            "Kusang hinati niya sa kanila ang trono",
+            "Pinatay niya sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehoram begins his rule with violence against his own family (2 Chronicles 21).",
+          "fil": "Sinimulan ni Jehoram ang kanyang paghahari sa karahasan laban sa sarili niyang pamilya (2 Cronica 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose example does Jehoram follow in turning Judah toward evil?",
+          "fil": "Kaninong halimbawa ang sinunod ni Jehoram sa pag-akay sa Juda sa kasamaan?"
+        },
+        "options": {
+          "en": [
+            "Moses' obedience",
+            "David's faithful worship",
+            "The house of Ahab"
+          ],
+          "fil": [
+            "Ang pagsunod ni Moises",
+            "Ang tapat na pagsamba ni David",
+            "Ang sambahayan ni Ahab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehoram follows Ahab's ways and leads Judah into unfaithfulness (2 Chronicles 21).",
+          "fil": "Sinunod ni Jehoram ang mga daan ni Ahab at inakay ang Juda sa pagtataksil (2 Cronica 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the letter from Elijah announce to Jehoram?",
+          "fil": "Ano ang ipinahayag ng liham ni Elias kay Jehoram?"
+        },
+        "options": {
+          "en": [
+            "A promise that he will never suffer",
+            "Judgment for his violence and unfaithfulness",
+            "Praise for restoring the covenant perfectly"
+          ],
+          "fil": [
+            "Pangakong hindi siya kailanman magdurusa",
+            "Hatol dahil sa kanyang karahasan at pagtataksil",
+            "Papuri dahil ganap niyang ibinalik ang tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah's letter warns of disaster on Jehoram's household and a severe illness (2 Chronicles 21).",
+          "fil": "Nagbabala ang liham ni Elias ng kapahamakan sa sambahayan ni Jehoram at malubhang sakit (2 Cronica 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Whose influence leads Ahaziah into wicked ways?",
+          "fil": "Kaninong impluwensiya ang nag-akay kay Ahazias sa masasamang gawain?"
+        },
+        "options": {
+          "en": [
+            "David and Samuel",
+            "His mother and Ahab's family",
+            "The faithful teachers sent by Jehoshaphat"
+          ],
+          "fil": [
+            "Sina David at Samuel",
+            "Ang kanyang ina at pamilya ni Ahab",
+            "Ang mga tapat na gurong isinugo ni Josafat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ahaziah listens to advisers from Ahab's house and follows their evil example (2 Chronicles 22).",
+          "fil": "Nakinig si Ahazias sa mga tagapayo mula sa sambahayan ni Ahab at sinunod ang masama nilang halimbawa (2 Cronica 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Athaliah try to do after Ahaziah dies?",
+          "fil": "Ano ang tinangkang gawin ni Atalia matapos mamatay si Ahazias?"
+        },
+        "options": {
+          "en": [
+            "Restore every priest to faithful service",
+            "Destroy the royal family and take power",
+            "Hand the throne peacefully to Joash"
+          ],
+          "fil": [
+            "Ibalik ang lahat ng pari sa tapat na paglilingkod",
+            "Lipulin ang maharlikang pamilya at kunin ang kapangyarihan",
+            "Mapayapang ibigay ang trono kay Joas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Athaliah seeks control by eliminating the royal heirs (2 Chronicles 22).",
+          "fil": "Hinangad ni Atalia ang kapangyarihan sa pamamagitan ng paglipol sa mga tagapagmana ng hari (2 Cronica 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the young Joash during the killings?",
+          "fil": "Ano ang nangyari sa batang si Joas sa panahon ng pagpatay?"
+        },
+        "options": {
+          "en": [
+            "He becomes king of Egypt",
+            "He is sent to command the Philistines",
+            "He is rescued and hidden in God's house"
+          ],
+          "fil": [
+            "Naging hari siya ng Egipto",
+            "Ipinadala siyang mamuno sa mga Filisteo",
+            "Iniligtas siya at itinago sa bahay ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehosheba rescues Joash so a royal heir survives Athaliah's attack (2 Chronicles 22).",
+          "fil": "Iniligtas ni Jehosabet si Joas kaya may tagapagmana ng hari na nakaligtas sa pag-atake ni Atalia (2 Cronica 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Who organizes the effort to place Joash on the throne?",
+          "fil": "Sino ang nagsaayos ng pagsisikap na ilagay si Joas sa trono?"
+        },
+        "options": {
+          "en": [
+            "Jehoiada the priest",
+            "Ahab's prophets",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Ang paring si Joiada",
+            "Ang mga propeta ni Ahab",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoiada gathers commanders, Levites, and family leaders to support Joash (2 Chronicles 23).",
+          "fil": "Tinipon ni Joiada ang mga pinuno ng hukbo, Levita, at pinuno ng pamilya upang suportahan si Joas (2 Cronica 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Athaliah react when she sees the king and the celebrating people?",
+          "fil": "Paano tumugon si Atalia nang makita ang hari at nagdiriwang na bayan?"
+        },
+        "options": {
+          "en": [
+            "She asks to become a temple singer",
+            "She tears her clothes and cries out about treason",
+            "She joyfully crowns Joash herself"
+          ],
+          "fil": [
+            "Hiniling niyang maging mang-aawit sa templo",
+            "Pinunit niya ang kanyang damit at sumigaw tungkol sa pagtataksil",
+            "Masaya niyang kinoronahan mismo si Joas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Athaliah protests Joash's coronation before being removed from power (2 Chronicles 23).",
+          "fil": "Tinutulan ni Atalia ang koronasyon ni Joas bago siya alisin sa kapangyarihan (2 Cronica 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people do to Baal's temple after renewing their commitment to the Lord?",
+          "fil": "Ano ang ginawa ng bayan sa templo ni Baal matapos panibaguhin ang katapatan sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Make it the main place of worship for Judah",
+            "Move the ark into it permanently",
+            "Tear it down and destroy its altars and images"
+          ],
+          "fil": [
+            "Ginawa itong pangunahing sambahan ng Juda",
+            "Permanenteng inilipat dito ang Kaban",
+            "Giniba ito at winasak ang mga altar at imahen nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The renewed covenant is followed by removal of Baal's worship (2 Chronicles 23).",
+          "fil": "Sinundan ang pinanibagong tipan ng pag-aalis sa pagsamba kay Baal (2 Cronica 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What major project does Joash begin while Jehoiada guides him?",
+          "fil": "Anong malaking gawain ang sinimulan ni Joas habang ginagabayan siya ni Joiada?"
+        },
+        "options": {
+          "en": [
+            "Repairing the temple",
+            "Building a new temple for Baal",
+            "Rebuilding Pharaoh's palace"
+          ],
+          "fil": [
+            "Pagkukumpuni sa templo",
+            "Pagtatayo ng bagong templo para kay Baal",
+            "Muling pagtatayo ng palasyo ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joash organizes contributions and workers to restore the Lord's house (2 Chronicles 24).",
+          "fil": "Isinaayos ni Joas ang mga ambag at manggagawa upang ayusin ang bahay ng Panginoon (2 Cronica 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people respond to the collection chest for the repairs?",
+          "fil": "Paano tumugon ang mga tao sa kabang pangkolekta para sa pagkukumpuni?"
+        },
+        "options": {
+          "en": [
+            "They insist that every gift go to Baal",
+            "They gladly bring their contributions",
+            "They destroy the chest before any money is given"
+          ],
+          "fil": [
+            "Iginiit nilang mapunta kay Baal ang bawat handog",
+            "Masaya nilang dinala ang kanilang mga ambag",
+            "Winasak nila ang kaban bago may makapagbigay ng salapi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The officials and people willingly fill the chest for the temple work (2 Chronicles 24).",
+          "fil": "Kusang pinuno ng mga opisyal at bayan ang kaban para sa gawain sa templo (2 Cronica 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What changes after Jehoiada dies?",
+          "fil": "Ano ang nagbago matapos mamatay si Joiada?"
+        },
+        "options": {
+          "en": [
+            "Joash listens to leaders who turn away from the Lord",
+            "Joash becomes more faithful than ever without difficulty",
+            "The people stop having any advisers"
+          ],
+          "fil": [
+            "Nakinig si Joas sa mga pinunong tumalikod sa Panginoon",
+            "Lalong naging tapat si Joas nang walang anumang suliranin",
+            "Nawalan ng lahat ng tagapayo ang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "After Jehoiada's death, Joash and the leaders abandon the Lord's house for idols (2 Chronicles 24).",
+          "fil": "Matapos mamatay si Joiada, tinalikuran ni Joas at ng mga pinuno ang bahay ng Panginoon para sa mga diyus-diyosan (2 Cronica 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joash respond when Jehoiada's son Zechariah rebukes the people?",
+          "fil": "Paano tumugon si Joas nang sawayin ng anak ni Joiada na si Zacarias ang bayan?"
+        },
+        "options": {
+          "en": [
+            "He gives Zechariah his crown",
+            "He gratefully restores the covenant that day",
+            "He orders Zechariah killed in the temple court"
+          ],
+          "fil": [
+            "Ibinigay niya kay Zacarias ang kanyang korona",
+            "Nagpasalamat siya at ibinalik ang tipan nang araw na iyon",
+            "Ipinapatay niya si Zacarias sa patyo ng templo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joash repays Jehoiada's kindness by ordering the death of his son who speaks God's warning (2 Chronicles 24).",
+          "fil": "Sinuklian ni Joas ang kabutihan ni Joiada sa pagpapapatay sa anak nitong nagbigay ng babala ng Diyos (2 Cronica 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "How does Amaziah treat the children of his father's killers?",
+          "fil": "Paano tinrato ni Amasias ang mga anak ng mga pumatay sa kanyang ama?"
+        },
+        "options": {
+          "en": [
+            "He punishes them for their fathers' crime",
+            "He spares them according to the law",
+            "He makes them rulers over Judah"
+          ],
+          "fil": [
+            "Pinarusahan niya sila sa kasalanan ng kanilang mga ama",
+            "Hindi niya sila pinatay ayon sa kautusan",
+            "Ginawa niya silang mga pinuno ng Juda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Amaziah obeys the law that children must not die for their parents' wrongdoing (2 Chronicles 25).",
+          "fil": "Sinunod ni Amasias ang kautusang hindi dapat mamatay ang mga anak dahil sa kasalanan ng magulang (2 Cronica 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the man of God tell Amaziah about hired soldiers from Israel?",
+          "fil": "Ano ang sinabi ng lingkod ng Diyos kay Amasias tungkol sa mga inupahang kawal mula sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Send them home and trust God's power to help",
+            "Make them priests in the temple",
+            "Give them Judah's throne"
+          ],
+          "fil": [
+            "Pauwiin sila at magtiwala sa kapangyarihan ng Diyos na tumulong",
+            "Gawin silang mga pari sa templo",
+            "Ibigay sa kanila ang trono ng Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Amaziah dismisses the hired troops after receiving God's warning (2 Chronicles 25).",
+          "fil": "Pinauwi ni Amasias ang mga inupahang kawal matapos tanggapin ang babala ng Diyos (2 Cronica 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Amaziah wrongly do with the gods of defeated Edom?",
+          "fil": "Ano ang maling ginawa ni Amasias sa mga diyos ng natalong Edom?"
+        },
+        "options": {
+          "en": [
+            "He destroys them to honor the Lord",
+            "He brings them home and worships them",
+            "He refuses to let anyone keep them"
+          ],
+          "fil": [
+            "Winasak niya ang mga ito upang parangalan ang Panginoon",
+            "Iniuwi niya ang mga ito at sinamba",
+            "Tumanggi siyang payagang itago ang mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Amaziah turns to the very gods that could not rescue Edom (2 Chronicles 25).",
+          "fil": "Bumaling si Amasias sa mismong mga diyos na hindi nakapagligtas sa Edom (2 Cronica 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What follows Amaziah's proud challenge to the king of Israel?",
+          "fil": "Ano ang sumunod sa mapagmataas na hamon ni Amasias sa hari ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Amaziah becomes ruler of Assyria",
+            "Israel surrenders its whole kingdom",
+            "Judah is defeated and Jerusalem is plundered"
+          ],
+          "fil": [
+            "Naging pinuno ng Asiria si Amasias",
+            "Isinuko ng Israel ang buong kaharian",
+            "Natalo ang Juda at sinamsaman ang Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Amaziah ignores the warning and his defeat brings damage to Jerusalem (2 Chronicles 25).",
+          "fil": "Binale-wala ni Amasias ang babala at nagdulot ng pinsala sa Jerusalem ang kanyang pagkatalo (2 Cronica 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "When does Uzziah prosper in the early part of his reign?",
+          "fil": "Kailan nagtagumpay si Uzias sa unang bahagi ng kanyang paghahari?"
+        },
+        "options": {
+          "en": [
+            "While he follows Baal's prophets",
+            "While he seeks the Lord",
+            "While he abandons every adviser"
+          ],
+          "fil": [
+            "Habang sinusunod niya ang mga propeta ni Baal",
+            "Habang hinahanap niya ang Panginoon",
+            "Habang iniiwan niya ang lahat ng tagapayo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God gives Uzziah success during the years when he seeks him (2 Chronicles 26).",
+          "fil": "Pinagtagumpay ng Diyos si Uzias sa mga taong hinahanap niya ito (2 Cronica 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude leads Uzziah into wrongdoing after he becomes powerful?",
+          "fil": "Anong saloobin ang nag-akay kay Uzias sa pagkakasala nang maging makapangyarihan siya?"
+        },
+        "options": {
+          "en": [
+            "Pride",
+            "Gratitude",
+            "Humility"
+          ],
+          "fil": [
+            "Pagmamataas",
+            "Pasasalamat",
+            "Pagpapakumbaba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uzziah's growing pride leads him to act unfaithfully toward the Lord (2 Chronicles 26).",
+          "fil": "Inakay si Uzias ng lumalaking pagmamataas na magtaksil sa Panginoon (2 Cronica 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What priestly action does Uzziah attempt in the temple?",
+          "fil": "Anong gawaing para sa pari ang tinangka ni Uzias sa templo?"
+        },
+        "options": {
+          "en": [
+            "Reading a public message from the king",
+            "Giving food to the poor",
+            "Burning incense on the incense altar"
+          ],
+          "fil": [
+            "Pagbabasa ng hayag na mensahe ng hari",
+            "Pamimigay ng pagkain sa mahihirap",
+            "Pagsusunog ng insenso sa altar ng insenso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priests confront Uzziah because offering incense belongs to the consecrated priests (2 Chronicles 26).",
+          "fil": "Hinarap ng mga pari si Uzias dahil sa mga itinalagang pari ang paghahandog ng insenso (2 Cronica 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens as Uzziah angrily resists the priests?",
+          "fil": "Ano ang nangyari habang galit na nilalabanan ni Uzias ang mga pari?"
+        },
+        "options": {
+          "en": [
+            "Leprosy appears on his forehead",
+            "The priests all surrender their duties",
+            "He is made high priest permanently"
+          ],
+          "fil": [
+            "Lumitaw ang ketong sa kanyang noo",
+            "Isinuko ng lahat ng pari ang kanilang tungkulin",
+            "Ginawa siyang pinakapunong pari nang permanente"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uzziah is struck with leprosy and must live apart for the rest of his life (2 Chronicles 26).",
+          "fil": "Nagkaroon ng ketong si Uzias at kinailangang mamuhay nang hiwalay sa nalalabi niyang buhay (2 Cronica 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "How does Jotham differ from his father in his conduct at the temple?",
+          "fil": "Paano naiba si Jotam sa kanyang ama sa asal nito sa templo?"
+        },
+        "options": {
+          "en": [
+            "He does not enter it to claim priestly duties",
+            "He replaces the priests with foreign soldiers",
+            "He insists on offering incense as king"
+          ],
+          "fil": [
+            "Hindi siya pumasok dito upang angkinin ang tungkulin ng pari",
+            "Pinalitan niya ng mga dayuhang kawal ang mga pari",
+            "Iginiit niyang maghandog ng insenso bilang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jotham follows what is right without repeating his father's intrusion into the temple (2 Chronicles 27).",
+          "fil": "Sinunod ni Jotam ang tama nang hindi inuulit ang panghihimasok ng kanyang ama sa templo (2 Cronica 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jotham strengthen through his building work?",
+          "fil": "Ano ang pinatibay ni Jotam sa kanyang mga pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Baal's temple in Samaria",
+            "Pharaoh's pyramids",
+            "Judah's defenses and a gate of the Lord's temple"
+          ],
+          "fil": [
+            "Ang templo ni Baal sa Samaria",
+            "Ang mga piramide ni Faraon",
+            "Ang mga pananggalang ng Juda at isang pintuan ng templo ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jotham builds fortifications and the upper gate of the Lord's house (2 Chronicles 27).",
+          "fil": "Nagtayo si Jotam ng mga kuta at ng itaas na pintuan ng bahay ng Panginoon (2 Cronica 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reason is given for Jotham's growing strength?",
+          "fil": "Anong dahilan ang ibinigay sa lumalaking lakas ni Jotam?"
+        },
+        "options": {
+          "en": [
+            "He worships every foreign idol",
+            "He orders his ways before the Lord his God",
+            "He never accepts any responsibility"
+          ],
+          "fil": [
+            "Sinamba niya ang bawat dayuhang diyus-diyosan",
+            "Inayos niya ang kanyang pamumuhay sa harap ng Panginoon niyang Diyos",
+            "Hindi siya tumanggap ng anumang pananagutan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jotham becomes strong because of his steady conduct before God (2 Chronicles 27).",
+          "fil": "Lumakas si Jotam dahil sa kanyang matatag na pamumuhay sa harap ng Diyos (2 Cronica 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "Who objects when Israel brings captives from Judah to Samaria?",
+          "fil": "Sino ang tumutol nang magdala ang Israel ng mga bihag mula sa Juda patungong Samaria?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's chief baker",
+            "Oded, a prophet of the Lord",
+            "Goliath's brother"
+          ],
+          "fil": [
+            "Ang punong panadero ni Faraon",
+            "Si Oded na propeta ng Panginoon",
+            "Ang kapatid ni Goliat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Oded confronts the returning army about its violence against fellow Israelites (2 Chronicles 28).",
+          "fil": "Hinarap ni Oded ang nagbabalik na hukbo tungkol sa karahasan nito sa kapwa Israelita (2 Cronica 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Oded remind the captors about their own standing before God?",
+          "fil": "Ano ang ipinaalala ni Oded sa mga bumihag tungkol sa sarili nilang kalagayan sa harap ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They too are guilty and must not add to their sin",
+            "They can never do anything wrong",
+            "Their victories make them equal to God"
+          ],
+          "fil": [
+            "May sala rin sila at hindi dapat dagdagan ang kanilang kasalanan",
+            "Hindi sila kailanman makagagawa ng mali",
+            "Ginagawa silang kapantay ng Diyos ng kanilang mga tagumpay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Oded warns Israel not to add enslavement to its own guilt (2 Chronicles 28).",
+          "fil": "Binalaan ni Oded ang Israel na huwag idagdag ang pang-aalipin sa sarili nitong kasalanan (2 Cronica 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do leaders care for the captives after accepting the warning?",
+          "fil": "Paano inalagaan ng mga pinuno ang mga bihag matapos tanggapin ang babala?"
+        },
+        "options": {
+          "en": [
+            "They clothe, feed, and escort them back to their people",
+            "They sell them all to Egypt",
+            "They leave them without food outside Samaria"
+          ],
+          "fil": [
+            "Dinamitan, pinakain, at inihatid nila ang mga ito pabalik sa kanilang bayan",
+            "Ipinagbili nila ang lahat sa Egipto",
+            "Iniwan nilang walang pagkain ang mga ito sa labas ng Samaria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The captives receive practical care and are returned to their relatives at Jericho (2 Chronicles 28).",
+          "fil": "Binigyan ng praktikal na pag-aalaga ang mga bihag at ibinalik sa kanilang mga kamag-anak sa Jerico (2 Cronica 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "What does Hezekiah do to the temple doors at the start of his reign?",
+          "fil": "Ano ang ginawa ni Ezequias sa mga pintuan ng templo sa simula ng kanyang paghahari?"
+        },
+        "options": {
+          "en": [
+            "He sends them to Babylon",
+            "He seals them forever",
+            "He opens and repairs them"
+          ],
+          "fil": [
+            "Ipinadala niya ang mga ito sa Babilonia",
+            "Isinara niya ang mga ito magpakailanman",
+            "Binuksan at kinumpuni niya ang mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hezekiah begins restoring the worship that had been neglected (2 Chronicles 29).",
+          "fil": "Sinimulan ni Ezequias ang pagpapanumbalik sa pagsambang napabayaan (2 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hezekiah ask the priests and Levites to remove from the sanctuary?",
+          "fil": "Ano ang ipinaalis ni Ezequias sa mga pari at Levita mula sa santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Every gift for faithful worship",
+            "Everything that defiles it",
+            "Every reminder of God's covenant"
+          ],
+          "fil": [
+            "Lahat ng handog para sa tapat na pagsamba",
+            "Lahat ng nagpaparumi rito",
+            "Lahat ng alaala ng tipan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priests and Levites cleanse the temple for renewed service (2 Chronicles 29).",
+          "fil": "Nilinis ng mga pari at Levita ang templo para sa pinanibagong paglilingkod (2 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What accompanies the renewed sacrifices?",
+          "fil": "Ano ang kasama ng pinanibagong mga paghahandog?"
+        },
+        "options": {
+          "en": [
+            "Musical praise and the people's worship",
+            "A ban on every song",
+            "A procession honoring Baal"
+          ],
+          "fil": [
+            "Pagpupuri sa musika at pagsamba ng bayan",
+            "Pagbabawal sa bawat awit",
+            "Prusisyon na nagpaparangal kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The restored temple service includes instruments, singing, and worship (2 Chronicles 29).",
+          "fil": "Kasama sa naibalik na paglilingkod sa templo ang mga instrumento, pag-awit, at pagsamba (2 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Hezekiah and the people rejoice at the end?",
+          "fil": "Bakit nagalak si Ezequias at ang bayan sa dulo?"
+        },
+        "options": {
+          "en": [
+            "They have replaced the law with foreign rituals",
+            "God has enabled the restoration to happen so quickly",
+            "They have closed the temple again"
+          ],
+          "fil": [
+            "Pinalitan nila ng mga dayuhang ritwal ang kautusan",
+            "Niloob ng Diyos na maganap nang napakabilis ang pagpapanumbalik",
+            "Muli nilang isinara ang templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people celebrate what God has prepared through the renewed service (2 Chronicles 29).",
+          "fil": "Ipinagdiwang ng bayan ang inihanda ng Diyos sa pamamagitan ng pinanibagong paglilingkod (2 Cronica 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "Whom does Hezekiah invite to celebrate the Passover in Jerusalem?",
+          "fil": "Sino ang inanyayahan ni Ezequias na magdiwang ng Paskuwa sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "People from both Judah and the northern tribes",
+            "Only the king of Assyria",
+            "Only his private servants"
+          ],
+          "fil": [
+            "Mga tao mula sa Juda at mga lipi sa hilaga",
+            "Ang hari lamang ng Asiria",
+            "Ang kanyang mga pribadong lingkod lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah sends invitations across Israel and Judah to return to the Lord (2 Chronicles 30).",
+          "fil": "Nagpadala si Ezequias ng paanyaya sa Israel at Juda na magbalik sa Panginoon (2 Cronica 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is the celebration held later than the usual time?",
+          "fil": "Bakit idinaos ang pagdiriwang nang mas huli sa karaniwang panahon?"
+        },
+        "options": {
+          "en": [
+            "The priests and people were not ready at the regular time",
+            "Hezekiah wanted to honor Baal first",
+            "God had forbidden the Passover forever"
+          ],
+          "fil": [
+            "Hindi handa ang mga pari at bayan sa karaniwang panahon",
+            "Nais munang parangalan ni Ezequias si Baal",
+            "Ipinagbawal na ng Diyos ang Paskuwa magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "A later celebration allows time for preparation and gathering (2 Chronicles 30).",
+          "fil": "Nagbigay ng panahon sa paghahanda at pagtitipon ang mas huling pagdiriwang (2 Cronica 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do people in the north respond to the invitation?",
+          "fil": "Paano tumugon ang mga tao sa hilaga sa paanyaya?"
+        },
+        "options": {
+          "en": [
+            "They all attack Jerusalem together",
+            "Some mock it, but others humbly come",
+            "Everyone refuses without exception"
+          ],
+          "fil": [
+            "Sama-sama nilang sinalakay ang Jerusalem",
+            "May mga nangutya ngunit may mapagpakumbabang dumating",
+            "Tumanggi ang lahat nang walang natira"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Despite ridicule in some towns, people from northern tribes join the feast (2 Chronicles 30).",
+          "fil": "Sa kabila ng panunuya sa ilang bayan, sumama sa kapistahan ang mga tao mula sa mga lipi sa hilaga (2 Cronica 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hezekiah do for worshipers who have not completed the required purification?",
+          "fil": "Ano ang ginawa ni Ezequias para sa mga sumasambang hindi natapos ang hinihinging paglilinis?"
+        },
+        "options": {
+          "en": [
+            "He prays that God pardon those sincerely seeking him",
+            "He orders them to worship idols instead",
+            "He forbids them ever to seek the Lord again"
+          ],
+          "fil": [
+            "Ipinanalangin niyang patawarin ng Diyos ang mga tapat na naghahanap sa kanya",
+            "Inutusan niya silang sumamba sa diyus-diyosan sa halip",
+            "Pinagbawalan niya silang hanapin muli ang Panginoon kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God hears Hezekiah's prayer and shows mercy to the people (2 Chronicles 30).",
+          "fil": "Dininig ng Diyos ang panalangin ni Ezequias at kinaawaan ang bayan (2 Cronica 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "What do the worshipers do in the towns after the celebration?",
+          "fil": "Ano ang ginawa ng mga sumamba sa mga bayan matapos ang pagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "Remove every teacher of God's law",
+            "Build more altars for Baal",
+            "Destroy objects and places of false worship"
+          ],
+          "fil": [
+            "Inalis ang bawat guro ng kautusan ng Diyos",
+            "Nagtayo ng mas maraming altar para kay Baal",
+            "Winasak ang mga bagay at lugar ng maling pagsamba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The renewed worship leads to wider removal of idolatry (2 Chronicles 31).",
+          "fil": "Humantong ang pinanibagong pagsamba sa mas malawak na pag-aalis ng pagsamba sa diyus-diyosan (2 Cronica 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Hezekiah require contributions for the priests and Levites?",
+          "fil": "Bakit humingi si Ezequias ng mga ambag para sa mga pari at Levita?"
+        },
+        "options": {
+          "en": [
+            "So they can buy idols from Assyria",
+            "So they can abandon the temple permanently",
+            "So they can devote themselves to the Lord's law and service"
+          ],
+          "fil": [
+            "Upang makabili sila ng diyus-diyosan sa Asiria",
+            "Upang talikuran nila nang permanente ang templo",
+            "Upang maitalaga nila ang sarili sa kautusan at paglilingkod sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The contributions support those responsible for worship and teaching (2 Chronicles 31).",
+          "fil": "Sinuportahan ng mga ambag ang mga may tungkulin sa pagsamba at pagtuturo (2 Cronica 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the abundant supply handled?",
+          "fil": "Paano pinangasiwaan ang masaganang panustos?"
+        },
+        "options": {
+          "en": [
+            "Store rooms and faithful officers manage its distribution",
+            "Everything is thrown away immediately",
+            "Only foreign kings are allowed to receive it"
+          ],
+          "fil": [
+            "Pinangasiwaan ng mga imbakan at tapat na opisyal ang pamamahagi nito",
+            "Agad na itinapon ang lahat",
+            "Mga dayuhang hari lamang ang pinayagang tumanggap nito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah arranges storage and fair provision for the temple workers and their families (2 Chronicles 31).",
+          "fil": "Isinaayos ni Ezequias ang pag-iimbak at makatarungang pagtustos sa mga manggagawa sa templo at kanilang pamilya (2 Cronica 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "How does Hezekiah prepare Jerusalem for Sennacherib's attack?",
+          "fil": "Paano inihanda ni Ezequias ang Jerusalem sa pag-atake ni Senakerib?"
+        },
+        "options": {
+          "en": [
+            "He tears down all the city walls",
+            "He strengthens defenses and secures the water supply",
+            "He gives every weapon to Assyria"
+          ],
+          "fil": [
+            "Giniba niya ang lahat ng pader ng lunsod",
+            "Pinatibay niya ang mga pananggalang at siniguro ang panustos na tubig",
+            "Ibinigay niya ang lahat ng sandata sa Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hezekiah combines practical preparations with encouragement to trust God (2 Chronicles 32).",
+          "fil": "Pinagsama ni Ezequias ang praktikal na paghahanda at paghikayat na magtiwala sa Diyos (2 Cronica 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast does Hezekiah make about the two sides' help?",
+          "fil": "Anong pagkakaiba sa tulong ng dalawang panig ang binanggit ni Ezequias?"
+        },
+        "options": {
+          "en": [
+            "Assyria's idols are stronger than the Lord",
+            "Judah has no one to help at all",
+            "Assyria has human strength, but Judah has the Lord to help"
+          ],
+          "fil": [
+            "Mas malakas sa Panginoon ang mga diyus-diyosan ng Asiria",
+            "Lubusang walang tutulong sa Juda",
+            "Lakas ng tao ang sa Asiria ngunit ang Panginoon ang tutulong sa Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hezekiah encourages the people to look beyond the enemy's visible power (2 Chronicles 32).",
+          "fil": "Hinikayat ni Ezequias ang bayan na tumingin lampas sa nakikitang kapangyarihan ng kaaway (2 Cronica 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Hezekiah and Isaiah do in response to the Assyrian threats?",
+          "fil": "Ano ang ginawa nina Ezequias at Isaias bilang tugon sa mga banta ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "They abandon Jerusalem without praying",
+            "They pray and cry out to heaven",
+            "They ask Baal to rescue them"
+          ],
+          "fil": [
+            "Iniwan nila ang Jerusalem nang hindi nananalangin",
+            "Nanalangin sila at dumaing sa langit",
+            "Humiling sila kay Baal na iligtas sila"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God answers their prayer by sending an angel against the Assyrian army (2 Chronicles 32).",
+          "fil": "Sinagot ng Diyos ang kanilang panalangin sa pagpapadala ng anghel laban sa hukbo ng Asiria (2 Cronica 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What harmful worship does Manasseh restore?",
+          "fil": "Anong masamang pagsamba ang ibinalik ni Manases?"
+        },
+        "options": {
+          "en": [
+            "Prayer to the Lord without idols",
+            "Faithful service taught by Moses alone",
+            "Altars and images for other gods"
+          ],
+          "fil": [
+            "Panalangin sa Panginoon nang walang diyus-diyosan",
+            "Tapat na paglilingkod lamang na itinuro ni Moises",
+            "Mga altar at imahen para sa ibang mga diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Manasseh reverses his father's reforms and brings idolatry into God's house (2 Chronicles 33).",
+          "fil": "Binaligtad ni Manases ang mga pagbabago ng kanyang ama at dinala sa bahay ng Diyos ang pagsamba sa diyus-diyosan (2 Cronica 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Manasseh when Assyrian commanders capture him?",
+          "fil": "Ano ang nangyari kay Manases nang mahuli siya ng mga pinuno ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "He is crowned king of Assyria",
+            "He is bound and taken to Babylon",
+            "He is appointed priest of Jerusalem"
+          ],
+          "fil": [
+            "Kinoronahan siyang hari ng Asiria",
+            "Iginapos siya at dinala sa Babilonia",
+            "Ginawa siyang pari ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Manasseh's capture brings him into deep distress far from his kingdom (2 Chronicles 33).",
+          "fil": "Dinala ng pagkabihag si Manases sa matinding paghihirap na malayo sa kanyang kaharian (2 Cronica 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Manasseh respond to God in his distress?",
+          "fil": "Paano tumugon si Manases sa Diyos sa kanyang paghihirap?"
+        },
+        "options": {
+          "en": [
+            "He boasts that he needs no mercy",
+            "He humbles himself and prays",
+            "He demands more idols"
+          ],
+          "fil": [
+            "Ipinagmalaki niyang hindi niya kailangan ng awa",
+            "Nagpakumbaba siya at nanalangin",
+            "Humingi siya ng mas maraming diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God hears Manasseh's humble prayer and restores him to Jerusalem (2 Chronicles 33).",
+          "fil": "Dininig ng Diyos ang mapagpakumbabang panalangin ni Manases at ibinalik siya sa Jerusalem (2 Cronica 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Manasseh do after being restored?",
+          "fil": "Ano ang ginawa ni Manases matapos siyang maibalik?"
+        },
+        "options": {
+          "en": [
+            "He orders Judah never to pray again",
+            "He destroys every sign of repentance",
+            "He removes foreign gods and restores the Lord's altar"
+          ],
+          "fil": [
+            "Iniutos niyang huwag nang manalangin ang Juda",
+            "Winasak niya ang bawat tanda ng pagsisisi",
+            "Inalis niya ang mga dayuhang diyos at ibinalik ang altar ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Manasseh's return is followed by changes that turn Judah back toward the Lord (2 Chronicles 33).",
+          "fil": "Sinundan ang pagbabalik ni Manases ng mga pagbabagong muling nag-akay sa Juda sa Panginoon (2 Cronica 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "What does Josiah begin doing while still young?",
+          "fil": "Ano ang sinimulang gawin ni Josias habang bata pa?"
+        },
+        "options": {
+          "en": [
+            "Preparing an attack on Persia",
+            "Seeking God and later removing idolatry",
+            "Restoring every altar of Baal"
+          ],
+          "fil": [
+            "Maghanda ng pag-atake sa Persia",
+            "Hanapin ang Diyos at kalaunan ay alisin ang pagsamba sa diyus-diyosan",
+            "Ibalik ang bawat altar ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Josiah seeks the God of David and begins cleansing the land of false worship (2 Chronicles 34).",
+          "fil": "Hinanap ni Josias ang Diyos ni David at sinimulang linisin ang lupain sa maling pagsamba (2 Cronica 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hilkiah find while temple funds are being brought out?",
+          "fil": "Ano ang natagpuan ni Hilkias habang inilalabas ang mga salapi ng templo?"
+        },
+        "options": {
+          "en": [
+            "A treaty with Pharaoh",
+            "The Book of the Law given through Moses",
+            "The plans for Babel's tower"
+          ],
+          "fil": [
+            "Isang kasunduan kay Faraon",
+            "Ang Aklat ng Kautusang ibinigay sa pamamagitan ni Moises",
+            "Ang mga plano ng tore ng Babel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hilkiah discovers the law book during the work to restore the temple (2 Chronicles 34).",
+          "fil": "Natagpuan ni Hilkias ang aklat ng kautusan sa gawain ng pag-aayos ng templo (2 Cronica 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Huldah say God has seen in Josiah's response to the book?",
+          "fil": "Ano ang sinabi ni Hulda na nakita ng Diyos sa tugon ni Josias sa aklat?"
+        },
+        "options": {
+          "en": [
+            "His delight in the nation's wrongdoing",
+            "His wish to destroy every prophet",
+            "His humility and sincere grief"
+          ],
+          "fil": [
+            "Ang kanyang tuwa sa kasalanan ng bansa",
+            "Ang kanyang hangaring lipulin ang lahat ng propeta",
+            "Ang kanyang pagpapakumbaba at tapat na dalamhati"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Huldah tells Josiah that God has heard his humble response to the warning (2 Chronicles 34).",
+          "fil": "Sinabi ni Hulda kay Josias na dininig ng Diyos ang kanyang mapagpakumbabang tugon sa babala (2 Cronica 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What commitment does Josiah lead the people to renew?",
+          "fil": "Anong pangako ang pinangunahan ni Josias na panibaguhin ng bayan?"
+        },
+        "options": {
+          "en": [
+            "To follow the Lord and keep the covenant",
+            "To forget the words of the law",
+            "To copy the worship of Assyria"
+          ],
+          "fil": [
+            "Sundin ang Panginoon at ingatan ang tipan",
+            "Limutin ang mga salita ng kautusan",
+            "Gayahin ang pagsamba ng Asiria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Josiah publicly renews the covenant after the book is read to the people (2 Chronicles 34).",
+          "fil": "Hayagang pinanibago ni Josias ang tipan matapos basahin sa bayan ang aklat (2 Cronica 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "What major feast does Josiah organize in Jerusalem?",
+          "fil": "Anong malaking kapistahan ang isinaayos ni Josias sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Passover",
+            "Pharaoh's birthday",
+            "A feast for Baal"
+          ],
+          "fil": [
+            "Paskuwa",
+            "Kaarawan ni Faraon",
+            "Pista para kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Josiah leads a notable Passover celebration in the Lord's house (2 Chronicles 35).",
+          "fil": "Pinangunahan ni Josias ang natatanging pagdiriwang ng Paskuwa sa bahay ng Panginoon (2 Cronica 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Josiah and the leaders help the people take part?",
+          "fil": "Paano tinulungan ni Josias at ng mga pinuno ang bayan na makilahok?"
+        },
+        "options": {
+          "en": [
+            "They provide animals for the offerings",
+            "They send all the food to Assyria",
+            "They forbid ordinary families to attend"
+          ],
+          "fil": [
+            "Naglaan sila ng mga hayop para sa mga handog",
+            "Ipinadala nila sa Asiria ang lahat ng pagkain",
+            "Pinagbawalan nilang dumalo ang karaniwang mga pamilya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king and leaders generously supply offerings for the assembly (2 Chronicles 35).",
+          "fil": "Bukas-palad na naglaan ng mga handog ang hari at mga pinuno para sa kapulungan (2 Cronica 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Josiah goes into battle against Necho?",
+          "fil": "Ano ang nangyari nang lumabas si Josias upang labanan si Neco?"
+        },
+        "options": {
+          "en": [
+            "Necho makes him king of Egypt",
+            "Archers wound him and he dies",
+            "He returns without any injury"
+          ],
+          "fil": [
+            "Ginawa siya ni Neco na hari ng Egipto",
+            "Sinugatan siya ng mga mamamana at namatay",
+            "Bumalik siyang walang anumang pinsala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Josiah is fatally wounded after going to fight Necho at Megiddo (2 Chronicles 35).",
+          "fil": "Namatay si Josias sa mga sugat matapos lumabas upang labanan si Neco sa Megido (2 Cronica 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "How do the people and leaders treat God's repeated messengers?",
+          "fil": "Paano tinrato ng bayan at mga pinuno ang paulit-ulit na mga sugo ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They make every prophet king",
+            "They always obey every warning",
+            "They mock them and reject the warnings"
+          ],
+          "fil": [
+            "Ginawa nilang hari ang bawat propeta",
+            "Lagi nilang sinunod ang bawat babala",
+            "Kinutya nila ang mga ito at tinanggihan ang mga babala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Persistent rejection of God's messengers leads to judgment on Judah (2 Chronicles 36).",
+          "fil": "Humantong sa paghatol sa Juda ang patuloy na pagtanggi sa mga sugo ng Diyos (2 Cronica 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jerusalem under Babylon's attack?",
+          "fil": "Ano ang nangyari sa Jerusalem sa pag-atake ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "The city defeats Babylon without harm",
+            "Solomon returns to rebuild it that day",
+            "The temple is burned and the people are taken into exile"
+          ],
+          "fil": [
+            "Natalo ng lunsod ang Babilonia nang walang pinsala",
+            "Bumalik si Solomon upang itayo itong muli nang araw na iyon",
+            "Sinunog ang templo at dinala sa pagkakatapon ang mga tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Babylon destroys Jerusalem and carries the survivors away (2 Chronicles 36).",
+          "fil": "Winasak ng Babilonia ang Jerusalem at dinala palayo ang mga nakaligtas (2 Cronica 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the land while it lies desolate?",
+          "fil": "Ano ang nangyari sa lupain habang tiwangwang ito?"
+        },
+        "options": {
+          "en": [
+            "It enjoys its sabbath rest",
+            "It produces gold instead of crops",
+            "It becomes a new sea"
+          ],
+          "fil": [
+            "Naranasan nito ang pahingang Sabbath",
+            "Nagbunga ito ng ginto sa halip na pananim",
+            "Naging bagong dagat ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The exile gives the desolate land its rest as the prophetic word is fulfilled (2 Chronicles 36).",
+          "fil": "Nagbigay ang pagkakatapon ng pahinga sa tiwangwang na lupain bilang katuparan ng salita ng propeta (2 Cronica 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hopeful proclamation closes the book?",
+          "fil": "Anong pahayag ng pag-asa ang nasa wakas ng aklat?"
+        },
+        "options": {
+          "en": [
+            "Babylon bans every prayer permanently",
+            "Pharaoh orders all Israelites enslaved forever",
+            "Cyrus permits God's people to return and rebuild the temple"
+          ],
+          "fil": [
+            "Permanenteng ipinagbawal ng Babilonia ang bawat panalangin",
+            "Iniutos ni Faraon na alipinin ang lahat ng Israelita magpakailanman",
+            "Pinayagan ni Ciro ang bayan ng Diyos na bumalik at itayo muli ang templo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God stirs Cyrus to authorize the return to Jerusalem and rebuilding of his house (2 Chronicles 36).",
+          "fil": "Pinakilos ng Diyos si Ciro upang pahintulutan ang pagbabalik sa Jerusalem at muling pagtatayo ng kanyang bahay (2 Cronica 36)."
+        }
+      }
+    ]
+  }
+}
