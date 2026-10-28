@@ -1,0 +1,2030 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What news does the visitor bring David from the battle?",
+          "fil": "Anong balita mula sa labanan ang dinala ng bisita kay David?"
+        },
+        "options": {
+          "en": [
+            "Jonathan has become Pharaoh",
+            "Saul and Jonathan have died",
+            "Saul has captured Jerusalem"
+          ],
+          "fil": [
+            "Naging Faraon si Jonatan",
+            "Namatay sina Saul at Jonatan",
+            "Nasakop ni Saul ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The messenger reports the deaths of Saul and Jonathan to David (2 Samuel 1).",
+          "fil": "Ibinalita ng sugo kay David ang pagkamatay nina Saul at Jonatan (2 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Amalekite claim he did to Saul?",
+          "fil": "Ano ang sinabi ng Amalecita na ginawa niya kay Saul?"
+        },
+        "options": {
+          "en": [
+            "Crowned him again in Hebron",
+            "Killed him at his request",
+            "Hid him in a cave"
+          ],
+          "fil": [
+            "Muli siyang kinoronahan sa Hebron",
+            "Pinatay siya sa kanyang pakiusap",
+            "Itinago siya sa kuweba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The visitor claims responsibility for killing Saul and brings royal belongings as evidence (2 Samuel 1).",
+          "fil": "Inangkin ng bisita ang pagpatay kay Saul at nagdala ng mga gamit ng hari bilang patunay (2 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond to the deaths rather than celebrating them?",
+          "fil": "Paano tumugon si David sa mga pagkamatay sa halip na ipagdiwang ang mga ito?"
+        },
+        "options": {
+          "en": [
+            "He and his men mourn and fast",
+            "He orders songs praising the Philistines",
+            "He holds a victory feast"
+          ],
+          "fil": [
+            "Nagluksa at nag-ayuno siya at ang kanyang mga tauhan",
+            "Nag-utos siya ng mga awit na pumupuri sa mga Filisteo",
+            "Nagdaos siya ng piging ng tagumpay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David and his men grieve for Saul, Jonathan, and the fallen people (2 Samuel 1).",
+          "fil": "Nagluksa si David at ang kanyang mga tauhan para kina Saul, Jonatan, at sa mga nasawi (2 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David's lament express about Jonathan?",
+          "fil": "Ano ang ipinahayag ng panaghoy ni David tungkol kay Jonatan?"
+        },
+        "options": {
+          "en": [
+            "A wish to erase their friendship",
+            "Delight that Jonathan is gone",
+            "Deep affection and sorrow for his friend"
+          ],
+          "fil": [
+            "Hangaring burahin ang kanilang pagkakaibigan",
+            "Tuwa dahil wala na si Jonatan",
+            "Malalim na pagmamahal at lungkot para sa kanyang kaibigan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David's lament honors Jonathan and recalls their precious friendship (2 Samuel 1).",
+          "fil": "Pinarangalan ng panaghoy ni David si Jonatan at inalala ang mahalaga nilang pagkakaibigan (2 Samuel 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Where is David anointed king over Judah?",
+          "fil": "Saan pinahiran si David bilang hari ng Juda?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Nineveh",
+            "Jericho"
+          ],
+          "fil": [
+            "Hebron",
+            "Nineve",
+            "Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people of Judah anoint David at Hebron after he seeks the Lord's direction (2 Samuel 2).",
+          "fil": "Pinahiran ng mga taga-Juda si David sa Hebron matapos niyang hingin ang patnubay ng Panginoon (2 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Abner establish as king over the other Israelites?",
+          "fil": "Sino ang ginawang hari ni Abner sa ibang mga Israelita?"
+        },
+        "options": {
+          "en": [
+            "The Philistine Goliath",
+            "Saul's son Ish-bosheth",
+            "The priest Eli"
+          ],
+          "fil": [
+            "Ang Filisteong si Goliat",
+            "Si Is-boset na anak ni Saul",
+            "Ang paring si Eli"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abner sets up Saul's son Ish-bosheth as a rival ruler to David (2 Samuel 2).",
+          "fil": "Ginawang karibal na pinuno ni Abner si Is-boset na anak ni Saul (2 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Asahel keeps pursuing Abner?",
+          "fil": "Ano ang nangyari nang patuloy na habulin ni Asael si Abner?"
+        },
+        "options": {
+          "en": [
+            "He captures Abner without resistance",
+            "Abner kills him after warning him to stop",
+            "He is crowned king of Israel"
+          ],
+          "fil": [
+            "Nahuli niya si Abner nang walang paglaban",
+            "Pinatay siya ni Abner matapos babalaang tumigil",
+            "Kinoronahan siyang hari ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Asahel refuses to turn aside and dies at Abner's hand (2 Samuel 2).",
+          "fil": "Tumangging lumihis si Asael at napatay siya ni Abner (2 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joab bring the pursuit to a halt?",
+          "fil": "Paano pinatigil ni Joab ang paghabol?"
+        },
+        "options": {
+          "en": [
+            "He sounds a trumpet after Abner appeals for an end",
+            "He sends everyone to Egypt",
+            "He builds a temple at the battlefield"
+          ],
+          "fil": [
+            "Nagpatunog siya ng trumpeta matapos hilingin ni Abner na tumigil",
+            "Ipinadala niya ang lahat sa Egipto",
+            "Nagtayo siya ng templo sa pinaglabanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joab blows the trumpet and his men stop pursuing their fellow Israelites (2 Samuel 2).",
+          "fil": "Nagpatunog si Joab ng trumpeta at tumigil ang kanyang mga tauhan sa paghabol sa kapwa Israelita (2 Samuel 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What change does Abner offer after his quarrel with Ish-bosheth?",
+          "fil": "Anong pagbabago ang inalok ni Abner matapos makipagtalo kay Is-boset?"
+        },
+        "options": {
+          "en": [
+            "To help bring Israel under David's rule",
+            "To make Goliath king again",
+            "To destroy every town in Judah"
+          ],
+          "fil": [
+            "Tumulong upang mapasailalim ang Israel sa pamamahala ni David",
+            "Gawing hari muli si Goliat",
+            "Wasakin ang bawat bayan sa Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abner begins arranging for Israel to recognize David as king (2 Samuel 3).",
+          "fil": "Sinimulan ni Abner ang pagsasaayos upang kilalanin ng Israel si David bilang hari (2 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose return does David require before making an agreement?",
+          "fil": "Kaninong pagbabalik ang hiningi ni David bago makipagkasundo?"
+        },
+        "options": {
+          "en": [
+            "Hannah's",
+            "His wife Michal's",
+            "Ruth's"
+          ],
+          "fil": [
+            "Ni Ana",
+            "Ng asawa niyang si Mical",
+            "Ni Ruth"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David asks that Saul's daughter Michal be brought back to him (2 Samuel 3).",
+          "fil": "Hiniling ni David na ibalik sa kanya si Mical na anak ni Saul (2 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Joab kill Abner after recalling him?",
+          "fil": "Bakit pinatay ni Joab si Abner matapos itong pabalikin?"
+        },
+        "options": {
+          "en": [
+            "To avenge his brother Asahel",
+            "To obey a public command from David",
+            "To defend Abner's claim to Judah"
+          ],
+          "fil": [
+            "Upang ipaghiganti ang kapatid niyang si Asael",
+            "Upang sundin ang hayag na utos ni David",
+            "Upang ipagtanggol ang pag-angkin ni Abner sa Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joab takes revenge for Asahel's death without David's knowledge (2 Samuel 3).",
+          "fil": "Naghiganti si Joab sa pagkamatay ni Asael nang hindi nalalaman ni David (2 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David show that he did not approve of Abner's murder?",
+          "fil": "Paano ipinakita ni David na hindi niya sinang-ayunan ang pagpatay kay Abner?"
+        },
+        "options": {
+          "en": [
+            "He forbids anyone to bury Abner",
+            "He rewards the killers with a feast",
+            "He publicly mourns and refuses food before sunset"
+          ],
+          "fil": [
+            "Ipinagbawal niyang ilibing si Abner",
+            "Ginantimpalaan niya ng piging ang mga pumatay",
+            "Hayagan siyang nagluksa at tumangging kumain bago lumubog ang araw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David's mourning convinces the people that he did not order Abner's death (2 Samuel 3).",
+          "fil": "Dahil sa pagdadalamhati ni David, naunawaan ng mga tao na hindi niya ipinapatay si Abner (2 Samuel 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What are Ish-bosheth's attackers doing when they kill him?",
+          "fil": "Ano ang ginawa ng mga sumalakay kay Is-boset nang patayin siya?"
+        },
+        "options": {
+          "en": [
+            "They rescue him from a prison",
+            "They enter his house while he is resting",
+            "They meet him leading a battle charge"
+          ],
+          "fil": [
+            "Iniligtas nila siya mula sa bilangguan",
+            "Pumasok sila sa kanyang bahay habang nagpapahinga siya",
+            "Hinarap nila siya habang nangunguna sa pagsalakay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ish-bosheth is murdered at home while lying on his bed (2 Samuel 4).",
+          "fil": "Pinatay si Is-boset sa kanyang tahanan habang nakahiga sa kanyang higaan (2 Samuel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the killers expect when they bring Ish-bosheth's head to David?",
+          "fil": "Ano ang inasahan ng mga pumatay nang dalhin nila kay David ang ulo ni Is-boset?"
+        },
+        "options": {
+          "en": [
+            "Approval for removing his rival",
+            "Orders to restore Ish-bosheth to the throne",
+            "Permission to become priests"
+          ],
+          "fil": [
+            "Pagsang-ayon dahil inalis nila ang kanyang karibal",
+            "Utos na ibalik si Is-boset sa trono",
+            "Pahintulot na maging mga pari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The killers present the death as good news, but David condemns their deed (2 Samuel 4).",
+          "fil": "Iniharap ng mga pumatay ang pagkamatay bilang magandang balita, ngunit kinondena ni David ang ginawa nila (2 Samuel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David judge the killing of Ish-bosheth?",
+          "fil": "Paano hinatulan ni David ang pagpatay kay Is-boset?"
+        },
+        "options": {
+          "en": [
+            "As an order David himself had given",
+            "As a deed deserving royal crowns",
+            "As the murder of an innocent man in his own home"
+          ],
+          "fil": [
+            "Bilang utos na si David mismo ang nagbigay",
+            "Bilang gawaing dapat gantimpalaan ng mga korona",
+            "Bilang pagpatay sa taong walang sala sa sarili niyang tahanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David has the killers punished rather than rewarding them for murder (2 Samuel 4).",
+          "fil": "Pinarusahan ni David ang mga pumatay sa halip na gantimpalaan sila sa pagpatay (2 Samuel 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What do all the tribes of Israel do when they come to David at Hebron?",
+          "fil": "Ano ang ginawa ng lahat ng lipi ng Israel nang lumapit sila kay David sa Hebron?"
+        },
+        "options": {
+          "en": [
+            "Recognize and anoint him as their king",
+            "Ask him to rebuild Pharaoh's palace",
+            "Send him into exile"
+          ],
+          "fil": [
+            "Kinilala at pinahiran nila siya bilang kanilang hari",
+            "Hiniling nilang itayo niyang muli ang palasyo ni Faraon",
+            "Ipinatapon nila siya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's elders make a covenant with David and anoint him king over Israel (2 Samuel 5).",
+          "fil": "Nakipagtipan kay David ang matatanda ng Israel at pinahiran siyang hari ng Israel (2 Samuel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which stronghold does David capture and make his city?",
+          "fil": "Anong kuta ang nasakop ni David at ginawang kanyang lunsod?"
+        },
+        "options": {
+          "en": [
+            "Jericho beside the Jordan",
+            "Zion in Jerusalem",
+            "Nineveh in Assyria"
+          ],
+          "fil": [
+            "Ang Jerico sa tabi ng Jordan",
+            "Ang Sion sa Jerusalem",
+            "Ang Nineve sa Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David captures the Jebusite stronghold of Zion and settles there (2 Samuel 5).",
+          "fil": "Nasakop ni David ang kuta ng mga Jebuseo sa Sion at doon nanirahan (2 Samuel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Hiram of Tyre assist David?",
+          "fil": "Paano tinulungan ni Hiram ng Tiro si David?"
+        },
+        "options": {
+          "en": [
+            "He provides the tablets of the covenant",
+            "He sends wood and skilled workers for a palace",
+            "He appoints David high priest"
+          ],
+          "fil": [
+            "Ibinigay niya ang mga tapyas ng tipan",
+            "Nagpadala siya ng kahoy at mga bihasang manggagawa para sa palasyo",
+            "Ginawa niyang pinakapunong pari si David"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hiram supplies materials and craftsmen to build David a house (2 Samuel 5).",
+          "fil": "Naglaan si Hiram ng mga materyales at manggagawa upang ipagtayo si David ng bahay (2 Samuel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do before fighting the Philistines?",
+          "fil": "Ano ang ginawa ni David bago labanan ang mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "He asks the Lord for guidance",
+            "He gives the Philistines his throne",
+            "He assumes that every battle needs the same plan"
+          ],
+          "fil": [
+            "Humingi siya ng patnubay sa Panginoon",
+            "Ibinigay niya sa mga Filisteo ang kanyang trono",
+            "Inakala niyang iisa ang plano para sa bawat labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David consults the Lord and follows the directions given for the battles (2 Samuel 5).",
+          "fil": "Sumangguni si David sa Panginoon at sinunod ang mga tagubilin para sa mga labanan (2 Samuel 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What sacred object does David bring toward Jerusalem?",
+          "fil": "Anong sagradong bagay ang dinala ni David patungo sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "The ark of God",
+            "Dagon's statue",
+            "Pharaoh's throne"
+          ],
+          "fil": [
+            "Ang Kaban ng Diyos",
+            "Ang rebulto ni Dagon",
+            "Ang trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David gathers the people to bring the ark of God to his city (2 Samuel 6).",
+          "fil": "Tinipon ni David ang mga tao upang dalhin ang Kaban ng Diyos sa kanyang lunsod (2 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Uzzah when he reaches out to hold the ark?",
+          "fil": "Ano ang nangyari kay Uza nang iunat niya ang kamay upang hawakan ang Kaban?"
+        },
+        "options": {
+          "en": [
+            "He dies there beside the ark",
+            "He carries it alone into the temple",
+            "He becomes king of Israel"
+          ],
+          "fil": [
+            "Namatay siya roon sa tabi ng Kaban",
+            "Mag-isa niya itong dinala sa templo",
+            "Naging hari siya ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uzzah's death interrupts the journey and makes David afraid to continue at once (2 Samuel 6).",
+          "fil": "Naputol ang paglalakbay dahil sa pagkamatay ni Uza at natakot si David na agad itong ipagpatuloy (2 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the household where the ark stays before David brings it onward?",
+          "fil": "Ano ang nangyari sa sambahayang tinigilan ng Kaban bago ito muling dinala ni David?"
+        },
+        "options": {
+          "en": [
+            "Everyone leaves to serve Dagon",
+            "Their home becomes Pharaoh's palace",
+            "The Lord blesses Obed-edom and his household"
+          ],
+          "fil": [
+            "Umalis ang lahat upang maglingkod kay Dagon",
+            "Naging palasyo ni Faraon ang kanilang bahay",
+            "Pinagpala ng Panginoon si Obed-edom at ang kanyang sambahayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "News of blessing in Obed-edom's home encourages David to bring the ark to Jerusalem (2 Samuel 6).",
+          "fil": "Dahil sa balitang pinagpala ang bahay ni Obed-edom, dinala ni David ang Kaban sa Jerusalem (2 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Michal criticize David after the procession?",
+          "fil": "Bakit pinuna ni Mical si David matapos ang prusisyon?"
+        },
+        "options": {
+          "en": [
+            "He sent the ark back to the Philistines",
+            "He refused to let anyone rejoice",
+            "She despises the way he danced openly before the Lord"
+          ],
+          "fil": [
+            "Ibinalik niya ang Kaban sa mga Filisteo",
+            "Ayaw niyang pasayahin ang sinuman",
+            "Hinamak niya ang hayagang pagsayaw ni David sa harap ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Michal disapproves of David's public celebration, but David says his rejoicing honors the Lord (2 Samuel 6).",
+          "fil": "Hindi sinang-ayunan ni Mical ang hayagang pagdiriwang ni David, ngunit sinabi nitong para sa Panginoon ang kanyang pagsasaya (2 Samuel 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What project does David discuss with Nathan?",
+          "fil": "Anong balak ang tinalakay ni David kay Natan?"
+        },
+        "options": {
+          "en": [
+            "Building a house for the ark of God",
+            "Making a palace for Dagon",
+            "Building a tower to reach heaven"
+          ],
+          "fil": [
+            "Pagtatayo ng bahay para sa Kaban ng Diyos",
+            "Paggawa ng palasyo para kay Dagon",
+            "Pagtatayo ng tore hanggang langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David wants a permanent house for the ark while he himself lives in a cedar house (2 Samuel 7).",
+          "fil": "Ninais ni David ng permanenteng bahay para sa Kaban habang siya ay naninirahan sa bahay na sedro (2 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who will build the house for God's name instead of David?",
+          "fil": "Sino ang magtatayo ng bahay para sa pangalan ng Diyos sa halip na si David?"
+        },
+        "options": {
+          "en": [
+            "The king of Egypt",
+            "A son who succeeds David",
+            "Saul returning from exile"
+          ],
+          "fil": [
+            "Ang hari ng Egipto",
+            "Isang anak na hahalili kay David",
+            "Si Saul na babalik mula sa pagkakatapon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord tells David that his offspring will build the house (2 Samuel 7).",
+          "fil": "Sinabi ng Panginoon kay David na ang kanyang anak ang magtatayo ng bahay (2 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Lord promise about David's royal house?",
+          "fil": "Ano ang ipinangako ng Panginoon tungkol sa maharlikang sambahayan ni David?"
+        },
+        "options": {
+          "en": [
+            "It must serve the Philistines forever",
+            "It will disappear before David dies",
+            "He will establish its kingdom for the future"
+          ],
+          "fil": [
+            "Dapat itong maglingkod sa mga Filisteo magpakailanman",
+            "Mawawala ito bago mamatay si David",
+            "Patatatagin niya ang kaharian nito para sa hinaharap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's promise gives David's house an enduring place in his purposes (2 Samuel 7).",
+          "fil": "Binigyan ng pangako ng Diyos ang sambahayan ni David ng matibay na lugar sa kanyang layunin (2 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond to the promise?",
+          "fil": "Paano tumugon si David sa pangako?"
+        },
+        "options": {
+          "en": [
+            "He abandons worship of the Lord",
+            "He prays with gratitude and humility",
+            "He claims he earned everything alone"
+          ],
+          "fil": [
+            "Tinalikuran niya ang pagsamba sa Panginoon",
+            "Nanalangin siya nang may pasasalamat at pagpapakumbaba",
+            "Sinabi niyang mag-isa niyang nakamit ang lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David marvels at God's generosity and asks that the promised blessing be fulfilled (2 Samuel 7).",
+          "fil": "Namangha si David sa kabutihan ng Diyos at hiniling na matupad ang ipinangakong pagpapala (2 Samuel 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What happens to several neighboring nations during David's reign in this chapter?",
+          "fil": "Ano ang nangyari sa ilang kalapit na bansa sa paghahari ni David sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "They appoint Saul as their king",
+            "David defeats them and they come under his rule",
+            "They all capture Jerusalem"
+          ],
+          "fil": [
+            "Ginawa nilang hari si Saul",
+            "Natalo sila ni David at napasailalim sa kanyang pamamahala",
+            "Nasakop nilang lahat ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter recounts David's victories and the widening reach of his kingdom (2 Samuel 8).",
+          "fil": "Isinalaysay ng kabanata ang mga tagumpay ni David at ang paglawak ng kanyang kaharian (2 Samuel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do with silver and gold gained from these nations?",
+          "fil": "Ano ang ginawa ni David sa pilak at gintong nakuha mula sa mga bansang ito?"
+        },
+        "options": {
+          "en": [
+            "He uses them to build an idol of Dagon",
+            "He dedicates them to the Lord",
+            "He throws them all into the Jordan"
+          ],
+          "fil": [
+            "Ginamit niya ang mga ito upang gumawa ng diyus-diyosang Dagon",
+            "Inilaan niya ang mga ito sa Panginoon",
+            "Itinapon niyang lahat ang mga ito sa Jordan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David sets apart the silver and gold for the Lord (2 Samuel 8).",
+          "fil": "Ibinukod ni David ang pilak at ginto para sa Panginoon (2 Samuel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter describe David's rule over his people?",
+          "fil": "Paano inilarawan ng kabanata ang pamamahala ni David sa kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "He leaves all judgments to foreign kings",
+            "He allows no one to bring a case",
+            "He administers justice and righteousness"
+          ],
+          "fil": [
+            "Ipinaubaya niya ang lahat ng paghatol sa mga dayuhang hari",
+            "Hindi niya pinayagang magharap ng usapin ang sinuman",
+            "Namahala siya nang may katarungan at katuwiran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David is described as governing all Israel with justice and righteousness (2 Samuel 8).",
+          "fil": "Inilarawan si David na namamahala sa buong Israel nang may katarungan at katuwiran (2 Samuel 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Why does David seek someone from Saul's family to help?",
+          "fil": "Bakit naghanap si David ng matutulungan mula sa pamilya ni Saul?"
+        },
+        "options": {
+          "en": [
+            "To show kindness for Jonathan's sake",
+            "To sell Saul's family into slavery",
+            "To punish everyone related to Saul"
+          ],
+          "fil": [
+            "Upang magpakita ng kabutihan alang-alang kay Jonatan",
+            "Upang ipagbili bilang alipin ang pamilya ni Saul",
+            "Upang parusahan ang lahat ng kamag-anak ni Saul"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David remembers Jonathan and seeks a surviving family member to treat kindly (2 Samuel 9).",
+          "fil": "Inalala ni David si Jonatan at naghanap ng nabubuhay pang kapamilya upang gawan ng kabutihan (2 Samuel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is brought to David as Jonathan's surviving son?",
+          "fil": "Sino ang dinala kay David bilang nabubuhay pang anak ni Jonatan?"
+        },
+        "options": {
+          "en": [
+            "Absalom",
+            "Mephibosheth",
+            "Samuel"
+          ],
+          "fil": [
+            "Si Absalom",
+            "Si Mefiboset",
+            "Si Samuel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mephibosheth, who has a disability in both feet, is brought before David (2 Samuel 9).",
+          "fil": "Iniharap kay David si Mefiboset na may kapansanan sa dalawang paa (2 Samuel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What place does David give Mephibosheth in his household?",
+          "fil": "Anong lugar sa kanyang sambahayan ang ibinigay ni David kay Mefiboset?"
+        },
+        "options": {
+          "en": [
+            "He must stay outside the city forever",
+            "He is forbidden to speak to the king",
+            "He may eat at the king's table like a son"
+          ],
+          "fil": [
+            "Dapat siyang manatili sa labas ng lunsod magpakailanman",
+            "Bawal siyang makipag-usap sa hari",
+            "Maaari siyang kumain sa hapag ng hari na parang anak nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David restores Saul's land to Mephibosheth and welcomes him at the royal table (2 Samuel 9).",
+          "fil": "Ibinalik ni David kay Mefiboset ang lupain ni Saul at tinanggap siya sa hapag ng hari (2 Samuel 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why does David first send envoys to Hanun?",
+          "fil": "Bakit unang nagpadala si David ng mga sugo kay Hanun?"
+        },
+        "options": {
+          "en": [
+            "To announce the building of Noah's ark",
+            "To steal the Ammonite throne",
+            "To offer sympathy after his father's death"
+          ],
+          "fil": [
+            "Upang ipahayag ang paggawa ng barko ni Noe",
+            "Upang nakawin ang trono ng Ammon",
+            "Upang makiramay sa pagkamatay ng kanyang ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David sends a message of kindness to the new Ammonite ruler (2 Samuel 10).",
+          "fil": "Nagpadala si David ng mensahe ng kabutihan sa bagong pinuno ng Ammon (2 Samuel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Hanun treat David's envoys after listening to his officials?",
+          "fil": "Paano tinrato ni Hanun ang mga sugo ni David matapos makinig sa kanyang mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "He crowns them kings of Ammon",
+            "He gives them every city without a fight",
+            "He humiliates them by shaving and cutting their clothing"
+          ],
+          "fil": [
+            "Kinoronahan niya silang mga hari ng Ammon",
+            "Ibinigay niya sa kanila ang lahat ng lunsod nang walang laban",
+            "Ipinahiya niya sila sa pag-ahit at pagputol ng kanilang damit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hanun treats the envoys as spies and sends them away in disgrace (2 Samuel 10).",
+          "fil": "Itinuring ni Hanun na mga espiya ang mga sugo at pinaalis silang napahiya (2 Samuel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Joab and Abishai arrange to face enemies on two sides?",
+          "fil": "Paano naghanda sina Joab at Abisai laban sa mga kaaway sa dalawang panig?"
+        },
+        "options": {
+          "en": [
+            "They both surrender before the battle",
+            "They divide the forces and agree to help each other",
+            "They leave Israel's army without a leader"
+          ],
+          "fil": [
+            "Pareho silang sumuko bago ang labanan",
+            "Hinati nila ang hukbo at nagkasundong magtulungan",
+            "Iniwan nilang walang pinuno ang hukbo ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joab and Abishai prepare separate forces while promising mutual support (2 Samuel 10).",
+          "fil": "Naghanda sina Joab at Abisai ng magkahiwalay na hukbo na handang magtulungan (2 Samuel 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Where is David while Joab and the army campaign against the Ammonites?",
+          "fil": "Nasaan si David habang nakikipagdigma si Joab at ang hukbo laban sa mga Ammonita?"
+        },
+        "options": {
+          "en": [
+            "In Jerusalem",
+            "In exile in Babylon",
+            "On Mount Sinai with Moses"
+          ],
+          "fil": [
+            "Nasa Jerusalem",
+            "Nasa pagkakatapon sa Babilonia",
+            "Nasa Bundok Sinai kasama si Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David remains in Jerusalem while his army goes out to battle (2 Samuel 11).",
+          "fil": "Nanatili si David sa Jerusalem habang lumabas ang kanyang hukbo upang makipaglaban (2 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David learn about Bathsheba before sending for her?",
+          "fil": "Ano ang nalaman ni David tungkol kay Batsheba bago niya ito ipatawag?"
+        },
+        "options": {
+          "en": [
+            "She is Saul's mother",
+            "She is Uriah's wife",
+            "She is the queen of Egypt"
+          ],
+          "fil": [
+            "Ina siya ni Saul",
+            "Asawa siya ni Urias",
+            "Reyna siya ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David is told that Bathsheba is married to Uriah before he takes her (2 Samuel 11).",
+          "fil": "Sinabihan si David na asawa ni Urias si Batsheba bago niya ito kinuha (2 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Uriah refuse to go home when David calls him back?",
+          "fil": "Bakit tumanggi si Urias na umuwi nang pabalikin siya ni David?"
+        },
+        "options": {
+          "en": [
+            "His fellow soldiers are still living in the field",
+            "His home is inside the Philistine temple",
+            "He has already become king in Hebron"
+          ],
+          "fil": [
+            "Nananatili pa sa labas ang kapwa niya kawal",
+            "Nasa loob ng templo ng mga Filisteo ang kanyang bahay",
+            "Naging hari na siya sa Hebron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uriah will not enjoy home comforts while the ark and the army remain on campaign (2 Samuel 11).",
+          "fil": "Ayaw ni Urias na maginhawa sa bahay habang nasa digmaan ang Kaban at ang hukbo (2 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David's letter to Joab arrange for Uriah?",
+          "fil": "Ano ang ipinagawa ng liham ni David kay Joab tungkol kay Urias?"
+        },
+        "options": {
+          "en": [
+            "Place him in danger so that he will be killed",
+            "Make him commander over David",
+            "Give him a peaceful retirement"
+          ],
+          "fil": [
+            "Ilagay siya sa panganib upang mapatay",
+            "Gawin siyang pinuno ni David",
+            "Bigyan siya ng payapang pagreretiro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David arranges Uriah's death in battle, and the chapter states that his conduct displeases the Lord (2 Samuel 11).",
+          "fil": "Ipinlano ni David ang pagkamatay ni Urias sa labanan, at sinabi ng kabanata na hindi kinalugdan ng Panginoon ang kanyang ginawa (2 Samuel 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What story does Nathan use to confront David?",
+          "fil": "Anong kuwento ang ginamit ni Natan upang harapin si David?"
+        },
+        "options": {
+          "en": [
+            "A sailor builds a new city",
+            "A farmer finds a hidden crown",
+            "A rich man takes a poor man's only lamb"
+          ],
+          "fil": [
+            "Nagtayo ng bagong lunsod ang isang mandaragat",
+            "Nakakita ng nakatagong korona ang isang magsasaka",
+            "Kinuha ng isang mayaman ang nag-iisang kordero ng isang mahirap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nathan's story exposes David's wrongdoing through the rich man's treatment of his poor neighbor (2 Samuel 12).",
+          "fil": "Inilantad ng kuwento ni Natan ang kasalanan ni David sa pamamagitan ng ginawa ng mayaman sa mahirap niyang kapitbahay (2 Samuel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond when Nathan identifies him as the wrongdoer?",
+          "fil": "Paano tumugon si David nang tukuyin siya ni Natan bilang nagkasala?"
+        },
+        "options": {
+          "en": [
+            "He admits that he has sinned against the Lord",
+            "He claims Uriah wrote the story",
+            "He orders Nathan to worship an idol"
+          ],
+          "fil": [
+            "Inamin niyang nagkasala siya sa Panginoon",
+            "Sinabi niyang si Urias ang sumulat ng kuwento",
+            "Inutusan niya si Natan na sumamba sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David confesses his sin when Nathan confronts him directly (2 Samuel 12).",
+          "fil": "Ipinahayag ni David ang kanyang kasalanan nang tuwirang harapin siya ni Natan (2 Samuel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do while his child is gravely ill?",
+          "fil": "Ano ang ginawa ni David habang malubha ang sakit ng kanyang anak?"
+        },
+        "options": {
+          "en": [
+            "He fasts and pleads with God for the child",
+            "He celebrates a military victory all night",
+            "He leaves to serve the Philistines"
+          ],
+          "fil": [
+            "Nag-ayuno siya at nakiusap sa Diyos para sa bata",
+            "Magdamag siyang nagdiwang ng tagumpay sa digmaan",
+            "Umalis siya upang maglingkod sa mga Filisteo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David seeks God's mercy through prayer and fasting while the child lives (2 Samuel 12).",
+          "fil": "Humingi si David ng awa ng Diyos sa panalangin at pag-aayuno habang buhay pa ang bata (2 Samuel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name is given to the son later born to David and Bathsheba?",
+          "fil": "Anong pangalan ang ibinigay sa anak na isinilang kalaunan kina David at Batsheba?"
+        },
+        "options": {
+          "en": [
+            "Solomon",
+            "Abner",
+            "Ish-bosheth"
+          ],
+          "fil": [
+            "Solomon",
+            "Abner",
+            "Is-boset"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Bathsheba later gives birth to Solomon, whom the Lord loves (2 Samuel 12).",
+          "fil": "Isinilang kalaunan ni Batsheba si Solomon na minahal ng Panginoon (2 Samuel 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What wrong does Amnon commit against Tamar?",
+          "fil": "Anong kasalanan ang ginawa ni Amnon kay Tamar?"
+        },
+        "options": {
+          "en": [
+            "He gives her his own inheritance",
+            "He refuses to let her join a military campaign",
+            "He harms her despite her pleas to stop"
+          ],
+          "fil": [
+            "Ibinigay niya rito ang sarili niyang mana",
+            "Hindi niya ito pinayagang sumama sa digmaan",
+            "Sinaktan niya siya sa kabila ng pakiusap nitong tumigil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Amnon abuses Tamar and rejects her pleas, causing her great distress (2 Samuel 13).",
+          "fil": "Inabuso ni Amnon si Tamar at binale-wala ang pakiusap nito, na nagdulot ng matinding pagdurusa (2 Samuel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Absalom arrange at his sheep-shearing gathering?",
+          "fil": "Ano ang ipinagawa ni Absalom sa pagtitipon para sa paggugupit ng mga tupa?"
+        },
+        "options": {
+          "en": [
+            "The killing of Amnon",
+            "The rebuilding of Jericho",
+            "The return of the ark to Shiloh"
+          ],
+          "fil": [
+            "Ang pagpatay kay Amnon",
+            "Ang muling pagtatayo ng Jerico",
+            "Ang pagbabalik ng Kaban sa Shilo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Absalom orders his servants to kill Amnon in revenge for Tamar (2 Samuel 13).",
+          "fil": "Iniutos ni Absalom sa kanyang mga lingkod na patayin si Amnon bilang paghihiganti para kay Tamar (2 Samuel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Absalom flee after Amnon is killed?",
+          "fil": "Saan tumakas si Absalom matapos mapatay si Amnon?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Egypt",
+            "Geshur"
+          ],
+          "fil": [
+            "Nineve",
+            "Egipto",
+            "Gesur"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom escapes to Geshur while David mourns his son (2 Samuel 13).",
+          "fil": "Tumakas si Absalom patungong Gesur habang ipinagluluksa ni David ang kanyang anak (2 Samuel 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Who arranges for a wise woman to speak to David about a family dispute?",
+          "fil": "Sino ang nagpasugo ng matalinong babae upang kausapin si David tungkol sa alitan ng pamilya?"
+        },
+        "options": {
+          "en": [
+            "Goliath",
+            "Joab",
+            "Eli"
+          ],
+          "fil": [
+            "Si Goliat",
+            "Si Joab",
+            "Si Eli"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joab coaches a woman from Tekoa to appeal to David through a story (2 Samuel 14).",
+          "fil": "Tinuruan ni Joab ang isang babae mula sa Tekoa na makiusap kay David sa pamamagitan ng kuwento (2 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the woman's appeal help persuade David to permit?",
+          "fil": "Ano ang nakumbinsi ng pakiusap ng babae na payagan ni David?"
+        },
+        "options": {
+          "en": [
+            "Saul's return to the throne",
+            "The burning of Jerusalem",
+            "Absalom's return from exile"
+          ],
+          "fil": [
+            "Ang pagbabalik ni Saul sa trono",
+            "Ang pagsunog sa Jerusalem",
+            "Ang pagbabalik ni Absalom mula sa pagkatapon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David authorizes Joab to bring Absalom back from Geshur (2 Samuel 14).",
+          "fil": "Pinayagan ni David si Joab na ibalik si Absalom mula sa Gesur (2 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What restriction does David place on Absalom when he first returns?",
+          "fil": "Anong pagbabawal ang inilagay ni David kay Absalom nang una itong bumalik?"
+        },
+        "options": {
+          "en": [
+            "He must become a Philistine soldier",
+            "He may not live anywhere in Jerusalem",
+            "He may not see the king"
+          ],
+          "fil": [
+            "Dapat siyang maging kawal ng mga Filisteo",
+            "Hindi siya maaaring manirahan saanman sa Jerusalem",
+            "Hindi siya maaaring humarap sa hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom returns to his own house but is initially kept from David's presence (2 Samuel 14).",
+          "fil": "Bumalik si Absalom sa kanyang bahay ngunit sa simula ay hindi pinayagang humarap kay David (2 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Absalom force Joab to respond after Joab ignores his requests?",
+          "fil": "Paano pinilit ni Absalom na tumugon si Joab nang hindi nito pinansin ang kanyang mga pakiusap?"
+        },
+        "options": {
+          "en": [
+            "He hides Joab's house under water",
+            "He gives Joab the throne of Egypt",
+            "He has Joab's barley field set on fire"
+          ],
+          "fil": [
+            "Itinago niya sa ilalim ng tubig ang bahay ni Joab",
+            "Ibinigay niya kay Joab ang trono ng Egipto",
+            "Ipinasunog niya ang bukid ng sebada ni Joab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom orders Joab's field burned to get his attention and obtain an audience with David (2 Samuel 14).",
+          "fil": "Ipinasunog ni Absalom ang bukid ni Joab upang mapansin siya at maiharap kay David (2 Samuel 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How does Absalom gain the favor of people bringing cases to the king?",
+          "fil": "Paano nakuha ni Absalom ang loob ng mga taong may usaping ihaharap sa hari?"
+        },
+        "options": {
+          "en": [
+            "He refuses to speak to anyone",
+            "He sends them all to prison",
+            "He flatters them and promises better justice"
+          ],
+          "fil": [
+            "Tumanggi siyang makipag-usap sa sinuman",
+            "Ipinabilanggo niya silang lahat",
+            "Pinuri niya sila at nangako ng mas mabuting paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom wins people's loyalty by presenting himself as a more attentive judge (2 Samuel 15).",
+          "fil": "Nakuha ni Absalom ang katapatan ng mga tao sa pagpapakilalang mas maasikaso siyang hukom (2 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Absalom go as he launches his claim to be king?",
+          "fil": "Saan nagtungo si Absalom nang simulan niya ang pag-angkin sa pagkahari?"
+        },
+        "options": {
+          "en": [
+            "Jericho",
+            "Shiloh",
+            "Hebron"
+          ],
+          "fil": [
+            "Jerico",
+            "Shilo",
+            "Hebron"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom uses a request to fulfill a vow at Hebron as cover for his rebellion (2 Samuel 15).",
+          "fil": "Ginamit ni Absalom na dahilan ang pagtupad ng panata sa Hebron para sa kanyang paghihimagsik (2 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David leave Jerusalem when he hears about Absalom's support?",
+          "fil": "Bakit umalis si David sa Jerusalem nang mabalitaan ang mga tagasuporta ni Absalom?"
+        },
+        "options": {
+          "en": [
+            "To conquer Egypt with no army",
+            "To escape the attack and spare the city",
+            "To make Absalom a priest at Shiloh"
+          ],
+          "fil": [
+            "Upang sakupin ang Egipto nang walang hukbo",
+            "Upang makatakas sa pagsalakay at mailigtas ang lunsod",
+            "Upang gawing pari si Absalom sa Shilo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David orders a departure so that Absalom will not overtake them and bring disaster on Jerusalem (2 Samuel 15).",
+          "fil": "Iniutos ni David ang pag-alis upang hindi sila abutan ni Absalom at mapahamak ang Jerusalem (2 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David ask Hushai to do instead of accompanying him?",
+          "fil": "Ano ang ipinagawa ni David kay Cusai sa halip na samahan siya?"
+        },
+        "options": {
+          "en": [
+            "Lead the Philistines against Judah",
+            "Return and counter Ahithophel's advice",
+            "Carry the ark to Egypt"
+          ],
+          "fil": [
+            "Pangunahan ang mga Filisteo laban sa Juda",
+            "Bumalik at salungatin ang payo ni Ahitofel",
+            "Dalhin ang Kaban sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David sends Hushai back to Jerusalem to frustrate Ahithophel's counsel (2 Samuel 15).",
+          "fil": "Pinabalik ni David si Cusai sa Jerusalem upang biguin ang payo ni Ahitofel (2 Samuel 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "How does Shimei treat David as the king passes by?",
+          "fil": "Paano tinrato ni Simei si David habang dumaraan ang hari?"
+        },
+        "options": {
+          "en": [
+            "He curses him and throws stones",
+            "He welcomes him with a crown",
+            "He appoints him ruler of Egypt"
+          ],
+          "fil": [
+            "Sinumpa niya ito at pinagbabato",
+            "Sinalubong niya ito na may korona",
+            "Ginawa niya itong pinuno ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Shimei, a relative of Saul, insults David during his flight (2 Samuel 16).",
+          "fil": "Ininsulto ni Simei na kamag-anak ni Saul si David habang tumatakas ito (2 Samuel 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Abishai want to do to Shimei?",
+          "fil": "Ano ang nais gawin ni Abisai kay Simei?"
+        },
+        "options": {
+          "en": [
+            "Kill him for cursing the king",
+            "Make him David's chief adviser",
+            "Send him to build Noah's ark"
+          ],
+          "fil": [
+            "Patayin siya dahil sa pagsumpa sa hari",
+            "Gawin siyang pangunahing tagapayo ni David",
+            "Ipadala siya upang gawin ang barko ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abishai offers to kill Shimei because of his insults against David (2 Samuel 16).",
+          "fil": "Nais ni Abisai na patayin si Simei dahil sa mga insulto nito kay David (2 Samuel 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond to Abishai's offer?",
+          "fil": "Paano tumugon si David sa alok ni Abisai?"
+        },
+        "options": {
+          "en": [
+            "He orders all Shimei's relatives killed",
+            "He refuses and leaves the matter with the Lord",
+            "He gives Abishai the crown as payment"
+          ],
+          "fil": [
+            "Ipinapatay niya ang lahat ng kamag-anak ni Simei",
+            "Tumanggi siya at ipinaubaya ang usapin sa Panginoon",
+            "Ibinigay niya kay Abisai ang korona bilang bayad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David restrains Abishai and hopes the Lord will see his suffering (2 Samuel 16).",
+          "fil": "Pinigilan ni David si Abisai at umasa na makikita ng Panginoon ang kanyang paghihirap (2 Samuel 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What plan does Ahithophel advise for catching David?",
+          "fil": "Anong plano ang ipinayo ni Ahitofel upang mahuli si David?"
+        },
+        "options": {
+          "en": [
+            "Send David a royal welcome first",
+            "Wait until David rebuilds Jerusalem",
+            "Attack quickly while David is weary"
+          ],
+          "fil": [
+            "Padalhan muna si David ng maharlikang pagsalubong",
+            "Maghintay hanggang maitayo muli ni David ang Jerusalem",
+            "Sumalakay agad habang pagod si David"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ahithophel proposes an immediate pursuit intended to strike David before he recovers (2 Samuel 17).",
+          "fil": "Iminungkahi ni Ahitofel ang agarang paghabol upang salakayin si David bago ito makabawi (2 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What different approach does Hushai recommend?",
+          "fil": "Anong ibang paraan ang iminungkahi ni Cusai?"
+        },
+        "options": {
+          "en": [
+            "Gather a much larger force with Absalom leading it",
+            "Let David choose Absalom's army",
+            "Surrender the kingdom to the Philistines"
+          ],
+          "fil": [
+            "Magtipon ng mas malaking hukbo na pangungunahan ni Absalom",
+            "Hayaang si David ang pumili ng hukbo ni Absalom",
+            "Isuko ang kaharian sa mga Filisteo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hushai's advice delays the attack by calling for a broad gathering of Israel (2 Samuel 17).",
+          "fil": "Ipinagpaliban ng payo ni Cusai ang pagsalakay sa paghiling ng malawakang pagtitipon ng Israel (2 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose advice does Absalom choose?",
+          "fil": "Kaninong payo ang pinili ni Absalom?"
+        },
+        "options": {
+          "en": [
+            "Ahithophel's",
+            "Hushai's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Kay Ahitofel",
+            "Kay Cusai",
+            "Kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Absalom and Israel's leaders prefer Hushai's plan to Ahithophel's (2 Samuel 17).",
+          "fil": "Pinili ni Absalom at ng mga pinuno ng Israel ang plano ni Cusai kaysa kay Ahitofel (2 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do after receiving the warning sent through the priests' sons?",
+          "fil": "Ano ang ginawa ni David matapos matanggap ang babalang ipinadala sa mga anak ng mga pari?"
+        },
+        "options": {
+          "en": [
+            "He and his people cross the Jordan that night",
+            "He sends everyone back to Saul",
+            "He waits alone in Absalom's palace"
+          ],
+          "fil": [
+            "Tumawid siya at ang kanyang mga kasama sa Jordan nang gabing iyon",
+            "Pinabalik niya ang lahat kay Saul",
+            "Mag-isa siyang naghintay sa palasyo ni Absalom"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning reaches David in time for his whole company to cross the Jordan (2 Samuel 17).",
+          "fil": "Nakarating ang babala kay David upang makatawid sa Jordan ang lahat ng kanyang kasama (2 Samuel 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What instruction does David give his commanders about Absalom?",
+          "fil": "Anong tagubilin ang ibinigay ni David sa mga pinuno tungkol kay Absalom?"
+        },
+        "options": {
+          "en": [
+            "Treat him gently for David's sake",
+            "Leave the army and follow him",
+            "Crown him before the battle"
+          ],
+          "fil": [
+            "Pakitunguhan siya nang mahinahon alang-alang kay David",
+            "Iwan ang hukbo at sumunod sa kanya",
+            "Koronahan siya bago ang labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David asks his commanders to deal gently with his son despite the rebellion (2 Samuel 18).",
+          "fil": "Hiniling ni David na maging mahinahon ang mga pinuno sa kanyang anak sa kabila ng paghihimagsik (2 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What leaves Absalom helpless while his mule goes on?",
+          "fil": "Ano ang nag-iwan kay Absalom na walang magawa habang nagpatuloy ang kanyang mola?"
+        },
+        "options": {
+          "en": [
+            "He is carried away in a boat",
+            "He is trapped inside a city gate",
+            "He is caught in a tree"
+          ],
+          "fil": [
+            "Tinangay siya ng isang bangka",
+            "Nakulong siya sa loob ng pintuan ng lunsod",
+            "Nasabit siya sa isang puno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Absalom becomes caught in the branches and is left hanging as his mule moves away (2 Samuel 18).",
+          "fil": "Nasabit si Absalom sa mga sanga at naiwan siyang nakabitin nang lumayo ang kanyang mola (2 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joab act when he finds Absalom caught there?",
+          "fil": "Ano ang ginawa ni Joab nang matagpuan si Absalom na nakasabit doon?"
+        },
+        "options": {
+          "en": [
+            "He makes him commander of Judah",
+            "He attacks him despite David's instruction",
+            "He escorts him safely to David"
+          ],
+          "fil": [
+            "Ginawa niya itong pinuno ng Juda",
+            "Sinalakay niya ito sa kabila ng tagubilin ni David",
+            "Ligtas niya itong inihatid kay David"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joab strikes Absalom, and his armor-bearers finish killing him (2 Samuel 18).",
+          "fil": "Sinaktan ni Joab si Absalom at tuluyang pinatay ito ng kanyang mga tagapagdala ng sandata (2 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David receive the news that Absalom is dead?",
+          "fil": "Paano tinanggap ni David ang balitang patay na si Absalom?"
+        },
+        "options": {
+          "en": [
+            "With laughter and a feast",
+            "With a command to forget his name",
+            "With intense grief for his son"
+          ],
+          "fil": [
+            "Nang may halakhak at piging",
+            "Nang may utos na limutin ang kanyang pangalan",
+            "Nang may matinding dalamhati para sa kanyang anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David's sorrow for Absalom overwhelms his relief at the military victory (2 Samuel 18).",
+          "fil": "Nadaig ng lungkot ni David para kay Absalom ang ginhawa mula sa tagumpay ng hukbo (2 Samuel 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Why does Joab urge David to appear before his soldiers?",
+          "fil": "Bakit hinimok ni Joab si David na humarap sa kanyang mga kawal?"
+        },
+        "options": {
+          "en": [
+            "The soldiers want David to surrender to Absalom",
+            "No one knows who won the battle",
+            "His mourning has left the victorious troops feeling ashamed"
+          ],
+          "fil": [
+            "Gusto ng mga kawal na sumuko si David kay Absalom",
+            "Walang nakakaalam kung sino ang nanalo",
+            "Dahil sa kanyang pagdadalamhati ay napahiya ang nagtagumpay na hukbo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joab warns David to encourage the men who risked their lives for him (2 Samuel 19).",
+          "fil": "Binalaan ni Joab si David na palakasin ang loob ng mga lalaking nagtaya ng buhay para sa kanya (2 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Shimei ask David as the king returns?",
+          "fil": "Ano ang hiniling ni Simei kay David sa pagbabalik ng hari?"
+        },
+        "options": {
+          "en": [
+            "Permission to burn the ark",
+            "A new throne in Egypt",
+            "Forgiveness for his earlier insults"
+          ],
+          "fil": [
+            "Pahintulot na sunugin ang Kaban",
+            "Bagong trono sa Egipto",
+            "Kapatawaran sa dati niyang mga insulto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Shimei admits his wrongdoing and pleads that David not hold it against him (2 Samuel 19).",
+          "fil": "Inamin ni Simei ang kanyang kasalanan at nakiusap kay David na huwag siyang panagutin dito (2 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What explanation does Mephibosheth give for not leaving with David?",
+          "fil": "Anong paliwanag ang ibinigay ni Mefiboset sa hindi niya pagsama kay David?"
+        },
+        "options": {
+          "en": [
+            "He had become the Philistine king",
+            "His servant deceived him and slandered him",
+            "David ordered him to join Absalom"
+          ],
+          "fil": [
+            "Naging hari siya ng mga Filisteo",
+            "Nilinlang siya at siniraan ng kanyang lingkod",
+            "Inutusan siya ni David na sumama kay Absalom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mephibosheth tells David that Ziba betrayed him and misrepresented his loyalty (2 Samuel 19).",
+          "fil": "Sinabi ni Mefiboset kay David na nagtaksil si Ziba at siniraan ang kanyang katapatan (2 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the elderly Barzillai decline David's invitation to live at court?",
+          "fil": "Bakit tumanggi ang matandang si Barzilai sa paanyaya ni David na tumira sa palasyo?"
+        },
+        "options": {
+          "en": [
+            "He plans to lead a new rebellion",
+            "He is waiting to be crowned in Jerusalem",
+            "He prefers to return home in his old age"
+          ],
+          "fil": [
+            "Balak niyang manguna sa bagong paghihimagsik",
+            "Naghihintay siyang koronahan sa Jerusalem",
+            "Mas gusto niyang umuwi dahil matanda na siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Barzillai thanks David but chooses home rather than the privileges of the royal court (2 Samuel 19).",
+          "fil": "Nagpasalamat si Barzilai kay David ngunit pinili ang tahanan kaysa sa mga pribilehiyo sa palasyo (2 Samuel 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Who calls on Israel to break away from David?",
+          "fil": "Sino ang nanawagan sa Israel na humiwalay kay David?"
+        },
+        "options": {
+          "en": [
+            "Nathan the prophet",
+            "Sheba son of Bichri",
+            "Hiram of Tyre"
+          ],
+          "fil": [
+            "Ang propetang si Natan",
+            "Si Seba na anak ni Bicri",
+            "Si Hiram ng Tiro"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Sheba leads a new revolt while Judah remains with David (2 Samuel 20).",
+          "fil": "Pinangunahan ni Seba ang bagong paghihimagsik habang nanatili ang Juda kay David (2 Samuel 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where do Joab's forces besiege Sheba?",
+          "fil": "Saan kinubkob ng mga hukbo ni Joab si Seba?"
+        },
+        "options": {
+          "en": [
+            "Abel Beth Maacah",
+            "Bethlehem",
+            "Shiloh"
+          ],
+          "fil": [
+            "Sa Abel Bet Maaca",
+            "Sa Bethlehem",
+            "Sa Shilo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Sheba takes refuge in Abel Beth Maacah, and Joab's army attacks its defenses (2 Samuel 20).",
+          "fil": "Nagtago si Seba sa Abel Bet Maaca at sinalakay ng hukbo ni Joab ang mga pananggalang nito (2 Samuel 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does a wise woman help save the besieged city?",
+          "fil": "Paano nakatulong ang isang matalinong babae na iligtas ang kinubkob na lunsod?"
+        },
+        "options": {
+          "en": [
+            "She persuades everyone to burn their homes",
+            "She sends the ark to the Philistines",
+            "She negotiates with Joab and persuades the city to hand over Sheba's head"
+          ],
+          "fil": [
+            "Hinikayat niya ang lahat na sunugin ang kanilang tahanan",
+            "Ipinadala niya ang Kaban sa mga Filisteo",
+            "Nakipag-usap siya kay Joab at hinikayat ang lunsod na ibigay ang ulo ni Seba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The woman arranges an end to Sheba's revolt so Joab withdraws without destroying the city (2 Samuel 20).",
+          "fil": "Isinaayos ng babae ang pagtatapos ng paghihimagsik ni Seba kaya umatras si Joab nang hindi winawasak ang lunsod (2 Samuel 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What past wrongdoing is linked to the famine when David seeks the Lord?",
+          "fil": "Anong dating kasalanan ang iniugnay sa taggutom nang sumangguni si David sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Noah's planting of a vineyard",
+            "Saul's attack on the Gibeonites",
+            "Solomon's building of the temple"
+          ],
+          "fil": [
+            "Ang pagtatanim ni Noe ng ubasan",
+            "Ang pag-atake ni Saul sa mga Gibeonita",
+            "Ang pagtatayo ni Solomon ng templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord connects the famine with Saul's bloodshed against the Gibeonites (2 Samuel 21).",
+          "fil": "Iniugnay ng Panginoon ang taggutom sa pagdanak ni Saul ng dugo ng mga Gibeonita (2 Samuel 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Jonathan's son Mephibosheth spared when members of Saul's family are handed over?",
+          "fil": "Bakit hindi isinama si Mefiboset na anak ni Jonatan nang ibigay ang mga kabilang sa pamilya ni Saul?"
+        },
+        "options": {
+          "en": [
+            "The Gibeonites have never heard of Saul",
+            "David remembers his oath to Jonathan",
+            "Mephibosheth is king of Egypt"
+          ],
+          "fil": [
+            "Hindi pa narinig ng mga Gibeonita ang tungkol kay Saul",
+            "Inalala ni David ang kanyang panunumpa kay Jonatan",
+            "Hari ng Egipto si Mefiboset"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David protects Jonathan's son because of the oath between them before the Lord (2 Samuel 21).",
+          "fil": "Pinangalagaan ni David ang anak ni Jonatan dahil sa kanilang panunumpa sa harap ng Panginoon (2 Samuel 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Rizpah do for the bodies left exposed after the executions?",
+          "fil": "Ano ang ginawa ni Rizpa para sa mga bangkay na naiwang nakahantad matapos ang pagbitay?"
+        },
+        "options": {
+          "en": [
+            "She hides them in the royal treasury",
+            "She keeps birds and wild animals away",
+            "She sends them down the river"
+          ],
+          "fil": [
+            "Itinago niya ang mga ito sa kabang-yaman ng hari",
+            "Itinaboy niya ang mga ibon at mababangis na hayop",
+            "Ipinaanod niya ang mga ito sa ilog"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rizpah faithfully guards the bodies until David learns of her vigil (2 Samuel 21).",
+          "fil": "Matiyagang binantayan ni Rizpa ang mga bangkay hanggang mabalitaan ni David ang kanyang pagbabantay (2 Samuel 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What is the main purpose of David's song in this chapter?",
+          "fil": "Ano ang pangunahing layunin ng awit ni David sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "To praise Saul for building the temple",
+            "To invite Israel to worship Dagon",
+            "To praise the Lord for rescuing him"
+          ],
+          "fil": [
+            "Purihin si Saul sa pagtatayo ng templo",
+            "Anyayahan ang Israel na sumamba kay Dagon",
+            "Purihin ang Panginoon sa pagliligtas sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David sings to the Lord in gratitude for deliverance from his enemies (2 Samuel 22).",
+          "fil": "Umawit si David sa Panginoon bilang pasasalamat sa pagliligtas mula sa kanyang mga kaaway (2 Samuel 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the song picture the Lord's protection?",
+          "fil": "Paano inilalarawan ng awit ang pag-iingat ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "As a powerless statue carried by people",
+            "As an enemy who enjoys David's danger",
+            "As a rock, fortress, and place of refuge"
+          ],
+          "fil": [
+            "Bilang rebultong walang kapangyarihan na binubuhat ng mga tao",
+            "Bilang kaaway na natutuwa sa panganib ni David",
+            "Bilang bato, kuta, at kanlungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David uses pictures of strength and shelter to describe God's protection (2 Samuel 22).",
+          "fil": "Gumamit si David ng mga larawan ng lakas at kanlungan upang ilarawan ang pag-iingat ng Diyos (2 Samuel 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does David credit for strength and victory in battle?",
+          "fil": "Kanino ibinigay ni David ang papuri para sa lakas at tagumpay sa labanan?"
+        },
+        "options": {
+          "en": [
+            "His own power without any help",
+            "The idols of the Philistines",
+            "The Lord who equips and supports him"
+          ],
+          "fil": [
+            "Sa sarili niyang lakas na walang anumang tulong",
+            "Sa mga diyus-diyosan ng mga Filisteo",
+            "Sa Panginoong naghahanda at umaalalay sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David acknowledges that God trains, strengthens, and sustains him (2 Samuel 22).",
+          "fil": "Kinilala ni David na ang Diyos ang nagsasanay, nagpapalakas, at umaalalay sa kanya (2 Samuel 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What does David say is at work in his final words?",
+          "fil": "Ano ang sinabi ni David na kumikilos sa kanyang mga huling salita?"
+        },
+        "options": {
+          "en": [
+            "Dagon gives him a new law",
+            "Pharaoh dictates his message",
+            "The Spirit of the Lord speaks through him"
+          ],
+          "fil": [
+            "Binibigyan siya ni Dagon ng bagong kautusan",
+            "Idinidikta ni Faraon ang kanyang mensahe",
+            "Nagsasalita sa pamamagitan niya ang Espiritu ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David presents his words as spoken through the Spirit of the Lord (2 Samuel 23).",
+          "fil": "Iniharap ni David ang kanyang mga salita bilang mula sa Espiritu ng Panginoon (2 Samuel 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of ruler is praised in David's final words?",
+          "fil": "Anong uri ng pinuno ang pinuri sa mga huling salita ni David?"
+        },
+        "options": {
+          "en": [
+            "One who rules justly with reverence for God",
+            "One who refuses every wise adviser",
+            "One who rules by cheating the poor"
+          ],
+          "fil": [
+            "Pinunong makatarungan at may paggalang sa Diyos",
+            "Pinunong tumatanggi sa lahat ng matalinong tagapayo",
+            "Pinunong namamahala sa pamamagitan ng pandaraya sa mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David describes righteous rule under God as a blessing like morning light (2 Samuel 23).",
+          "fil": "Inilarawan ni David ang matuwid na pamamahala sa ilalim ng Diyos bilang pagpapalang tulad ng liwanag ng umaga (2 Samuel 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gives David confidence about his household's future?",
+          "fil": "Ano ang nagbigay kay David ng tiwala tungkol sa kinabukasan ng kanyang sambahayan?"
+        },
+        "options": {
+          "en": [
+            "A promise from the Philistine kings",
+            "A secret treaty with Pharaoh",
+            "God's enduring covenant with him"
+          ],
+          "fil": [
+            "Isang pangako ng mga hari ng mga Filisteo",
+            "Isang lihim na kasunduan kay Faraon",
+            "Ang matatag na tipan ng Diyos sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David places his hope in God's lasting and secure covenant (2 Samuel 23).",
+          "fil": "Inilagak ni David ang kanyang pag-asa sa matatag at tiyak na tipan ng Diyos (2 Samuel 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What order does David give Joab that leads to trouble?",
+          "fil": "Anong utos ni David kay Joab ang humantong sa kapahamakan?"
+        },
+        "options": {
+          "en": [
+            "Count the fighting men of Israel and Judah",
+            "Bring the ark back from the Philistines",
+            "Build a temple for Dagon"
+          ],
+          "fil": [
+            "Bilangin ang mga mandirigma ng Israel at Juda",
+            "Ibalik ang Kaban mula sa mga Filisteo",
+            "Magtayo ng templo para kay Dagon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David insists on a military census despite Joab's objections (2 Samuel 24).",
+          "fil": "Ipinilit ni David ang pagbibilang ng mga mandirigma sa kabila ng pagtutol ni Joab (2 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond after the census is completed?",
+          "fil": "Paano tumugon si David matapos ang pagbibilang?"
+        },
+        "options": {
+          "en": [
+            "He blames the people for ordering it",
+            "He admits his sin and asks the Lord's forgiveness",
+            "He declares himself greater than God"
+          ],
+          "fil": [
+            "Sinisi niya ang mga tao sa pag-uutos nito",
+            "Inamin niya ang kanyang kasalanan at humingi ng tawad sa Panginoon",
+            "Ipinahayag niyang mas dakila siya sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David's conscience troubles him and he confesses that he acted foolishly (2 Samuel 24).",
+          "fil": "Nabagabag ang budhi ni David at inamin niyang kumilos siya nang may kamangmangan (2 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David prefer to fall into the Lord's hands when Gad presents the choices?",
+          "fil": "Bakit pinili ni David na mahulog sa kamay ng Panginoon nang iharap ni Gad ang mga pagpipilian?"
+        },
+        "options": {
+          "en": [
+            "He trusts the Lord's great mercy",
+            "He thinks no consequence can follow",
+            "He wants to serve the Philistines"
+          ],
+          "fil": [
+            "Nagtitiwala siya sa dakilang awa ng Panginoon",
+            "Iniisip niyang walang anumang magiging bunga",
+            "Nais niyang maglingkod sa mga Filisteo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David appeals to God's mercy rather than placing himself at the mercy of human enemies (2 Samuel 24).",
+          "fil": "Umasa si David sa awa ng Diyos sa halip na sa awa ng mga taong kaaway (2 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David insist on paying for Araunah's threshing floor and offerings?",
+          "fil": "Bakit iginiit ni David na bayaran ang giikan at mga handog ni Arauna?"
+        },
+        "options": {
+          "en": [
+            "He wants to sell the land to Egypt",
+            "Araunah refuses to let him worship at all",
+            "He will not offer the Lord something that costs him nothing"
+          ],
+          "fil": [
+            "Nais niyang ipagbili ang lupa sa Egipto",
+            "Lubusang ipinagbawal ni Arauna ang kanyang pagsamba",
+            "Ayaw niyang maghandog sa Panginoon nang walang anumang halaga sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David purchases the site and offerings before building an altar to the Lord (2 Samuel 24).",
+          "fil": "Binili ni David ang lugar at mga handog bago nagtayo ng altar para sa Panginoon (2 Samuel 24)."
+        }
+      }
+    ]
+  }
+}
