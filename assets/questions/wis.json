@@ -1,0 +1,1353 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What attitude toward God does the opening appeal encourage?",
+          "fil": "Anong saloobin sa Diyos ang hinihikayat ng pambungad na panawagan?"
+        },
+        "options": {
+          "en": [
+            "Testing him with deceitful intentions",
+            "Seeking power through injustice",
+            "Sincere trust and love of righteousness"
+          ],
+          "fil": [
+            "Pagsubok sa kanya nang may mapanlinlang na layunin",
+            "Paghahanap ng kapangyarihan sa kawalang-katarungan",
+            "Tapat na pagtitiwala at pagmamahal sa katuwiran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter calls people to seek God honestly and value righteous living (Wisdom 1).",
+          "fil": "Tinatawag ng kabanata ang mga tao na tapat na hanapin ang Diyos at pahalagahan ang matuwid na pamumuhay (Karunungan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What prevents wisdom from dwelling in a person?",
+          "fil": "Ano ang humahadlang sa pananahan ng karunungan sa tao?"
+        },
+        "options": {
+          "en": [
+            "A heart committed to deceit and sin",
+            "A willingness to learn humbly",
+            "A lack of wealth or rank"
+          ],
+          "fil": [
+            "Pusong nakatuon sa panlilinlang at kasalanan",
+            "Kahandaang matuto nang may pagpapakumbaba",
+            "Kakulangan ng yaman o katayuan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom is incompatible with deliberate evil and a deceitful heart (Wisdom 1).",
+          "fil": "Hindi kaayon ng karunungan ang sadyang kasamaan at mapanlinlang na puso (Karunungan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should people avoid slander and dishonest speech?",
+          "fil": "Bakit dapat iwasan ang paninirang-puri at di-tapat na pananalita?"
+        },
+        "options": {
+          "en": [
+            "Only public speeches matter to God",
+            "Harmful words never have consequences",
+            "God hears even hidden words and knows the heart"
+          ],
+          "fil": [
+            "Mga talumpati lamang sa publiko ang mahalaga sa Diyos",
+            "Walang bunga ang mapaminsalang mga salita",
+            "Naririnig ng Diyos maging ang lihim na salita at alam niya ang puso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning about speech rests on God's knowledge of both words and inner motives (Wisdom 1).",
+          "fil": "Nakasalig ang babala sa pananalita sa kaalaman ng Diyos sa mga salita at panloob na layunin (Karunungan 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What mistaken outlook leads the ungodly to selfish indulgence?",
+          "fil": "Anong maling pananaw ang nagtulak sa masasama sa makasariling pagpapakasasa?"
+        },
+        "options": {
+          "en": [
+            "They think life ends without lasting hope",
+            "They believe the weak deserve protection",
+            "They trust God's promise of justice"
+          ],
+          "fil": [
+            "Iniisip nilang nagtatapos ang buhay nang walang nananatiling pag-asa",
+            "Naniniwala silang dapat protektahan ang mahihina",
+            "Nagtitiwala sila sa pangako ng Diyos ng katarungan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The ungodly use their hopeless view of life to justify selfish pleasure and oppression (Wisdom 2).",
+          "fil": "Ginamit ng masasama ang kanilang walang-pag-asang pananaw sa buhay upang bigyang-dahilan ang makasariling kasiyahan at pang-aapi (Karunungan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the ungodly resent the righteous person?",
+          "fil": "Bakit kinainisan ng masasama ang taong matuwid?"
+        },
+        "options": {
+          "en": [
+            "His way of life exposes their wrongdoing",
+            "He asks them to abandon justice",
+            "He teaches them to steal more"
+          ],
+          "fil": [
+            "Inilalantad ng kanyang pamumuhay ang kanilang kasamaan",
+            "Hinihiling niyang talikuran nila ang katarungan",
+            "Tinuturuan niya silang lalo pang magnakaw"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The righteous person's conduct challenges the corrupt lives of his opponents (Wisdom 2).",
+          "fil": "Hinahamon ng asal ng taong matuwid ang tiwaling pamumuhay ng kanyang mga kalaban (Karunungan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What error appears in the ungodly treatment of vulnerable people?",
+          "fil": "Anong kamalian ang makikita sa pagtrato ng masasama sa mga walang kalaban-laban?"
+        },
+        "options": {
+          "en": [
+            "They share generously with the righteous poor",
+            "They patiently defend widows and the elderly",
+            "They treat strength as permission to oppress"
+          ],
+          "fil": [
+            "Bukas-palad silang nagbabahagi sa matuwid na mahihirap",
+            "Matiyaga nilang ipinagtatanggol ang mga biyuda at matatanda",
+            "Itinuturing nilang pahintulot sa pang-aapi ang lakas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ungodly reject justice by using power against those who cannot defend themselves (Wisdom 2).",
+          "fil": "Tinanggihan ng masasama ang katarungan sa paggamit ng kapangyarihan laban sa mga hindi makapagtanggol sa sarili (Karunungan 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How does the chapter view the death of the righteous?",
+          "fil": "Paano tinitingnan ng kabanata ang pagkamatay ng mga matuwid?"
+        },
+        "options": {
+          "en": [
+            "God has forgotten them entirely",
+            "They remain in God's care and peace",
+            "Their faithfulness has become worthless"
+          ],
+          "fil": [
+            "Lubusan na silang nakalimutan ng Diyos",
+            "Nananatili sila sa pangangalaga at kapayapaan ng Diyos",
+            "Nawalan ng halaga ang kanilang katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "What looks like ruin to others is not the loss of the righteous from God's care (Wisdom 3).",
+          "fil": "Ang tila pagkawasak sa tingin ng iba ay hindi pagkawala ng mga matuwid sa pangangalaga ng Diyos (Karunungan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose is given for the trials of the righteous?",
+          "fil": "Anong layunin ang ibinigay para sa mga pagsubok sa mga matuwid?"
+        },
+        "options": {
+          "en": [
+            "Refinement like gold tested in a furnace",
+            "A guarantee of earthly riches",
+            "Proof that God prefers wrongdoing"
+          ],
+          "fil": [
+            "Pagdadalisay tulad ng gintong sinusubok sa pugon",
+            "Katiyakan ng kayamanan sa lupa",
+            "Patunay na mas gusto ng Diyos ang kasamaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their suffering is pictured as testing through which their faithfulness is shown (Wisdom 3).",
+          "fil": "Inilarawan ang kanilang pagdurusa bilang pagsubok na nagpapakita ng kanilang katapatan (Karunungan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future does the chapter hold out for those faithful to God?",
+          "fil": "Anong hinaharap ang iniaalok ng kabanata sa mga tapat sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "The need to become oppressors to survive",
+            "Eternal exclusion from his presence",
+            "Life with him in love under his lasting rule"
+          ],
+          "fil": [
+            "Pangangailangang maging mapang-api upang mabuhay",
+            "Walang-hanggang pagkakahiwalay sa kanyang presensya",
+            "Buhay kasama niya sa pagmamahal sa ilalim ng kanyang nananatiling paghahari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The faithful are promised communion with God and a share in his vindication (Wisdom 3).",
+          "fil": "Ipinangako sa mga tapat ang pakikisama sa Diyos at pakikibahagi sa kanyang pagpapatunay sa kanilang katuwiran (Karunungan 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What gives a life lasting honor in this chapter?",
+          "fil": "Ano ang nagbibigay sa buhay ng nananatiling karangalan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "A large household regardless of conduct",
+            "Fame gained through injustice",
+            "Virtue rather than outward success alone"
+          ],
+          "fil": [
+            "Malaking sambahayan anuman ang asal",
+            "Katanyagang nakuha sa kawalang-katarungan",
+            "Kabutihang-asal sa halip na panlabas na tagumpay lamang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter values the enduring memory of virtue above outward advantages (Wisdom 4).",
+          "fil": "Pinahalagahan ng kabanata ang nananatiling alaala ng kabutihang-asal higit sa panlabas na pakinabang (Karunungan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is true maturity measured?",
+          "fil": "Paano sinusukat ang tunay na pagiging ganap?"
+        },
+        "options": {
+          "en": [
+            "By the size of one's property",
+            "By understanding and an upright life",
+            "Only by the number of years lived"
+          ],
+          "fil": [
+            "Sa laki ng sariling ari-arian",
+            "Sa pagkaunawa at matuwid na pamumuhay",
+            "Sa bilang lamang ng mga taong nabuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Honorable maturity is associated with wisdom and purity rather than age alone (Wisdom 4).",
+          "fil": "Iniugnay ang marangal na pagiging ganap sa karunungan at kalinisan sa halip na sa edad lamang (Karunungan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does an early death necessarily mean a righteous person has been rejected by God?",
+          "fil": "Tiyak bang itinakwil ng Diyos ang taong matuwid kung maaga siyang namatay?"
+        },
+        "options": {
+          "en": [
+            "Yes, only long life can have value",
+            "No, the person may be at rest in God's mercy",
+            "Yes, every short life proves divine rejection"
+          ],
+          "fil": [
+            "Oo, mahabang buhay lamang ang may halaga",
+            "Hindi, maaaring nagpapahinga siya sa awa ng Diyos",
+            "Oo, patunay ng pagtatakwil ng Diyos ang bawat maikling buhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter teaches that a short righteous life can be complete and pleasing to God (Wisdom 4).",
+          "fil": "Itinuturo ng kabanata na maaaring maging ganap at kalugud-lugod sa Diyos ang maikling matuwid na buhay (Karunungan 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What surprises those who once mocked the righteous?",
+          "fil": "Ano ang ikinagulat ng mga dating kumutya sa mga matuwid?"
+        },
+        "options": {
+          "en": [
+            "Their own injustice has become God's law",
+            "The righteous have been forgotten forever",
+            "The righteous are honored among God's people"
+          ],
+          "fil": [
+            "Naging kautusan ng Diyos ang sarili nilang kawalang-katarungan",
+            "Nakalimutan na magpakailanman ang mga matuwid",
+            "Pinarangalan ang mga matuwid sa bayan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The former oppressors realize they misjudged the righteous person's life and destiny (Wisdom 5).",
+          "fil": "Nalaman ng mga dating mapang-api na mali ang paghusga nila sa buhay at hantungan ng taong matuwid (Karunungan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the images of a passing shadow and vanishing tracks teach?",
+          "fil": "Ano ang itinuturo ng mga larawan ng lumilipas na anino at nawawalang bakas?"
+        },
+        "options": {
+          "en": [
+            "All wealth guarantees eternal honor",
+            "Pride and riches cannot provide lasting security",
+            "Injustice leaves a secure reward"
+          ],
+          "fil": [
+            "Tinitiyak ng lahat ng kayamanan ang walang-hanggang karangalan",
+            "Hindi makapagbibigay ng nananatiling katiwasayan ang kapalaluan at yaman",
+            "May tiyak na gantimpala ang kawalang-katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The fleeting images expose the emptiness of a life spent in arrogant wrongdoing (Wisdom 5).",
+          "fil": "Inilalantad ng mga larawang lumilipas ang kawalang-kabuluhan ng buhay sa mapagmataas na kasamaan (Karunungan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the lasting reward of the righteous come from?",
+          "fil": "Saan nagmumula ang nananatiling gantimpala ng mga matuwid?"
+        },
+        "options": {
+          "en": [
+            "Approval from their former persecutors alone",
+            "The largest collection of possessions",
+            "The Lord's care and protection"
+          ],
+          "fil": [
+            "Sa pagsang-ayon lamang ng mga dating umusig sa kanila",
+            "Sa pinakamaraming naipong pag-aari",
+            "Sa pangangalaga at proteksiyon ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter contrasts empty worldly pride with the righteous person's enduring reward from God (Wisdom 5).",
+          "fil": "Inihambing ng kabanata ang walang-kabuluhang kapalaluan sa mundo sa nananatiling gantimpala ng Diyos sa matuwid (Karunungan 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What must rulers remember about their authority?",
+          "fil": "Ano ang dapat tandaan ng mga pinuno tungkol sa kanilang awtoridad?"
+        },
+        "options": {
+          "en": [
+            "It frees them from every duty of justice",
+            "It comes from God and must answer to him",
+            "It makes them equal to God"
+          ],
+          "fil": [
+            "Pinalalaya sila nito sa bawat tungkulin ng katarungan",
+            "Mula ito sa Diyos at may pananagutan sa kanya",
+            "Ginagawa silang kapantay ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rulers are reminded that their power is entrusted by God (Wisdom 6).",
+          "fil": "Ipinaalala sa mga pinuno na ipinagkatiwala ng Diyos ang kanilang kapangyarihan (Karunungan 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does high status protect a ruler from God's examination?",
+          "fil": "Pinoprotektahan ba ng mataas na katayuan ang pinuno mula sa pagsusuri ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "No, the powerful face serious accountability",
+            "Yes, wealth cancels every wrong",
+            "Yes, God judges only the poor"
+          ],
+          "fil": [
+            "Hindi, may mabigat na pananagutan ang makapangyarihan",
+            "Oo, pinapawalang-bisa ng yaman ang bawat kasamaan",
+            "Oo, mahihirap lamang ang hinahatulan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God is not impressed by rank and closely examines the conduct of those in power (Wisdom 6).",
+          "fil": "Hindi humahanga ang Diyos sa katayuan at maingat na sinusuri ang asal ng mga nasa kapangyarihan (Karunungan 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is wisdom portrayed toward people who sincerely seek her?",
+          "fil": "Paano inilarawan ang karunungan sa mga taimtim na naghahanap sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Available only to those who buy titles",
+            "Hostile to every humble learner",
+            "Ready to be found and eager to meet them"
+          ],
+          "fil": [
+            "Para lamang sa mga bumibili ng titulo",
+            "Kalaban ng bawat mapagpakumbabang mag-aaral",
+            "Handang matagpuan at sabik na salubungin sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wisdom welcomes earnest seekers rather than remaining beyond their reach (Wisdom 6).",
+          "fil": "Tinatanggap ng karunungan ang taimtim na naghahanap sa halip na manatiling hindi nila maabot (Karunungan 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What does the royal speaker acknowledge about his humanity?",
+          "fil": "Ano ang kinilala ng nagsasalitang hari tungkol sa kanyang pagkatao?"
+        },
+        "options": {
+          "en": [
+            "He was born without any human dependence",
+            "He shares the same mortal beginning and end as everyone",
+            "He cannot die because he is a king"
+          ],
+          "fil": [
+            "Ipinanganak siyang walang anumang pangangailangan sa tao",
+            "Kapareho niya ang lahat sa simula at wakas ng buhay bilang tao",
+            "Hindi siya maaaring mamatay dahil hari siya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The speaker begins humbly by acknowledging the common human condition of kings and others (Wisdom 7).",
+          "fil": "Mapagpakumbabang nagsimula ang nagsasalita sa pagkilala sa iisang kalagayan ng hari at ibang tao (Karunungan 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the speaker value wisdom compared with riches and power?",
+          "fil": "Paano pinahalagahan ng nagsasalita ang karunungan kumpara sa yaman at kapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "He sees wisdom as useless beside gold",
+            "He prefers wisdom above them",
+            "He seeks wisdom only to harm rivals"
+          ],
+          "fil": [
+            "Itinuring niyang walang silbi ang karunungan sa tabi ng ginto",
+            "Mas pinili niya ang karunungan kaysa sa mga ito",
+            "Hinanap niya ang karunungan upang saktan lamang ang mga karibal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Wisdom is treasured above thrones, wealth, health, and beauty (Wisdom 7).",
+          "fil": "Pinahalagahan ang karunungan higit sa mga trono, yaman, kalusugan, at kagandahan (Karunungan 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude does the speaker show toward sharing wisdom?",
+          "fil": "Anong saloobin ang ipinakita ng nagsasalita sa pagbabahagi ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "He shares it freely instead of guarding it jealously",
+            "He refuses to teach anyone",
+            "He sells it only to rulers"
+          ],
+          "fil": [
+            "Malaya niya itong ibinahagi sa halip na ipagdamot",
+            "Tumanggi siyang magturo sa sinuman",
+            "Ipinagbibili niya ito sa mga pinuno lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The speaker describes learning honestly and passing wisdom on generously (Wisdom 7).",
+          "fil": "Inilarawan ng nagsasalita ang tapat na pagkatuto at bukas-palad na pagpapasa ng karunungan (Karunungan 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What relationship does the speaker desire with personified wisdom?",
+          "fil": "Anong ugnayan ang hinangad ng nagsasalita sa karunungang inilarawang tao?"
+        },
+        "options": {
+          "en": [
+            "A close lifelong companionship",
+            "A rivalry for God's throne",
+            "A brief trade for military weapons"
+          ],
+          "fil": [
+            "Malapit at panghabambuhay na pagsasama",
+            "Paglalaban para sa trono ng Diyos",
+            "Maikling pakikipagpalitan para sa mga sandata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The speaker portrays his love of wisdom as seeking a beloved lifelong companion (Wisdom 8).",
+          "fil": "Inilarawan ng nagsasalita ang pagmamahal sa karunungan bilang paghahanap ng minamahal na panghabambuhay na kasama (Karunungan 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of qualities does wisdom teach?",
+          "fil": "Anong uri ng mga katangian ang itinuturo ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Self-control, good judgment, justice, and courage",
+            "Pride and contempt for the weak",
+            "Greed, revenge, and deception"
+          ],
+          "fil": [
+            "Pagpipigil sa sarili, wastong pagpapasya, katarungan, at tapang",
+            "Kapalaluan at paghamak sa mahihina",
+            "Kasakiman, paghihiganti, at panlilinlang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom's fruit is a life formed by virtues useful to everyone (Wisdom 8).",
+          "fil": "Ang bunga ng karunungan ay buhay na hinuhubog ng mga kabutihang mahalaga sa lahat (Karunungan 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does wisdom help someone entrusted with leadership?",
+          "fil": "Paano tinutulungan ng karunungan ang pinagkatiwalaan ng pamumuno?"
+        },
+        "options": {
+          "en": [
+            "By making justice unnecessary",
+            "By giving sound counsel and wise judgment",
+            "By teaching rulers to ignore their people"
+          ],
+          "fil": [
+            "Sa paggawa sa katarungan na hindi na kailangan",
+            "Sa pagbibigay ng mabuting payo at matalinong paghatol",
+            "Sa pagtuturo sa mga pinuno na balewalain ang kanilang bayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The speaker values wisdom as a guide in decisions, responsibilities, and troubles (Wisdom 8).",
+          "fil": "Pinahalagahan ng nagsasalita ang karunungan bilang gabay sa mga pasya, pananagutan, at suliranin (Karunungan 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What central gift does the speaker ask God to send?",
+          "fil": "Anong pangunahing kaloob ang hiniling ng nagsasalita na isugo ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Wisdom from God's presence",
+            "An invincible army",
+            "Unlimited gold"
+          ],
+          "fil": [
+            "Karunungan mula sa presensya ng Diyos",
+            "Hukbong hindi magagapi",
+            "Walang-hanggang ginto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer asks for wisdom to accompany the speaker in his responsibilities (Wisdom 9).",
+          "fil": "Humingi ang panalangin ng karunungang sasama sa nagsasalita sa kanyang mga pananagutan (Karunungan 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the speaker admit he needs God's help?",
+          "fil": "Bakit inamin ng nagsasalita na kailangan niya ang tulong ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God has given people no responsibilities",
+            "Kings automatically know every answer",
+            "Human understanding is limited and uncertain"
+          ],
+          "fil": [
+            "Walang ibinigay na pananagutan ang Diyos sa mga tao",
+            "Awtomatikong alam ng mga hari ang bawat sagot",
+            "Limitado at hindi tiyak ang pagkaunawa ng tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer acknowledges human weakness and inability to grasp God's purposes unaided (Wisdom 9).",
+          "fil": "Kinilala ng panalangin ang kahinaan ng tao at kawalan ng kakayahang unawain ang mga layunin ng Diyos nang walang tulong (Karunungan 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should wisdom enable the ruler to do?",
+          "fil": "Ano ang dapat magawa ng pinuno sa tulong ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Escape every duty to the people",
+            "Replace God's commands with private ambition",
+            "Discern what pleases God and judge the people justly"
+          ],
+          "fil": [
+            "Takasan ang bawat tungkulin sa bayan",
+            "Palitan ng pansariling hangarin ang mga utos ng Diyos",
+            "Makilala ang kalugud-lugod sa Diyos at hatulan nang makatarungan ang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wisdom is sought for righteous rule and actions acceptable to God (Wisdom 9).",
+          "fil": "Hinanap ang karunungan para sa matuwid na pamumuno at mga gawaing katanggap-tanggap sa Diyos (Karunungan 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What theme connects the examples of earlier righteous people?",
+          "fil": "Anong tema ang nag-uugnay sa mga halimbawa ng mga naunang matuwid?"
+        },
+        "options": {
+          "en": [
+            "Faithfulness has no effect on life",
+            "Success always depends on wealth",
+            "Wisdom guides and protects those who follow her"
+          ],
+          "fil": [
+            "Walang epekto sa buhay ang katapatan",
+            "Palaging nakasalalay sa yaman ang tagumpay",
+            "Ginagabayan at pinoprotektahan ng karunungan ang mga sumusunod sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter portrays wisdom as active in preserving righteous people through danger (Wisdom 10).",
+          "fil": "Inilarawan ng kabanata ang karunungan bilang kumikilos upang ingatan ang mga matuwid sa panganib (Karunungan 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does wisdom treat the righteous person who is sold and imprisoned?",
+          "fil": "Paano pinakitunguhan ng karunungan ang matuwid na ipinagbili at ibinilanggo?"
+        },
+        "options": {
+          "en": [
+            "She praises his oppressors",
+            "She abandons him as worthless",
+            "She stays with him and brings vindication"
+          ],
+          "fil": [
+            "Pinuri niya ang mga umapi sa kanya",
+            "Iniwan niya siya bilang walang halaga",
+            "Nanatili siya sa kanya at pinatunayan ang kanyang katuwiran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wisdom remains with the innocent sufferer until his false accusers are exposed (Wisdom 10).",
+          "fil": "Nanatili ang karunungan sa inosenteng nagdurusa hanggang mailantad ang mga bulaang nagparatang (Karunungan 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does wisdom do for the holy people oppressed by another nation?",
+          "fil": "Ano ang ginawa ng karunungan para sa banal na bayang inapi ng ibang bansa?"
+        },
+        "options": {
+          "en": [
+            "Helps deliver them from bondage",
+            "Commands them to worship their oppressors",
+            "Makes their suffering her goal"
+          ],
+          "fil": [
+            "Tumulong na palayain sila sa pagkaalipin",
+            "Inutusan silang sambahin ang mga umapi sa kanila",
+            "Ginawang layunin ang kanilang pagdurusa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account presents the people's rescue as a work of wisdom (Wisdom 10).",
+          "fil": "Iniharap ng salaysay ang pagliligtas sa bayan bilang gawa ng karunungan (Karunungan 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What contrast is drawn from Israel's need for water and its enemies' punishment?",
+          "fil": "Anong pagkakaiba ang ipinakita sa pangangailangan ng Israel sa tubig at sa parusa sa mga kaaway nito?"
+        },
+        "options": {
+          "en": [
+            "Israel has no need to depend on God",
+            "God can use creation to help his people and judge their oppressors",
+            "Nature acts entirely outside God's care"
+          ],
+          "fil": [
+            "Hindi kailangang umasa sa Diyos ang Israel",
+            "Magagamit ng Diyos ang nilikha upang tulungan ang kanyang bayan at hatulan ang mga nang-aapi",
+            "Ganap na kumikilos ang kalikasan sa labas ng pangangalaga ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The same creation can serve God's provision and judgment (Wisdom 11).",
+          "fil": "Maaaring maglingkod ang iisang nilikha sa pagtustos at paghatol ng Diyos (Karunungan 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God show patience toward sinners?",
+          "fil": "Bakit nagpapakita ang Diyos ng pagtitiyaga sa mga makasalanan?"
+        },
+        "options": {
+          "en": [
+            "Because he lacks power to act",
+            "Because he approves of every wrong",
+            "To give them room to repent"
+          ],
+          "fil": [
+            "Dahil wala siyang kapangyarihang kumilos",
+            "Dahil sang-ayon siya sa bawat kasamaan",
+            "Upang bigyan sila ng pagkakataong magsisi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter links God's mercy with the possibility of repentance (Wisdom 11).",
+          "fil": "Iniugnay ng kabanata ang awa ng Diyos sa pagkakataong magsisi (Karunungan 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God care for the things he has made?",
+          "fil": "Bakit pinangangalagaan ng Diyos ang kanyang mga nilikha?"
+        },
+        "options": {
+          "en": [
+            "They belong to him and are loved by him",
+            "They keep him alive",
+            "They are stronger than their maker"
+          ],
+          "fil": [
+            "Sa kanya ang mga ito at minamahal niya ang mga ito",
+            "Pinananatili siyang buhay ng mga ito",
+            "Mas malakas ang mga ito kaysa sa kanilang gumawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's preservation of creation expresses his love for the living (Wisdom 11).",
+          "fil": "Ipinapakita ng pag-iingat ng Diyos sa nilikha ang kanyang pagmamahal sa mga nabubuhay (Karunungan 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What purpose is given for God's gradual correction of wrongdoers?",
+          "fil": "Anong layunin ang ibinigay sa unti-unting pagtutuwid ng Diyos sa mga gumagawa ng masama?"
+        },
+        "options": {
+          "en": [
+            "An opportunity to leave evil and repent",
+            "Training them to become more cruel",
+            "Proof that wrongdoing never matters"
+          ],
+          "fil": [
+            "Pagkakataong talikuran ang kasamaan at magsisi",
+            "Pagsasanay sa kanila na maging mas malupit",
+            "Patunay na walang halaga ang paggawa ng masama"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's measured judgment gives offenders opportunities to turn back (Wisdom 12).",
+          "fil": "Nagbibigay ang maingat na paghatol ng Diyos ng mga pagkakataon sa nagkasala na manumbalik (Karunungan 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is God's justice described toward the undeserving of punishment?",
+          "fil": "Paano inilarawan ang katarungan ng Diyos sa hindi karapat-dapat parusahan?"
+        },
+        "options": {
+          "en": [
+            "He punishes them merely to display rank",
+            "He judges only by wealth",
+            "He does not wrongly condemn them"
+          ],
+          "fil": [
+            "Pinarurusahan niya sila para lamang ipakita ang katayuan",
+            "Humahatol siya ayon lamang sa kayamanan",
+            "Hindi niya sila di-makatarungang hinahatulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's righteousness excludes condemnation of those who do not deserve it (Wisdom 12).",
+          "fil": "Hindi kaayon ng katuwiran ng Diyos ang paghatol sa mga hindi karapat-dapat parusahan (Karunungan 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should God's example teach righteous people about treating others?",
+          "fil": "Ano ang dapat ituro ng halimbawa ng Diyos sa mga matuwid tungkol sa pagtrato sa iba?"
+        },
+        "options": {
+          "en": [
+            "Practice kindness and remember mercy",
+            "Seek revenge at every opportunity",
+            "Assume they will never need forgiveness"
+          ],
+          "fil": [
+            "Maging mabait at alalahanin ang awa",
+            "Maghiganti sa bawat pagkakataon",
+            "Isiping hindi sila kailanman mangangailangan ng kapatawaran"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's patient justice teaches his people to be humane and hope for mercy themselves (Wisdom 12).",
+          "fil": "Itinuturo ng matiyagang katarungan ng Diyos sa kanyang bayan na maging mahabagin at umasa rin sa awa (Karunungan 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What should the beauty and power of nature lead people to recognize?",
+          "fil": "Ano ang dapat makilala ng mga tao sa kagandahan at kapangyarihan ng kalikasan?"
+        },
+        "options": {
+          "en": [
+            "That created things have no maker",
+            "That the sun is the highest god",
+            "The greater beauty and power of its Creator"
+          ],
+          "fil": [
+            "Na walang gumawa sa mga nilikha",
+            "Na ang araw ang pinakamataas na diyos",
+            "Ang higit na kagandahan at kapangyarihan ng Manlilikha nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The visible world points beyond itself to the one who made it (Wisdom 13).",
+          "fil": "Itinuturo ng nakikitang mundo ang higit dito na siyang gumawa nito (Karunungan 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the writer regard those who go wrong while seeking God through nature?",
+          "fil": "Paano itinuring ng sumulat ang mga nagkamali habang hinahanap ang Diyos sa kalikasan?"
+        },
+        "options": {
+          "en": [
+            "Their worship of nature makes them entirely free of responsibility",
+            "They are praised for never seeking God",
+            "Their search receives some understanding, yet they remain accountable"
+          ],
+          "fil": [
+            "Dahil sa pagsamba nila sa kalikasan ay wala na silang anumang pananagutan",
+            "Pinuri sila sa hindi paghahanap sa Diyos kailanman",
+            "May pag-unawa sa kanilang paghahanap, ngunit may pananagutan pa rin sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The writer recognizes their search but does not treat their error as completely excusable (Wisdom 13).",
+          "fil": "Kinilala ng sumulat ang kanilang paghahanap ngunit hindi itinuring na lubusang maipagpapaumanhin ang kanilang pagkakamali (Karunungan 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is mistaken about placing hope in handmade idols?",
+          "fil": "Ano ang mali sa paglalagay ng pag-asa sa mga diyus-diyusang gawa ng kamay?"
+        },
+        "options": {
+          "en": [
+            "They secretly control the Creator",
+            "They created the workers who shaped them",
+            "They are lifeless things unable to provide the help requested"
+          ],
+          "fil": [
+            "Lihim nilang kontrolado ang Manlilikha",
+            "Nilikha nila ang mga manggagawang humubog sa kanila",
+            "Mga walang-buhay na bagay ang mga ito na hindi makapagbibigay ng hinihinging tulong"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter exposes the contradiction of asking lifeless craftsmanship for life and protection (Wisdom 13).",
+          "fil": "Inilantad ng kabanata ang salungatan ng paghingi ng buhay at proteksiyon sa walang-buhay na gawang-kamay (Karunungan 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What truly guides a dangerous sea journey in the chapter's opening contrast?",
+          "fil": "Ano ang tunay na gumagabay sa mapanganib na paglalayag sa pambungad na paghahambing ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "God's providence rather than a helpless wooden idol",
+            "The idol's ability to command God",
+            "The sailor's power over every wave"
+          ],
+          "fil": [
+            "Ang pangangalaga ng Diyos sa halip na walang-kakayahang diyus-diyusang kahoy",
+            "Ang kakayahan ng diyus-diyusan na utusan ang Diyos",
+            "Ang kapangyarihan ng mandaragat sa bawat alon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening contrasts trust in a fragile idol with God's real power to guide and save (Wisdom 14).",
+          "fil": "Inihambing ng pambungad ang pagtitiwala sa marupok na diyus-diyusan sa tunay na kapangyarihan ng Diyos na gumabay at magligtas (Karunungan 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter explain the growth of idol worship?",
+          "fil": "Paano ipinaliwanag ng kabanata ang paglaganap ng pagsamba sa diyus-diyusan?"
+        },
+        "options": {
+          "en": [
+            "Idols have existed as creators from the beginning",
+            "Human grief, flattery, and custom turn images into objects of worship",
+            "God commands every portrait to be worshiped"
+          ],
+          "fil": [
+            "Umiral na ang mga diyus-diyusan bilang mga manlilikha mula sa simula",
+            "Ginagawang mga sinasamba ng pagdadalamhati, pambobola, at kaugalian ang mga larawan",
+            "Iniutos ng Diyos na sambahin ang bawat larawan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer traces idolatry to human practices that gradually claim divine honor for created images (Wisdom 14).",
+          "fil": "Iniugnay ng sumulat ang pagsamba sa diyus-diyusan sa mga gawaing unti-unting nagbibigay ng karangalang para sa Diyos sa mga ginawang larawan (Karunungan 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What moral result does the chapter associate with idolatry?",
+          "fil": "Anong bungang moral ang iniugnay ng kabanata sa pagsamba sa diyus-diyusan?"
+        },
+        "options": {
+          "en": [
+            "An automatic end to cruelty",
+            "Disorder, deception, and harm to human life",
+            "Reliable honesty in every relationship"
+          ],
+          "fil": [
+            "Awtomatikong pagwawakas ng kalupitan",
+            "Kaguluhan, panlilinlang, at pinsala sa buhay ng tao",
+            "Tiyak na katapatan sa bawat ugnayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter portrays false worship as connected with a wider collapse of moral responsibility (Wisdom 14).",
+          "fil": "Inilarawan ng kabanata ang maling pagsamba bilang kaugnay ng mas malawak na pagbagsak ng pananagutang moral (Karunungan 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What does knowing and belonging to God encourage?",
+          "fil": "Ano ang hinihikayat ng pagkakilala at pagiging kabilang sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Confidence that injustice is harmless",
+            "Worship of every attractive image",
+            "Righteous living instead of a desire to sin"
+          ],
+          "fil": [
+            "Tiwalang walang masama sa kawalang-katarungan",
+            "Pagsamba sa bawat kaakit-akit na larawan",
+            "Matuwid na pamumuhay sa halip na pagnanais magkasala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The speaker connects knowledge of the merciful God with faithfulness and righteousness (Wisdom 15).",
+          "fil": "Iniugnay ng nagsasalita ang pagkakilala sa maawaing Diyos sa katapatan at katuwiran (Karunungan 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What irony is exposed in the potter's making of a clay god?",
+          "fil": "Anong kabalintunaan ang inilantad sa paggawa ng magpapalayok ng diyos na luwad?"
+        },
+        "options": {
+          "en": [
+            "Every useful pot must be worshiped",
+            "A mortal creature tries to manufacture a god from lifeless matter",
+            "The clay gives the potter his own life"
+          ],
+          "fil": [
+            "Dapat sambahin ang bawat kapaki-pakinabang na palayok",
+            "Sinusubukan ng nilikhang namamatay na gumawa ng diyos mula sa walang-buhay na bagay",
+            "Ang luwad ang nagbibigay ng buhay sa magpapalayok"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The maker of the idol forgets his own dependence on the God who gave him life (Wisdom 15).",
+          "fil": "Nalimutan ng gumawa ng diyus-diyusan ang sarili niyang pag-asa sa Diyos na nagbigay sa kanya ng buhay (Karunungan 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What motive does the writer criticize in dishonest idol making?",
+          "fil": "Anong layunin ang pinuna ng sumulat sa di-tapat na paggawa ng diyus-diyusan?"
+        },
+        "options": {
+          "en": [
+            "Profit pursued even through wrongdoing",
+            "Humble gratitude to the Creator",
+            "Generous care for the poor"
+          ],
+          "fil": [
+            "Kitang hinahangad kahit sa paggawa ng masama",
+            "Mapagpakumbabang pasasalamat sa Manlilikha",
+            "Bukas-palad na pangangalaga sa mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The writer condemns treating life as an opportunity for gain without regard for right and wrong (Wisdom 15).",
+          "fil": "Kinondena ng sumulat ang pagtrato sa buhay bilang pagkakataong kumita nang walang pagsasaalang-alang sa mabuti at masama (Karunungan 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What do the contrasting uses of animals in Egypt and Israel show?",
+          "fil": "Ano ang ipinakikita ng magkaibang gamit ng mga hayop sa Egipto at Israel?"
+        },
+        "options": {
+          "en": [
+            "Animals rule over God",
+            "Creation serves God's judgment and generous care",
+            "God never provides for hungry people"
+          ],
+          "fil": [
+            "Namumuno ang mga hayop sa Diyos",
+            "Naglilingkod ang nilikha sa paghatol at bukas-palad na pangangalaga ng Diyos",
+            "Hindi kailanman nagtutustos ang Diyos sa mga gutom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The examples contrast punishment for oppressors with food provided for God's people (Wisdom 16).",
+          "fil": "Inihambing ng mga halimbawa ang parusa sa mga nang-aapi at pagkaing ibinigay sa bayan ng Diyos (Karunungan 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ultimately saves those bitten by serpents in the chapter's explanation?",
+          "fil": "Ano ang tunay na nagligtas sa mga natuklaw ng mga ahas ayon sa paliwanag ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "God's mercy and healing word",
+            "The visible symbol acting independently of God",
+            "Their enemies' magical skill"
+          ],
+          "fil": [
+            "Ang awa at nagpapagaling na salita ng Diyos",
+            "Ang nakikitang tandang kumikilos nang hiwalay sa Diyos",
+            "Ang kakayahan ng mga kaaway sa mahika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The healing sign directs attention to God as the source of rescue (Wisdom 16).",
+          "fil": "Itinuturo ng tanda ng pagpapagaling ang Diyos bilang pinagmumulan ng pagliligtas (Karunungan 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lesson is drawn from the heavenly food given in the wilderness?",
+          "fil": "Anong aral ang hinango sa pagkaing mula sa langit na ibinigay sa ilang?"
+        },
+        "options": {
+          "en": [
+            "Food is proof that humans control the Creator",
+            "People no longer need to thank God",
+            "Life depends on God's sustaining word and calls for gratitude"
+          ],
+          "fil": [
+            "Patunay ang pagkain na kontrolado ng tao ang Manlilikha",
+            "Hindi na kailangang magpasalamat ng mga tao sa Diyos",
+            "Nakasalalay ang buhay sa nagpapanatiling salita ng Diyos at nararapat ang pasasalamat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The gift of food teaches reliance on God's care and a thankful response (Wisdom 16).",
+          "fil": "Itinuturo ng kaloob na pagkain ang pag-asa sa pangangalaga ng Diyos at mapagpasalamat na pagtugon (Karunungan 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What does the darkness imposed on the oppressors reveal?",
+          "fil": "Ano ang inihahayag ng kadilimang ipinataw sa mga nang-aapi?"
+        },
+        "options": {
+          "en": [
+            "They have become stronger than God",
+            "Their injustice has been rewarded with peace",
+            "They cannot hide from judgment despite their imagined security"
+          ],
+          "fil": [
+            "Naging mas malakas sila kaysa sa Diyos",
+            "Ginantimpalaan ng kapayapaan ang kanilang kawalang-katarungan",
+            "Hindi sila makapagtatago sa paghatol sa kabila ng inaakala nilang katiwasayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The oppressors become prisoners of darkness and fear rather than remaining secure in secret wrongdoing (Wisdom 17).",
+          "fil": "Naging mga bilanggo ng kadiliman at takot ang mga nang-aapi sa halip na manatiling ligtas sa lihim na kasamaan (Karunungan 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inward source makes the wicked especially fearful?",
+          "fil": "Anong panloob na pinagmumulan ang lalong nagpatakot sa masasama?"
+        },
+        "options": {
+          "en": [
+            "Gratitude for justice",
+            "Confidence in their innocence",
+            "An accusing conscience"
+          ],
+          "fil": [
+            "Pasasalamat sa katarungan",
+            "Tiwala sa kanilang kawalang-sala",
+            "Budhing nagpaparatang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter connects inner guilt with fearful expectations and helplessness (Wisdom 17).",
+          "fil": "Iniugnay ng kabanata ang panloob na pagkakasala sa mga nakatatakot na inaasahan at kawalan ng magawa (Karunungan 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the boasted magical arts perform during this terror?",
+          "fil": "Paano gumana ang ipinagyayabang na mahika sa panahong ito ng sindak?"
+        },
+        "options": {
+          "en": [
+            "They prove powerless to free their practitioners from fear",
+            "They defeat God's judgment completely",
+            "They bring lasting safety to every oppressor"
+          ],
+          "fil": [
+            "Napatunayang walang kakayahang palayain sa takot ang mga nagsasagawa nito",
+            "Lubusan nilang dinaig ang paghatol ng Diyos",
+            "Nagdala sila ng nananatiling kaligtasan sa bawat mapang-api"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The failure of magic exposes the emptiness of the oppressors' claimed mastery (Wisdom 17).",
+          "fil": "Inilantad ng pagkabigo ng mahika ang kawalang-kabuluhan ng inaangking kapangyarihan ng mga nang-aapi (Karunungan 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What contrast opens the chapter after the account of darkness?",
+          "fil": "Anong pagkakaiba ang nagbubukas sa kabanata matapos ang salaysay ng kadiliman?"
+        },
+        "options": {
+          "en": [
+            "God's people must follow the idols of Egypt",
+            "The oppressors gain control over heaven",
+            "God's people receive light and guidance"
+          ],
+          "fil": [
+            "Kailangang sundin ng bayan ng Diyos ang mga diyus-diyusan ng Egipto",
+            "Nagkaroon ng kapangyarihan sa langit ang mga nang-aapi",
+            "Tumanggap ng liwanag at gabay ang bayan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Light and the guiding pillar mark God's care for the people he is leading out (Wisdom 18).",
+          "fil": "Tanda ng pangangalaga ng Diyos sa bayang kanyang inilalabas ang liwanag at gumagabay na haligi (Karunungan 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gives the ancestors confidence before the decisive night of deliverance?",
+          "fil": "Ano ang nagbibigay ng tiwala sa mga ninuno bago ang mahalagang gabi ng pagliligtas?"
+        },
+        "options": {
+          "en": [
+            "The superiority of their wealth",
+            "Trust in God's promises and covenant",
+            "An alliance with Egypt's idols"
+          ],
+          "fil": [
+            "Ang pagiging higit ng kanilang yaman",
+            "Pagtitiwala sa mga pangako at tipan ng Diyos",
+            "Alyansa sa mga diyus-diyusan ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people face the night with confidence in the promises they have received (Wisdom 18).",
+          "fil": "Hinarap ng bayan ang gabi nang may tiwala sa mga pangakong kanilang natanggap (Karunungan 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What brings an end to the later plague among God's people in the wilderness?",
+          "fil": "Ano ang nagpahinto sa sumunod na salot sa bayan ng Diyos sa ilang?"
+        },
+        "options": {
+          "en": [
+            "A larger army attacking the sick",
+            "Payment to a foreign idol",
+            "A righteous minister's prayer and priestly intercession"
+          ],
+          "fil": [
+            "Mas malaking hukbong sumasalakay sa mga maysakit",
+            "Pagbabayad sa dayuhang diyus-diyusan",
+            "Panalangin at pamamagitan ng matuwid na lingkod bilang pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter credits prayer and priestly service rather than physical force with stopping the calamity (Wisdom 18).",
+          "fil": "Kinilala ng kabanata ang panalangin at paglilingkod ng pari sa halip na pisikal na dahas sa paghinto ng sakuna (Karunungan 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What does the marvelous passage through the sea show about creation?",
+          "fil": "Ano ang ipinakikita ng kahanga-hangang pagtawid sa dagat tungkol sa nilikha?"
+        },
+        "options": {
+          "en": [
+            "It obeys God in protecting his people",
+            "It can never serve human deliverance",
+            "It has permanently defeated its Creator"
+          ],
+          "fil": [
+            "Sumusunod ito sa Diyos sa pagprotekta sa kanyang bayan",
+            "Hindi ito kailanman makapaglilingkod sa pagliligtas ng tao",
+            "Tuluyan nitong dinaig ang Manlilikha nito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter portrays the elements serving God's purpose of rescue (Wisdom 19).",
+          "fil": "Inilarawan ng kabanata ang mga sangkap ng kalikasan bilang naglilingkod sa layunin ng Diyos na magligtas (Karunungan 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What treatment of foreigners is condemned in the comparison with Egypt?",
+          "fil": "Anong pagtrato sa mga dayuhan ang kinondena sa paghahambing sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Allowing strangers to live peacefully",
+            "Enslaving guests who had previously been welcomed",
+            "Offering shelter to vulnerable travelers"
+          ],
+          "fil": [
+            "Pagpapahintulot sa mga dayuhan na mamuhay nang payapa",
+            "Pag-aalipin sa mga panauhing dati nang tinanggap",
+            "Pagbibigay ng masisilungan sa mga manlalakbay na walang kalaban-laban"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The writer condemns the cruel reversal from receiving guests to oppressing them (Wisdom 19).",
+          "fil": "Kinondena ng sumulat ang malupit na pagbabago mula sa pagtanggap sa mga panauhin tungo sa pang-aapi sa kanila (Karunungan 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What final assurance closes the book?",
+          "fil": "Anong huling katiyakan ang nagsasara sa aklat?"
+        },
+        "options": {
+          "en": [
+            "God has stood by his people in every time and place",
+            "God has forgotten his people completely",
+            "Human wealth is the only reliable protection"
+          ],
+          "fil": [
+            "Sinamahan ng Diyos ang kanyang bayan sa bawat panahon at lugar",
+            "Lubusang nakalimutan ng Diyos ang kanyang bayan",
+            "Yaman ng tao ang tanging maaasahang proteksiyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing praise affirms God's constant help and care for his people (Wisdom 19).",
+          "fil": "Pinagtitibay ng panghuling papuri ang patuloy na tulong at pangangalaga ng Diyos sa kanyang bayan (Karunungan 19)."
+        }
+      }
+    ]
+  }
+}
