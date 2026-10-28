@@ -1,0 +1,217 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What is wrong with the offerings the priests accept?",
+          "fil": "Ano ang mali sa mga handog na tinatanggap ng mga pari?"
+        },
+        "options": {
+          "en": [
+            "They give too much care to honoring God",
+            "They refuse to bring stolen animals",
+            "They offer sick and injured animals with disrespect"
+          ],
+          "fil": [
+            "Labis ang kanilang pag-iingat sa paggalang sa Diyos",
+            "Tumatanggi silang magdala ng nakaw na hayop",
+            "Naghahandog sila ng may sakit at napinsalang hayop nang walang paggalang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Careless offerings reveal contempt for God's name (Malachi 1).",
+          "fil": "Ipinakita ng pabaya nilang paghahandog ang paghamak sa pangalan ng Diyos (Malakias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose reaction is used to show that such gifts are unacceptable?",
+          "fil": "Kaninong magiging tugon ang ginamit upang ipakitang hindi katanggap-tanggap ang gayong regalo?"
+        },
+        "options": {
+          "en": [
+            "A fish in the sea",
+            "A governor receiving the same gifts",
+            "A child learning to walk"
+          ],
+          "fil": [
+            "Isang isda sa dagat",
+            "Isang gobernador na tatanggap ng gayunding regalo",
+            "Isang batang nag-aaral lumakad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The comparison exposes the dishonor of giving God what an earthly ruler would reject (Malachi 1).",
+          "fil": "Inilantad ng paghahambing ang kawalan ng galang sa pagbibigay sa Diyos ng tatanggihan ng pinunong tao (Malakias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God describe the honor his name deserves among the nations?",
+          "fil": "Paano inilarawan ng Diyos ang karangalang nararapat sa kanyang pangalan sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "The honor due a great king",
+            "The treatment of a useless object",
+            "Less respect than any carved idol"
+          ],
+          "fil": [
+            "Ang karangalang nararapat sa isang dakilang hari",
+            "Ang pagtrato sa walang silbing bagay",
+            "Mas kaunting paggalang kaysa sa anumang inukit na diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's greatness contrasts with the priests' disrespectful worship (Malachi 1).",
+          "fil": "Kabaligtaran ng kawalang-galang ng mga pari sa pagsamba ang kadakilaan ng Diyos (Malakias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What should people receive from a faithful priest's teaching?",
+          "fil": "Ano ang dapat matanggap ng mga tao sa turo ng tapat na pari?"
+        },
+        "options": {
+          "en": [
+            "Advice on how to cheat neighbors",
+            "Knowledge of God's instruction",
+            "Permission to replace God with idols"
+          ],
+          "fil": [
+            "Payo kung paano dayain ang kapwa",
+            "Kaalaman sa mga turo ng Diyos",
+            "Pahintulot na palitan ang Diyos ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A priest is meant to guide people as the Lord's messenger (Malachi 2).",
+          "fil": "Dapat gumabay ang pari sa mga tao bilang sugo ng Panginoon (Malakias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How have the priests failed in this responsibility?",
+          "fil": "Paano nabigo ang mga pari sa tungkuling ito?"
+        },
+        "options": {
+          "en": [
+            "They have led many astray through their teaching",
+            "They have refused to show favoritism",
+            "They have consistently corrected every wrong"
+          ],
+          "fil": [
+            "Iniligaw nila ang marami sa pamamagitan ng kanilang turo",
+            "Tumanggi silang magpakita ng pagtatangi",
+            "Palagi nilang itinuwid ang lahat ng mali"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their corrupt teaching has harmed the people they should guide (Malachi 2).",
+          "fil": "Sinaktan ng kanilang tiwaling turo ang mga taong dapat nilang gabayan (Malakias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose covenant is recalled as a model of faithful priestly service?",
+          "fil": "Kaninong tipan ang ipinaalala bilang huwaran ng tapat na paglilingkod ng pari?"
+        },
+        "options": {
+          "en": [
+            "Levi's",
+            "Nebuchadnezzar's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Ang kay Levi",
+            "Ang kay Nebucadnezar",
+            "Ang kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The memory of Levi highlights reverence and truthful instruction (Malachi 2).",
+          "fil": "Binigyang-diin ng alaala ni Levi ang paggalang at tapat na pagtuturo (Malakias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What is the promised messenger sent to do before the Lord comes?",
+          "fil": "Ano ang gagawin ng ipinangakong sugo bago dumating ang Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Prepare the way",
+            "Hide God's instruction forever",
+            "Build a throne for Baal"
+          ],
+          "fil": [
+            "Ihanda ang daan",
+            "Itago magpakailanman ang mga turo ng Diyos",
+            "Gumawa ng trono para kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter opens with a messenger preparing for the Lord's arrival (Malachi 3).",
+          "fil": "Nagsimula ang kabanata sa sugong naghahanda para sa pagdating ng Panginoon (Malakias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the image of a refiner's fire emphasize?",
+          "fil": "Ano ang binigyang-diin ng larawan ng apoy na dumadalisay ng metal?"
+        },
+        "options": {
+          "en": [
+            "Destroying God's ability to forgive",
+            "Purifying the people who serve God",
+            "Making wrongdoing acceptable"
+          ],
+          "fil": [
+            "Pagsira sa kakayahan ng Diyos na magpatawad",
+            "Paglilinis sa mga naglilingkod sa Diyos",
+            "Paggawang katanggap-tanggap sa kasamaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The refining image describes cleansing so offerings may be righteous (Malachi 3).",
+          "fil": "Inilarawan ng pagdadalisay ang paglilinis upang maging matuwid ang mga handog (Malakias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What work is associated with Elijah in the closing promise?",
+          "fil": "Anong gawain ang iniugnay kay Elias sa pangwakas na pangako?"
+        },
+        "options": {
+          "en": [
+            "Turning the hearts of parents and children toward one another",
+            "Teaching families to hate one another",
+            "Leading the people to worship the sun"
+          ],
+          "fil": [
+            "Paglalapit ng puso ng mga magulang at anak sa isa't isa",
+            "Pagtuturo sa mga pamilya na kamuhian ang isa't isa",
+            "Pag-akay sa bayan na sambahin ang araw"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing promise looks toward reconciliation before the Lord's day (Malachi 3).",
+          "fil": "Itinuro ng pangwakas na pangako ang pagkakasundo bago ang araw ng Panginoon (Malakias 3)."
+        }
+      }
+    ]
+  }
+}
