@@ -1,0 +1,217 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What troubles Habakkuk in his opening complaint?",
+          "fil": "Ano ang bumabagabag kay Habakuk sa pambungad niyang daing?"
+        },
+        "options": {
+          "en": [
+            "The temple has too many worshipers",
+            "Violence and injustice seem to go unanswered",
+            "The harvest is too large to gather"
+          ],
+          "fil": [
+            "Napakarami ng sumasamba sa Templo",
+            "Parang hindi natutugunan ang karahasan at kawalang-katarungan",
+            "Napakarami ng aning dapat tipunin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prophet brings his distress about wrongdoing directly to God (Habakkuk 1).",
+          "fil": "Tuwirang inilapit ng propeta sa Diyos ang kanyang pagkabagabag tungkol sa kasamaan (Habakuk 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which people does God say he is raising up?",
+          "fil": "Anong bayan ang sinabi ng Diyos na kanyang ibinabangon?"
+        },
+        "options": {
+          "en": [
+            "The Israelites led by Joshua",
+            "The Romans led by Caesar",
+            "The Babylonians, also called Chaldeans"
+          ],
+          "fil": [
+            "Ang mga Israelita sa pamumuno ni Josue",
+            "Ang mga Romano sa pamumuno ni Cesar",
+            "Ang mga taga-Babilonia na tinatawag ding Caldeo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's reply announces the rise of a fierce invading power (Habakkuk 1).",
+          "fil": "Ipinahayag ng sagot ng Diyos ang pag-angat ng mabangis na kapangyarihang mananalakay (Habakuk 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the reply lead Habakkuk to question God again?",
+          "fil": "Bakit muling nagtanong si Habakuk sa Diyos matapos ang sagot?"
+        },
+        "options": {
+          "en": [
+            "He wants God to reward every idol",
+            "He thinks Babylon is too gentle",
+            "He wonders why a cruel nation may swallow up others"
+          ],
+          "fil": [
+            "Gusto niyang gantimpalaan ng Diyos ang bawat diyus-diyosan",
+            "Sa tingin niya ay napakabanayad ng Babilonia",
+            "Nagtaka siya kung bakit pinahihintulutang lamunin ng malupit na bansa ang iba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Habakkuk struggles to understand God's use of a violent conqueror (Habakkuk 1).",
+          "fil": "Nahirapan si Habakuk na maunawaan ang paggamit ng Diyos sa marahas na mananakop (Habakuk 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What is Habakkuk told to do if the vision seems delayed?",
+          "fil": "Ano ang sinabi kay Habakuk na gawin kung tila naaantala ang pangitain?"
+        },
+        "options": {
+          "en": [
+            "Replace it with an idol's message",
+            "Wait for its fulfillment at the appointed time",
+            "Declare that God has forgotten it"
+          ],
+          "fil": [
+            "Palitan ito ng mensahe ng diyus-diyosan",
+            "Hintayin ang katuparan nito sa itinakdang panahon",
+            "Ipahayag na nakalimutan na ito ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision calls for patience because God's promise will be fulfilled (Habakkuk 2).",
+          "fil": "Nanawagan ang pangitain ng pagtitiyaga dahil matutupad ang pangako ng Diyos (Habakuk 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude marks the righteous person in contrast with the proud?",
+          "fil": "Anong saloobin ang tanda ng matuwid kung ihahambing sa mapagmataas?"
+        },
+        "options": {
+          "en": [
+            "Boasting about stolen wealth",
+            "Faithful trust",
+            "Cruelty toward the weak"
+          ],
+          "fil": [
+            "Pagyayabang sa nakaw na yaman",
+            "Tapat na pagtitiwala",
+            "Kalupitan sa mahihina"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The righteous are called to live by faithfulness rather than pride (Habakkuk 2).",
+          "fil": "Tinawag ang matuwid na mamuhay sa katapatan sa halip na pagmamataas (Habakuk 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the warnings say about wealth gained through plunder?",
+          "fil": "Ano ang sinabi ng mga babala tungkol sa yamang nakuha sa pandarambong?"
+        },
+        "options": {
+          "en": [
+            "It guarantees lasting safety",
+            "The plunderer will face judgment and loss",
+            "It makes the plunderer greater than God"
+          ],
+          "fil": [
+            "Tinitiyak nito ang pangmatagalang kaligtasan",
+            "Haharap sa hatol at pagkawala ang mandarambong",
+            "Ginagawa nitong higit sa Diyos ang mandarambong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Violence and unjust gain will turn back upon the oppressor (Habakkuk 2).",
+          "fil": "Babalik sa nang-api ang karahasan at di-makatarungang pakinabang (Habakuk 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Habakkuk ask God to remember amid judgment?",
+          "fil": "Ano ang hiniling ni Habakuk na alalahanin ng Diyos sa gitna ng paghatol?"
+        },
+        "options": {
+          "en": [
+            "Mercy",
+            "The needs of carved idols",
+            "A promise to reward cruelty"
+          ],
+          "fil": [
+            "Awa",
+            "Ang pangangailangan ng mga inukit na diyus-diyosan",
+            "Pangakong gantimpalaan ang kalupitan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer asks God to renew his work with compassion (Habakkuk 3).",
+          "fil": "Hiniling ng panalangin na muling kumilos ang Diyos nang may habag (Habakuk 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the vision of God moving through creation celebrate?",
+          "fil": "Ano ang ipinagdiriwang ng pangitain ng Diyos na kumikilos sa sangnilikha?"
+        },
+        "options": {
+          "en": [
+            "His need for a human army to create the earth",
+            "His defeat by the sea",
+            "His mighty action to save his people"
+          ],
+          "fil": [
+            "Ang pangangailangan niya ng hukbo ng tao upang likhain ang daigdig",
+            "Ang pagkatalo niya sa dagat",
+            "Ang kanyang makapangyarihang pagkilos upang iligtas ang kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer remembers God's power as the deliverer of his people (Habakkuk 3).",
+          "fil": "Ipinaalala ng panalangin ang kapangyarihan ng Diyos na tagapagligtas ng kanyang bayan (Habakuk 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Habakkuk choose to respond even if crops and herds fail?",
+          "fil": "Paano pinili ni Habakuk na tumugon kahit mabigo ang mga pananim at kawan?"
+        },
+        "options": {
+          "en": [
+            "He will trust only in stolen food",
+            "He will still rejoice in God as his strength",
+            "He will declare that idols have saved him"
+          ],
+          "fil": [
+            "Magtitiwala lamang siya sa nakaw na pagkain",
+            "Magagalak pa rin siya sa Diyos bilang kanyang lakas",
+            "Ipahahayag niyang iniligtas siya ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing confession expresses trust that does not depend on prosperity (Habakkuk 3).",
+          "fil": "Ipinahayag ng pangwakas na paninindigan ang pagtitiwalang hindi nakasalalay sa kasaganaan (Habakuk 3)."
+        }
+      }
+    ]
+  }
+}
