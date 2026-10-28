@@ -1,0 +1,3834 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What task does God give Jeremiah?",
+          "fil": "Anong tungkulin ang ibinigay ng Diyos kay Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Be a prophet to the nations",
+            "Replace the king of Egypt",
+            "Build an army for Assyria"
+          ],
+          "fil": [
+            "Maging propeta sa mga bansa",
+            "Palitan ang hari ng Egipto",
+            "Bumuo ng hukbo para sa Asiria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God appoints Jeremiah to speak his message to nations (Jeremiah 1).",
+          "fil": "Itinalaga ng Diyos si Jeremias upang ipahayag ang kanyang mensahe sa mga bansa (Jeremias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Jeremiah hesitate about speaking?",
+          "fil": "Bakit nag-atubili si Jeremias na magsalita?"
+        },
+        "options": {
+          "en": [
+            "He is already a foreign king",
+            "He has promised to remain in Egypt",
+            "He feels too young and inexperienced"
+          ],
+          "fil": [
+            "Isa na siyang dayuhang hari",
+            "Nangako siyang manatili sa Egipto",
+            "Nadarama niyang napakabata at kulang sa karanasan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah objects that his youth makes him an inadequate speaker (Jeremiah 1).",
+          "fil": "Sinabi ni Jeremias na dahil sa kabataan ay hindi siya sapat na tagapagsalita (Jeremias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God reassure Jeremiah about opposition?",
+          "fil": "Paano tiniyak ng Diyos kay Jeremias ang pagharap sa pagtutol?"
+        },
+        "options": {
+          "en": [
+            "No one will ever disagree with him",
+            "Jeremiah may change the message to please people",
+            "He will be with him to deliver him"
+          ],
+          "fil": [
+            "Walang sasalungat sa kanya kailanman",
+            "Maaaring baguhin ni Jeremias ang mensahe upang magustuhan ng tao",
+            "Sasamahan siya upang iligtas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises his presence and protection despite coming resistance (Jeremiah 1).",
+          "fil": "Ipinangako ng Diyos ang pagsama at pag-iingat sa kabila ng darating na pagtutol (Jeremias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "From which direction does the boiling-pot vision warn of disaster?",
+          "fil": "Saang direksiyon nagbabala ng kapahamakan ang pangitain ng kumukulong kaldero?"
+        },
+        "options": {
+          "en": [
+            "The south",
+            "The west",
+            "The north"
+          ],
+          "fil": [
+            "Sa timog",
+            "Sa kanluran",
+            "Sa hilaga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The tilted pot pictures an invasion coming from the north (Jeremiah 1).",
+          "fil": "Inilarawan ng nakatagilid na kaldero ang pagsalakay mula sa hilaga (Jeremias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What earlier relationship does God recall at the chapter's beginning?",
+          "fil": "Anong dating ugnayan ang inalala ng Diyos sa simula ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Babylon's faithful worship",
+            "Israel's early devotion like a bride's love",
+            "Egypt's ownership of Jerusalem"
+          ],
+          "fil": [
+            "Ang tapat na pagsamba ng Babilonia",
+            "Ang unang katapatan ng Israel tulad ng pag-ibig ng babaing ikakasal",
+            "Ang pagmamay-ari ng Egipto sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God contrasts Israel's early attachment with its later unfaithfulness (Jeremiah 2).",
+          "fil": "Inihambing ng Diyos ang unang pagmamahal ng Israel sa sumunod nitong pagtataksil (Jeremias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do broken water cisterns illustrate?",
+          "fil": "Ano ang inilalarawan ng mga sirang imbakan ng tubig?"
+        },
+        "options": {
+          "en": [
+            "God's inability to provide water",
+            "Worthless substitutes chosen instead of the living God",
+            "A plan to repair Jerusalem's wells"
+          ],
+          "fil": [
+            "Ang kawalan ng kakayahan ng Diyos na maglaan ng tubig",
+            "Walang saysay na mga kapalit na pinili sa halip na ang buháy na Diyos",
+            "Isang plano na kumpunihin ang mga balon ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Abandoning God is pictured as choosing containers that cannot hold water (Jeremiah 2).",
+          "fil": "Inilarawan ang pagtalikod sa Diyos bilang pagpili ng sisidlang hindi makapag-iimbak ng tubig (Jeremias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Israel wrongly claim despite its conduct?",
+          "fil": "Ano ang maling inangkin ng Israel sa kabila ng asal nito?"
+        },
+        "options": {
+          "en": [
+            "That it is innocent",
+            "That it has never left Egypt",
+            "That it wants to return every idol"
+          ],
+          "fil": [
+            "Na wala itong sala",
+            "Na hindi ito umalis sa Egipto kailanman",
+            "Na nais nitong isauli ang bawat diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The message challenges Israel's denial of guilt amid clear unfaithfulness (Jeremiah 2).",
+          "fil": "Hinamon ng mensahe ang pagtanggi ng Israel sa pagkakasala sa gitna ng malinaw na pagtataksil (Jeremias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What relationship pictures the people's unfaithfulness?",
+          "fil": "Anong ugnayan ang naglarawan ng pagtataksil ng bayan?"
+        },
+        "options": {
+          "en": [
+            "A marriage betrayed by an unfaithful spouse",
+            "A harvest shared with neighbors",
+            "An army winning every battle"
+          ],
+          "fil": [
+            "Pag-aasawang pinagtaksilan ng hindi tapat na asawa",
+            "Aniang ibinabahagi sa kapitbahay",
+            "Hukbong nananalo sa bawat labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel and Judah's idolatry is portrayed as covenant betrayal (Jeremiah 3).",
+          "fil": "Inilarawan ang pagsamba sa diyus-diyosan ng Israel at Juda bilang pagtataksil sa tipan (Jeremias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What invitation does God give the unfaithful people?",
+          "fil": "Anong paanyaya ang ibinigay ng Diyos sa taksil na bayan?"
+        },
+        "options": {
+          "en": [
+            "Seek more idols abroad",
+            "Return and acknowledge their guilt",
+            "Hide their conduct more carefully"
+          ],
+          "fil": [
+            "Humanap pa ng diyus-diyosan sa ibang bansa",
+            "Bumalik at kilalanin ang kanilang sala",
+            "Mas maingat na itago ang kanilang asal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God calls the people to return rather than continue denying their sin (Jeremiah 3).",
+          "fil": "Tinawag ng Diyos ang bayan na bumalik sa halip na patuloy na itanggi ang kasalanan (Jeremias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of leaders does God promise?",
+          "fil": "Anong uri ng mga pinuno ang ipinangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Kings who serve Baal alone",
+            "Shepherds who guide with knowledge and understanding",
+            "Rulers who forbid all teaching"
+          ],
+          "fil": [
+            "Mga haring kay Baal lamang maglilingkod",
+            "Mga pastol na gagabay nang may kaalaman at pang-unawa",
+            "Mga pinunong magbabawal ng lahat ng pagtuturo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God promises shepherds who will care for his people wisely (Jeremiah 3).",
+          "fil": "Ipinangako ng Diyos ang mga pastol na matalinong mangangalaga sa kanyang bayan (Jeremias 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What kind of change does the call to cleanse the heart require?",
+          "fil": "Anong pagbabago ang hinihingi ng panawagang linisin ang puso?"
+        },
+        "options": {
+          "en": [
+            "Better appearances without changed conduct",
+            "Genuine inward turning from evil",
+            "More wealth from dishonest trade"
+          ],
+          "fil": [
+            "Mas magandang panlabas na anyo nang hindi nagbabago ang asal",
+            "Tunay na panloob na pagtalikod sa masama",
+            "Dagdag na yaman sa madayang kalakalan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning calls for repentance deeper than outward signs (Jeremiah 4).",
+          "fil": "Nanawagan ang babala ng pagsisising higit sa mga panlabas na tanda (Jeremias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger is announced by the trumpet warnings?",
+          "fil": "Anong panganib ang ipinahayag ng mga babala ng trumpeta?"
+        },
+        "options": {
+          "en": [
+            "A festival with unlimited food",
+            "A destructive invasion from the north",
+            "A peaceful royal wedding"
+          ],
+          "fil": [
+            "Pistang walang hanggan ang pagkain",
+            "Mapaminsalang pagsalakay mula sa hilaga",
+            "Mapayapang kasalan ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judah is warned to prepare for an approaching enemy (Jeremiah 4).",
+          "fil": "Binalaan ang Juda na maghanda sa papalapit na kaaway (Jeremias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the vision of a dark, empty land emphasize?",
+          "fil": "Ano ang binigyang-diin ng pangitain ng madilim at walang lamang lupain?"
+        },
+        "options": {
+          "en": [
+            "The success of Judah's idols",
+            "The building of a new palace",
+            "The devastating scale of coming judgment"
+          ],
+          "fil": [
+            "Ang tagumpay ng mga diyus-diyosan ng Juda",
+            "Ang pagtatayo ng bagong palasyo",
+            "Ang lawak ng pagkawasak sa darating na paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision pictures judgment as creation's order being undone (Jeremiah 4).",
+          "fil": "Inilarawan ng pangitain ang paghatol na parang nawawala ang kaayusan ng sangnilikha (Jeremias 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What is Jeremiah told to look for in Jerusalem?",
+          "fil": "Ano ang ipinahanap kay Jeremias sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "A hidden crown of David",
+            "The richest foreign visitor",
+            "Someone who acts justly and seeks truth"
+          ],
+          "fil": [
+            "Nakatagong korona ni David",
+            "Ang pinakamayamang dayuhang bisita",
+            "Taong makatarungan at naghahanap ng katotohanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The search exposes how deeply dishonesty has spread through the city (Jeremiah 5).",
+          "fil": "Inilantad ng paghahanap kung gaano kalawak ang pandaraya sa lunsod (Jeremias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Do the leaders prove more faithful than the ordinary people?",
+          "fil": "Naging mas tapat ba ang mga pinuno kaysa karaniwang tao?"
+        },
+        "options": {
+          "en": [
+            "No, they too reject God's rule",
+            "Yes, every leader obeys perfectly",
+            "They have all left for Egypt"
+          ],
+          "fil": [
+            "Hindi, tinanggihan din nila ang pamamahala ng Diyos",
+            "Oo, ganap na sumusunod ang bawat pinuno",
+            "Umalis silang lahat patungong Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah finds that both lowly people and leaders have broken faith (Jeremiah 5).",
+          "fil": "Natuklasan ni Jeremias na kapwa nagtaksil ang karaniwang tao at mga pinuno (Jeremias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What disturbing pattern appears among prophets, priests, and people?",
+          "fil": "Anong nakababahalang kalakaran ang nakita sa mga propeta, pari, at bayan?"
+        },
+        "options": {
+          "en": [
+            "The people refuse every dishonest message",
+            "False messages and corrupt rule are welcomed",
+            "Everyone eagerly corrects every wrong"
+          ],
+          "fil": [
+            "Tinatanggihan ng bayan ang bawat madayang mensahe",
+            "Tinatanggap ang maling mensahe at masamang pamamahala",
+            "Sabik na itinutuwid ng lahat ang bawat mali"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter condemns a society comfortable with false prophecy and corrupt leadership (Jeremiah 5).",
+          "fil": "Kinondena ng kabanata ang lipunang nasisiyahan sa maling propesiya at masamang pamumuno (Jeremias 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What false reassurance do the leaders give wounded people?",
+          "fil": "Anong maling katiyakan ang ibinigay ng mga pinuno sa sugatang bayan?"
+        },
+        "options": {
+          "en": [
+            "News that Babylon has become Judah",
+            "Promises of peace when there is no peace",
+            "A command to flee from every feast"
+          ],
+          "fil": [
+            "Balitang naging Juda ang Babilonia",
+            "Mga pangako ng kapayapaan kahit wala nito",
+            "Utos na tumakas sa bawat piging"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Superficial reassurance leaves the people's real condition untreated (Jeremiah 6).",
+          "fil": "Hindi nalulunasan ng mababaw na pagtiyak ang tunay na kalagayan ng bayan (Jeremias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people refuse when urged to seek the good ancient path?",
+          "fil": "Ano ang tinanggihan ng bayan nang hilinging hanapin ang mabuting sinaunang daan?"
+        },
+        "options": {
+          "en": [
+            "To purchase another palace",
+            "To walk in the way that leads to rest",
+            "To build ships for Egypt"
+          ],
+          "fil": [
+            "Ang bumili ng isa pang palasyo",
+            "Ang lumakad sa daang humahantong sa pahinga",
+            "Ang gumawa ng barko para sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people reject the offered way of faithful living (Jeremiah 6).",
+          "fil": "Tinanggihan ng bayan ang iniaalok na daan ng tapat na pamumuhay (Jeremias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the failed refining of metal illustrate?",
+          "fil": "Ano ang inilalarawan ng bigong pagdadalisay ng metal?"
+        },
+        "options": {
+          "en": [
+            "God's need for better tools",
+            "An abundance of flawless silver",
+            "Stubborn corruption that refuses purification"
+          ],
+          "fil": [
+            "Ang pangangailangan ng Diyos ng mas mabuting kagamitan",
+            "Kasaganaan ng pilak na walang bahid",
+            "Matigas na kasamaang tumatanggi sa pagdadalisay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The refining image exposes evil that remains despite efforts to remove it (Jeremiah 6).",
+          "fil": "Inilantad ng larawan ng pagdadalisay ang kasamaang nananatili sa kabila ng pagsisikap na alisin ito (Jeremias 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Where is Jeremiah told to proclaim this message?",
+          "fil": "Saan inutusan si Jeremias na ipahayag ang mensaheng ito?"
+        },
+        "options": {
+          "en": [
+            "At the gate of the Lord's house",
+            "On a ship to Nineveh",
+            "In Pharaoh's throne room"
+          ],
+          "fil": [
+            "Sa pintuan ng bahay ng Panginoon",
+            "Sa barkong patungong Nineve",
+            "Sa silid-trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah addresses people arriving to worship at the temple (Jeremiah 7).",
+          "fil": "Kinausap ni Jeremias ang mga dumarating upang sumamba sa templo (Jeremias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistaken confidence does the sermon challenge?",
+          "fil": "Anong maling pagtitiwala ang hinamon ng sermon?"
+        },
+        "options": {
+          "en": [
+            "That the Lord hears sincere prayer",
+            "That having the temple guarantees safety despite wrongdoing",
+            "That honesty should shape worship"
+          ],
+          "fil": [
+            "Na dinidinig ng Panginoon ang tapat na panalangin",
+            "Na tiyak ang kaligtasan dahil may templo kahit gumagawa ng mali",
+            "Na dapat humubog sa pagsamba ang katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The temple must not be treated as protection for unchanged sinful conduct (Jeremiah 7).",
+          "fil": "Hindi dapat ituring ang templo na proteksiyon sa hindi nagbabagong makasalanang asal (Jeremias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical change does God require?",
+          "fil": "Anong praktikal na pagbabago ang hinihingi ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Increase offerings while continuing violence",
+            "Replace the temple with an idol",
+            "Deal justly and stop oppressing vulnerable people"
+          ],
+          "fil": [
+            "Dagdagan ang handog habang ipinagpapatuloy ang karahasan",
+            "Palitan ng diyus-diyosan ang templo",
+            "Maging makatarungan at tigilang apihin ang mahihinang tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls for justice toward neighbors rather than empty religious confidence (Jeremiah 7).",
+          "fil": "Nanawagan ang Diyos ng katarungan sa kapwa sa halip na hungkag na tiwalang panrelihiyon (Jeremias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Shiloh mentioned as a warning?",
+          "fil": "Bakit binanggit ang Shilo bilang babala?"
+        },
+        "options": {
+          "en": [
+            "Its people never worshiped the Lord",
+            "It became the capital of Egypt",
+            "Its former sanctuary did not prevent judgment"
+          ],
+          "fil": [
+            "Hindi kailanman sumamba sa Panginoon ang mga tao nito",
+            "Naging kabisera ito ng Egipto",
+            "Hindi napigilan ng dating santuwaryo nito ang paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Shiloh shows that a holy place does not excuse persistent unfaithfulness (Jeremiah 7).",
+          "fil": "Ipinakita ng Shilo na hindi dahilan ang banal na lugar upang palampasin ang patuloy na pagtataksil (Jeremias 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What failure is contrasted with birds knowing their seasons?",
+          "fil": "Anong pagkukulang ang inihambing sa mga ibong alam ang kanilang panahon?"
+        },
+        "options": {
+          "en": [
+            "The people fail to recognize the Lord's way",
+            "The people have no royal musicians",
+            "The people cannot identify foreign coins"
+          ],
+          "fil": [
+            "Hindi kinikilala ng bayan ang daan ng Panginoon",
+            "Walang musikero ng hari ang bayan",
+            "Hindi makilala ng bayan ang mga dayuhang barya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The birds' natural awareness contrasts with the people's refusal to return (Jeremiah 8).",
+          "fil": "Inihambing ang likas na pagkabatid ng mga ibon sa pagtanggi ng bayang magbalik-loob (Jeremias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is the people's claim to wisdom challenged?",
+          "fil": "Bakit hinamon ang pag-angkin ng bayan sa karunungan?"
+        },
+        "options": {
+          "en": [
+            "They lack a powerful king",
+            "They reject the Lord's word",
+            "They own too few books"
+          ],
+          "fil": [
+            "Wala silang makapangyarihang hari",
+            "Tinatanggihan nila ang salita ng Panginoon",
+            "Kakaunti ang kanilang aklat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Possessing religious teaching does not make wise those who reject God's message (Jeremiah 8).",
+          "fil": "Hindi nagiging matalino dahil may turong panrelihiyon ang tumatanggi sa mensahe ng Diyos (Jeremias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the questions about balm and a physician express?",
+          "fil": "Ano ang ipinahayag ng mga tanong tungkol sa balsamo at manggagamot?"
+        },
+        "options": {
+          "en": [
+            "Excitement about a trading journey",
+            "Grief that the wounded people remain unhealed",
+            "A plan to stop every harvest"
+          ],
+          "fil": [
+            "Tuwa sa isang paglalakbay pangkalakalan",
+            "Dalamhati dahil hindi pa gumagaling ang sugatang bayan",
+            "Planong itigil ang bawat anihan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing lament mourns the lack of healing for the people (Jeremiah 8).",
+          "fil": "Ipinagluksa ng pangwakas na panaghoy ang kawalan ng paggaling ng bayan (Jeremias 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does the wish for endless tears express?",
+          "fil": "Ano ang ipinahayag ng hangaring magkaroon ng walang tigil na luha?"
+        },
+        "options": {
+          "en": [
+            "Joy at a new palace",
+            "Pride in military success",
+            "Deep grief over the people's destruction"
+          ],
+          "fil": [
+            "Tuwa sa bagong palasyo",
+            "Pagmamalaki sa tagumpay ng hukbo",
+            "Malalim na dalamhati sa pagkawasak ng bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The lament expresses sorrow too great for ordinary weeping (Jeremiah 9).",
+          "fil": "Ipinahayag ng panaghoy ang lungkot na higit sa karaniwang pag-iyak (Jeremias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes relationships among the people unsafe?",
+          "fil": "Ano ang nagpapaging hindi ligtas sa ugnayan ng mga tao?"
+        },
+        "options": {
+          "en": [
+            "Every neighbor freely shares food",
+            "Deceit and betrayal have become common",
+            "Everyone speaks honestly"
+          ],
+          "fil": [
+            "Kusang nagbabahagi ng pagkain ang bawat kapitbahay",
+            "Naging karaniwan ang panlilinlang at pagtataksil",
+            "Tapat magsalita ang lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter describes speech corrupted by lies and mistrust (Jeremiah 9).",
+          "fil": "Inilarawan ng kabanata ang pananalitang nasira ng kasinungalingan at kawalang-tiwala (Jeremias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is a proper source of confidence beyond wisdom, strength, or riches?",
+          "fil": "Ano ang tamang pagkukunan ng tiwala higit sa talino, lakas, o yaman?"
+        },
+        "options": {
+          "en": [
+            "Controlling other people's worship",
+            "Owning the largest estate",
+            "Knowing the Lord who practices love, justice, and righteousness"
+          ],
+          "fil": [
+            "Pagkontrol sa pagsamba ng iba",
+            "Pagmamay-ari ng pinakamalaking lupain",
+            "Pagkilala sa Panginoong gumagawa ng pag-ibig, katarungan, at katuwiran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God redirects boasting toward knowing his character and ways (Jeremiah 9).",
+          "fil": "Itinuon ng Diyos ang pagmamalaki sa pagkilala sa kanyang pagkatao at mga daan (Jeremias 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why should people not fear handmade idols?",
+          "fil": "Bakit hindi dapat katakutan ang mga diyus-diyosang gawa ng kamay?"
+        },
+        "options": {
+          "en": [
+            "They cannot act or speak and must be carried",
+            "They alone control the rain",
+            "They are greater than the Creator"
+          ],
+          "fil": [
+            "Hindi sila makakilos o makapagsalita at kailangang buhatin",
+            "Sila lamang ang kumokontrol sa ulan",
+            "Mas dakila sila kaysa Lumikha"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter exposes the helplessness of objects made for worship (Jeremiah 10).",
+          "fil": "Inilantad ng kabanata ang kawalang-lakas ng mga bagay na ginawa upang sambahin (Jeremias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the Lord contrasted with these idols?",
+          "fil": "Paano inihambing ang Panginoon sa mga diyus-diyosang ito?"
+        },
+        "options": {
+          "en": [
+            "He depends on craftsmen for strength",
+            "He too is carved from a tree",
+            "He is the living Creator and true King"
+          ],
+          "fil": [
+            "Umaasa siya sa manggagawa para sa lakas",
+            "Inukit din siya mula sa puno",
+            "Siya ang buháy na Lumikha at tunay na Hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord's creative power distinguishes him from lifeless images (Jeremiah 10).",
+          "fil": "Naiiba sa walang buhay na imahen ang Panginoon dahil sa kanyang kapangyarihang lumikha (Jeremias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of correction is requested in the closing prayer?",
+          "fil": "Anong uri ng pagtutuwid ang hiniling sa pangwakas na panalangin?"
+        },
+        "options": {
+          "en": [
+            "Just correction rather than destruction in anger",
+            "Permission to keep worshiping idols",
+            "No accountability for any wrong"
+          ],
+          "fil": [
+            "Makatarungang pagtutuwid sa halip na paglipol sa galit",
+            "Pahintulot na patuloy na sumamba sa diyus-diyosan",
+            "Walang pananagutan sa anumang mali"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer asks God to correct with measured justice (Jeremiah 10).",
+          "fil": "Hiniling ng panalangin na magtuwid ang Diyos nang may makatarungang sukat (Jeremias 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What covenant failure is charged against Judah and Israel?",
+          "fil": "Anong pagtataksil sa tipan ang ibinintang sa Juda at Israel?"
+        },
+        "options": {
+          "en": [
+            "Giving too much to the poor",
+            "Failing to build pyramids",
+            "Refusing to obey God and serving other gods"
+          ],
+          "fil": [
+            "Sobrang pagbibigay sa mahihirap",
+            "Hindi pagtatayo ng piramide",
+            "Pagtangging sundin ang Diyos at paglilingkod sa ibang mga diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people repeat the disobedience their covenant had forbidden (Jeremiah 11).",
+          "fil": "Inulit ng bayan ang pagsuway na ipinagbabawal ng kanilang tipan (Jeremias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Can their many idols rescue them when disaster comes?",
+          "fil": "Maililigtas ba sila ng maraming diyus-diyosan kapag dumating ang kapahamakan?"
+        },
+        "options": {
+          "en": [
+            "Only if the idols receive royal crowns",
+            "No, those gods cannot save them",
+            "Yes, every town's idol will protect it"
+          ],
+          "fil": [
+            "Kung tatanggap lamang ng korona ang mga diyus-diyosan",
+            "Hindi, hindi sila maililigtas ng mga diyos na iyon",
+            "Oo, iingatan ng diyus-diyosan ang bawat bayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The message exposes the uselessness of the gods the people have chosen (Jeremiah 11).",
+          "fil": "Inilantad ng mensahe ang kawalang-saysay ng mga diyos na pinili ng bayan (Jeremias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Jeremiah learn about from his own hometown?",
+          "fil": "Anong panganib ang nalaman ni Jeremias mula sa sarili niyang bayan?"
+        },
+        "options": {
+          "en": [
+            "They want to make him king",
+            "People plot to kill him for prophesying",
+            "They are selling his books abroad"
+          ],
+          "fil": [
+            "Gusto nila siyang gawing hari",
+            "Nagbalak ang mga tao na patayin siya dahil sa pagpopropesiya",
+            "Ipinagbibili nila sa ibang bansa ang kanyang mga aklat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people of Anathoth threaten Jeremiah because of his message (Jeremiah 11).",
+          "fil": "Binantaan ng mga taga-Anatot si Jeremias dahil sa kanyang mensahe (Jeremias 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What does Jeremiah ask about the wicked?",
+          "fil": "Ano ang itinanong ni Jeremias tungkol sa masasama?"
+        },
+        "options": {
+          "en": [
+            "Why none of them has ever lived",
+            "Why they have all become prophets",
+            "Why their lives seem to prosper"
+          ],
+          "fil": [
+            "Bakit wala sa kanila ang nabuhay kailanman",
+            "Bakit naging propeta silang lahat",
+            "Bakit tila masagana ang kanilang buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah brings the apparent success of the unfaithful before God (Jeremiah 12).",
+          "fil": "Iniharap ni Jeremias sa Diyos ang tila tagumpay ng mga hindi tapat (Jeremias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the comparison between running with people and horses warn Jeremiah?",
+          "fil": "Ano ang ibinabala kay Jeremias ng paghahambing sa pagtakbo kasama ng tao at kabayo?"
+        },
+        "options": {
+          "en": [
+            "Greater trials still lie ahead",
+            "Every difficulty has already ended",
+            "He must become a chariot driver"
+          ],
+          "fil": [
+            "May mas matinding pagsubok pang darating",
+            "Tapos na ang bawat kahirapan",
+            "Dapat siyang maging tagapagpatakbo ng karwahe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's response calls Jeremiah to endurance before stronger opposition (Jeremiah 12).",
+          "fil": "Tinawag ng sagot ng Diyos si Jeremias na magtiis bago ang mas malakas na pagtutol (Jeremias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom is Jeremiah warned not to trust merely because they speak kindly?",
+          "fil": "Sino ang binalaan si Jeremias na huwag basta pagkatiwalaan dahil mabait magsalita?"
+        },
+        "options": {
+          "en": [
+            "Even his own brothers and family",
+            "Only people he has never met",
+            "Only distant foreign rulers"
+          ],
+          "fil": [
+            "Maging ang sarili niyang mga kapatid at pamilya",
+            "Mga hindi pa niya nakikilala lamang",
+            "Malalayong dayuhang pinuno lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning says that even relatives have acted treacherously toward him (Jeremiah 12).",
+          "fil": "Sinabi ng babala na maging mga kamag-anak ay nagtaksil sa kanya (Jeremias 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What happens to the linen belt Jeremiah hides and later retrieves?",
+          "fil": "Ano ang nangyari sa sinturong lino na itinago at muling kinuha ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "It turns into a living branch",
+            "It is ruined and useless",
+            "It becomes a golden crown"
+          ],
+          "fil": [
+            "Naging buháy na sanga ito",
+            "Nasira ito at walang pakinabang",
+            "Naging gintong korona ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ruined belt becomes a sign of Judah's spoiled pride (Jeremiah 13).",
+          "fil": "Naging tanda ng nasirang pagmamataas ng Juda ang sirang sinturon (Jeremias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship had God intended the belt to illustrate?",
+          "fil": "Anong ugnayan ang nilayon ng Diyos na ilarawan ng sinturon?"
+        },
+        "options": {
+          "en": [
+            "The king owning every nation",
+            "God serving the idols of Judah",
+            "The people clinging closely to him"
+          ],
+          "fil": [
+            "Ang hari na nagmamay-ari ng bawat bansa",
+            "Ang Diyos na naglilingkod sa mga diyus-diyosan ng Juda",
+            "Ang bayang mahigpit na kumakapit sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God intended Israel and Judah to belong closely to him for his praise (Jeremiah 13).",
+          "fil": "Nilayon ng Diyos na mapalapit sa kanya ang Israel at Juda para sa kanyang papuri (Jeremias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude does the message urge the people to abandon?",
+          "fil": "Anong saloobin ang hinikayat ng mensahe na iwan ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Gratitude for God's care",
+            "Humble repentance",
+            "Proud refusal to listen"
+          ],
+          "fil": [
+            "Pasasalamat sa pag-aalaga ng Diyos",
+            "Mapagpakumbabang pagsisisi",
+            "Mapagmataas na pagtangging makinig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter calls the people to humility before judgment brings darkness (Jeremiah 13).",
+          "fil": "Tinawag ng kabanata ang bayan sa pagpapakumbaba bago magdilim dahil sa paghatol (Jeremias 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What crisis leaves people searching unsuccessfully for water?",
+          "fil": "Anong krisis ang nagpaigting sa bigong paghahanap ng tubig ng mga tao?"
+        },
+        "options": {
+          "en": [
+            "A journey across the sea",
+            "Severe drought",
+            "A royal wedding"
+          ],
+          "fil": [
+            "Paglalakbay sa dagat",
+            "Matinding tagtuyot",
+            "Kasalan ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Drought brings suffering to people, fields, and animals (Jeremiah 14).",
+          "fil": "Nagdulot ng paghihirap sa tao, bukid, at hayop ang tagtuyot (Jeremias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false promise do some prophets make?",
+          "fil": "Anong maling pangako ang sinabi ng ilang propeta?"
+        },
+        "options": {
+          "en": [
+            "The people must repent sincerely",
+            "No sword or famine will come",
+            "Idols cannot save anyone"
+          ],
+          "fil": [
+            "Dapat taimtim na magsisi ang bayan",
+            "Walang darating na tabak o taggutom",
+            "Hindi makapagliligtas ang diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God rejects prophets who promise safety without having been sent (Jeremiah 14).",
+          "fil": "Tinanggihan ng Diyos ang mga propetang nangako ng kaligtasan nang hindi isinugo (Jeremias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "On whom does the closing prayer depend for rain?",
+          "fil": "Kanino umasa ang pangwakas na panalangin para sa ulan?"
+        },
+        "options": {
+          "en": [
+            "Handmade idols",
+            "The king's wealth",
+            "The Lord who made all things"
+          ],
+          "fil": [
+            "Sa mga diyus-diyosang gawa ng kamay",
+            "Sa kayamanan ng hari",
+            "Sa Panginoong gumawa ng lahat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer acknowledges that only God can provide the needed rain (Jeremiah 14).",
+          "fil": "Kinilala ng panalangin na Diyos lamang ang makapaglalaan ng kailangang ulan (Jeremias 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How does Jeremiah remember receiving God's words?",
+          "fil": "Paano inalala ni Jeremias ang pagtanggap sa mga salita ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "As food that brought joy to his heart",
+            "As instructions to worship Baal",
+            "As a secret route to royal wealth"
+          ],
+          "fil": [
+            "Bilang pagkaing nagdala ng tuwa sa kanyang puso",
+            "Bilang tagubiling sumamba kay Baal",
+            "Bilang lihim na daan sa yaman ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah recalls delight in God's word amid his painful calling (Jeremiah 15).",
+          "fil": "Inalala ni Jeremias ang tuwa sa salita ng Diyos sa gitna ng masakit niyang tungkulin (Jeremias 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What personal hardship does Jeremiah describe?",
+          "fil": "Anong sariling paghihirap ang inilarawan ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Loneliness and continual pain because of his calling",
+            "Disappointment at owning too many palaces",
+            "The burden of ruling Egypt"
+          ],
+          "fil": [
+            "Pag-iisa at patuloy na sakit dahil sa kanyang tungkulin",
+            "Pagkabigo dahil sa sobrang daming palasyo",
+            "Ang pasanin ng pamumuno sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah laments the isolation and suffering of bearing God's message (Jeremiah 15).",
+          "fil": "Ipinaghinagpis ni Jeremias ang pag-iisa at pagdurusa sa pagdadala ng mensahe ng Diyos (Jeremias 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise if Jeremiah returns to faithful service?",
+          "fil": "Ano ang ipinangako ng Diyos kung babalik si Jeremias sa tapat na paglilingkod?"
+        },
+        "options": {
+          "en": [
+            "That he will become king of Babylon",
+            "That he may replace the message with flattery",
+            "Strength to stand and deliverance from opponents"
+          ],
+          "fil": [
+            "Na magiging hari siya ng Babilonia",
+            "Na maaari niyang palitan ng pambobola ang mensahe",
+            "Lakas upang tumindig at pagliligtas sa mga kalaban"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God renews the promise to uphold Jeremiah as his spokesman (Jeremiah 15).",
+          "fil": "Pinanibago ng Diyos ang pangakong aalalayan si Jeremias bilang kanyang tagapagsalita (Jeremias 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Why is Jeremiah told not to marry and raise children there?",
+          "fil": "Bakit sinabihan si Jeremias na huwag mag-asawa at magkaanak doon?"
+        },
+        "options": {
+          "en": [
+            "He has already become a foreign ruler",
+            "Coming disaster will bring terrible loss to families",
+            "Marriage is forbidden for every person forever"
+          ],
+          "fil": [
+            "Naging dayuhang pinuno na siya",
+            "Magdadala ng matinding pagkawala sa mga pamilya ang darating na kapahamakan",
+            "Bawal mag-asawa ang bawat tao magpakailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeremiah's unmarried life becomes a sign of approaching judgment (Jeremiah 16).",
+          "fil": "Naging tanda ng papalapit na paghatol ang hindi pag-aasawa ni Jeremias (Jeremias 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must Jeremiah abstain from mourning gatherings and feasts?",
+          "fil": "Bakit kailangang umiwas si Jeremias sa pagtitipong panluksa at piging?"
+        },
+        "options": {
+          "en": [
+            "The people have already ended all wrongdoing",
+            "God forbids all compassion forever",
+            "Their interruption will picture the loss of peace and joy"
+          ],
+          "fil": [
+            "Tinigilan na ng bayan ang lahat ng kasamaan",
+            "Ipinagbabawal ng Diyos ang lahat ng habag magpakailanman",
+            "Ilalarawan ng paghinto sa mga ito ang pagkawala ng kapayapaan at saya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "His abstention points to the ordinary life that judgment will disrupt (Jeremiah 16).",
+          "fil": "Itinuro ng kanyang pag-iwas ang karaniwang buhay na maaantala ng paghatol (Jeremias 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope is promised beyond the scattering?",
+          "fil": "Anong pag-asa ang ipinangako lampas sa pagkakawatak-watak?"
+        },
+        "options": {
+          "en": [
+            "God will bring the people back from the lands of exile",
+            "Their idols will conquer God",
+            "Their homeland will never be remembered"
+          ],
+          "fil": [
+            "Ibabalik ng Diyos ang bayan mula sa mga lupain ng pagkakatapon",
+            "Sasakupin ng kanilang diyus-diyosan ang Diyos",
+            "Hindi na aalalahanin ang kanilang lupain kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "A future return is promised after the warning of exile (Jeremiah 16).",
+          "fil": "Ipinangako ang pagbabalik sa hinaharap matapos ang babala ng pagkakatapon (Jeremias 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What does the dry desert shrub picture?",
+          "fil": "Ano ang inilalarawan ng palumpong sa tuyong ilang?"
+        },
+        "options": {
+          "en": [
+            "A person whose trust turns away from the Lord",
+            "A nation that never faces hardship",
+            "A person who faithfully relies on God"
+          ],
+          "fil": [
+            "Taong lumalayo sa Panginoon ang pagtitiwala",
+            "Bansang hindi nahihirapan kailanman",
+            "Taong tapat na umaasa sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Trust in human strength while abandoning God is compared with a barren shrub (Jeremiah 17).",
+          "fil": "Inihambing sa tigang na palumpong ang pag-asa sa lakas ng tao habang tinatalikuran ang Diyos (Jeremias 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What picture describes someone who trusts the Lord?",
+          "fil": "Anong larawan ang naglarawan sa nagtitiwala sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A crumbling palace",
+            "A tree rooted near water",
+            "A broken jar"
+          ],
+          "fil": [
+            "Gumuguhong palasyo",
+            "Punong nakaugat malapit sa tubig",
+            "Basag na banga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Trust in God is pictured as a tree sustained even during heat and drought (Jeremiah 17).",
+          "fil": "Inilarawan ang pagtitiwala sa Diyos bilang punong naaalagaan kahit sa init at tagtuyot (Jeremias 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who can truly search the heart and judge its ways?",
+          "fil": "Sino ang tunay na makasusuri sa puso at makahatol sa mga daan nito?"
+        },
+        "options": {
+          "en": [
+            "Handmade images",
+            "Every wealthy person",
+            "The Lord"
+          ],
+          "fil": [
+            "Mga imaheng gawa ng kamay",
+            "Ang bawat mayaman",
+            "Ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God knows the heart beyond human self-deception (Jeremiah 17).",
+          "fil": "Alam ng Diyos ang puso lampas sa pandaraya ng tao sa sarili (Jeremias 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Where does God send Jeremiah to observe an ordinary worker?",
+          "fil": "Saan isinugo ng Diyos si Jeremias upang magmasid sa karaniwang manggagawa?"
+        },
+        "options": {
+          "en": [
+            "A potter's house",
+            "Pharaoh's treasury",
+            "A royal shipyard"
+          ],
+          "fil": [
+            "Sa bahay ng magpapalayok",
+            "Sa kabang-yaman ni Faraon",
+            "Sa pagawaan ng barko ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah watches a potter working clay at his wheel (Jeremiah 18).",
+          "fil": "Pinanood ni Jeremias ang magpapalayok na humuhubog ng luwad sa kanyang gulong (Jeremias 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the potter do when the vessel is spoiled?",
+          "fil": "Ano ang ginawa ng magpapalayok nang masira ang sisidlan?"
+        },
+        "options": {
+          "en": [
+            "Turns the clay into gold",
+            "Stops working forever",
+            "Reshapes the clay into another vessel"
+          ],
+          "fil": [
+            "Ginawang ginto ang luwad",
+            "Tumigil sa paggawa magpakailanman",
+            "Muling hinubog ang luwad bilang ibang sisidlan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The reshaping illustrates God's authority over his people (Jeremiah 18).",
+          "fil": "Inilarawan ng muling paghubog ang kapangyarihan ng Diyos sa kanyang bayan (Jeremias 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response can change an announced judgment against a nation?",
+          "fil": "Anong tugon ang makapagbabago sa ipinahayag na hatol laban sa bansa?"
+        },
+        "options": {
+          "en": [
+            "Hiding the warning",
+            "Making larger idols",
+            "Turning from evil"
+          ],
+          "fil": [
+            "Pagtatago ng babala",
+            "Paggawa ng mas malaking diyus-diyosan",
+            "Pagtalikod sa kasamaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls Judah to repent and explains that his warnings invite change (Jeremiah 18).",
+          "fil": "Tinawag ng Diyos ang Juda na magsisi at ipinaliwanag na paanyaya sa pagbabago ang mga babala (Jeremias 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What object does Jeremiah break before the elders?",
+          "fil": "Anong bagay ang binasag ni Jeremias sa harap ng matatanda?"
+        },
+        "options": {
+          "en": [
+            "The ark of the covenant",
+            "A golden crown",
+            "An earthenware jar"
+          ],
+          "fil": [
+            "Ang Kaban ng Tipan",
+            "Isang gintong korona",
+            "Isang bangang luwad"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah breaks a purchased jar as a public sign (Jeremiah 19).",
+          "fil": "Binasag ni Jeremias ang biniling banga bilang hayag na tanda (Jeremias 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the broken jar represent?",
+          "fil": "Ano ang inilalarawan ng basag na banga?"
+        },
+        "options": {
+          "en": [
+            "A promise of unlimited wealth",
+            "The success of idol worship",
+            "The coming shattering of the city and people"
+          ],
+          "fil": [
+            "Pangako ng walang hanggang yaman",
+            "Ang tagumpay ng pagsamba sa diyus-diyosan",
+            "Ang darating na pagkawasak ng lunsod at bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The jar's irreversible breaking pictures the severity of judgment (Jeremiah 19).",
+          "fil": "Inilarawan ng hindi na maibabalik na pagkabasag ng banga ang tindi ng paghatol (Jeremias 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrongdoing is especially condemned in the valley?",
+          "fil": "Anong kasalanan ang lalo nang kinondena sa lambak?"
+        },
+        "options": {
+          "en": [
+            "Teaching children God's law",
+            "Idolatry and the killing of innocent children",
+            "Feeding hungry travelers"
+          ],
+          "fil": [
+            "Pagtuturo sa mga bata ng kautusan ng Diyos",
+            "Pagsamba sa diyus-diyosan at pagpatay sa mga batang walang sala",
+            "Pagpapakain sa nagugutom na manlalakbay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning exposes violence and false worship in the valley of Ben Hinnom (Jeremiah 19).",
+          "fil": "Inilantad ng babala ang karahasan at maling pagsamba sa lambak ng Ben Hinom (Jeremias 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What does Pashhur do after hearing Jeremiah's message?",
+          "fil": "Ano ang ginawa ni Pashur matapos marinig ang mensahe ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Has him beaten and confined",
+            "Gives him a new palace",
+            "Crowns him king"
+          ],
+          "fil": [
+            "Ipinabugbog at ikinulong siya",
+            "Binigyan siya ng bagong palasyo",
+            "Kinoronahan siyang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The temple official punishes Jeremiah for proclaiming God's warning (Jeremiah 20).",
+          "fil": "Pinarusahan ng opisyal ng templo si Jeremias sa pagpapahayag ng babala ng Diyos (Jeremias 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can Jeremiah not simply stop speaking God's message?",
+          "fil": "Bakit hindi basta matigil ni Jeremias ang pagsasabi ng mensahe ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "His friends have promised him a throne",
+            "He wants to gain royal wealth",
+            "The word burns within him like an uncontainable fire"
+          ],
+          "fil": [
+            "Pinangakuan siya ng mga kaibigan ng trono",
+            "Gusto niyang magkaroon ng yaman ng hari",
+            "Nag-aalab sa loob niya ang salita na parang apoy na hindi mapigil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah feels compelled to speak despite the pain it brings (Jeremiah 20).",
+          "fil": "Nadama ni Jeremias na kailangang magsalita sa kabila ng sakit na dala nito (Jeremias 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jeremiah describe the Lord amid his persecutors?",
+          "fil": "Paano inilarawan ni Jeremias ang Panginoon sa gitna ng mga umuusig?"
+        },
+        "options": {
+          "en": [
+            "A helpless image needing rescue",
+            "A powerful defender standing with him",
+            "A ruler who knows nothing of his trouble"
+          ],
+          "fil": [
+            "Walang lakas na imaheng kailangang iligtas",
+            "Makapangyarihang tagapagtanggol na kasama niya",
+            "Pinunong walang alam sa kanyang hirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeremiah expresses trust in God's defense alongside his anguish (Jeremiah 20).",
+          "fil": "Ipinahayag ni Jeremias ang tiwala sa pagtatanggol ng Diyos kasabay ng kanyang dalamhati (Jeremias 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Why does Zedekiah send messengers to Jeremiah?",
+          "fil": "Bakit nagsugo si Zedekias kay Jeremias?"
+        },
+        "options": {
+          "en": [
+            "To appoint him priest of Baal",
+            "To ask for a plan to conquer Egypt",
+            "To seek God's help against Babylon's attack"
+          ],
+          "fil": [
+            "Upang gawin siyang pari ni Baal",
+            "Upang humingi ng planong sakupin ang Egipto",
+            "Upang humingi ng tulong ng Diyos laban sa pagsalakay ng Babilonia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king hopes for divine intervention against the besiegers (Jeremiah 21).",
+          "fil": "Umasa ang hari sa pagkilos ng Diyos laban sa mga kumukubkob (Jeremias 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unexpected answer does God give about the battle?",
+          "fil": "Anong hindi inaasahang sagot ang ibinigay ng Diyos tungkol sa labanan?"
+        },
+        "options": {
+          "en": [
+            "Babylon will surrender immediately",
+            "Judah's idols will defeat every enemy",
+            "He will act against Jerusalem rather than protect its rebellion"
+          ],
+          "fil": [
+            "Agad na susuko ang Babilonia",
+            "Tatalunin ng mga diyus-diyosan ng Juda ang bawat kaaway",
+            "Kikilos siya laban sa Jerusalem sa halip na ingatan ang paghihimagsik nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God declares judgment on the city instead of the rescue its king expects (Jeremiah 21).",
+          "fil": "Ipinahayag ng Diyos ang hatol sa lunsod sa halip na pagliligtas na inaasahan ng hari (Jeremias 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What course is offered as a way to preserve life?",
+          "fil": "Anong paraan ang inialok upang manatiling buhay?"
+        },
+        "options": {
+          "en": [
+            "Go out and surrender to the besieging Babylonians",
+            "Hide behind an idol",
+            "Remain certain the walls cannot fall"
+          ],
+          "fil": [
+            "Lumabas at sumuko sa kumukubkob na mga taga-Babilonia",
+            "Magtago sa likod ng diyus-diyosan",
+            "Manatiling tiyak na hindi babagsak ang mga pader"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning distinguishes survival through surrender from destruction inside the city (Jeremiah 21).",
+          "fil": "Ibinukod ng babala ang pananatiling buhay sa pagsuko sa pagkawasak sa loob ng lunsod (Jeremias 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What duty is central to the message for Judah's kings?",
+          "fil": "Anong tungkulin ang sentro ng mensahe para sa mga hari ng Juda?"
+        },
+        "options": {
+          "en": [
+            "Gather idols from every nation",
+            "Practice justice and defend the oppressed",
+            "Build palaces regardless of human cost"
+          ],
+          "fil": [
+            "Magtipon ng diyus-diyosan mula sa bawat bansa",
+            "Gumawa ng katarungan at ipagtanggol ang inaapi",
+            "Magtayo ng palasyo anuman ang pinsala sa tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The royal house is called to protect vulnerable people and stop injustice (Jeremiah 22).",
+          "fil": "Tinawag ang maharlikang sambahayan na ingatan ang mahina at itigil ang kawalang-katarungan (Jeremias 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What building practice is condemned?",
+          "fil": "Anong paraan ng pagtatayo ang kinondena?"
+        },
+        "options": {
+          "en": [
+            "Repairing homes for widows",
+            "Paying workers fairly",
+            "Using neighbors' labor without paying them"
+          ],
+          "fil": [
+            "Pagkukumpuni ng bahay para sa mga biyuda",
+            "Makatarungang pagbabayad sa manggagawa",
+            "Paggamit sa paggawa ng kapwa nang hindi binabayaran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A fine palace does not excuse exploitation of workers (Jeremiah 22).",
+          "fil": "Hindi dahilan ang magandang palasyo upang palampasin ang pagsasamantala sa manggagawa (Jeremias 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Josiah's care for the poor demonstrate?",
+          "fil": "Ano ang ipinakita ng malasakit ni Josias sa mahihirap?"
+        },
+        "options": {
+          "en": [
+            "A desire to replace the covenant",
+            "Genuine knowledge of the Lord",
+            "Weakness that made justice impossible"
+          ],
+          "fil": [
+            "Hangaring palitan ang tipan",
+            "Tunay na pagkilala sa Panginoon",
+            "Kahinaang pumigil sa katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Defending poor and needy people is presented as knowing God in practice (Jeremiah 22).",
+          "fil": "Iniharap ang pagtatanggol sa mahihirap at nangangailangan bilang praktikal na pagkilala sa Diyos (Jeremias 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What have the condemned shepherds done to God's flock?",
+          "fil": "Ano ang ginawa ng kinondenang mga pastol sa kawan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Kept every sheep safe",
+            "Scattered and neglected it",
+            "Taught it faithful worship perfectly"
+          ],
+          "fil": [
+            "Iningatan ang bawat tupa",
+            "Ikinalat at pinabayaan ito",
+            "Ganap na tinuruan ito ng tapat na pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God condemns leaders who harm the people entrusted to them (Jeremiah 23).",
+          "fil": "Kinondena ng Diyos ang mga pinunong pumipinsala sa bayang ipinagkatiwala sa kanila (Jeremias 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of ruler is promised from David's line?",
+          "fil": "Anong uri ng pinuno ang ipinangako mula sa angkan ni David?"
+        },
+        "options": {
+          "en": [
+            "A king devoted only to Baal",
+            "A king who forbids all justice",
+            "A righteous king who rules wisely and justly"
+          ],
+          "fil": [
+            "Haring nakatuon lamang kay Baal",
+            "Haring magbabawal ng lahat ng katarungan",
+            "Matuwid na haring mamamahala nang matalino at makatarungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promised Davidic ruler contrasts with the failed shepherds (Jeremiah 23).",
+          "fil": "Naiiba ang ipinangakong pinuno mula kay David sa bigong mga pastol (Jeremias 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is wrong with the reassuring messages of false prophets?",
+          "fil": "Ano ang mali sa nakapagpapanatag na mensahe ng mga huwad na propeta?"
+        },
+        "options": {
+          "en": [
+            "They speak their own ideas without God's commission",
+            "They call people to abandon evil",
+            "They faithfully deliver an unwanted warning"
+          ],
+          "fil": [
+            "Sinasabi nila ang sariling isip nang walang pagsusugo ng Diyos",
+            "Tinatawag nila ang tao na iwan ang masama",
+            "Tapat nilang ibinibigay ang babalang ayaw marinig"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God rejects prophets who offer false security instead of his word (Jeremiah 23).",
+          "fil": "Tinanggihan ng Diyos ang mga propetang nag-aalok ng maling katiyakan sa halip na kanyang salita (Jeremias 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What two contrasting objects appear in Jeremiah's vision?",
+          "fil": "Anong dalawang magkaibang bagay ang nakita sa pangitain ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Baskets of good and rotten figs",
+            "Two royal crowns",
+            "Two ships full of weapons"
+          ],
+          "fil": [
+            "Mga basket ng mabuti at bulok na igos",
+            "Dalawang korona ng hari",
+            "Dalawang barkong puno ng sandata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The baskets represent contrasting futures under God's judgment and care (Jeremiah 24).",
+          "fil": "Inilarawan ng mga basket ang magkaibang hinaharap sa paghatol at pag-aalaga ng Diyos (Jeremias 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do the good figs represent?",
+          "fil": "Sino ang inilalarawan ng mabubuting igos?"
+        },
+        "options": {
+          "en": [
+            "Only rulers who remain in Jerusalem",
+            "Exiles whom God will care for and restore",
+            "The priests of foreign idols"
+          ],
+          "fil": [
+            "Ang mga pinuno lamang na naiwan sa Jerusalem",
+            "Mga ipinatapong aalagaan at ibabalik ng Diyos",
+            "Ang mga pari ng dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God promises good to the exiles already carried to Babylon (Jeremiah 24).",
+          "fil": "Ipinangako ng Diyos ang mabuti sa mga dinala na sa Babilonia (Jeremias 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inner gift does God promise those exiles?",
+          "fil": "Anong panloob na kaloob ang ipinangako ng Diyos sa mga ipinatapon?"
+        },
+        "options": {
+          "en": [
+            "A desire to forget every covenant",
+            "Complete indifference to their neighbors",
+            "A heart that knows him and returns sincerely"
+          ],
+          "fil": [
+            "Hangaring limutin ang bawat tipan",
+            "Ganap na kawalang-malasakit sa kapwa",
+            "Pusong kumikilala sa kanya at tapat na bumabalik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Restoration includes renewed knowledge of God and wholehearted return (Jeremiah 24).",
+          "fil": "Kasama sa pagpapanumbalik ang bagong pagkilala sa Diyos at buong pusong pagbabalik (Jeremias 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "How have the people treated God's repeated prophetic warnings?",
+          "fil": "Paano tinrato ng bayan ang paulit-ulit na babala ng mga propeta ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They have never heard any warning",
+            "They have refused to listen",
+            "They have consistently obeyed"
+          ],
+          "fil": [
+            "Wala silang narinig na anumang babala",
+            "Tumanggi silang makinig",
+            "Patuloy silang sumunod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeremiah recalls years of messages rejected by the people (Jeremiah 25).",
+          "fil": "Inalala ni Jeremias ang mga taon ng mensaheng tinanggihan ng bayan (Jeremias 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What national consequence is announced?",
+          "fil": "Anong bunga para sa bansa ang ipinahayag?"
+        },
+        "options": {
+          "en": [
+            "Desolation and service to Babylon",
+            "A permanent end to every hardship",
+            "Immediate rule over every empire"
+          ],
+          "fil": [
+            "Pagkatiwangwang at paglilingkod sa Babilonia",
+            "Permanenteng katapusan ng bawat hirap",
+            "Agarang pamamahala sa bawat imperyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah will face a long period under Babylonian power (Jeremiah 25).",
+          "fil": "Haharap ang Juda sa mahabang panahon sa ilalim ng kapangyarihan ng Babilonia (Jeremias 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the cup given to the nations symbolize?",
+          "fil": "Ano ang inilalarawan ng kopang ibinigay sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "A harmless royal banquet",
+            "God's judgment reaching many peoples",
+            "A treaty making every idol true"
+          ],
+          "fil": [
+            "Isang piging ng hari na walang panganib",
+            "Ang paghatol ng Diyos na umaabot sa maraming bayan",
+            "Kasunduang ginagawang tunay ang bawat diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cup shows that judgment extends beyond Judah to other nations (Jeremiah 25).",
+          "fil": "Ipinakita ng kopa na umaabot lampas sa Juda ang paghatol sa ibang mga bansa (Jeremias 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "Why do priests and prophets demand Jeremiah's death?",
+          "fil": "Bakit hiniling ng mga pari at propeta na patayin si Jeremias?"
+        },
+        "options": {
+          "en": [
+            "He steals the royal crown",
+            "He warns that the temple and city can be destroyed",
+            "He commands an invading army"
+          ],
+          "fil": [
+            "Ninakaw niya ang korona ng hari",
+            "Nagbabala siyang maaaring mawasak ang templo at lunsod",
+            "Pinamunuan niya ang sumasalakay na hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeremiah's temple warning provokes a public accusation against him (Jeremiah 26).",
+          "fil": "Nagdulot ng hayag na paratang kay Jeremias ang kanyang babala tungkol sa templo (Jeremias 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jeremiah defend his message?",
+          "fil": "Paano ipinagtanggol ni Jeremias ang kanyang mensahe?"
+        },
+        "options": {
+          "en": [
+            "The Lord sent him, and repentance may avert disaster",
+            "Pharaoh paid him to threaten Judah",
+            "He invented it to gain power"
+          ],
+          "fil": [
+            "Isinugo siya ng Panginoon at maaaring mapigil ng pagsisisi ang kapahamakan",
+            "Binayaran siya ni Faraon upang bantaan ang Juda",
+            "Inimbento niya ito upang magkapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah calls the hearers to change their conduct instead of silencing the messenger (Jeremiah 26).",
+          "fil": "Tinawag ni Jeremias ang mga nakikinig na magbago sa halip na patahimikin ang sugo (Jeremias 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which earlier prophet's warning do the elders cite?",
+          "fil": "Kaninong babala ng naunang propeta ang binanggit ng matatanda?"
+        },
+        "options": {
+          "en": [
+            "Micah's warning in Hezekiah's time",
+            "Elijah's command to build Jerusalem",
+            "Jonah's warning to Pharaoh"
+          ],
+          "fil": [
+            "Ang babala ni Mikas sa panahon ni Ezequias",
+            "Ang utos ni Elias na itayo ang Jerusalem",
+            "Ang babala ni Jonas kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The elders recall that Hezekiah responded to Micah by seeking God (Jeremiah 26).",
+          "fil": "Inalala ng matatanda na tumugon si Ezequias kay Mikas sa paghahanap sa Diyos (Jeremias 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who helps keep Jeremiah from being put to death?",
+          "fil": "Sino ang tumulong upang hindi mapatay si Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Ahikam son of Shaphan",
+            "The queen of Sheba",
+            "Nebuchadnezzar's son"
+          ],
+          "fil": [
+            "Si Ahikam na anak ni Safan",
+            "Ang reyna ng Sheba",
+            "Ang anak ni Nebucadnezar"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ahikam supports Jeremiah against those seeking his death (Jeremiah 26).",
+          "fil": "Sinuportahan ni Ahikam si Jeremias laban sa mga naghahangad ng kanyang kamatayan (Jeremias 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What object does Jeremiah wear as a sign?",
+          "fil": "Anong bagay ang isinuot ni Jeremias bilang tanda?"
+        },
+        "options": {
+          "en": [
+            "A yoke",
+            "A soldier's helmet",
+            "A golden crown"
+          ],
+          "fil": [
+            "Isang pamatok",
+            "Isang helmet ng kawal",
+            "Isang gintong korona"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The yoke pictures submission to Babylon's rule (Jeremiah 27).",
+          "fil": "Inilarawan ng pamatok ang pagpapasailalim sa pamamahala ng Babilonia (Jeremias 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God tell the nations to accept for now?",
+          "fil": "Ano ang sinabi ng Diyos na tanggapin muna ng mga bansa?"
+        },
+        "options": {
+          "en": [
+            "Service under Babylon's king",
+            "Rule over every neighboring empire",
+            "A command to burn Jerusalem's temple themselves"
+          ],
+          "fil": [
+            "Paglilingkod sa ilalim ng hari ng Babilonia",
+            "Pamamahala sa bawat kalapit na imperyo",
+            "Utos na sunugin nila mismo ang templo ng Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The message urges acceptance of the rule God has temporarily assigned to Babylon (Jeremiah 27).",
+          "fil": "Hinimok ng mensahe ang pagtanggap sa pamamahalang pansamantalang ibinigay ng Diyos sa Babilonia (Jeremias 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false prediction about the temple vessels must people reject?",
+          "fil": "Anong maling hula tungkol sa mga kagamitan ng templo ang dapat tanggihan ng bayan?"
+        },
+        "options": {
+          "en": [
+            "That idols are powerless",
+            "That God's word must be obeyed",
+            "That those taken to Babylon will soon return"
+          ],
+          "fil": [
+            "Na walang kapangyarihan ang diyus-diyosan",
+            "Na dapat sundin ang salita ng Diyos",
+            "Na malapit nang bumalik ang mga dinala sa Babilonia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah warns against promises of an immediate return of the sacred objects (Jeremiah 27).",
+          "fil": "Nagbabala si Jeremias laban sa pangako ng agarang pagbabalik ng mga banal na kagamitan (Jeremias 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What does Hananiah do to Jeremiah's wooden yoke?",
+          "fil": "Ano ang ginawa ni Hananias sa kahoy na pamatok ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Carries it faithfully to Babylon",
+            "Turns it into a temple door",
+            "Breaks it to support his prediction of quick freedom"
+          ],
+          "fil": [
+            "Tapat itong dinala sa Babilonia",
+            "Ginawa itong pintuan ng templo",
+            "Binasag ito upang suportahan ang hula ng mabilis na paglaya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hananiah publicly breaks the yoke while contradicting Jeremiah's warning (Jeremiah 28).",
+          "fil": "Hayagang binasag ni Hananias ang pamatok habang sinasalungat ang babala ni Jeremias (Jeremias 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What replacement does God's message announce?",
+          "fil": "Anong ipapalit ang ipinahayag ng mensahe ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A crown for every priest",
+            "An iron yoke in place of the wooden one",
+            "A golden throne for Hananiah"
+          ],
+          "fil": [
+            "Korona para sa bawat pari",
+            "Pamatok na bakal sa halip na kahoy",
+            "Gintong trono para kay Hananias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Breaking the wooden sign does not remove the coming Babylonian burden (Jeremiah 28).",
+          "fil": "Hindi inalis ng pagsira sa kahoy na tanda ang darating na pasanin ng Babilonia (Jeremias 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Hananiah after Jeremiah announces judgment on his false message?",
+          "fil": "Ano ang nangyari kay Hananias matapos ipahayag ni Jeremias ang hatol sa maling mensahe?"
+        },
+        "options": {
+          "en": [
+            "He becomes king of Judah",
+            "He dies that year",
+            "He restores every exile immediately"
+          ],
+          "fil": [
+            "Naging hari siya ng Juda",
+            "Namatay siya nang taóng iyon",
+            "Agad niyang ibinalik ang bawat ipinatapon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hananiah's death confirms the warning against misleading the people (Jeremiah 28).",
+          "fil": "Pinatibay ng pagkamatay ni Hananias ang babala laban sa pagliligaw sa bayan (Jeremias 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "To whom does Jeremiah send the letter?",
+          "fil": "Kanino ipinadala ni Jeremias ang liham?"
+        },
+        "options": {
+          "en": [
+            "The rulers of Nineveh",
+            "The exiles in Babylon",
+            "The soldiers of Egypt alone"
+          ],
+          "fil": [
+            "Sa mga pinuno ng Nineve",
+            "Sa mga ipinatapon sa Babilonia",
+            "Sa mga kawal lamang ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The letter addresses Judah's community already living in exile (Jeremiah 29).",
+          "fil": "Kinausap ng liham ang pamayanan ng Juda na nasa pagkakatapon na (Jeremias 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the letter tell them to do while waiting?",
+          "fil": "Ano ang ipinagawa ng liham habang naghihintay sila?"
+        },
+        "options": {
+          "en": [
+            "Build homes, plant gardens, and pray for their city's welfare",
+            "Start worshiping Babylon's idols",
+            "Refuse to work because departure is immediate"
+          ],
+          "fil": [
+            "Magtayo ng bahay, magtanim, at ipanalangin ang kapakanan ng kanilang lunsod",
+            "Simulang sambahin ang mga diyus-diyosan ng Babilonia",
+            "Tumangging magtrabaho dahil aalis na agad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The exiles are to live responsibly rather than expect a quick end to exile (Jeremiah 29).",
+          "fil": "Dapat mamuhay nang responsable ang mga ipinatapon sa halip na umasa sa agarang pagtatapos ng pagkakatapon (Jeremias 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship with God is promised when they seek him wholeheartedly?",
+          "fil": "Anong ugnayan sa Diyos ang ipinangako kapag buong puso nila siyang hinanap?"
+        },
+        "options": {
+          "en": [
+            "They will find him and he will gather them back",
+            "They will no longer need his guidance",
+            "He will refuse every sincere prayer"
+          ],
+          "fil": [
+            "Matatagpuan nila siya at titipunin niya silang pabalik",
+            "Hindi na nila kakailanganin ang kanyang patnubay",
+            "Tatanggihan niya ang bawat tapat na panalangin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's promise points beyond the exile to renewed relationship and return (Jeremiah 29).",
+          "fil": "Itinuro ng pangako ng Diyos ang bagong ugnayan at pagbabalik lampas sa pagkakatapon (Jeremias 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "Why is Jeremiah told to write God's words in a book?",
+          "fil": "Bakit inutusang isulat ni Jeremias sa aklat ang mga salita ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "To replace God's message with royal praise",
+            "To sell a false prophecy to Egypt",
+            "To preserve the promise of restoration for Israel and Judah"
+          ],
+          "fil": [
+            "Upang palitan ng papuri sa hari ang mensahe ng Diyos",
+            "Upang magbenta ng maling propesiya sa Egipto",
+            "Upang ingatan ang pangako ng pagpapanumbalik sa Israel at Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The written message announces a future return to the ancestral land (Jeremiah 30).",
+          "fil": "Ipinahayag ng nakasulat na mensahe ang pagbabalik sa lupain ng mga ninuno (Jeremias 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the breaking of the foreign yoke promise?",
+          "fil": "Ano ang ipinangako ng pagsira sa pamatok ng dayuhan?"
+        },
+        "options": {
+          "en": [
+            "The permanent destruction of all hope",
+            "Freedom from oppressive foreign service",
+            "Permission to serve more idols"
+          ],
+          "fil": [
+            "Permanenteng pagwasak sa lahat ng pag-asa",
+            "Kalayaan mula sa mapang-aping paglilingkod sa dayuhan",
+            "Pahintulot na maglingkod sa mas maraming diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God promises to remove the bondage weighing on his people (Jeremiah 30).",
+          "fil": "Ipinangako ng Diyos na aalisin ang pagkakaaliping nagpapabigat sa kanyang bayan (Jeremias 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who promises to heal the wounds others cannot cure?",
+          "fil": "Sino ang nangakong pagagalingin ang mga sugat na hindi malunasan ng iba?"
+        },
+        "options": {
+          "en": [
+            "Judah's false allies",
+            "The Lord",
+            "Babylon's idols"
+          ],
+          "fil": [
+            "Ang mga taksil na kakampi ng Juda",
+            "Ang Panginoon",
+            "Ang mga diyus-diyosan ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God promises healing and restoration to the people called outcasts (Jeremiah 30).",
+          "fil": "Ipinangako ng Diyos ang paggaling at pagpapanumbalik sa bayang tinawag na itinakwil (Jeremias 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "Where will God place his law in the promised new covenant?",
+          "fil": "Saan ilalagay ng Diyos ang kanyang kautusan sa ipinangakong bagong tipan?"
+        },
+        "options": {
+          "en": [
+            "Within the people and in their hearts",
+            "In an idol's temple",
+            "Only in a foreign king's treasury"
+          ],
+          "fil": [
+            "Sa loob ng bayan at sa kanilang mga puso",
+            "Sa templo ng diyus-diyosan",
+            "Sa kabang-yaman lamang ng dayuhang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The new covenant includes God's law written inwardly in his people (Jeremiah 31).",
+          "fil": "Kasama sa bagong tipan ang kautusan ng Diyos na nakasulat sa loob ng kanyang bayan (Jeremias 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise concerning their sins?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa kanilang mga kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Forgiveness rather than continuing to hold them against the people",
+            "That idols will decide who is innocent",
+            "Permission to harm others freely"
+          ],
+          "fil": [
+            "Kapatawaran sa halip na patuloy na ipanagot sa bayan",
+            "Na diyus-diyosan ang magpapasiya kung sino ang walang sala",
+            "Pahintulot na malayang manakit ng iba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Forgiveness is central to the promised renewed covenant relationship (Jeremiah 31).",
+          "fil": "Sentro ng ipinangakong bagong ugnayan sa tipan ang kapatawaran (Jeremias 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope answers Rachel's mourning for her children?",
+          "fil": "Anong pag-asa ang tumugon sa pagluluksa ni Raquel para sa kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "No one will ever return home",
+            "The children will return from the enemy's land",
+            "Her grief proves God has forgotten every family"
+          ],
+          "fil": [
+            "Walang makauuwi kailanman",
+            "Babalik ang mga anak mula sa lupain ng kaaway",
+            "Patunay ang kanyang lungkot na kinalimutan ng Diyos ang bawat pamilya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The message answers mourning with hope of a future homecoming (Jeremiah 31).",
+          "fil": "Tinugon ng mensahe ang pagluluksa sa pag-asa ng pagbabalik sa hinaharap (Jeremias 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "What does Jeremiah buy while Jerusalem is under siege?",
+          "fil": "Ano ang binili ni Jeremias habang kinukubkob ang Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "A field at Anathoth",
+            "A palace in Egypt",
+            "An army of chariots"
+          ],
+          "fil": [
+            "Isang bukid sa Anatot",
+            "Palasyo sa Egipto",
+            "Hukbo ng mga karwahe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah buys a family field despite the city's desperate circumstances (Jeremiah 32).",
+          "fil": "Bumili si Jeremias ng bukid ng pamilya sa kabila ng matinding kalagayan ng lunsod (Jeremias 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jeremiah ask Baruch to do with the deeds?",
+          "fil": "Ano ang ipinagawa ni Jeremias kay Baruc sa mga kasulatan ng pagbili?"
+        },
+        "options": {
+          "en": [
+            "Burn them before the king",
+            "Throw them into the sea",
+            "Preserve them in a clay jar"
+          ],
+          "fil": [
+            "Sunugin ang mga ito sa harap ng hari",
+            "Itapon ang mga ito sa dagat",
+            "Ingatan ang mga ito sa bangang luwad"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The deeds are stored so they will last through the coming years (Jeremiah 32).",
+          "fil": "Inimbak ang mga kasulatan upang tumagal sa mga darating na taon (Jeremias 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope does the purchase express?",
+          "fil": "Anong pag-asa ang ipinahayag ng pagbili?"
+        },
+        "options": {
+          "en": [
+            "Jeremiah will become the next king",
+            "Babylon will never enter Jerusalem",
+            "Fields and houses will again be bought in the land"
+          ],
+          "fil": [
+            "Si Jeremias ang susunod na hari",
+            "Hindi makapapasok sa Jerusalem ang Babilonia kailanman",
+            "Muli pang bibilhin ang mga bukid at bahay sa lupain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The purchase acts out God's promise of life after exile (Jeremiah 32).",
+          "fil": "Isinagawa sa pagbili ang pangako ng Diyos ng buhay matapos ang pagkakatapon (Jeremias 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What does God promise for the devastated city?",
+          "fil": "Ano ang ipinangako ng Diyos para sa wasak na lunsod?"
+        },
+        "options": {
+          "en": [
+            "Healing, cleansing, and restored prosperity",
+            "A new temple for Baal",
+            "Permanent abandonment without hope"
+          ],
+          "fil": [
+            "Paggaling, paglilinis, at ibinalik na kasaganaan",
+            "Bagong templo para kay Baal",
+            "Permanenteng pagpapabaya nang walang pag-asa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God promises to restore the city and forgive the people's guilt (Jeremiah 33).",
+          "fil": "Ipinangako ng Diyos na ibabalik ang lunsod at patatawarin ang sala ng bayan (Jeremias 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What familiar sounds will return to the desolate streets?",
+          "fil": "Anong pamilyar na mga tunog ang babalik sa tiwangwang na lansangan?"
+        },
+        "options": {
+          "en": [
+            "Joy, weddings, and thanksgiving to God",
+            "Commands to worship foreign idols",
+            "Only the sounds of endless warfare"
+          ],
+          "fil": [
+            "Saya, kasalan, at pasasalamat sa Diyos",
+            "Mga utos na sumamba sa dayuhang diyus-diyosan",
+            "Mga tunog lamang ng walang tigil na digmaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ordinary celebration and worship will return where devastation now reigns (Jeremiah 33).",
+          "fil": "Babalik ang karaniwang pagdiriwang at pagsamba kung saan may pagkawasak ngayon (Jeremias 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What daily pattern illustrates the firmness of God's covenant promises?",
+          "fil": "Anong pang-araw-araw na kaayusan ang naglarawan sa katatagan ng mga pangako ng Diyos sa tipan?"
+        },
+        "options": {
+          "en": [
+            "The succession of day and night",
+            "The buying and selling of idols",
+            "The changing wishes of a king"
+          ],
+          "fil": [
+            "Ang paghahalinhinan ng araw at gabi",
+            "Ang pagbili at pagbebenta ng diyus-diyosan",
+            "Ang pabagu-bagong kagustuhan ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's covenant faithfulness is compared with the established order of day and night (Jeremiah 33).",
+          "fil": "Inihambing ang katapatan ng Diyos sa tipan sa matatag na kaayusan ng araw at gabi (Jeremias 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "What agreement do the people make about their Hebrew servants?",
+          "fil": "Anong kasunduan ang ginawa ng bayan tungkol sa kanilang mga lingkod na Hebreo?"
+        },
+        "options": {
+          "en": [
+            "To make them permanent prisoners",
+            "To sell them all to Egypt",
+            "To release them from slavery"
+          ],
+          "fil": [
+            "Gawin silang permanenteng bilanggo",
+            "Ipagbili silang lahat sa Egipto",
+            "Palayain sila mula sa pagkaalipin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king and people covenant to release their fellow Hebrews (Jeremiah 34).",
+          "fil": "Nakipagtipan ang hari at bayan na palayain ang kapwa mga Hebreo (Jeremias 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do they later violate that agreement?",
+          "fil": "Paano nila nilabag kalaunan ang kasunduang iyon?"
+        },
+        "options": {
+          "en": [
+            "They force the freed servants back into slavery",
+            "They allow everyone to leave peacefully",
+            "They give the freed people too much land"
+          ],
+          "fil": [
+            "Ibinalik nila sa pagkaalipin ang mga pinalayang lingkod",
+            "Pinayagan nilang mapayapang umalis ang lahat",
+            "Binigyan nila ng sobrang lupa ang mga pinalaya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people reverse the release and break their solemn covenant (Jeremiah 34).",
+          "fil": "Binaligtad ng bayan ang pagpapalaya at nilabag ang taimtim na tipan (Jeremias 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is God's response to their broken promise?",
+          "fil": "Ano ang tugon ng Diyos sa kanilang nilabag na pangako?"
+        },
+        "options": {
+          "en": [
+            "A guarantee that the city cannot fall",
+            "Judgment through war, disease, and famine",
+            "Approval of renewed enslavement"
+          ],
+          "fil": [
+            "Katiyakang hindi babagsak ang lunsod",
+            "Paghatol sa digmaan, sakit, at taggutom",
+            "Pagsang-ayon sa muling pang-aalipin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God condemns their reversal and announces severe consequences (Jeremiah 34).",
+          "fil": "Kinondena ng Diyos ang kanilang pagbawi at ipinahayag ang mabigat na bunga (Jeremias 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "Why do the Rechabites refuse the offered wine?",
+          "fil": "Bakit tinanggihan ng mga Recabita ang inialok na alak?"
+        },
+        "options": {
+          "en": [
+            "Their ancestor commanded them not to drink it",
+            "They think Jeremiah is selling stolen wine",
+            "They are waiting to be crowned kings"
+          ],
+          "fil": [
+            "Iniutos ng kanilang ninuno na huwag itong inumin",
+            "Inakala nilang nagbebenta si Jeremias ng ninakaw na alak",
+            "Naghihintay silang koronahang mga hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Rechabites remain faithful to their ancestor's instructions (Jeremiah 35).",
+          "fil": "Nanatiling tapat ang mga Recabita sa tagubilin ng kanilang ninuno (Jeremias 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What way of life do their family instructions also require?",
+          "fil": "Anong pamumuhay ang hinihingi rin ng mga tagubilin ng kanilang pamilya?"
+        },
+        "options": {
+          "en": [
+            "Living in tents rather than settled houses and vineyards",
+            "Serving Babylon's idols",
+            "Owning every palace in Judah"
+          ],
+          "fil": [
+            "Paninirahan sa tolda sa halip na permanenteng bahay at ubasan",
+            "Paglilingkod sa mga diyus-diyosan ng Babilonia",
+            "Pagmamay-ari ng bawat palasyo sa Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their customs preserve the mobile life their ancestor prescribed (Jeremiah 35).",
+          "fil": "Iningatan ng kanilang kaugalian ang palipat-lipat na buhay na itinakda ng ninuno (Jeremias 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast is Judah meant to notice?",
+          "fil": "Anong pagkakaiba ang dapat mapansin ng Juda?"
+        },
+        "options": {
+          "en": [
+            "The family has never received any instruction",
+            "Judah obeys God more faithfully than anyone",
+            "This family obeys its ancestor while Judah refuses God"
+          ],
+          "fil": [
+            "Walang natanggap na tagubilin ang pamilya kailanman",
+            "Mas tapat sa Diyos ang Juda kaysa kaninuman",
+            "Sumusunod ang pamilyang ito sa ninuno habang tumatanggi ang Juda sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Rechabites' obedience exposes Judah's refusal to hear God's repeated commands (Jeremiah 35).",
+          "fil": "Inilantad ng pagsunod ng mga Recabita ang pagtanggi ng Juda sa paulit-ulit na utos ng Diyos (Jeremias 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "Who writes the scroll as Jeremiah dictates God's messages?",
+          "fil": "Sino ang sumulat sa kasulatan habang idinidikta ni Jeremias ang mga mensahe ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Hananiah",
+            "Baruch",
+            "Zedekiah"
+          ],
+          "fil": [
+            "Si Hananias",
+            "Si Baruc",
+            "Si Zedekias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Baruch records the words Jeremiah speaks from the Lord (Jeremiah 36).",
+          "fil": "Itinala ni Baruc ang mga salitang ipinahayag ni Jeremias mula sa Panginoon (Jeremias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Baruch first read the scroll to the public?",
+          "fil": "Saan unang binasa ni Baruc sa bayan ang kasulatan?"
+        },
+        "options": {
+          "en": [
+            "At the Lord's temple",
+            "In Babylon's palace",
+            "On a ship to Egypt"
+          ],
+          "fil": [
+            "Sa templo ng Panginoon",
+            "Sa palasyo ng Babilonia",
+            "Sa barkong patungong Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Baruch reads the warning where people have gathered for a fast (Jeremiah 36).",
+          "fil": "Binasa ni Baruc ang babala kung saan nagtipon ang bayan para sa pag-aayuno (Jeremias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does King Jehoiakim do as the scroll is read to him?",
+          "fil": "Ano ang ginawa ni Haring Jehoiakim habang binabasa sa kanya ang kasulatan?"
+        },
+        "options": {
+          "en": [
+            "Cuts off sections and burns them",
+            "Immediately obeys every warning",
+            "Sends it back with a prayer of repentance"
+          ],
+          "fil": [
+            "Pinutol ang mga bahagi at sinunog",
+            "Agad na sinunod ang bawat babala",
+            "Ibinalik ito na may panalangin ng pagsisisi"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoiakim destroys the scroll rather than humbly receiving its message (Jeremiah 36).",
+          "fil": "Sinira ni Jehoiakim ang kasulatan sa halip na mapagpakumbabang tanggapin ang mensahe (Jeremias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God command after the scroll is burned?",
+          "fil": "Ano ang iniutos ng Diyos matapos sunugin ang kasulatan?"
+        },
+        "options": {
+          "en": [
+            "Replace the warning with praise of the king",
+            "Stop every prophetic message forever",
+            "Write the words again on another scroll"
+          ],
+          "fil": [
+            "Palitan ng papuri sa hari ang babala",
+            "Itigil ang bawat mensahe ng propeta magpakailanman",
+            "Isulat muli ang mga salita sa ibang kasulatan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Baruch writes a replacement scroll with additional words of warning (Jeremiah 36).",
+          "fil": "Sumulat si Baruc ng kapalit na kasulatan na may dagdag na mga babala (Jeremias 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "What does Jeremiah predict despite Babylon's temporary withdrawal?",
+          "fil": "Ano ang inihula ni Jeremias sa kabila ng pansamantalang pag-atras ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem will never face another attack",
+            "Egypt will permanently rule Babylon",
+            "Babylon will return and burn the city"
+          ],
+          "fil": [
+            "Hindi na sasalakayin muli ang Jerusalem kailanman",
+            "Permanenteng pamumunuan ng Egipto ang Babilonia",
+            "Babalik ang Babilonia at susunugin ang lunsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah warns that Babylon will return despite Egypt's intervention (Jeremiah 37).",
+          "fil": "Nagbabala si Jeremias na babalik ang Babilonia sa kabila ng pagkilos ng Egipto (Jeremias 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false accusation leads to Jeremiah's imprisonment?",
+          "fil": "Anong maling paratang ang humantong sa pagkabilanggo ni Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Deserting to the Babylonians",
+            "Stealing the ark",
+            "Poisoning the king's food"
+          ],
+          "fil": [
+            "Pagtakas upang kumampi sa Babilonia",
+            "Pagnanakaw sa Kaban",
+            "Paglalason sa pagkain ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah is arrested while leaving Jerusalem for the territory of Benjamin (Jeremiah 37).",
+          "fil": "Dinakip si Jeremias habang umaalis sa Jerusalem patungo sa lupain ng Benjamin (Jeremias 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jeremiah tell Zedekiah in their private meeting?",
+          "fil": "Ano ang sinabi ni Jeremias kay Zedekias sa pribado nilang pagkikita?"
+        },
+        "options": {
+          "en": [
+            "He will be handed over to Babylon's king",
+            "He will soon rule over Babylon",
+            "The Lord has approved every royal decision"
+          ],
+          "fil": [
+            "Ibibigay siya sa kamay ng hari ng Babilonia",
+            "Malapit na niyang pamunuan ang Babilonia",
+            "Sinang-ayunan ng Panginoon ang bawat pasiya ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah keeps the same warning even when speaking privately to the king (Jeremiah 37).",
+          "fil": "Pinanatili ni Jeremias ang babala kahit sa pribadong pakikipag-usap sa hari (Jeremias 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "Where do the officials put Jeremiah to silence his warnings?",
+          "fil": "Saan inilagay ng mga opisyal si Jeremias upang patahimikin ang mga babala?"
+        },
+        "options": {
+          "en": [
+            "In the king's dining room",
+            "On a ship to Babylon",
+            "In a muddy cistern"
+          ],
+          "fil": [
+            "Sa silid-kainan ng hari",
+            "Sa barkong patungong Babilonia",
+            "Sa balong may putik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah sinks into mud after being lowered into an empty cistern (Jeremiah 38).",
+          "fil": "Lumubog si Jeremias sa putik matapos ibaba sa balong walang tubig (Jeremias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who appeals to the king to rescue Jeremiah?",
+          "fil": "Sino ang nakiusap sa hari na iligtas si Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Hananiah",
+            "Pharaoh",
+            "Ebed-Melech"
+          ],
+          "fil": [
+            "Si Hananias",
+            "Si Faraon",
+            "Si Ebed-melec"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ebed-Melech protests the officials' cruel treatment of Jeremiah (Jeremiah 38).",
+          "fil": "Tinutulan ni Ebed-melec ang malupit na pakikitungo ng mga opisyal kay Jeremias (Jeremias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the rescuer protect Jeremiah while pulling him out?",
+          "fil": "Paano iningatan ng tagapagligtas si Jeremias habang hinihila palabas?"
+        },
+        "options": {
+          "en": [
+            "Pours stones into the cistern",
+            "Orders him to climb without help",
+            "Sends cloths to cushion the ropes under his arms"
+          ],
+          "fil": [
+            "Nagbuhos ng bato sa balon",
+            "Inutusan siyang umakyat nang walang tulong",
+            "Nagpadala ng telang isasapin sa lubid sa ilalim ng kanyang mga braso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The rescue includes thoughtful care to keep the ropes from hurting Jeremiah (Jeremiah 38).",
+          "fil": "Kasama sa pagliligtas ang maingat na pag-iwas na masaktan ng lubid si Jeremias (Jeremias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jeremiah urge Zedekiah to do to preserve his life and the city?",
+          "fil": "Ano ang hinimok ni Jeremias na gawin ni Zedekias upang ingatan ang buhay at lunsod?"
+        },
+        "options": {
+          "en": [
+            "Surrender to Babylon's officers",
+            "Burn the temple himself",
+            "Rely on the false prophets"
+          ],
+          "fil": [
+            "Sumuko sa mga opisyal ng Babilonia",
+            "Sunugin niya mismo ang templo",
+            "Umasa sa mga huwad na propeta"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah again offers surrender as the way to avoid the city's burning (Jeremiah 38).",
+          "fil": "Muling inialok ni Jeremias ang pagsuko bilang paraan upang maiwasang masunog ang lunsod (Jeremias 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "What happens to Jerusalem after the siege?",
+          "fil": "Ano ang nangyari sa Jerusalem matapos ang pagkubkob?"
+        },
+        "options": {
+          "en": [
+            "Babylon breaks into the city",
+            "Judah captures Babylon instead",
+            "The city becomes Egypt's new capital"
+          ],
+          "fil": [
+            "Nakapasok ang Babilonia sa lunsod",
+            "Nasakop ng Juda ang Babilonia sa halip",
+            "Naging bagong kabisera ng Egipto ang lunsod"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account records the fulfillment of the warning that Jerusalem would fall (Jeremiah 39).",
+          "fil": "Itinala ng salaysay ang katuparan ng babalang babagsak ang Jerusalem (Jeremias 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Zedekiah after he flees?",
+          "fil": "Ano ang nangyari kay Zedekias matapos tumakas?"
+        },
+        "options": {
+          "en": [
+            "He is captured, blinded, and taken toward Babylon",
+            "He safely returns to rule Jerusalem",
+            "He becomes Pharaoh's commander"
+          ],
+          "fil": [
+            "Nahuli siya, binulag, at dinala patungong Babilonia",
+            "Ligtas siyang bumalik upang pamunuan ang Jerusalem",
+            "Naging pinuno siya ng hukbo ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Zedekiah's attempted escape ends in capture and exile (Jeremiah 39).",
+          "fil": "Nagtapos sa pagkabihag at pagkatapon ang tangkang pagtakas ni Zedekias (Jeremias 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Babylon's king order concerning Jeremiah?",
+          "fil": "Ano ang iniutos ng hari ng Babilonia tungkol kay Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Protect him and treat him well",
+            "Force him to worship an idol",
+            "Execute him immediately"
+          ],
+          "fil": [
+            "Ingatan siya at tratuhin nang mabuti",
+            "Pilitin siyang sumamba sa diyus-diyosan",
+            "Patayin siya agad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah receives protection rather than the punishment his opponents wanted (Jeremiah 39).",
+          "fil": "Tumanggap si Jeremias ng pag-iingat sa halip na parusang nais ng mga kalaban (Jeremias 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "What choice does Babylon's captain offer Jeremiah?",
+          "fil": "Anong pagpipilian ang ibinigay ng kapitan ng Babilonia kay Jeremias?"
+        },
+        "options": {
+          "en": [
+            "Worship an idol or lose his freedom",
+            "Become king or be killed at once",
+            "Go to Babylon with protection or remain in the land"
+          ],
+          "fil": [
+            "Sumamba sa diyus-diyosan o mawalan ng kalayaan",
+            "Maging hari o patayin agad",
+            "Pumunta sa Babilonia na may pag-iingat o manatili sa lupain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeremiah is released and allowed to choose where to live (Jeremiah 40).",
+          "fil": "Pinalaya si Jeremias at pinapili kung saan maninirahan (Jeremias 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "With whom does Jeremiah settle at Mizpah?",
+          "fil": "Kanino nanirahan si Jeremias sa Mizpa?"
+        },
+        "options": {
+          "en": [
+            "Gedaliah and the people left in Judah",
+            "The priests of Baal",
+            "Pharaoh and his army"
+          ],
+          "fil": [
+            "Kay Gedalias at sa bayang naiwan sa Juda",
+            "Sa mga pari ni Baal",
+            "Kay Faraon at sa kanyang hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah joins the community under Gedaliah's governorship (Jeremiah 40).",
+          "fil": "Sumama si Jeremias sa pamayanang pinamamahalaan ni Gedalias (Jeremias 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Gedaliah refuse to believe?",
+          "fil": "Anong babala ang ayaw paniwalaan ni Gedalias?"
+        },
+        "options": {
+          "en": [
+            "Every harvest has turned to gold",
+            "Ishmael has been sent to assassinate him",
+            "Jeremiah has burned the temple"
+          ],
+          "fil": [
+            "Naging ginto ang bawat ani",
+            "Isinugo si Ismael upang patayin siya",
+            "Sinunog ni Jeremias ang templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gedaliah dismisses Johanan's warning about the plot against his life (Jeremiah 40).",
+          "fil": "Hindi pinaniwalaan ni Gedalias ang babala ni Johanan tungkol sa balak laban sa kanyang buhay (Jeremias 40)."
+        }
+      }
+    ],
+    "41": [
+      {
+        "q": {
+          "en": "What does Ishmael do while eating with Gedaliah?",
+          "fil": "Ano ang ginawa ni Ismael habang kumakain kasama ni Gedalias?"
+        },
+        "options": {
+          "en": [
+            "Publicly honors his rule",
+            "Asks Jeremiah to crown him",
+            "Murders him"
+          ],
+          "fil": [
+            "Hayagang pinarangalan ang pamamahala niya",
+            "Hiniling kay Jeremias na koronahan siya",
+            "Pinatay siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ishmael betrays Gedaliah and kills him at Mizpah (Jeremiah 41).",
+          "fil": "Nagtaksil si Ismael kay Gedalias at pinatay siya sa Mizpa (Jeremias 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who leads the pursuit that frees Ishmael's captives?",
+          "fil": "Sino ang nanguna sa paghabol na nagpalaya sa mga bihag ni Ismael?"
+        },
+        "options": {
+          "en": [
+            "Johanan and the commanders with him",
+            "Hananiah the prophet",
+            "Pharaoh alone"
+          ],
+          "fil": [
+            "Si Johanan at ang kanyang mga kasamang pinuno",
+            "Ang propetang si Hananias",
+            "Si Faraon lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Johanan's forces recover the people Ishmael has carried away (Jeremiah 41).",
+          "fil": "Nabawi ng hukbo ni Johanan ang mga taong tinangay ni Ismael (Jeremias 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the rescued group consider fleeing to Egypt?",
+          "fil": "Bakit inisip ng nailigtas na grupo na tumakas patungong Egipto?"
+        },
+        "options": {
+          "en": [
+            "They fear Babylon's reaction to Gedaliah's murder",
+            "They are invited to become Egyptian kings",
+            "Judah has become too prosperous"
+          ],
+          "fil": [
+            "Natakot sila sa tugon ng Babilonia sa pagpatay kay Gedalias",
+            "Inanyayahan silang maging mga hari ng Egipto",
+            "Naging napakasagana ang Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Fear of Babylonian retaliation drives the remnant toward Egypt (Jeremiah 41).",
+          "fil": "Itinulak ng takot sa pagganti ng Babilonia ang nalabi patungong Egipto (Jeremias 41)."
+        }
+      }
+    ],
+    "42": [
+      {
+        "q": {
+          "en": "What do the people promise when asking Jeremiah to seek God's guidance?",
+          "fil": "Ano ang ipinangako ng bayan nang hilinging humingi si Jeremias ng patnubay ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "To choose new idols first",
+            "To obey only if Egypt is recommended",
+            "To obey whether the answer pleases them or not"
+          ],
+          "fil": [
+            "Pumili muna ng mga bagong diyus-diyosan",
+            "Sumunod lamang kung Egipto ang imumungkahi",
+            "Sumunod kahit magustuhan o hindi ang sagot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The remnant declares willingness to obey God's direction (Jeremiah 42).",
+          "fil": "Ipinahayag ng nalabi ang kahandaang sundin ang patnubay ng Diyos (Jeremias 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does God tell the remnant to remain?",
+          "fil": "Saan sinabi ng Diyos na manatili ang nalabi?"
+        },
+        "options": {
+          "en": [
+            "In Egypt",
+            "In Nineveh",
+            "In Judah"
+          ],
+          "fil": [
+            "Sa Egipto",
+            "Sa Nineve",
+            "Sa Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises to build them up if they stay in the land (Jeremiah 42).",
+          "fil": "Ipinangako ng Diyos na patatatagin sila kung mananatili sa lupain (Jeremias 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God warn about the safety they expect in Egypt?",
+          "fil": "Ano ang babala ng Diyos sa kaligtasang inaasahan nila sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "The war and famine they fear will follow them there",
+            "Egypt will protect them from every future trouble",
+            "Their idols will become stronger there"
+          ],
+          "fil": [
+            "Susundan sila roon ng kinatatakutan nilang digmaan at taggutom",
+            "Iingatan sila ng Egipto sa bawat darating na hirap",
+            "Lalong lalakas doon ang kanilang mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Fleeing against God's instruction will not bring the security they seek (Jeremiah 42).",
+          "fil": "Hindi magdadala ng hinahanap na katiwasayan ang pagtakas laban sa tagubilin ng Diyos (Jeremias 42)."
+        }
+      }
+    ],
+    "43": [
+      {
+        "q": {
+          "en": "How do the leaders respond to Jeremiah's warning against going to Egypt?",
+          "fil": "Paano tumugon ang mga pinuno sa babala ni Jeremias laban sa pagpunta sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "They give up every plan to leave",
+            "They accuse him of lying",
+            "They humbly remain in Judah"
+          ],
+          "fil": [
+            "Iniwan nila ang bawat balak na umalis",
+            "Pinaratangan nila siyang nagsisinungaling",
+            "Mapagpakumbaba silang nanatili sa Juda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The leaders reject the very guidance they had promised to obey (Jeremiah 43).",
+          "fil": "Tinanggihan ng mga pinuno ang mismong patnubay na ipinangako nilang susundin (Jeremias 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jeremiah and Baruch when the group leaves?",
+          "fil": "Ano ang nangyari kina Jeremias at Baruc nang umalis ang grupo?"
+        },
+        "options": {
+          "en": [
+            "They sail freely to Rome",
+            "They are taken along to Egypt",
+            "They are crowned rulers of Judah"
+          ],
+          "fil": [
+            "Malaya silang naglayag sa Roma",
+            "Isinama sila patungong Egipto",
+            "Kinoronahan silang mga pinuno ng Juda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The remnant takes Jeremiah and Baruch with them into Egypt (Jeremiah 43).",
+          "fil": "Isinama ng nalabi sina Jeremias at Baruc sa pagpunta sa Egipto (Jeremias 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the hidden stones in Egypt signify?",
+          "fil": "Ano ang ipinahiwatig ng mga itinagong bato sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Jeremiah will build his own temple there",
+            "Babylon's king will set his throne there",
+            "Egypt can never be invaded"
+          ],
+          "fil": [
+            "Magtatayo si Jeremias roon ng sarili niyang templo",
+            "Ilalagay roon ng hari ng Babilonia ang kanyang trono",
+            "Hindi masasalakay ang Egipto kailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The sign warns that Babylon's power will reach their supposed refuge (Jeremiah 43).",
+          "fil": "Nagbabala ang tanda na aabot ang kapangyarihan ng Babilonia sa inaakala nilang kanlungan (Jeremias 43)."
+        }
+      }
+    ],
+    "44": [
+      {
+        "q": {
+          "en": "What persistent sin does Jeremiah confront among the Jews in Egypt?",
+          "fil": "Anong patuloy na kasalanan ang hinarap ni Jeremias sa mga Judio sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "Helping hungry families",
+            "Worshiping other gods",
+            "Seeking honest work"
+          ],
+          "fil": [
+            "Pagtulong sa nagugutom na pamilya",
+            "Pagsamba sa ibang mga diyos",
+            "Paghahanap ng matapat na trabaho"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The refugees continue the idolatry that had brought judgment on Judah (Jeremiah 44).",
+          "fil": "Ipinagpatuloy ng mga tumakas ang pagsambang nagdala ng hatol sa Juda (Jeremias 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false defense do the idol worshipers offer?",
+          "fil": "Anong maling pagtatanggol ang ibinigay ng mga sumasamba sa diyus-diyosan?"
+        },
+        "options": {
+          "en": [
+            "They claim life was better while they made those offerings",
+            "They say Jeremiah ordered every ritual",
+            "They admit the idols never received offerings"
+          ],
+          "fil": [
+            "Sinabi nilang mas mabuti ang buhay noong ginagawa ang mga handog na iyon",
+            "Sinabi nilang iniutos ni Jeremias ang bawat ritwal",
+            "Inamin nilang hindi nahandugan ang diyus-diyosan kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people misread former prosperity as proof that idolatry was good (Jeremiah 44).",
+          "fil": "Maling itinuring ng bayan na patunay ng mabuting pagsamba sa diyus-diyosan ang dating kasaganaan (Jeremias 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jeremiah say actually caused Jerusalem's ruin?",
+          "fil": "Ano ang sinabi ni Jeremias na tunay na sanhi ng pagkawasak ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "The people's sins and refusal to obey God",
+            "Their failure to offer enough to idols",
+            "Their generosity to strangers"
+          ],
+          "fil": [
+            "Ang kasalanan ng bayan at pagtangging sundin ang Diyos",
+            "Ang hindi sapat na handog sa diyus-diyosan",
+            "Ang kanilang pagkabukas-palad sa dayuhan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jeremiah identifies disobedience as the cause, not the cure, of disaster (Jeremiah 44).",
+          "fil": "Tinukoy ni Jeremias ang pagsuway bilang sanhi at hindi lunas ng kapahamakan (Jeremias 44)."
+        }
+      }
+    ],
+    "45": [
+      {
+        "q": {
+          "en": "Who receives the short personal message in this chapter?",
+          "fil": "Sino ang tumanggap ng maikling pansariling mensahe sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Baruch",
+            "Ishmael",
+            "Gedaliah"
+          ],
+          "fil": [
+            "Si Baruc",
+            "Si Ismael",
+            "Si Gedalias"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God addresses Baruch's grief and weariness through Jeremiah (Jeremiah 45).",
+          "fil": "Kinausap ng Diyos sa pamamagitan ni Jeremias ang dalamhati at pagod ni Baruc (Jeremias 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What pursuit is Baruch told to set aside?",
+          "fil": "Anong paghahangad ang sinabing iwan ni Baruc?"
+        },
+        "options": {
+          "en": [
+            "Care for people in distress",
+            "Seeking great things for himself",
+            "Honest service to God"
+          ],
+          "fil": [
+            "Pag-aalaga sa nahihirapan",
+            "Paghahanap ng mga dakilang bagay para sa sarili",
+            "Matapat na paglilingkod sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Baruch is told not to seek personal greatness amid coming upheaval (Jeremiah 45).",
+          "fil": "Sinabihan si Baruc na huwag hangarin ang sariling kadakilaan sa darating na kaguluhan (Jeremias 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise Baruch amid widespread disaster?",
+          "fil": "Ano ang ipinangako ng Diyos kay Baruc sa gitna ng malawakang kapahamakan?"
+        },
+        "options": {
+          "en": [
+            "He will rule every nation",
+            "His life will be preserved",
+            "He will never need to travel again"
+          ],
+          "fil": [
+            "Pamumunuan niya ang bawat bansa",
+            "Iingatan ang kanyang buhay",
+            "Hindi na niya kailangang maglakbay muli"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's personal assurance concerns survival rather than worldly status (Jeremiah 45).",
+          "fil": "Tungkol sa pananatiling buhay at hindi katayuan sa mundo ang pansariling katiyakan ng Diyos (Jeremias 45)."
+        }
+      }
+    ],
+    "46": [
+      {
+        "q": {
+          "en": "Which nation is the main subject of this oracle?",
+          "fil": "Anong bansa ang pangunahing paksa ng pahayag na ito?"
+        },
+        "options": {
+          "en": [
+            "Edom",
+            "Moab",
+            "Egypt"
+          ],
+          "fil": [
+            "Edom",
+            "Moab",
+            "Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter announces judgment on Egypt and its armies (Jeremiah 46).",
+          "fil": "Ipinahayag ng kabanata ang hatol sa Egipto at mga hukbo nito (Jeremias 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which ruler's invasion of Egypt is announced?",
+          "fil": "Kaninong pagsalakay sa Egipto ang ipinahayag?"
+        },
+        "options": {
+          "en": [
+            "Nebuchadnezzar of Babylon",
+            "David of Israel",
+            "Cyrus of Persia"
+          ],
+          "fil": [
+            "Kay Nebucadnezar ng Babilonia",
+            "Kay David ng Israel",
+            "Kay Ciro ng Persia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Egypt's confidence will be shaken by Babylonian power (Jeremiah 46).",
+          "fil": "Mayayanig ang tiwala ng Egipto dahil sa kapangyarihan ng Babilonia (Jeremias 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance closes the chapter for Israel?",
+          "fil": "Anong katiyakan para sa Israel ang nasa wakas ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Egypt's gods will now become their protectors",
+            "God will not abandon them and will bring them back",
+            "Their exile will last without any hope"
+          ],
+          "fil": [
+            "Magiging tagapangalaga na nila ang mga diyos ng Egipto",
+            "Hindi sila pababayaan ng Diyos at ibabalik sila",
+            "Tatagal ang kanilang pagkakatapon nang walang pag-asa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel receives hope of rescue and measured correction amid the oracle of judgment (Jeremiah 46).",
+          "fil": "Tumanggap ang Israel ng pag-asa ng pagliligtas at makatarungang pagtutuwid sa gitna ng hatol (Jeremias 46)."
+        }
+      }
+    ],
+    "47": [
+      {
+        "q": {
+          "en": "Which people face the warning in this chapter?",
+          "fil": "Anong bayan ang hinarap ng babala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The Philistines",
+            "The people of Nineveh",
+            "The Romans"
+          ],
+          "fil": [
+            "Ang mga Filisteo",
+            "Ang mga taga-Nineve",
+            "Ang mga Romano"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oracle concerns Philistine territory and its coming destruction (Jeremiah 47).",
+          "fil": "Tungkol ang pahayag sa lupain ng mga Filisteo at darating nitong pagkawasak (Jeremias 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the rising flood from the north picture?",
+          "fil": "Ano ang inilalarawan ng tumataas na baha mula sa hilaga?"
+        },
+        "options": {
+          "en": [
+            "A new river for irrigation",
+            "An overwhelming invading army",
+            "A harmless season of fishing"
+          ],
+          "fil": [
+            "Bagong ilog para sa patubig",
+            "Isang napakalakas na sumasalakay na hukbo",
+            "Panahon ng pangingisdang walang panganib"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Flood imagery describes an enemy sweeping through the land (Jeremiah 47).",
+          "fil": "Inilarawan ng larawan ng baha ang kaaway na rumaragasa sa lupain (Jeremias 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the sword not simply become quiet when asked?",
+          "fil": "Bakit hindi basta tumigil ang tabak nang hilinging manahimik ito?"
+        },
+        "options": {
+          "en": [
+            "The Lord has assigned it a task of judgment",
+            "It has become the nation's true god",
+            "It is waiting for more gold"
+          ],
+          "fil": [
+            "Binigyan ito ng Panginoon ng tungkulin sa paghatol",
+            "Naging tunay na diyos ito ng bansa",
+            "Naghihintay ito ng mas maraming ginto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sword's continuing action represents the Lord's appointed judgment (Jeremiah 47).",
+          "fil": "Inilarawan ng patuloy na kilos ng tabak ang itinakdang paghatol ng Panginoon (Jeremias 47)."
+        }
+      }
+    ],
+    "48": [
+      {
+        "q": {
+          "en": "Which nation is addressed in this long oracle?",
+          "fil": "Anong bansa ang kinausap sa mahabang pahayag na ito?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Assyria",
+            "Moab"
+          ],
+          "fil": [
+            "Egipto",
+            "Asiria",
+            "Moab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter announces judgment across Moab's towns and strongholds (Jeremiah 48).",
+          "fil": "Ipinahayag ng kabanata ang hatol sa mga bayan at kuta ng Moab (Jeremias 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude of Moab is repeatedly condemned?",
+          "fil": "Anong saloobin ng Moab ang paulit-ulit na kinondena?"
+        },
+        "options": {
+          "en": [
+            "Arrogant pride and self-confidence",
+            "Humble repentance",
+            "Generous concern for the poor"
+          ],
+          "fil": [
+            "Mapagmataas na kapalaluan at tiwala sa sarili",
+            "Mapagpakumbabang pagsisisi",
+            "Bukas-palad na malasakit sa mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moab's pride and contempt receive special attention in the warning (Jeremiah 48).",
+          "fil": "Binigyang-pansin sa babala ang pagmamataas at paghamak ng Moab (Jeremias 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "Will Moab's wealth and religious confidence prevent its downfall?",
+          "fil": "Mapipigilan ba ng yaman at tiwala sa relihiyon ng Moab ang pagbagsak nito?"
+        },
+        "options": {
+          "en": [
+            "Yes, every city will remain untouched",
+            "Yes, wealth makes it stronger than God",
+            "No, its treasures and idols cannot save it"
+          ],
+          "fil": [
+            "Oo, walang lunsod na mapipinsala",
+            "Oo, ginagawa itong mas malakas sa Diyos ng yaman",
+            "Hindi, hindi ito maililigtas ng kayamanan at diyus-diyosan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The oracle strips away Moab's false grounds for security (Jeremiah 48).",
+          "fil": "Inalis ng pahayag ang mga maling batayan ng katiwasayan ng Moab (Jeremias 48)."
+        }
+      }
+    ],
+    "49": [
+      {
+        "q": {
+          "en": "Which people receive the extended warning mentioning Teman's wisdom?",
+          "fil": "Anong bayan ang tumanggap ng mahabang babalang bumabanggit sa karunungan ng Teman?"
+        },
+        "options": {
+          "en": [
+            "Judah alone",
+            "Edom",
+            "Egypt"
+          ],
+          "fil": [
+            "Ang Juda lamang",
+            "Ang Edom",
+            "Ang Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The oracle against Edom challenges its famed wisdom and security (Jeremiah 49).",
+          "fil": "Hinamon ng pahayag laban sa Edom ang bantog nitong karunungan at katiwasayan (Jeremias 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gives Edom a deceptive feeling of safety?",
+          "fil": "Ano ang nagbibigay sa Edom ng mapanlinlang na pakiramdam ng kaligtasan?"
+        },
+        "options": {
+          "en": [
+            "Faithful obedience to Jeremiah",
+            "Pride in its high rocky dwelling places",
+            "Complete trust in God's covenant"
+          ],
+          "fil": [
+            "Tapat na pagsunod kay Jeremias",
+            "Pagmamataas sa matataas at mabatong tirahan nito",
+            "Ganap na pagtitiwala sa tipan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Edom's lofty strongholds cannot lift it beyond God's judgment (Jeremiah 49).",
+          "fil": "Hindi mailalayo ng matataas na kuta ang Edom sa paghatol ng Diyos (Jeremias 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ancient destruction is used as a comparison for Edom's fall?",
+          "fil": "Anong sinaunang pagkawasak ang ginamit na paghahambing sa pagbagsak ng Edom?"
+        },
+        "options": {
+          "en": [
+            "The building of Solomon's temple",
+            "Noah's planting of a vineyard",
+            "Sodom and Gomorrah's overthrow"
+          ],
+          "fil": [
+            "Ang pagtatayo ng templo ni Solomon",
+            "Ang pagtatanim ni Noe ng ubasan",
+            "Ang pagwasak sa Sodoma at Gomorra"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The comparison emphasizes the severity of Edom's devastation (Jeremiah 49).",
+          "fil": "Binigyang-diin ng paghahambing ang tindi ng pagkawasak ng Edom (Jeremias 49)."
+        }
+      }
+    ],
+    "50": [
+      {
+        "q": {
+          "en": "Which empire is warned of its downfall?",
+          "fil": "Anong imperyo ang binalaan tungkol sa pagbagsak nito?"
+        },
+        "options": {
+          "en": [
+            "Babylon",
+            "Rome",
+            "Persia alone"
+          ],
+          "fil": [
+            "Babilonia",
+            "Roma",
+            "Persia lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God announces that Babylon and its idols will be brought low (Jeremiah 50).",
+          "fil": "Ipinahayag ng Diyos na ibabagsak ang Babilonia at mga diyus-diyosan nito (Jeremias 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will Israel and Judah seek as Babylon falls?",
+          "fil": "Ano ang hahanapin ng Israel at Juda sa pagbagsak ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "More idols from Babylon",
+            "A new alliance to oppress the poor",
+            "The Lord and the way back to Zion"
+          ],
+          "fil": [
+            "Mas maraming diyus-diyosan mula sa Babilonia",
+            "Bagong alyansang mang-aapi sa mahihirap",
+            "Ang Panginoon at daang pabalik sa Sion"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision joins national return with renewed seeking of God (Jeremiah 50).",
+          "fil": "Pinag-ugnay ng pangitain ang pagbabalik ng bayan at bagong paghahanap sa Diyos (Jeremias 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the Lord described in relation to his oppressed people?",
+          "fil": "Paano inilarawan ang Panginoon kaugnay ng kanyang inaaping bayan?"
+        },
+        "options": {
+          "en": [
+            "A ruler who has forgotten their captivity",
+            "A strong Redeemer who will defend their cause",
+            "An image needing rescue from Babylon"
+          ],
+          "fil": [
+            "Pinunong nakalimot sa kanilang pagkabihag",
+            "Malakas na Manunubos na magtatanggol sa kanilang usapin",
+            "Imaheng kailangang iligtas sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's strength as Redeemer counters the power of their captors (Jeremiah 50).",
+          "fil": "Sinalungat ng lakas ng Diyos bilang Manunubos ang kapangyarihan ng mga bumihag sa kanila (Jeremias 50)."
+        }
+      }
+    ],
+    "51": [
+      {
+        "q": {
+          "en": "What does this chapter continue to announce about Babylon?",
+          "fil": "Ano ang patuloy na ipinahayag ng kabanatang ito tungkol sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "Its destruction under God's judgment",
+            "Its permanent rule over God",
+            "Its innocence of every wrongdoing"
+          ],
+          "fil": [
+            "Ang pagkawasak nito sa paghatol ng Diyos",
+            "Ang permanenteng pamamahala nito sa Diyos",
+            "Ang kawalan nito ng anumang kasalanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oracle continues the warning that Babylon's power will collapse (Jeremiah 51).",
+          "fil": "Ipinagpatuloy ng pahayag ang babalang babagsak ang kapangyarihan ng Babilonia (Jeremias 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are God's people urged to leave Babylon?",
+          "fil": "Bakit hinimok ang bayan ng Diyos na umalis sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "To prevent God from helping anyone",
+            "To establish another idol kingdom",
+            "To escape sharing in its coming judgment"
+          ],
+          "fil": [
+            "Upang pigilan ang Diyos na tumulong sa sinuman",
+            "Upang magtatag ng ibang kaharian ng diyus-diyosan",
+            "Upang makaiwas na makibahagi sa darating nitong paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The call to depart offers a way out of the city's approaching ruin (Jeremiah 51).",
+          "fil": "Nag-alok ng pag-iwas sa papalapit na pagkawasak ang panawagang umalis (Jeremias 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does sinking a weighted scroll in the Euphrates symbolize?",
+          "fil": "Ano ang inilalarawan ng paglubog ng kasulatang may pabigat sa Eufrates?"
+        },
+        "options": {
+          "en": [
+            "Babylon will rise stronger than ever",
+            "Babylon will sink and not recover from the announced disaster",
+            "God's message will prove meaningless"
+          ],
+          "fil": [
+            "Babangon ang Babilonia nang higit na malakas",
+            "Lulubog ang Babilonia at hindi makababangon mula sa ipinahayag na kapahamakan",
+            "Mawawalang-saysay ang mensahe ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The acted sign reinforces the finality of Babylon's coming fall (Jeremiah 51).",
+          "fil": "Pinatibay ng isinagawang tanda ang katiyakan ng darating na pagbagsak ng Babilonia (Jeremias 51)."
+        }
+      }
+    ],
+    "52": [
+      {
+        "q": {
+          "en": "What condition weakens Jerusalem during the siege?",
+          "fil": "Anong kalagayan ang nagpahina sa Jerusalem sa pagkubkob?"
+        },
+        "options": {
+          "en": [
+            "Severe famine",
+            "An overabundant harvest",
+            "A long royal holiday"
+          ],
+          "fil": [
+            "Matinding taggutom",
+            "Sobrang daming ani",
+            "Mahabang bakasyon ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The siege leaves the people without enough food (Jeremiah 52).",
+          "fil": "Iniwan ng pagkubkob ang bayang walang sapat na pagkain (Jeremias 52)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the temple after Babylon captures the city?",
+          "fil": "Ano ang nangyari sa templo matapos makuha ng Babilonia ang lunsod?"
+        },
+        "options": {
+          "en": [
+            "It is moved intact to Egypt",
+            "It is burned and its valuable objects are taken away",
+            "It is expanded by Solomon"
+          ],
+          "fil": [
+            "Inilipat ito nang buo sa Egipto",
+            "Sinunog ito at dinala palayo ang mahahalagang kagamitan",
+            "Pinalawak ito ni Solomon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Babylon's forces destroy the temple and carry off its treasures (Jeremiah 52).",
+          "fil": "Winasak ng hukbo ng Babilonia ang templo at tinangay ang kayamanan nito (Jeremias 52)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who remains to work vineyards and fields after the deportation?",
+          "fil": "Sino ang naiwan upang gumawa sa ubasan at bukid matapos ang pagpapatapon?"
+        },
+        "options": {
+          "en": [
+            "Only Babylon's priests",
+            "Every royal official",
+            "Some of the poorest people"
+          ],
+          "fil": [
+            "Ang mga pari lamang ng Babilonia",
+            "Ang bawat opisyal ng hari",
+            "Ang ilan sa pinakamahihirap na tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The account notes poor people left behind as agricultural workers (Jeremiah 52).",
+          "fil": "Binanggit ng salaysay ang mahihirap na iniwan bilang manggagawa sa bukid (Jeremias 52)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change comes to the imprisoned Jehoiachin at the book's end?",
+          "fil": "Anong pagbabago ang dumating sa nakabilanggong si Joaquin sa wakas ng aklat?"
+        },
+        "options": {
+          "en": [
+            "He is released and provided for by Babylon's king",
+            "He rebuilds Jerusalem immediately",
+            "He conquers Babylon with an army"
+          ],
+          "fil": [
+            "Pinalaya at tinustusan siya ng hari ng Babilonia",
+            "Agad niyang itinayong muli ang Jerusalem",
+            "Nasakop niya ang Babilonia sa pamamagitan ng hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The final scene records a measure of mercy for the captive king (Jeremiah 52).",
+          "fil": "Itinala ng huling tagpo ang pagpapakita ng awa sa bihag na hari (Jeremias 52)."
+        }
+      }
+    ]
+  }
+}
