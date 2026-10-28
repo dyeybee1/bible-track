@@ -1,0 +1,2270 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "With whom does the opening family record begin?",
+          "fil": "Kanino nagsimula ang pambungad na talaan ng angkan?"
+        },
+        "options": {
+          "en": [
+            "David",
+            "Solomon",
+            "Adam"
+          ],
+          "fil": [
+            "Kay David",
+            "Kay Solomon",
+            "Kay Adan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The genealogy begins with Adam before tracing later peoples and families (1 Chronicles 1).",
+          "fil": "Nagsimula kay Adan ang talaan bago sinundan ang mga sumunod na bayan at pamilya (1 Cronica 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the main form of this opening chapter?",
+          "fil": "Ano ang pangunahing anyo ng pambungad na kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Instructions for building the temple",
+            "A speech about Jerusalem's siege",
+            "A record of ancestors and their descendants"
+          ],
+          "fil": [
+            "Mga tagubilin sa pagtatayo ng templo",
+            "Talumpati tungkol sa pagkubkob sa Jerusalem",
+            "Talaan ng mga ninuno at kanilang mga inapo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter connects generations and peoples through family lines (1 Chronicles 1).",
+          "fil": "Iniugnay ng kabanata ang mga salinlahi at bayan sa pamamagitan ng mga angkan (1 Cronica 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which neighboring land has kings listed from before Israel had a king?",
+          "fil": "Anong kalapit na lupain ang may mga haring itinala mula bago nagkaroon ng hari ang Israel?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Edom",
+            "Babylon"
+          ],
+          "fil": [
+            "Egipto",
+            "Edom",
+            "Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter includes the early kings who ruled in Edom before Israel had kings (1 Chronicles 1).",
+          "fil": "Kabilang sa kabanata ang mga unang hari ng Edom bago nagkaroon ng mga hari ang Israel (1 Cronica 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Which tribe receives special attention after the list of Israel's sons?",
+          "fil": "Anong lipi ang binigyang-pansin matapos ang talaan ng mga anak ni Israel?"
+        },
+        "options": {
+          "en": [
+            "Naphtali",
+            "Levi",
+            "Judah"
+          ],
+          "fil": [
+            "Ang Neftali",
+            "Ang Levi",
+            "Ang Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Much of the chapter traces the families descended from Judah (1 Chronicles 2).",
+          "fil": "Sinundan ng malaking bahagi ng kabanata ang mga pamilyang nagmula kay Juda (1 Cronica 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is named as David's father in this family record?",
+          "fil": "Sino ang pinangalanang ama ni David sa talaang ito ng angkan?"
+        },
+        "options": {
+          "en": [
+            "Saul",
+            "Jesse",
+            "Eli"
+          ],
+          "fil": [
+            "Si Saul",
+            "Si Jesse",
+            "Si Eli"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jesse's sons are listed, including David (1 Chronicles 2).",
+          "fil": "Itinala ang mga anak ni Jesse, kabilang si David (1 Cronica 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is identified as the mother of Judah's sons Perez and Zerah?",
+          "fil": "Sino ang kinilalang ina ng mga anak ni Juda na sina Perez at Zera?"
+        },
+        "options": {
+          "en": [
+            "Hannah",
+            "Tamar",
+            "Ruth"
+          ],
+          "fil": [
+            "Si Ana",
+            "Si Tamar",
+            "Si Ruth"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The record names Tamar in the line leading from Judah through Perez (1 Chronicles 2).",
+          "fil": "Binanggit ng talaan si Tamar sa angkang mula kay Juda sa pamamagitan ni Perez (1 Cronica 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Whose royal family is traced in this chapter?",
+          "fil": "Kaninong maharlikang pamilya ang sinundan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Hiram's",
+            "David's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Ang kay Hiram",
+            "Ang kay David",
+            "Ang kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter follows David's sons and the royal line of Judah (1 Chronicles 3).",
+          "fil": "Sinundan ng kabanata ang mga anak ni David at ang maharlikang angkan ng Juda (1 Cronica 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which son begins the sequence of David's royal successors?",
+          "fil": "Sinong anak ang nagsimula sa hanay ng mga maharlikang kahalili ni David?"
+        },
+        "options": {
+          "en": [
+            "Amnon",
+            "Absalom",
+            "Solomon"
+          ],
+          "fil": [
+            "Si Amnon",
+            "Si Absalom",
+            "Si Solomon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon heads the list of rulers descended from David (1 Chronicles 3).",
+          "fil": "Nanguna si Solomon sa talaan ng mga pinunong nagmula kay David (1 Cronica 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does the family record stop with the kings before the exile?",
+          "fil": "Nagtapos ba ang talaan ng angkan sa mga hari bago ang pagkakatapon?"
+        },
+        "options": {
+          "en": [
+            "Yes, it ends before Solomon",
+            "No, it also names later descendants",
+            "Yes, it names only David's brothers"
+          ],
+          "fil": [
+            "Oo, nagtapos ito bago kay Solomon",
+            "Hindi, pinangalanan din nito ang mga sumunod na inapo",
+            "Oo, mga kapatid lamang ni David ang binanggit"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The genealogy continues beyond the monarchy into later generations of the family (1 Chronicles 3).",
+          "fil": "Nagpatuloy ang talaan lampas sa paghahari tungo sa mga sumunod na salinlahi ng pamilya (1 Cronica 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Which two tribal families are recorded in this chapter?",
+          "fil": "Aling dalawang angkan ng lipi ang itinala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Judah and Simeon",
+            "Ephraim and Benjamin",
+            "Dan and Levi"
+          ],
+          "fil": [
+            "Juda at Simeon",
+            "Efraim at Benjamin",
+            "Dan at Levi"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter records clans of Judah followed by families of Simeon (1 Chronicles 4).",
+          "fil": "Itinala ng kabanata ang mga angkan ng Juda at pagkatapos ay ang mga pamilya ng Simeon (1 Cronica 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jabez ask the God of Israel to give him?",
+          "fil": "Ano ang hiniling ni Jabes sa Diyos ng Israel?"
+        },
+        "options": {
+          "en": [
+            "A throne greater than God's",
+            "Permission to destroy his family",
+            "Blessing, help, and protection from harm"
+          ],
+          "fil": [
+            "Tronong higit sa Diyos",
+            "Pahintulot na lipulin ang kanyang pamilya",
+            "Pagpapala, tulong, at pag-iingat sa kapahamakan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jabez turns to God for blessing and protection, and God grants his request (1 Chronicles 4).",
+          "fil": "Lumapit si Jabes sa Diyos para sa pagpapala at pag-iingat, at pinagbigyan ng Diyos ang kanyang hiling (1 Cronica 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What everyday occupation is mentioned among families who work for the king?",
+          "fil": "Anong pang-araw-araw na hanapbuhay ang binanggit sa mga pamilyang naglilingkod sa hari?"
+        },
+        "options": {
+          "en": [
+            "Sailing to Rome",
+            "Building pyramids",
+            "Pottery making"
+          ],
+          "fil": [
+            "Paglalayag sa Roma",
+            "Pagtatayo ng piramide",
+            "Paggawa ng palayok"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The genealogy remembers potters who live in their settlements and work for the king (1 Chronicles 4).",
+          "fil": "Inalala ng talaan ang mga magpapalayok na nakatira sa kanilang mga pamayanan at naglilingkod sa hari (1 Cronica 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Which firstborn son of Israel opens this chapter's family record?",
+          "fil": "Sinong panganay na anak ni Israel ang nasa simula ng talaan ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Benjamin",
+            "Reuben",
+            "Judah"
+          ],
+          "fil": [
+            "Si Benjamin",
+            "Si Ruben",
+            "Si Juda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The record begins with Reuben and explains why he lost his birthright (1 Chronicles 5).",
+          "fil": "Nagsimula ang talaan kay Ruben at ipinaliwanag kung bakit nawala ang kanyang karapatan bilang panganay (1 Cronica 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whose family did Reuben's birthright pass?",
+          "fil": "Sa kaninong pamilya napunta ang karapatan ni Ruben bilang panganay?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's sons",
+            "Joseph's sons",
+            "Saul's sons"
+          ],
+          "fil": [
+            "Sa mga anak ni Faraon",
+            "Sa mga anak ni Jose",
+            "Sa mga anak ni Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The introduction distinguishes Joseph's birthright from Judah's leadership (1 Chronicles 5).",
+          "fil": "Ibinukod ng pambungad ang karapatan ni Jose bilang panganay sa pamumuno ng Juda (1 Cronica 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are the eastern tribes eventually carried away into exile?",
+          "fil": "Bakit dinala kalaunan sa pagkakatapon ang mga lipi sa silangan?"
+        },
+        "options": {
+          "en": [
+            "They become unfaithful and follow other gods",
+            "They give too much food to travelers",
+            "They refuse to raise livestock"
+          ],
+          "fil": [
+            "Nagtaksil sila at sumunod sa ibang mga diyos",
+            "Nagbigay sila ng sobrang pagkain sa mga manlalakbay",
+            "Tumanggi silang mag-alaga ng hayop"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter connects the tribes' exile with their unfaithfulness to God (1 Chronicles 5).",
+          "fil": "Iniugnay ng kabanata ang pagkakatapon ng mga lipi sa kanilang pagtataksil sa Diyos (1 Cronica 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Which tribe's families and service receive attention in this chapter?",
+          "fil": "Anong lipi ang binigyang-pansin sa mga angkan at paglilingkod nito sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Dan",
+            "Judah",
+            "Levi"
+          ],
+          "fil": [
+            "Ang Dan",
+            "Ang Juda",
+            "Ang Levi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter records Levi's descendants and their roles in worship (1 Chronicles 6).",
+          "fil": "Itinala ng kabanata ang mga inapo ni Levi at ang kanilang mga tungkulin sa pagsamba (1 Cronica 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which family has special responsibility for priestly offerings and atonement?",
+          "fil": "Anong pamilya ang may natatanging tungkulin sa mga handog ng pari at pagtubos sa kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Aaron and his descendants",
+            "Saul and his descendants",
+            "Jesse and his descendants"
+          ],
+          "fil": [
+            "Si Aaron at ang kanyang mga inapo",
+            "Si Saul at ang kanyang mga inapo",
+            "Si Jesse at ang kanyang mga inapo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron's descendants serve at the altars according to the commands given through Moses (1 Chronicles 6).",
+          "fil": "Naglingkod sa mga altar ang mga inapo ni Aaron ayon sa mga utos na ibinigay sa pamamagitan ni Moises (1 Cronica 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What places are assigned to the Levites among the tribes?",
+          "fil": "Anong mga lugar ang inilaan sa mga Levita sa gitna ng mga lipi?"
+        },
+        "options": {
+          "en": [
+            "Towns with surrounding pasturelands",
+            "Islands far beyond Israel",
+            "Every royal palace in Egypt"
+          ],
+          "fil": [
+            "Mga bayang may nakapaligid na pastulan",
+            "Mga islang malayo sa Israel",
+            "Lahat ng maharlikang palasyo sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The record includes the towns and pasturelands provided for the Levite families (1 Chronicles 6).",
+          "fil": "Kabilang sa talaan ang mga bayan at pastulang inilaan para sa mga pamilyang Levita (1 Cronica 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What is repeatedly recorded alongside the tribal family lines here?",
+          "fil": "Ano ang paulit-ulit na itinala kasabay ng mga angkan ng lipi rito?"
+        },
+        "options": {
+          "en": [
+            "Measurements for Noah's ark",
+            "Family leaders and men ready for military service",
+            "Recipes for Passover meals"
+          ],
+          "fil": [
+            "Mga sukat ng barko ni Noe",
+            "Mga pinuno ng pamilya at lalaking handa sa paglilingkod sa hukbo",
+            "Mga paraan ng pagluluto ng pagkain sa Paskuwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The genealogies often identify clan leaders and able fighting men (1 Chronicles 7).",
+          "fil": "Madalas tukuyin ng mga talaan ang mga pinuno ng angkan at mga lalaking handang lumaban (1 Cronica 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which leader appears as Nun's son in Ephraim's family line?",
+          "fil": "Sinong pinuno ang binanggit bilang anak ni Nun sa angkan ng Efraim?"
+        },
+        "options": {
+          "en": [
+            "Samuel",
+            "Saul",
+            "Joshua"
+          ],
+          "fil": [
+            "Si Samuel",
+            "Si Saul",
+            "Si Josue"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua is named in the recorded descendants of Ephraim (1 Chronicles 7).",
+          "fil": "Pinangalanan si Josue sa itinalang mga inapo ng Efraim (1 Cronica 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What memorable family detail is noted about Zelophehad?",
+          "fil": "Anong natatanging detalye ng pamilya ang binanggit tungkol kay Zelofehad?"
+        },
+        "options": {
+          "en": [
+            "He builds Solomon's temple",
+            "He is David's father",
+            "He has daughters but no sons"
+          ],
+          "fil": [
+            "Siya ang nagtayo ng templo ni Solomon",
+            "Siya ang ama ni David",
+            "Mga babae ang kanyang anak at wala siyang anak na lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The genealogy specifically notes Zelophehad's daughters (1 Chronicles 7).",
+          "fil": "Tanging binanggit ng talaan ang mga anak na babae ni Zelofehad (1 Cronica 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Which tribe is the focus of this chapter's genealogy?",
+          "fil": "Anong lipi ang paksa ng talaan ng angkan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Levi",
+            "Simeon",
+            "Benjamin"
+          ],
+          "fil": [
+            "Ang Levi",
+            "Ang Simeon",
+            "Ang Benjamin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter traces Benjamin's descendants and their family branches (1 Chronicles 8).",
+          "fil": "Sinundan ng kabanata ang mga inapo ni Benjamin at ang mga sangay ng kanilang angkan (1 Cronica 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which former king's family appears in this genealogy?",
+          "fil": "Kaninong pamilya ng dating hari ang makikita sa talaang ito?"
+        },
+        "options": {
+          "en": [
+            "Solomon's",
+            "Pharaoh's",
+            "Saul's"
+          ],
+          "fil": [
+            "Ang kay Solomon",
+            "Ang kay Faraon",
+            "Ang kay Saul"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Saul and his sons are included in Benjamin's family record (1 Chronicles 8).",
+          "fil": "Kabilang si Saul at ang kanyang mga anak sa talaan ng angkan ni Benjamin (1 Cronica 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What skill is remembered about Ulam's descendants?",
+          "fil": "Anong kakayahan ang inalala tungkol sa mga inapo ni Ulam?"
+        },
+        "options": {
+          "en": [
+            "They build ships for Rome",
+            "They write laws for Pharaoh",
+            "They are brave archers"
+          ],
+          "fil": [
+            "Gumagawa sila ng barko para sa Roma",
+            "Sumusulat sila ng mga batas para kay Faraon",
+            "Matatapang silang mamamana"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter closes by noting the fighting ability of Ulam's descendants (1 Chronicles 8).",
+          "fil": "Nagtapos ang kabanata sa pagbanggit ng kakayahan sa pakikipaglaban ng mga inapo ni Ulam (1 Cronica 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Which city is central to the list of people who return to their homes?",
+          "fil": "Anong lunsod ang sentro ng talaan ng mga taong bumalik sa kanilang tahanan?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Jerusalem",
+            "Nineveh"
+          ],
+          "fil": [
+            "Ang Roma",
+            "Ang Jerusalem",
+            "Ang Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter lists families and worship workers living again in Jerusalem (1 Chronicles 9).",
+          "fil": "Itinala ng kabanata ang mga pamilya at manggagawa sa pagsamba na muling nanirahan sa Jerusalem (1 Cronica 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is a main responsibility of the gatekeepers?",
+          "fil": "Ano ang pangunahing tungkulin ng mga bantay-pintuan?"
+        },
+        "options": {
+          "en": [
+            "Collecting idols for the king",
+            "Guarding the entrances of God's house",
+            "Commanding the army of Egypt"
+          ],
+          "fil": [
+            "Pangongolekta ng mga diyus-diyosan para sa hari",
+            "Pagbabantay sa mga pasukan ng bahay ng Diyos",
+            "Pamumuno sa hukbo ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The gatekeepers hold trusted duties at the entrances and rooms of the sanctuary (1 Chronicles 9).",
+          "fil": "May pinagkakatiwalaang tungkulin ang mga bantay-pintuan sa mga pasukan at silid ng santuwaryo (1 Cronica 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What other kind of service is remembered besides guarding the gates?",
+          "fil": "Anong iba pang paglilingkod ang inalala bukod sa pagbabantay sa mga pintuan?"
+        },
+        "options": {
+          "en": [
+            "Building a new tower of Babel",
+            "Caring for utensils, supplies, and offerings used in worship",
+            "Making weapons for the Philistines"
+          ],
+          "fil": [
+            "Pagtatayo ng bagong tore ng Babel",
+            "Pag-aalaga sa mga kagamitan, panustos, at handog sa pagsamba",
+            "Paggawa ng sandata para sa mga Filisteo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter shows that many practical duties support worship in God's house (1 Chronicles 9).",
+          "fil": "Ipinakita ng kabanata na maraming praktikal na tungkulin ang sumusuporta sa pagsamba sa bahay ng Diyos (1 Cronica 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Against which people does Saul fight in his final battle?",
+          "fil": "Anong bayan ang nakalaban ni Saul sa kanyang huling labanan?"
+        },
+        "options": {
+          "en": [
+            "The people of Nineveh",
+            "The Philistines",
+            "The Romans"
+          ],
+          "fil": [
+            "Ang mga taga-Nineve",
+            "Ang mga Filisteo",
+            "Ang mga Romano"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul and his sons fall during the battle against the Philistines (1 Chronicles 10).",
+          "fil": "Nasawi si Saul at ang kanyang mga anak sa labanan laban sa mga Filisteo (1 Cronica 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the brave men of Jabesh Gilead do when they hear what happened?",
+          "fil": "Ano ang ginawa ng matatapang na lalaki ng Jabes-gilead nang marinig ang nangyari?"
+        },
+        "options": {
+          "en": [
+            "Burn the Lord's temple",
+            "Retrieve the bodies of Saul and his sons for burial",
+            "Crown the Philistine king in Jerusalem"
+          ],
+          "fil": [
+            "Sinunog nila ang templo ng Panginoon",
+            "Kinuha nila ang mga bangkay ni Saul at ng kanyang mga anak upang ilibing",
+            "Kinoronahan nila ang hari ng mga Filisteo sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The men of Jabesh Gilead recover the bodies and honor the dead with burial and fasting (1 Chronicles 10).",
+          "fil": "Kinuha ng mga lalaki ng Jabes-gilead ang mga bangkay at pinarangalan ang mga patay sa paglilibing at pag-aayuno (1 Cronica 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reason does Chronicles give for Saul's downfall?",
+          "fil": "Anong dahilan ang ibinigay ng Cronica sa pagbagsak ni Saul?"
+        },
+        "options": {
+          "en": [
+            "He gives his land to the poor",
+            "He refuses to build the pyramids",
+            "He is unfaithful to the Lord and seeks guidance from a medium"
+          ],
+          "fil": [
+            "Ibinigay niya ang kanyang lupa sa mahihirap",
+            "Tumanggi siyang magtayo ng mga piramide",
+            "Nagtaksil siya sa Panginoon at sumangguni sa isang espiritista"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter explains Saul's death in terms of his unfaithfulness and failure to seek the Lord (1 Chronicles 10).",
+          "fil": "Ipinaliwanag ng kabanata ang pagkamatay ni Saul bilang bunga ng pagtataksil at hindi pagsangguni sa Panginoon (1 Cronica 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Where do Israel's elders anoint David as king?",
+          "fil": "Saan pinahiran ng matatanda ng Israel si David bilang hari?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Hebron",
+            "Jericho"
+          ],
+          "fil": [
+            "Sa Nineve",
+            "Sa Hebron",
+            "Sa Jerico"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel's elders make a covenant with David at Hebron and anoint him king (1 Chronicles 11).",
+          "fil": "Nakipagtipan kay David ang matatanda ng Israel sa Hebron at pinahiran siyang hari (1 Cronica 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What city does David take from the Jebusites?",
+          "fil": "Anong lunsod ang kinuha ni David mula sa mga Jebuseo?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Samaria",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Ang Bethlehem",
+            "Ang Samaria",
+            "Ang Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David captures Jerusalem's stronghold and makes it the City of David (1 Chronicles 11).",
+          "fil": "Nasakop ni David ang kuta ng Jerusalem at ginawa itong Lunsod ni David (1 Cronica 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who earns the leading military position by first attacking the Jebusites?",
+          "fil": "Sino ang naging pangunahing pinuno ng hukbo sa unang pagsalakay sa mga Jebuseo?"
+        },
+        "options": {
+          "en": [
+            "Samuel",
+            "Joab",
+            "Hiram"
+          ],
+          "fil": [
+            "Si Samuel",
+            "Si Joab",
+            "Si Hiram"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joab goes up first against the Jebusites and becomes commander (1 Chronicles 11).",
+          "fil": "Si Joab ang unang sumalakay sa mga Jebuseo at naging pinuno ng hukbo (1 Cronica 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do with water his warriors risk their lives to obtain?",
+          "fil": "Ano ang ginawa ni David sa tubig na ipinagsapalaran ng kanyang mga mandirigma ang kanilang buhay upang makuha?"
+        },
+        "options": {
+          "en": [
+            "He sells it to the Philistines",
+            "He uses it to wash his crown",
+            "He pours it out before the Lord instead of drinking it"
+          ],
+          "fil": [
+            "Ipinagbili niya ito sa mga Filisteo",
+            "Ginamit niya ito upang hugasan ang kanyang korona",
+            "Ibinuhos niya ito sa harap ng Panginoon sa halip na inumin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David treats the water as too costly in human risk to drink for himself (1 Chronicles 11).",
+          "fil": "Itinuring ni David na napakahalaga ng tubig dahil sa panganib sa buhay kaya hindi niya ito ininom para sa sarili (1 Cronica 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What do the warriors who come to David at Ziklag do for him?",
+          "fil": "Ano ang ginawa para kay David ng mga mandirigmang lumapit sa kanya sa Ziklag?"
+        },
+        "options": {
+          "en": [
+            "Arrest him for Pharaoh",
+            "Help him while he is excluded from Saul's presence",
+            "Force him to worship Baal"
+          ],
+          "fil": [
+            "Dinakip siya para kay Faraon",
+            "Tinulungan siya habang hindi siya makaharap kay Saul",
+            "Pinilit siyang sumamba kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Warriors from Israel join David during his difficult years before ruling the whole nation (1 Chronicles 12).",
+          "fil": "Sumama kay David ang mga mandirigma ng Israel sa mahihirap na taon bago niya pinamunuan ang buong bansa (1 Cronica 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What assurance does Amasai give when the Spirit comes upon him?",
+          "fil": "Anong katiyakan ang ibinigay ni Amasai nang sumakanya ang Espiritu?"
+        },
+        "options": {
+          "en": [
+            "They have come to betray David to Saul",
+            "They stand with David and recognize God's help for him",
+            "They want to replace David with Pharaoh"
+          ],
+          "fil": [
+            "Dumating sila upang ipagkanulo si David kay Saul",
+            "Kasama sila ni David at kinikilala ang tulong ng Diyos sa kanya",
+            "Gusto nilang palitan si David ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Amasai declares loyalty to David and speaks peace to him and his helpers (1 Chronicles 12).",
+          "fil": "Ipinahayag ni Amasai ang katapatan kay David at ang kapayapaan para sa kanya at sa kanyang mga katulong (1 Cronica 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unites the troops who gather at Hebron?",
+          "fil": "Ano ang nagbuklod sa mga kawal na nagtipon sa Hebron?"
+        },
+        "options": {
+          "en": [
+            "A wish to make Israel part of Egypt",
+            "A shared desire to make David king over all Israel",
+            "A plan to rebuild the tower of Babel"
+          ],
+          "fil": [
+            "Hangaring gawing bahagi ng Egipto ang Israel",
+            "Iisang hangaring gawing hari si David ng buong Israel",
+            "Planong itayo muli ang tore ng Babel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The gathering at Hebron expresses united support for David and joyful fellowship (1 Chronicles 12).",
+          "fil": "Ipinahayag ng pagtitipon sa Hebron ang nagkakaisang suporta kay David at masayang pagsasama (1 Cronica 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does David propose to the assembled people about the ark?",
+          "fil": "Ano ang iminungkahi ni David sa nagkatipong bayan tungkol sa Kaban?"
+        },
+        "options": {
+          "en": [
+            "Sell it to the Philistines",
+            "Bring it back to the people of Israel",
+            "Hide it in a foreign temple"
+          ],
+          "fil": [
+            "Ipagbili ito sa mga Filisteo",
+            "Ibalik ito sa bayan ng Israel",
+            "Itago ito sa dayuhang templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David invites Israel to gather and bring back the ark of God (1 Chronicles 13).",
+          "fil": "Inanyayahan ni David ang Israel na magtipon at ibalik ang Kaban ng Diyos (1 Cronica 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the ark transported on this first attempt?",
+          "fil": "Paano dinala ang Kaban sa unang pagtatangkang ito?"
+        },
+        "options": {
+          "en": [
+            "On the king's throne",
+            "In a golden ship",
+            "On a new cart"
+          ],
+          "fil": [
+            "Sa trono ng hari",
+            "Sa gintong barko",
+            "Sa isang bagong kariton"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ark is placed on a new cart as the people celebrate (1 Chronicles 13).",
+          "fil": "Inilagay ang Kaban sa bagong kariton habang nagdiriwang ang mga tao (1 Cronica 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Uzzah reaches out to steady the ark?",
+          "fil": "Ano ang nangyari nang abutin ni Uza ang Kaban upang alalayan ito?"
+        },
+        "options": {
+          "en": [
+            "He dies and the procession stops",
+            "He carries the ark alone into Jerusalem",
+            "He becomes high priest"
+          ],
+          "fil": [
+            "Namatay siya at natigil ang prusisyon",
+            "Mag-isa niyang dinala ang Kaban sa Jerusalem",
+            "Naging pinakapunong pari siya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uzzah's death causes fear and interrupts the effort to bring the ark to David (1 Chronicles 13).",
+          "fil": "Nagdulot ng takot ang pagkamatay ni Uza at naputol ang pagdadala ng Kaban kay David (1 Cronica 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Obed-edom's household while the ark stays there?",
+          "fil": "Ano ang nangyari sa sambahayan ni Obed-edom habang naroon ang Kaban?"
+        },
+        "options": {
+          "en": [
+            "The house becomes Saul's prison",
+            "The Lord blesses the household and its possessions",
+            "Everyone abandons worship"
+          ],
+          "fil": [
+            "Naging bilangguan ni Saul ang bahay",
+            "Pinagpala ng Panginoon ang sambahayan at mga ari-arian nito",
+            "Tinalikuran ng lahat ang pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God blesses Obed-edom's home during the ark's stay (1 Chronicles 13).",
+          "fil": "Pinagpala ng Diyos ang tahanan ni Obed-edom habang naroon ang Kaban (1 Cronica 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What does Hiram send to help David establish his house?",
+          "fil": "Ano ang ipinadala ni Hiram upang tulungan si David na maitayo ang kanyang bahay?"
+        },
+        "options": {
+          "en": [
+            "The tablets of the law",
+            "The golden calves from Bethel",
+            "Timber and skilled workers"
+          ],
+          "fil": [
+            "Ang mga tapyas ng kautusan",
+            "Ang mga gintong guya mula sa Bethel",
+            "Kahoy at mga bihasang manggagawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hiram sends materials and craftsmen to build David a palace (1 Chronicles 14).",
+          "fil": "Nagpadala si Hiram ng mga materyales at manggagawa upang itayo ang palasyo ni David (1 Cronica 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whose sake does David understand that God has established his kingdom?",
+          "fil": "Alang-alang kanino naunawaan ni David na pinatatag ng Diyos ang kanyang kaharian?"
+        },
+        "options": {
+          "en": [
+            "God's people Israel",
+            "Pharaoh's household",
+            "The priests of Dagon"
+          ],
+          "fil": [
+            "Sa bayan ng Diyos na Israel",
+            "Sa sambahayan ni Faraon",
+            "Sa mga pari ni Dagon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David sees his royal position as God's provision for the people of Israel (1 Chronicles 14).",
+          "fil": "Nakita ni David ang kanyang pagkahari bilang kaloob ng Diyos para sa bayan ng Israel (1 Cronica 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do when the Philistines come against him?",
+          "fil": "Ano ang ginawa ni David nang lumaban sa kanya ang mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "He assumes God has no interest in the battle",
+            "He gives them the ark as payment",
+            "He asks God whether and how to attack"
+          ],
+          "fil": [
+            "Inakala niyang walang pakialam ang Diyos sa labanan",
+            "Ibinigay niya sa kanila ang Kaban bilang bayad",
+            "Nagtanong siya sa Diyos kung sasalakay at paano ito gagawin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David seeks and follows God's directions in his battles with the Philistines (1 Chronicles 14).",
+          "fil": "Hinanap at sinunod ni David ang mga tagubilin ng Diyos sa mga labanan sa mga Filisteo (1 Cronica 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David order done to the idols abandoned by the Philistines?",
+          "fil": "Ano ang iniutos ni David na gawin sa mga diyus-diyosang iniwan ng mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "Burn them",
+            "Install them in the Lord's sanctuary",
+            "Crown them as rulers of Israel"
+          ],
+          "fil": [
+            "Sunugin ang mga ito",
+            "Ilagay ang mga ito sa santuwaryo ng Panginoon",
+            "Koronahan ang mga ito bilang mga pinuno ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David orders the abandoned gods burned rather than preserved for worship (1 Chronicles 14).",
+          "fil": "Iniutos ni David na sunugin ang mga iniwang diyos sa halip na ingatan para sambahin (1 Cronica 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Whom does David appoint to carry the ark on this renewed journey?",
+          "fil": "Sino ang itinalaga ni David na magbuhat ng Kaban sa panibagong paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "The Levites chosen for that service",
+            "The Philistine priests of Dagon",
+            "The merchants from Egypt"
+          ],
+          "fil": [
+            "Ang mga Levitang pinili para sa paglilingkod na iyon",
+            "Ang mga paring Filisteo ni Dagon",
+            "Ang mga mangangalakal mula sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David recognizes that the Levites are to carry the ark according to God's command (1 Chronicles 15).",
+          "fil": "Kinilala ni David na ang mga Levita ang magbubuhat ng Kaban ayon sa utos ng Diyos (1 Cronica 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David say was wrong with the earlier attempt?",
+          "fil": "Ano ang sinabi ni David na mali sa naunang pagtatangka?"
+        },
+        "options": {
+          "en": [
+            "They had celebrated too joyfully",
+            "They had not followed the proper order God required",
+            "The ark had belonged to Pharaoh"
+          ],
+          "fil": [
+            "Sobra ang saya ng kanilang pagdiriwang",
+            "Hindi nila sinunod ang tamang paraang hinihingi ng Diyos",
+            "Pag-aari ni Faraon ang Kaban"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David acknowledges that the first effort failed to follow the required way of seeking God (1 Chronicles 15).",
+          "fil": "Kinilala ni David na hindi sinunod ng unang pagsisikap ang itinakdang paraan ng pagsangguni sa Diyos (1 Cronica 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps make this procession a joyful act of worship?",
+          "fil": "Ano ang nakatulong upang maging masayang pagsamba ang prusisyong ito?"
+        },
+        "options": {
+          "en": [
+            "Everyone is forbidden to speak or sing",
+            "The people destroy every musical instrument",
+            "Singers and musicians praise with instruments"
+          ],
+          "fil": [
+            "Ipinagbawal sa lahat ang pagsasalita o pag-awit",
+            "Winasak ng mga tao ang lahat ng instrumento",
+            "Pumuri ang mga mang-aawit at musikero gamit ang mga instrumento"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David organizes musical praise as the ark is brought to Jerusalem (1 Chronicles 15).",
+          "fil": "Isinaayos ni David ang pagpupuri sa musika habang dinadala ang Kaban sa Jerusalem (1 Cronica 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Where is the ark placed when it reaches David's city?",
+          "fil": "Saan inilagay ang Kaban nang makarating ito sa lunsod ni David?"
+        },
+        "options": {
+          "en": [
+            "In Solomon's completed temple",
+            "In the tent David prepared for it",
+            "In the palace of Pharaoh"
+          ],
+          "fil": [
+            "Sa natapos nang templo ni Solomon",
+            "Sa toldang inihanda ni David para rito",
+            "Sa palasyo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ark is set inside David's prepared tent and offerings are made before God (1 Chronicles 16).",
+          "fil": "Inilagay ang Kaban sa toldang inihanda ni David at naghandog sa harap ng Diyos (1 Cronica 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David include the people in the celebration?",
+          "fil": "Paano isinama ni David ang mga tao sa pagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "He takes away all their grain",
+            "He blesses them and distributes food",
+            "He forbids families to attend"
+          ],
+          "fil": [
+            "Kinuha niya ang lahat ng kanilang butil",
+            "Binasbasan niya sila at namahagi ng pagkain",
+            "Pinagbawalan niyang dumalo ang mga pamilya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David blesses the gathered people and gives food to each man and woman (1 Chronicles 16).",
+          "fil": "Binasbasan ni David ang nagkatipong bayan at binigyan ng pagkain ang bawat lalaki at babae (1 Cronica 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the thanksgiving song urge Israel to remember?",
+          "fil": "Ano ang hinihikayat ng awit ng pasasalamat na alalahanin ng Israel?"
+        },
+        "options": {
+          "en": [
+            "God's wonderful works and covenant",
+            "The greatness of Baal's temple",
+            "Pharaoh's claim to Jerusalem"
+          ],
+          "fil": [
+            "Ang mga kahanga-hangang gawa at tipan ng Diyos",
+            "Ang kadakilaan ng templo ni Baal",
+            "Ang pag-angkin ni Faraon sa Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song calls God's people to remember his acts and faithful covenant (1 Chronicles 16).",
+          "fil": "Tinawag ng awit ang bayan ng Diyos na alalahanin ang kanyang mga gawa at tapat na tipan (1 Cronica 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How far should the news of the Lord's glory reach according to the song?",
+          "fil": "Gaano kalayo dapat makarating ang balita ng kaluwalhatian ng Panginoon ayon sa awit?"
+        },
+        "options": {
+          "en": [
+            "Only to the guards at one gate",
+            "Among all nations and peoples",
+            "Only to David's private household"
+          ],
+          "fil": [
+            "Sa mga bantay lamang ng isang pintuan",
+            "Sa lahat ng bansa at bayan",
+            "Sa pribadong sambahayan lamang ni David"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The song invites Israel to make the Lord's wonders known among the nations (1 Chronicles 16).",
+          "fil": "Inanyayahan ng awit ang Israel na ipakilala ang mga kahanga-hangang gawa ng Panginoon sa mga bansa (1 Cronica 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What concern does David share with Nathan about the ark?",
+          "fil": "Anong alalahanin tungkol sa Kaban ang sinabi ni David kay Natan?"
+        },
+        "options": {
+          "en": [
+            "No one in Israel remembers the ark",
+            "David lives in a cedar house while the ark remains in a tent",
+            "The ark has been carried to Rome"
+          ],
+          "fil": [
+            "Walang nakakaalala sa Kaban sa Israel",
+            "Nakatira si David sa bahay na sedro habang nasa tolda ang Kaban",
+            "Dinala ang Kaban sa Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David's concern leads to the Lord's message about the future of his house (1 Chronicles 17).",
+          "fil": "Humantong ang alalahanin ni David sa mensahe ng Panginoon tungkol sa kinabukasan ng kanyang sambahayan (1 Cronica 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who does the Lord say will build the house for him?",
+          "fil": "Sino ang sinabi ng Panginoon na magtatayo ng bahay para sa kanya?"
+        },
+        "options": {
+          "en": [
+            "A son who will succeed David",
+            "The king of the Philistines",
+            "Saul returning to the throne"
+          ],
+          "fil": [
+            "Isang anak na hahalili kay David",
+            "Ang hari ng mga Filisteo",
+            "Si Saul na babalik sa trono"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God tells David that his descendant will build the house (1 Chronicles 17).",
+          "fil": "Sinabi ng Diyos kay David na ang kanyang inapo ang magtatayo ng bahay (1 Cronica 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise concerning David's line?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa angkan ni David?"
+        },
+        "options": {
+          "en": [
+            "An enduring royal house and throne",
+            "Immediate exile for every descendant",
+            "A kingdom that must serve Baal"
+          ],
+          "fil": [
+            "Isang matatag na maharlikang sambahayan at trono",
+            "Agarang pagkatapon ng bawat inapo",
+            "Kahariang dapat maglingkod kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord promises to establish David's royal house for the future (1 Chronicles 17).",
+          "fil": "Ipinangako ng Panginoon na patatatagin ang maharlikang sambahayan ni David para sa hinaharap (1 Cronica 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond to the Lord's promise?",
+          "fil": "Paano tumugon si David sa pangako ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He claims to need no help from God",
+            "He prays with wonder, gratitude, and humility",
+            "He immediately orders Nathan imprisoned"
+          ],
+          "fil": [
+            "Sinabi niyang hindi niya kailangan ng tulong ng Diyos",
+            "Nanalangin siya nang may pagkamangha, pasasalamat, at pagpapakumbaba",
+            "Agad niyang ipinabilanggo si Natan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David praises God's greatness and asks that the promised blessing be established (1 Chronicles 17).",
+          "fil": "Pinuri ni David ang kadakilaan ng Diyos at hiniling na matupad ang ipinangakong pagpapala (1 Cronica 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Whom does the chapter credit for David's victories?",
+          "fil": "Kanino iniukol ng kabanata ang mga tagumpay ni David?"
+        },
+        "options": {
+          "en": [
+            "The Lord who helps him wherever he goes",
+            "Pharaoh who commands his army",
+            "Baal who gives him horses"
+          ],
+          "fil": [
+            "Sa Panginoong tumutulong saanman siya pumunta",
+            "Kay Faraon na namumuno sa kanyang hukbo",
+            "Kay Baal na nagbibigay sa kanya ng mga kabayo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account repeatedly says the Lord gives David victory (1 Chronicles 18).",
+          "fil": "Paulit-ulit na sinabi ng salaysay na ang Panginoon ang nagbibigay ng tagumpay kay David (1 Cronica 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David do with silver and gold from the nations?",
+          "fil": "Ano ang ginawa ni David sa pilak at ginto mula sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "He gives them all to the priests of Dagon",
+            "He throws them into the sea",
+            "He dedicates them to the Lord"
+          ],
+          "fil": [
+            "Ibinigay niya ang lahat sa mga pari ni Dagon",
+            "Itinapon niya ang mga ito sa dagat",
+            "Inilaan niya ang mga ito sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David sets apart the valuable spoils and gifts for the Lord (1 Chronicles 18).",
+          "fil": "Ibinukod ni David para sa Panginoon ang mahahalagang nasamsam at regalo (1 Cronica 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What characterizes David's administration over Israel?",
+          "fil": "Ano ang katangian ng pamamahala ni David sa Israel?"
+        },
+        "options": {
+          "en": [
+            "No concern for any legal case",
+            "Justice and righteousness for his people",
+            "Complete control by foreign priests"
+          ],
+          "fil": [
+            "Kawalan ng malasakit sa anumang usapin",
+            "Katarungan at katuwiran para sa kanyang bayan",
+            "Lubos na pamamahala ng mga dayuhang pari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David is described as doing what is just and right for all his people (1 Chronicles 18).",
+          "fil": "Inilarawan si David na gumagawa ng makatarungan at matuwid para sa buong bayan (1 Cronica 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What is the purpose of David's first message to Hanun?",
+          "fil": "Ano ang layunin ng unang mensahe ni David kay Hanun?"
+        },
+        "options": {
+          "en": [
+            "To demand every Ammonite farm",
+            "To appoint Hanun priest in Jerusalem",
+            "To offer sympathy for his father's death"
+          ],
+          "fil": [
+            "Hingin ang bawat bukid ng mga Ammonita",
+            "Italaga si Hanun na pari sa Jerusalem",
+            "Makiramay sa pagkamatay ng kanyang ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David sends envoys to show kindness to Hanun after his father's death (1 Chronicles 19).",
+          "fil": "Nagpadala si David ng mga sugo upang magpakita ng kabutihan kay Hanun matapos mamatay ang ama nito (1 Cronica 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Hanun's officials interpret the visit?",
+          "fil": "Paano inunawa ng mga opisyal ni Hanun ang pagdalaw?"
+        },
+        "options": {
+          "en": [
+            "They suspect the envoys are spies",
+            "They welcome them as the new rulers",
+            "They believe the visitors are temple musicians"
+          ],
+          "fil": [
+            "Pinaghinalaan nilang mga espiya ang mga sugo",
+            "Tinanggap nila ang mga ito bilang mga bagong pinuno",
+            "Inakala nilang mga musikero ng templo ang mga bisita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Suspicion leads Hanun to humiliate David's envoys instead of receiving the gesture of kindness (1 Chronicles 19).",
+          "fil": "Dahil sa hinala ay ipinahiya ni Hanun ang mga sugo sa halip na tanggapin ang pagpapakita ng kabutihan (1 Cronica 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Joab and Abishai prepare when enemies face them on two sides?",
+          "fil": "Paano naghanda sina Joab at Abisai nang humarap ang mga kaaway sa dalawang panig?"
+        },
+        "options": {
+          "en": [
+            "They divide the troops and agree to support each other",
+            "They both leave the battlefield before fighting",
+            "They give the command to Hanun"
+          ],
+          "fil": [
+            "Hinati nila ang mga kawal at nagkasundong magtulungan",
+            "Pareho nilang iniwan ang labanan bago lumaban",
+            "Ibinigay nila kay Hanun ang pamumuno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The brothers arrange mutual help while entrusting the outcome to the Lord (1 Chronicles 19).",
+          "fil": "Isinaayos ng magkapatid ang pagtutulungan habang ipinagkakatiwala ang kahihinatnan sa Panginoon (1 Cronica 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Who leads the siege of Rabbah while David stays in Jerusalem?",
+          "fil": "Sino ang nanguna sa pagkubkob sa Rabba habang nanatili si David sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Solomon",
+            "Joab",
+            "Samuel"
+          ],
+          "fil": [
+            "Si Solomon",
+            "Si Joab",
+            "Si Samuel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joab leads Israel's forces against the Ammonites and defeats Rabbah (1 Chronicles 20).",
+          "fil": "Pinangunahan ni Joab ang hukbo ng Israel laban sa mga Ammonita at tinalo ang Rabba (1 Cronica 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What royal object from the defeated city is placed on David's head?",
+          "fil": "Anong maharlikang bagay mula sa natalong lunsod ang inilagay sa ulo ni David?"
+        },
+        "options": {
+          "en": [
+            "A valuable crown",
+            "A priest's incense bowl",
+            "A shield from Egypt"
+          ],
+          "fil": [
+            "Isang mahalagang korona",
+            "Isang sisidlan ng insenso ng pari",
+            "Isang kalasag mula sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account describes a richly adorned crown taken after Rabbah's defeat (1 Chronicles 20).",
+          "fil": "Inilarawan ng salaysay ang koronang may mamahaling palamuti na kinuha matapos matalo ang Rabba (1 Cronica 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who defeats Lahmi, the brother of Goliath, in a later battle?",
+          "fil": "Sino ang tumalo kay Lahmi na kapatid ni Goliat sa isang sumunod na labanan?"
+        },
+        "options": {
+          "en": [
+            "Nathan",
+            "Elijah",
+            "Elhanan"
+          ],
+          "fil": [
+            "Si Natan",
+            "Si Elias",
+            "Si Elhanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Chronicles specifically names Elhanan as the warrior who kills Goliath's brother Lahmi (1 Chronicles 20).",
+          "fil": "Tiyak na pinangalanan ng Cronica si Elhanan bilang mandirigmang pumatay kay Lahmi na kapatid ni Goliat (1 Cronica 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What does David order Joab to do despite Joab's objection?",
+          "fil": "Ano ang iniutos ni David kay Joab sa kabila ng pagtutol nito?"
+        },
+        "options": {
+          "en": [
+            "Send the ark to the Philistines",
+            "Build a temple for Baal",
+            "Count Israel's fighting men"
+          ],
+          "fil": [
+            "Ipadala ang Kaban sa mga Filisteo",
+            "Magtayo ng templo para kay Baal",
+            "Bilangin ang mga mandirigma ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David insists on the census even though Joab warns that it will bring guilt (1 Chronicles 21).",
+          "fil": "Ipinilit ni David ang pagbibilang kahit nagbabala si Joab na magdadala ito ng pagkakasala (1 Cronica 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond when he recognizes the wrong he has done?",
+          "fil": "Paano tumugon si David nang maunawaan niya ang kanyang pagkakamali?"
+        },
+        "options": {
+          "en": [
+            "He confesses his sin and asks God to remove his guilt",
+            "He claims Joab invented the command",
+            "He gives thanks to Israel's idols"
+          ],
+          "fil": [
+            "Inamin niya ang kanyang kasalanan at hiniling sa Diyos na alisin ang kanyang pagkakasala",
+            "Sinabi niyang si Joab ang nag-imbento ng utos",
+            "Nagpasalamat siya sa mga diyus-diyosan ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David acknowledges that he has acted foolishly and seeks God's mercy (1 Chronicles 21).",
+          "fil": "Kinilala ni David na kumilos siya nang may kamangmangan at humingi ng awa ng Diyos (1 Cronica 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David ask when he sees the angel bringing destruction?",
+          "fil": "Ano ang hiniling ni David nang makita niya ang anghel na nagdadala ng pagwasak?"
+        },
+        "options": {
+          "en": [
+            "That the angel make him ruler of Egypt",
+            "That the innocent people receive a heavier punishment",
+            "That he and his own family bear the guilt rather than the people"
+          ],
+          "fil": [
+            "Na gawin siya ng anghel na pinuno ng Egipto",
+            "Na mas mabigat na parusa ang tanggapin ng mga taong walang sala",
+            "Na siya at ang kanyang pamilya ang managot sa halip na ang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David accepts responsibility and pleads for the people under his care (1 Chronicles 21).",
+          "fil": "Tinanggap ni David ang pananagutan at nakiusap para sa bayang kanyang pinangangalagaan (1 Cronica 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David build on Ornan's threshing floor?",
+          "fil": "Ano ang itinayo ni David sa giikan ni Ornan?"
+        },
+        "options": {
+          "en": [
+            "A palace for the Assyrians",
+            "A temple for Dagon",
+            "An altar to the Lord"
+          ],
+          "fil": [
+            "Isang palasyo para sa mga taga-Asiria",
+            "Isang templo para kay Dagon",
+            "Isang altar para sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David buys the threshing floor and builds an altar where the Lord answers his offering (1 Chronicles 21).",
+          "fil": "Binili ni David ang giikan at nagtayo ng altar kung saan tinugon ng Panginoon ang kanyang handog (1 Cronica 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "How does David help prepare for the temple even though he will not build it?",
+          "fil": "Paano tumulong si David sa paghahanda ng templo kahit hindi siya ang magtatayo nito?"
+        },
+        "options": {
+          "en": [
+            "He gathers materials and workers",
+            "He forbids Solomon to begin",
+            "He orders every supply destroyed"
+          ],
+          "fil": [
+            "Nagtipon siya ng mga materyales at manggagawa",
+            "Pinagbawalan niya si Solomon na magsimula",
+            "Iniutos niyang sirain ang lahat ng panustos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David makes extensive preparations so Solomon can carry out the building work (1 Chronicles 22).",
+          "fil": "Gumawa si David ng malawak na paghahanda upang maisagawa ni Solomon ang pagtatayo (1 Cronica 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David say he is not the one to build the house for God's name?",
+          "fil": "Bakit sinabi ni David na hindi siya ang magtatayo ng bahay para sa pangalan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He wants to dedicate the house to Baal",
+            "He has fought many wars and shed much blood",
+            "He has never heard of the ark"
+          ],
+          "fil": [
+            "Gusto niyang ialay ang bahay kay Baal",
+            "Marami siyang ipinaglabang digmaan at dugong pinadanak",
+            "Hindi pa niya narinig ang tungkol sa Kaban"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David explains that the Lord reserves the project for his son rather than a man of many wars (1 Chronicles 22).",
+          "fil": "Ipinaliwanag ni David na inilaan ng Panginoon ang gawain sa kanyang anak sa halip na sa taong maraming digmaang ipinaglaban (1 Cronica 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of reign is promised for Solomon in connection with the building?",
+          "fil": "Anong uri ng paghahari ang ipinangako kay Solomon kaugnay ng pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Rule only over the Philistine priests",
+            "Endless war against every neighbor",
+            "A time of peace and rest from enemies"
+          ],
+          "fil": [
+            "Pamumuno lamang sa mga paring Filisteo",
+            "Walang tigil na digmaan laban sa bawat kapitbahay",
+            "Panahon ng kapayapaan at kapahingahan mula sa mga kaaway"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promised peace will allow Solomon to build the house of the Lord (1 Chronicles 22).",
+          "fil": "Magbibigay-daan ang ipinangakong kapayapaan upang maitayo ni Solomon ang bahay ng Panginoon (1 Cronica 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David ask Israel's leaders to do for Solomon?",
+          "fil": "Ano ang hiniling ni David sa mga pinuno ng Israel para kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Delay the project until Egypt approves",
+            "Help him and devote themselves to seeking the Lord",
+            "Refuse every request for workers"
+          ],
+          "fil": [
+            "Ipagpaliban ang gawain hanggang pumayag ang Egipto",
+            "Tulungan siya at italaga ang sarili sa paghahanap sa Panginoon",
+            "Tanggihan ang bawat hiling para sa manggagawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David calls the leaders to support Solomon in building the sanctuary (1 Chronicles 22).",
+          "fil": "Tinawag ni David ang mga pinuno na suportahan si Solomon sa pagtatayo ng santuwaryo (1 Cronica 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Whose service does David organize for the house of the Lord?",
+          "fil": "Kaninong paglilingkod ang isinaayos ni David para sa bahay ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "The Philistine soldiers'",
+            "The Levites'",
+            "Pharaoh's magicians'"
+          ],
+          "fil": [
+            "Sa mga kawal na Filisteo",
+            "Sa mga Levita",
+            "Sa mga salamangkero ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David arranges the Levites into groups with responsibilities in God's house (1 Chronicles 23).",
+          "fil": "Isinaayos ni David ang mga Levita sa mga pangkat na may pananagutan sa bahay ng Diyos (1 Cronica 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why will the Levites no longer need to carry the tabernacle and its equipment?",
+          "fil": "Bakit hindi na kailangang buhatin ng mga Levita ang tabernakulo at mga kagamitan nito?"
+        },
+        "options": {
+          "en": [
+            "Israel will stop worshiping God",
+            "The Lord has given rest and a settled dwelling in Jerusalem",
+            "The Philistines will carry everything instead"
+          ],
+          "fil": [
+            "Titigil na ang Israel sa pagsamba sa Diyos",
+            "Nagbigay ang Panginoon ng kapahingahan at permanenteng tirahan sa Jerusalem",
+            "Ang mga Filisteo na ang magbubuhat ng lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David explains the changed service in light of God's settled dwelling among his people (1 Chronicles 23).",
+          "fil": "Ipinaliwanag ni David ang pagbabago sa paglilingkod dahil sa permanenteng tahanan ng Diyos sa gitna ng bayan (1 Cronica 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What regular act of worship is included in the Levites' duties?",
+          "fil": "Anong regular na pagsamba ang kabilang sa mga tungkulin ng mga Levita?"
+        },
+        "options": {
+          "en": [
+            "Offering worship to Baal at sunset",
+            "Choosing a new king every morning",
+            "Giving thanks and praise morning and evening"
+          ],
+          "fil": [
+            "Pagsamba kay Baal sa paglubog ng araw",
+            "Pagpili ng bagong hari tuwing umaga",
+            "Pagpapasalamat at pagpupuri sa umaga at gabi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Levites assist the priests and regularly stand to thank and praise the Lord (1 Chronicles 23).",
+          "fil": "Tumulong ang mga Levita sa mga pari at regular na tumayo upang magpasalamat at pumuri sa Panginoon (1 Cronica 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What is the main purpose of the divisions described in this chapter?",
+          "fil": "Ano ang pangunahing layunin ng mga pangkat na inilarawan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Arrange the priests' appointed service",
+            "Prepare an attack on Egypt",
+            "Divide Israel into rival kingdoms"
+          ],
+          "fil": [
+            "Isaayos ang itinakdang paglilingkod ng mga pari",
+            "Maghanda ng pagsalakay sa Egipto",
+            "Hatiin ang Israel sa magkakaribal na kaharian"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David organizes the priestly families for orderly service in the house of the Lord (1 Chronicles 24).",
+          "fil": "Isinaayos ni David ang mga pamilya ng pari para sa maayos na paglilingkod sa bahay ng Panginoon (1 Cronica 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "From whose descendants do these priestly families come?",
+          "fil": "Kaninong mga inapo nagmula ang mga pamilyang ito ng pari?"
+        },
+        "options": {
+          "en": [
+            "Saul's",
+            "Goliath's",
+            "Aaron's"
+          ],
+          "fil": [
+            "Kay Saul",
+            "Kay Goliat",
+            "Kay Aaron"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The divisions are drawn from the descendants of Aaron through the surviving priestly lines (1 Chronicles 24).",
+          "fil": "Nagmula ang mga pangkat sa mga inapo ni Aaron sa pamamagitan ng mga angkang nagpatuloy sa pagkapari (1 Cronica 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the families assigned their order of service?",
+          "fil": "Paano itinakda ang pagkakasunod ng paglilingkod ng mga pamilya?"
+        },
+        "options": {
+          "en": [
+            "By asking Pharaoh to choose",
+            "By bidding the most gold",
+            "By casting lots"
+          ],
+          "fil": [
+            "Sa pagpili ni Faraon",
+            "Sa pag-aalok ng pinakamaraming ginto",
+            "Sa pamamagitan ng palabunutan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Lots determine the service assignments in the presence of the king and leaders (1 Chronicles 24).",
+          "fil": "Itinakda ng palabunutan ang mga tungkulin sa harap ng hari at mga pinuno (1 Cronica 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What kind of temple service is organized in this chapter?",
+          "fil": "Anong uri ng paglilingkod sa templo ang isinaayos sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Making weapons for Assyria",
+            "Music and praise",
+            "Collecting tribute for Pharaoh"
+          ],
+          "fil": [
+            "Paggawa ng sandata para sa Asiria",
+            "Musika at pagpupuri",
+            "Pangongolekta ng buwis para kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter assigns trained musicians to serve in the house of God (1 Chronicles 25).",
+          "fil": "Itinalaga ng kabanata ang mga sinanay na musikero upang maglingkod sa bahay ng Diyos (1 Cronica 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are instruments such as harps and cymbals used?",
+          "fil": "Paano ginamit ang mga instrumentong gaya ng alpa at pompiyang?"
+        },
+        "options": {
+          "en": [
+            "To stop the priests from praying",
+            "To worship Israel's defeated enemies",
+            "To accompany thanksgiving and praise to the Lord"
+          ],
+          "fil": [
+            "Upang pigilan ang mga pari sa pananalangin",
+            "Upang sambahin ang mga natalong kaaway ng Israel",
+            "Upang samahan ang pasasalamat at pagpupuri sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The musicians use their skill as part of worship and thanksgiving (1 Chronicles 25).",
+          "fil": "Ginamit ng mga musikero ang kanilang kakayahan bilang bahagi ng pagsamba at pasasalamat (1 Cronica 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who shares in the drawing of lots for musical duties?",
+          "fil": "Sino ang kasama sa palabunutan para sa mga tungkulin sa musika?"
+        },
+        "options": {
+          "en": [
+            "Only the richest families",
+            "Young and old, teachers and students alike",
+            "Only foreign kings"
+          ],
+          "fil": [
+            "Ang pinakamayayamang pamilya lamang",
+            "Bata at matanda, guro at mag-aaral",
+            "Ang mga dayuhang hari lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The assignments include both experienced teachers and their students without excluding the younger members (1 Chronicles 25).",
+          "fil": "Kasama sa pagtatalaga ang mga bihasang guro at kanilang mag-aaral nang hindi ibinubukod ang mga nakababata (1 Cronica 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What duty is assigned to the gatekeepers in this chapter?",
+          "fil": "Anong tungkulin ang inilaan sa mga bantay-pintuan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Leading Egypt's army",
+            "Choosing idols for each tribe",
+            "Guarding the entrances of the Lord's house"
+          ],
+          "fil": [
+            "Pamumuno sa hukbo ng Egipto",
+            "Pagpili ng diyus-diyosan para sa bawat lipi",
+            "Pagbabantay sa mga pasukan ng bahay ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Families of capable gatekeepers are organized for service at the sanctuary (1 Chronicles 26).",
+          "fil": "Isinaayos ang mga pamilya ng may kakayahang bantay-pintuan para sa paglilingkod sa santuwaryo (1 Cronica 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What other important responsibility is given to some Levites?",
+          "fil": "Anong iba pang mahalagang pananagutan ang ibinigay sa ilang Levita?"
+        },
+        "options": {
+          "en": [
+            "Keeping Baal's temple open",
+            "Governing every foreign kingdom",
+            "Caring for the temple treasuries and dedicated gifts"
+          ],
+          "fil": [
+            "Pagpapanatiling bukas ng templo ni Baal",
+            "Pamamahala sa bawat dayuhang kaharian",
+            "Pangangalaga sa mga kabang-yaman ng templo at mga inilaang handog"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter names Levites entrusted with the treasures of God's house (1 Chronicles 26).",
+          "fil": "Pinangalanan ng kabanata ang mga Levitang pinagkatiwalaan ng kayamanan ng bahay ng Diyos (1 Cronica 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "For what purpose had leaders dedicated some spoils from battle?",
+          "fil": "Para saan inilaan ng mga pinuno ang ilan sa mga nasamsam sa labanan?"
+        },
+        "options": {
+          "en": [
+            "Maintaining the house of the Lord",
+            "Paying for a rebellion against Solomon",
+            "Building a throne for Dagon"
+          ],
+          "fil": [
+            "Sa pagpapanatili ng bahay ng Panginoon",
+            "Sa pagtustos ng paghihimagsik laban kay Solomon",
+            "Sa paggawa ng trono para kay Dagon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gifts set apart from victories help provide for the Lord's house (1 Chronicles 26).",
+          "fil": "Nakatulong sa pagtustos sa bahay ng Panginoon ang mga handog na ibinukod mula sa mga tagumpay (1 Cronica 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "How are the army divisions described as serving the king?",
+          "fil": "Paano inilarawang naglilingkod sa hari ang mga pangkat ng hukbo?"
+        },
+        "options": {
+          "en": [
+            "Every soldier serves only one day in his life",
+            "They leave all defense to foreign kings",
+            "They take turns on duty through the months"
+          ],
+          "fil": [
+            "Isang araw lamang naglilingkod ang bawat kawal sa buong buhay",
+            "Ipinauubaya nila ang lahat ng pagtatanggol sa mga dayuhang hari",
+            "Naghahalinhinan sila sa tungkulin sa mga buwan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter lists an organized rotation of military divisions through the year (1 Chronicles 27).",
+          "fil": "Itinala ng kabanata ang maayos na paghahalinhinan ng mga pangkat ng hukbo sa buong taon (1 Cronica 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of royal property has appointed supervisors?",
+          "fil": "Anong uri ng pag-aari ng hari ang may mga itinalagang tagapangasiwa?"
+        },
+        "options": {
+          "en": [
+            "Fields, vineyards, stores, and herds",
+            "Every temple of Baal abroad",
+            "The pyramids of Egypt alone"
+          ],
+          "fil": [
+            "Mga bukid, ubasan, imbakan, at kawan",
+            "Bawat templo ni Baal sa ibang bansa",
+            "Ang mga piramide lamang ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Officials oversee the king's agricultural resources and livestock (1 Chronicles 27).",
+          "fil": "Pinangasiwaan ng mga opisyal ang mga pananim at hayop ng hari (1 Cronica 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the lists of officers and advisers show about the kingdom's work?",
+          "fil": "Ano ang ipinakita ng mga talaan ng opisyal at tagapayo tungkol sa gawain ng kaharian?"
+        },
+        "options": {
+          "en": [
+            "No one has any assigned duty",
+            "David performs every task alone",
+            "Many people share distinct responsibilities"
+          ],
+          "fil": [
+            "Walang sinumang may nakatalagang tungkulin",
+            "Si David lamang ang gumagawa ng lahat",
+            "Maraming tao ang may magkakaibang pananagutan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter presents organized leadership in defense, resources, and royal counsel (1 Chronicles 27).",
+          "fil": "Ipinakita ng kabanata ang maayos na pamumuno sa pagtatanggol, mga panustos, at pagpapayo sa hari (1 Cronica 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "Whom does David publicly name as God's chosen builder of the temple?",
+          "fil": "Sino ang hayagang pinangalanan ni David na piniling tagapagtayo ng Diyos sa templo?"
+        },
+        "options": {
+          "en": [
+            "Saul",
+            "Joab",
+            "Solomon"
+          ],
+          "fil": [
+            "Si Saul",
+            "Si Joab",
+            "Si Solomon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David tells the assembled leaders that God has chosen Solomon for the building work (1 Chronicles 28).",
+          "fil": "Sinabi ni David sa nagkatipong mga pinuno na pinili ng Diyos si Solomon para sa pagtatayo (1 Cronica 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude does David urge Solomon to have toward God?",
+          "fil": "Anong saloobin sa Diyos ang hinimok ni David na taglayin ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Serve with a wholehearted and willing heart",
+            "Pretend to obey while trusting idols",
+            "Seek God only when people are watching"
+          ],
+          "fil": [
+            "Maglingkod nang buong puso at kusang-loob",
+            "Magkunwaring sumusunod habang nagtitiwala sa diyus-diyosan",
+            "Hanapin lamang ang Diyos kapag may nanonood"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David calls Solomon to sincere devotion because God knows the heart (1 Chronicles 28).",
+          "fil": "Tinawag ni David si Solomon sa tapat na debosyon dahil alam ng Diyos ang puso (1 Cronica 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David give Solomon to guide the building work?",
+          "fil": "Ano ang ibinigay ni David kay Solomon upang gabayan ang pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "A map for conquering Egypt",
+            "Plans for the temple and its furnishings",
+            "A command to copy Baal's temple"
+          ],
+          "fil": [
+            "Mapa para sa pagsakop sa Egipto",
+            "Mga plano para sa templo at mga kagamitan nito",
+            "Utos na gayahin ang templo ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David hands over detailed plans that he understands to come from the Lord's guidance (1 Chronicles 28).",
+          "fil": "Ibinigay ni David ang mga detalyadong planong kinilala niyang mula sa patnubay ng Panginoon (1 Cronica 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David tell Solomon to be strong and begin the work?",
+          "fil": "Bakit sinabi ni David kay Solomon na magpakatatag at simulan ang gawain?"
+        },
+        "options": {
+          "en": [
+            "He will never need any workers",
+            "The temple has already built itself",
+            "God will be with him and will not abandon him"
+          ],
+          "fil": [
+            "Hindi niya kailanman kakailanganin ang mga manggagawa",
+            "Naipatayo na ng templo ang sarili nito",
+            "Sasamahan siya ng Diyos at hindi pababayaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David encourages Solomon with God's presence and the help prepared for the task (1 Chronicles 28).",
+          "fil": "Pinalakas ni David si Solomon sa katiyakan ng presensiya ng Diyos at tulong na nakahanda para sa gawain (1 Cronica 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "How do the leaders and people give toward the temple project?",
+          "fil": "Paano nagbigay ang mga pinuno at bayan para sa gawain sa templo?"
+        },
+        "options": {
+          "en": [
+            "Willingly and joyfully",
+            "With the aim of honoring Baal",
+            "Only after being captured by an enemy"
+          ],
+          "fil": [
+            "Nang kusa at may kagalakan",
+            "Upang parangalan si Baal",
+            "Matapos lamang mabihag ng kaaway"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people rejoice because the gifts are offered freely and wholeheartedly (1 Chronicles 29).",
+          "fil": "Nagalak ang mga tao dahil kusang-loob at buong pusong ibinigay ang mga handog (1 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David acknowledge about everything they give?",
+          "fil": "Ano ang kinilala ni David tungkol sa lahat ng kanilang ibinigay?"
+        },
+        "options": {
+          "en": [
+            "It belongs to Pharaoh forever",
+            "It already comes from God",
+            "It was all stolen from the poor"
+          ],
+          "fil": [
+            "Pag-aari ito ni Faraon magpakailanman",
+            "Mula na ito sa Diyos",
+            "Ninakaw ang lahat mula sa mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David thanks God as the source of the wealth they are able to offer (1 Chronicles 29).",
+          "fil": "Pinasalamatan ni David ang Diyos bilang pinagmulan ng kayamanang kanilang naihandog (1 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David ask God to give Solomon?",
+          "fil": "Ano ang hiniling ni David sa Diyos na ibigay kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "A desire to abandon the covenant",
+            "A wholehearted desire to obey and complete the temple",
+            "Power to replace God as ruler"
+          ],
+          "fil": [
+            "Hangaring talikuran ang tipan",
+            "Buong pusong hangaring sumunod at tapusin ang templo",
+            "Kapangyarihang pumalit sa Diyos bilang pinuno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David prays that Solomon will faithfully keep God's commands and carry out the work (1 Chronicles 29).",
+          "fil": "Ipinanalangin ni David na tapat na sundin ni Solomon ang mga utos ng Diyos at isagawa ang gawain (1 Cronica 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who takes the throne as David's reign comes to an end?",
+          "fil": "Sino ang umupo sa trono nang magtapos ang paghahari ni David?"
+        },
+        "options": {
+          "en": [
+            "Jeroboam",
+            "Solomon",
+            "Absalom"
+          ],
+          "fil": [
+            "Si Jeroboam",
+            "Si Solomon",
+            "Si Absalom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon is acknowledged as king, and David's life ends after a long reign (1 Chronicles 29).",
+          "fil": "Kinilala si Solomon bilang hari at nagtapos ang buhay ni David matapos ang mahabang paghahari (1 Cronica 29)."
+        }
+      }
+    ]
+  }
+}
