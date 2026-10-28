@@ -1,0 +1,2055 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Whom does the injured Ahaziah send messengers to consult?",
+          "fil": "Kanino nagsugo ang nasaktang si Ahazias upang sumangguni?"
+        },
+        "options": {
+          "en": [
+            "Nathan in Jerusalem",
+            "Moses on Mount Sinai",
+            "Baal-zebub, the god of Ekron"
+          ],
+          "fil": [
+            "Kay Natan sa Jerusalem",
+            "Kay Moises sa Bundok Sinai",
+            "Kay Baalzebub na diyos ng Ekron"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ahaziah seeks an answer from Ekron's god instead of the God of Israel (2 Kings 1).",
+          "fil": "Humingi si Ahazias ng sagot sa diyos ng Ekron sa halip na sa Diyos ng Israel (2 Hari 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What message does Elijah give concerning Ahaziah's illness?",
+          "fil": "Anong mensahe ang ibinigay ni Elias tungkol sa karamdaman ni Ahazias?"
+        },
+        "options": {
+          "en": [
+            "He must build another temple to Baal",
+            "He will not recover but will die",
+            "He will soon become king of Egypt"
+          ],
+          "fil": [
+            "Dapat siyang magtayo ng isa pang templo para kay Baal",
+            "Hindi siya gagaling kundi mamamatay",
+            "Malapit na siyang maging hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah announces that Ahaziah will die after turning away from Israel's God for guidance (2 Kings 1).",
+          "fil": "Ipinahayag ni Elias na mamamatay si Ahazias matapos itong lumayo sa Diyos ng Israel sa paghingi ng patnubay (2 Hari 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the third captain approach Elijah differently from the earlier captains?",
+          "fil": "Paano naiiba ang paglapit ng ikatlong kapitan kay Elias kaysa sa mga nauna?"
+        },
+        "options": {
+          "en": [
+            "He promises to burn Samaria",
+            "He kneels and humbly asks that their lives be spared",
+            "He orders Elijah to worship Baal"
+          ],
+          "fil": [
+            "Nangako siyang susunugin ang Samaria",
+            "Lumuhod siya at mapagpakumbabang humiling na iligtas ang kanilang buhay",
+            "Inutusan niya si Elias na sumamba kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The third captain pleads humbly, and the Lord tells Elijah to go with him (2 Kings 1).",
+          "fil": "Mapagpakumbabang nakiusap ang ikatlong kapitan at sinabi ng Panginoon kay Elias na sumama rito (2 Hari 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does Elisha do when Elijah repeatedly tells him to stay behind?",
+          "fil": "Ano ang ginawa ni Eliseo nang paulit-ulit siyang sabihan ni Elias na magpaiwan?"
+        },
+        "options": {
+          "en": [
+            "He joins the king's army instead",
+            "He insists on staying with Elijah",
+            "He immediately returns to farming"
+          ],
+          "fil": [
+            "Sumama siya sa hukbo ng hari sa halip",
+            "Iginiit niyang manatiling kasama si Elias",
+            "Agad siyang bumalik sa pagsasaka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elisha remains with Elijah through the journey leading to their separation (2 Kings 2).",
+          "fil": "Nanatiling kasama ni Eliseo si Elias sa paglalakbay bago sila magkahiwalay (2 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elisha request before Elijah is taken away?",
+          "fil": "Ano ang hiniling ni Eliseo bago kunin si Elias?"
+        },
+        "options": {
+          "en": [
+            "A double share of Elijah's spirit",
+            "A throne beside Pharaoh",
+            "All the vineyards of Israel"
+          ],
+          "fil": [
+            "Dobleng bahagi ng espiritu ni Elias",
+            "Trono sa tabi ni Faraon",
+            "Lahat ng ubasan ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha asks to receive the spiritual inheritance needed to continue Elijah's work (2 Kings 2).",
+          "fil": "Hiniling ni Eliseo ang espirituwal na manang kailangan upang ipagpatuloy ang gawain ni Elias (2 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Elijah taken from Elisha?",
+          "fil": "Paano kinuha si Elias mula kay Eliseo?"
+        },
+        "options": {
+          "en": [
+            "He is carried away by Philistine soldiers",
+            "He goes up in a whirlwind as a fiery chariot separates them",
+            "He boards a ship to Egypt"
+          ],
+          "fil": [
+            "Tinangay siya ng mga kawal na Filisteo",
+            "Umakyat siya sa isang ipuipo habang pinaghiwalay sila ng karwaheng apoy",
+            "Sumakay siya sa barkong patungong Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A fiery chariot and horses appear, and Elijah is taken up in a whirlwind (2 Kings 2).",
+          "fil": "Lumitaw ang karwahe at mga kabayong apoy at kinuha si Elias sa isang ipuipo (2 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elisha use when he returns to cross the Jordan?",
+          "fil": "Ano ang ginamit ni Eliseo sa pagbabalik niya upang tumawid sa Jordan?"
+        },
+        "options": {
+          "en": [
+            "Saul's spear",
+            "Elijah's cloak",
+            "Moses' stone tablets"
+          ],
+          "fil": [
+            "Ang sibat ni Saul",
+            "Ang balabal ni Elias",
+            "Ang mga tapyas na bato ni Moises"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elisha strikes the water with Elijah's cloak and the river parts for him (2 Kings 2).",
+          "fil": "Hinampas ni Eliseo ng balabal ni Elias ang tubig at nahawi ang ilog para sa kanya (2 Hari 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Why do the allied kings seek Elisha during their campaign against Moab?",
+          "fil": "Bakit hinanap ng magkakaalyadong hari si Eliseo sa kanilang pagsalakay laban sa Moab?"
+        },
+        "options": {
+          "en": [
+            "They need him to build a golden calf",
+            "Their armies have run out of water",
+            "They want to crown him king of Moab"
+          ],
+          "fil": [
+            "Kailangan nila siyang gumawa ng gintong guya",
+            "Naubusan ng tubig ang kanilang mga hukbo",
+            "Gusto nila siyang koronahang hari ng Moab"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The kings face a water crisis in the wilderness and seek the Lord through Elisha (2 Kings 3).",
+          "fil": "Hinarap ng mga hari ang kakulangan ng tubig sa ilang at sumangguni sa Panginoon sa pamamagitan ni Eliseo (2 Hari 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elisha announce about their dry surroundings?",
+          "fil": "Ano ang ipinahayag ni Eliseo tungkol sa tuyong lugar na kinaroroonan nila?"
+        },
+        "options": {
+          "en": [
+            "The Lord will provide water without wind or rain",
+            "No water will ever return to the land",
+            "The armies must drink from the sea"
+          ],
+          "fil": [
+            "Maglalaan ang Panginoon ng tubig nang walang hangin o ulan",
+            "Hindi na kailanman babalik ang tubig sa lupain",
+            "Dapat uminom sa dagat ang mga hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha promises that God will supply water for the people and animals (2 Kings 3).",
+          "fil": "Ipinangako ni Eliseo na maglalaan ang Diyos ng tubig para sa mga tao at hayop (2 Hari 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistake do the Moabites make when sunlight falls on the water?",
+          "fil": "Anong pagkakamali ang nagawa ng mga Moabita nang sikatan ng araw ang tubig?"
+        },
+        "options": {
+          "en": [
+            "They think it is blood from the allies fighting one another",
+            "They think it is oil for the temple",
+            "They think the Jordan has moved to Jerusalem"
+          ],
+          "fil": [
+            "Inakala nilang dugo iyon mula sa paglalaban-laban ng magkakaalyado",
+            "Inakala nilang langis iyon para sa templo",
+            "Inakala nilang lumipat ang Jordan sa Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Moabites mistake the red-looking water for blood and rush toward the camp (2 Kings 3).",
+          "fil": "Inakala ng mga Moabita na dugo ang mukhang pulang tubig at sumugod sa kampo (2 Hari 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How does the woman of Shunem show hospitality to Elisha?",
+          "fil": "Paano nagpakita ng pagtanggap ang babae sa Sunem kay Eliseo?"
+        },
+        "options": {
+          "en": [
+            "She makes him king over her town",
+            "She buys him a palace in Egypt",
+            "She provides meals and a room for him"
+          ],
+          "fil": [
+            "Ginawa niya itong hari ng kanyang bayan",
+            "Binilhan niya ito ng palasyo sa Egipto",
+            "Naglaan siya ng pagkain at silid para sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The woman and her husband prepare a place where Elisha can rest during his visits (2 Kings 4).",
+          "fil": "Naghanda ang babae at ang kanyang asawa ng lugar na mapagpapahingahan ni Eliseo sa kanyang mga pagdalaw (2 Hari 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unexpected blessing does Elisha announce for the woman?",
+          "fil": "Anong hindi inaasahang pagpapala ang ipinahayag ni Eliseo para sa babae?"
+        },
+        "options": {
+          "en": [
+            "She will rule over Israel",
+            "Her house will become the temple",
+            "She will have a son"
+          ],
+          "fil": [
+            "Mamumuno siya sa Israel",
+            "Magiging templo ang kanyang bahay",
+            "Magkakaroon siya ng anak na lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elisha tells the childless woman that she will hold a son (2 Kings 4).",
+          "fil": "Sinabi ni Eliseo sa babaeng walang anak na magkakaroon siya ng anak na lalaki (2 Hari 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens after the woman's son dies and she seeks Elisha?",
+          "fil": "Ano ang nangyari matapos mamatay ang anak ng babae at hanapin niya si Eliseo?"
+        },
+        "options": {
+          "en": [
+            "The boy is made king of Moab",
+            "The family is driven out of Israel",
+            "Elisha prays and the boy is restored to life"
+          ],
+          "fil": [
+            "Ginawang hari ng Moab ang bata",
+            "Pinalayas ang pamilya sa Israel",
+            "Nanalangin si Eliseo at muling nabuhay ang bata"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elisha goes to the child's room, prays to the Lord, and returns the living boy to his mother (2 Kings 4).",
+          "fil": "Pumasok si Eliseo sa silid ng bata, nanalangin sa Panginoon, at ibinalik sa ina ang buhay na anak (2 Hari 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who first tells Naaman's household about the prophet in Samaria?",
+          "fil": "Sino ang unang nagsabi sa sambahayan ni Naaman tungkol sa propeta sa Samaria?"
+        },
+        "options": {
+          "en": [
+            "A young Israelite girl serving his wife",
+            "Goliath's armor-bearer",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Isang batang babaeng Israelita na naglilingkod sa kanyang asawa",
+            "Ang tagapagdala ng sandata ni Goliat",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The captive girl's hopeful advice points Naaman toward help in Israel (2 Kings 5).",
+          "fil": "Itinuro ng payo ng bihag na batang babae ang paghingi ni Naaman ng tulong sa Israel (2 Hari 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What instruction does Elisha send to Naaman for his healing?",
+          "fil": "Anong tagubilin ang ipinadala ni Eliseo kay Naaman para sa kanyang paggaling?"
+        },
+        "options": {
+          "en": [
+            "Build a golden calf",
+            "Wash in the Jordan",
+            "Drink from the Dead Sea"
+          ],
+          "fil": [
+            "Gumawa ng gintong guya",
+            "Maligo sa Jordan",
+            "Uminom sa Dagat na Patay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elisha directs Naaman to wash in the Jordan rather than receive an elaborate ceremony (2 Kings 5).",
+          "fil": "Pinapaligo ni Eliseo si Naaman sa Jordan sa halip na magsagawa ng marangyang seremonya (2 Hari 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps Naaman move beyond his anger and follow the instruction?",
+          "fil": "Ano ang tumulong kay Naaman na malampasan ang galit at sundin ang tagubilin?"
+        },
+        "options": {
+          "en": [
+            "His servants urge him to try the simple command",
+            "The river is replaced with a royal bath",
+            "Elisha promises him Israel's throne"
+          ],
+          "fil": [
+            "Hinimok siya ng kanyang mga lingkod na subukan ang simpleng utos",
+            "Pinalitan ang ilog ng maharlikang paliguan",
+            "Ipinangako ni Eliseo sa kanya ang trono ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Naaman listens to his servants, obeys, and is healed (2 Kings 5).",
+          "fil": "Nakinig si Naaman sa kanyang mga lingkod, sumunod, at gumaling (2 Hari 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrongdoing brings consequences on Gehazi?",
+          "fil": "Anong kasalanan ang nagdala ng kaparusahan kay Gehazi?"
+        },
+        "options": {
+          "en": [
+            "He lies to obtain gifts that Elisha had refused",
+            "He tells Naaman to thank the Lord",
+            "He refuses to take any reward"
+          ],
+          "fil": [
+            "Nagsinungaling siya upang kunin ang mga regalong tinanggihan ni Eliseo",
+            "Sinabi niya kay Naaman na pasalamatan ang Panginoon",
+            "Tumanggi siyang tumanggap ng anumang gantimpala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gehazi secretly pursues gifts and lies about his actions (2 Kings 5).",
+          "fil": "Palihim na hinabol ni Gehazi ang mga regalo at nagsinungaling tungkol sa kanyang ginawa (2 Hari 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Why does the Aramean king send soldiers to seize Elisha?",
+          "fil": "Bakit nagpadala ng mga kawal ang hari ng Siria upang hulihin si Eliseo?"
+        },
+        "options": {
+          "en": [
+            "Elisha warns Israel about his secret plans",
+            "Elisha commands the army of Egypt",
+            "Elisha has stolen his palace"
+          ],
+          "fil": [
+            "Binababalaan ni Eliseo ang Israel tungkol sa kanyang mga lihim na plano",
+            "Pinamumunuan ni Eliseo ang hukbo ng Egipto",
+            "Ninakaw ni Eliseo ang kanyang palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king learns that Elisha exposes his plans and seeks to capture him at Dothan (2 Kings 6).",
+          "fil": "Nalaman ng hari na ibinubunyag ni Eliseo ang kanyang mga plano at tinangka niya itong hulihin sa Dotan (2 Hari 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elisha's servant see after Elisha prays for his eyes to be opened?",
+          "fil": "Ano ang nakita ng lingkod ni Eliseo matapos ipanalangin ni Eliseo na mabuksan ang kanyang mga mata?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh carrying the ark",
+            "The hills full of fiery horses and chariots",
+            "Jerusalem sinking into the sea"
+          ],
+          "fil": [
+            "Si Faraon na pasan ang Kaban",
+            "Ang mga burol na puno ng mga kabayo at karwaheng apoy",
+            "Ang Jerusalem na lumulubog sa dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The servant sees God's protection surrounding Elisha beyond the visible enemy army (2 Kings 6).",
+          "fil": "Nakita ng lingkod ang pag-iingat ng Diyos na nakapaligid kay Eliseo sa kabila ng nakikitang hukbo ng kaaway (2 Hari 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the captured Aramean soldiers treated in Samaria at Elisha's direction?",
+          "fil": "Paano tinrato ang mga nahuling kawal ng Siria sa Samaria ayon sa tagubilin ni Eliseo?"
+        },
+        "options": {
+          "en": [
+            "They are forced to build a temple for Baal",
+            "They are fed and sent back to their master",
+            "They are all killed while eating"
+          ],
+          "fil": [
+            "Pinilit silang magtayo ng templo para kay Baal",
+            "Pinakain sila at pinabalik sa kanilang pinuno",
+            "Pinatay silang lahat habang kumakain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elisha tells Israel's king to give the soldiers food and water rather than kill them (2 Kings 6).",
+          "fil": "Sinabi ni Eliseo sa hari ng Israel na bigyan ng pagkain at tubig ang mga kawal sa halip na patayin sila (2 Hari 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What surprising change does Elisha predict for famine-stricken Samaria?",
+          "fil": "Anong nakakagulat na pagbabago ang inihula ni Eliseo para sa nagugutom na Samaria?"
+        },
+        "options": {
+          "en": [
+            "Food will soon be plentiful and affordable",
+            "Everyone must leave for Egypt",
+            "The famine will last forever"
+          ],
+          "fil": [
+            "Malapit nang magkaroon ng marami at abot-kayang pagkain",
+            "Dapat umalis ang lahat patungong Egipto",
+            "Magtatagal ang taggutom magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha announces that food prices will fall dramatically by the next day (2 Kings 7).",
+          "fil": "Ipinahayag ni Eliseo na malaki ang ibababa ng presyo ng pagkain kinabukasan (2 Hari 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who discovers that the Aramean camp has been abandoned?",
+          "fil": "Sino ang nakatuklas na iniwan na ang kampo ng Siria?"
+        },
+        "options": {
+          "en": [
+            "The queen of Sheba",
+            "Four men with leprosy outside the city",
+            "Solomon's temple builders"
+          ],
+          "fil": [
+            "Ang reyna ng Sheba",
+            "Apat na lalaking may ketong sa labas ng lunsod",
+            "Ang mga nagtayo ng templo ni Solomon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Four men looking for food enter the camp and find no enemy soldiers there (2 Kings 7).",
+          "fil": "Pumasok sa kampo ang apat na lalaking naghahanap ng pagkain at wala silang natagpuang kawal ng kaaway (2 Hari 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why have the Arameans fled from their camp?",
+          "fil": "Bakit tumakas ang mga taga-Siria mula sa kanilang kampo?"
+        },
+        "options": {
+          "en": [
+            "The Lord made them hear the sound of a great army",
+            "David personally chased them from Egypt",
+            "Their king ordered a harvest festival at home"
+          ],
+          "fil": [
+            "Ipinarinig sa kanila ng Panginoon ang tunog ng malaking hukbo",
+            "Si David mismo ang humabol sa kanila mula sa Egipto",
+            "Iniutos ng kanilang hari ang pagdiriwang ng anihan sa kanilang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Arameans flee in panic after hearing what seems to be an approaching army (2 Kings 7).",
+          "fil": "Tumakas sa takot ang mga taga-Siria matapos marinig ang tila paparating na hukbo (2 Hari 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the four men decide after first keeping the discovery to themselves?",
+          "fil": "Ano ang ipinasiya ng apat na lalaki matapos muna nilang ilihim ang natuklasan?"
+        },
+        "options": {
+          "en": [
+            "They must burn all the food",
+            "They must help the Arameans return secretly",
+            "They must share the good news with the city"
+          ],
+          "fil": [
+            "Dapat nilang sunugin ang lahat ng pagkain",
+            "Dapat nilang tulungang bumalik nang lihim ang mga taga-Siria",
+            "Dapat nilang ibalita ang magandang balita sa lunsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The men realize it is wrong to stay silent while the city is hungry (2 Kings 7).",
+          "fil": "Naunawaan ng mga lalaki na maling manahimik habang nagugutom ang lunsod (2 Hari 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Why does Ben-Hadad send Hazael to Elisha in Damascus?",
+          "fil": "Bakit ipinadala ni Ben-hadad si Hazael kay Eliseo sa Damasco?"
+        },
+        "options": {
+          "en": [
+            "To ask whether he will recover from illness",
+            "To ask where Solomon hid the ark",
+            "To invite Elisha to become king"
+          ],
+          "fil": [
+            "Upang itanong kung gagaling siya sa karamdaman",
+            "Upang itanong kung saan itinago ni Solomon ang Kaban",
+            "Upang anyayahan si Eliseo na maging hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sick Aramean king sends Hazael to seek an answer through Elisha (2 Kings 8).",
+          "fil": "Ipinadala ng may sakit na hari ng Siria si Hazael upang humingi ng sagot sa pamamagitan ni Eliseo (2 Hari 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Elisha weep while speaking with Hazael?",
+          "fil": "Bakit umiyak si Eliseo habang kausap si Hazael?"
+        },
+        "options": {
+          "en": [
+            "Hazael refuses to build him a palace",
+            "He foresees the harm Hazael will do to Israel",
+            "He has lost the royal treasury"
+          ],
+          "fil": [
+            "Ayaw siyang ipagtayo ni Hazael ng palasyo",
+            "Nakita niya ang kasamaang gagawin ni Hazael sa Israel",
+            "Nawala niya ang kabang-yaman ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elisha grieves because he knows the suffering Hazael will cause (2 Kings 8).",
+          "fil": "Nagdalamhati si Eliseo dahil alam niya ang pagdurusang idudulot ni Hazael (2 Hari 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Hazael become king after meeting Elisha?",
+          "fil": "Paano naging hari si Hazael matapos makatagpo si Eliseo?"
+        },
+        "options": {
+          "en": [
+            "He kills Ben-Hadad and takes his place",
+            "Ben-Hadad names him king in a public feast",
+            "He is chosen by Israel's priests in Jerusalem"
+          ],
+          "fil": [
+            "Pinatay niya si Ben-hadad at humalili rito",
+            "Itinalaga siya ni Ben-hadad na hari sa hayag na piging",
+            "Pinili siya ng mga pari ng Israel sa Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hazael ends Ben-Hadad's life and succeeds him as king of Aram (2 Kings 8).",
+          "fil": "Pinatay ni Hazael si Ben-hadad at humalili bilang hari ng Siria (2 Hari 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does the young prophet sent by Elisha do for Jehu?",
+          "fil": "Ano ang ginawa para kay Jehu ng batang propetang isinugo ni Eliseo?"
+        },
+        "options": {
+          "en": [
+            "He anoints him king over Israel",
+            "He sends him into exile in Egypt",
+            "He appoints him priest of Baal"
+          ],
+          "fil": [
+            "Pinahiran niya ito bilang hari ng Israel",
+            "Ipinatapon niya ito sa Egipto",
+            "Ginawa niya itong pari ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha's messenger privately anoints Jehu and delivers a commission against Ahab's house (2 Kings 9).",
+          "fil": "Palihim na pinahiran ng sugo ni Eliseo si Jehu at ibinigay ang utos laban sa sambahayan ni Ahab (2 Hari 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Jehu's fellow officers respond when they learn of his anointing?",
+          "fil": "Paano tumugon ang kapwa mga opisyal ni Jehu nang malaman ang kanyang pagkakapahid?"
+        },
+        "options": {
+          "en": [
+            "They spread garments beneath him and proclaim him king",
+            "They immediately surrender to Pharaoh",
+            "They bury him outside the camp"
+          ],
+          "fil": [
+            "Inilatag nila ang mga damit sa ilalim niya at ipinahayag siyang hari",
+            "Agad silang sumuko kay Faraon",
+            "Inilibing nila siya sa labas ng kampo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehu's fellow officers publicly acknowledge him as king (2 Kings 9).",
+          "fil": "Hayagang kinilala ng kapwa mga opisyal si Jehu bilang hari (2 Hari 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Jehu order Joram's body to be thrown?",
+          "fil": "Saan ipinahagis ni Jehu ang bangkay ni Joram?"
+        },
+        "options": {
+          "en": [
+            "In the temple's inner sanctuary",
+            "In Naboth's field",
+            "In Noah's vineyard"
+          ],
+          "fil": [
+            "Sa pinakaloob na santuwaryo ng templo",
+            "Sa bukid ni Nabot",
+            "Sa ubasan ni Noe"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jehu connects Joram's death at Naboth's property with the earlier judgment against Ahab's family (2 Kings 9).",
+          "fil": "Iniugnay ni Jehu ang pagkamatay ni Joram sa lupain ni Nabot sa naunang hatol laban sa pamilya ni Ahab (2 Hari 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jezebel when Jehu reaches her window?",
+          "fil": "Ano ang nangyari kay Jezebel nang makarating si Jehu sa kanyang bintana?"
+        },
+        "options": {
+          "en": [
+            "She escapes safely to Solomon's temple",
+            "Her attendants throw her down at Jehu's command",
+            "She persuades Jehu to make her queen again"
+          ],
+          "fil": [
+            "Ligtas siyang nakatakas sa templo ni Solomon",
+            "Inihagis siya pababa ng mga tagapaglingkod sa utos ni Jehu",
+            "Nahikayat niya si Jehu na muli siyang gawing reyna"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jezebel dies after being thrown from the window, fulfilling the judgment spoken against her (2 Kings 9).",
+          "fil": "Namatay si Jezebel matapos ihagis mula sa bintana, bilang katuparan ng hatol laban sa kanya (2 Hari 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What happens to Ahab's royal house under Jehu?",
+          "fil": "Ano ang nangyari sa maharlikang sambahayan ni Ahab sa ilalim ni Jehu?"
+        },
+        "options": {
+          "en": [
+            "It is given the throne forever",
+            "It peacefully rules both Egypt and Israel",
+            "It is destroyed as the earlier judgment had announced"
+          ],
+          "fil": [
+            "Ibinigay rito ang trono magpakailanman",
+            "Mapayapa nitong pinamunuan ang Egipto at Israel",
+            "Nilipol ito gaya ng naunang ipinahayag na hatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehu carries out the announced destruction of Ahab's house (2 Kings 10).",
+          "fil": "Isinagawa ni Jehu ang ipinahayag na paglipol sa sambahayan ni Ahab (2 Hari 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jehu gather Baal's worshipers into one place?",
+          "fil": "Paano tinipon ni Jehu ang mga sumasamba kay Baal sa iisang lugar?"
+        },
+        "options": {
+          "en": [
+            "He asks them to bring the ark to Jerusalem",
+            "He orders them to rebuild Noah's boat",
+            "He pretends to plan a great service for Baal"
+          ],
+          "fil": [
+            "Hiniling niyang dalhin nila ang Kaban sa Jerusalem",
+            "Inutusan niya silang itayo muli ang barko ni Noe",
+            "Nagkunwari siyang magdaraos ng malaking pagsamba kay Baal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehu uses a false announcement of devotion to Baal to assemble his worshipers (2 Kings 10).",
+          "fil": "Gumamit si Jehu ng huwad na pahayag ng debosyon kay Baal upang tipunin ang mga sumasamba rito (2 Hari 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What becomes of Baal's temple after Jehu's action?",
+          "fil": "Ano ang nangyari sa templo ni Baal matapos kumilos si Jehu?"
+        },
+        "options": {
+          "en": [
+            "It becomes Israel's royal throne room",
+            "It is moved intact to Jerusalem",
+            "It is demolished"
+          ],
+          "fil": [
+            "Naging maharlikang silid-trono ito ng Israel",
+            "Inilipat ito nang buo sa Jerusalem",
+            "Iginiba ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehu destroys Baal's temple and removes that worship from Israel (2 Kings 10).",
+          "fil": "Winasak ni Jehu ang templo ni Baal at inalis ang pagsambang iyon sa Israel (2 Hari 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What failure remains in Jehu's own religious conduct?",
+          "fil": "Anong pagkukulang ang nanatili sa sariling pagsamba ni Jehu?"
+        },
+        "options": {
+          "en": [
+            "He refuses to take any action against Baal",
+            "He keeps the golden-calf worship at Bethel and Dan",
+            "He restores every command of Moses perfectly"
+          ],
+          "fil": [
+            "Tumanggi siyang gumawa ng anumang hakbang laban kay Baal",
+            "Ipinagpatuloy niya ang pagsamba sa mga gintong guya sa Bethel at Dan",
+            "Ganap niyang ibinalik ang bawat utos ni Moises"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jehu removes Baal worship but does not turn away from Jeroboam's sins (2 Kings 10).",
+          "fil": "Inalis ni Jehu ang pagsamba kay Baal ngunit hindi tinalikuran ang mga kasalanan ni Jeroboam (2 Hari 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Who seizes power in Judah after trying to destroy the royal family?",
+          "fil": "Sino ang umagaw ng kapangyarihan sa Juda matapos tangkaing lipulin ang maharlikang pamilya?"
+        },
+        "options": {
+          "en": [
+            "Hannah",
+            "Ruth",
+            "Athaliah"
+          ],
+          "fil": [
+            "Si Ana",
+            "Si Ruth",
+            "Si Atalia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Athaliah attempts to eliminate the royal heirs and rules the land (2 Kings 11).",
+          "fil": "Tinangka ni Atalia na lipulin ang mga tagapagmana ng hari at pinamunuan ang lupain (2 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is the young Joash kept safe during Athaliah's rule?",
+          "fil": "Saan itinagong ligtas ang batang si Joas sa paghahari ni Atalia?"
+        },
+        "options": {
+          "en": [
+            "In Baal's temple in Samaria",
+            "In Pharaoh's prison",
+            "In the house of the Lord"
+          ],
+          "fil": [
+            "Sa templo ni Baal sa Samaria",
+            "Sa bilangguan ni Faraon",
+            "Sa bahay ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joash is rescued from the killings and hidden in the temple (2 Kings 11).",
+          "fil": "Iniligtas si Joas mula sa pagpatay at itinago sa templo (2 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who organizes the guards and presents Joash as king?",
+          "fil": "Sino ang nagsaayos sa mga bantay at nagharap kay Joas bilang hari?"
+        },
+        "options": {
+          "en": [
+            "Jeroboam",
+            "Elijah",
+            "Jehoiada the priest"
+          ],
+          "fil": [
+            "Si Jeroboam",
+            "Si Elias",
+            "Ang paring si Joiada"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jehoiada arranges Joash's coronation and the end of Athaliah's rule (2 Kings 11).",
+          "fil": "Isinaayos ni Joiada ang koronasyon ni Joas at ang pagtatapos ng paghahari ni Atalia (2 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What commitment do the king and people renew under Jehoiada?",
+          "fil": "Anong pangako ang pinanibago ng hari at bayan sa ilalim ni Joiada?"
+        },
+        "options": {
+          "en": [
+            "To be the Lord's people",
+            "To abandon the temple forever",
+            "To serve Baal alone"
+          ],
+          "fil": [
+            "Ang maging bayan ng Panginoon",
+            "Ang talikuran ang templo magpakailanman",
+            "Ang paglingkuran si Baal lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoiada leads a covenant renewal that restores loyalty to the Lord (2 Kings 11).",
+          "fil": "Pinangunahan ni Joiada ang pagpapanibago ng tipan na nagbalik ng katapatan sa Panginoon (2 Hari 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What work does Joash order for the house of the Lord?",
+          "fil": "Anong gawain ang iniutos ni Joas para sa bahay ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Tear it down to build a vineyard",
+            "Repair its damaged parts",
+            "Turn it into a palace for Baal"
+          ],
+          "fil": [
+            "Gibain ito upang gawing ubasan",
+            "Kumpunihin ang mga nasirang bahagi nito",
+            "Gawin itong palasyo para kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joash directs that money be used to repair the temple (2 Kings 12).",
+          "fil": "Iniutos ni Joas na gamitin ang salapi upang kumpunihin ang templo (2 Hari 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What collection method helps the repair work move forward?",
+          "fil": "Anong paraan ng pangongolekta ang nakatulong upang umusad ang pagkukumpuni?"
+        },
+        "options": {
+          "en": [
+            "A chest receives the money brought to the temple",
+            "Soldiers seize every house in Jerusalem",
+            "Every family must bring a golden calf"
+          ],
+          "fil": [
+            "Isang kaban ang pinaglagyan ng salaping dinadala sa templo",
+            "Sinamsam ng mga kawal ang bawat bahay sa Jerusalem",
+            "Dapat magdala ang bawat pamilya ng gintong guya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoiada places a collection chest where offerings can be gathered for the work (2 Kings 12).",
+          "fil": "Naglagay si Joiada ng kabang pangkolekta upang matipon ang mga handog para sa gawain (2 Hari 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are the supervisors trusted with the repair money?",
+          "fil": "Bakit pinagkatiwalaan ang mga tagapangasiwa ng salaping pangkumpuni?"
+        },
+        "options": {
+          "en": [
+            "They are allowed to keep all of it",
+            "They promise never to pay the workers",
+            "They deal honestly with it"
+          ],
+          "fil": [
+            "Pinayagan silang angkinin ang lahat nito",
+            "Nangako silang hindi babayaran ang mga manggagawa",
+            "Tapat sila sa paghawak nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The account notes the honesty of those entrusted with paying for the temple work (2 Kings 12).",
+          "fil": "Binanggit ng salaysay ang katapatan ng mga pinagkatiwalaang magbayad para sa gawain sa templo (2 Hari 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Who visits the dying Elisha and weeps over him?",
+          "fil": "Sino ang dumalaw sa naghihingalong si Eliseo at umiyak dahil sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Jehoash, king of Israel",
+            "Pharaoh, king of Egypt",
+            "Hiram, king of Tyre"
+          ],
+          "fil": [
+            "Si Joas na hari ng Israel",
+            "Si Faraon na hari ng Egipto",
+            "Si Hiram na hari ng Tiro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's king Jehoash comes to Elisha during the prophet's final illness (2 Kings 13).",
+          "fil": "Dumalaw ang hari ng Israel na si Joas kay Eliseo sa huling karamdaman ng propeta (2 Hari 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the arrow shot from the window represent?",
+          "fil": "Ano ang inilalarawan ng palasong ipinutok mula sa bintana?"
+        },
+        "options": {
+          "en": [
+            "The Lord's victory over Aram",
+            "A command to destroy Jerusalem",
+            "The return of Solomon's wealth"
+          ],
+          "fil": [
+            "Ang tagumpay ng Panginoon laban sa Siria",
+            "Isang utos na wasakin ang Jerusalem",
+            "Ang pagbabalik ng kayamanan ni Solomon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha identifies the arrow as a sign of the Lord's deliverance from Aram (2 Kings 13).",
+          "fil": "Tinukoy ni Eliseo ang palaso bilang tanda ng pagliligtas ng Panginoon mula sa Siria (2 Hari 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Elisha rebuke the king after he stops striking the ground with arrows?",
+          "fil": "Bakit sinaway ni Eliseo ang hari nang tumigil itong humampas ng mga palaso sa lupa?"
+        },
+        "options": {
+          "en": [
+            "He has broken the tablets of the law",
+            "He has struck Elisha with a sword",
+            "His limited response points to only limited victories"
+          ],
+          "fil": [
+            "Binasag niya ang mga tapyas ng kautusan",
+            "Tinaga niya si Eliseo ng tabak",
+            "Ang kaunti niyang paghampas ay tumutukoy sa kakaunting tagumpay lamang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elisha explains that the king's few strikes mean he will not completely overcome Aram (2 Kings 13).",
+          "fil": "Ipinaliwanag ni Eliseo na ang kakaunting paghampas ng hari ay nangangahulugang hindi niya lubusang matatalo ang Siria (2 Hari 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "How does Amaziah treat the children of the men who killed his father?",
+          "fil": "Paano tinrato ni Amasias ang mga anak ng mga lalaking pumatay sa kanyang ama?"
+        },
+        "options": {
+          "en": [
+            "He spares them in keeping with the law",
+            "He punishes them for their fathers' crime",
+            "He sends them to rule over Judah"
+          ],
+          "fil": [
+            "Hindi niya sila pinatay bilang pagsunod sa kautusan",
+            "Pinarusahan niya sila sa kasalanan ng kanilang mga ama",
+            "Ipinadala niya silang mamuno sa Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Amaziah punishes the murderers but does not execute their children (2 Kings 14).",
+          "fil": "Pinarusahan ni Amasias ang mga mamamatay-tao ngunit hindi pinatay ang kanilang mga anak (2 Hari 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "After defeating Edom, what does Amaziah challenge the king of Israel to do?",
+          "fil": "Matapos talunin ang Edom, ano ang hinamon ni Amasias na gawin ng hari ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Crown him ruler of Egypt",
+            "Help him build Noah's ark",
+            "Meet him in battle"
+          ],
+          "fil": [
+            "Koronahan siyang pinuno ng Egipto",
+            "Tulungan siyang gawin ang barko ni Noe",
+            "Harapin siya sa labanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Amaziah challenges Israel's king despite a warning against pride (2 Kings 14).",
+          "fil": "Hinamon ni Amasias ang hari ng Israel sa kabila ng babala laban sa pagmamataas (2 Hari 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the result of Amaziah's challenge?",
+          "fil": "Ano ang naging bunga ng hamon ni Amasias?"
+        },
+        "options": {
+          "en": [
+            "Israel surrenders without fighting",
+            "Both kingdoms become part of Egypt that day",
+            "Judah is defeated and Jerusalem's wall is broken"
+          ],
+          "fil": [
+            "Sumuko ang Israel nang walang laban",
+            "Naging bahagi ng Egipto ang dalawang kaharian nang araw na iyon",
+            "Natalo ang Juda at giniba ang bahagi ng pader ng Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Amaziah's defeat brings damage to Jerusalem and the loss of temple and palace treasures (2 Kings 14).",
+          "fil": "Nagdulot ang pagkatalo ni Amasias ng pinsala sa Jerusalem at pagkawala ng kayamanan ng templo at palasyo (2 Hari 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What repeated pattern appears among the northern kings in this chapter?",
+          "fil": "Anong paulit-ulit na pangyayari ang makikita sa mga hari sa hilaga sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Every king rules peacefully with no rivals",
+            "Conspiracies and killings bring changes of ruler",
+            "Each king rebuilds the Jerusalem temple"
+          ],
+          "fil": [
+            "Mapayapang namuno ang bawat hari nang walang karibal",
+            "Nagdulot ng pagpapalit ng pinuno ang mga sabwatan at pagpatay",
+            "Itinayong muli ng bawat hari ang templo sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The rapid changes of Israel's rulers show a kingdom troubled by violent struggles for power (2 Kings 15).",
+          "fil": "Ipinakita ng mabilis na pagpapalit ng mga hari ng Israel ang kahariang binabagabag ng marahas na agawan ng kapangyarihan (2 Hari 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Menahem gain support from the Assyrian king?",
+          "fil": "Paano nakakuha si Menahem ng suporta mula sa hari ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "He pays tribute collected from wealthy Israelites",
+            "He gives him the ark of the covenant",
+            "He appoints him priest in Jerusalem"
+          ],
+          "fil": [
+            "Nagbayad siya ng buwis na kinuha sa mayayamang Israelita",
+            "Ibinigay niya rito ang Kaban ng Tipan",
+            "Ginawa niya itong pari sa Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Menahem uses a payment to Assyria to strengthen his hold on the kingdom (2 Kings 15).",
+          "fil": "Gumamit si Menahem ng bayad sa Asiria upang patatagin ang kanyang pamamahala sa kaharian (2 Hari 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to parts of Israel during Pekah's reign?",
+          "fil": "Ano ang nangyari sa mga bahagi ng Israel sa paghahari ni Peka?"
+        },
+        "options": {
+          "en": [
+            "They become a new kingdom under Solomon",
+            "They conquer Egypt without a battle",
+            "Assyria captures towns and deports their people"
+          ],
+          "fil": [
+            "Naging bagong kaharian ang mga ito sa ilalim ni Solomon",
+            "Nasakop ng mga ito ang Egipto nang walang labanan",
+            "Sinakop ng Asiria ang mga bayan at ipinatapon ang mga mamamayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Assyrian invasion takes territory and carries Israelites into exile (2 Kings 15).",
+          "fil": "Kinuha ng pagsalakay ng Asiria ang mga lupain at dinala sa pagkakatapon ang mga Israelita (2 Hari 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What attracts Ahaz's attention when he visits Damascus?",
+          "fil": "Ano ang nakatawag ng pansin ni Ahaz nang dumalaw siya sa Damasco?"
+        },
+        "options": {
+          "en": [
+            "An altar whose design he wants copied",
+            "The lost crown of Saul",
+            "A new copy of Moses' tablets"
+          ],
+          "fil": [
+            "Isang altar na gusto niyang ipagaya",
+            "Ang nawawalang korona ni Saul",
+            "Isang bagong kopya ng mga tapyas ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ahaz sends the design of an altar in Damascus to the priest in Jerusalem (2 Kings 16).",
+          "fil": "Ipinadala ni Ahaz sa pari sa Jerusalem ang anyo ng isang altar sa Damasco (2 Hari 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who makes the new altar according to Ahaz's design?",
+          "fil": "Sino ang gumawa ng bagong altar ayon sa ipinadalang anyo ni Ahaz?"
+        },
+        "options": {
+          "en": [
+            "David the king",
+            "Uriah the priest",
+            "Elijah the prophet"
+          ],
+          "fil": [
+            "Ang haring si David",
+            "Ang paring si Urias",
+            "Ang propetang si Elias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Uriah builds the altar before Ahaz returns from Damascus (2 Kings 16).",
+          "fil": "Ginawa ni Urias ang altar bago bumalik si Ahaz mula sa Damasco (2 Hari 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Ahaz order concerning regular offerings?",
+          "fil": "Ano ang iniutos ni Ahaz tungkol sa mga regular na handog?"
+        },
+        "options": {
+          "en": [
+            "Stop all offerings and grow wheat in the temple",
+            "Use the new altar for them",
+            "Send every offering to Mount Carmel"
+          ],
+          "fil": [
+            "Itigil ang lahat ng handog at magtanim ng trigo sa templo",
+            "Gamitin ang bagong altar para sa mga ito",
+            "Ipadala ang lahat ng handog sa Bundok Carmel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ahaz changes the temple's worship arrangements around the altar he has copied (2 Kings 16).",
+          "fil": "Binago ni Ahaz ang kaayusan ng pagsamba sa templo ayon sa altar na kanyang ipinagaya (2 Hari 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What happens to Samaria after Assyria's siege?",
+          "fil": "Ano ang nangyari sa Samaria matapos kubkubin ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "It defeats Assyria and captures Nineveh",
+            "It becomes Solomon's new capital",
+            "It falls and Israelites are carried into exile"
+          ],
+          "fil": [
+            "Natalo nito ang Asiria at nasakop ang Nineve",
+            "Naging bago itong kabisera ni Solomon",
+            "Bumagsak ito at dinala sa pagkakatapon ang mga Israelita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The fall of Samaria brings the northern kingdom under Assyrian control (2 Kings 17).",
+          "fil": "Napasailalim sa Asiria ang kaharian sa hilaga dahil sa pagbagsak ng Samaria (2 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What main reason does the chapter give for Israel's exile?",
+          "fil": "Anong pangunahing dahilan ang ibinigay ng kabanata para sa pagkakatapon ng Israel?"
+        },
+        "options": {
+          "en": [
+            "They build too many schools",
+            "The people abandon the Lord and follow other gods",
+            "They refuse to collect enough horses"
+          ],
+          "fil": [
+            "Nagtayo sila ng napakaraming paaralan",
+            "Tinalikuran ng mga tao ang Panginoon at sumunod sa ibang mga diyos",
+            "Tumanggi silang magtipon ng sapat na kabayo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The account explains the exile as the result of persistent covenant unfaithfulness (2 Kings 17).",
+          "fil": "Ipinaliwanag ng salaysay ang pagkakatapon bilang bunga ng patuloy na pagtataksil sa tipan (2 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people respond to the prophets who warn them to turn back?",
+          "fil": "Paano tumugon ang mga tao sa mga propetang nagbababala sa kanilang magbalik-loob?"
+        },
+        "options": {
+          "en": [
+            "They refuse to listen",
+            "They ask the prophets to become foreign kings",
+            "They all obey immediately"
+          ],
+          "fil": [
+            "Tumanggi silang makinig",
+            "Hiniling nilang maging mga dayuhang hari ang mga propeta",
+            "Agad silang sumunod na lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel repeatedly ignores the Lord's warnings through his prophets (2 Kings 17).",
+          "fil": "Paulit-ulit na binale-wala ng Israel ang mga babala ng Panginoon sa pamamagitan ng kanyang mga propeta (2 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mixed worship develops among the new settlers in Samaria?",
+          "fil": "Anong magkahalong pagsamba ang nabuo sa mga bagong nanirahan sa Samaria?"
+        },
+        "options": {
+          "en": [
+            "They worship only at Solomon's temple",
+            "They completely abandon every idol",
+            "They honor the Lord while still serving their own gods"
+          ],
+          "fil": [
+            "Sa templo lamang ni Solomon sila sumasamba",
+            "Lubusan nilang tinalikuran ang lahat ng diyus-diyosan",
+            "Kinikilala nila ang Panginoon habang pinaglilingkuran pa ang sarili nilang mga diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The settlers combine worship of the Lord with devotion to other gods (2 Kings 17).",
+          "fil": "Pinaghalo ng mga nanirahan ang pagsamba sa Panginoon at debosyon sa ibang mga diyos (2 Hari 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "How does Hezekiah act toward Judah's idols?",
+          "fil": "Ano ang ginawa ni Ezequias sa mga diyus-diyosan ng Juda?"
+        },
+        "options": {
+          "en": [
+            "He builds a larger temple for Baal",
+            "He removes and destroys objects used in false worship",
+            "He orders everyone to follow Jeroboam's calves"
+          ],
+          "fil": [
+            "Nagtayo siya ng mas malaking templo para kay Baal",
+            "Inalis at winasak niya ang mga bagay na ginagamit sa maling pagsamba",
+            "Iniutos niyang sundin ng lahat ang mga guya ni Jeroboam"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hezekiah reforms worship and places his trust in the Lord (2 Kings 18).",
+          "fil": "Binago ni Ezequias ang pagsamba at nagtiwala sa Panginoon (2 Hari 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Hezekiah break the bronze serpent made in Moses' time?",
+          "fil": "Bakit winasak ni Ezequias ang ahas na tanso mula sa panahon ni Moises?"
+        },
+        "options": {
+          "en": [
+            "People have begun burning incense to it",
+            "Moses ordered it to rule Israel",
+            "It has become the ark of the covenant"
+          ],
+          "fil": [
+            "Nagsunog na ng insenso ang mga tao para rito",
+            "Iniutos ni Moises na pamunuan nito ang Israel",
+            "Naging Kaban ng Tipan ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah destroys the bronze serpent because people are treating it as an object of worship (2 Kings 18).",
+          "fil": "Winasak ni Ezequias ang ahas na tanso dahil ginagawa na itong sinasamba ng mga tao (2 Hari 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Assyrian spokesman try to persuade Jerusalem's people to do?",
+          "fil": "Ano ang sinikap ipagawa ng tagapagsalita ng Asiria sa mga taga-Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Restore David to the throne",
+            "Stop trusting Hezekiah and surrender",
+            "Attack Nineveh by themselves that night"
+          ],
+          "fil": [
+            "Ibalik si David sa trono",
+            "Tumigil sa pagtitiwala kay Ezequias at sumuko",
+            "Salakayin nang mag-isa ang Nineve nang gabing iyon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The spokesman uses threats and promises to weaken Jerusalem's trust and resistance (2 Kings 18).",
+          "fil": "Gumamit ang tagapagsalita ng mga banta at pangako upang pahinain ang tiwala at paglaban ng Jerusalem (2 Hari 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What does Hezekiah do with the threatening Assyrian letter?",
+          "fil": "Ano ang ginawa ni Ezequias sa nagbabantang liham ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "He spreads it before the Lord and prays",
+            "He places it in Baal's temple",
+            "He obeys it without seeking help"
+          ],
+          "fil": [
+            "Inilatag niya ito sa harap ng Panginoon at nanalangin",
+            "Inilagay niya ito sa templo ni Baal",
+            "Sinunod niya ito nang hindi humihingi ng tulong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah brings the threat before God in the temple (2 Kings 19).",
+          "fil": "Iniharap ni Ezequias sa Diyos ang banta sa loob ng templo (2 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hezekiah ask God to show through Jerusalem's rescue?",
+          "fil": "Ano ang hiniling ni Ezequias na ipakita ng Diyos sa pagliligtas sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "That Assyria's idols are strongest",
+            "That Egypt owns the temple",
+            "That the Lord alone is God"
+          ],
+          "fil": [
+            "Na pinakamalakas ang mga diyus-diyosan ng Asiria",
+            "Na pag-aari ng Egipto ang templo",
+            "Na ang Panginoon lamang ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hezekiah prays for deliverance so all kingdoms may know the Lord (2 Kings 19).",
+          "fil": "Nanalangin si Ezequias ng pagliligtas upang makilala ng lahat ng kaharian ang Panginoon (2 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Through which prophet does the Lord answer Hezekiah?",
+          "fil": "Sa pamamagitan ng sinong propeta sinagot ng Panginoon si Ezequias?"
+        },
+        "options": {
+          "en": [
+            "Jonah",
+            "Isaiah",
+            "Samuel"
+          ],
+          "fil": [
+            "Ni Jonas",
+            "Ni Isaias",
+            "Ni Samuel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Isaiah delivers the Lord's assurance that Jerusalem will be defended (2 Kings 19).",
+          "fil": "Ibinigay ni Isaias ang katiyakan ng Panginoon na ipagtatanggol ang Jerusalem (2 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ends the immediate Assyrian threat to Jerusalem?",
+          "fil": "Ano ang tumapos sa agarang banta ng Asiria sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "The temple priests join the Assyrian army",
+            "The Lord's angel strikes the army and the king withdraws",
+            "Hezekiah sells the city to Babylon"
+          ],
+          "fil": [
+            "Sumama ang mga pari ng templo sa hukbo ng Asiria",
+            "Nilipol ng anghel ng Panginoon ang hukbo at umatras ang hari",
+            "Ipinagbili ni Ezequias ang lunsod sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Assyrian army suffers a devastating blow and Sennacherib returns home (2 Kings 19).",
+          "fil": "Dumanas ng matinding pagkatalo ang hukbo ng Asiria at umuwi si Senakerib (2 Hari 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "How does Hezekiah respond when told that his illness will end in death?",
+          "fil": "Paano tumugon si Ezequias nang sabihang ikamamatay niya ang kanyang sakit?"
+        },
+        "options": {
+          "en": [
+            "He leaves Jerusalem to join Assyria",
+            "He turns to the wall and prays with tears",
+            "He orders everyone to worship Baal"
+          ],
+          "fil": [
+            "Umalis siya sa Jerusalem upang sumama sa Asiria",
+            "Humarap siya sa dingding at nanalangin nang umiiyak",
+            "Iniutos niyang sumamba ang lahat kay Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hezekiah pours out his distress to the Lord after Isaiah's warning (2 Kings 20).",
+          "fil": "Ibinuhos ni Ezequias ang kanyang dalamhati sa Panginoon matapos ang babala ni Isaias (2 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What new message does Isaiah bring after Hezekiah prays?",
+          "fil": "Anong bagong mensahe ang dinala ni Isaias matapos manalangin si Ezequias?"
+        },
+        "options": {
+          "en": [
+            "Assyria will appoint his successor that day",
+            "He must never enter the temple again",
+            "The Lord has heard him and will heal him"
+          ],
+          "fil": [
+            "Magtatalaga ang Asiria ng kanyang kahalili nang araw na iyon",
+            "Hindi na siya dapat pumasok sa templo kailanman",
+            "Dininig siya ng Panginoon at pagagalingin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God answers Hezekiah's prayer with healing and additional years of life (2 Kings 20).",
+          "fil": "Sinagot ng Diyos ang panalangin ni Ezequias sa paggaling at dagdag na mga taon ng buhay (2 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sign confirms the promise of healing?",
+          "fil": "Anong tanda ang nagpatibay sa pangako ng paggaling?"
+        },
+        "options": {
+          "en": [
+            "A shadow moves backward",
+            "The temple turns into gold",
+            "The Jordan changes into wine"
+          ],
+          "fil": [
+            "Umurong ang anino",
+            "Naging ginto ang templo",
+            "Naging alak ang Jordan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord causes the shadow to move backward as the sign Hezekiah requests (2 Kings 20).",
+          "fil": "Pinaurong ng Panginoon ang anino bilang tandang hiniling ni Ezequias (2 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning follows Hezekiah's display of his treasures to Babylon's envoys?",
+          "fil": "Anong babala ang sumunod sa pagpapakita ni Ezequias ng kanyang kayamanan sa mga sugo ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "Babylon will rebuild the ark for free",
+            "His palace will never face any danger",
+            "The treasures and some descendants will be taken to Babylon"
+          ],
+          "fil": [
+            "Itatayong muli ng Babilonia ang Kaban nang libre",
+            "Hindi kailanman manganganib ang kanyang palasyo",
+            "Dadalhin sa Babilonia ang kayamanan at ilang inapo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Isaiah warns that a future Babylonian exile will take what Hezekiah has proudly displayed (2 Kings 20).",
+          "fil": "Nagbabala si Isaias na kukunin sa darating na pagkakatapon sa Babilonia ang ipinagmalaking kayamanan ni Ezequias (2 Hari 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What does Manasseh do to the worship reforms of his father Hezekiah?",
+          "fil": "Ano ang ginawa ni Manases sa mga pagbabago sa pagsamba ng ama niyang si Ezequias?"
+        },
+        "options": {
+          "en": [
+            "He removes every remaining idol",
+            "He turns every palace into a school of the law",
+            "He reverses them by rebuilding places of false worship"
+          ],
+          "fil": [
+            "Inalis niya ang lahat ng natitirang diyus-diyosan",
+            "Ginawa niyang paaralan ng kautusan ang bawat palasyo",
+            "Binaligtad niya ang mga ito sa muling pagtatayo ng mga lugar ng maling pagsamba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Manasseh restores idolatrous practices that Hezekiah had opposed (2 Kings 21).",
+          "fil": "Ibinalik ni Manases ang mga pagsamba sa diyus-diyosan na tinutulan ni Ezequias (2 Hari 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Manasseh misuse the Lord's temple?",
+          "fil": "Paano ginamit ni Manases sa masama ang templo ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He refuses to let anyone bring an idol near it",
+            "He uses it only for faithful covenant worship",
+            "He places idolatrous altars and an image there"
+          ],
+          "fil": [
+            "Tumanggi siyang magpalapit ng anumang diyus-diyosan dito",
+            "Ginamit lamang niya ito sa tapat na pagsamba ayon sa tipan",
+            "Naglagay siya roon ng mga altar at imahen ng diyus-diyosan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Manasseh brings false worship into the very house dedicated to the Lord (2 Kings 21).",
+          "fil": "Dinala ni Manases ang maling pagsamba sa mismong bahay na inilaan sa Panginoon (2 Hari 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What message do the prophets announce because of this evil?",
+          "fil": "Anong mensahe ang ipinahayag ng mga propeta dahil sa kasamaang ito?"
+        },
+        "options": {
+          "en": [
+            "Judgment will come upon Jerusalem and Judah",
+            "The covenant no longer requires faithfulness",
+            "Idols will now protect Jerusalem forever"
+          ],
+          "fil": [
+            "Darating ang paghatol sa Jerusalem at Juda",
+            "Hindi na kailangan ng tipan ang katapatan",
+            "Iingatan na ng mga diyus-diyosan ang Jerusalem magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prophets warn that Manasseh's sins and bloodshed will bring disaster on Judah (2 Kings 21).",
+          "fil": "Nagbabala ang mga propeta na magdadala ng kapahamakan sa Juda ang mga kasalanan at pagdanak ng dugo ni Manases (2 Hari 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What important discovery does Hilkiah make during the temple repairs?",
+          "fil": "Anong mahalagang bagay ang natagpuan ni Hilkias sa pagkukumpuni ng templo?"
+        },
+        "options": {
+          "en": [
+            "The Book of the Law",
+            "Saul's hidden crown",
+            "The plans for Pharaoh's palace"
+          ],
+          "fil": [
+            "Ang Aklat ng Kautusan",
+            "Ang nakatagong korona ni Saul",
+            "Ang mga plano ng palasyo ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hilkiah finds the Book of the Law in the house of the Lord (2 Kings 22).",
+          "fil": "Natagpuan ni Hilkias ang Aklat ng Kautusan sa bahay ng Panginoon (2 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Josiah react when the book is read to him?",
+          "fil": "Paano tumugon si Josias nang basahin sa kanya ang aklat?"
+        },
+        "options": {
+          "en": [
+            "He declares that Judah has obeyed perfectly",
+            "He laughs and burns the book",
+            "He tears his clothes in distress"
+          ],
+          "fil": [
+            "Ipinahayag niyang ganap na sumunod ang Juda",
+            "Tumawa siya at sinunog ang aklat",
+            "Pinunit niya ang kanyang damit sa dalamhati"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Josiah recognizes how far the people have strayed from the commands he hears (2 Kings 22).",
+          "fil": "Naunawaan ni Josias kung gaano kalayo ang paglihis ng mga tao sa mga utos na narinig niya (2 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do Josiah's officials consult for the Lord's message?",
+          "fil": "Kanino sumangguni ang mga opisyal ni Josias para sa mensahe ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Jezebel",
+            "Huldah the prophetess",
+            "The queen of Sheba"
+          ],
+          "fil": [
+            "Kay Jezebel",
+            "Sa propetisang si Hulda",
+            "Sa reyna ng Sheba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The officials bring Josiah's concerns to the prophetess Huldah (2 Kings 22).",
+          "fil": "Dinala ng mga opisyal ang mga alalahanin ni Josias sa propetisang si Hulda (2 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Huldah say God has noticed about Josiah?",
+          "fil": "Ano ang sinabi ni Hulda na napansin ng Diyos kay Josias?"
+        },
+        "options": {
+          "en": [
+            "His tender heart and humble response",
+            "His skill in building foreign idols",
+            "His desire to ignore the book"
+          ],
+          "fil": [
+            "Ang kanyang malambot na puso at mapagpakumbabang pagtugon",
+            "Ang kanyang husay sa paggawa ng mga dayuhang diyus-diyosan",
+            "Ang kanyang hangaring balewalain ang aklat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord acknowledges Josiah's humility and promises he will not see the coming disaster (2 Kings 22).",
+          "fil": "Kinilala ng Panginoon ang pagpapakumbaba ni Josias at ipinangakong hindi nito masasaksihan ang darating na kapahamakan (2 Hari 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What does Josiah do with the covenant book before the assembled people?",
+          "fil": "Ano ang ginawa ni Josias sa aklat ng tipan sa harap ng nagkatipong bayan?"
+        },
+        "options": {
+          "en": [
+            "He reads it and renews the commitment to obey",
+            "He hides it so no one can hear",
+            "He exchanges it for Assyrian silver"
+          ],
+          "fil": [
+            "Binasa niya ito at pinanibago ang pangakong susunod",
+            "Itinago niya ito upang walang makarinig",
+            "Ipinagpalit niya ito sa pilak ng Asiria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Josiah leads the people in renewing their covenant with the Lord (2 Kings 23).",
+          "fil": "Pinangunahan ni Josias ang bayan sa pagpapanibago ng kanilang tipan sa Panginoon (2 Hari 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Josiah remove from the temple as part of his reforms?",
+          "fil": "Ano ang inalis ni Josias sa templo bilang bahagi ng kanyang pagbabago?"
+        },
+        "options": {
+          "en": [
+            "Every reminder of the Lord's covenant",
+            "Objects made for Baal and other false worship",
+            "All food intended for the poor"
+          ],
+          "fil": [
+            "Lahat ng alaala ng tipan ng Panginoon",
+            "Mga bagay na ginawa para kay Baal at ibang maling pagsamba",
+            "Lahat ng pagkaing para sa mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Josiah clears the temple of items used to worship other gods (2 Kings 23).",
+          "fil": "Nilinis ni Josias ang templo mula sa mga bagay na ginagamit sa pagsamba sa ibang mga diyos (2 Hari 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What feast does Josiah command the people to celebrate according to the book?",
+          "fil": "Anong kapistahan ang iniutos ni Josias na ipagdiwang ng bayan ayon sa aklat?"
+        },
+        "options": {
+          "en": [
+            "A festival honoring Baal",
+            "Passover",
+            "Pharaoh's birthday"
+          ],
+          "fil": [
+            "Pista para kay Baal",
+            "Paskuwa",
+            "Kaarawan ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Josiah restores a notable celebration of the Passover in obedience to the covenant book (2 Kings 23).",
+          "fil": "Ibinalik ni Josias ang natatanging pagdiriwang ng Paskuwa bilang pagsunod sa aklat ng tipan (2 Hari 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Josiah die after encountering Pharaoh Necho?",
+          "fil": "Saan namatay si Josias matapos humarap kay Faraon Neco?"
+        },
+        "options": {
+          "en": [
+            "Jericho",
+            "Nineveh",
+            "Megiddo"
+          ],
+          "fil": [
+            "Sa Jerico",
+            "Sa Nineve",
+            "Sa Megido"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Josiah is killed at Megiddo when he goes out against Pharaoh Necho (2 Kings 23).",
+          "fil": "Napatay si Josias sa Megido nang lumabas siya laban kay Faraon Neco (2 Hari 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Which empire takes control of Judah and carries people away in this chapter?",
+          "fil": "Anong imperyo ang sumakop sa Juda at nagdala ng mga tao sa pagkakatapon sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Babylon",
+            "Greece"
+          ],
+          "fil": [
+            "Roma",
+            "Babilonia",
+            "Grecia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Babylon's pressure culminates in the surrender of Jerusalem under Jehoiachin (2 Kings 24).",
+          "fil": "Humantong ang pananakop ng Babilonia sa pagsuko ng Jerusalem sa ilalim ni Joaquin (2 Hari 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jehoiachin when Jerusalem surrenders?",
+          "fil": "Ano ang nangyari kay Joaquin nang sumuko ang Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "He is taken to Babylon with other leaders and skilled people",
+            "He rebuilds Solomon's kingdom immediately",
+            "He becomes king of Assyria"
+          ],
+          "fil": [
+            "Dinala siya sa Babilonia kasama ng mga pinuno at bihasang manggagawa",
+            "Agad niyang ibinalik ang kaharian ni Solomon",
+            "Naging hari siya ng Asiria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoiachin and many of Judah's leading people are carried into exile (2 Kings 24).",
+          "fil": "Dinala sa pagkakatapon si Joaquin at marami sa mga pangunahing mamamayan ng Juda (2 Hari 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Babylon's king appoint to rule after Jehoiachin?",
+          "fil": "Sino ang itinalaga ng hari ng Babilonia na mamuno matapos si Joaquin?"
+        },
+        "options": {
+          "en": [
+            "Elijah the prophet",
+            "David's son Solomon",
+            "His uncle, renamed Zedekiah"
+          ],
+          "fil": [
+            "Ang propetang si Elias",
+            "Si Solomon na anak ni David",
+            "Ang kanyang tiyuhin na pinangalanang Zedekias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nebuchadnezzar appoints Jehoiachin's uncle and gives him the name Zedekiah (2 Kings 24).",
+          "fil": "Itinalaga ni Nebucadnezar ang tiyuhin ni Joaquin at pinangalanang Zedekias (2 Hari 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What severe condition develops in Jerusalem during the long siege?",
+          "fil": "Anong matinding kalagayan ang naranasan ng Jerusalem sa mahabang pagkubkob?"
+        },
+        "options": {
+          "en": [
+            "The city has more food than it can store",
+            "The people enjoy an uninterrupted harvest festival",
+            "Famine leaves the people without food"
+          ],
+          "fil": [
+            "Sobra ang pagkain ng lunsod kaysa maiimbak nito",
+            "Walang tigil na nagdiriwang ng anihan ang mga tao",
+            "Nawalan ng pagkain ang mga tao dahil sa taggutom"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Babylonian siege brings a desperate shortage of food inside Jerusalem (2 Kings 25).",
+          "fil": "Nagdulot ng matinding kakulangan ng pagkain sa loob ng Jerusalem ang pagkubkob ng Babilonia (2 Hari 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Zedekiah after he tries to escape?",
+          "fil": "Ano ang nangyari kay Zedekias matapos niyang tangkaing tumakas?"
+        },
+        "options": {
+          "en": [
+            "He conquers Babylon with a small army",
+            "He is captured and taken in chains to Babylon",
+            "He escapes to rule peacefully in Jerusalem"
+          ],
+          "fil": [
+            "Nasakop niya ang Babilonia sa maliit na hukbo",
+            "Nahuli siya at dinalang nakagapos sa Babilonia",
+            "Nakatakas siya upang mapayapang mamuno sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Babylonian forces capture Zedekiah, who loses his sight and is taken away (2 Kings 25).",
+          "fil": "Nahuli ng mga hukbo ng Babilonia si Zedekias na binulag at dinala palayo (2 Hari 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the Babylonians do to the temple and Jerusalem's defenses?",
+          "fil": "Ano ang ginawa ng mga taga-Babilonia sa templo at mga pananggalang ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Enlarge them for a new celebration",
+            "Move them whole to Egypt",
+            "Burn the temple and break down the walls"
+          ],
+          "fil": [
+            "Pinalaki ang mga ito para sa bagong pagdiriwang",
+            "Inilipat ang mga ito nang buo sa Egipto",
+            "Sinunog ang templo at giniba ang mga pader"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Babylon destroys the temple, burns major buildings, and tears down Jerusalem's walls (2 Kings 25).",
+          "fil": "Winasak ng Babilonia ang templo, sinunog ang mahahalagang gusali, at giniba ang mga pader ng Jerusalem (2 Hari 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is left in the land to work its fields after the deportation?",
+          "fil": "Sino ang iniwan sa lupain upang magtrabaho sa mga bukid matapos ang pagpapatapon?"
+        },
+        "options": {
+          "en": [
+            "Some of the poorest people",
+            "All the royal officers",
+            "Only the priests of Baal"
+          ],
+          "fil": [
+            "Ang ilan sa pinakamahihirap na tao",
+            "Ang lahat ng opisyal ng hari",
+            "Ang mga pari lamang ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Some poor people remain as workers in the vineyards and fields (2 Kings 25).",
+          "fil": "Naiwan ang ilang mahihirap bilang mga manggagawa sa mga ubasan at bukirin (2 Hari 25)."
+        }
+      }
+    ]
+  }
+}
