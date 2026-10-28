@@ -1,0 +1,2441 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What request did the people make before advancing from Kadesh-barnea?",
+          "fil": "Ano ang hiniling ng bayan bago sumulong mula sa Cades-barnea?"
+        },
+        "options": {
+          "en": [
+            "Choose a king from Moab",
+            "Send men ahead to explore the land",
+            "Build a temple in Egypt"
+          ],
+          "fil": [
+            "Pumili ng hari mula sa Moab",
+            "Magpadala muna ng mga lalaking magsisiyasat sa lupain",
+            "Magtayo ng templo sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses recalls the people's request to send explorers ahead (Deuteronomy 1).",
+          "fil": "Inalala ni Moises ang hiling ng bayan na magpadala muna ng mga tagasiyasat (Deuteronomio 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did the explorers bring back as evidence about the land?",
+          "fil": "Ano ang iniuwi ng mga tagasiyasat bilang patunay tungkol sa lupain?"
+        },
+        "options": {
+          "en": [
+            "A crown from Pharaoh",
+            "Fruit from the land",
+            "The ark of the covenant"
+          ],
+          "fil": [
+            "Korona mula kay Faraon",
+            "Prutas mula sa lupain",
+            "Ang kaban ng tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The explorers returned with fruit and reported that the land was good (Deuteronomy 1).",
+          "fil": "Bumalik ang mga tagasiyasat na may prutas at ibinalitang mabuti ang lupain (Deuteronomio 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why did the people refuse to enter despite God's promise?",
+          "fil": "Bakit tumangging pumasok ang bayan sa kabila ng pangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The explorers found no land at all",
+            "God had told them to worship Canaan's idols",
+            "They feared the inhabitants and did not trust God"
+          ],
+          "fil": [
+            "Walang nahanap na lupain ang mga tagasiyasat",
+            "Sinabihan sila ng Diyos na sambahin ang mga diyus-diyosan ng Canaan",
+            "Natakot sila sa mga naninirahan at hindi nagtiwala sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses identifies fear and unbelief behind the refusal to enter (Deuteronomy 1).",
+          "fil": "Tinukoy ni Moises ang takot at kawalan ng pagtitiwala sa likod ng pagtangging pumasok (Deuteronomio 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why must Israel not seize the land of Esau's descendants?",
+          "fil": "Bakit hindi dapat agawin ng Israel ang lupain ng mga inapo ni Esau?"
+        },
+        "options": {
+          "en": [
+            "Israel is commanded to settle in Egypt",
+            "The land belongs to Pharaoh",
+            "God has given that territory to them"
+          ],
+          "fil": [
+            "Inutusan ang Israel na manirahan sa Egipto",
+            "Pag-aari ni Faraon ang lupain",
+            "Ibinigay ng Diyos sa kanila ang lupaing iyon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses recalls God's protection of the land given to Esau's descendants (Deuteronomy 2).",
+          "fil": "Inalala ni Moises ang pangangalaga ng Diyos sa lupaing ibinigay sa mga inapo ni Esau (Deuteronomio 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should Israel obtain food and water while passing by these relatives?",
+          "fil": "Paano dapat kumuha ang Israel ng pagkain at tubig sa pagdaan sa mga kamag-anak na ito?"
+        },
+        "options": {
+          "en": [
+            "Take everything by force",
+            "Pay for what they use",
+            "Demand tribute as kings"
+          ],
+          "fil": [
+            "Kunin ang lahat sa dahas",
+            "Bayaran ang kanilang gagamitin",
+            "Humingi ng buwis bilang mga hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God directs Israel to buy food and water rather than seize them (Deuteronomy 2).",
+          "fil": "Inutusan ng Diyos ang Israel na bumili ng pagkain at tubig sa halip na agawin ang mga ito (Deuteronomio 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which king's defeat marks the start of Israel taking possession in this account?",
+          "fil": "Kaninong pagkatalo ang tanda ng pagsisimula ng pag-angkin ng Israel sa salaysay na ito?"
+        },
+        "options": {
+          "en": [
+            "Cyrus of Persia",
+            "David of Jerusalem",
+            "Sihon of Heshbon"
+          ],
+          "fil": [
+            "Si Ciro ng Persia",
+            "Si David ng Jerusalem",
+            "Si Sihon ng Hesbon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter recalls the defeat of Sihon after his refusal to allow passage (Deuteronomy 2).",
+          "fil": "Inalala ng kabanata ang pagkatalo ni Sihon matapos siyang tumangging magpadaan (Deuteronomio 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Which king of Bashan does Moses recall defeating?",
+          "fil": "Sinong hari ng Basan ang inalala ni Moises na natalo nila?"
+        },
+        "options": {
+          "en": [
+            "Og",
+            "Pharaoh",
+            "Balak"
+          ],
+          "fil": [
+            "Si Og",
+            "Si Faraon",
+            "Si Balac"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses recalls God's help in defeating Og of Bashan (Deuteronomy 3).",
+          "fil": "Inalala ni Moises ang tulong ng Diyos sa pagkatalo ni Og ng Basan (Deuteronomio 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is the conquered territory assigned to some of Israel's tribes?",
+          "fil": "Saan matatagpuan ang nasakop na lupaing ibinigay sa ilang lipi ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Across the sea in Cyprus",
+            "East of the Jordan",
+            "Inside Egypt"
+          ],
+          "fil": [
+            "Sa kabila ng dagat sa Cyprus",
+            "Sa silangan ng Jordan",
+            "Sa loob ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses describes tribal allotments in the land east of the Jordan (Deuteronomy 3).",
+          "fil": "Inilarawan ni Moises ang mana ng mga lipi sa lupaing silangan ng Jordan (Deuteronomio 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must the fighting men of the eastern tribes do for their fellow Israelites?",
+          "fil": "Ano ang dapat gawin ng mga mandirigma ng mga lipi sa silangan para sa kapwa Israelita?"
+        },
+        "options": {
+          "en": [
+            "Refuse to cross the Jordan",
+            "Help them gain their own land before returning home",
+            "Sell the other tribes to Egypt"
+          ],
+          "fil": [
+            "Tumangging tumawid sa Jordan",
+            "Tulungan silang makuha ang sariling lupain bago umuwi",
+            "Ipagbili ang ibang lipi sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The eastern tribes must help the others receive their inheritance (Deuteronomy 3).",
+          "fil": "Kailangang tulungan ng mga lipi sa silangan ang iba na matanggap ang kanilang mana (Deuteronomio 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why does Moses warn against making an image of God?",
+          "fil": "Bakit nagbabala si Moises laban sa paggawa ng larawan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God ordered them to copy Egypt's idols",
+            "Israel heard God at Horeb but saw no form",
+            "Moses had never heard God's voice"
+          ],
+          "fil": [
+            "Inutusan sila ng Diyos na gayahin ang mga diyus-diyosan ng Egipto",
+            "Narinig ng Israel ang Diyos sa Horeb ngunit walang nakitang anyo",
+            "Hindi kailanman narinig ni Moises ang tinig ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses connects the absence of a visible form at Horeb with the ban on images (Deuteronomy 4).",
+          "fil": "Iniugnay ni Moises ang kawalan ng nakitang anyo sa Horeb sa pagbabawal sa mga larawan (Deuteronomio 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should parents do with the memory of God's deeds?",
+          "fil": "Ano ang dapat gawin ng mga magulang sa alaala ng mga gawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Replace it with stories honoring idols",
+            "Hide it from the next generation",
+            "Teach it to their children and grandchildren"
+          ],
+          "fil": [
+            "Palitan ito ng mga kuwentong nagpaparangal sa diyus-diyosan",
+            "Itago ito sa susunod na henerasyon",
+            "Ituro ito sa kanilang mga anak at apo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses urges families to pass on what they have witnessed (Deuteronomy 4).",
+          "fil": "Hinimok ni Moises ang mga pamilya na ipasa ang kanilang nasaksihan (Deuteronomio 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do God's rescue from Egypt and revelation show?",
+          "fil": "Ano ang ipinakikita ng pagliligtas ng Diyos mula sa Egipto at ng kanyang pagpapahayag?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh controls the Lord",
+            "Every nation's idol is equally powerful",
+            "The Lord alone is God"
+          ],
+          "fil": [
+            "Kinokontrol ni Faraon ang Panginoon",
+            "Pantay-pantay ang kapangyarihan ng diyus-diyosan ng bawat bansa",
+            "Ang Panginoon lamang ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses points to these experiences as evidence of God's uniqueness (Deuteronomy 4).",
+          "fil": "Itinuro ni Moises ang mga karanasang ito bilang patunay na walang katulad ang Diyos (Deuteronomio 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How does Moses present the covenant made at Horeb to his listeners?",
+          "fil": "Paano iniharap ni Moises sa kanyang mga tagapakinig ang tipang ginawa sa Horeb?"
+        },
+        "options": {
+          "en": [
+            "As a covenant that concerns them personally",
+            "As a story with no bearing on their lives",
+            "As a treaty belonging only to Egypt"
+          ],
+          "fil": [
+            "Bilang tipang may kinalaman sa kanila mismo",
+            "Bilang kuwentong walang kaugnayan sa kanilang buhay",
+            "Bilang kasunduang para lamang sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses calls the present community to own the covenant's responsibilities (Deuteronomy 5).",
+          "fil": "Tinawag ni Moises ang kasalukuyang pamayanan na akuin ang pananagutan sa tipan (Deuteronomio 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What past experience is emphasized as a reason to give Sabbath rest to servants?",
+          "fil": "Anong karanasan ang binigyang-diin bilang dahilan ng pagbibigay ng pahinga sa mga alipin?"
+        },
+        "options": {
+          "en": [
+            "Israel's slavery in Egypt and God's rescue",
+            "Israel's rule over Babylon",
+            "The building of Solomon's palace"
+          ],
+          "fil": [
+            "Pagkaalipin ng Israel sa Egipto at pagliligtas ng Diyos",
+            "Paghahari ng Israel sa Babilonia",
+            "Ang pagtatayo ng palasyo ni Solomon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Sabbath command here recalls slavery and deliverance from Egypt (Deuteronomy 5).",
+          "fil": "Ipinaalala ng utos sa Araw ng Pamamahinga rito ang pagkaalipin at pagliligtas mula sa Egipto (Deuteronomio 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the people ask Moses to hear God's words for them?",
+          "fil": "Bakit hiniling ng bayan na si Moises ang makinig sa mga salita ng Diyos para sa kanila?"
+        },
+        "options": {
+          "en": [
+            "They fear dying if they continue hearing the voice from the fire",
+            "They want Moses to invent a different law",
+            "They cannot understand any human language"
+          ],
+          "fil": [
+            "Natatakot silang mamatay kung patuloy nilang maririnig ang tinig mula sa apoy",
+            "Nais nilang gumawa si Moises ng ibang kautusan",
+            "Hindi nila nauunawaan ang anumang wika ng tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people ask Moses to mediate after hearing God's overwhelming voice (Deuteronomy 5).",
+          "fil": "Hiniling ng bayan na mamagitan si Moises matapos marinig ang nakapangyayarihang tinig ng Diyos (Deuteronomio 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What response to the Lord is central to Moses' teaching here?",
+          "fil": "Anong pagtugon sa Panginoon ang sentro ng turo ni Moises dito?"
+        },
+        "options": {
+          "en": [
+            "Interest only in wealth",
+            "Loyalty divided among many gods",
+            "Wholehearted love and loyalty"
+          ],
+          "fil": [
+            "Interes lamang sa kayamanan",
+            "Katapatang nahahati sa maraming diyos",
+            "Buong-pusong pagmamahal at katapatan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The teaching often called the Shema calls Israel to love the Lord fully (Deuteronomy 6).",
+          "fil": "Tinatawag ng turong kilala bilang Shema ang Israel na lubusang mahalin ang Panginoon (Deuteronomio 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should families pass God's commands to children?",
+          "fil": "Paano dapat ipasa ng mga pamilya ang mga utos ng Diyos sa mga bata?"
+        },
+        "options": {
+          "en": [
+            "Keep them secret from children",
+            "Talk about them in everyday life",
+            "Mention them only to foreign rulers"
+          ],
+          "fil": [
+            "Ilihim ang mga ito sa mga bata",
+            "Pag-usapan ang mga ito sa araw-araw na buhay",
+            "Banggitin lamang ang mga ito sa mga dayuhang pinuno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses places teaching within the ordinary activities of family life (Deuteronomy 6).",
+          "fil": "Inilagay ni Moises ang pagtuturo sa karaniwang mga gawain ng pamilya (Deuteronomio 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Moses warn about when Israel enjoys homes and food in the land?",
+          "fil": "Anong panganib ang ibinabala ni Moises kapag tinamasa ng Israel ang mga tahanan at pagkain sa lupain?"
+        },
+        "options": {
+          "en": [
+            "Forgetting the God who rescued them",
+            "Teaching children too patiently",
+            "Remembering God's kindness too often"
+          ],
+          "fil": [
+            "Paglimot sa Diyos na nagligtas sa kanila",
+            "Masyadong matiyagang pagtuturo sa mga bata",
+            "Masyadong madalas na pag-alala sa kabutihan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Prosperity must not cause Israel to forget the Lord's deliverance (Deuteronomy 6).",
+          "fil": "Hindi dapat maging dahilan ang kasaganaan upang malimutan ng Israel ang pagliligtas ng Panginoon (Deuteronomio 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Why did God choose Israel, according to Moses?",
+          "fil": "Bakit pinili ng Diyos ang Israel ayon kay Moises?"
+        },
+        "options": {
+          "en": [
+            "Because of his love and promise to their ancestors",
+            "Because their idols were strongest",
+            "Because they were the largest nation"
+          ],
+          "fil": [
+            "Dahil sa kanyang pagmamahal at pangako sa kanilang mga ninuno",
+            "Dahil pinakamakapangyarihan ang kanilang mga diyus-diyosan",
+            "Dahil sila ang pinakamalaking bansa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses grounds Israel's election in God's love and faithfulness (Deuteronomy 7).",
+          "fil": "Ibinatay ni Moises ang pagpili sa Israel sa pagmamahal at katapatan ng Diyos (Deuteronomio 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are marriages that draw Israel into other gods' worship forbidden?",
+          "fil": "Bakit ipinagbawal ang mga pag-aasawang aakay sa Israel sa pagsamba sa ibang diyos?"
+        },
+        "options": {
+          "en": [
+            "They would end all travel",
+            "They could turn the people away from the Lord",
+            "They would make farming impossible"
+          ],
+          "fil": [
+            "Matatapos ang lahat ng paglalakbay dahil sa mga ito",
+            "Maaaring ilayo ng mga ito ang bayan sa Panginoon",
+            "Magiging imposible ang pagsasaka dahil sa mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning focuses on the danger of being led into idolatry (Deuteronomy 7).",
+          "fil": "Nakatuon ang babala sa panganib ng pagkahikayat sa pagsamba sa diyus-diyosan (Deuteronomio 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should Israel do with the conquered nations' objects of idol worship?",
+          "fil": "Ano ang dapat gawin ng Israel sa mga gamit ng pagsamba sa diyus-diyosan ng mga bansang nasakop?"
+        },
+        "options": {
+          "en": [
+            "Bring them home for worship",
+            "Reject and destroy them",
+            "Make them the center of the covenant"
+          ],
+          "fil": [
+            "Iuwi ang mga ito upang sambahin",
+            "Tanggihan at sirain ang mga ito",
+            "Gawin silang sentro ng tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel must remove objects that would draw it into idolatry (Deuteronomy 7).",
+          "fil": "Dapat alisin ng Israel ang mga bagay na aakay dito sa pagsamba sa diyus-diyosan (Deuteronomio 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What did dependence on manna teach Israel?",
+          "fil": "Ano ang itinuro sa Israel ng pag-asa sa manna?"
+        },
+        "options": {
+          "en": [
+            "God never cares about hunger",
+            "Life depends on God beyond material food alone",
+            "Pharaoh is the source of life"
+          ],
+          "fil": [
+            "Hindi kailanman nagmamalasakit ang Diyos sa gutom",
+            "Nakasalalay sa Diyos ang buhay higit sa materyal na pagkain lamang",
+            "Si Faraon ang pinagmumulan ng buhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Manna taught reliance on God's sustaining word and provision (Deuteronomy 8).",
+          "fil": "Itinuro ng manna ang pag-asa sa salita at pagkakaloob ng Diyos na nagbibigay-buhay (Deuteronomio 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should Israel do after eating well in the good land?",
+          "fil": "Ano ang dapat gawin ng Israel matapos mabusog sa mabuting lupain?"
+        },
+        "options": {
+          "en": [
+            "Credit the idols of Canaan",
+            "Stop remembering the wilderness",
+            "Thank and praise the Lord"
+          ],
+          "fil": [
+            "Kilalanin ang mga diyus-diyosan ng Canaan",
+            "Tumigil sa pag-alala sa ilang",
+            "Magpasalamat at magpuri sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses calls for gratitude after receiving the land's abundance (Deuteronomy 8).",
+          "fil": "Nanawagan si Moises ng pasasalamat matapos tanggapin ang kasaganaan ng lupain (Deuteronomio 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false claim must Israel avoid about its wealth?",
+          "fil": "Anong maling pag-aangkin tungkol sa kayamanan ang dapat iwasan ng Israel?"
+        },
+        "options": {
+          "en": [
+            "That God gives the ability to gain it",
+            "That their own strength alone produced it",
+            "That God's gifts call for gratitude"
+          ],
+          "fil": [
+            "Na ang Diyos ang nagbibigay ng kakayahang magkamit nito",
+            "Na sariling lakas lamang nila ang gumawa nito",
+            "Na dapat ipagpasalamat ang mga kaloob ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses warns against pride that forgets God's enabling power (Deuteronomy 8).",
+          "fil": "Nagbabala si Moises laban sa kapalaluang lumilimot sa kapangyarihang ibinibigay ng Diyos (Deuteronomio 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What mistaken reason for receiving the land does Moses reject?",
+          "fil": "Anong maling dahilan sa pagtanggap ng lupain ang itinanggi ni Moises?"
+        },
+        "options": {
+          "en": [
+            "That Israel has earned it by its own righteousness",
+            "That God judges the nations' wickedness",
+            "That God keeps his promise to the ancestors"
+          ],
+          "fil": [
+            "Na nakamit ito ng Israel dahil sa sariling katuwiran",
+            "Na hinahatulan ng Diyos ang kasamaan ng mga bansa",
+            "Na tinutupad ng Diyos ang pangako sa mga ninuno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses denies that Israel's own righteousness earns the land (Deuteronomy 9).",
+          "fil": "Itinanggi ni Moises na nakamit ng Israel ang lupain dahil sa sariling katuwiran (Deuteronomio 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which act at Horeb illustrates Israel's rebellion in this reminder?",
+          "fil": "Anong ginawa sa Horeb ang halimbawa ng paghihimagsik ng Israel sa paalaalang ito?"
+        },
+        "options": {
+          "en": [
+            "Making a golden calf",
+            "Crossing the Jordan with Joshua",
+            "Building Solomon's temple"
+          ],
+          "fil": [
+            "Paggawa ng gintong guya",
+            "Pagtawid sa Jordan kasama si Josue",
+            "Pagtatayo ng templo ni Solomon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses recalls the golden calf as evidence of Israel's stubbornness (Deuteronomy 9).",
+          "fil": "Inalala ni Moises ang gintong guya bilang patunay ng katigasan ng ulo ng Israel (Deuteronomio 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Moses respond when God threatens to destroy the people?",
+          "fil": "Paano tumugon si Moises nang bantaan ng Diyos na lilipulin ang bayan?"
+        },
+        "options": {
+          "en": [
+            "He joins their idol worship",
+            "He intercedes for them",
+            "He asks to become Pharaoh"
+          ],
+          "fil": [
+            "Sumama siya sa pagsamba nila sa diyus-diyosan",
+            "Namagitan siya para sa kanila",
+            "Hiniling niyang maging Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses recounts praying that God would spare his people (Deuteronomy 9).",
+          "fil": "Isinalaysay ni Moises ang pananalangin upang iligtas ng Diyos ang kanyang bayan (Deuteronomio 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What does God provide after the first tablets are broken?",
+          "fil": "Ano ang ibinigay ng Diyos matapos mabasag ang unang mga tapyas?"
+        },
+        "options": {
+          "en": [
+            "A new set of foreign gods",
+            "A crown for Pharaoh",
+            "New tablets bearing the covenant commands"
+          ],
+          "fil": [
+            "Bagong pangkat ng dayuhang diyos",
+            "Korona para kay Faraon",
+            "Bagong mga tapyas na may mga utos ng tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The renewed tablets show the continuation of God's covenant instruction (Deuteronomy 10).",
+          "fil": "Ipinakikita ng bagong mga tapyas ang pagpapatuloy ng tagubilin ng Diyos sa tipan (Deuteronomio 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inward change does Moses urge instead of stubbornness?",
+          "fil": "Anong panloob na pagbabago ang hinimok ni Moises sa halip na katigasan ng ulo?"
+        },
+        "options": {
+          "en": [
+            "A stronger desire to rebel",
+            "Complete indifference to God's commands",
+            "A responsive heart willing to obey God"
+          ],
+          "fil": [
+            "Mas matinding pagnanais na maghimagsik",
+            "Lubusang pagwawalang-bahala sa mga utos ng Diyos",
+            "Pusong handang tumugon at sumunod sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses calls for a change of heart that ends stubborn resistance (Deuteronomy 10).",
+          "fil": "Nanawagan si Moises ng pagbabago ng pusong magwawakas sa matigas na pagsalungat (Deuteronomio 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should Israel show love to foreigners?",
+          "fil": "Bakit dapat mahalin ng Israel ang mga dayuhan?"
+        },
+        "options": {
+          "en": [
+            "Moses says justice is only for the wealthy",
+            "Foreigners own the covenant",
+            "God loves them, and Israel once lived as foreigners in Egypt"
+          ],
+          "fil": [
+            "Sinabi ni Moises na para lamang sa mayayaman ang katarungan",
+            "Pag-aari ng mga dayuhan ang tipan",
+            "Mahal sila ng Diyos, at naging mga dayuhan din ang Israel sa Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's care and Israel's own experience motivate love for foreigners (Deuteronomy 10).",
+          "fil": "Nag-uudyok ng pagmamahal sa mga dayuhan ang malasakit ng Diyos at sariling karanasan ng Israel (Deuteronomio 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What does Moses ask the adults to remember about God's great deeds?",
+          "fil": "Ano ang ipinapaalala ni Moises sa matatanda tungkol sa mga dakilang gawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only future generations have seen them",
+            "They themselves witnessed them",
+            "They happened only in distant Babylon"
+          ],
+          "fil": [
+            "Mga susunod na henerasyon lamang ang nakakita sa mga ito",
+            "Sila mismo ang nakasaksi sa mga ito",
+            "Naganap lamang ang mga ito sa malayong Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses addresses people who have personally seen God's discipline and power (Deuteronomy 11).",
+          "fil": "Kinausap ni Moises ang mga taong mismong nakakita sa pagdidisiplina at kapangyarihan ng Diyos (Deuteronomio 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the new land's water supply contrasted with Egypt's?",
+          "fil": "Paano inihambing sa Egipto ang suplay ng tubig sa bagong lupain?"
+        },
+        "options": {
+          "en": [
+            "It is watered by Pharaoh's servants forever",
+            "It has no need for water",
+            "It depends on rain under God's care"
+          ],
+          "fil": [
+            "Dinidiligan ito ng mga lingkod ni Faraon habambuhay",
+            "Hindi nito kailangan ang tubig",
+            "Nakasalalay ito sa ulan sa pangangalaga ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The land's dependence on rain highlights God's continuing care (Deuteronomy 11).",
+          "fil": "Binibigyang-diin ng pag-asa ng lupain sa ulan ang patuloy na pangangalaga ng Diyos (Deuteronomio 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What alternatives does Moses set before the people?",
+          "fil": "Anong mga pagpipilian ang iniharap ni Moises sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Two equally acceptable sets of idols",
+            "Blessing with obedience or curse with disobedience",
+            "A choice between Egyptian kings"
+          ],
+          "fil": [
+            "Dalawang parehong katanggap-tanggap na pangkat ng diyus-diyosan",
+            "Pagpapala sa pagsunod o sumpa sa pagsuway",
+            "Pagpili sa mga hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses places covenant blessing and curse before Israel (Deuteronomy 11).",
+          "fil": "Iniharap ni Moises sa Israel ang pagpapala at sumpa kaugnay ng tipan (Deuteronomio 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Where should Israel bring its sacrificial worship?",
+          "fil": "Saan dapat dalhin ng Israel ang pagsambang may paghahandog?"
+        },
+        "options": {
+          "en": [
+            "To any shrine of Canaan's gods",
+            "To the place the Lord chooses",
+            "To Pharaoh's palace"
+          ],
+          "fil": [
+            "Sa alinmang dambana ng mga diyos ng Canaan",
+            "Sa lugar na pipiliin ng Panginoon",
+            "Sa palasyo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses directs sacrificial worship to God's chosen place (Deuteronomy 12).",
+          "fil": "Itinuro ni Moises na sa lugar na pinili ng Diyos gawin ang pagsambang may paghahandog (Deuteronomio 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should happen to the former inhabitants' places of idol worship?",
+          "fil": "Ano ang dapat mangyari sa mga lugar ng pagsamba sa diyus-diyosan ng mga dating naninirahan?"
+        },
+        "options": {
+          "en": [
+            "They should be destroyed",
+            "They should be dedicated to Pharaoh",
+            "They should become Israel's model for worship"
+          ],
+          "fil": [
+            "Dapat sirain ang mga ito",
+            "Dapat ialay ang mga ito kay Faraon",
+            "Dapat maging huwaran ang mga ito sa pagsamba ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel must remove the sites associated with the nations' idols (Deuteronomy 12).",
+          "fil": "Dapat alisin ng Israel ang mga lugar na kaugnay ng mga diyus-diyosan ng mga bansa (Deuteronomio 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must Israel avoid copying how other nations worship their gods?",
+          "fil": "Bakit dapat iwasan ng Israel ang paggaya sa pagsamba ng ibang bansa sa kanilang mga diyos?"
+        },
+        "options": {
+          "en": [
+            "Moses wants Israel to have no worship at all",
+            "Their practices include things the Lord rejects",
+            "The Lord has commanded every form of worship"
+          ],
+          "fil": [
+            "Nais ni Moises na huwag nang sumamba ang Israel",
+            "Kasama sa kanilang mga gawain ang mga tinatanggihan ng Panginoon",
+            "Ipinag-utos ng Panginoon ang lahat ng paraan ng pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses warns that worship must follow God's instructions rather than rejected practices (Deuteronomy 12).",
+          "fil": "Nagbabala si Moises na dapat sundin sa pagsamba ang tagubilin ng Diyos sa halip na mga gawaing tinatanggihan niya (Deuteronomio 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Should a miraculous sign make Israel follow a prophet who promotes other gods?",
+          "fil": "Dapat bang sumunod ang Israel sa propetang nagtataguyod ng ibang diyos dahil sa isang tanda?"
+        },
+        "options": {
+          "en": [
+            "Yes, any sign cancels the covenant",
+            "No, loyalty to the Lord remains the test",
+            "Yes, every god must be worshiped"
+          ],
+          "fil": [
+            "Oo, kinakansela ng anumang tanda ang tipan",
+            "Hindi, katapatan sa Panginoon pa rin ang pamantayan",
+            "Oo, dapat sambahin ang bawat diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Even an impressive sign does not justify turning away from the Lord (Deuteronomy 13).",
+          "fil": "Hindi nagbibigay-katwiran ang kahanga-hangang tanda sa pagtalikod sa Panginoon (Deuteronomio 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What if a close relative secretly urges someone to worship other gods?",
+          "fil": "Paano kung lihim na himukin ng malapit na kamag-anak ang isang tao na sumamba sa ibang diyos?"
+        },
+        "options": {
+          "en": [
+            "The invitation must still be rejected",
+            "The whole covenant must be forgotten",
+            "Family closeness makes idolatry acceptable"
+          ],
+          "fil": [
+            "Dapat pa ring tanggihan ang paghimok",
+            "Kailangang kalimutan ang buong tipan",
+            "Nagiging katanggap-tanggap ang pagsamba sa diyus-diyosan dahil malapit na kamag-anak"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Personal affection must not replace faithfulness to God (Deuteronomy 13).",
+          "fil": "Hindi dapat pumalit ang personal na pagmamahal sa katapatan sa Diyos (Deuteronomio 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must happen before action is taken against a town accused of idolatry?",
+          "fil": "Ano ang dapat mangyari bago kumilos laban sa bayang inakusahan ng pagsamba sa diyus-diyosan?"
+        },
+        "options": {
+          "en": [
+            "A vote by foreign kings",
+            "Immediate acceptance of every rumor",
+            "A careful investigation of the report"
+          ],
+          "fil": [
+            "Pagboto ng mga dayuhang hari",
+            "Agarang pagtanggap sa bawat sabi-sabi",
+            "Maingat na pagsisiyasat sa ulat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses requires thorough inquiry before treating the accusation as established (Deuteronomy 13).",
+          "fil": "Hinihingi ni Moises ang masusing pagsisiyasat bago ituring na napatunayan ang paratang (Deuteronomio 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What distinction guides the food instructions here?",
+          "fil": "Anong pagkakaiba ang gumagabay sa mga tagubilin sa pagkain dito?"
+        },
+        "options": {
+          "en": [
+            "Rich and poor farmers",
+            "Clean and unclean animals",
+            "Old and new cities"
+          ],
+          "fil": [
+            "Mayayaman at mahihirap na magsasaka",
+            "Malilinis at maruruming hayop",
+            "Mga luma at bagong lungsod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses reminds Israel which animals are permitted for food (Deuteronomy 14).",
+          "fil": "Ipinaalala ni Moises sa Israel kung anong mga hayop ang maaaring kainin (Deuteronomio 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should Israel observe these food distinctions?",
+          "fil": "Bakit dapat sundin ng Israel ang mga pagkakaibang ito sa pagkain?"
+        },
+        "options": {
+          "en": [
+            "They are a holy people belonging to the Lord",
+            "They are servants of Canaan's idols",
+            "They must win Pharaoh's approval"
+          ],
+          "fil": [
+            "Banal silang bayang para sa Panginoon",
+            "Mga lingkod sila ng mga diyus-diyosan ng Canaan",
+            "Kailangan nilang makuha ang pagsang-ayon ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's identity as God's holy people frames the food rules (Deuteronomy 14).",
+          "fil": "Nakapaloob ang mga tuntunin sa pagkain sa pagkakakilanlan ng Israel bilang banal na bayan ng Diyos (Deuteronomio 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Are all birds allowed as food under this chapter's instructions?",
+          "fil": "Pinapayagan ba bilang pagkain ang lahat ng ibon ayon sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Yes, no birds are excluded",
+            "No, certain birds are excluded",
+            "No, every bird is forbidden"
+          ],
+          "fil": [
+            "Oo, walang ibong ipinagbabawal",
+            "Hindi, may mga ibong ipinagbabawal",
+            "Hindi, lahat ng ibon ay ipinagbabawal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The food instructions distinguish permitted birds from forbidden ones (Deuteronomy 14).",
+          "fil": "Pinag-iba ng mga tagubilin sa pagkain ang mga ibong pinapayagan at ipinagbabawal (Deuteronomio 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What practice helps fellow Israelites burdened by debt?",
+          "fil": "Anong gawain ang tumutulong sa mga kapwa Israelitang nabibigatan sa utang?"
+        },
+        "options": {
+          "en": [
+            "Selling all debtors to Pharaoh",
+            "Charging more whenever they suffer",
+            "Periodic release of debts"
+          ],
+          "fil": [
+            "Pagbebenta ng lahat ng may utang kay Faraon",
+            "Pagdaragdag ng singil tuwing nahihirapan sila",
+            "Pana-panahong pagpapatawad sa mga utang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses instructs Israel to observe a regular release of debts (Deuteronomy 15).",
+          "fil": "Iniutos ni Moises sa Israel ang regular na pagpapatawad sa mga utang (Deuteronomio 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a person respond to a poor neighbor's need?",
+          "fil": "Paano dapat tumugon sa pangangailangan ng mahirap na kapwa?"
+        },
+        "options": {
+          "en": [
+            "With joy at the neighbor's hardship",
+            "With an open hand and willingness to help",
+            "With deliberate refusal to lend"
+          ],
+          "fil": [
+            "May pagkatuwa sa paghihirap ng kapwa",
+            "May bukas na palad at kahandaang tumulong",
+            "May sadyang pagtangging magpahiram"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses urges generous help rather than a hardened heart (Deuteronomy 15).",
+          "fil": "Hinimok ni Moises ang bukas-palad na pagtulong sa halip na matigas na puso (Deuteronomio 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What approaching event must not become an excuse to refuse a loan?",
+          "fil": "Anong nalalapit na pangyayari ang hindi dapat gawing dahilan upang tumangging magpahiram?"
+        },
+        "options": {
+          "en": [
+            "A foreign king's birthday",
+            "The year of debt release",
+            "The building of a palace"
+          ],
+          "fil": [
+            "Ang kaarawan ng dayuhang hari",
+            "Ang taon ng pagpapatawad sa utang",
+            "Ang pagtatayo ng palasyo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Concern about the coming release must not prevent generosity to the poor (Deuteronomy 15).",
+          "fil": "Hindi dapat hadlangan ng pag-aalala sa nalalapit na pagpapatawad sa utang ang pagtulong sa mahihirap (Deuteronomio 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What rescue does the Passover celebration recall?",
+          "fil": "Anong pagliligtas ang ipinapaalala ng pagdiriwang ng Paskuwa?"
+        },
+        "options": {
+          "en": [
+            "David escaping from Saul",
+            "God bringing Israel out of Egypt",
+            "Judah returning from Babylon"
+          ],
+          "fil": [
+            "Ang pagtakas ni David kay Saul",
+            "Ang paglalabas ng Diyos sa Israel mula sa Egipto",
+            "Ang pagbabalik ng Juda mula sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Passover preserves the memory of Israel's departure from Egypt (Deuteronomy 16).",
+          "fil": "Pinananatili ng Paskuwa ang alaala ng pag-alis ng Israel sa Egipto (Deuteronomio 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where should the pilgrimage festivals be celebrated?",
+          "fil": "Saan dapat ipagdiwang ang mga pistang may paglalakbay para sa pagsamba?"
+        },
+        "options": {
+          "en": [
+            "At any shrine to Baal",
+            "At the place the Lord chooses",
+            "In Pharaoh's court"
+          ],
+          "fil": [
+            "Sa alinmang dambana ni Baal",
+            "Sa lugar na pipiliin ng Panginoon",
+            "Sa korte ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses directs the festivals to God's chosen place of worship (Deuteronomy 16).",
+          "fil": "Itinuro ni Moises na sa piniling lugar ng Diyos ganapin ang mga pista (Deuteronomio 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who should share in the joy of the harvest festivals?",
+          "fil": "Sino ang dapat makibahagi sa kagalakan ng mga pista ng ani?"
+        },
+        "options": {
+          "en": [
+            "Households, servants, Levites, and vulnerable neighbors",
+            "Only military leaders",
+            "Only wealthy landowners"
+          ],
+          "fil": [
+            "Mga sambahayan, alipin, Levita, at kapwang nangangailangan",
+            "Mga pinuno lamang ng hukbo",
+            "Mayayamang may-ari lamang ng lupa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The festivals include people who might otherwise be left out (Deuteronomy 16).",
+          "fil": "Kasama sa mga pista ang mga taong maaaring mapabayaan (Deuteronomio 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What kind of king may Israel appoint under these instructions?",
+          "fil": "Anong uri ng hari ang maaaring italaga ng Israel ayon sa mga tagubiling ito?"
+        },
+        "options": {
+          "en": [
+            "Any foreign ruler who offers money",
+            "Only Pharaoh's eldest son",
+            "One chosen by the Lord from among their own people"
+          ],
+          "fil": [
+            "Sinumang dayuhang pinunong nag-aalok ng pera",
+            "Panganay lamang na anak ni Faraon",
+            "Isang pinili ng Panginoon mula sa sarili nilang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king must be God's choice from among Israel (Deuteronomy 17).",
+          "fil": "Kailangang pinili ng Diyos mula sa Israel ang hari (Deuteronomio 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the king read throughout his life?",
+          "fil": "Ano ang dapat basahin ng hari sa buong buhay niya?"
+        },
+        "options": {
+          "en": [
+            "A copy of God's law",
+            "A guide to worshiping idols",
+            "Pharaoh's family history alone"
+          ],
+          "fil": [
+            "Kopya ng kautusan ng Diyos",
+            "Gabay sa pagsamba sa diyus-diyosan",
+            "Kasaysayan lamang ng pamilya ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Regular reading of the law teaches the king reverence and obedience (Deuteronomy 17).",
+          "fil": "Itinuturo sa hari ng regular na pagbabasa ng kautusan ang paggalang at pagsunod (Deuteronomio 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude must the king avoid toward fellow Israelites?",
+          "fil": "Anong saloobin sa kapwa Israelita ang dapat iwasan ng hari?"
+        },
+        "options": {
+          "en": [
+            "Humility before God's law",
+            "Thinking himself superior to them",
+            "Careful obedience"
+          ],
+          "fil": [
+            "Pagpapakumbaba sa harap ng kautusan ng Diyos",
+            "Pag-iisip na nakahihigit siya sa kanila",
+            "Maingat na pagsunod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The king's submission to the law guards against pride over his people (Deuteronomy 17).",
+          "fil": "Pinangangalagaan ng pagpapasakop ng hari sa kautusan ang pag-iwas sa pagmamataas sa bayan (Deuteronomio 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What source of guidance must Israel reject?",
+          "fil": "Anong pinagmumulan ng patnubay ang dapat tanggihan ng Israel?"
+        },
+        "options": {
+          "en": [
+            "God's own commands",
+            "The prophet God raises up",
+            "Divination and consulting the dead"
+          ],
+          "fil": [
+            "Ang mismong mga utos ng Diyos",
+            "Ang propetang ibabangon ng Diyos",
+            "Panghuhula at pagsangguni sa mga patay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses forbids seeking guidance through occult practices (Deuteronomy 18).",
+          "fil": "Ipinagbawal ni Moises ang paghahanap ng patnubay sa mga gawaing mahika at panghuhula (Deuteronomio 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of messenger does God promise to raise up?",
+          "fil": "Anong uri ng sugo ang ipinangako ng Diyos na ibabangon?"
+        },
+        "options": {
+          "en": [
+            "A new Pharaoh to enslave them",
+            "An idol that speaks for other gods",
+            "A prophet like Moses from among the people"
+          ],
+          "fil": [
+            "Bagong Faraon na aalipin sa kanila",
+            "Diyus-diyosang nagsasalita para sa ibang diyos",
+            "Propetang tulad ni Moises mula sa bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises a prophet who will communicate his words (Deuteronomy 18).",
+          "fil": "Ipinangako ng Diyos ang propetang magpapahayag ng kanyang mga salita (Deuteronomio 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does a prediction's failure reveal about a claimed message from God?",
+          "fil": "Ano ang ipinakikita ng hindi pagtupad ng hula tungkol sa sinasabing mensahe mula sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "The speaker has spoken presumptuously",
+            "Israel must worship that speaker",
+            "God's law has been abolished"
+          ],
+          "fil": [
+            "Nagsalita nang walang pahintulot ang nagpahayag",
+            "Kailangang sambahin ng Israel ang nagpahayag",
+            "Pinawalang-bisa ang kautusan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "An unfulfilled prediction exposes a message not spoken by the Lord (Deuteronomy 18).",
+          "fil": "Inilalantad ng hindi natupad na hula ang mensaheng hindi sinabi ng Panginoon (Deuteronomio 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Why are cities of refuge set apart?",
+          "fil": "Bakit ibinukod ang mga kanlungang-lungsod?"
+        },
+        "options": {
+          "en": [
+            "To reward planned murder",
+            "To protect someone who kills unintentionally",
+            "To store foreign idols"
+          ],
+          "fil": [
+            "Upang gantimpalaan ang planadong pagpatay",
+            "Upang pangalagaan ang nakapatay nang di-sinasadya",
+            "Upang itago ang mga dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The refuge cities prevent immediate revenge against an unintentional killer (Deuteronomy 19).",
+          "fil": "Pinipigilan ng mga kanlungang-lungsod ang agarang paghihiganti laban sa nakapatay nang di-sinasadya (Deuteronomio 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What example illustrates an unintended death?",
+          "fil": "Anong halimbawa ang naglalarawan ng di-sinasadyang pagkamatay?"
+        },
+        "options": {
+          "en": [
+            "An axe head flies off while cutting wood",
+            "An enemy deliberately lies in wait",
+            "A person plans an ambush out of hatred"
+          ],
+          "fil": [
+            "Natanggal at tumalsik ang talim ng palakol habang nagsisibak",
+            "Sadyang nag-abang ang kaaway",
+            "Nagplano ng pananambang ang isang tao dahil sa galit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The flying axe head illustrates death without prior hatred or intent (Deuteronomy 19).",
+          "fil": "Inilarawan ng tumalsik na talim ng palakol ang pagkamatay na walang naunang galit o balak (Deuteronomio 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "May a deliberate murderer use refuge to avoid justice?",
+          "fil": "Maaari bang gamitin ng sadyang pumatay ang kanlungan upang takasan ang katarungan?"
+        },
+        "options": {
+          "en": [
+            "Yes, refuge cancels every offense",
+            "Yes, wealth guarantees protection",
+            "No, the elders must hand that person over"
+          ],
+          "fil": [
+            "Oo, kinakansela ng kanlungan ang bawat kasalanan",
+            "Oo, tinitiyak ng kayamanan ang proteksiyon",
+            "Hindi, kailangang ibigay ng mga pinuno ang taong iyon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The refuge law distinguishes accidental killing from murder committed in hatred (Deuteronomy 19).",
+          "fil": "Pinag-iba ng batas sa kanlungan ang di-sinasadyang pagpatay at pagpatay dahil sa galit (Deuteronomio 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Why should Israel not panic before a stronger-looking enemy?",
+          "fil": "Bakit hindi dapat matakot nang labis ang Israel sa mukhang mas malakas na kaaway?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh has promised to command them",
+            "Enemy weapons do not exist",
+            "The Lord who brought them from Egypt goes with them"
+          ],
+          "fil": [
+            "Nangako si Faraon na mamumuno sa kanila",
+            "Walang mga sandata ang kaaway",
+            "Kasama nila ang Panginoong naglabas sa kanila sa Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses grounds courage in God's presence rather than appearances (Deuteronomy 20).",
+          "fil": "Ibinatay ni Moises ang tapang sa presensya ng Diyos sa halip na sa panlabas na anyo (Deuteronomio 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the priest do before battle?",
+          "fil": "Ano ang ginagawa ng pari bago ang labanan?"
+        },
+        "options": {
+          "en": [
+            "Demand worship for himself",
+            "Encourage the army to trust God",
+            "Announce that idols will save them"
+          ],
+          "fil": [
+            "Humihingi ng pagsamba para sa sarili",
+            "Hinihikayat ang hukbo na magtiwala sa Diyos",
+            "Ipinapahayag na ililigtas sila ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priest reminds the soldiers that God goes with them (Deuteronomy 20).",
+          "fil": "Ipinaaalala ng pari sa mga kawal na kasama nila ang Diyos (Deuteronomio 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must fruit trees not be destroyed during a siege?",
+          "fil": "Bakit hindi dapat sirain ang mga punong namumunga sa pagkubkob?"
+        },
+        "options": {
+          "en": [
+            "They must be worshiped",
+            "They provide food",
+            "They are Israel's kings"
+          ],
+          "fil": [
+            "Kailangang sambahin ang mga ito",
+            "Nagbibigay ang mga ito ng pagkain",
+            "Mga hari ng Israel ang mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The siege instructions preserve trees that provide food (Deuteronomy 20).",
+          "fil": "Pinangangalagaan ng mga tagubilin sa pagkubkob ang mga punong nagbibigay ng pagkain (Deuteronomio 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What problem does the chapter's opening law address?",
+          "fil": "Anong suliranin ang tinutugunan ng unang batas ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "A missing royal crown",
+            "A murder with no known killer",
+            "A disagreement over harvest dates"
+          ],
+          "fil": [
+            "Nawawalang korona ng hari",
+            "Pagpatay na hindi kilala ang pumatay",
+            "Hindi pagkakasundo sa petsa ng pag-aani"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening instructions concern an unsolved killing (Deuteronomy 21).",
+          "fil": "Tungkol sa pagpatay na hindi pa nalulutas ang mga unang tagubilin (Deuteronomio 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who must take responsibility for the community's response to that death?",
+          "fil": "Sino ang dapat managot sa pagtugon ng pamayanan sa pagkamatay na iyon?"
+        },
+        "options": {
+          "en": [
+            "Merchants in Babylon",
+            "The elders of the nearest town",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Mga mangangalakal sa Babilonia",
+            "Ang mga pinuno ng pinakamalapit na bayan",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The nearest town's elders carry out the required response (Deuteronomy 21).",
+          "fil": "Isinasagawa ng mga pinuno ng pinakamalapit na bayan ang hinihinging pagtugon (Deuteronomio 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the elders seek from God concerning innocent blood?",
+          "fil": "Ano ang hinihingi ng mga pinuno sa Diyos kaugnay ng dugong walang sala?"
+        },
+        "options": {
+          "en": [
+            "Release from bloodguilt for the people",
+            "A reward for the unknown killer",
+            "Permission to ignore every future murder"
+          ],
+          "fil": [
+            "Paglaya ng bayan sa pananagutan sa pagdanak ng dugo",
+            "Gantimpala para sa di-kilalang pumatay",
+            "Pahintulot na balewalain ang lahat ng susunod na pagpatay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The ceremony seeks atonement so innocent bloodguilt does not remain on Israel (Deuteronomy 21).",
+          "fil": "Humihingi ang ritwal ng pagtubos upang hindi manatili sa Israel ang pananagutan sa dugong walang sala (Deuteronomio 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What marital dispute is brought before the town's elders?",
+          "fil": "Anong usapin sa pag-aasawa ang inihaharap sa mga pinuno ng bayan?"
+        },
+        "options": {
+          "en": [
+            "A husband's accusation against his wife's conduct before marriage",
+            "A king's claim to own every marriage",
+            "A dispute over the date of Passover"
+          ],
+          "fil": [
+            "Paratang ng asawa tungkol sa asal ng kanyang kabiyak bago ikasal",
+            "Pag-aangkin ng hari sa lahat ng pag-aasawa",
+            "Usapin sa petsa ng Paskuwa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter provides a hearing for a husband's accusation against his wife (Deuteronomy 22).",
+          "fil": "Naglaan ang kabanata ng pagdinig sa paratang ng lalaki laban sa kanyang asawa (Deuteronomio 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who may bring evidence defending the accused wife?",
+          "fil": "Sino ang maaaring magdala ng katibayang nagtatanggol sa inakusang asawa?"
+        },
+        "options": {
+          "en": [
+            "The kings of Moab",
+            "Her parents",
+            "Pharaoh's soldiers"
+          ],
+          "fil": [
+            "Ang mga hari ng Moab",
+            "Ang kanyang mga magulang",
+            "Ang mga kawal ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The wife's parents may present evidence before the elders (Deuteronomy 22).",
+          "fil": "Maaaring magharap ng katibayan sa mga pinuno ang mga magulang ng babae (Deuteronomio 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens if the husband's accusation is proven false?",
+          "fil": "Ano ang mangyayari kung mapatunayang mali ang paratang ng lalaki?"
+        },
+        "options": {
+          "en": [
+            "He is disciplined for slandering her",
+            "He is rewarded for the false charge",
+            "He becomes the town's king"
+          ],
+          "fil": [
+            "Pinarurusahan siya dahil sa paninirang-puri sa babae",
+            "Ginagantimpalaan siya sa maling paratang",
+            "Nagiging hari siya ng bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The law holds the husband accountable for a false accusation (Deuteronomy 22).",
+          "fil": "Pinananagot ng batas ang lalaki sa maling paratang (Deuteronomio 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What does Moses recall God doing with Balaam's intended curse?",
+          "fil": "Ano ang inalala ni Moises na ginawa ng Diyos sa balak na sumpa ni Balaam?"
+        },
+        "options": {
+          "en": [
+            "Ending his love for Israel",
+            "Making Balaam Israel's king",
+            "Turning it into a blessing"
+          ],
+          "fil": [
+            "Winakasan ang kanyang pagmamahal sa Israel",
+            "Ginawang hari ng Israel si Balaam",
+            "Ginawa itong pagpapala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses recalls God's love in changing the curse into blessing (Deuteronomy 23).",
+          "fil": "Inalala ni Moises ang pagmamahal ng Diyos sa pagpapalit ng sumpa tungo sa pagpapala (Deuteronomio 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should Israel not despise an Edomite?",
+          "fil": "Bakit hindi dapat hamakin ng Israel ang isang Edomita?"
+        },
+        "options": {
+          "en": [
+            "Every Edomite is a priest of Israel",
+            "The Edomites are related to Israel",
+            "Edom owns God's covenant"
+          ],
+          "fil": [
+            "Pari ng Israel ang bawat Edomita",
+            "Kamag-anak ng Israel ang mga Edomita",
+            "Pag-aari ng Edom ang tipan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses points to kinship as a reason not to despise Edom (Deuteronomy 23).",
+          "fil": "Itinuro ni Moises ang pagkakamag-anak bilang dahilan upang huwag hamakin ang Edom (Deuteronomio 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What past experience is a reason not to despise an Egyptian?",
+          "fil": "Anong karanasan ang dahilan upang huwag hamakin ang isang taga-Egipto?"
+        },
+        "options": {
+          "en": [
+            "Israel once lived as foreigners in Egypt",
+            "Moses was crowned Pharaoh",
+            "Egypt gave Israel the covenant at Horeb"
+          ],
+          "fil": [
+            "Nanirahan noon ang Israel bilang mga dayuhan sa Egipto",
+            "Kinoronahan si Moises bilang Faraon",
+            "Ibinigay ng Egipto sa Israel ang tipan sa Horeb"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses recalls Israel's residence as foreigners in Egypt (Deuteronomy 23).",
+          "fil": "Inalala ni Moises ang paninirahan ng Israel bilang mga dayuhan sa Egipto (Deuteronomio 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Why must a poor worker receive wages promptly?",
+          "fil": "Bakit dapat agad ibigay ang sahod ng mahirap na manggagawa?"
+        },
+        "options": {
+          "en": [
+            "The worker must buy a throne",
+            "The worker depends on that pay",
+            "The money belongs to Pharaoh"
+          ],
+          "fil": [
+            "Kailangang bumili ng trono ang manggagawa",
+            "Umaasa ang manggagawa sa sahod na iyon",
+            "Kay Faraon ang pera"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Prompt payment protects workers who depend on each day's wages (Deuteronomy 24).",
+          "fil": "Pinangangalagaan ng agarang pagpapasahod ang mga manggagawang umaasa sa arawang kita (Deuteronomio 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must a poor person's pledged cloak be returned before night?",
+          "fil": "Bakit dapat ibalik bago gumabi ang balabal na isinangla ng mahirap?"
+        },
+        "options": {
+          "en": [
+            "So the person has a covering to sleep in",
+            "So Pharaoh can collect it",
+            "So it can decorate an idol"
+          ],
+          "fil": [
+            "Upang may maipangkumot ang tao sa pagtulog",
+            "Upang makuha ito ni Faraon",
+            "Upang maipalamuti ito sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The rule protects the borrower's basic need for warmth (Deuteronomy 24).",
+          "fil": "Pinangangalagaan ng tuntunin ang pangunahing pangangailangan ng nanghiram sa init ng katawan (Deuteronomio 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who should benefit from forgotten sheaves and remaining produce?",
+          "fil": "Sino ang dapat makinabang sa nalimutang bungkos at natirang ani?"
+        },
+        "options": {
+          "en": [
+            "Foreigners, orphans, and widows",
+            "Only foreign kings",
+            "Only wealthy landowners"
+          ],
+          "fil": [
+            "Mga dayuhan, ulila, at biyuda",
+            "Mga dayuhang hari lamang",
+            "Mayayamang may-ari lamang ng lupa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Harvest leftovers are reserved to help vulnerable neighbors (Deuteronomy 24).",
+          "fil": "Inilaan ang mga natirang ani upang tulungan ang kapwang nangangailangan (Deuteronomio 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What family situation is addressed by the law about a deceased brother's widow?",
+          "fil": "Anong kalagayan ng pamilya ang tinutukoy ng batas tungkol sa biyuda ng namatay na kapatid?"
+        },
+        "options": {
+          "en": [
+            "A man dies without a son",
+            "A king wants another palace",
+            "A farmer loses his ox"
+          ],
+          "fil": [
+            "Namatay ang isang lalaki nang walang anak na lalaki",
+            "Nais ng hari ng isa pang palasyo",
+            "Nawala ang baka ng magsasaka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The law concerns the widow of a brother who dies without a son (Deuteronomy 25).",
+          "fil": "Tungkol ang batas sa biyuda ng kapatid na namatay nang walang anak na lalaki (Deuteronomio 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the purpose of the brother's family responsibility in this case?",
+          "fil": "Ano ang layunin ng pananagutan ng kapatid sa pamilyang ito?"
+        },
+        "options": {
+          "en": [
+            "Preserve the deceased brother's name and family line",
+            "Transfer Israel's land to Pharaoh",
+            "End every inheritance"
+          ],
+          "fil": [
+            "Panatilihin ang pangalan at angkan ng namatay na kapatid",
+            "Ilipat kay Faraon ang lupain ng Israel",
+            "Wakasan ang lahat ng mana"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The arrangement aims to keep the dead brother's name from disappearing (Deuteronomy 25).",
+          "fil": "Layunin ng kaayusan na huwag mawala ang pangalan ng namatay na kapatid (Deuteronomio 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where can the widow bring the matter if the brother refuses?",
+          "fil": "Saan maaaring dalhin ng biyuda ang usapin kung tumanggi ang kapatid?"
+        },
+        "options": {
+          "en": [
+            "Before the priests of Baal",
+            "Before Pharaoh's army",
+            "Before the town's elders"
+          ],
+          "fil": [
+            "Sa mga pari ni Baal",
+            "Sa hukbo ni Faraon",
+            "Sa mga pinuno ng bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The elders hear the widow's complaint about the refused responsibility (Deuteronomy 25).",
+          "fil": "Dinidinig ng mga pinuno ang reklamo ng biyuda tungkol sa tinanggihang pananagutan (Deuteronomio 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What does the worshiper bring in the chapter's opening ceremony?",
+          "fil": "Ano ang dinadala ng sumasamba sa unang ritwal ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "A foreign idol",
+            "The first produce of the land",
+            "An Egyptian war chariot"
+          ],
+          "fil": [
+            "Isang dayuhang diyus-diyosan",
+            "Ang unang ani ng lupain",
+            "Isang karwaheng pandigma ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The firstfruits offering acknowledges God's gift of the land (Deuteronomy 26).",
+          "fil": "Kinikilala ng handog na unang ani ang pagkakaloob ng Diyos ng lupain (Deuteronomio 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What history does the worshiper recall when presenting the firstfruits?",
+          "fil": "Anong kasaysayan ang inaalala ng sumasamba sa paghaharap ng unang ani?"
+        },
+        "options": {
+          "en": [
+            "Oppression in Egypt and God's rescue into the land",
+            "Solomon's trading voyages",
+            "The building of Babylon's tower"
+          ],
+          "fil": [
+            "Pang-aapi sa Egipto at pagliligtas ng Diyos tungo sa lupain",
+            "Ang mga paglalayag ni Solomon sa pangangalakal",
+            "Ang pagtatayo ng tore ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The declaration connects the harvest with God's saving acts (Deuteronomy 26).",
+          "fil": "Iniugnay ng pagpapahayag ang ani sa mga gawa ng Diyos na nagliligtas (Deuteronomio 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is invited to share the joy of God's good gifts?",
+          "fil": "Sino ang inaanyayahang makibahagi sa kagalakan sa mabubuting kaloob ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only foreign rulers",
+            "The household, the Levite, and the foreigner among them",
+            "Only the richest family"
+          ],
+          "fil": [
+            "Mga dayuhang pinuno lamang",
+            "Ang sambahayan, ang Levita, at ang dayuhang kasama nila",
+            "Pinakamayamang pamilya lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rejoicing over the firstfruits includes the Levite and resident foreigner (Deuteronomy 26).",
+          "fil": "Kasama sa pagsasaya sa unang ani ang Levita at dayuhang naninirahang kasama nila (Deuteronomio 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What should Israel write on large prepared stones after crossing the Jordan?",
+          "fil": "Ano ang dapat isulat ng Israel sa malalaking inihandang bato matapos tumawid sa Jordan?"
+        },
+        "options": {
+          "en": [
+            "A decree honoring Pharaoh",
+            "The words of God's law",
+            "The names of Egypt's idols"
+          ],
+          "fil": [
+            "Utos na nagpaparangal kay Faraon",
+            "Ang mga salita ng kautusan ng Diyos",
+            "Ang mga pangalan ng diyus-diyosan ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The stones publicly preserve the covenant law (Deuteronomy 27).",
+          "fil": "Hayagang pinananatili ng mga bato ang kautusan ng tipan (Deuteronomio 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "On which mountain is the altar to be built in this instruction?",
+          "fil": "Sa anong bundok dapat itayo ang altar ayon sa tagubiling ito?"
+        },
+        "options": {
+          "en": [
+            "Mount Ebal",
+            "Mount Carmel",
+            "Mount Hor"
+          ],
+          "fil": [
+            "Bundok Ebal",
+            "Bundok Carmel",
+            "Bundok Hor"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses directs Israel to build an altar on Mount Ebal (Deuteronomy 27).",
+          "fil": "Inutusan ni Moises ang Israel na magtayo ng altar sa Bundok Ebal (Deuteronomio 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the people's response to the proclaimed curses express?",
+          "fil": "Ano ang ipinahahayag ng tugon ng bayan sa mga ipinahayag na sumpa?"
+        },
+        "options": {
+          "en": [
+            "Rejection of every command",
+            "Worship of the Levites themselves",
+            "Agreement with the covenant's accountability"
+          ],
+          "fil": [
+            "Pagtanggi sa bawat utos",
+            "Pagsamba mismo sa mga Levita",
+            "Pagsang-ayon sa pananagutan sa tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people's response acknowledges responsibility under God's covenant (Deuteronomy 27).",
+          "fil": "Kinikilala ng tugon ng bayan ang pananagutan sa tipan ng Diyos (Deuteronomio 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What condition is connected with the blessings described here?",
+          "fil": "Anong kondisyon ang kaugnay ng mga pagpapalang inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "Trust in wealth alone",
+            "Faithful obedience to the Lord",
+            "Worship of Canaan's idols"
+          ],
+          "fil": [
+            "Pagtitiwala sa kayamanan lamang",
+            "Tapat na pagsunod sa Panginoon",
+            "Pagsamba sa mga diyus-diyosan ng Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter connects covenant blessings with obedience (Deuteronomy 28).",
+          "fil": "Iniugnay ng kabanata ang mga pagpapala ng tipan sa pagsunod (Deuteronomio 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "How broad are the blessings pictured in the chapter?",
+          "fil": "Gaano kalawak ang mga pagpapalang inilarawan sa kabanata?"
+        },
+        "options": {
+          "en": [
+            "They concern only foreign merchants",
+            "They concern daily life, families, crops, and security",
+            "They concern only a king's jewelry"
+          ],
+          "fil": [
+            "Tungkol lamang ang mga ito sa dayuhang mangangalakal",
+            "Saklaw ang araw-araw na buhay, pamilya, ani, at kaligtasan",
+            "Tungkol lamang ang mga ito sa alahas ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The blessings extend across the people's ordinary life in the land (Deuteronomy 28).",
+          "fil": "Umaabot ang mga pagpapala sa karaniwang buhay ng bayan sa lupain (Deuteronomio 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What severe outcome is included in the warning about persistent disobedience?",
+          "fil": "Anong mabigat na bunga ang kasama sa babala tungkol sa patuloy na pagsuway?"
+        },
+        "options": {
+          "en": [
+            "Defeat and scattering among other nations",
+            "Guaranteed peace without repentance",
+            "The disappearance of all consequences"
+          ],
+          "fil": [
+            "Pagkatalo at pagkalat sa ibang mga bansa",
+            "Tiyak na kapayapaan nang walang pagsisisi",
+            "Pagkawala ng lahat ng bunga ng pagkakasala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The curses include defeat, displacement, and scattering (Deuteronomy 28).",
+          "fil": "Kasama sa mga sumpa ang pagkatalo, pagpapaalis, at pagkalat (Deuteronomio 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "Who stands within the covenant assembly Moses addresses?",
+          "fil": "Sino ang kabilang sa pagtitipon para sa tipan na kinausap ni Moises?"
+        },
+        "options": {
+          "en": [
+            "Leaders, families, and foreigners living among Israel",
+            "Only wealthy soldiers",
+            "Only the priests' eldest sons"
+          ],
+          "fil": [
+            "Mga pinuno, pamilya, at dayuhang naninirahang kasama ng Israel",
+            "Mayayamang kawal lamang",
+            "Mga panganay lamang na anak ng mga pari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses describes a covenant community including many groups (Deuteronomy 29).",
+          "fil": "Inilarawan ni Moises ang pamayanan ng tipan na kinabibilangan ng maraming pangkat (Deuteronomio 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does this covenant concern only those physically present that day?",
+          "fil": "Para lamang ba sa mga naroon sa araw na iyon ang tipang ito?"
+        },
+        "options": {
+          "en": [
+            "Yes, future generations have no part",
+            "Yes, it expires at sunset",
+            "No, it also concerns those not there"
+          ],
+          "fil": [
+            "Oo, walang bahagi ang mga susunod na henerasyon",
+            "Oo, nagwawakas ito sa paglubog ng araw",
+            "Hindi, kasama rin ang mga wala roon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses extends the covenant's concern beyond the immediate gathering (Deuteronomy 29).",
+          "fil": "Pinalawak ni Moises ang saklaw ng tipan lampas sa mga agad na nagkatipon (Deuteronomio 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false security does Moses warn against within the community?",
+          "fil": "Anong maling katiyakan ang ibinabala ni Moises sa pamayanan?"
+        },
+        "options": {
+          "en": [
+            "Teaching children the covenant",
+            "Trusting God enough to obey",
+            "Thinking one can pursue idols and still be safe"
+          ],
+          "fil": [
+            "Pagtuturo ng tipan sa mga bata",
+            "Pagtitiwala sa Diyos upang sumunod",
+            "Pag-aakalang ligtas pa rin kahit sumunod sa diyus-diyosan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses warns against inward rebellion that assumes judgment will never come (Deuteronomy 29).",
+          "fil": "Nagbabala si Moises laban sa lihim na paghihimagsik na nag-aakalang hindi darating ang hatol (Deuteronomio 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What hope is offered if the scattered people return to God?",
+          "fil": "Anong pag-asa ang iniaalok kung manunumbalik sa Diyos ang nangalat na bayan?"
+        },
+        "options": {
+          "en": [
+            "God will reject every act of repentance",
+            "Their idols will become their rescuers",
+            "God will show compassion and gather them"
+          ],
+          "fil": [
+            "Tatanggihan ng Diyos ang bawat pagsisisi",
+            "Magiging tagapagligtas nila ang kanilang mga diyus-diyosan",
+            "Mahahabag ang Diyos at titipunin sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses promises restoration when the people return wholeheartedly to God (Deuteronomy 30).",
+          "fil": "Ipinangako ni Moises ang pagpapanumbalik kapag buong-pusong nanumbalik sa Diyos ang bayan (Deuteronomio 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is God's command described in relation to the people?",
+          "fil": "Paano inilarawan ang utos ng Diyos kaugnay ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Hidden beyond all possible reach",
+            "Near enough for them to know and practice",
+            "Available only to foreign kings"
+          ],
+          "fil": [
+            "Nakatago at imposibleng maabot",
+            "Malapit upang malaman at maisagawa nila",
+            "Para lamang sa mga dayuhang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses says God's instruction is accessible rather than unreachable (Deuteronomy 30).",
+          "fil": "Sinabi ni Moises na kayang maabot ang tagubilin ng Diyos sa halip na imposibleng matamo (Deuteronomio 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What choice does Moses urge Israel to make?",
+          "fil": "Anong pagpili ang hinimok ni Moises na gawin ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Choose permanent rebellion",
+            "Choose idols instead of God",
+            "Choose life through loving and obeying God"
+          ],
+          "fil": [
+            "Piliin ang patuloy na paghihimagsik",
+            "Piliin ang mga diyus-diyosan sa halip na ang Diyos",
+            "Piliin ang buhay sa pagmamahal at pagsunod sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses urges a life-giving commitment to the Lord (Deuteronomy 30).",
+          "fil": "Hinimok ni Moises ang pagtalagang nagbibigay-buhay sa Panginoon (Deuteronomio 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "To whom does Moses entrust the written law for safekeeping and public reading?",
+          "fil": "Kanino ipinagkatiwala ni Moises ang nakasulat na kautusan para ingatan at basahin sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's tax collectors",
+            "The priests and elders",
+            "The priests of Baal"
+          ],
+          "fil": [
+            "Sa mga maniningil ng buwis ni Faraon",
+            "Sa mga pari at pinuno",
+            "Sa mga pari ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses gives the law to the priests and elders with instructions for its reading (Deuteronomy 31).",
+          "fil": "Ibinigay ni Moises ang kautusan sa mga pari at pinuno na may tagubilin sa pagbasa nito (Deuteronomio 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who should gather to hear the law read?",
+          "fil": "Sino ang dapat magtipon upang marinig ang pagbasa ng kautusan?"
+        },
+        "options": {
+          "en": [
+            "Only wealthy landowners",
+            "Only the military commanders",
+            "Men, women, children, and resident foreigners"
+          ],
+          "fil": [
+            "Mayayamang may-ari lamang ng lupa",
+            "Mga pinuno lamang ng hukbo",
+            "Mga lalaki, babae, bata, at dayuhang naninirahan kasama nila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The public reading includes the whole community, including children and foreigners (Deuteronomy 31).",
+          "fil": "Kasama sa pampublikong pagbasa ang buong pamayanan, pati ang mga bata at dayuhan (Deuteronomio 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the purpose of letting children hear the law?",
+          "fil": "Ano ang layunin ng pagpaparinig ng kautusan sa mga bata?"
+        },
+        "options": {
+          "en": [
+            "Teach them to forget the covenant",
+            "Prepare them to worship other gods",
+            "Help them learn reverence for God and obedience"
+          ],
+          "fil": [
+            "Turuan silang kalimutan ang tipan",
+            "Ihanda silang sumamba sa ibang diyos",
+            "Tulungan silang matuto ng paggalang sa Diyos at pagsunod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hearing the law teaches the next generation to live faithfully (Deuteronomy 31).",
+          "fil": "Tinuturuan ng pakikinig sa kautusan ang susunod na henerasyon na mamuhay nang tapat (Deuteronomio 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "How does Moses' song contrast God with Israel's failure?",
+          "fil": "Paano inihambing ng awit ni Moises ang Diyos sa pagkukulang ng Israel?"
+        },
+        "options": {
+          "en": [
+            "God is faithful and just despite the people's corruption",
+            "God has no concern for justice",
+            "God is dishonest while the people never fail"
+          ],
+          "fil": [
+            "Tapat at makatarungan ang Diyos sa kabila ng kasamaan ng bayan",
+            "Walang malasakit ang Diyos sa katarungan",
+            "Di-tapat ang Diyos samantalang hindi nagkukulang ang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song presents God as dependable and righteous (Deuteronomy 32).",
+          "fil": "Ipinakikita ng awit na mapagkakatiwalaan at matuwid ang Diyos (Deuteronomio 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger follows Israel's prosperity in the song?",
+          "fil": "Anong panganib ang sumunod sa kasaganaan ng Israel sa awit?"
+        },
+        "options": {
+          "en": [
+            "Forgetting their Maker and turning to other gods",
+            "Learning God's law too carefully",
+            "Becoming too generous to the poor"
+          ],
+          "fil": [
+            "Paglimot sa kanilang Maylikha at paglapit sa ibang diyos",
+            "Masyadong maingat na pag-aaral sa kautusan ng Diyos",
+            "Pagiging sobrang bukas-palad sa mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song warns that abundance can lead to forgetfulness and idolatry (Deuteronomy 32).",
+          "fil": "Nagbabala ang awit na maaaring humantong sa paglimot at pagsamba sa diyus-diyosan ang kasaganaan (Deuteronomio 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Moses urge the people to take these words to heart?",
+          "fil": "Bakit hinimok ni Moises ang bayan na isapuso ang mga salitang ito?"
+        },
+        "options": {
+          "en": [
+            "They replace God with Moses",
+            "They are only entertainment",
+            "They are vital to their life in the land"
+          ],
+          "fil": [
+            "Ipinapalit ng mga ito si Moises sa Diyos",
+            "Libangan lamang ang mga ito",
+            "Mahalaga ang mga ito sa kanilang buhay sa lupain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses treats the instruction as essential for Israel's life and future (Deuteronomy 32).",
+          "fil": "Itinuring ni Moises ang tagubilin na mahalaga sa buhay at kinabukasan ng Israel (Deuteronomio 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What does Moses pronounce over Israel's tribes before his death?",
+          "fil": "Ano ang ipinahayag ni Moises sa mga lipi ng Israel bago siya mamatay?"
+        },
+        "options": {
+          "en": [
+            "Praise for Pharaoh's idols",
+            "Blessings",
+            "A command to return to slavery"
+          ],
+          "fil": [
+            "Papuri sa mga diyus-diyosan ni Faraon",
+            "Mga pagpapala",
+            "Utos na bumalik sa pagkaalipin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Deuteronomy 33 presents Moses' blessings for Israel's tribes.",
+          "fil": "Inilahad sa Deuteronomio 33 ang mga pagpapala ni Moises sa mga lipi ng Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility is emphasized in the blessing of Levi?",
+          "fil": "Anong pananagutan ang binigyang-diin sa pagpapala sa Levi?"
+        },
+        "options": {
+          "en": [
+            "Teaching God's law and offering sacrifices",
+            "Building idols for Moab",
+            "Ruling Egypt"
+          ],
+          "fil": [
+            "Pagtuturo ng kautusan ng Diyos at paghahandog",
+            "Paggawa ng diyus-diyosan para sa Moab",
+            "Paghahari sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Levi's blessing highlights teaching and priestly service (Deuteronomy 33).",
+          "fil": "Binigyang-diin ng pagpapala sa Levi ang pagtuturo at paglilingkod bilang mga pari (Deuteronomio 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is emphasized in the blessing of Joseph's land?",
+          "fil": "Ano ang binigyang-diin sa pagpapala sa lupain ni Jose?"
+        },
+        "options": {
+          "en": [
+            "Rich fruitfulness and God's favor",
+            "Permanent barrenness",
+            "Ownership by Pharaoh"
+          ],
+          "fil": [
+            "Masaganang bunga at kagandahang-loob ng Diyos",
+            "Panghabambuhay na kawalan ng bunga",
+            "Pagmamay-ari ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph's blessing pictures a land richly supplied with good gifts (Deuteronomy 33).",
+          "fil": "Inilarawan ng pagpapala kay Jose ang lupaing sagana sa mabubuting kaloob (Deuteronomio 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "Where does Moses go to view the land before his death?",
+          "fil": "Saan pumunta si Moises upang tanawin ang lupain bago siya mamatay?"
+        },
+        "options": {
+          "en": [
+            "Mount Sinai in the wilderness",
+            "Mount Nebo in Moab",
+            "Mount Carmel by the sea"
+          ],
+          "fil": [
+            "Bundok Sinai sa ilang",
+            "Bundok Nebo sa Moab",
+            "Bundok Carmel sa tabi ng dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses climbs Mount Nebo, where God shows him the land (Deuteronomy 34).",
+          "fil": "Umakyat si Moises sa Bundok Nebo kung saan ipinakita sa kanya ng Diyos ang lupain (Deuteronomio 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God allow Moses to see but not enter?",
+          "fil": "Ano ang ipinakita ng Diyos kay Moises ngunit hindi niya pinasok?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's new palace",
+            "The land promised to the ancestors",
+            "The city of Babylon"
+          ],
+          "fil": [
+            "Ang bagong palasyo ni Faraon",
+            "Ang lupaing ipinangako sa mga ninuno",
+            "Ang lungsod ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God shows Moses the promised land before his death outside it (Deuteronomy 34).",
+          "fil": "Ipinakita ng Diyos kay Moises ang lupang pangako bago siya mamatay sa labas nito (Deuteronomio 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter say about the location of Moses' grave?",
+          "fil": "Ano ang sinabi ng kabanata tungkol sa lugar ng libingan ni Moises?"
+        },
+        "options": {
+          "en": [
+            "It is in the middle of Jerusalem's temple",
+            "Its exact location is not known",
+            "It is inside Pharaoh's palace"
+          ],
+          "fil": [
+            "Nasa gitna ito ng templo ng Jerusalem",
+            "Hindi alam ang tiyak na kinaroroonan nito",
+            "Nasa loob ito ng palasyo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The account says no one knows Moses' burial place (Deuteronomy 34).",
+          "fil": "Sinasabi ng salaysay na walang nakaaalam sa libingan ni Moises (Deuteronomio 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is ready to lead Israel after Moses?",
+          "fil": "Sino ang handang mamuno sa Israel pagkatapos ni Moises?"
+        },
+        "options": {
+          "en": [
+            "Balak",
+            "Balaam",
+            "Joshua"
+          ],
+          "fil": [
+            "Si Balac",
+            "Si Balaam",
+            "Si Josue"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua is filled with wisdom and Israel listens to him after Moses' death (Deuteronomy 34).",
+          "fil": "Napuspos ng karunungan si Josue at nakinig sa kanya ang Israel matapos mamatay si Moises (Deuteronomio 34)."
+        }
+      }
+    ]
+  }
+}
