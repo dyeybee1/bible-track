@@ -1,0 +1,998 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What response does God request at the start of Zechariah's message?",
+          "fil": "Anong tugon ang hinihingi ng Diyos sa simula ng mensahe ni Zacarias?"
+        },
+        "options": {
+          "en": [
+            "Build more idols than their ancestors",
+            "Return to him instead of repeating the ancestors' disobedience",
+            "Stop listening to every prophet"
+          ],
+          "fil": [
+            "Gumawa ng mas maraming diyus-diyosan kaysa sa kanilang mga ninuno",
+            "Bumalik sa kanya sa halip na ulitin ang pagsuway ng mga ninuno",
+            "Tumigil sa pakikinig sa lahat ng propeta"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening message calls a new generation to repentance (Zechariah 1).",
+          "fil": "Tinawag ng pambungad na mensahe ang bagong salinlahi sa pagsisisi (Zacarias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What have the horsemen in the night vision been doing?",
+          "fil": "Ano ang ginagawa ng mga mangangabayo sa pangitain sa gabi?"
+        },
+        "options": {
+          "en": [
+            "Patrolling the earth",
+            "Carrying Jonah to Nineveh",
+            "Building Pharaoh's tomb"
+          ],
+          "fil": [
+            "Paglilibot sa daigdig",
+            "Pagdadala kay Jonas sa Nineve",
+            "Paggawa ng libingan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The riders report on the earth after going out at the Lord's command (Zechariah 1).",
+          "fil": "Nag-ulat ang mga mangangabayo tungkol sa daigdig matapos lumabas ayon sa utos ng Panginoon (Zacarias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise concerning his house in Jerusalem?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa kanyang bahay sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "It will be rebuilt as he returns in mercy",
+            "It will be replaced by a temple for Baal",
+            "It will never be remembered again"
+          ],
+          "fil": [
+            "Muli itong itatayo sa kanyang pagbabalik nang may awa",
+            "Papalitan ito ng templo para kay Baal",
+            "Hindi na ito kailanman aalalahanin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision brings comfort and hope for Jerusalem's restoration (Zechariah 1).",
+          "fil": "Nagdala ang pangitain ng aliw at pag-asa para sa pagpapanumbalik ng Jerusalem (Zacarias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What is the man with a measuring line going to measure?",
+          "fil": "Ano ang susukatin ng lalaking may panukat na pisi?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem",
+            "Noah's ark",
+            "The height of heaven"
+          ],
+          "fil": [
+            "Ang Jerusalem",
+            "Ang arka ni Noe",
+            "Ang taas ng langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The measuring vision concerns the future of Jerusalem (Zechariah 2).",
+          "fil": "Tungkol sa kinabukasan ng Jerusalem ang pangitain ng pagsukat (Zacarias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God promise to protect the city pictured without walls?",
+          "fil": "Paano ipinangako ng Diyos na iingatan ang lunsod na inilarawang walang pader?"
+        },
+        "options": {
+          "en": [
+            "He will lend it Baal's throne",
+            "He will hide it under the sea",
+            "He will be like a wall of fire around it"
+          ],
+          "fil": [
+            "Ipahihiram niya rito ang trono ni Baal",
+            "Itatago niya ito sa ilalim ng dagat",
+            "Magiging tulad siya ng pader na apoy sa paligid nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's own presence provides protection and glory (Zechariah 2).",
+          "fil": "Nagbibigay ng proteksiyon at kaluwalhatian ang mismong presensya ng Diyos (Zacarias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who will join the Lord's people in the promised future?",
+          "fil": "Sino ang sasama sa bayan ng Panginoon sa ipinangakong hinaharap?"
+        },
+        "options": {
+          "en": [
+            "No one from outside Jerusalem",
+            "Many nations",
+            "Only the armies that worship idols"
+          ],
+          "fil": [
+            "Walang sinuman mula sa labas ng Jerusalem",
+            "Maraming bansa",
+            "Ang mga hukbo lamang na sumasamba sa diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise extends the joy of God's presence to many peoples (Zechariah 2).",
+          "fil": "Pinaabot ng pangako ang galak ng presensya ng Diyos sa maraming bayan (Zacarias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who stands before the Lord's angel wearing dirty garments?",
+          "fil": "Sino ang nakatayo sa harap ng anghel ng Panginoon na may maruming kasuotan?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh king of Egypt",
+            "Jonah the sailor",
+            "Joshua the high priest"
+          ],
+          "fil": [
+            "Si Faraon na hari ng Egipto",
+            "Si Jonas na mandaragat",
+            "Si Josue na pinakapunong pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision places the high priest before God for cleansing (Zechariah 3).",
+          "fil": "Iniharap ng pangitain ang pinakapunong pari sa Diyos para sa paglilinis (Zacarias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Satan's accusation against Joshua?",
+          "fil": "Ano ang nangyari sa paratang ni Satanas laban kay Josue?"
+        },
+        "options": {
+          "en": [
+            "Joshua is ordered to worship Satan",
+            "The accuser is rebuked",
+            "The angel asks Satan to rule Jerusalem"
+          ],
+          "fil": [
+            "Inutusang sambahin ni Josue si Satanas",
+            "Sinaway ang tagapagparatang",
+            "Hiniling ng anghel na pamahalaan ni Satanas ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's choice of Jerusalem stands against the accusation (Zechariah 3).",
+          "fil": "Tumindig laban sa paratang ang pagpili ng Diyos sa Jerusalem (Zacarias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does replacing Joshua's dirty clothes with clean garments express?",
+          "fil": "Ano ang ipinahahayag ng pagpapalit ng maruming damit ni Josue ng malinis na kasuotan?"
+        },
+        "options": {
+          "en": [
+            "A command to abandon God's house",
+            "Removal of guilt and restoration to service",
+            "Permission to continue every injustice"
+          ],
+          "fil": [
+            "Utos na iwan ang bahay ng Diyos",
+            "Pag-aalis ng pagkakasala at pagbabalik sa paglilingkod",
+            "Pahintulot na ipagpatuloy ang lahat ng kawalang-katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The changed clothing makes God's cleansing visible (Zechariah 3).",
+          "fil": "Ginawang nakikita ng pinalitang kasuotan ang paglilinis ng Diyos (Zacarias 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What main object does Zechariah see in this vision?",
+          "fil": "Anong pangunahing bagay ang nakita ni Zacarias sa pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "A throne made of ice",
+            "A ship filled with lions",
+            "A golden lampstand"
+          ],
+          "fil": [
+            "Isang tronong yari sa yelo",
+            "Isang barkong puno ng leon",
+            "Isang gintong patungan ng ilawan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The lampstand stands at the center of the vision (Zechariah 4).",
+          "fil": "Nasa gitna ng pangitain ang patungan ng ilawan (Zacarias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What trees stand beside the lampstand?",
+          "fil": "Anong mga puno ang nasa tabi ng patungan ng ilawan?"
+        },
+        "options": {
+          "en": [
+            "Palm trees only",
+            "Apple trees only",
+            "Olive trees"
+          ],
+          "fil": [
+            "Mga puno lamang ng palma",
+            "Mga puno lamang ng mansanas",
+            "Mga puno ng olibo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The olive trees are part of the vision's supply of oil (Zechariah 4).",
+          "fil": "Bahagi ng suplay ng langis sa pangitain ang mga puno ng olibo (Zacarias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will enable Zerubbabel's work to succeed?",
+          "fil": "Ano ang magpapagtagumpay sa gawain ni Zerubabel?"
+        },
+        "options": {
+          "en": [
+            "The favor of every idol",
+            "A promise never to begin building",
+            "God's Spirit rather than human force alone"
+          ],
+          "fil": [
+            "Ang pagpanig ng lahat ng diyus-diyosan",
+            "Pangakong huwag simulan ang pagtatayo kailanman",
+            "Ang Espiritu ng Diyos sa halip na lakas lamang ng tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's Spirit sustains the rebuilding work despite obstacles (Zechariah 4).",
+          "fil": "Sinusuportahan ng Espiritu ng Diyos ang muling pagtatayo sa kabila ng mga hadlang (Zacarias 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What unusual object flies in the first vision of this chapter?",
+          "fil": "Anong di-karaniwang bagay ang lumilipad sa unang pangitain ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "A scroll",
+            "A royal palace"
+          ],
+          "fil": [
+            "Isang gintong guya",
+            "Isang balumbon",
+            "Isang palasyo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The flying scroll carries a message of judgment (Zechariah 5).",
+          "fil": "Dala ng lumilipad na balumbon ang mensahe ng hatol (Zacarias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrongdoing does the flying scroll's warning address?",
+          "fil": "Anong kasamaan ang tinutukoy ng babala ng lumilipad na balumbon?"
+        },
+        "options": {
+          "en": [
+            "Caring for widows",
+            "Speaking honestly to neighbors",
+            "Stealing and swearing falsely"
+          ],
+          "fil": [
+            "Pag-aalaga sa mga biyuda",
+            "Pagsasalita nang tapat sa kapwa",
+            "Pagnanakaw at panunumpa nang may kasinungalingan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning confronts violations that damage community life (Zechariah 5).",
+          "fil": "Hinarap ng babala ang mga paglabag na sumisira sa buhay ng pamayanan (Zacarias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the woman inside the basket represent in the next vision?",
+          "fil": "Ano ang kinakatawan ng babaeng nasa loob ng basket sa sumunod na pangitain?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem's faithful prayer",
+            "God's wisdom",
+            "Wickedness"
+          ],
+          "fil": [
+            "Ang tapat na panalangin ng Jerusalem",
+            "Ang karunungan ng Diyos",
+            "Kasamaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The angel identifies the figure as wickedness being removed (Zechariah 5).",
+          "fil": "Tinukoy ng anghel ang larawan bilang kasamaang inaalis (Zacarias 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What comes out between the mountains in the opening vision?",
+          "fil": "Ano ang lumabas sa pagitan ng mga bundok sa pambungad na pangitain?"
+        },
+        "options": {
+          "en": [
+            "Baskets of bread",
+            "Fishing boats",
+            "Horse-drawn chariots"
+          ],
+          "fil": [
+            "Mga basket ng tinapay",
+            "Mga bangkang pangisda",
+            "Mga karwaheng hila ng kabayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The final night vision presents chariots sent out under God's authority (Zechariah 6).",
+          "fil": "Iniharap ng huling pangitain sa gabi ang mga karwaheng isinugo sa ilalim ng kapangyarihan ng Diyos (Zacarias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes the mountains in this vision unusual?",
+          "fil": "Ano ang di-karaniwan sa mga bundok sa pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "They are made of wool",
+            "They are pictured as bronze",
+            "They are floating baskets"
+          ],
+          "fil": [
+            "Yari sila sa lana",
+            "Inilarawan silang tanso",
+            "Mga lumulutang silang basket"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The bronze mountains form the striking setting for the departing chariots (Zechariah 6).",
+          "fil": "Naging kapansin-pansing tagpuan ng umaalis na mga karwahe ang mga bundok na tanso (Zacarias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the chariots sent out to do?",
+          "fil": "Ano ang ipinagawa sa mga karwahe?"
+        },
+        "options": {
+          "en": [
+            "Go through the earth at the Lord's command",
+            "Carry Israel's idols into heaven",
+            "Hide the temple from God"
+          ],
+          "fil": [
+            "Lumibot sa daigdig ayon sa utos ng Panginoon",
+            "Dalhin ang mga diyus-diyosan ng Israel sa langit",
+            "Itago sa Diyos ang Templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision shows heavenly agents acting throughout the earth (Zechariah 6).",
+          "fil": "Ipinakita ng pangitain ang mga sugong makalangit na kumikilos sa buong daigdig (Zacarias 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What does God question about the people's long practice of fasting?",
+          "fil": "Ano ang itinanong ng Diyos tungkol sa matagal na pag-aayuno ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Whether they were truly doing it for him",
+            "Whether they could buy forgiveness with food",
+            "Whether they had enough idols to watch them"
+          ],
+          "fil": [
+            "Kung talagang ginagawa nila ito para sa kanya",
+            "Kung mabibili nila ng pagkain ang kapatawaran",
+            "Kung sapat ang mga diyus-diyosang nanonood sa kanila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God challenges the self-centered motives behind religious observance (Zechariah 7).",
+          "fil": "Hinamon ng Diyos ang makasariling layunin sa likod ng gawaing panrelihiyon (Zacarias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What conduct does God require toward vulnerable neighbors?",
+          "fil": "Anong asal ang hinihingi ng Diyos sa mahihinang kapwa?"
+        },
+        "options": {
+          "en": [
+            "Justice and compassion without oppression",
+            "Greater taxes on widows and orphans",
+            "Only polite words while taking their homes"
+          ],
+          "fil": [
+            "Katarungan at habag na walang pang-aapi",
+            "Mas malaking buwis sa mga biyuda at ulila",
+            "Magagalang na salita lamang habang kinukuha ang kanilang tahanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The message names care for the widow, orphan, foreigner, and poor (Zechariah 7).",
+          "fil": "Pinangalanan ng mensahe ang pagkalinga sa biyuda, ulila, dayuhan, at mahirap (Zacarias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the ancestors respond to the earlier prophets' instruction?",
+          "fil": "Paano tumugon ang mga ninuno sa turo ng mga naunang propeta?"
+        },
+        "options": {
+          "en": [
+            "They obeyed every warning immediately",
+            "They hardened their hearts and refused to listen",
+            "They ended every injustice in the land"
+          ],
+          "fil": [
+            "Agad nilang sinunod ang bawat babala",
+            "Pinatigas nila ang kanilang puso at tumangging makinig",
+            "Winakasan nila ang lahat ng kawalang-katarungan sa lupain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The remembered refusal explains the scattering and desolation (Zechariah 7).",
+          "fil": "Ipinaliwanag ng inalaalang pagtanggi ang pagkakawatak-watak at pagkatiwangwang (Zacarias 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does God promise concerning his presence in Jerusalem?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa kanyang presensya sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "He will give his place to Baal",
+            "He will abandon every faithful person forever",
+            "He will return and dwell among his people"
+          ],
+          "fil": [
+            "Ibibigay niya ang kanyang lugar kay Baal",
+            "Iiwan niya ang bawat tapat na tao magpakailanman",
+            "Babalik siya at mananahan sa kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The restoration begins with God's renewed presence in Zion (Zechariah 8).",
+          "fil": "Nagsimula ang pagpapanumbalik sa panibagong presensya ng Diyos sa Sion (Zacarias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What scene in the streets pictures the city's renewed safety?",
+          "fil": "Anong tagpo sa lansangan ang naglalarawan ng panibagong katiwasayan ng lunsod?"
+        },
+        "options": {
+          "en": [
+            "Elderly people sitting and children playing",
+            "Soldiers driving every family away",
+            "Only abandoned houses without people"
+          ],
+          "fil": [
+            "Mga matatandang nakaupo at mga batang naglalaro",
+            "Mga sundalong nagpapalayas sa bawat pamilya",
+            "Mga bahay lamang na iniwang walang tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Everyday life across generations becomes a sign of peace (Zechariah 8).",
+          "fil": "Naging tanda ng kapayapaan ang araw-araw na buhay ng iba't ibang salinlahi (Zacarias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why will people from many nations seek out God's people?",
+          "fil": "Bakit hahanapin ng mga tao mula sa maraming bansa ang bayan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They have heard that God is with them",
+            "They want to learn how to build idols",
+            "They believe Jerusalem has defeated God"
+          ],
+          "fil": [
+            "Narinig nilang kasama nila ang Diyos",
+            "Gusto nilang matutong gumawa ng mga diyus-diyosan",
+            "Naniniwala silang nadaig ng Jerusalem ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promise pictures the nations drawn to the Lord's presence (Zechariah 8).",
+          "fil": "Inilarawan ng pangako ang mga bansang lumalapit sa presensya ng Panginoon (Zacarias 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How does the promised king enter the city?",
+          "fil": "Paano papasok sa lunsod ang ipinangakong hari?"
+        },
+        "options": {
+          "en": [
+            "Humbly, riding a donkey",
+            "On a flying golden throne",
+            "Hidden inside a warship"
+          ],
+          "fil": [
+            "Nang mapagpakumbaba, sakay ng asno",
+            "Sa lumilipad na gintong trono",
+            "Nakatago sa loob ng barkong pandigma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king's humble arrival forms the chapter's memorable promise (Zechariah 9).",
+          "fil": "Naging kapansin-pansing pangako ng kabanata ang mapagpakumbabang pagdating ng hari (Zacarias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will this king announce to the nations?",
+          "fil": "Ano ang ipahahayag ng haring ito sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "Peace",
+            "A command to worship weapons",
+            "The permanent victory of every oppressor"
+          ],
+          "fil": [
+            "Kapayapaan",
+            "Utos na sambahin ang mga sandata",
+            "Ang permanenteng tagumpay ng bawat mang-aapi"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king's rule is described as reaching beyond one nation with peace (Zechariah 9).",
+          "fil": "Inilarawan ang pamamahala ng hari na umaabot sa labas ng iisang bansa nang may kapayapaan (Zacarias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to instruments of war in this promise?",
+          "fil": "Ano ang mangyayari sa mga kasangkapang pandigma sa pangakong ito?"
+        },
+        "options": {
+          "en": [
+            "They are placed above God's throne",
+            "Every family is ordered to worship them",
+            "Chariots and battle bows are removed"
+          ],
+          "fil": [
+            "Ilalagay ang mga ito sa ibabaw ng trono ng Diyos",
+            "Inutusang sambahin ang mga ito ng bawat pamilya",
+            "Aalisin ang mga karwahe at panang pandigma"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The removal of weapons accompanies the announcement of peace (Zechariah 9).",
+          "fil": "Kasama ng pagpapahayag ng kapayapaan ang pag-aalis ng mga sandata (Zacarias 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Whom should the people ask for the rain their fields need?",
+          "fil": "Kanino dapat humingi ang bayan ng ulang kailangan ng kanilang mga bukid?"
+        },
+        "options": {
+          "en": [
+            "Carved household idols",
+            "The king of Rome",
+            "The Lord"
+          ],
+          "fil": [
+            "Sa mga inukit na diyus-diyosan sa bahay",
+            "Sa hari ng Roma",
+            "Sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening call directs dependence toward the giver of rain (Zechariah 10).",
+          "fil": "Itinuon ng pambungad na panawagan ang pag-asa sa nagbibigay ng ulan (Zacarias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are the people pictured as sheep without a shepherd?",
+          "fil": "Bakit inilarawan ang bayan na mga tupang walang pastol?"
+        },
+        "options": {
+          "en": [
+            "Deceptive guidance has left them wandering",
+            "God has asked them never to seek him",
+            "They have followed God's instruction perfectly"
+          ],
+          "fil": [
+            "Pinabayaan silang gumala ng mapanlinlang na paggabay",
+            "Hiniling ng Diyos na huwag nila siyang hanapin kailanman",
+            "Ganap nilang sinunod ang turo ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "False visions and empty comfort have failed to guide the people (Zechariah 10).",
+          "fil": "Nabigo ang huwad na pangitain at walang saysay na aliw na gabayan ang bayan (Zacarias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise to do for the scattered people?",
+          "fil": "Ano ang ipinangako ng Diyos na gagawin para sa nagkalat na bayan?"
+        },
+        "options": {
+          "en": [
+            "Put them under the rule of idols",
+            "Leave them without hope forever",
+            "Gather them, bring them home, and strengthen them"
+          ],
+          "fil": [
+            "Ilagay sila sa pamamahala ng mga diyus-diyosan",
+            "Iwan silang walang pag-asa magpakailanman",
+            "Tipunin sila, iuwi, at palakasin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's compassion answers the failure of the shepherds (Zechariah 10).",
+          "fil": "Tinugunan ng habag ng Diyos ang pagkabigo ng mga pastol (Zacarias 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What condition is the flock in when the prophet is told to shepherd it?",
+          "fil": "Ano ang kalagayan ng kawan nang sabihang pastulan ito ng propeta?"
+        },
+        "options": {
+          "en": [
+            "It has no need of care",
+            "It is destined for slaughter and exploited by its owners",
+            "It rules safely over every nation"
+          ],
+          "fil": [
+            "Wala itong pangangailangan ng pag-aalaga",
+            "Nakatakda itong katayin at pinagsasamantalahan ng mga may-ari",
+            "Ligtas itong namamahala sa lahat ng bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The shepherd sign begins with a flock suffering under cruel leadership (Zechariah 11).",
+          "fil": "Nagsimula ang tanda ng pastol sa kawang nagdurusa sa ilalim ng malupit na pamumuno (Zacarias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does breaking the staff connected with unity signify?",
+          "fil": "Ano ang ipinahihiwatig ng pagputol sa tungkod na kaugnay ng pagkakaisa?"
+        },
+        "options": {
+          "en": [
+            "The creation of heaven and earth",
+            "The marriage of Hosea and Gomer",
+            "The breaking of brotherhood between Judah and Israel"
+          ],
+          "fil": [
+            "Ang paglikha ng langit at lupa",
+            "Ang pag-aasawa nina Oseas at Gomer",
+            "Ang pagkasira ng pagkakapatiran ng Juda at Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The broken staff makes the loss of unity visible (Zechariah 11).",
+          "fil": "Ginawang nakikita ng putol na tungkod ang pagkawala ng pagkakaisa (Zacarias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is wrong with the foolish shepherd described near the end?",
+          "fil": "Ano ang mali sa hangal na pastol na inilarawan malapit sa wakas?"
+        },
+        "options": {
+          "en": [
+            "He neglects the vulnerable sheep instead of caring for them",
+            "He searches patiently for every lost sheep",
+            "He heals the injured and feeds the weak"
+          ],
+          "fil": [
+            "Pinababayaan niya ang mahihinang tupa sa halip na alagaan",
+            "Matiyaga niyang hinahanap ang bawat nawawalang tupa",
+            "Pinagagaling niya ang nasugatan at pinakakain ang mahina"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning condemns shepherds who abandon and consume the flock (Zechariah 11).",
+          "fil": "Hinatulan ng babala ang mga pastol na nagpapabaya at lumalamon sa kawan (Zacarias 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What does Jerusalem become for the nations that try to lift it?",
+          "fil": "Ano ang katulad ng Jerusalem para sa mga bansang nagtatangkang buhatin ito?"
+        },
+        "options": {
+          "en": [
+            "A harmless toy with no resistance",
+            "A loaf of bread that disappears",
+            "A heavy stone that injures those who lift it"
+          ],
+          "fil": [
+            "Laruang walang anumang laban",
+            "Tinapay na naglalaho",
+            "Mabigat na batong pumipinsala sa mga nagbubuhat nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The heavy-stone image warns attackers that God will defend Jerusalem (Zechariah 12).",
+          "fil": "Nagbabala sa mga sumasalakay ang larawan ng mabigat na bato na ipagtatanggol ng Diyos ang Jerusalem (Zacarias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God pour out on David's house and Jerusalem's inhabitants?",
+          "fil": "Ano ang ibinuhos ng Diyos sa sambahayan ni David at mga naninirahan sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "A desire to worship more idols",
+            "Permission to oppress the weak",
+            "A spirit of grace and prayer"
+          ],
+          "fil": [
+            "Hangaring sumamba sa mas maraming diyus-diyosan",
+            "Pahintulot na apihin ang mahihina",
+            "Espiritu ng biyaya at panalangin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise turns the people toward God in prayer (Zechariah 12).",
+          "fil": "Ibinaling ng pangako ang bayan sa Diyos sa panalangin (Zacarias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the families respond when they look on the pierced one?",
+          "fil": "Paano tumugon ang mga pamilya nang tumingin sila sa sinaksak?"
+        },
+        "options": {
+          "en": [
+            "They celebrate without grief",
+            "They build a statue of the king of Egypt",
+            "They mourn deeply"
+          ],
+          "fil": [
+            "Nagdiwang silang walang dalamhati",
+            "Gumawa sila ng rebulto ng hari ng Egipto",
+            "Labis silang nagluksa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The mourning reaches the families throughout the land (Zechariah 12).",
+          "fil": "Umabot sa mga pamilya sa buong lupain ang pagluluksa (Zacarias 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What is the opened fountain meant to cleanse?",
+          "fil": "Ano ang lilinisin ng binuksang bukal?"
+        },
+        "options": {
+          "en": [
+            "Weapons for an attack on heaven",
+            "Gold for a new idol",
+            "Sin and uncleanness"
+          ],
+          "fil": [
+            "Mga sandata para sa pagsalakay sa langit",
+            "Ginto para sa bagong diyus-diyosan",
+            "Kasalanan at karumihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The fountain image offers cleansing for David's house and Jerusalem (Zechariah 13).",
+          "fil": "Nag-alok ang larawan ng bukal ng paglilinis para sa sambahayan ni David at Jerusalem (Zacarias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the sheep when the shepherd is struck?",
+          "fil": "Ano ang nangyari sa mga tupa nang saktan ang pastol?"
+        },
+        "options": {
+          "en": [
+            "They are scattered",
+            "They build a palace",
+            "They become lions"
+          ],
+          "fil": [
+            "Nagkalat sila",
+            "Gumawa sila ng palasyo",
+            "Naging leon sila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The shepherd image portrays the flock's vulnerability when its leader is struck (Zechariah 13).",
+          "fil": "Inilarawan ng larawan ng pastol ang kahinaan ng kawan kapag sinaktan ang pinuno nito (Zacarias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does refining the surviving people like silver and gold picture?",
+          "fil": "Ano ang inilalarawan ng pagdadalisay sa mga natira na tulad ng pilak at ginto?"
+        },
+        "options": {
+          "en": [
+            "Turning them into coins",
+            "Purification and renewed relationship with God",
+            "Approval of every false prophet"
+          ],
+          "fil": [
+            "Paggawa sa kanila bilang mga salapi",
+            "Paglilinis at panibagong ugnayan sa Diyos",
+            "Pagsang-ayon sa bawat bulaang propeta"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The refined people call on God and are acknowledged as his own (Zechariah 13).",
+          "fil": "Tumawag sa Diyos ang dinalisay na bayan at kinilala silang kanya (Zacarias 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What flows out from Jerusalem in the vision?",
+          "fil": "Ano ang umaagos mula sa Jerusalem sa pangitain?"
+        },
+        "options": {
+          "en": [
+            "A river of coins for idols",
+            "Life-giving water",
+            "Smoke that replaces every spring"
+          ],
+          "fil": [
+            "Ilog ng mga salapi para sa mga diyus-diyosan",
+            "Tubig na nagbibigay-buhay",
+            "Usok na pumapalit sa bawat bukal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The flowing water is part of the picture of Jerusalem's transformation (Zechariah 14).",
+          "fil": "Bahagi ng larawan ng pagbabago ng Jerusalem ang umaagos na tubig (Zacarias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How far does the Lord's kingship extend in the promise?",
+          "fil": "Gaano kalawak ang paghahari ng Panginoon sa pangako?"
+        },
+        "options": {
+          "en": [
+            "Only over one abandoned house",
+            "Over the whole earth",
+            "Only over a single vineyard"
+          ],
+          "fil": [
+            "Sa iisang iniwang bahay lamang",
+            "Sa buong daigdig",
+            "Sa iisang ubasan lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision proclaims the Lord's universal kingship (Zechariah 14).",
+          "fil": "Ipinahayag ng pangitain ang paghahari ng Panginoon sa lahat (Zacarias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does holiness marked even on ordinary cooking pots suggest?",
+          "fil": "Ano ang ipinahiwatig ng kabanalang nakatatak maging sa karaniwang palayok?"
+        },
+        "options": {
+          "en": [
+            "Ordinary work is beyond God's concern",
+            "Everyday life is dedicated to the Lord",
+            "Only weapons may be used in worship"
+          ],
+          "fil": [
+            "Wala sa malasakit ng Diyos ang karaniwang gawain",
+            "Iniaalay sa Panginoon ang araw-araw na buhay",
+            "Sandata lamang ang maaaring gamitin sa pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing image extends devotion into common daily objects (Zechariah 14).",
+          "fil": "Pinaabot ng pangwakas na larawan ang debosyon sa karaniwang gamit sa araw-araw (Zacarias 14)."
+        }
+      }
+    ]
+  }
+}
