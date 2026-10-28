@@ -1,0 +1,75 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which nation is warned that its pride will bring it down?",
+          "fil": "Anong bansa ang binalaang ibabagsak ito ng pagmamataas nito?"
+        },
+        "options": {
+          "en": [
+            "Persia",
+            "Egypt",
+            "Edom"
+          ],
+          "fil": [
+            "Persia",
+            "Egipto",
+            "Edom"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Edom's lofty position cannot protect it from God's judgment (Obadiah 1).",
+          "fil": "Hindi maililigtas ng mataas na kinaroroonan ng Edom ang sarili mula sa hatol ng Diyos (Obadias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What did Edom do when Jerusalem suffered?",
+          "fil": "Ano ang ginawa ng Edom nang magdusa ang Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "It rejoiced and helped harm its neighbors",
+            "It sheltered every refugee",
+            "It rebuilt the city's walls"
+          ],
+          "fil": [
+            "Nagdiwang ito at tumulong sa pananakit sa mga kapitbahay nito",
+            "Kinupkop nito ang bawat takas",
+            "Muli nitong itinayo ang mga pader ng lunsod"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning condemns Edom's violence against the people of Jacob (Obadiah 1).",
+          "fil": "Kinondena ng babala ang karahasan ng Edom laban sa bayan ni Jacob (Obadias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope is pictured on Mount Zion?",
+          "fil": "Anong pag-asa ang inilarawan sa Bundok Sion?"
+        },
+        "options": {
+          "en": [
+            "The end of God's care for his people",
+            "The permanent victory of idols",
+            "Deliverance and the Lord's reign"
+          ],
+          "fil": [
+            "Ang wakas ng pag-aalaga ng Diyos sa kanyang bayan",
+            "Ang permanenteng tagumpay ng mga diyus-diyosan",
+            "Pagliligtas at paghahari ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing promise looks toward restoration under God's rule (Obadiah 1).",
+          "fil": "Itinuro ng pangwakas na pangako ang pagpapanumbalik sa ilalim ng paghahari ng Diyos (Obadias 1)."
+        }
+      }
+    ]
+  }
+}
