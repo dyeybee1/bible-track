@@ -1,0 +1,1984 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What task does God give Joshua after Moses' death?",
+          "fil": "Anong gawain ang ibinigay ng Diyos kay Josue matapos mamatay si Moises?"
+        },
+        "options": {
+          "en": [
+            "Return Israel to slavery in Egypt",
+            "Build a royal palace in Babylon",
+            "Lead Israel across the Jordan into the promised land"
+          ],
+          "fil": [
+            "Ibalik ang Israel sa pagkaalipin sa Egipto",
+            "Magtayo ng palasyo sa Babilonia",
+            "Akayin ang Israel patawid ng Jordan tungo sa lupang pangako"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua is commissioned to lead the people into their inheritance (Joshua 1).",
+          "fil": "Itinalaga si Josue na akayin ang bayan tungo sa kanilang mana (Josue 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must guide Joshua's conduct as leader?",
+          "fil": "Ano ang dapat gumabay sa asal ni Josue bilang pinuno?"
+        },
+        "options": {
+          "en": [
+            "A desire for personal wealth alone",
+            "Continual attention and obedience to God's law",
+            "The customs of foreign idols"
+          ],
+          "fil": [
+            "Pagnanais lamang ng pansariling kayamanan",
+            "Patuloy na pagninilay at pagsunod sa kautusan ng Diyos",
+            "Ang kaugalian ng mga dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God connects Joshua's leadership with faithful practice of the law (Joshua 1).",
+          "fil": "Iniugnay ng Diyos ang pamumuno ni Josue sa tapat na pagsasagawa ng kautusan (Josue 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What assurance supports the call for Joshua to be courageous?",
+          "fil": "Anong katiyakan ang sumusuporta sa tawag kay Josue na magpakatapang?"
+        },
+        "options": {
+          "en": [
+            "No enemy will ever exist",
+            "God will be with him as he was with Moses",
+            "Joshua already knows every future event"
+          ],
+          "fil": [
+            "Walang kaaway na iiral kailanman",
+            "Sasamahan siya ng Diyos tulad ng pagsama kay Moises",
+            "Alam na ni Josue ang bawat pangyayari sa hinaharap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's promised presence provides the foundation for courage (Joshua 1).",
+          "fil": "Nagbibigay ng batayan ng tapang ang ipinangakong presensya ng Diyos (Josue 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What duty do the eastern tribes agree to fulfill?",
+          "fil": "Anong tungkulin ang sinang-ayunang tuparin ng mga lipi sa silangan?"
+        },
+        "options": {
+          "en": [
+            "Help the other tribes obtain their land",
+            "Keep every soldier east of the Jordan",
+            "Give their land to Pharaoh"
+          ],
+          "fil": [
+            "Tulungan ang ibang lipi na makuha ang kanilang lupain",
+            "Panatilihin sa silangan ng Jordan ang bawat kawal",
+            "Ibigay kay Faraon ang kanilang lupain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The eastern tribes reaffirm their promise to fight beside their fellow Israelites (Joshua 1).",
+          "fil": "Muling pinagtibay ng mga lipi sa silangan ang pangakong lumaban kasama ng kapwa Israelita (Josue 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Who shelters Joshua's spies in Jericho?",
+          "fil": "Sino ang nagpatuloy sa mga espiya ni Josue sa Jerico?"
+        },
+        "options": {
+          "en": [
+            "Miriam",
+            "Deborah",
+            "Rahab"
+          ],
+          "fil": [
+            "Si Miriam",
+            "Si Debora",
+            "Si Rahab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Rahab receives and protects the spies in her house (Joshua 2).",
+          "fil": "Tinanggap at pinangalagaan ni Rahab ang mga espiya sa kanyang bahay (Josue 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Rahab hide the spies?",
+          "fil": "Saan itinago ni Rahab ang mga espiya?"
+        },
+        "options": {
+          "en": [
+            "Under flax on the roof",
+            "Inside the king's throne",
+            "In the ark of the covenant"
+          ],
+          "fil": [
+            "Sa ilalim ng mga lino sa bubong",
+            "Sa loob ng trono ng hari",
+            "Sa kaban ng tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Rahab conceals the men beneath stalks on her roof (Joshua 2).",
+          "fil": "Itinago ni Rahab ang mga lalaki sa ilalim ng mga tangkay sa kanyang bubong (Josue 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sign must Rahab display at her window?",
+          "fil": "Anong tanda ang dapat ilagay ni Rahab sa kanyang bintana?"
+        },
+        "options": {
+          "en": [
+            "A bronze snake",
+            "A royal crown",
+            "A scarlet cord"
+          ],
+          "fil": [
+            "Isang ahas na tanso",
+            "Isang korona ng hari",
+            "Isang pulang tali"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cord identifies the house to be spared during the city's capture (Joshua 2).",
+          "fil": "Tinutukoy ng tali ang bahay na ililigtas sa pagsakop sa lungsod (Josue 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must Rahab's family do to share the promised protection?",
+          "fil": "Ano ang dapat gawin ng pamilya ni Rahab upang makibahagi sa ipinangakong proteksiyon?"
+        },
+        "options": {
+          "en": [
+            "Hide in the king's palace",
+            "Leave for Egypt that night",
+            "Gather inside her house"
+          ],
+          "fil": [
+            "Magtago sa palasyo ng hari",
+            "Umalis patungong Egipto sa gabing iyon",
+            "Magtipon sa loob ng kanyang bahay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The spies require her family to remain within the marked house (Joshua 2).",
+          "fil": "Hiniling ng mga espiya na manatili ang kanyang pamilya sa loob ng bahay na may tanda (Josue 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What goes ahead of the people as they approach the Jordan?",
+          "fil": "Ano ang nauna sa bayan sa paglapit nila sa Jordan?"
+        },
+        "options": {
+          "en": [
+            "The ark carried by the priests",
+            "Pharaoh's chariots",
+            "An idol from Jericho"
+          ],
+          "fil": [
+            "Ang kaban na dala ng mga pari",
+            "Ang mga karwahe ni Faraon",
+            "Diyus-diyosan mula sa Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The priests carrying the covenant ark lead the way (Joshua 3).",
+          "fil": "Nanguna sa daan ang mga paring may dalang kaban ng tipan (Josue 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the priests' feet reach the river?",
+          "fil": "Ano ang nangyari nang umabot sa ilog ang mga paa ng mga pari?"
+        },
+        "options": {
+          "en": [
+            "The river turns to blood",
+            "The ark sinks and disappears",
+            "The flowing water is stopped so Israel can cross"
+          ],
+          "fil": [
+            "Naging dugo ang ilog",
+            "Lumubog at naglaho ang kaban",
+            "Napigil ang umaagos na tubig upang makatawid ang Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God stops the Jordan's flow as the priests enter the water (Joshua 3).",
+          "fil": "Pinigil ng Diyos ang agos ng Jordan nang pumasok sa tubig ang mga pari (Josue 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What seasonal condition makes the crossing especially striking?",
+          "fil": "Anong kalagayan sa panahong iyon ang lalong nagpatampok sa pagtawid?"
+        },
+        "options": {
+          "en": [
+            "The Jordan is overflowing its banks",
+            "The river has been dry for years",
+            "The river is frozen solid"
+          ],
+          "fil": [
+            "Umaapaw ang Jordan sa mga pampang",
+            "Ilang taon nang tuyo ang ilog",
+            "Lubusang nagyelo ang ilog"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The crossing occurs while the Jordan is in flood (Joshua 3).",
+          "fil": "Naganap ang pagtawid habang baha ang Jordan (Josue 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where do the priests stand while the people cross?",
+          "fil": "Saan tumayo ang mga pari habang tumatawid ang bayan?"
+        },
+        "options": {
+          "en": [
+            "In the mountains of Egypt",
+            "On dry ground in the riverbed",
+            "On the wall of Jericho"
+          ],
+          "fil": [
+            "Sa mga bundok ng Egipto",
+            "Sa tuyong lupa sa ilalim ng ilog",
+            "Sa pader ng Jerico"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ark bearers remain in the river until the people finish crossing (Joshua 3).",
+          "fil": "Nanatili sa ilog ang mga may dala ng kaban hanggang matapos tumawid ang bayan (Josue 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "From where do the representatives take stones for the memorial?",
+          "fil": "Saan kumuha ng mga bato ang mga kinatawan para sa alaala?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's palace",
+            "The Jordan where the priests stood",
+            "The ruins of Babel"
+          ],
+          "fil": [
+            "Sa palasyo ni Faraon",
+            "Sa Jordan kung saan tumayo ang mga pari",
+            "Sa mga guho ng Babel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The memorial stones come from the place of the miraculous crossing (Joshua 4).",
+          "fil": "Mula sa lugar ng mahimalang pagtawid ang mga batong pang-alaala (Josue 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should parents explain when children ask about the stones?",
+          "fil": "Ano ang dapat ipaliwanag ng mga magulang kapag nagtanong ang mga bata tungkol sa mga bato?"
+        },
+        "options": {
+          "en": [
+            "How God brought Israel across the Jordan on dry ground",
+            "How the people made an idol",
+            "How Pharaoh built Jericho"
+          ],
+          "fil": [
+            "Kung paano itinawid ng Diyos ang Israel sa Jordan sa tuyong lupa",
+            "Kung paano gumawa ng diyus-diyosan ang bayan",
+            "Kung paano itinayo ni Faraon ang Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The stones prompt later generations to remember God's help (Joshua 4).",
+          "fil": "Nag-uudyok ang mga bato sa mga susunod na henerasyon na alalahanin ang tulong ng Diyos (Josue 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the priests finally leave the riverbed?",
+          "fil": "Ano ang nangyari nang lumabas na ang mga pari mula sa ilalim ng ilog?"
+        },
+        "options": {
+          "en": [
+            "The river becomes a mountain",
+            "The stones turn into bread",
+            "The Jordan's waters return to their usual course"
+          ],
+          "fil": [
+            "Naging bundok ang ilog",
+            "Naging tinapay ang mga bato",
+            "Bumalik sa karaniwang agos ang tubig ng Jordan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The river resumes flowing after the ark bearers reach the bank (Joshua 4).",
+          "fil": "Muling umagos ang ilog matapos makarating sa pampang ang mga may dala ng kaban (Josue 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Israel camp after the crossing?",
+          "fil": "Saan nagkampo ang Israel matapos tumawid?"
+        },
+        "options": {
+          "en": [
+            "Gilgal",
+            "Babel",
+            "Nineveh"
+          ],
+          "fil": [
+            "Gilgal",
+            "Babel",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua sets up the memorial at the camp in Gilgal (Joshua 4).",
+          "fil": "Inilagay ni Josue ang alaala sa kampo sa Gilgal (Josue 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Why does the generation raised in the wilderness need circumcision?",
+          "fil": "Bakit kailangan ng pagtutuli ang henerasyong lumaki sa ilang?"
+        },
+        "options": {
+          "en": [
+            "They have never belonged to Israel",
+            "They had not been circumcised during the journey",
+            "They have all become Egyptian kings"
+          ],
+          "fil": [
+            "Hindi sila kailanman naging kabilang sa Israel",
+            "Hindi sila natuli sa panahon ng paglalakbay",
+            "Naging mga hari silang lahat ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The wilderness-born generation receives the covenant sign before advancing (Joshua 5).",
+          "fil": "Tinanggap ng henerasyong ipinanganak sa ilang ang tanda ng tipan bago sumulong (Josue 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who directs Joshua to carry out this renewal of the covenant sign?",
+          "fil": "Sino ang nag-utos kay Josue na isagawa ang pagpapanibagong ito ng tanda ng tipan?"
+        },
+        "options": {
+          "en": [
+            "The Lord",
+            "Pharaoh",
+            "The king of Jericho"
+          ],
+          "fil": [
+            "Ang Panginoon",
+            "Si Faraon",
+            "Ang hari ng Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua performs the circumcision at God's command (Joshua 5).",
+          "fil": "Isinagawa ni Josue ang pagtutuli ayon sa utos ng Diyos (Josue 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God say has been removed at Gilgal?",
+          "fil": "Ano ang sinabi ng Diyos na inalis sa Gilgal?"
+        },
+        "options": {
+          "en": [
+            "Every future responsibility",
+            "The need to trust him",
+            "The disgrace associated with Egypt"
+          ],
+          "fil": [
+            "Bawat pananagutan sa hinaharap",
+            "Ang pangangailangang magtiwala sa kanya",
+            "Ang kahihiyang kaugnay ng Egipto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Gilgal's name recalls God's removal of Egypt's disgrace from his people (Joshua 5).",
+          "fil": "Ipinaaalala ng pangalang Gilgal ang pag-aalis ng Diyos sa kahihiyan ng Egipto mula sa kanyang bayan (Josue 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What unusual approach does God command against Jericho?",
+          "fil": "Anong kakaibang paraan ang ipinag-utos ng Diyos laban sa Jerico?"
+        },
+        "options": {
+          "en": [
+            "March around the city with the ark and priests",
+            "Build a tower taller than heaven",
+            "Ask Pharaoh to conquer it"
+          ],
+          "fil": [
+            "Maglakad sa palibot ng lungsod kasama ang kaban at mga pari",
+            "Gumawa ng toreng mas mataas sa langit",
+            "Hilingin kay Faraon na sakupin ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel follows God's instructions for circling the city (Joshua 6).",
+          "fil": "Sinunod ng Israel ang mga tagubilin ng Diyos sa paglibot sa lungsod (Josue 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the trumpet signal and the people's shout come at the appointed time?",
+          "fil": "Ano ang nangyari nang tumunog ang trumpeta at sumigaw ang bayan sa takdang oras?"
+        },
+        "options": {
+          "en": [
+            "The ark becomes a palace",
+            "The city floats away",
+            "The city wall collapses"
+          ],
+          "fil": [
+            "Naging palasyo ang kaban",
+            "Lumutang palayo ang lungsod",
+            "Bumagsak ang pader ng lungsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The wall falls and Israel enters the city (Joshua 6).",
+          "fil": "Bumagsak ang pader at pumasok ang Israel sa lungsod (Josue 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is spared with her household because she protected the spies?",
+          "fil": "Sino ang iniligtas kasama ng kanyang sambahayan dahil pinangalagaan niya ang mga espiya?"
+        },
+        "options": {
+          "en": [
+            "Vashti",
+            "Delilah",
+            "Rahab"
+          ],
+          "fil": [
+            "Si Vasti",
+            "Si Delila",
+            "Si Rahab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua keeps the promise to rescue Rahab and her family (Joshua 6).",
+          "fil": "Tinupad ni Josue ang pangakong iligtas si Rahab at ang kanyang pamilya (Josue 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must happen to the city's precious metals?",
+          "fil": "Ano ang dapat gawin sa mahahalagang metal ng lungsod?"
+        },
+        "options": {
+          "en": [
+            "Send them to Pharaoh",
+            "Distribute them for private enrichment",
+            "Set them apart for the Lord's treasury"
+          ],
+          "fil": [
+            "Ipadala ang mga ito kay Faraon",
+            "Ipamahagi ang mga ito para sa pansariling pagpapayaman",
+            "Ilaan ang mga ito sa kabang-yaman ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The precious metals are reserved for God's treasury rather than personal plunder (Joshua 6).",
+          "fil": "Inilaan ang mahahalagang metal sa kabang-yaman ng Diyos sa halip na pansariling samsam (Josue 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "At which city does Israel suffer an unexpected defeat?",
+          "fil": "Sa anong lungsod nakaranas ang Israel ng di-inaasahang pagkatalo?"
+        },
+        "options": {
+          "en": [
+            "Ai",
+            "Jerusalem",
+            "Nineveh"
+          ],
+          "fil": [
+            "Ai",
+            "Jerusalem",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's first attack on Ai ends in defeat (Joshua 7).",
+          "fil": "Nauwi sa pagkatalo ang unang pagsalakay ng Israel sa Ai (Josue 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joshua respond to the defeat before the ark?",
+          "fil": "Paano tumugon si Josue sa pagkatalo sa harap ng kaban?"
+        },
+        "options": {
+          "en": [
+            "He gives the ark to Jericho",
+            "He tears his clothes and falls before the Lord",
+            "He holds a victory parade"
+          ],
+          "fil": [
+            "Ibinigay niya ang kaban sa Jerico",
+            "Pinunit niya ang damit at nagpatirapa sa Panginoon",
+            "Nagdaos siya ng parada ng tagumpay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua brings his distress before God with the elders (Joshua 7).",
+          "fil": "Dinala ni Josue ang kanyang dalamhati sa Diyos kasama ang mga pinuno (Josue 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who admits taking goods that had been devoted to destruction or to God?",
+          "fil": "Sino ang umaming kumuha ng mga bagay na inilaan sa paglipol o sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Caleb",
+            "Achan",
+            "Eleazar"
+          ],
+          "fil": [
+            "Si Caleb",
+            "Si Acan",
+            "Si Eleazar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Achan confesses that he took forbidden spoil from Jericho (Joshua 7).",
+          "fil": "Inamin ni Acan na kumuha siya ng ipinagbabawal na samsam mula sa Jerico (Josue 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is the stolen property found?",
+          "fil": "Saan natagpuan ang mga ninakaw na ari-arian?"
+        },
+        "options": {
+          "en": [
+            "Inside Pharaoh's throne",
+            "On the roof of Rahab's house",
+            "Buried inside Achan's tent"
+          ],
+          "fil": [
+            "Sa loob ng trono ni Faraon",
+            "Sa bubong ng bahay ni Rahab",
+            "Nakabaon sa loob ng tolda ni Acan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The messengers find the goods hidden beneath Achan's tent (Joshua 7).",
+          "fil": "Natagpuan ng mga sugo ang mga bagay na nakatago sa ilalim ng tolda ni Acan (Josue 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What military strategy does Joshua use in the successful attack on Ai?",
+          "fil": "Anong paraan ng pakikidigma ang ginamit ni Josue sa matagumpay na pagsalakay sa Ai?"
+        },
+        "options": {
+          "en": [
+            "A fleet sailing down the Nile",
+            "An ambush behind the city",
+            "A treaty making Ai ruler of Israel"
+          ],
+          "fil": [
+            "Mga barkong maglalayag sa Nilo",
+            "Pananambang sa likod ng lungsod",
+            "Kasunduang gagawing pinuno ng Israel ang Ai"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua stations an ambush to capture Ai (Joshua 8).",
+          "fil": "Naglagay si Josue ng mga mananambang upang makuha ang Ai (Josue 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are Ai's fighters drawn away from their city?",
+          "fil": "Paano inilayo sa lungsod ang mga mandirigma ng Ai?"
+        },
+        "options": {
+          "en": [
+            "Israel pretends to retreat",
+            "The ark flies over them",
+            "Pharaoh orders them to leave"
+          ],
+          "fil": [
+            "Nagkunwaring umatras ang Israel",
+            "Lumipad sa ibabaw nila ang kaban",
+            "Inutusan sila ni Faraon na umalis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The apparent retreat draws the defenders out and leaves the city exposed (Joshua 8).",
+          "fil": "Inilabas ng tila pag-atras ang mga tagapagtanggol at naiwan ang lungsod na walang bantay (Josue 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "On which mountain does Joshua build an altar after the victory?",
+          "fil": "Sa anong bundok nagtayo si Josue ng altar matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Mount Ararat",
+            "Mount Carmel",
+            "Mount Ebal"
+          ],
+          "fil": [
+            "Bundok Ararat",
+            "Bundok Carmel",
+            "Bundok Ebal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua builds the altar on Ebal as Moses had commanded (Joshua 8).",
+          "fil": "Nagtayo si Josue ng altar sa Ebal ayon sa utos ni Moises (Josue 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who hears the reading of the law at this gathering?",
+          "fil": "Sino ang nakinig sa pagbasa ng kautusan sa pagtitipong ito?"
+        },
+        "options": {
+          "en": [
+            "The whole assembly, including women, children, and foreigners",
+            "Only the kings of Canaan",
+            "Only Joshua's closest soldiers"
+          ],
+          "fil": [
+            "Ang buong kapulungan, pati mga babae, bata, at dayuhan",
+            "Mga hari lamang ng Canaan",
+            "Mga pinakamalapit na kawal lamang ni Josue"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua reads the law before the entire covenant community (Joshua 8).",
+          "fil": "Binasa ni Josue ang kautusan sa harap ng buong pamayanan ng tipan (Josue 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How do the Gibeonites make themselves appear to come from far away?",
+          "fil": "Paano nagkunwari ang mga Gibeonita na mula sila sa malayo?"
+        },
+        "options": {
+          "en": [
+            "They bring Pharaoh's crown",
+            "They arrive in golden chariots",
+            "They use worn supplies and dried-out food"
+          ],
+          "fil": [
+            "Dinala nila ang korona ni Faraon",
+            "Dumating sila sa mga gintong karwahe",
+            "Gumamit sila ng lumang kagamitan at tuyong pagkain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their travel-worn appearance supports a deceptive story about their origin (Joshua 9).",
+          "fil": "Sinuportahan ng tila pagod na anyo sa paglalakbay ang mapanlinlang na kuwento tungkol sa kanilang pinagmulan (Josue 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Israel's leaders fail to seek before making the agreement?",
+          "fil": "Ano ang hindi hiningi ng mga pinuno ng Israel bago makipagkasundo?"
+        },
+        "options": {
+          "en": [
+            "Permission from Egypt's priests",
+            "The Lord's counsel",
+            "A larger royal crown"
+          ],
+          "fil": [
+            "Pahintulot ng mga pari ng Egipto",
+            "Ang payo ng Panginoon",
+            "Mas malaking korona ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The leaders inspect the supplies but do not consult the Lord (Joshua 9).",
+          "fil": "Sinuri ng mga pinuno ang mga kagamitan ngunit hindi sumangguni sa Panginoon (Josue 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the leaders refuse to kill the Gibeonites after discovering the deception?",
+          "fil": "Bakit tumanggi ang mga pinuno na patayin ang mga Gibeonita matapos matuklasan ang pandaraya?"
+        },
+        "options": {
+          "en": [
+            "God has forbidden all future travel",
+            "The Gibeonites have become Israel's kings",
+            "They have sworn an oath to protect them"
+          ],
+          "fil": [
+            "Ipinagbawal ng Diyos ang lahat ng susunod na paglalakbay",
+            "Naging mga hari ng Israel ang mga Gibeonita",
+            "Nanumpa silang pangangalagaan ang mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The leaders honor the oath despite the deceptive circumstances (Joshua 9).",
+          "fil": "Tinupad ng mga pinuno ang sumpa sa kabila ng mapanlinlang na kalagayan (Josue 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What work is assigned to the Gibeonites?",
+          "fil": "Anong gawain ang ibinigay sa mga Gibeonita?"
+        },
+        "options": {
+          "en": [
+            "Cutting wood and carrying water",
+            "Making idols for Israel",
+            "Ruling the army of Egypt"
+          ],
+          "fil": [
+            "Pagsisibak ng kahoy at pagdadala ng tubig",
+            "Paggawa ng diyus-diyosan para sa Israel",
+            "Pamumuno sa hukbo ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They become servants providing wood and water for the community and altar (Joshua 9).",
+          "fil": "Naging mga lingkod silang naglalaan ng kahoy at tubig para sa pamayanan at altar (Josue 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why do the allied kings attack Gibeon?",
+          "fil": "Bakit sinalakay ng magkakamping hari ang Gibeon?"
+        },
+        "options": {
+          "en": [
+            "Gibeon has destroyed Egypt",
+            "Gibeon has stolen the ark from Moses",
+            "Gibeon has made peace with Israel"
+          ],
+          "fil": [
+            "Nilipol ng Gibeon ang Egipto",
+            "Ninakaw ng Gibeon ang kaban mula kay Moises",
+            "Nakipagpayapaan ang Gibeon sa Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Gibeon's agreement with Israel provokes the neighboring kings (Joshua 10).",
+          "fil": "Ikinagalit ng mga kalapit na hari ang kasunduan ng Gibeon sa Israel (Josue 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joshua respond to Gibeon's urgent plea for help?",
+          "fil": "Paano tumugon si Josue sa agarang paghingi ng tulong ng Gibeon?"
+        },
+        "options": {
+          "en": [
+            "He marches with the army to rescue them",
+            "He joins the kings attacking them",
+            "He returns to Egypt"
+          ],
+          "fil": [
+            "Lumakad siya kasama ang hukbo upang iligtas sila",
+            "Sumama siya sa mga haring sumasalakay sa kanila",
+            "Bumalik siya sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua comes to the aid of Israel's covenant partners (Joshua 10).",
+          "fil": "Dumating si Josue upang tulungan ang mga kasundo ng Israel (Josue 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What falls from the sky against the fleeing enemies?",
+          "fil": "Ano ang bumagsak mula sa langit laban sa mga tumatakas na kaaway?"
+        },
+        "options": {
+          "en": [
+            "Royal crowns",
+            "Large hailstones",
+            "Loaves of manna for the enemy"
+          ],
+          "fil": [
+            "Mga korona ng hari",
+            "Malalaking tipak ng granizo",
+            "Mga tinapay na manna para sa kaaway"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord strikes the fleeing forces with hail (Joshua 10).",
+          "fil": "Pinaulanan ng Panginoon ng granizo ang tumatakas na mga hukbo (Josue 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What extraordinary event gives Israel time to complete the victory?",
+          "fil": "Anong pambihirang pangyayari ang nagbigay ng panahon sa Israel upang matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Every enemy turns into a tree",
+            "The sun's setting is delayed at Joshua's request",
+            "The Jordan becomes an ocean"
+          ],
+          "fil": [
+            "Naging puno ang bawat kaaway",
+            "Naantala ang paglubog ng araw sa hiling ni Josue",
+            "Naging karagatan ang Jordan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God answers Joshua's appeal by prolonging the day (Joshua 10).",
+          "fil": "Sinagot ng Diyos ang pakiusap ni Josue sa pagpapahaba ng araw (Josue 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Which king of Hazor gathers the northern coalition?",
+          "fil": "Sinong hari ng Hazor ang nagtipon ng magkakampi sa hilaga?"
+        },
+        "options": {
+          "en": [
+            "Sihon",
+            "Jabin",
+            "Balak"
+          ],
+          "fil": [
+            "Si Sihon",
+            "Si Jabin",
+            "Si Balac"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jabin of Hazor calls neighboring kings together against Israel (Joshua 11).",
+          "fil": "Tinawag ni Jabin ng Hazor ang mga kalapit na hari laban sa Israel (Josue 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes the assembled enemy force appear especially strong?",
+          "fil": "Ano ang nagpapakitang lalong malakas ang nagkatipong hukbo ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "A complete lack of supplies",
+            "Many horses, chariots, and troops",
+            "Only a single unarmed traveler"
+          ],
+          "fil": [
+            "Ganap na kawalan ng panustos",
+            "Maraming kabayo, karwahe, at kawal",
+            "Nag-iisang manlalakbay na walang sandata"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The northern coalition gathers an imposing force with chariots (Joshua 11).",
+          "fil": "Nagtipon ang magkakampi sa hilaga ng nakatatakot na hukbong may mga karwahe (Josue 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which leading northern city does Joshua burn after its capture?",
+          "fil": "Anong pangunahing lungsod sa hilaga ang sinunog ni Josue matapos makuha?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem",
+            "Nineveh",
+            "Hazor"
+          ],
+          "fil": [
+            "Jerusalem",
+            "Nineve",
+            "Hazor"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hazor is burned after Joshua defeats its king and allies (Joshua 11).",
+          "fil": "Sinunog ang Hazor matapos talunin ni Josue ang hari nito at mga kakampi (Josue 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What condition follows the summarized conquests at the chapter's end?",
+          "fil": "Anong kalagayan ang sumunod sa mga tagumpay na ibinuod sa hulihan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "All Israel returns to Egypt",
+            "The covenant is abolished",
+            "The land rests from war"
+          ],
+          "fil": [
+            "Bumalik sa Egipto ang buong Israel",
+            "Pinawalang-bisa ang tipan",
+            "Nagpahinga ang lupain mula sa digmaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter closes with rest from warfare after the conquests (Joshua 11).",
+          "fil": "Nagtatapos ang kabanata sa pamamahinga mula sa digmaan matapos ang mga pananakop (Josue 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What is the main purpose of the chapter's list?",
+          "fil": "Ano ang pangunahing layunin ng talaan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Record the animals in Noah's ark",
+            "Summarize defeated kings and conquered territories",
+            "List the priests of Egypt"
+          ],
+          "fil": [
+            "Itala ang mga hayop sa arka ni Noe",
+            "Ibuod ang mga natalong hari at nasakop na lupain",
+            "Itala ang mga pari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua 12 summarizes the victories that preceded the land's distribution.",
+          "fil": "Ibinubuod ng Josue 12 ang mga tagumpay bago ipamahagi ang lupain."
+        }
+      },
+      {
+        "q": {
+          "en": "Who led the earlier victories east of the Jordan?",
+          "fil": "Sino ang namuno sa naunang mga tagumpay sa silangan ng Jordan?"
+        },
+        "options": {
+          "en": [
+            "Solomon",
+            "Moses",
+            "Saul"
+          ],
+          "fil": [
+            "Si Solomon",
+            "Si Moises",
+            "Si Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The eastern victories are attributed to Moses and the Israelites (Joshua 12).",
+          "fil": "Iniugnay ang mga tagumpay sa silangan kay Moises at sa mga Israelita (Josue 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who led the victories listed west of the Jordan?",
+          "fil": "Sino ang namuno sa mga tagumpay na nakatala sa kanluran ng Jordan?"
+        },
+        "options": {
+          "en": [
+            "Abimelech",
+            "Pharaoh",
+            "Joshua"
+          ],
+          "fil": [
+            "Si Abimelec",
+            "Si Faraon",
+            "Si Josue"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The western list recounts the kings defeated under Joshua (Joshua 12).",
+          "fil": "Isinalaysay ng talaan sa kanluran ang mga haring natalo sa pamumuno ni Josue (Josue 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does God tell the aging Joshua about the land?",
+          "fil": "Ano ang sinabi ng Diyos sa tumatandang si Josue tungkol sa lupain?"
+        },
+        "options": {
+          "en": [
+            "Israel must immediately return to Egypt",
+            "Every surrounding nation has vanished",
+            "Much territory still remains to be possessed"
+          ],
+          "fil": [
+            "Kailangang bumalik agad sa Egipto ang Israel",
+            "Naglaho na ang bawat nakapaligid na bansa",
+            "Marami pang lupaing dapat makuha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter distinguishes the victories already won from territory still remaining (Joshua 13).",
+          "fil": "Pinag-iba ng kabanata ang mga nakamit nang tagumpay at ang natitira pang lupain (Josue 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which side of the Jordan contains the earlier tribal grants reviewed here?",
+          "fil": "Saang panig ng Jordan naroon ang naunang mga mana ng lipi na inilahad dito?"
+        },
+        "options": {
+          "en": [
+            "The western side beyond the sea",
+            "The eastern side",
+            "The Nile valley"
+          ],
+          "fil": [
+            "Sa kanluran sa kabila ng dagat",
+            "Sa silangan",
+            "Sa libis ng Nilo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter reviews inheritances Moses assigned east of the Jordan (Joshua 13).",
+          "fil": "Inilahad ng kabanata ang mga manang itinalaga ni Moises sa silangan ng Jordan (Josue 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Levi not receive a territorial inheritance like the other tribes?",
+          "fil": "Bakit hindi tumanggap ang Levi ng manang lupain na tulad ng ibang lipi?"
+        },
+        "options": {
+          "en": [
+            "It has already conquered Egypt",
+            "It has ceased to belong to Israel",
+            "Its inheritance is bound to the Lord and his service"
+          ],
+          "fil": [
+            "Nasakop na nito ang Egipto",
+            "Hindi na ito kabilang sa Israel",
+            "Nauugnay sa Panginoon at paglilingkod sa kanya ang mana nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Levi's special inheritance is distinguished from the other tribes' land allotments (Joshua 13).",
+          "fil": "Ibinukod ang natatanging mana ng Levi sa mga lupaing inilaan sa ibang lipi (Josue 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What earlier faithfulness does Caleb recall before Joshua?",
+          "fil": "Anong naunang katapatan ang inalala ni Caleb sa harap ni Josue?"
+        },
+        "options": {
+          "en": [
+            "He built the ark for Noah",
+            "He ruled Egypt with Joseph",
+            "He trusted God when sent to explore the land"
+          ],
+          "fil": [
+            "Ginawa niya ang arka para kay Noe",
+            "Pinamunuan niya ang Egipto kasama ni Jose",
+            "Nagtiwala siya sa Diyos nang ipadala upang siyasatin ang lupain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Caleb recalls following God wholeheartedly during the earlier exploration (Joshua 14).",
+          "fil": "Inalala ni Caleb ang buong-pusong pagsunod sa Diyos sa naunang pagsisiyasat (Josue 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which hill-country inheritance does Caleb request and receive?",
+          "fil": "Anong mana sa kabundukan ang hiniling at tinanggap ni Caleb?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Babel",
+            "Nineveh"
+          ],
+          "fil": [
+            "Hebron",
+            "Babel",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua blesses Caleb and grants him Hebron (Joshua 14).",
+          "fil": "Binasbasan ni Josue si Caleb at ibinigay sa kanya ang Hebron (Josue 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gives Caleb confidence despite the strong inhabitants of that area?",
+          "fil": "Ano ang nagbibigay kay Caleb ng tiwala sa kabila ng malalakas na naninirahan sa lugar?"
+        },
+        "options": {
+          "en": [
+            "He believes there are no inhabitants at all",
+            "Pharaoh has promised to do all the fighting",
+            "The Lord's help can enable him to drive them out"
+          ],
+          "fil": [
+            "Naniniwala siyang walang sinumang naninirahan doon",
+            "Nangako si Faraon na siya na ang lalaban sa lahat",
+            "Matutulungan siya ng Panginoon na paalisin ang mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Caleb relies on God's presence rather than being frightened by the opposition (Joshua 14).",
+          "fil": "Umasa si Caleb sa presensya ng Diyos sa halip na matakot sa mga kalaban (Josue 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Which tribe's boundaries and towns are the chapter's main subject?",
+          "fil": "Kaninong mga hangganan at bayan ang pangunahing paksa ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Dan's",
+            "Judah's",
+            "Benjamin's"
+          ],
+          "fil": [
+            "Ng Dan",
+            "Ng Juda",
+            "Ng Benjamin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua 15 sets out Judah's inheritance in the land.",
+          "fil": "Inilahad ng Josue 15 ang mana ng Juda sa lupain."
+        }
+      },
+      {
+        "q": {
+          "en": "What additional gift does Caleb's daughter request for her land?",
+          "fil": "Anong dagdag na kaloob ang hiniling ng anak na babae ni Caleb para sa kanyang lupa?"
+        },
+        "options": {
+          "en": [
+            "Springs of water",
+            "A royal navy",
+            "The ark of the covenant"
+          ],
+          "fil": [
+            "Mga bukal ng tubig",
+            "Hukbong-dagat ng hari",
+            "Ang kaban ng tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Caleb grants his daughter's request for springs to accompany her land (Joshua 15).",
+          "fil": "Ibinigay ni Caleb ang hiling ng kanyang anak na mga bukal para sa lupain nito (Josue 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which people remain in Jerusalem alongside Judah?",
+          "fil": "Anong bayan ang nanatili sa Jerusalem kasama ng Juda?"
+        },
+        "options": {
+          "en": [
+            "The Egyptians",
+            "The Babylonians",
+            "The Jebusites"
+          ],
+          "fil": [
+            "Ang mga taga-Egipto",
+            "Ang mga taga-Babilonia",
+            "Ang mga Jebuseo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter notes that Judah does not drive out Jerusalem's Jebusites (Joshua 15).",
+          "fil": "Binanggit ng kabanata na hindi napaalis ng Juda ang mga Jebuseo sa Jerusalem (Josue 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Which tribe's inheritance is especially described after the opening reference to Joseph?",
+          "fil": "Kaninong mana ang partikular na inilarawan matapos unang banggitin si Jose?"
+        },
+        "options": {
+          "en": [
+            "Reuben's",
+            "Ephraim's",
+            "Gad's"
+          ],
+          "fil": [
+            "Ng Ruben",
+            "Ng Efraim",
+            "Ng Gad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter describes Ephraim's towns and boundaries within Joseph's inheritance (Joshua 16).",
+          "fil": "Inilarawan ng kabanata ang mga bayan at hangganan ng Efraim sa loob ng mana ni Jose (Josue 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which city is noted as retaining its Canaanite inhabitants?",
+          "fil": "Anong lungsod ang binanggit na nananatiling tinitirhan ng mga Cananeo?"
+        },
+        "options": {
+          "en": [
+            "Hazor",
+            "Gezer",
+            "Jericho"
+          ],
+          "fil": [
+            "Hazor",
+            "Gezer",
+            "Jerico"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephraim does not drive out the Canaanites living in Gezer (Joshua 16).",
+          "fil": "Hindi napaalis ng Efraim ang mga Cananeong naninirahan sa Gezer (Josue 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What status do those remaining Canaanites have under Ephraim?",
+          "fil": "Anong kalagayan ng mga nanatiling Cananeo sa ilalim ng Efraim?"
+        },
+        "options": {
+          "en": [
+            "They are made to perform forced labor",
+            "They become kings over all Israel",
+            "They take the priesthood from Aaron's family"
+          ],
+          "fil": [
+            "Pinagtrabaho sila nang sapilitan",
+            "Naging mga hari sila ng buong Israel",
+            "Kinuha nila ang pagkapari mula sa pamilya ni Aaron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The remaining population is subjected to forced labor rather than expelled (Joshua 16).",
+          "fil": "Pinagtrabaho nang sapilitan ang natitirang populasyon sa halip na paalisin (Josue 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Whose daughters receive an inheritance as previously commanded through Moses?",
+          "fil": "Kaninong mga anak na babae ang tumanggap ng mana ayon sa naunang utos sa pamamagitan ni Moises?"
+        },
+        "options": {
+          "en": [
+            "Laban's",
+            "Zelophehad's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Ni Laban",
+            "Ni Zelofehad",
+            "Ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The daughters' earlier inheritance claim is honored in the land distribution (Joshua 17).",
+          "fil": "Tinupad sa pamamahagi ng lupa ang naunang paghiling ng mana ng mga anak na babae (Josue 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Joseph's descendants request more room?",
+          "fil": "Bakit humiling ng mas malawak na lugar ang mga inapo ni Jose?"
+        },
+        "options": {
+          "en": [
+            "They want to sell every field to Egypt",
+            "They plan to build Babel again",
+            "They say they are a numerous people"
+          ],
+          "fil": [
+            "Nais nilang ipagbili sa Egipto ang bawat bukid",
+            "Plano nilang muling itayo ang Babel",
+            "Sinabi nilang marami sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joseph's tribes ask for space suited to their growing population (Joshua 17).",
+          "fil": "Humiling ang mga lipi ni Jose ng lugar na angkop sa kanilang lumalaking populasyon (Josue 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joshua urge them to do about the forested hill country?",
+          "fil": "Ano ang hinimok ni Josue na gawin nila sa magubat na kabundukan?"
+        },
+        "options": {
+          "en": [
+            "Leave the land and return to Egypt",
+            "Clear the forest and take possession despite strong opponents",
+            "Make the Canaanites their gods"
+          ],
+          "fil": [
+            "Iwan ang lupain at bumalik sa Egipto",
+            "Hawanin ang gubat at angkinin ang lupain sa kabila ng malalakas na kalaban",
+            "Gawing mga diyos ang mga Cananeo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua calls them to act courageously and develop the land available to them (Joshua 17).",
+          "fil": "Tinawag sila ni Josue na kumilos nang matapang at linangin ang lupaing para sa kanila (Josue 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Where is the tent of meeting set up as the assembly gathers?",
+          "fil": "Saan itinayo ang toldang tipanan nang magtipon ang kapulungan?"
+        },
+        "options": {
+          "en": [
+            "Goshen",
+            "Shiloh",
+            "Nineveh"
+          ],
+          "fil": [
+            "Gosen",
+            "Silo",
+            "Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel assembles at Shiloh and sets up the tent there (Joshua 18).",
+          "fil": "Nagtipon ang Israel sa Silo at itinayo roon ang tolda (Josue 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What task is given to men sent through the unassigned land?",
+          "fil": "Anong gawain ang ibinigay sa mga lalaking ipinadala sa hindi pa naipamamahaging lupain?"
+        },
+        "options": {
+          "en": [
+            "Destroy every possible settlement",
+            "Survey it and write a description of its divisions",
+            "Build a palace for Pharaoh"
+          ],
+          "fil": [
+            "Sirain ang bawat maaaring pamayanan",
+            "Siyasatin ito at isulat ang paglalarawan ng mga bahagi",
+            "Magtayo ng palasyo para kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The survey prepares the remaining territory for orderly distribution (Joshua 18).",
+          "fil": "Inihanda ng pagsisiyasat ang natitirang lupain para sa maayos na pamamahagi (Josue 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Joshua assign the remaining portions before the Lord?",
+          "fil": "Paano itinalaga ni Josue ang natitirang mga bahagi sa harap ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "By casting lots",
+            "By selling them to the highest bidder",
+            "By asking Egypt's priests"
+          ],
+          "fil": [
+            "Sa pamamagitan ng palabunutan",
+            "Sa pagbebenta sa pinakamataas magbayad",
+            "Sa pagtatanong sa mga pari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua casts lots at Shiloh to distribute the remaining inheritances (Joshua 18).",
+          "fil": "Nagpalabunutan si Josue sa Silo upang ipamahagi ang natitirang mana (Josue 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What is the main subject of the chapter's lists?",
+          "fil": "Ano ang pangunahing paksa ng mga talaan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Further tribal allotments and their towns",
+            "The plagues in Babylon",
+            "The kings of Egypt"
+          ],
+          "fil": [
+            "Karagdagang mana ng mga lipi at kanilang mga bayan",
+            "Ang mga salot sa Babilonia",
+            "Ang mga hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The lists continue the division of the land among Israel's tribes (Joshua 19).",
+          "fil": "Ipinagpatuloy ng mga talaan ang paghahati ng lupain sa mga lipi ng Israel (Josue 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Within which larger tribal territory is Simeon's inheritance located?",
+          "fil": "Sa loob ng kaninong mas malaking lupain naroon ang mana ng Simeon?"
+        },
+        "options": {
+          "en": [
+            "Reuben's",
+            "Judah's",
+            "Ephraim's"
+          ],
+          "fil": [
+            "Ng Ruben",
+            "Ng Juda",
+            "Ng Efraim"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Simeon receives towns within Judah's large allotment (Joshua 19).",
+          "fil": "Tumanggap ang Simeon ng mga bayan sa loob ng malawak na mana ng Juda (Josue 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What town does Joshua receive for his own inheritance?",
+          "fil": "Anong bayan ang tinanggap ni Josue bilang sariling mana?"
+        },
+        "options": {
+          "en": [
+            "Timnath-serah",
+            "Gezer",
+            "Jericho"
+          ],
+          "fil": [
+            "Timnat-sera",
+            "Gezer",
+            "Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua receives and rebuilds Timnath-serah in Ephraim's hill country (Joshua 19).",
+          "fil": "Tinanggap at muling itinayo ni Josue ang Timnat-sera sa kabundukan ng Efraim (Josue 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What is the main purpose of the cities of refuge?",
+          "fil": "Ano ang pangunahing layunin ng mga kanlungang-lungsod?"
+        },
+        "options": {
+          "en": [
+            "Protect someone who kills unintentionally from immediate revenge",
+            "Reward deliberate murder",
+            "Store the king's war horses"
+          ],
+          "fil": [
+            "Pangalagaan laban sa agarang paghihiganti ang nakapatay nang di-sinasadya",
+            "Gantimpalaan ang sadyang pagpatay",
+            "Itago ang mga kabayong pandigma ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The cities provide protection while an unintended killing is properly considered (Joshua 20).",
+          "fil": "Nagbibigay ng proteksiyon ang mga lungsod habang wastong sinusuri ang di-sinasadyang pagpatay (Josue 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who hears the arriving person's case at the city entrance?",
+          "fil": "Sino ang nakikinig sa usapin ng dumarating sa pasukan ng lungsod?"
+        },
+        "options": {
+          "en": [
+            "The city's elders",
+            "Pharaoh's servants",
+            "The priests of Baal"
+          ],
+          "fil": [
+            "Ang mga pinuno ng lungsod",
+            "Ang mga lingkod ni Faraon",
+            "Ang mga pari ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The elders receive the person's explanation and provide a place of safety (Joshua 20).",
+          "fil": "Tinanggap ng mga pinuno ang paliwanag ng tao at naglaan ng ligtas na lugar (Josue 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who may seek this refuge under the stated arrangement?",
+          "fil": "Sino ang maaaring humingi ng kanlungang ito ayon sa itinakdang kaayusan?"
+        },
+        "options": {
+          "en": [
+            "Only military commanders",
+            "Only the richest landowners",
+            "Israelites and foreigners living among them"
+          ],
+          "fil": [
+            "Mga pinuno lamang ng hukbo",
+            "Pinakamayayamang may-ari lamang ng lupa",
+            "Mga Israelita at mga dayuhang naninirahang kasama nila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The refuge cities are available to both Israelites and resident foreigners (Joshua 20).",
+          "fil": "Bukas ang mga kanlungang-lungsod sa mga Israelita at dayuhang naninirahang kasama nila (Josue 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What do the Levite leaders request from the other tribes?",
+          "fil": "Ano ang hiniling ng mga pinuno ng Levita sa ibang lipi?"
+        },
+        "options": {
+          "en": [
+            "Towns to live in with surrounding pastureland",
+            "All the royal palaces of Egypt",
+            "The right to abolish the covenant"
+          ],
+          "fil": [
+            "Mga bayang matitirhan na may nakapaligid na pastulan",
+            "Lahat ng palasyo ng hari sa Egipto",
+            "Karapatang alisin ang tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The tribes provide cities for the Levites as God had commanded (Joshua 21).",
+          "fil": "Naglaan ang mga lipi ng mga lungsod para sa mga Levita ayon sa utos ng Diyos (Josue 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose do the pasturelands serve?",
+          "fil": "Ano ang layunin ng mga pastulan?"
+        },
+        "options": {
+          "en": [
+            "Train Pharaoh's navy",
+            "Hide foreign idols",
+            "Provide for the Levites' livestock"
+          ],
+          "fil": [
+            "Sanayin ang hukbong-dagat ni Faraon",
+            "Itago ang mga dayuhang diyus-diyosan",
+            "Maglaan para sa mga alagang hayop ng mga Levita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The towns include grazing land for the Levites' animals (Joshua 21).",
+          "fil": "May kasamang pastulan para sa mga hayop ng mga Levita ang mga bayan (Josue 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter conclude about God's promises to Israel?",
+          "fil": "Ano ang sinabi ng kabanata sa pagtatapos tungkol sa mga pangako ng Diyos sa Israel?"
+        },
+        "options": {
+          "en": [
+            "He has faithfully fulfilled his good promises",
+            "He has given Israel back to Pharaoh",
+            "He has forgotten every promise"
+          ],
+          "fil": [
+            "Tapat niyang tinupad ang kanyang mabubuting pangako",
+            "Ibinalik niya ang Israel kay Faraon",
+            "Nalimutan niya ang bawat pangako"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The conclusion celebrates God's faithfulness in giving land and rest (Joshua 21).",
+          "fil": "Ipinagdiwang ng pagtatapos ang katapatan ng Diyos sa pagbibigay ng lupain at kapahingahan (Josue 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Why does Joshua allow the eastern tribes to return home?",
+          "fil": "Bakit pinayagan ni Josue na umuwi ang mga lipi sa silangan?"
+        },
+        "options": {
+          "en": [
+            "They have fulfilled their duty to help the other tribes",
+            "They are no longer part of Israel",
+            "They have refused every battle"
+          ],
+          "fil": [
+            "Natupad nila ang tungkuling tumulong sa ibang lipi",
+            "Hindi na sila kabilang sa Israel",
+            "Tinanggihan nila ang bawat labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua releases them after their faithful service alongside their relatives (Joshua 22).",
+          "fil": "Pinauwi sila ni Josue matapos ang tapat na paglilingkod kasama ang kanilang mga kamag-anak (Josue 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What building project causes alarm among the other Israelites?",
+          "fil": "Anong itinayo ang ikinabahala ng ibang mga Israelita?"
+        },
+        "options": {
+          "en": [
+            "A palace in Egypt",
+            "A new tower at Babel",
+            "A large altar near the Jordan"
+          ],
+          "fil": [
+            "Palasyo sa Egipto",
+            "Bagong tore sa Babel",
+            "Malaking altar malapit sa Jordan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The altar raises fears that the eastern tribes have abandoned faithful worship (Joshua 22).",
+          "fil": "Nagdulot ang altar ng pangambang tinalikuran ng mga lipi sa silangan ang tapat na pagsamba (Josue 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who leads the priestly delegation sent to investigate?",
+          "fil": "Sino ang nanguna sa mga sugo mula sa mga pari upang magsiyasat?"
+        },
+        "options": {
+          "en": [
+            "Haman",
+            "Phinehas",
+            "Balaam"
+          ],
+          "fil": [
+            "Si Haman",
+            "Si Finehas",
+            "Si Balaam"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Phinehas goes with tribal leaders to question the eastern tribes (Joshua 22).",
+          "fil": "Sumama si Finehas sa mga pinuno ng lipi upang tanungin ang mga lipi sa silangan (Josue 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose do the eastern tribes explain for their altar?",
+          "fil": "Anong layunin ng kanilang altar ang ipinaliwanag ng mga lipi sa silangan?"
+        },
+        "options": {
+          "en": [
+            "A witness that they share in worship of the Lord",
+            "A monument declaring independence from Israel",
+            "A rival altar for offering sacrifices to another god"
+          ],
+          "fil": [
+            "Saksi na kabilang sila sa pagsamba sa Panginoon",
+            "Bantayog na nagpapahayag ng paghihiwalay sa Israel",
+            "Katunggaling altar para sa paghahandog sa ibang diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They explain that the altar preserves their common identity rather than replacing the sanctuary (Joshua 22).",
+          "fil": "Ipinaliwanag nilang pinananatili ng altar ang iisa nilang pagkakakilanlan sa halip na palitan ang santuwaryo (Josue 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Whom does the aging Joshua credit for Israel's victories?",
+          "fil": "Sino ang kinilala ng tumatandang si Josue sa mga tagumpay ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The Lord who fought for them",
+            "Pharaoh's army",
+            "The gods of Canaan"
+          ],
+          "fil": [
+            "Ang Panginoong lumaban para sa kanila",
+            "Ang hukbo ni Faraon",
+            "Ang mga diyos ng Canaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua reminds the leaders that God has fought on Israel's behalf (Joshua 23).",
+          "fil": "Ipinaalala ni Josue sa mga pinuno na lumaban ang Diyos para sa Israel (Josue 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Joshua warn against in relationships with the remaining nations?",
+          "fil": "Anong panganib ang ibinabala ni Josue sa pakikitungo sa natitirang mga bansa?"
+        },
+        "options": {
+          "en": [
+            "Being drawn into allegiance to their gods",
+            "Learning to grow crops",
+            "Showing any hospitality at all"
+          ],
+          "fil": [
+            "Pagkahikayat sa katapatan sa kanilang mga diyos",
+            "Pagkatutong magtanim",
+            "Pagpapakita ng anumang pagpapatuloy sa bisita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua warns against ties that would turn Israel away from the Lord (Joshua 23).",
+          "fil": "Nagbabala si Josue laban sa mga ugnayang maglalayo sa Israel sa Panginoon (Josue 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What consequence does Joshua warn could follow abandoning the covenant?",
+          "fil": "Anong bunga ang ibinabala ni Josue kung tatalikuran ang tipan?"
+        },
+        "options": {
+          "en": [
+            "Immediate rule over every nation",
+            "Loss of the good land God has given",
+            "Guaranteed safety without obedience"
+          ],
+          "fil": [
+            "Agarang paghahari sa bawat bansa",
+            "Pagkawala ng mabuting lupaing ibinigay ng Diyos",
+            "Tiyak na kaligtasan nang walang pagsunod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua connects continued life in the land with faithfulness to God (Joshua 23).",
+          "fil": "Iniugnay ni Josue ang patuloy na buhay sa lupain sa katapatan sa Diyos (Josue 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Where does Joshua gather Israel for the covenant renewal?",
+          "fil": "Saan tinipon ni Josue ang Israel para sa pagpapanibago ng tipan?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Babel",
+            "Shechem"
+          ],
+          "fil": [
+            "Nineve",
+            "Babel",
+            "Siquem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua gathers the tribes at Shechem before recounting God's deeds (Joshua 24).",
+          "fil": "Tinipon ni Josue ang mga lipi sa Siquem bago isalaysay ang mga gawa ng Diyos (Josue 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What commitment does Joshua make for himself and his household?",
+          "fil": "Anong pagtalaga ang ginawa ni Josue para sa sarili at kanyang sambahayan?"
+        },
+        "options": {
+          "en": [
+            "They will serve the Lord",
+            "They will worship Egypt's gods",
+            "They will abandon every covenant"
+          ],
+          "fil": [
+            "Maglilingkod sila sa Panginoon",
+            "Sasamba sila sa mga diyos ng Egipto",
+            "Tatalikuran nila ang bawat tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua declares his household's loyalty to the Lord (Joshua 24).",
+          "fil": "Ipinahayag ni Josue ang katapatan ng kanyang sambahayan sa Panginoon (Josue 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Joshua set up as a witness to the people's commitment?",
+          "fil": "Ano ang inilagay ni Josue bilang saksi sa pagtalaga ng bayan?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "A royal war chariot",
+            "A large stone"
+          ],
+          "fil": [
+            "Gintong guya",
+            "Karwaheng pandigma ng hari",
+            "Malaking bato"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The stone serves as a reminder of the covenant made before God (Joshua 24).",
+          "fil": "Nagsisilbing paalaala ang bato ng tipang ginawa sa harap ng Diyos (Josue 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose bones brought from Egypt are finally buried at Shechem?",
+          "fil": "Kaninong mga buto na dinala mula sa Egipto ang sa wakas ay inilibing sa Siquem?"
+        },
+        "options": {
+          "en": [
+            "Joseph's",
+            "Pharaoh's",
+            "Laban's"
+          ],
+          "fil": [
+            "Kay Jose",
+            "Kay Faraon",
+            "Kay Laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joseph's burial completes the family's promise to carry his bones from Egypt (Joshua 24).",
+          "fil": "Tinupad ng paglilibing kay Jose ang pangako ng pamilya na dalhin ang kanyang mga buto mula sa Egipto (Josue 24)."
+        }
+      }
+    ]
+  }
+}
