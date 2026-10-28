@@ -1,0 +1,643 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Who receives warnings of judgment in this chapter?",
+          "fil": "Sino ang tumanggap ng mga babala ng hatol sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Nations surrounding Israel",
+            "Only the family of Noah",
+            "Only the people of Rome"
+          ],
+          "fil": [
+            "Mga bansang nakapaligid sa Israel",
+            "Ang pamilya lamang ni Noe",
+            "Ang mga tao lamang sa Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening oracles hold neighboring nations accountable for wrongdoing (Amos 1).",
+          "fil": "Pinanagot ng mga pambungad na pahayag ang mga kalapit na bansa sa kasamaan (Amos 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrongdoing is charged against Gaza?",
+          "fil": "Anong kasamaan ang ipinaratang laban sa Gaza?"
+        },
+        "options": {
+          "en": [
+            "Giving away food to the hungry",
+            "Carrying people away and handing them over to Edom",
+            "Refusing to capture innocent people"
+          ],
+          "fil": [
+            "Pamimigay ng pagkain sa nagugutom",
+            "Pagbihag sa mga tao at pagbibigay sa kanila sa Edom",
+            "Pagtangging bihagin ang mga walang sala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The oracle condemns the trade in captive people (Amos 1).",
+          "fil": "Kinondena ng pahayag ang pangangalakal ng mga bihag (Amos 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is Edom rebuked for doing to its brother people?",
+          "fil": "Ano ang dahilan ng pagsaway sa Edom tungkol sa kapatid nitong bayan?"
+        },
+        "options": {
+          "en": [
+            "Pursuing them violently without pity",
+            "Protecting them from attack",
+            "Forgiving them too quickly"
+          ],
+          "fil": [
+            "Marahas na paghabol sa kanila nang walang awa",
+            "Pag-iingat sa kanila laban sa pagsalakay",
+            "Napakabilis na pagpapatawad sa kanila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Edom's unrelenting hostility brings condemnation (Amos 1).",
+          "fil": "Nagdulot ng paghatol ang walang humpay na poot ng Edom (Amos 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How does Israel mistreat poor and innocent people?",
+          "fil": "Paano inabuso ng Israel ang mahihirap at walang sala?"
+        },
+        "options": {
+          "en": [
+            "It sells them for trivial gain",
+            "It gives them every palace",
+            "It always cancels their debts generously"
+          ],
+          "fil": [
+            "Ipinagbibili sila para sa maliit na pakinabang",
+            "Ibinibigay nito sa kanila ang lahat ng palasyo",
+            "Lagi nitong bukas-palad na pinapatawad ang kanilang utang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The accusation exposes the cheap value placed on vulnerable lives (Amos 2).",
+          "fil": "Inilantad ng paratang ang mababang pagpapahalaga sa buhay ng mahihina (Amos 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What past deliverance does God recall before rebuking Israel?",
+          "fil": "Anong nakaraang pagliligtas ang ipinaalala ng Diyos bago sawayin ang Israel?"
+        },
+        "options": {
+          "en": [
+            "Making Babylon their permanent home",
+            "Rescuing them through a Roman emperor",
+            "Bringing them out of Egypt and leading them through the wilderness"
+          ],
+          "fil": [
+            "Paggawa sa Babilonia bilang permanente nilang tahanan",
+            "Pagliligtas sa kanila sa pamamagitan ng emperador ng Roma",
+            "Paglalabas sa kanila sa Egipto at paggabay sa ilang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God recalls his care to show the seriousness of Israel's unfaithfulness (Amos 2).",
+          "fil": "Ipinaalala ng Diyos ang kanyang pagkalinga upang ipakita ang bigat ng pagtataksil ng Israel (Amos 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Israel tell the prophets to stop doing?",
+          "fil": "Ano ang sinabi ng Israel sa mga propeta na tigilang gawin?"
+        },
+        "options": {
+          "en": [
+            "Worshiping carved images",
+            "Accepting bribes",
+            "Delivering prophetic messages"
+          ],
+          "fil": [
+            "Pagsamba sa mga inukit na larawan",
+            "Pagtanggap ng suhol",
+            "Paghahatid ng mga mensahe ng propeta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people reject the messengers God has raised among them (Amos 2).",
+          "fil": "Tinanggihan ng bayan ang mga sugong ibinangon ng Diyos sa kanila (Amos 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Does Israel's special relationship with God excuse its sins?",
+          "fil": "Dahilan ba ang natatanging ugnayan ng Israel sa Diyos upang palampasin ang kasalanan nito?"
+        },
+        "options": {
+          "en": [
+            "Yes, God no longer cares about its actions",
+            "Yes, every injustice is now acceptable",
+            "No, it makes Israel accountable for its conduct"
+          ],
+          "fil": [
+            "Oo, wala nang pakialam ang Diyos sa mga kilos nito",
+            "Oo, katanggap-tanggap na ang lahat ng kawalang-katarungan",
+            "Hindi, pananagutan ng Israel ang asal nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Being chosen brings responsibility rather than freedom to do wrong (Amos 3).",
+          "fil": "May pananagutan ang pagiging pinili sa halip na kalayaang gumawa ng masama (Amos 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Amos speak, like a person reacting to a lion's roar?",
+          "fil": "Bakit nagsasalita si Amos, tulad ng taong tumutugon sa ungol ng leon?"
+        },
+        "options": {
+          "en": [
+            "He wants Israel to worship lions",
+            "He has been paid to praise the palaces",
+            "The Lord has spoken and he must prophesy"
+          ],
+          "fil": [
+            "Gusto niyang sambahin ng Israel ang mga leon",
+            "Binayaran siya upang purihin ang mga palasyo",
+            "Nagsalita ang Panginoon at dapat siyang magpahayag bilang propeta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The comparison expresses the urgency of God's message (Amos 3).",
+          "fil": "Ipinahayag ng paghahambing ang pagkaapurahan ng mensahe ng Diyos (Amos 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What have the powerful stored up in their palaces?",
+          "fil": "Ano ang inipon ng makapangyarihan sa kanilang mga palasyo?"
+        },
+        "options": {
+          "en": [
+            "The rewards of perfect justice",
+            "Only gifts freely given by the poor",
+            "Wealth gained through violence and robbery"
+          ],
+          "fil": [
+            "Mga gantimpala ng ganap na katarungan",
+            "Mga regalo lamang na kusang ibinigay ng mahihirap",
+            "Yamang nakuha sa karahasan at pagnanakaw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The palaces embody the injustice that judgment will expose (Amos 3).",
+          "fil": "Kinakatawan ng mga palasyo ang kawalang-katarungang ilalantad ng hatol (Amos 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What do the wealthy people compared to well-fed cattle do?",
+          "fil": "Ano ang ginagawa ng mayayamang inihambing sa matatabang baka?"
+        },
+        "options": {
+          "en": [
+            "Give all their food to the needy",
+            "Oppress the poor while demanding comfort",
+            "Refuse every luxury to serve others"
+          ],
+          "fil": [
+            "Ibinibigay ang lahat ng pagkain sa nangangailangan",
+            "Inaapi ang mahihirap habang humihingi ng kaginhawahan",
+            "Tinatanggihan ang lahat ng luho upang maglingkod sa iba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their comfortable lives are supported by oppression (Amos 4).",
+          "fil": "Nakasalalay sa pang-aapi ang kanilang maginhawang buhay (Amos 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response is repeatedly missing after famine, drought, and other disasters?",
+          "fil": "Anong tugon ang paulit-ulit na nawawala matapos ang gutom, tagtuyot, at iba pang sakuna?"
+        },
+        "options": {
+          "en": [
+            "Building a bigger army for Egypt",
+            "Praising the king of Rome",
+            "Returning to the Lord"
+          ],
+          "fil": [
+            "Paggawa ng mas malaking hukbo para sa Egipto",
+            "Pagpuri sa hari ng Roma",
+            "Pagbabalik sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The repeated refrain exposes refusal to turn back to God (Amos 4).",
+          "fil": "Inilantad ng paulit-ulit na paalala ang pagtangging bumalik sa Diyos (Amos 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom must Israel prepare to meet?",
+          "fil": "Sino ang dapat paghandaan ng Israel na harapin?"
+        },
+        "options": {
+          "en": [
+            "A new golden calf",
+            "A visiting Roman emperor",
+            "Its God"
+          ],
+          "fil": [
+            "Isang bagong gintong guya",
+            "Isang dumadalaw na emperador ng Roma",
+            "Ang Diyos nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The final summons confronts Israel with God's authority (Amos 4).",
+          "fil": "Iniharap ng huling panawagan ang Israel sa kapangyarihan ng Diyos (Amos 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Whom should Israel seek in order to live?",
+          "fil": "Sino ang dapat hanapin ng Israel upang mabuhay?"
+        },
+        "options": {
+          "en": [
+            "The strongest foreign king alone",
+            "The Lord",
+            "The idol at every shrine"
+          ],
+          "fil": [
+            "Ang pinakamalakas na haring dayuhan lamang",
+            "Ang Panginoon",
+            "Ang diyus-diyosan sa bawat dambana"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Life is sought in God rather than in reliance on religious sites (Amos 5).",
+          "fil": "Sa Diyos hinahanap ang buhay sa halip na sa pag-asa sa mga lugar ng pagsamba (Amos 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should flow like an abundant stream instead of empty ceremonies?",
+          "fil": "Ano ang dapat umagos na parang masaganang batis sa halip na walang saysay na seremonya?"
+        },
+        "options": {
+          "en": [
+            "Pride and cruelty",
+            "Bribery and lies",
+            "Justice and righteousness"
+          ],
+          "fil": [
+            "Pagmamataas at kalupitan",
+            "Panunuhol at kasinungalingan",
+            "Katarungan at katuwiran"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls for a just life that matches the people's worship (Amos 5).",
+          "fil": "Nanawagan ang Diyos ng makatarungang buhay na naaayon sa pagsamba ng bayan (Amos 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the Lord's day described for people persisting in evil?",
+          "fil": "Paano inilarawan ang araw ng Panginoon para sa mga nagpapatuloy sa masama?"
+        },
+        "options": {
+          "en": [
+            "A guarantee that wealth will save them",
+            "Darkness rather than the victory they expect",
+            "Automatic approval of every action"
+          ],
+          "fil": [
+            "Katiyakang ililigtas sila ng kayamanan",
+            "Kadiliman sa halip na tagumpay na inaasahan nila",
+            "Kusang pagsang-ayon sa bawat kilos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning challenges false confidence about the day of judgment (Amos 5).",
+          "fil": "Hinamon ng babala ang maling pagtitiwala tungkol sa araw ng paghatol (Amos 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What image shows the luxurious life of the complacent leaders?",
+          "fil": "Anong larawan ang nagpapakita ng marangyang buhay ng mga kampanteng pinuno?"
+        },
+        "options": {
+          "en": [
+            "Lounging on beds decorated with ivory",
+            "Sleeping beside prisoners to comfort them",
+            "Giving every feast to hungry strangers"
+          ],
+          "fil": [
+            "Paghiga sa mga kamang may palamuting garing",
+            "Pagtulog sa tabi ng mga bihag upang aliwin sila",
+            "Pagbibigay ng bawat piging sa nagugutom na dayuhan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The comfortable beds picture indulgence amid a national crisis (Amos 6).",
+          "fil": "Inilarawan ng magiginhawang kama ang pagpapasasa sa gitna ng krisis ng bansa (Amos 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do they fail to grieve over while enjoying luxury?",
+          "fil": "Ano ang hindi nila ipinagluksa habang tinatamasa ang luho?"
+        },
+        "options": {
+          "en": [
+            "The loss of a carved idol's crown",
+            "The ruin of their people",
+            "The shortage of armies in Rome"
+          ],
+          "fil": [
+            "Ang pagkawala ng korona ng inukit na diyus-diyosan",
+            "Ang kapahamakan ng kanilang bayan",
+            "Ang kakulangan ng hukbo sa Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their self-indulgence is condemned for its indifference to others' distress (Amos 6).",
+          "fil": "Hinatulan ang kanilang pagpapasasa dahil wala silang malasakit sa paghihirap ng iba (Amos 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reversal is announced for those now enjoying the best places?",
+          "fil": "Anong pagbaligtad ang ipinahayag para sa mga nagtatamasa ngayon ng pinakamagandang katayuan?"
+        },
+        "options": {
+          "en": [
+            "They will receive God's throne",
+            "They will be among the first taken into exile",
+            "Their feasting will continue forever"
+          ],
+          "fil": [
+            "Tatanggapin nila ang trono ng Diyos",
+            "Mauuna sila sa mga dadalhing bihag",
+            "Magpapatuloy magpakailanman ang kanilang pagpipiging"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The privileged position of the complacent will become a place at the front of exile (Amos 6).",
+          "fil": "Ang mataas na katayuan ng kampante ay magiging unahang puwesto sa pagkabihag (Amos 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What threatens the crops in the first vision?",
+          "fil": "Ano ang nagbanta sa mga pananim sa unang pangitain?"
+        },
+        "options": {
+          "en": [
+            "A fleet of ships in the fields",
+            "A swarm of locusts",
+            "A snow-covered mountain"
+          ],
+          "fil": [
+            "Hukbong-dagat sa mga bukid",
+            "Isang pangkat ng balang",
+            "Isang bundok na nababalot ng niyebe"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The first vision shows a devastating threat to the land's food (Amos 7).",
+          "fil": "Ipinakita ng unang pangitain ang mapanirang banta sa pagkain ng lupain (Amos 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Amos respond to the visions of locusts and fire?",
+          "fil": "Paano tumugon si Amos sa mga pangitain ng balang at apoy?"
+        },
+        "options": {
+          "en": [
+            "He celebrates the people's hunger",
+            "He asks for greater destruction",
+            "He pleads for God to spare vulnerable Israel"
+          ],
+          "fil": [
+            "Ipinagdiwang niya ang gutom ng bayan",
+            "Humiling siya ng mas matinding pagkawasak",
+            "Nakiusap siya sa Diyos na iligtas ang mahinang Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Amos intercedes because the people cannot withstand the disaster (Amos 7).",
+          "fil": "Namamagitan si Amos dahil hindi kakayanin ng bayan ang sakuna (Amos 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What judgment is announced in the vision beside a wall?",
+          "fil": "Anong hatol ang ipinahayag sa pangitain sa tabi ng pader?"
+        },
+        "options": {
+          "en": [
+            "Every idol will be honored forever",
+            "The kingdom will never face consequences",
+            "Israel's shrines will be laid waste"
+          ],
+          "fil": [
+            "Pararangalan magpakailanman ang bawat diyus-diyosan",
+            "Hindi kailanman haharap sa pananagutan ang kaharian",
+            "Mawawasak ang mga dambana ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The wall vision announces that judgment will no longer be withheld (Amos 7).",
+          "fil": "Ipinahayag ng pangitain sa pader na hindi na pipigilan ang hatol (Amos 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does the basket of ripe fruit signal about Israel?",
+          "fil": "Ano ang ipinahiwatig ng basket ng hinog na bunga tungkol sa Israel?"
+        },
+        "options": {
+          "en": [
+            "The time of judgment has arrived",
+            "God has become a fruit seller",
+            "The people can ignore injustice forever"
+          ],
+          "fil": [
+            "Dumating na ang panahon ng paghatol",
+            "Naging tagapagtinda ng prutas ang Diyos",
+            "Maaari nang balewalain ng bayan ang kawalang-katarungan magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The ripe fruit marks the nation's readiness for judgment (Amos 8).",
+          "fil": "Ipinahiwatig ng hinog na bunga ang pagdating ng hatol sa bansa (Amos 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the merchants cheat the poor?",
+          "fil": "Paano dinaya ng mga mangangalakal ang mahihirap?"
+        },
+        "options": {
+          "en": [
+            "They use dishonest measures and scales",
+            "They give more grain than buyers pay for",
+            "They refuse all dishonest profit"
+          ],
+          "fil": [
+            "Gumamit sila ng di-tapat na takalan at timbangan",
+            "Nagbigay sila ng mas maraming butil kaysa sa binayaran ng mamimili",
+            "Tinanggihan nila ang lahat ng di-tapat na pakinabang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The accusation exposes exploitation in everyday trade (Amos 8).",
+          "fil": "Inilantad ng paratang ang pagsasamantala sa araw-araw na kalakalan (Amos 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unusual famine is announced?",
+          "fil": "Anong di-karaniwang taggutom ang ipinahayag?"
+        },
+        "options": {
+          "en": [
+            "A lack of room for endless feasts",
+            "A lack of gold for idols only",
+            "A lack of hearing the Lord's word"
+          ],
+          "fil": [
+            "Kakulangan ng lugar para sa walang hanggang piging",
+            "Kakulangan lamang ng ginto para sa mga diyus-diyosan",
+            "Kakulangan sa pagdinig sa salita ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Those who reject God's message will find themselves searching for it (Amos 8).",
+          "fil": "Masusumpungan ng mga tumatanggi sa mensahe ng Diyos ang sariling hinahanap ito (Amos 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Where does Amos see the Lord in the opening vision?",
+          "fil": "Saan nakita ni Amos ang Panginoon sa pambungad na pangitain?"
+        },
+        "options": {
+          "en": [
+            "Hiding behind a golden calf",
+            "Standing by the altar",
+            "Sleeping in a ship"
+          ],
+          "fil": [
+            "Nagtatago sa likod ng gintong guya",
+            "Nakatayo sa tabi ng altar",
+            "Natutulog sa barko"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The final vision begins with judgment reaching the sanctuary (Amos 9).",
+          "fil": "Nagsimula ang huling pangitain sa hatol na umaabot sa santuwaryo (Amos 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What limit does God state amid the warning of destruction?",
+          "fil": "Anong hangganan ang sinabi ng Diyos sa gitna ng babala ng pagkawasak?"
+        },
+        "options": {
+          "en": [
+            "He will give the earth to idols",
+            "He will never judge any wrongdoing",
+            "He will not completely destroy the house of Jacob"
+          ],
+          "fil": [
+            "Ibibigay niya ang daigdig sa mga diyus-diyosan",
+            "Hindi niya kailanman hahatulan ang anumang kasamaan",
+            "Hindi niya lubusang lilipulin ang sambahayan ni Jacob"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning leaves room for a surviving people (Amos 9).",
+          "fil": "Nag-iwan ang babala ng pag-asa para sa bayang makaliligtas (Amos 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fallen structure does God promise to raise again?",
+          "fil": "Anong bumagsak na tahanan ang ipinangako ng Diyos na muling ibabangon?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's tomb",
+            "David's fallen dwelling",
+            "Baal's ruined temple"
+          ],
+          "fil": [
+            "Ang libingan ni Faraon",
+            "Ang bumagsak na tahanan ni David",
+            "Ang nawasak na templo ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing promise pictures restoration after judgment (Amos 9).",
+          "fil": "Inilarawan ng pangwakas na pangako ang pagpapanumbalik matapos ang paghatol (Amos 9)."
+        }
+      }
+    ]
+  }
+}
