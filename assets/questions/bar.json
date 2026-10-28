@@ -1,0 +1,430 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What do the people acknowledge in their confession?",
+          "fil": "Ano ang kinilala ng mga tao sa kanilang pagpapahayag ng kasalanan?"
+        },
+        "options": {
+          "en": [
+            "They disobeyed God, who is righteous",
+            "God had taught them to worship idols",
+            "They had always obeyed every command"
+          ],
+          "fil": [
+            "Sinuway nila ang Diyos na matuwid",
+            "Tinuruan sila ng Diyos na sumamba sa diyus-diyusan",
+            "Palagi nilang sinunod ang bawat utos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The confession accepts responsibility for disobedience instead of blaming God (Baruch 1).",
+          "fil": "Tinanggap sa pagpapahayag ang pananagutan sa pagsuway sa halip na sisihin ang Diyos (Baruc 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose does the money sent to Jerusalem serve?",
+          "fil": "Ano ang layunin ng perang ipinadala sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Buying weapons for an attack",
+            "Supporting offerings and worship before God",
+            "Building a shrine to Babylon's idols"
+          ],
+          "fil": [
+            "Pagbili ng mga sandata para sa paglusob",
+            "Pagsuporta sa mga handog at pagsamba sa Diyos",
+            "Pagtatayo ng dambana sa mga diyus-diyusan ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The exiles support worship in Jerusalem by sending money for offerings (Baruch 1).",
+          "fil": "Sinuportahan ng mga bihag ang pagsamba sa Jerusalem sa pagpapadala ng pera para sa mga handog (Baruc 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whom are prayers requested besides the exiles themselves?",
+          "fil": "Para kanino hiniling ang panalangin bukod sa mga bihag mismo?"
+        },
+        "options": {
+          "en": [
+            "The king of Babylon and his son",
+            "Only wealthy merchants",
+            "Only those planning a rebellion"
+          ],
+          "fil": [
+            "Sa hari ng Babilonia at sa kanyang anak",
+            "Sa mayayamang mangangalakal lamang",
+            "Sa mga nagpaplano lamang ng paghihimagsik"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The message asks for prayer for the Babylonian rulers as well as for the sinful exiles (Baruch 1).",
+          "fil": "Hiniling ng mensahe ang panalangin para sa mga pinuno ng Babilonia at sa mga bihag na nagkasala (Baruc 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "On what do the people base their appeal for help?",
+          "fil": "Saan ibinatay ng mga tao ang kanilang paghingi ng tulong?"
+        },
+        "options": {
+          "en": [
+            "God's mercy rather than their ancestors' merits",
+            "Their greater military strength",
+            "Their right to ignore God's warnings"
+          ],
+          "fil": [
+            "Sa awa ng Diyos sa halip na sa kabutihan ng kanilang mga ninuno",
+            "Sa mas malakas nilang hukbo",
+            "Sa karapatan nilang balewalain ang mga babala ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer seeks mercy without claiming that earlier generations earned deliverance (Baruch 2).",
+          "fil": "Humingi ng awa ang panalangin nang hindi inaangking nakamit ng mga ninuno ang pagliligtas (Baruc 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inward change does God promise during exile?",
+          "fil": "Anong panloob na pagbabago ang ipinangako ng Diyos sa pagkabihag?"
+        },
+        "options": {
+          "en": [
+            "Greater pride in disobedience",
+            "A desire to abandon his name",
+            "Hearts willing to listen and return to him"
+          ],
+          "fil": [
+            "Higit na kapalaluan sa pagsuway",
+            "Pagnanais na talikuran ang kanyang pangalan",
+            "Mga pusong handang makinig at manumbalik sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises a change of heart that leads to renewed obedience (Baruch 2).",
+          "fil": "Ipinangako ng Diyos ang pagbabago ng pusong hahantong sa panibagong pagsunod (Baruc 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future does God's promise hold for the scattered people?",
+          "fil": "Anong hinaharap ang taglay ng pangako ng Diyos para sa mga nangalat?"
+        },
+        "options": {
+          "en": [
+            "Permanent rejection without hope",
+            "Victory for idols over God",
+            "Return to their land and an enduring covenant"
+          ],
+          "fil": [
+            "Tuluyang pagtatakwil na walang pag-asa",
+            "Tagumpay ng mga diyus-diyusan laban sa Diyos",
+            "Pagbabalik sa kanilang lupain at nananatiling tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise joins restoration to the land with God's lasting covenant (Baruch 2).",
+          "fil": "Pinagsama ng pangako ang pagbabalik sa lupain at ang nananatiling tipan ng Diyos (Baruc 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Israel's condition reveal that it has abandoned?",
+          "fil": "Ano ang ipinakikitang iniwan ng Israel sa kalagayan nito?"
+        },
+        "options": {
+          "en": [
+            "The worship of foreign rulers",
+            "The pursuit of military fame",
+            "The source of wisdom"
+          ],
+          "fil": [
+            "Ang pagsamba sa mga dayuhang pinuno",
+            "Ang paghahangad ng katanyagan sa digmaan",
+            "Ang bukal ng karunungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel's exile is linked with turning away from wisdom and God's way (Baruch 3).",
+          "fil": "Iniugnay ang pagkabihag ng Israel sa pagtalikod sa karunungan at daan ng Diyos (Baruc 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who truly knows wisdom's way and gives it to Israel?",
+          "fil": "Sino ang tunay na nakaaalam sa daan ng karunungan at nagbibigay nito sa Israel?"
+        },
+        "options": {
+          "en": [
+            "God, who knows all things",
+            "The strongest ancient giants",
+            "Those who hoard the most gold"
+          ],
+          "fil": [
+            "Ang Diyos na nakaaalam ng lahat",
+            "Ang pinakamalalakas na sinaunang higante",
+            "Ang mga nag-iipon ng pinakamaraming ginto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter contrasts failed human searches with God's knowledge and gift of wisdom (Baruch 3).",
+          "fil": "Inihambing ng kabanata ang bigong paghahanap ng tao sa kaalaman at kaloob ng Diyos na karunungan (Baruc 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Israel urged to learn wisdom?",
+          "fil": "Bakit hinimok ang Israel na matuto ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "It makes obedience unnecessary",
+            "It leads toward life, understanding, and peace",
+            "It guarantees power to oppress neighbors"
+          ],
+          "fil": [
+            "Ginagawa nitong hindi kailangan ang pagsunod",
+            "Umaakay ito tungo sa buhay, pagkaunawa, at kapayapaan",
+            "Tinitiyak nito ang kapangyarihang apihin ang kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The appeal to seek wisdom connects it with life and peace (Baruch 3).",
+          "fil": "Ang paghahanap ng karunungan ay iniugnay sa buhay at kapayapaan (Baruc 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How is Jerusalem portrayed as she mourns the exiles?",
+          "fil": "Paano inilarawan ang Jerusalem habang ipinagluluksa ang mga bihag?"
+        },
+        "options": {
+          "en": [
+            "As a grieving mother separated from her children",
+            "As a conqueror boasting over prisoners",
+            "As a merchant celebrating profits"
+          ],
+          "fil": [
+            "Bilang nagdadalamhating inang nahiwalay sa kanyang mga anak",
+            "Bilang mananakop na nagmamayabang sa mga bilanggo",
+            "Bilang mangangalakal na nagdiriwang ng kita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jerusalem speaks as a mother sorrowing over her children's captivity (Baruch 4).",
+          "fil": "Nagsalita ang Jerusalem bilang inang nagdadalamhati sa pagkabihag ng kanyang mga anak (Baruc 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the people do after turning away from God?",
+          "fil": "Ano ang dapat gawin ng mga tao matapos tumalikod sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Return and seek him with renewed zeal",
+            "Assume that prayer is pointless",
+            "Trust their former idols more deeply"
+          ],
+          "fil": [
+            "Manumbalik at hanapin siya nang may panibagong sigasig",
+            "Isiping walang saysay ang panalangin",
+            "Lalong magtiwala sa dati nilang mga diyus-diyusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people are urged to seek God earnestly after their disobedience (Baruch 4).",
+          "fil": "Hinimok ang mga tao na taimtim na hanapin ang Diyos matapos ang kanilang pagsuway (Baruc 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope does Jerusalem express for the children she sent away in sorrow?",
+          "fil": "Anong pag-asa ang ipinahayag ng Jerusalem para sa mga anak na umalis nang may kalungkutan?"
+        },
+        "options": {
+          "en": [
+            "God will bring them back with joy",
+            "Their enemies will become their only saviors",
+            "Their captivity will erase God's memory of them"
+          ],
+          "fil": [
+            "Ibabalik sila ng Diyos nang may kagalakan",
+            "Ang kanilang mga kaaway ang magiging tanging tagapagligtas nila",
+            "Buburahin ng kanilang pagkabihag ang alaala ng Diyos sa kanila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jerusalem trusts that God will replace the sorrow of exile with joyful restoration (Baruch 4).",
+          "fil": "Nagtiwala ang Jerusalem na papalitan ng Diyos ng masayang pagbabalik ang lungkot ng pagkabihag (Baruc 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What change in clothing symbolizes Jerusalem's restoration?",
+          "fil": "Anong pagbabago ng kasuotan ang sumasagisag sa pagpapanumbalik ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Royal robes give way to permanent shame",
+            "Mourning clothes give way to glory and righteousness from God",
+            "Clothes are exchanged for weapons"
+          ],
+          "fil": [
+            "Napalitan ang maharlikang damit ng walang-hanggang kahihiyan",
+            "Napalitan ang damit ng pagluluksa ng kaluwalhatian at katuwiran mula sa Diyos",
+            "Ipinagpalit ang mga damit sa mga sandata"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jerusalem is invited to leave mourning behind and receive God's splendor (Baruch 5).",
+          "fil": "Inanyayahan ang Jerusalem na iwan ang pagluluksa at tanggapin ang karangyaan mula sa Diyos (Baruc 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What joyful sight is Jerusalem told to look for?",
+          "fil": "Anong masayang tanawin ang sinabihan ang Jerusalem na tingnan?"
+        },
+        "options": {
+          "en": [
+            "Her children forgetting her forever",
+            "Her children gathered back by God's command",
+            "Her enemies receiving God's throne"
+          ],
+          "fil": [
+            "Ang kanyang mga anak na lumilimot sa kanya magpakailanman",
+            "Ang kanyang mga anak na muling tinipon sa utos ng Diyos",
+            "Ang kanyang mga kaaway na tumatanggap ng trono ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The scattered children return rejoicing that God has remembered them (Baruch 5).",
+          "fil": "Bumalik ang mga nangalat na anak na nagagalak dahil naalala sila ng Diyos (Baruc 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are mountains lowered and valleys filled in the picture of restoration?",
+          "fil": "Bakit ibinaba ang mga bundok at pinuno ang mga lambak sa larawan ng pagpapanumbalik?"
+        },
+        "options": {
+          "en": [
+            "To provide a safe way home for Israel",
+            "To hide Israel from God's care",
+            "To build a shrine for foreign gods"
+          ],
+          "fil": [
+            "Upang magbigay ng ligtas na daan pauwi para sa Israel",
+            "Upang itago ang Israel sa pangangalaga ng Diyos",
+            "Upang magtayo ng dambana para sa mga dayuhang diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God prepares a level path and leads Israel home in mercy and joy (Baruch 5).",
+          "fil": "Naghanda ang Diyos ng patag na daan at inakay ang Israel pauwi nang may awa at kagalakan (Baruc 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What attitude should the exiles have toward Babylon's impressive idols?",
+          "fil": "Anong saloobin ang dapat taglayin ng mga bihag sa kahanga-hangang mga diyus-diyusan ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "Honor them as creators of life",
+            "Copy the crowd's worship without question",
+            "Refuse to fear or worship them"
+          ],
+          "fil": [
+            "Parangalan ang mga ito bilang mga manlilikha ng buhay",
+            "Tularan ang pagsamba ng mga tao nang walang pagsusuri",
+            "Tumangging matakot o sumamba sa mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Letter of Jeremiah urges loyalty to the Lord despite the surrounding idol worship (Baruch 6).",
+          "fil": "Hinimok ng Sulat ni Jeremias ang katapatan sa Panginoon sa kabila ng pagsamba sa diyus-diyusan sa paligid (Baruc 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the idols' dependence on people show?",
+          "fil": "Ano ang ipinakikita ng pag-asa ng mga diyus-diyusan sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "They secretly rule all nations",
+            "They cannot protect or even move themselves",
+            "They hear every prayer"
+          ],
+          "fil": [
+            "Lihim nilang pinamamahalaan ang lahat ng bansa",
+            "Hindi nila kayang protektahan o igalaw ang sarili",
+            "Naririnig nila ang bawat panalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The idols must be carried and guarded, exposing their powerlessness (Baruch 6).",
+          "fil": "Kailangang buhatin at bantayan ang mga diyus-diyusan, na naghahayag ng kanilang kawalan ng kapangyarihan (Baruc 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do gold and fine clothing not make these idols divine?",
+          "fil": "Bakit hindi tunay na mga diyos ang mga diyus-diyusang ito kahit may ginto at magarang damit?"
+        },
+        "options": {
+          "en": [
+            "Their decorations let them forgive sins",
+            "They remain lifeless objects made by human workers",
+            "Gold automatically makes every object a god"
+          ],
+          "fil": [
+            "Dahil sa kanilang palamuti ay nakapagpapatawad sila ng kasalanan",
+            "Nananatili silang walang-buhay na bagay na gawa ng mga manggagawa",
+            "Awtomatikong ginagawang diyos ng ginto ang bawat bagay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Costly decoration cannot turn human craftsmanship into a living god (Baruch 6).",
+          "fil": "Hindi ginagawang buhay na diyos ng mamahaling palamuti ang gawang-kamay ng tao (Baruc 6)."
+        }
+      }
+    ]
+  }
+}
