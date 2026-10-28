@@ -1,0 +1,2205 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What attitude toward the Lord is foundational to learning wisdom?",
+          "fil": "Anong saloobin sa Panginoon ang pundasyon ng pagkatuto ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Reverence for him",
+            "Competing with him",
+            "Ignoring him"
+          ],
+          "fil": [
+            "Paggalang sa kanya",
+            "Pakikipagpaligsahan sa kanya",
+            "Pagbabalewala sa kanya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter presents reverence for the Lord as the starting point for true knowledge (Proverbs 1).",
+          "fil": "Iniharap ng kabanata ang paggalang sa Panginoon bilang simula ng tunay na kaalaman (Mga Kawikaan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the learner do when sinners invite him to join violent schemes?",
+          "fil": "Ano ang dapat gawin ng nag-aaral kapag inanyayahan siya ng mga makasalanan sa marahas na balak?"
+        },
+        "options": {
+          "en": [
+            "Refuse to join them",
+            "Join for a share of the stolen goods",
+            "Encourage them to harm more people"
+          ],
+          "fil": [
+            "Tumangging sumama sa kanila",
+            "Sumama upang makibahagi sa ninakaw",
+            "Hikayatin silang manakit ng mas maraming tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The father's instruction warns against companions who seek profit through violence (Proverbs 1).",
+          "fil": "Nagbabala ang tagubilin ng ama laban sa mga kasamang naghahanap ng pakinabang sa karahasan (Mga Kawikaan 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Wisdom pictured calling to people?",
+          "fil": "Paano inilarawang nananawagan sa mga tao ang Karunungan?"
+        },
+        "options": {
+          "en": [
+            "Openly in public places",
+            "Secretly to only one royal family",
+            "Silently beneath the sea"
+          ],
+          "fil": [
+            "Hayagan sa mga pampublikong lugar",
+            "Lihim sa iisang maharlikang pamilya lamang",
+            "Tahimik sa ilalim ng dagat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom calls publicly and urges people to respond to correction (Proverbs 1).",
+          "fil": "Hayagang nananawagan ang Karunungan at hinihikayat ang mga tao na tumugon sa pagtutuwid (Mga Kawikaan 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How earnestly should a person seek wisdom?",
+          "fil": "Gaano kasigasig dapat hanapin ang karunungan?"
+        },
+        "options": {
+          "en": [
+            "Only when nothing else is enjoyable",
+            "Without listening or asking anything",
+            "Like searching for valuable hidden treasure"
+          ],
+          "fil": [
+            "Kapag wala nang ibang nakalilibang lamang",
+            "Nang hindi nakikinig o nagtatanong",
+            "Tulad ng paghahanap ng mahalagang nakatagong kayamanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The learner is urged to pursue understanding with serious effort (Proverbs 2).",
+          "fil": "Hinimok ang nag-aaral na pagsikapang hanapin ang pang-unawa (Mga Kawikaan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is the source of wisdom and understanding?",
+          "fil": "Sino ang pinagmumulan ng karunungan at pang-unawa?"
+        },
+        "options": {
+          "en": [
+            "The Lord",
+            "Dishonest companions",
+            "Wealth by itself"
+          ],
+          "fil": [
+            "Ang Panginoon",
+            "Ang mga mandaraya na kasama",
+            "Ang kayamanan lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord gives the wisdom that guides those who walk uprightly (Proverbs 2).",
+          "fil": "Ibinibigay ng Panginoon ang karunungang gumagabay sa mga namumuhay nang matuwid (Mga Kawikaan 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What protection does wisdom give against corrupt companions?",
+          "fil": "Anong pag-iingat ang ibinibigay ng karunungan laban sa masasamang kasama?"
+        },
+        "options": {
+          "en": [
+            "It makes every harmful choice harmless",
+            "It helps a person recognize and avoid their crooked paths",
+            "It encourages delight in wrongdoing"
+          ],
+          "fil": [
+            "Ginagawa nitong walang pinsala ang bawat masamang pasiya",
+            "Tinutulungan nitong makilala at iwasan ang kanilang likong landas",
+            "Hinihikayat nitong ikatuwa ang paggawa ng mali"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Wisdom guards the learner from people who abandon upright ways (Proverbs 2).",
+          "fil": "Iniingatan ng karunungan ang nag-aaral mula sa mga tumatalikod sa matuwid na daan (Mga Kawikaan 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "On whom should a person depend rather than on personal understanding alone?",
+          "fil": "Kanino dapat umasa ang tao sa halip na sa sarili niyang pang-unawa lamang?"
+        },
+        "options": {
+          "en": [
+            "The most boastful neighbor",
+            "Whoever offers dishonest gain",
+            "The Lord"
+          ],
+          "fil": [
+            "Sa pinakamayabang na kapitbahay",
+            "Sa sinumang nag-aalok ng madayang pakinabang",
+            "Sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter urges wholehearted trust in God's guidance (Proverbs 3).",
+          "fil": "Hinikayat ng kabanata ang buong pusong pagtitiwala sa patnubay ng Diyos (Mga Kawikaan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a person honor the Lord with possessions?",
+          "fil": "Paano dapat parangalan ang Panginoon sa pamamagitan ng mga ari-arian?"
+        },
+        "options": {
+          "en": [
+            "Use wealth only to boast over others",
+            "Obtain more by cheating the poor",
+            "Give him priority from what one receives"
+          ],
+          "fil": [
+            "Gamitin lamang ang yaman upang magyabang sa iba",
+            "Dagdagan ito sa pandaraya sa mahihirap",
+            "Unahin siya mula sa mga natatanggap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The advice calls for honoring God with one's resources and first produce (Proverbs 3).",
+          "fil": "Nanawagan ang payo na parangalan ang Diyos sa mga panustos at unang bunga (Mga Kawikaan 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the learner understand the Lord's correction?",
+          "fil": "Paano dapat unawain ng nag-aaral ang pagtutuwid ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "As proof that God cannot care",
+            "As a reason to reject all instruction",
+            "As loving guidance like a father's care"
+          ],
+          "fil": [
+            "Bilang patunay na walang malasakit ang Diyos",
+            "Bilang dahilan upang tanggihan ang lahat ng pagtuturo",
+            "Bilang mapagmahal na patnubay tulad ng pag-aalaga ng ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's discipline is compared with a father's correction of a loved child (Proverbs 3).",
+          "fil": "Inihambing ang pagdidisiplina ng Diyos sa pagtutuwid ng ama sa minamahal niyang anak (Mga Kawikaan 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What does the father urge his children to value and keep?",
+          "fil": "Ano ang hinimok ng ama na pahalagahan at ingatan ng kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "Wealth gained through violence",
+            "Wisdom and understanding",
+            "Revenge and deception"
+          ],
+          "fil": [
+            "Yamang nakuha sa karahasan",
+            "Karunungan at pang-unawa",
+            "Paghihiganti at panlilinlang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The father passes on the instruction to seek and hold firmly to wisdom (Proverbs 4).",
+          "fil": "Ipinasa ng ama ang tagubiling hanapin at panghawakan ang karunungan (Mga Kawikaan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which path should the learner avoid entering?",
+          "fil": "Aling landas ang dapat iwasang pasukin ng nag-aaral?"
+        },
+        "options": {
+          "en": [
+            "The way of wicked people",
+            "The way of receiving good teaching",
+            "The way of honest living"
+          ],
+          "fil": [
+            "Ang daan ng masasamang tao",
+            "Ang daan ng pagtanggap ng mabuting turo",
+            "Ang daan ng matapat na pamumuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter contrasts the dark road of wrongdoing with the brighter path of the righteous (Proverbs 4).",
+          "fil": "Inihambing ng kabanata ang madilim na daan ng kasamaan sa mas maliwanag na landas ng mga matuwid (Mga Kawikaan 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should a person carefully guard the heart?",
+          "fil": "Bakit dapat maingat na bantayan ng tao ang kanyang puso?"
+        },
+        "options": {
+          "en": [
+            "It allows every desire to be followed safely",
+            "It makes honest words unnecessary",
+            "It shapes the direction of life"
+          ],
+          "fil": [
+            "Pinahihintulutan nitong ligtas na sundin ang bawat pagnanasa",
+            "Ginagawa nitong hindi kailangan ang matatapat na salita",
+            "Hinuhubog nito ang direksiyon ng buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The heart must be guarded because life flows from its inner direction (Proverbs 4).",
+          "fil": "Dapat bantayan ang puso dahil nagmumula sa loob nito ang takbo ng buhay (Mga Kawikaan 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What warning is given about seductive words that first seem pleasant?",
+          "fil": "Anong babala ang ibinigay tungkol sa mapang-akit na mga salitang sa simula ay kaaya-aya?"
+        },
+        "options": {
+          "en": [
+            "They can lead to bitter and harmful consequences",
+            "They always prove trustworthy",
+            "They cancel every marriage commitment"
+          ],
+          "fil": [
+            "Maaaring humantong ang mga ito sa mapait at masamang bunga",
+            "Lagi itong mapagkakatiwalaan",
+            "Pinawawalang-bisa nito ang bawat pangako sa pag-aasawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter warns that an attractive invitation to unfaithfulness ends in sorrow (Proverbs 5).",
+          "fil": "Nagbabala ang kabanata na ang kaakit-akit na paanyaya sa pagtataksil ay nagtatapos sa kalungkutan (Mga Kawikaan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where should a married person direct affectionate loyalty?",
+          "fil": "Saan dapat ituon ng may-asawa ang mapagmahal na katapatan?"
+        },
+        "options": {
+          "en": [
+            "To whoever promises the most gifts",
+            "To a secret affair",
+            "To one's own spouse"
+          ],
+          "fil": [
+            "Sa sinumang nangangako ng pinakamaraming regalo",
+            "Sa lihim na pakikipagrelasyon",
+            "Sa sariling asawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter encourages joy and faithfulness within one's own marriage (Proverbs 5).",
+          "fil": "Hinihikayat ng kabanata ang kagalakan at katapatan sa sariling pag-aasawa (Mga Kawikaan 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter say about the Lord's knowledge of human conduct?",
+          "fil": "Ano ang sinabi ng kabanata tungkol sa kaalaman ng Panginoon sa kilos ng tao?"
+        },
+        "options": {
+          "en": [
+            "He sees and considers a person's ways",
+            "He knows only what kings tell him",
+            "He cannot see secret wrongdoing"
+          ],
+          "fil": [
+            "Nakikita at sinusuri niya ang mga daan ng tao",
+            "Ang sinasabi lamang ng mga hari ang alam niya",
+            "Hindi niya nakikita ang lihim na kasalanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Human choices take place before the Lord, who sees every path (Proverbs 5).",
+          "fil": "Nasa harap ng Panginoon ang mga pasiya ng tao at nakikita niya ang bawat landas (Mga Kawikaan 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What lesson does the ant teach the lazy person?",
+          "fil": "Anong aral ang itinuturo ng langgam sa taong tamad?"
+        },
+        "options": {
+          "en": [
+            "Wait for others to do every task",
+            "Work diligently and prepare without constant supervision",
+            "Avoid preparing any food"
+          ],
+          "fil": [
+            "Hintaying gawin ng iba ang bawat gawain",
+            "Masikap na magtrabaho at maghanda kahit walang palaging nagbabantay",
+            "Iwasang maghanda ng anumang pagkain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ant's steady preparation is an example against laziness (Proverbs 6).",
+          "fil": "Halimbawa laban sa katamaran ang tuloy-tuloy na paghahanda ng langgam (Mga Kawikaan 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which behavior is included among the things the Lord hates?",
+          "fil": "Anong asal ang kabilang sa mga kinapopootan ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Stirring up conflict among others",
+            "Giving truthful testimony",
+            "Helping neighbors make peace"
+          ],
+          "fil": [
+            "Paghahasik ng alitan sa iba",
+            "Pagbibigay ng tapat na patotoo",
+            "Pagtulong sa mga kapitbahay na magkasundo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter condemns deceit, violence, and the deliberate spreading of conflict (Proverbs 6).",
+          "fil": "Kinondena ng kabanata ang panlilinlang, karahasan, at sinadyang paghahasik ng alitan (Mga Kawikaan 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What picture explains the danger of adultery?",
+          "fil": "Anong larawan ang nagpapaliwanag sa panganib ng pagtataksil sa asawa?"
+        },
+        "options": {
+          "en": [
+            "Gathering harmless flowers",
+            "Handling fire without escaping burns",
+            "Planting a tree that always brings peace"
+          ],
+          "fil": [
+            "Pamimitas ng mga bulaklak na walang panganib",
+            "Paghawak ng apoy na hindi makaiiwas sa paso",
+            "Pagtatanim ng punong laging nagdadala ng kapayapaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The fire comparison shows that unfaithfulness brings real harm rather than safety (Proverbs 6).",
+          "fil": "Ipinakita ng paghahambing sa apoy na may tunay na pinsala ang pagtataksil at hindi kaligtasan (Mga Kawikaan 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What kind of person is observed walking toward temptation?",
+          "fil": "Anong uri ng tao ang nakitang lumalakad patungo sa tukso?"
+        },
+        "options": {
+          "en": [
+            "A wise teacher avoiding danger",
+            "An inexperienced young man lacking judgment",
+            "A king leading an army"
+          ],
+          "fil": [
+            "Isang matalinong gurong umiiwas sa panganib",
+            "Isang kabataang kulang sa karanasan at pag-unawa",
+            "Isang haring nangunguna sa hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning story follows a naive young man who goes near a dangerous invitation (Proverbs 7).",
+          "fil": "Sinundan ng babalang kuwento ang isang walang muwang na kabataang lumapit sa mapanganib na paanyaya (Mga Kawikaan 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the woman claim to make the encounter seem safe from discovery?",
+          "fil": "Ano ang sinabi ng babae upang magmukhang ligtas na hindi matutuklasan ang pagtatagpo?"
+        },
+        "options": {
+          "en": [
+            "Every person in the city approves",
+            "Her husband is away on a journey",
+            "The Lord has abolished faithfulness"
+          ],
+          "fil": [
+            "Sang-ayon ang bawat tao sa lunsod",
+            "Nasa paglalakbay ang kanyang asawa",
+            "Inalis na ng Panginoon ang katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The woman's assurance of secrecy is part of the temptation (Proverbs 7).",
+          "fil": "Bahagi ng tukso ang pagtiyak ng babae na mananatiling lihim ang mangyayari (Mga Kawikaan 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the listener do instead of following the young man's example?",
+          "fil": "Ano ang dapat gawin ng nakikinig sa halip na tularan ang kabataan?"
+        },
+        "options": {
+          "en": [
+            "Assume temptation has no consequences",
+            "Keep the heart from turning toward that path",
+            "Follow every flattering invitation"
+          ],
+          "fil": [
+            "Ipagpalagay na walang bunga ang tukso",
+            "Ingatan ang pusong huwag bumaling sa landas na iyon",
+            "Sundin ang bawat mapanghalinang paanyaya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing appeal urges listeners to avoid a path that leads to destruction (Proverbs 7).",
+          "fil": "Hinimok ng pangwakas na pakiusap ang mga nakikinig na iwasan ang landas ng kapahamakan (Mga Kawikaan 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Who is pictured calling people to choose wise instruction?",
+          "fil": "Sino ang inilarawang nananawagan sa mga tao na piliin ang matalinong turo?"
+        },
+        "options": {
+          "en": [
+            "A thief planning an attack",
+            "Wisdom speaking as a woman",
+            "Pharaoh speaking as a priest"
+          ],
+          "fil": [
+            "Isang magnanakaw na nagpaplano ng pag-atake",
+            "Ang Karunungang nagsasalitang parang babae",
+            "Si Faraong nagsasalitang parang pari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Wisdom speaks openly and invites all kinds of people to learn (Proverbs 8).",
+          "fil": "Hayagang nagsalita ang Karunungan at inanyayahan ang iba't ibang tao na matuto (Mga Kawikaan 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Wisdom's value compare with precious metals and jewels?",
+          "fil": "Paano inihambing ang halaga ng Karunungan sa mamahaling metal at hiyas?"
+        },
+        "options": {
+          "en": [
+            "It has no value beside money",
+            "It is worth choosing above material riches",
+            "It matters only to wealthy kings"
+          ],
+          "fil": [
+            "Wala itong halaga kung ihahambing sa salapi",
+            "Dapat itong piliin nang higit sa materyal na kayamanan",
+            "Mahalaga lamang ito sa mayayamang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Wisdom presents her instruction as more valuable than the finest wealth (Proverbs 8).",
+          "fil": "Iniharap ng Karunungan ang kanyang turo bilang higit na mahalaga kaysa pinakamainam na kayamanan (Mga Kawikaan 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Wisdom describe about the world's beginning?",
+          "fil": "Ano ang inilarawan ng Karunungan tungkol sa simula ng daigdig?"
+        },
+        "options": {
+          "en": [
+            "Her defeat of God in a battle",
+            "Her presence when God ordered creation",
+            "Her construction of Pharaoh's palace"
+          ],
+          "fil": [
+            "Ang kanyang pagdaig sa Diyos sa isang labanan",
+            "Ang kanyang presensiya nang isaayos ng Diyos ang sangnilikha",
+            "Ang kanyang pagtatayo ng palasyo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem connects wisdom with God's ordering of the created world (Proverbs 8).",
+          "fil": "Iniugnay ng tula ang karunungan sa pagsasaayos ng Diyos sa nilikhang daigdig (Mga Kawikaan 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does Wisdom's invitation offer to the inexperienced?",
+          "fil": "Ano ang alok ng paanyaya ng Karunungan sa walang karanasan?"
+        },
+        "options": {
+          "en": [
+            "Reject every teacher",
+            "Become rich through stealing",
+            "Leave foolishness and learn the way of understanding"
+          ],
+          "fil": [
+            "Tanggihan ang bawat guro",
+            "Yumaman sa pamamagitan ng pagnanakaw",
+            "Iwan ang kamangmangan at matutuhan ang daan ng pang-unawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wisdom invites the simple to receive instruction and live wisely (Proverbs 9).",
+          "fil": "Inanyayahan ng Karunungan ang walang muwang na tumanggap ng turo at mamuhay nang matalino (Mga Kawikaan 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does a wise person respond to correction?",
+          "fil": "Paano tumutugon sa pagtutuwid ang matalinong tao?"
+        },
+        "options": {
+          "en": [
+            "By refusing ever to change",
+            "By hating every helpful teacher",
+            "By valuing it and learning more"
+          ],
+          "fil": [
+            "Sa pagtangging magbago kailanman",
+            "Sa pagkapoot sa bawat matulunging guro",
+            "Sa pagpapahalaga rito at pagkatuto pa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A wise learner welcomes instruction rather than treating it as an insult (Proverbs 9).",
+          "fil": "Tinatanggap ng matalinong nag-aaral ang turo sa halip na ituring itong insulto (Mga Kawikaan 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger is hidden behind Folly's appealing invitation?",
+          "fil": "Anong panganib ang nakatago sa kaakit-akit na paanyaya ng Kamangmangan?"
+        },
+        "options": {
+          "en": [
+            "A path leading to death",
+            "A guaranteed life of wisdom",
+            "A harmless lesson in generosity"
+          ],
+          "fil": [
+            "Landas na humahantong sa kamatayan",
+            "Tiyak na buhay ng karunungan",
+            "Aral na walang panganib tungkol sa pagkabukas-palad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Folly promises easy pleasure while concealing its deadly end (Proverbs 9).",
+          "fil": "Nangako ang Kamangmangan ng madaling kasiyahan habang itinatago ang nakamamatay na wakas nito (Mga Kawikaan 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What effect does a wise child have on a parent?",
+          "fil": "Ano ang epekto ng matalinong anak sa magulang?"
+        },
+        "options": {
+          "en": [
+            "Makes honest living impossible",
+            "Brings joy rather than the grief of foolishness",
+            "Requires the parent to ignore all advice"
+          ],
+          "fil": [
+            "Ginagawang imposible ang matapat na pamumuhay",
+            "Nagdadala ng saya sa halip na dalamhati ng kamangmangan",
+            "Inaatasang balewalain ng magulang ang lahat ng payo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening saying contrasts a wise child's joy with a foolish child's sorrow (Proverbs 10).",
+          "fil": "Inihambing ng pambungad na kawikaan ang sayang dulot ng matalinong anak sa lungkot ng hangal na anak (Mga Kawikaan 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter encourage instead of laziness?",
+          "fil": "Ano ang hinihikayat ng kabanata sa halip na katamaran?"
+        },
+        "options": {
+          "en": [
+            "Expecting deceit to supply every need",
+            "Sleeping through every harvest",
+            "Diligent work at the proper time"
+          ],
+          "fil": [
+            "Pag-asang panlilinlang ang tutustos sa bawat pangangailangan",
+            "Pagtulog sa buong anihan",
+            "Masikap na paggawa sa tamang panahon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Diligence is praised while neglect of work is linked with lack (Proverbs 10).",
+          "fil": "Pinuri ang kasipagan habang iniugnay sa kakulangan ang pagpapabaya sa gawain (Mga Kawikaan 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude helps cover offenses rather than stir up conflict?",
+          "fil": "Anong saloobin ang tumutulong na palampasin ang mga pagkukulang sa halip na maghasik ng alitan?"
+        },
+        "options": {
+          "en": [
+            "Love",
+            "Envy",
+            "Hatred"
+          ],
+          "fil": [
+            "Pag-ibig",
+            "Inggit",
+            "Poot"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter contrasts love's peacemaking influence with hatred's quarrels (Proverbs 10).",
+          "fil": "Inihambing ng kabanata ang impluwensiya ng pag-ibig sa pagkakasundo sa alitang dulot ng poot (Mga Kawikaan 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What does the Lord value in buying and selling?",
+          "fil": "Ano ang pinahahalagahan ng Panginoon sa pagbili at pagbebenta?"
+        },
+        "options": {
+          "en": [
+            "Weights designed to cheat customers",
+            "Profit gained by any lie",
+            "Honest scales and measures"
+          ],
+          "fil": [
+            "Mga pabigat na dinisenyo upang dayain ang mamimili",
+            "Tubong nakuha sa anumang kasinungalingan",
+            "Tapat na timbangan at panukat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Honest trade pleases the Lord while dishonest scales offend him (Proverbs 11).",
+          "fil": "Kinalulugdan ng Panginoon ang tapat na kalakalan at kinamumuhian ang madayang timbangan (Mga Kawikaan 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude is associated with wisdom rather than disgrace?",
+          "fil": "Anong saloobin ang kaugnay ng karunungan sa halip na kahihiyan?"
+        },
+        "options": {
+          "en": [
+            "Humility",
+            "Boastfulness",
+            "Pride"
+          ],
+          "fil": [
+            "Pagpapakumbaba",
+            "Pagyayabang",
+            "Pagmamataas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter contrasts the wisdom of humility with the disgrace that follows pride (Proverbs 11).",
+          "fil": "Inihambing ng kabanata ang karunungan ng pagpapakumbaba sa kahihiyang kasunod ng pagmamataas (Mga Kawikaan 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter view generosity?",
+          "fil": "Paano tinatanaw ng kabanata ang pagkabukas-palad?"
+        },
+        "options": {
+          "en": [
+            "Keeping all help from others is always wise",
+            "Giving help can bring refreshment to the giver too",
+            "Every gift to others is foolish"
+          ],
+          "fil": [
+            "Laging matalino ang pagkakait ng lahat ng tulong sa iba",
+            "Maaaring magdala rin ng ginhawa sa nagbibigay ang pagtulong",
+            "Kamangmangan ang bawat pagbibigay sa iba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The sayings encourage generosity and describe the generous person as refreshed (Proverbs 11).",
+          "fil": "Hinikayat ng mga kawikaan ang pagkabukas-palad at inilarawang nagiginhawahan ang taong bukas-palad (Mga Kawikaan 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What does loving correction show about a person?",
+          "fil": "Ano ang ipinapakita ng pagmamahal sa pagtutuwid tungkol sa isang tao?"
+        },
+        "options": {
+          "en": [
+            "A wish to deceive everyone",
+            "A desire to learn",
+            "A refusal to gain knowledge"
+          ],
+          "fil": [
+            "Hangaring linlangin ang lahat",
+            "Hangaring matuto",
+            "Pagtangging magkaroon ng kaalaman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Welcoming discipline is linked with loving knowledge (Proverbs 12).",
+          "fil": "Iniugnay sa pagmamahal sa kaalaman ang pagtanggap sa disiplina (Mga Kawikaan 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How can wise words differ from reckless speech?",
+          "fil": "Paano naiiba ang matalinong pananalita sa padalos-dalos na salita?"
+        },
+        "options": {
+          "en": [
+            "They always spread more lies",
+            "They can bring healing rather than hurt",
+            "They make kindness impossible"
+          ],
+          "fil": [
+            "Lagi itong nagpapalaganap ng mas maraming kasinungalingan",
+            "Maaari itong magdala ng paggaling sa halip na pananakit",
+            "Ginagawa nitong imposible ang kabaitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter compares careless words with wounds and wise speech with healing (Proverbs 12).",
+          "fil": "Inihambing ng kabanata ang pabaya na salita sa sugat at matalinong pananalita sa paggaling (Mga Kawikaan 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is encouraged by the contrast between working one's land and chasing empty pursuits?",
+          "fil": "Ano ang hinihikayat ng paghahambing ng pagsasaka sa sariling lupa at paghabol sa walang kabuluhang bagay?"
+        },
+        "options": {
+          "en": [
+            "Waiting for wealth without effort",
+            "Steady, useful work",
+            "Abandoning every responsibility"
+          ],
+          "fil": [
+            "Paghihintay ng yaman nang walang pagsisikap",
+            "Matatag at kapaki-pakinabang na paggawa",
+            "Pag-iwan sa bawat pananagutan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Useful labor is commended over pursuits that produce no real provision (Proverbs 12).",
+          "fil": "Pinuri ang kapaki-pakinabang na paggawa kaysa mga gawaing walang tunay na naitutustos (Mga Kawikaan 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "How does a wise child treat a father's instruction?",
+          "fil": "Paano tinatrato ng matalinong anak ang turo ng ama?"
+        },
+        "options": {
+          "en": [
+            "Listens and learns",
+            "Mocks anyone who teaches",
+            "Rejects every correction"
+          ],
+          "fil": [
+            "Nakikinig at natututo",
+            "Kinukutya ang sinumang nagtuturo",
+            "Tinatanggihan ang bawat pagtutuwid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter opens by contrasting a teachable child with one who refuses rebuke (Proverbs 13).",
+          "fil": "Nagsimula ang kabanata sa paghahambing ng anak na tumatanggap ng turo sa ayaw masaway (Mga Kawikaan 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should a person guard the mouth?",
+          "fil": "Bakit dapat bantayan ng tao ang kanyang bibig?"
+        },
+        "options": {
+          "en": [
+            "Every thought must be shouted immediately",
+            "Silence always means dishonesty",
+            "Careful speech helps protect life"
+          ],
+          "fil": [
+            "Dapat isigaw agad ang bawat iniisip",
+            "Laging nangangahulugan ng pandaraya ang pananahimik",
+            "Tumutulong ang maingat na pananalita sa pag-iingat ng buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Restraint in speech is contrasted with words that bring ruin (Proverbs 13).",
+          "fil": "Inihambing ang pagpipigil sa pagsasalita sa mga salitang nagdadala ng kapahamakan (Mga Kawikaan 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of companions help a person grow wise?",
+          "fil": "Anong uri ng mga kasama ang tumutulong sa tao na maging matalino?"
+        },
+        "options": {
+          "en": [
+            "People who are wise",
+            "People devoted to foolishness",
+            "People who encourage dishonesty"
+          ],
+          "fil": [
+            "Mga taong matalino",
+            "Mga taong nakatuon sa kamangmangan",
+            "Mga taong humihikayat sa pandaraya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Walking with wise people helps the learner gain wisdom (Proverbs 13).",
+          "fil": "Nakatutulong ang pagsama sa matatalino upang magkaroon ng karunungan ang nag-aaral (Mga Kawikaan 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "How is a wise woman's care for her household pictured?",
+          "fil": "Paano inilarawan ang pag-aalaga ng matalinong babae sa kanyang sambahayan?"
+        },
+        "options": {
+          "en": [
+            "Building up her house rather than tearing it down",
+            "Refusing to care for anyone",
+            "Destroying everything she has received"
+          ],
+          "fil": [
+            "Pagpapatatag sa kanyang bahay sa halip na pagwasak dito",
+            "Pagtangging pangalagaan ang sinuman",
+            "Pagwasak sa lahat ng kanyang natanggap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom strengthens a household while foolishness undermines it (Proverbs 14).",
+          "fil": "Pinatatatag ng karunungan ang sambahayan habang pinahihina ito ng kamangmangan (Mga Kawikaan 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about a path that seems right to a person?",
+          "fil": "Anong babala ang ibinigay tungkol sa landas na mukhang tama sa isang tao?"
+        },
+        "options": {
+          "en": [
+            "Its end may still lead to death",
+            "No choice ever has consequences",
+            "Personal approval makes every path safe"
+          ],
+          "fil": [
+            "Maaari pa ring humantong sa kamatayan ang wakas nito",
+            "Walang pasiyang may anumang bunga",
+            "Ginagawang ligtas ng sariling pagsang-ayon ang bawat landas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "A person's first impression is not a reliable measure of a path's outcome (Proverbs 14).",
+          "fil": "Hindi maaasahang panukat sa kahihinatnan ng landas ang unang akala ng tao (Mga Kawikaan 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response to anger shows understanding?",
+          "fil": "Anong pagtugon sa galit ang nagpapakita ng pang-unawa?"
+        },
+        "options": {
+          "en": [
+            "Refusing ever to listen",
+            "Being patient rather than quick-tempered",
+            "Starting a quarrel immediately"
+          ],
+          "fil": [
+            "Pagtangging makinig kailanman",
+            "Pagiging matiisin sa halip na madaling magalit",
+            "Agad na pagsisimula ng away"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Patience is associated with understanding while quick anger displays foolishness (Proverbs 14).",
+          "fil": "Iniugnay sa pang-unawa ang pagtitiis habang nagpapakita ng kamangmangan ang madaling paggalit (Mga Kawikaan 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What kind of reply can calm an angry exchange?",
+          "fil": "Anong uri ng sagot ang makapagpapahinahon sa mainit na usapan?"
+        },
+        "options": {
+          "en": [
+            "A louder threat",
+            "A gentle reply",
+            "A cruel insult"
+          ],
+          "fil": [
+            "Mas malakas na banta",
+            "Mahinahong sagot",
+            "Malupit na insulto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gentle speech can reduce anger while harsh words intensify it (Proverbs 15).",
+          "fil": "Maaaring magpahupa ng galit ang mahinahong salita habang pinalalala ito ng mabagsik na pananalita (Mga Kawikaan 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter teach about what the Lord sees?",
+          "fil": "Ano ang itinuturo ng kabanata tungkol sa nakikita ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He cannot see hidden choices",
+            "He sees only inside the temple",
+            "He observes both good and evil everywhere"
+          ],
+          "fil": [
+            "Hindi niya nakikita ang mga lihim na pasiya",
+            "Sa loob lamang ng templo siya nakakakita",
+            "Nakikita niya ang mabuti at masama saanman"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord's watchfulness reaches every place and every kind of conduct (Proverbs 15).",
+          "fil": "Umaabot sa bawat lugar at bawat uri ng asal ang pagbabantay ng Panginoon (Mga Kawikaan 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps plans succeed instead of failing through isolation?",
+          "fil": "Ano ang tumutulong upang magtagumpay ang mga plano sa halip na mabigo dahil sa pag-iisa?"
+        },
+        "options": {
+          "en": [
+            "Trusting the first rumor heard",
+            "Refusing all discussion",
+            "Seeking the counsel of advisers"
+          ],
+          "fil": [
+            "Pagtitiwala sa unang tsismis na narinig",
+            "Pagtanggi sa lahat ng pag-uusap",
+            "Paghingi ng payo sa mga tagapayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter commends consultation rather than making plans without advice (Proverbs 15).",
+          "fil": "Pinuri ng kabanata ang pagsangguni sa halip na pagpaplano nang walang payo (Mga Kawikaan 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What should a person do with plans and work?",
+          "fil": "Ano ang dapat gawin ng tao sa kanyang mga plano at gawain?"
+        },
+        "options": {
+          "en": [
+            "Base them entirely on dishonest gain",
+            "Entrust them to the Lord",
+            "Hide them from God"
+          ],
+          "fil": [
+            "Ibatay ang lahat sa madayang pakinabang",
+            "Ipagkatiwala ang mga ito sa Panginoon",
+            "Itago ang mga ito sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter calls for committing one's actions to God's direction (Proverbs 16).",
+          "fil": "Nanawagan ang kabanata na ipagkatiwala ang mga kilos sa patnubay ng Diyos (Mga Kawikaan 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger is associated with pride?",
+          "fil": "Anong panganib ang kaugnay ng pagmamataas?"
+        },
+        "options": {
+          "en": [
+            "It can lead to a downfall",
+            "It guarantees wise judgment",
+            "It removes every need for correction"
+          ],
+          "fil": [
+            "Maaari itong humantong sa pagbagsak",
+            "Tinitiyak nito ang matalinong paghatol",
+            "Inaalis nito ang lahat ng pangangailangang maituwid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Pride is presented as a warning sign before ruin (Proverbs 16).",
+          "fil": "Iniharap ang pagmamataas bilang babala bago ang kapahamakan (Mga Kawikaan 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What achievement is valued above conquering a city?",
+          "fil": "Anong tagumpay ang higit na pinahalagahan kaysa pagsakop sa lunsod?"
+        },
+        "options": {
+          "en": [
+            "Gathering the most weapons",
+            "Controlling one's temper",
+            "Winning every argument by shouting"
+          ],
+          "fil": [
+            "Pagtitipon ng pinakamaraming sandata",
+            "Pagpipigil sa sariling galit",
+            "Pagwawagi sa bawat pagtatalo sa pagsigaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Patience and self-control are praised above military might (Proverbs 16).",
+          "fil": "Pinuri ang pagtitiis at pagpipigil sa sarili nang higit sa lakas ng hukbo (Mga Kawikaan 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Which home situation is presented as better?",
+          "fil": "Aling kalagayan ng tahanan ang iniharap na mas mabuti?"
+        },
+        "options": {
+          "en": [
+            "A rich feast with constant fighting",
+            "Little food with peace",
+            "Abundance gained by betraying friends"
+          ],
+          "fil": [
+            "Marangyang piging na may palaging pag-aaway",
+            "Kaunting pagkain na may kapayapaan",
+            "Kasaganaang nakuha sa pagtataksil sa kaibigan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A peaceful simple meal is preferred to plenty accompanied by conflict (Proverbs 17).",
+          "fil": "Mas pinili ang payapang simpleng pagkain kaysa kasaganaang may kasamang alitan (Mga Kawikaan 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What marks a true friend in difficult times?",
+          "fil": "Ano ang katangian ng tunay na kaibigan sa mahirap na panahon?"
+        },
+        "options": {
+          "en": [
+            "Continuing love and support",
+            "Leaving as soon as help is needed",
+            "Spreading a friend's troubles as gossip"
+          ],
+          "fil": [
+            "Patuloy na pagmamahal at suporta",
+            "Pag-alis agad kapag kailangan ng tulong",
+            "Pagpapakalat ng problema ng kaibigan bilang tsismis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter describes faithful friendship as enduring through adversity (Proverbs 17).",
+          "fil": "Inilarawan ng kabanata ang tapat na pagkakaibigan na nananatili sa kahirapan (Mga Kawikaan 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the picture of a cheerful heart as medicine encourage?",
+          "fil": "Ano ang hinihikayat ng larawan ng masayang puso bilang gamot?"
+        },
+        "options": {
+          "en": [
+            "A joyful spirit that brings refreshment",
+            "Pretending that sick people need no care",
+            "Mocking everyone who is sad"
+          ],
+          "fil": [
+            "Masayang diwang nagbibigay ng ginhawa",
+            "Pagkukunwaring hindi kailangan ng pag-aalaga ang may sakit",
+            "Pangungutya sa lahat ng malungkot"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The saying values the strengthening effect of a cheerful heart (Proverbs 17).",
+          "fil": "Pinahalagahan ng kawikaan ang nakapagpapalakas na epekto ng masayang puso (Mga Kawikaan 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What should a person do before answering a matter?",
+          "fil": "Ano ang dapat gawin ng tao bago sumagot sa isang usapin?"
+        },
+        "options": {
+          "en": [
+            "Decide before hearing any facts",
+            "Listen to it first",
+            "Repeat the first rumor loudly"
+          ],
+          "fil": [
+            "Magpasiya bago marinig ang anumang katotohanan",
+            "Pakinggan muna ito",
+            "Ulitin nang malakas ang unang tsismis"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Answering before listening is described as foolish and shameful (Proverbs 18).",
+          "fil": "Inilarawang hangal at kahiya-hiya ang pagsagot bago makinig (Mga Kawikaan 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is compared to a strong place of safety for the righteous?",
+          "fil": "Ano ang inihambing sa matibay na ligtas na lugar para sa matuwid?"
+        },
+        "options": {
+          "en": [
+            "A dishonest person's promises",
+            "The name of the Lord",
+            "Pride in one's own cleverness"
+          ],
+          "fil": [
+            "Ang mga pangako ng mandaraya",
+            "Ang pangalan ng Panginoon",
+            "Pagmamataas sa sariling talino"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter pictures the Lord's name as a secure refuge (Proverbs 18).",
+          "fil": "Inilarawan ng kabanata ang pangalan ng Panginoon bilang tiyak na kanlungan (Mga Kawikaan 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should words be used with care?",
+          "fil": "Bakit dapat gamitin nang maingat ang mga salita?"
+        },
+        "options": {
+          "en": [
+            "Words never affect anyone",
+            "Harmful speech always becomes harmless later",
+            "Speech can have deeply life-giving or destructive effects"
+          ],
+          "fil": [
+            "Walang epekto ang salita sa sinuman",
+            "Laging nagiging walang pinsala sa huli ang masamang pananalita",
+            "Maaaring magbigay-buhay o makapinsala nang malalim ang pananalita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The saying about the tongue emphasizes the serious power of speech (Proverbs 18).",
+          "fil": "Binigyang-diin ng kawikaan tungkol sa dila ang seryosong kapangyarihan ng pananalita (Mga Kawikaan 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "How is kindness to the poor viewed in relation to the Lord?",
+          "fil": "Paano tinatanaw ang kabutihan sa mahihirap kaugnay ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "As a gift he notices and will repay",
+            "As something he never values",
+            "As a reason to stop helping others"
+          ],
+          "fil": [
+            "Bilang kaloob na kanyang napapansin at gagantihan",
+            "Bilang bagay na hindi niya kailanman pinahahalagahan",
+            "Bilang dahilan upang tumigil sa pagtulong sa iba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter compares generosity to the poor with lending to the Lord (Proverbs 19).",
+          "fil": "Inihambing ng kabanata ang pagkabukas-palad sa mahihirap sa pagpapautang sa Panginoon (Mga Kawikaan 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps a person become wise in the long run?",
+          "fil": "Ano ang tumutulong sa tao na maging matalino sa paglipas ng panahon?"
+        },
+        "options": {
+          "en": [
+            "Listening to advice and accepting instruction",
+            "Choosing only flattering companions",
+            "Refusing every correction"
+          ],
+          "fil": [
+            "Pakikinig sa payo at pagtanggap ng turo",
+            "Pagpili lamang ng mga kasamang nambobola",
+            "Pagtanggi sa bawat pagtutuwid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The learner is urged to receive counsel that will bear fruit in later life (Proverbs 19).",
+          "fil": "Hinimok ang nag-aaral na tumanggap ng payong magbubunga sa mga darating na taon (Mga Kawikaan 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What honorable response can understanding produce when someone offends us?",
+          "fil": "Anong marangal na pagtugon ang maibubunga ng pang-unawa kapag may nagkasala sa atin?"
+        },
+        "options": {
+          "en": [
+            "Immediate revenge",
+            "Patience that can overlook an offense",
+            "Public lies about the other person"
+          ],
+          "fil": [
+            "Agarang paghihiganti",
+            "Pagtitiis na kayang magpalampas ng pagkukulang",
+            "Hayagang kasinungalingan tungkol sa kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter praises patience and the choice not to fuel every offense (Proverbs 19).",
+          "fil": "Pinuri ng kabanata ang pagtitiis at ang pasiyang huwag palalain ang bawat pagkukulang (Mga Kawikaan 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What warning is given about being led astray by drink?",
+          "fil": "Anong babala ang ibinigay tungkol sa pagpapadala sa inumin?"
+        },
+        "options": {
+          "en": [
+            "It guarantees good judgment",
+            "It makes every careless choice wise",
+            "It can lead to mockery, conflict, and foolishness"
+          ],
+          "fil": [
+            "Tinitiyak nito ang mabuting paghatol",
+            "Ginagawa nitong matalino ang bawat pabaya na pasiya",
+            "Maaari itong humantong sa pangungutya, alitan, at kamangmangan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter warns against allowing wine and strong drink to control one's conduct (Proverbs 20).",
+          "fil": "Nagbabala ang kabanata laban sa pagpapakontrol ng kilos sa alak at matapang na inumin (Mga Kawikaan 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Lord reject in business dealings?",
+          "fil": "Ano ang tinatanggihan ng Panginoon sa pakikipagkalakalan?"
+        },
+        "options": {
+          "en": [
+            "Honest work for useful goods",
+            "Fair prices and truthful promises",
+            "Dishonest weights and unequal measures"
+          ],
+          "fil": [
+            "Matapat na paggawa para sa kapaki-pakinabang na produkto",
+            "Makatarungang presyo at tapat na pangako",
+            "Madayang pabigat at hindi pantay na panukat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Deceptive measures are condemned as offensive to the Lord (Proverbs 20).",
+          "fil": "Kinondena ang mapanlinlang na panukat bilang hindi kalugud-lugod sa Panginoon (Mga Kawikaan 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a person do instead of planning personal revenge?",
+          "fil": "Ano ang dapat gawin ng tao sa halip na magplano ng sariling paghihiganti?"
+        },
+        "options": {
+          "en": [
+            "Hurt an innocent neighbor",
+            "Wait for the Lord's help",
+            "Promise to repay evil with worse evil"
+          ],
+          "fil": [
+            "Saktan ang kapitbahay na walang sala",
+            "Maghintay sa tulong ng Panginoon",
+            "Mangakong gaganti ng mas malalang masama"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter advises trusting the Lord rather than repaying wrong personally (Proverbs 20).",
+          "fil": "Ipinayo ng kabanata ang pagtitiwala sa Panginoon sa halip na sariling pagganti sa mali (Mga Kawikaan 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What does the picture of a king's heart as directed water teach?",
+          "fil": "Ano ang itinuturo ng larawan ng puso ng hari bilang tubig na naituturo ang agos?"
+        },
+        "options": {
+          "en": [
+            "Kings are beyond God's reach",
+            "Even a ruler's heart is subject to the Lord",
+            "God must obey every royal command"
+          ],
+          "fil": [
+            "Hindi naaabot ng Diyos ang mga hari",
+            "Kahit ang puso ng pinuno ay nasa ilalim ng Panginoon",
+            "Dapat sundin ng Diyos ang bawat utos ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening saying places royal power under God's direction (Proverbs 21).",
+          "fil": "Inilagay ng pambungad na kawikaan ang kapangyarihan ng hari sa ilalim ng patnubay ng Diyos (Mga Kawikaan 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the Lord prefer to sacrifice offered without right conduct?",
+          "fil": "Ano ang higit na nais ng Panginoon kaysa handog na walang tamang asal?"
+        },
+        "options": {
+          "en": [
+            "Making an impressive display while cheating",
+            "Practicing righteousness and justice",
+            "Ignoring the poor during worship"
+          ],
+          "fil": [
+            "Pagpapakitang-gilas habang nandaraya",
+            "Paggawa ng katuwiran at katarungan",
+            "Pagbabalewala sa mahihirap habang sumasamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Right and just living is valued above ritual that does not shape conduct (Proverbs 21).",
+          "fil": "Pinahalagahan ang matuwid at makatarungang buhay nang higit sa ritwal na hindi humuhubog sa asal (Mga Kawikaan 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given to someone who ignores the poor person's cry?",
+          "fil": "Anong babala ang ibinigay sa taong hindi pumapansin sa daing ng mahirap?"
+        },
+        "options": {
+          "en": [
+            "Ignoring need guarantees honor",
+            "That person's own cry may go unanswered",
+            "The poor will never need help again"
+          ],
+          "fil": [
+            "Tinitiyak ng pagbalewala sa pangangailangan ang karangalan",
+            "Maaaring hindi rin dinggin ang sarili niyang daing",
+            "Hindi na muling mangangailangan ng tulong ang mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns against closing one's ears to people in need (Proverbs 21).",
+          "fil": "Nagbabala ang kabanata laban sa pagsasara ng tainga sa mga nangangailangan (Mga Kawikaan 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What is more worth seeking than great wealth?",
+          "fil": "Ano ang higit na dapat hangarin kaysa malaking kayamanan?"
+        },
+        "options": {
+          "en": [
+            "A fortune from oppression",
+            "Fame earned by lies",
+            "A respected name and good character"
+          ],
+          "fil": [
+            "Yamang mula sa pang-aapi",
+            "Katanyagang nakuha sa kasinungalingan",
+            "Iginagalang na pangalan at mabuting pagkatao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening advice places a good reputation above silver and gold (Proverbs 22).",
+          "fil": "Inuna ng pambungad na payo ang mabuting pangalan kaysa pilak at ginto (Mga Kawikaan 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility is emphasized toward children?",
+          "fil": "Anong pananagutan sa mga bata ang binigyang-diin?"
+        },
+        "options": {
+          "en": [
+            "Teach them that honesty is foolish",
+            "Guide them in the right way early",
+            "Leave them without any guidance"
+          ],
+          "fil": [
+            "Ituro sa kanilang kamangmangan ang katapatan",
+            "Gabayan sila nang maaga sa tamang daan",
+            "Pabayaan silang walang anumang patnubay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter encourages teaching children a good direction for life (Proverbs 22).",
+          "fil": "Hinihikayat ng kabanata ang pagtuturo sa mga bata ng mabuting direksiyon sa buhay (Mga Kawikaan 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should vulnerable poor people be treated?",
+          "fil": "Paano dapat tratuhin ang mahihirap na madaling maapi?"
+        },
+        "options": {
+          "en": [
+            "Use their poverty as permission to steal",
+            "Take advantage because they cannot resist",
+            "Do not exploit or deny them justice"
+          ],
+          "fil": [
+            "Gawing pahintulot sa pagnanakaw ang kanilang kahirapan",
+            "Pagsamantalahan dahil hindi sila makalaban",
+            "Huwag pagsamantalahan o pagkaitan ng katarungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord's care for the poor is a reason not to rob or oppress them (Proverbs 22).",
+          "fil": "Dahilan ang malasakit ng Panginoon sa mahihirap upang huwag silang nakawan o apihin (Mga Kawikaan 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Why should a person not exhaust life chasing riches?",
+          "fil": "Bakit hindi dapat ubusin ng tao ang buhay sa paghabol sa yaman?"
+        },
+        "options": {
+          "en": [
+            "Money can never be used for anything good",
+            "Every rich person is unable to work",
+            "Wealth can disappear quickly"
+          ],
+          "fil": [
+            "Hindi magagamit ang salapi sa anumang mabuti",
+            "Walang mayamang kayang magtrabaho",
+            "Maaaring mabilis na mawala ang yaman"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter pictures wealth as something that can suddenly fly away (Proverbs 23).",
+          "fil": "Inilarawan ng kabanata ang yaman bilang bagay na biglang makalilipad palayo (Mga Kawikaan 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the warning about drunkenness describe?",
+          "fil": "Ano ang inilarawan ng babala tungkol sa paglalasing?"
+        },
+        "options": {
+          "en": [
+            "Perfect health and unfailing wisdom",
+            "An easy way to solve every problem",
+            "Misery, quarrels, and confused judgment"
+          ],
+          "fil": [
+            "Ganap na kalusugan at hindi nagkukulang na karunungan",
+            "Madaling paraan upang malutas ang bawat problema",
+            "Pagdurusa, away, at magulong paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter describes the painful and deceptive effects of drunkenness (Proverbs 23).",
+          "fil": "Inilarawan ng kabanata ang masakit at mapanlinlang na epekto ng paglalasing (Mga Kawikaan 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a learner hold firmly rather than trade away?",
+          "fil": "Ano ang dapat panghawakan ng nag-aaral sa halip na ipagpalit?"
+        },
+        "options": {
+          "en": [
+            "A reputation for cruelty",
+            "Lies that attract applause",
+            "Truth, wisdom, and understanding"
+          ],
+          "fil": [
+            "Reputasyon sa kalupitan",
+            "Mga kasinungalingang nakaaakit ng palakpak",
+            "Katotohanan, karunungan, at pang-unawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The advice urges valuing truth and instruction as treasures to keep (Proverbs 23).",
+          "fil": "Hinimok ng payo na pahalagahan ang katotohanan at turo bilang mga kayamanang iingatan (Mga Kawikaan 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What attitude should the learner avoid toward wicked people?",
+          "fil": "Anong saloobin sa masasamang tao ang dapat iwasan ng nag-aaral?"
+        },
+        "options": {
+          "en": [
+            "Choosing honest companions instead",
+            "Recognizing that wrongdoing is harmful",
+            "Envying them or wanting their company"
+          ],
+          "fil": [
+            "Pagpili ng matatapat na kasama sa halip",
+            "Pagkilalang nakapipinsala ang paggawa ng mali",
+            "Pagkainggit sa kanila o pagnanais na makisama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter warns against desiring the lives and company of the wicked (Proverbs 24).",
+          "fil": "Nagbabala ang kabanata laban sa paghahangad ng buhay at pagsama sa masasama (Mga Kawikaan 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a person respond to people being led toward death?",
+          "fil": "Paano dapat tumugon ang tao sa mga dinadala tungo sa kamatayan?"
+        },
+        "options": {
+          "en": [
+            "Try to rescue them rather than pretend not to know",
+            "Celebrate their danger",
+            "Ignore them because help is never needed"
+          ],
+          "fil": [
+            "Sikaping iligtas sila sa halip na magkunwaring walang alam",
+            "Ipagdiwang ang kanilang panganib",
+            "Balewalain sila dahil hindi kailangan ang tulong kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The advice calls for active help to those in grave danger (Proverbs 24).",
+          "fil": "Nanawagan ang payo ng aktibong pagtulong sa mga nasa matinding panganib (Mga Kawikaan 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a person react when an enemy falls?",
+          "fil": "Paano dapat tumugon ang tao kapag bumagsak ang kaaway?"
+        },
+        "options": {
+          "en": [
+            "Claim that cruelty always pleases God",
+            "Avoid rejoicing over the enemy's misfortune",
+            "Celebrate loudly and mock the suffering"
+          ],
+          "fil": [
+            "Sabihing laging kalugud-lugod sa Diyos ang kalupitan",
+            "Iwasang ikatuwa ang kasawian ng kaaway",
+            "Magdiwang nang malakas at kutyain ang pagdurusa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns against delighting in an enemy's downfall (Proverbs 24).",
+          "fil": "Nagbabala ang kabanata laban sa pagkatuwa sa pagbagsak ng kaaway (Mga Kawikaan 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What advice is given about visiting a neighbor too often?",
+          "fil": "Anong payo ang ibinigay tungkol sa napakadalas na pagdalaw sa kapitbahay?"
+        },
+        "options": {
+          "en": [
+            "Show moderation so the welcome is not worn out",
+            "Demand that the neighbor host you every day",
+            "Stay until the neighbor can never rest"
+          ],
+          "fil": [
+            "Magpakahinahon upang hindi maubos ang magandang pagtanggap",
+            "Igiit na patuluyin ka ng kapitbahay araw-araw",
+            "Manatili hanggang hindi na makapagpahinga ang kapitbahay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The saying encourages consideration and restraint in visits (Proverbs 25).",
+          "fil": "Hinihikayat ng kawikaan ang paggalang at pagpipigil sa pagdalaw (Mga Kawikaan 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a person do for an enemy who is hungry or thirsty?",
+          "fil": "Ano ang dapat gawin para sa kaaway na nagugutom o nauuhaw?"
+        },
+        "options": {
+          "en": [
+            "Refuse every kind of help",
+            "Make the suffering worse",
+            "Give food and water"
+          ],
+          "fil": [
+            "Tanggihan ang anumang tulong",
+            "Palalain ang pagdurusa",
+            "Magbigay ng pagkain at tubig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The advice calls for practical kindness even toward an enemy (Proverbs 25).",
+          "fil": "Nanawagan ang payo ng praktikal na kabutihan kahit sa kaaway (Mga Kawikaan 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the picture of a city with broken walls teach about self-control?",
+          "fil": "Ano ang itinuturo tungkol sa pagpipigil sa sarili ng larawan ng lunsod na sira ang pader?"
+        },
+        "options": {
+          "en": [
+            "Anger makes a person completely safe",
+            "Without it, a person is left vulnerable",
+            "Discipline is useless protection"
+          ],
+          "fil": [
+            "Lubusang ginagawang ligtas ng galit ang tao",
+            "Kung wala ito, naiiwang madaling mapahamak ang tao",
+            "Walang saysay na pananggalang ang disiplina"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lack of self-control is compared with a city lacking defenses (Proverbs 25).",
+          "fil": "Inihambing sa lunsod na walang pananggalang ang kawalan ng pagpipigil sa sarili (Mga Kawikaan 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What failure is pictured by a fool repeatedly returning to foolishness?",
+          "fil": "Anong pagkukulang ang inilarawan sa hangal na paulit-ulit bumabalik sa kamangmangan?"
+        },
+        "options": {
+          "en": [
+            "Growing wiser through correction",
+            "Consistently choosing honest work",
+            "Refusing to learn from past wrong choices"
+          ],
+          "fil": [
+            "Pagiging mas matalino sa pagtutuwid",
+            "Palaging pagpili ng matapat na paggawa",
+            "Pagtangging matuto sa dating maling mga pasiya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter warns about repeating folly instead of leaving it behind (Proverbs 26).",
+          "fil": "Nagbabala ang kabanata tungkol sa pag-uulit ng kamangmangan sa halip na iwan ito (Mga Kawikaan 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the lazy person's claim about a lion in the road illustrate?",
+          "fil": "Ano ang inilalarawan ng sabi ng tamad tungkol sa leon sa daan?"
+        },
+        "options": {
+          "en": [
+            "Generous concern for neighbors",
+            "Making excuses to avoid effort",
+            "Careful preparation for useful work"
+          ],
+          "fil": [
+            "Bukas-palad na malasakit sa kapitbahay",
+            "Pagdadahilan upang umiwas sa pagsisikap",
+            "Maingat na paghahanda sa kapaki-pakinabang na gawain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The exaggerated danger serves as an excuse not to act (Proverbs 26).",
+          "fil": "Naging dahilan upang hindi kumilos ang pinalabis na panganib (Mga Kawikaan 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps a quarrel die down like a fire without fuel?",
+          "fil": "Ano ang tumutulong na humupa ang away tulad ng apoy na walang panggatong?"
+        },
+        "options": {
+          "en": [
+            "Spreading every accusation",
+            "Repeating secrets to everyone",
+            "Stopping gossip"
+          ],
+          "fil": [
+            "Pagpapakalat ng bawat paratang",
+            "Pag-uulit ng lihim sa lahat",
+            "Pagtigil sa tsismis"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter links the absence of gossip with the ending of quarrels (Proverbs 26).",
+          "fil": "Iniugnay ng kabanata ang kawalan ng tsismis sa pagtatapos ng mga away (Mga Kawikaan 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "Why should people avoid boasting about tomorrow?",
+          "fil": "Bakit dapat iwasan ng mga tao ang pagyayabang tungkol sa bukas?"
+        },
+        "options": {
+          "en": [
+            "Planning anything is always forbidden",
+            "They already control every future event",
+            "They do not know what the next day will bring"
+          ],
+          "fil": [
+            "Laging bawal ang pagpaplano ng anuman",
+            "Kontrolado na nila ang bawat pangyayari sa hinaharap",
+            "Hindi nila alam ang dadalhin ng susunod na araw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening advice encourages humility about an uncertain future (Proverbs 27).",
+          "fil": "Hinihikayat ng pambungad na payo ang pagpapakumbaba tungkol sa hindi tiyak na hinaharap (Mga Kawikaan 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why may a true friend's correction be valuable?",
+          "fil": "Bakit maaaring maging mahalaga ang pagtutuwid ng tunay na kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Every flattering statement is more reliable",
+            "A friend must never mention a mistake",
+            "Honest concern can help even when it is uncomfortable"
+          ],
+          "fil": [
+            "Mas maaasahan ang bawat pambobola",
+            "Hindi dapat banggitin ng kaibigan ang pagkakamali kailanman",
+            "Makatutulong ang tapat na malasakit kahit hindi komportable"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter values a friend's faithful correction above an enemy's flattering affection (Proverbs 27).",
+          "fil": "Pinahalagahan ng kabanata ang tapat na pagtutuwid ng kaibigan kaysa mapambolang pagmamahal ng kaaway (Mga Kawikaan 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the advice about knowing the condition of one's flocks encourage?",
+          "fil": "Ano ang hinihikayat ng payo tungkol sa pag-alam sa kalagayan ng sariling kawan?"
+        },
+        "options": {
+          "en": [
+            "Attentive care for what is entrusted to us",
+            "Neglecting resources because wealth lasts forever",
+            "Depending on a title instead of responsible work"
+          ],
+          "fil": [
+            "Maingat na pangangalaga sa ipinagkatiwala sa atin",
+            "Pagpapabaya sa mga panustos dahil tumatagal ang yaman magpakailanman",
+            "Pag-asa sa titulo sa halip na responsableng paggawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The flock imagery teaches careful stewardship because riches are not permanent (Proverbs 27).",
+          "fil": "Itinuturo ng larawan ng kawan ang maingat na pangangasiwa dahil hindi permanente ang kayamanan (Mga Kawikaan 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What response to sin is linked with receiving mercy?",
+          "fil": "Anong pagtugon sa kasalanan ang iniugnay sa pagtanggap ng awa?"
+        },
+        "options": {
+          "en": [
+            "Boasting about it openly",
+            "Admitting it and turning away from it",
+            "Hiding it and blaming others"
+          ],
+          "fil": [
+            "Hayagang pagyayabang tungkol dito",
+            "Pag-amin dito at pagtalikod dito",
+            "Pagtatago nito at pagsisi sa iba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter encourages confession and change rather than covering up wrongdoing (Proverbs 28).",
+          "fil": "Hinihikayat ng kabanata ang pag-amin at pagbabago sa halip na pagtatakip sa kasalanan (Mga Kawikaan 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which is better according to the chapter's contrast of poverty and wealth?",
+          "fil": "Alin ang mas mabuti ayon sa paghahambing ng kabanata sa kahirapan at kayamanan?"
+        },
+        "options": {
+          "en": [
+            "Wealth with crooked conduct",
+            "Poverty with integrity",
+            "Wealth gained by oppression"
+          ],
+          "fil": [
+            "Kayamanang may likong asal",
+            "Kahirapang may katapatan",
+            "Kayamanang nakuha sa pang-aapi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Integrity is valued above riches gained through a corrupt way of life (Proverbs 28).",
+          "fil": "Pinahalagahan ang katapatan nang higit sa yamang nakuha sa masamang pamumuhay (Mga Kawikaan 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter warn about trusting only one's own heart?",
+          "fil": "Ano ang ibinababala ng kabanata tungkol sa pagtitiwala lamang sa sariling puso?"
+        },
+        "options": {
+          "en": [
+            "It makes all instruction unnecessary",
+            "It guarantees freedom from every mistake",
+            "It is foolish compared with walking in wisdom"
+          ],
+          "fil": [
+            "Ginagawa nitong hindi kailangan ang lahat ng turo",
+            "Tinitiyak nito ang kalayaan sa bawat pagkakamali",
+            "Kamangmangan ito kung ihahambing sa paglakad sa karunungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The learner is warned against self-confidence that rejects wisdom (Proverbs 28).",
+          "fil": "Binalaan ang nag-aaral laban sa tiwala sa sariling tumatanggi sa karunungan (Mga Kawikaan 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "What danger is connected with fear of other people's opinions?",
+          "fil": "Anong panganib ang kaugnay ng takot sa opinyon ng ibang tao?"
+        },
+        "options": {
+          "en": [
+            "It always leads to honest courage",
+            "It can become a trap instead of the safety found in trusting God",
+            "It makes God unable to help"
+          ],
+          "fil": [
+            "Lagi itong humahantong sa matapat na tapang",
+            "Maaari itong maging bitag sa halip na kaligtasang mula sa pagtitiwala sa Diyos",
+            "Ginagawa nitong hindi kayang tumulong ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter contrasts fear of people with confidence in the Lord (Proverbs 29).",
+          "fil": "Inihambing ng kabanata ang takot sa tao sa pagtitiwala sa Panginoon (Mga Kawikaan 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does a wise person's handling of anger differ from a fool's?",
+          "fil": "Paano naiiba ang paghawak ng matalino sa galit kaysa sa hangal?"
+        },
+        "options": {
+          "en": [
+            "The wise person always shouts first",
+            "The wise person encourages every quarrel",
+            "The wise person restrains it instead of venting everything"
+          ],
+          "fil": [
+            "Laging nauunang sumigaw ang matalino",
+            "Hinihikayat ng matalino ang bawat away",
+            "Pinipigil ito ng matalino sa halip na ibuhos ang lahat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wise restraint is contrasted with uncontrolled expression of anger (Proverbs 29).",
+          "fil": "Inihambing ang matalinong pagpipigil sa walang kontrol na pagbuhos ng galit (Mga Kawikaan 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast is made between righteous and wicked rule?",
+          "fil": "Anong pagkakaiba ang binanggit sa matuwid at masamang pamamahala?"
+        },
+        "options": {
+          "en": [
+            "A ruler's character never affects the people",
+            "Cruel rule always makes everyone rejoice",
+            "Good rule brings joy while wicked rule makes people groan"
+          ],
+          "fil": [
+            "Hindi naaapektuhan ng pagkatao ng pinuno ang bayan",
+            "Laging nagpapasaya sa lahat ang malupit na pamamahala",
+            "Nagdadala ng saya ang mabuting pamamahala habang nagpapadaing ang masamang pamamahala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The sayings connect the character of rulers with the well-being of their people (Proverbs 29).",
+          "fil": "Iniugnay ng mga kawikaan ang pagkatao ng mga pinuno sa kapakanan ng kanilang bayan (Mga Kawikaan 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What attitude does Agur show about his own understanding?",
+          "fil": "Anong saloobin ang ipinakita ni Agur tungkol sa sarili niyang pang-unawa?"
+        },
+        "options": {
+          "en": [
+            "Humility about the limits of his knowledge",
+            "A claim to know everything God knows",
+            "Complete refusal to learn anything"
+          ],
+          "fil": [
+            "Pagpapakumbaba tungkol sa hangganan ng kanyang kaalaman",
+            "Pag-angking alam niya ang lahat ng alam ng Diyos",
+            "Ganap na pagtangging matuto ng anuman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Agur begins by acknowledging how limited his understanding is before God (Proverbs 30).",
+          "fil": "Nagsimula si Agur sa pagkilala kung gaano kalimitado ang kanyang pang-unawa sa harap ng Diyos (Mga Kawikaan 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Agur ask regarding poverty and riches?",
+          "fil": "Ano ang hiniling ni Agur tungkol sa kahirapan at kayamanan?"
+        },
+        "options": {
+          "en": [
+            "Wealth that will make God unnecessary",
+            "Poverty so he can justify stealing",
+            "Enough provision without either extreme"
+          ],
+          "fil": [
+            "Yamang gagawing hindi kailangan ang Diyos",
+            "Kahirapan upang magkaroon ng dahilan sa pagnanakaw",
+            "Sapat na panustos nang walang alinman sa dalawang sukdulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Agur asks for sufficient food so neither wealth nor want draws him away from God (Proverbs 30).",
+          "fil": "Humiling si Agur ng sapat na pagkain upang hindi siya ilayo sa Diyos ng yaman o kakulangan (Mga Kawikaan 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the examples of small creatures teach?",
+          "fil": "Ano ang itinuturo ng mga halimbawa ng maliliit na nilalang?"
+        },
+        "options": {
+          "en": [
+            "Only large animals can act wisely",
+            "Wisdom can be seen even in those without great strength",
+            "Small creatures never prepare or cooperate"
+          ],
+          "fil": [
+            "Malalaking hayop lamang ang makakikilos nang matalino",
+            "Makikita ang karunungan kahit sa walang malaking lakas",
+            "Hindi kailanman naghahanda o nagtutulungan ang maliliit na nilalang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter notices remarkable wisdom in small creatures' practical behavior (Proverbs 30).",
+          "fil": "Napansin ng kabanata ang kahanga-hangang karunungan sa praktikal na kilos ng maliliit na nilalang (Mga Kawikaan 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "How does the capable wife care for her household?",
+          "fil": "Paano inaalagaan ng mahusay na asawa ang kanyang sambahayan?"
+        },
+        "options": {
+          "en": [
+            "By depending on deception",
+            "Through diligent work and wise preparation",
+            "By neglecting every responsibility"
+          ],
+          "fil": [
+            "Sa pag-asa sa panlilinlang",
+            "Sa masikap na paggawa at matalinong paghahanda",
+            "Sa pagpapabaya sa bawat pananagutan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem praises her active, thoughtful work for the household's well-being (Proverbs 31).",
+          "fil": "Pinuri ng tula ang masigla at maingat niyang paggawa para sa kapakanan ng sambahayan (Mga Kawikaan 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the woman respond to poor and needy people?",
+          "fil": "Paano tumutugon ang babae sa mahihirap at nangangailangan?"
+        },
+        "options": {
+          "en": [
+            "She reaches out to help them",
+            "She takes away their food",
+            "She refuses all generosity"
+          ],
+          "fil": [
+            "Inaabot niya ang kamay upang tulungan sila",
+            "Kinukuha niya ang kanilang pagkain",
+            "Tinatanggihan niya ang lahat ng pagkabukas-palad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Her care extends beyond her home to people in need (Proverbs 31).",
+          "fil": "Umaabot ang kanyang malasakit lampas sa tahanan tungo sa mga nangangailangan (Mga Kawikaan 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What quality deserves lasting praise beyond charm and beauty?",
+          "fil": "Anong katangian ang nararapat sa pangmatagalang papuri higit sa alindog at ganda?"
+        },
+        "options": {
+          "en": [
+            "Pride in outward appearance alone",
+            "Skill at flattering the powerful",
+            "Reverence for the Lord"
+          ],
+          "fil": [
+            "Pagmamataas sa panlabas na anyo lamang",
+            "Husay sa pambobola sa makapangyarihan",
+            "Paggalang sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing praise centers on a woman whose life honors the Lord (Proverbs 31).",
+          "fil": "Nakatuon ang pangwakas na papuri sa babaeng nagpaparangal sa Panginoon ang buhay (Mga Kawikaan 31)."
+        }
+      }
+    ]
+  }
+}
