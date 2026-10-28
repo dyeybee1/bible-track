@@ -1,0 +1,288 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Where does God send Jonah to speak against wickedness?",
+          "fil": "Saan isinugo ng Diyos si Jonas upang magsalita laban sa kasamaan?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Mount Sinai",
+            "Nineveh"
+          ],
+          "fil": [
+            "Betlehem",
+            "Bundok Sinai",
+            "Nineve"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonah receives a mission to confront Nineveh's wrongdoing (Jonah 1).",
+          "fil": "Tumanggap si Jonas ng misyong harapin ang kasamaan ng Nineve (Jonas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jonah do instead of going where God sends him?",
+          "fil": "Ano ang ginawa ni Jonas sa halip na pumunta kung saan siya isinugo ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He boards a ship bound for Tarshish",
+            "He leads an army to Jerusalem",
+            "He builds an altar in Nineveh"
+          ],
+          "fil": [
+            "Sumakay siya sa barkong patungong Tarsis",
+            "Pinamunuan niya ang hukbong patungo sa Jerusalem",
+            "Gumawa siya ng altar sa Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonah tries to flee from the task God has given him (Jonah 1).",
+          "fil": "Tinangka ni Jonas na takasan ang gawaing ibinigay ng Diyos sa kanya (Jonas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the sea after the sailors throw Jonah overboard?",
+          "fil": "Ano ang nangyari sa dagat matapos ihagis ng mga mandaragat si Jonas?"
+        },
+        "options": {
+          "en": [
+            "The storm stops and the sea becomes calm",
+            "The ship turns into stone",
+            "The sailors walk home across the water"
+          ],
+          "fil": [
+            "Tumigil ang bagyo at kumalma ang dagat",
+            "Naging bato ang barko",
+            "Naglakad pauwi ang mga mandaragat sa ibabaw ng tubig"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sudden calm leads the sailors to reverence for the Lord (Jonah 1).",
+          "fil": "Inakay ng biglang pagkalma ang mga mandaragat na igalang ang Panginoon (Jonas 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Where is Jonah when he offers the prayer in this chapter?",
+          "fil": "Nasaan si Jonas nang manalangin siya sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "On Nineveh's throne",
+            "Inside the great fish",
+            "In Pharaoh's palace"
+          ],
+          "fil": [
+            "Sa trono ng Nineve",
+            "Sa loob ng malaking isda",
+            "Sa palasyo ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jonah turns to God from within the fish (Jonah 2).",
+          "fil": "Bumaling si Jonas sa Diyos mula sa loob ng isda (Jonas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jonah acknowledge about his rescue?",
+          "fil": "Ano ang kinilala ni Jonas tungkol sa pagliligtas sa kanya?"
+        },
+        "options": {
+          "en": [
+            "His deliverance comes from the Lord",
+            "An idol has created the sea for him",
+            "His own strength has defeated God"
+          ],
+          "fil": [
+            "Mula sa Panginoon ang pagliligtas sa kanya",
+            "Isang diyus-diyosan ang lumikha ng dagat para sa kanya",
+            "Nadaig ng sarili niyang lakas ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonah's prayer expresses gratitude for God's saving help (Jonah 2).",
+          "fil": "Ipinahayag ng panalangin ni Jonas ang pasasalamat sa nagliligtas na tulong ng Diyos (Jonas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the Lord commands the fish?",
+          "fil": "Ano ang nangyari nang utusan ng Panginoon ang isda?"
+        },
+        "options": {
+          "en": [
+            "It swallows Nineveh's king",
+            "It releases Jonah onto dry land",
+            "It carries Jonah to a royal banquet"
+          ],
+          "fil": [
+            "Nilunok nito ang hari ng Nineve",
+            "Iniluwa nito si Jonas sa tuyong lupa",
+            "Dinala nito si Jonas sa piging ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God brings Jonah back to land through the fish's obedience (Jonah 2).",
+          "fil": "Ibinalik ng Diyos si Jonas sa lupa sa pamamagitan ng pagsunod ng isda (Jonas 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Jonah do when God sends him a second time?",
+          "fil": "Ano ang ginawa ni Jonas nang isugo siya ng Diyos sa ikalawang pagkakataon?"
+        },
+        "options": {
+          "en": [
+            "He hides the message in a tomb",
+            "He goes to Nineveh and announces the warning",
+            "He sails to Tarshish again"
+          ],
+          "fil": [
+            "Itinago niya ang mensahe sa libingan",
+            "Pumunta siya sa Nineve at ipinahayag ang babala",
+            "Muli siyang naglayag patungong Tarsis"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jonah now carries out the mission he had resisted (Jonah 3).",
+          "fil": "Isinagawa na ni Jonas ang misyong una niyang tinanggihan (Jonas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people and king of Nineveh respond?",
+          "fil": "Paano tumugon ang mga tao at hari ng Nineve?"
+        },
+        "options": {
+          "en": [
+            "They build a temple to Jonah",
+            "They humble themselves and turn from evil",
+            "They celebrate their violence"
+          ],
+          "fil": [
+            "Nagtayo sila ng templo para kay Jonas",
+            "Nagpakumbaba sila at tumalikod sa masama",
+            "Ipinagdiwang nila ang kanilang karahasan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The city responds to the warning with repentance (Jonah 3).",
+          "fil": "Tumugon ang lunsod sa babala sa pamamagitan ng pagsisisi (Jonas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God do when he sees their changed conduct?",
+          "fil": "Ano ang ginawa ng Diyos nang makita ang nagbago nilang asal?"
+        },
+        "options": {
+          "en": [
+            "He commands them to return to violence",
+            "He destroys them for repenting",
+            "He does not bring the announced destruction"
+          ],
+          "fil": [
+            "Inutusan niya silang bumalik sa karahasan",
+            "Winasak niya sila dahil nagsisi sila",
+            "Hindi niya dinala ang ipinahayag na pagkawasak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God responds mercifully when Nineveh turns from wrongdoing (Jonah 3).",
+          "fil": "Maawaing tumugon ang Diyos nang tumalikod ang Nineve sa kasamaan (Jonas 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why is Jonah angry at the beginning of this chapter?",
+          "fil": "Bakit nagalit si Jonas sa simula ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "God has shown mercy to Nineveh",
+            "God has refused to listen to Nineveh's repentance",
+            "The sailors have stolen his throne"
+          ],
+          "fil": [
+            "Nagpakita ng awa ang Diyos sa Nineve",
+            "Tumanggi ang Diyos na dinggin ang pagsisisi ng Nineve",
+            "Ninakaw ng mga mandaragat ang kanyang trono"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonah struggles to accept the mercy he knows God can show (Jonah 4).",
+          "fil": "Nahirapan si Jonas na tanggapin ang awang alam niyang kayang ipakita ng Diyos (Jonas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the plant that gives Jonah shade?",
+          "fil": "Ano ang nangyari sa halamang nagbigay ng lilim kay Jonas?"
+        },
+        "options": {
+          "en": [
+            "It becomes a stone wall",
+            "A worm damages it and it withers",
+            "It grows into a ship"
+          ],
+          "fil": [
+            "Naging pader na bato ito",
+            "Sinira ito ng uod at nalanta ito",
+            "Lumaki ito at naging barko"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The loss of the plant brings Jonah's anger into focus (Jonah 4).",
+          "fil": "Inilantad ng pagkawala ng halaman ang galit ni Jonas (Jonas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God's final question invite Jonah to understand?",
+          "fil": "Ano ang inanyayahan ng huling tanong ng Diyos na maunawaan ni Jonas?"
+        },
+        "options": {
+          "en": [
+            "That a plant matters more than a whole city",
+            "That God wants every city to worship Jonah",
+            "God's compassion for Nineveh's people and animals"
+          ],
+          "fil": [
+            "Na mas mahalaga ang halaman kaysa sa buong lunsod",
+            "Na gusto ng Diyos na sambahin ng bawat lunsod si Jonas",
+            "Ang habag ng Diyos sa mga tao at hayop ng Nineve"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God contrasts Jonah's concern for a plant with divine concern for a living city (Jonah 4).",
+          "fil": "Inihambing ng Diyos ang malasakit ni Jonas sa halaman sa kanyang malasakit sa isang buhay na lunsod (Jonas 4)."
+        }
+      }
+    ]
+  }
+}
