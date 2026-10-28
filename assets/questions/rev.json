@@ -1,0 +1,1566 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Where was John when he received this vision?",
+          "fil": "Nasaan si Juan nang matanggap niya ang pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "On Patmos",
+            "In Nineveh",
+            "In Bethlehem"
+          ],
+          "fil": [
+            "Sa Patmos",
+            "Sa Nineve",
+            "Sa Bethlehem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "John was on Patmos because of God's message and his testimony about Jesus (Revelation 1).",
+          "fil": "Nasa Patmos si Juan dahil sa mensahe ng Diyos at kanyang patotoo tungkol kay Jesus (Apocalipsis 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does John see the glorious figure like a son of man?",
+          "fil": "Saan nakita ni Juan ang maluwalhating anyong tulad ng anak ng tao?"
+        },
+        "options": {
+          "en": [
+            "Beside a golden calf",
+            "Among golden lampstands",
+            "Inside a fishing boat"
+          ],
+          "fil": [
+            "Sa tabi ng gintong guya",
+            "Sa gitna ng mga gintong patungan ng ilawan",
+            "Sa loob ng bangkang pangisda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The glorious figure stands among seven golden lampstands (Revelation 1).",
+          "fil": "Nakatayo ang maluwalhating anyo sa gitna ng pitong gintong patungan ng ilawan (Apocalipsis 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must John do with what he sees?",
+          "fil": "Ano ang dapat gawin ni Juan sa kanyang nakikita?"
+        },
+        "options": {
+          "en": [
+            "Hide it from every believer",
+            "Present it as a tax report",
+            "Write it and send it to seven churches"
+          ],
+          "fil": [
+            "Itago ito sa bawat mananampalataya",
+            "Iharap ito bilang ulat sa buwis",
+            "Isulat ito at ipadala sa pitong iglesiya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "John is instructed to record the vision for the churches (Revelation 1).",
+          "fil": "Inutusan si Juan na itala ang pangitain para sa mga iglesiya (Apocalipsis 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What has Ephesus abandoned despite its endurance?",
+          "fil": "Ano ang iniwan ng Efeso sa kabila ng pagtitiis nito?"
+        },
+        "options": {
+          "en": [
+            "Its collection of ships",
+            "Its earlier love",
+            "Its duty to serve Caesar"
+          ],
+          "fil": [
+            "Ang koleksiyon nito ng mga barko",
+            "Ang dati nitong pagmamahal",
+            "Ang tungkulin nitong maglingkod kay Cesar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephesus is called to recover its former love (Revelation 2).",
+          "fil": "Tinawag ang Efeso na manumbalik sa dati nitong pagmamahal (Apocalipsis 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What encouragement is given to Smyrna amid suffering?",
+          "fil": "Anong pampalakas ng loob ang ibinigay sa Esmirna sa gitna ng pagdurusa?"
+        },
+        "options": {
+          "en": [
+            "Abandon faith for wealth",
+            "Seek safety through idols",
+            "Remain faithful rather than fear"
+          ],
+          "fil": [
+            "Talikuran ang pananampalataya para sa kayamanan",
+            "Maghanap ng kaligtasan sa mga diyus-diyusan",
+            "Manatiling tapat sa halip na matakot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Smyrna is encouraged to face suffering with faithfulness and hope of life (Revelation 2).",
+          "fil": "Hinikayat ang Esmirna na harapin ang pagdurusa nang may katapatan at pag-asa sa buhay (Apocalipsis 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What harmful influence does Thyatira tolerate?",
+          "fil": "Anong mapaminsalang impluwensiya ang kinukunsinti ng Tiatira?"
+        },
+        "options": {
+          "en": [
+            "A teacher promoting immorality and idol-related eating",
+            "People helping sick neighbors",
+            "Workers refusing dishonest profit"
+          ],
+          "fil": [
+            "Gurong nagtataguyod ng kahalayan at pagkain ng inihandog sa diyus-diyusan",
+            "Mga tumutulong sa kapitbahay na maysakit",
+            "Mga manggagawang tumatanggi sa pandarayang pakinabang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Thyatira is rebuked for tolerating the corrupting influence of the teacher called Jezebel (Revelation 2).",
+          "fil": "Sinaway ang Tiatira sa pagkunsinti sa mapanirang impluwensiya ng gurong tinatawag na Jezebel (Apocalipsis 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What contrast appears in the message to Sardis?",
+          "fil": "Anong pagkakaiba ang makikita sa mensahe sa Sardis?"
+        },
+        "options": {
+          "en": [
+            "It is condemned for excessive generosity",
+            "It owns palaces but has no houses",
+            "It seems alive but is spiritually dead"
+          ],
+          "fil": [
+            "Hinatulan ito sa labis na pagbibigay",
+            "May mga palasyo ito ngunit walang bahay",
+            "Tila buhay ito ngunit patay sa espirituwal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Sardis is urged to wake up because its reputation hides spiritual deadness (Revelation 3).",
+          "fil": "Hinimok ang Sardis na gumising dahil itinatago ng reputasyon nito ang espirituwal na kamatayan (Apocalipsis 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image of opportunity is given to Philadelphia?",
+          "fil": "Anong larawan ng pagkakataon ang ibinigay sa Filadelfia?"
+        },
+        "options": {
+          "en": [
+            "An open door no one can shut",
+            "A ship that cannot sail",
+            "A harvest no one can gather"
+          ],
+          "fil": [
+            "Bukas na pintong walang makapagsasara",
+            "Barkong hindi makapaglayag",
+            "Aning walang makapag-ani"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Philadelphia is assured of an open door despite its little strength (Revelation 3).",
+          "fil": "Tiniyak sa Filadelfia ang bukas na pinto sa kabila ng kaunti nitong lakas (Apocalipsis 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude is rebuked in Laodicea?",
+          "fil": "Anong saloobin ang sinaway sa Laodicea?"
+        },
+        "options": {
+          "en": [
+            "Eager repentance and service",
+            "Lukewarm self-satisfaction that overlooks spiritual need",
+            "Humble recognition of weakness"
+          ],
+          "fil": [
+            "Masigasig na pagsisisi at paglilingkod",
+            "Malahiningang pagkakontento na hindi nakikita ang espirituwal na pangangailangan",
+            "Mapagpakumbabang pagkilala sa kahinaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Laodicea thinks it needs nothing but is shown its spiritual poverty (Revelation 3).",
+          "fil": "Iniisip ng Laodicea na wala itong kailangan ngunit ipinakita ang espirituwal nitong kahirapan (Apocalipsis 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What is at the center of John's heavenly vision?",
+          "fil": "Ano ang nasa gitna ng makalangit na pangitain ni Juan?"
+        },
+        "options": {
+          "en": [
+            "A throne with someone seated on it",
+            "An empty marketplace",
+            "A Roman battlefield"
+          ],
+          "fil": [
+            "Tronong may nakaupo",
+            "Walang-lamang pamilihan",
+            "Larangan ng digmaan ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision centers on a heavenly throne surrounded by worship (Revelation 4).",
+          "fil": "Nakasentro ang pangitain sa trono sa langit na napaliligiran ng pagsamba (Apocalipsis 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the four living creatures continually proclaim?",
+          "fil": "Ano ang patuloy na ipinahahayag ng apat na nilalang na buhay?"
+        },
+        "options": {
+          "en": [
+            "The dragon's victory",
+            "God's holiness",
+            "Babylon's superiority"
+          ],
+          "fil": [
+            "Ang tagumpay ng dragon",
+            "Ang kabanalan ng Diyos",
+            "Ang kadakilaan ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The living creatures continually honor God's holiness and eternal power (Revelation 4).",
+          "fil": "Patuloy na pinararangalan ng mga nilalang na buhay ang kabanalan at walang-hanggang kapangyarihan ng Diyos (Apocalipsis 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the elders do with their crowns while worshiping?",
+          "fil": "Ano ang ginagawa ng mga elder sa kanilang mga korona habang sumasamba?"
+        },
+        "options": {
+          "en": [
+            "Sell them to merchants",
+            "Hide them under the sea",
+            "Lay them before the throne"
+          ],
+          "fil": [
+            "Ipinagbibili sa mga mangangalakal",
+            "Itinatago sa ilalim ng dagat",
+            "Inilalagay sa harap ng trono"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The elders place their crowns before God's throne in worship (Revelation 4).",
+          "fil": "Inilalagay ng mga elder ang kanilang mga korona sa harap ng trono ng Diyos sa pagsamba (Apocalipsis 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Why does John weep over the sealed scroll?",
+          "fil": "Bakit umiyak si Juan tungkol sa balumbong may mga tatak?"
+        },
+        "options": {
+          "en": [
+            "Its writing has been washed away",
+            "No one is found worthy to open it",
+            "It has fallen into the sea"
+          ],
+          "fil": [
+            "Nabura ng tubig ang nakasulat dito",
+            "Walang natagpuang karapat-dapat na magbukas nito",
+            "Nahulog ito sa dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "John weeps when no one is initially found worthy to open the scroll (Revelation 5).",
+          "fil": "Umiyak si Juan nang sa simula ay walang natagpuang karapat-dapat na magbukas ng balumbon (Apocalipsis 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who takes the scroll from the one on the throne?",
+          "fil": "Sino ang kumuha ng balumbon mula sa nakaupo sa trono?"
+        },
+        "options": {
+          "en": [
+            "A Roman soldier",
+            "The dragon",
+            "The Lamb"
+          ],
+          "fil": [
+            "Isang sundalong Romano",
+            "Ang dragon",
+            "Ang Kordero"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lamb takes the scroll, prompting heavenly worship (Revelation 5).",
+          "fil": "Kinuha ng Kordero ang balumbon, na sinundan ng pagsamba sa langit (Apocalipsis 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the golden bowls of incense represent?",
+          "fil": "Ano ang inilalarawan ng mga gintong mangkok ng insenso?"
+        },
+        "options": {
+          "en": [
+            "The prayers of the saints",
+            "Babylon's wealth",
+            "The weapons of kings"
+          ],
+          "fil": [
+            "Ang mga panalangin ng mga banal",
+            "Ang kayamanan ng Babilonia",
+            "Ang mga sandata ng mga hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The incense in the bowls is identified with the saints' prayers (Revelation 5).",
+          "fil": "Iniugnay ang insenso sa mga mangkok sa mga panalangin ng mga banal (Apocalipsis 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What appears as the first four seals are opened?",
+          "fil": "Ano ang lumitaw nang buksan ang unang apat na tatak?"
+        },
+        "options": {
+          "en": [
+            "Four baskets of bread",
+            "Four fishing boats",
+            "Horses of different colors with riders"
+          ],
+          "fil": [
+            "Apat na basket ng tinapay",
+            "Apat na bangkang pangisda",
+            "Mga kabayong may iba't ibang kulay at mga sakay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening seals reveal differently colored horses with riders (Revelation 6).",
+          "fil": "Inihayag ng pagbubukas ng mga tatak ang mga kabayong may iba't ibang kulay at mga sakay (Apocalipsis 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who cries beneath the altar for justice?",
+          "fil": "Sino ang dumadaing sa ilalim ng altar para sa katarungan?"
+        },
+        "options": {
+          "en": [
+            "Those killed for God's message and their testimony",
+            "Merchants seeking higher profits",
+            "Kings seeking more territory"
+          ],
+          "fil": [
+            "Mga pinatay dahil sa mensahe ng Diyos at sa kanilang patotoo",
+            "Mga mangangalakal na naghahanap ng mas malaking kita",
+            "Mga haring naghahanap ng mas malawak na lupain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The slain witnesses beneath the altar ask when God will judge their killers (Revelation 6).",
+          "fil": "Nagtanong ang mga pinatay na saksi sa ilalim ng altar kung kailan hahatulan ng Diyos ang mga pumatay sa kanila (Apocalipsis 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What accompanies the opening of the sixth seal?",
+          "fil": "Ano ang kasama sa pagbubukas ng ikaanim na tatak?"
+        },
+        "options": {
+          "en": [
+            "A royal wedding in Babylon",
+            "An earthquake and dramatic changes in the sun, moon, and sky",
+            "The building of a new harbor"
+          ],
+          "fil": [
+            "Kasal ng hari sa Babilonia",
+            "Lindol at matitinding pagbabago sa araw, buwan, at langit",
+            "Pagtatayo ng bagong daungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The sixth seal brings an earthquake and terrifying disturbances in the heavens (Revelation 6).",
+          "fil": "Nagdala ang ikaanim na tatak ng lindol at nakatatakot na mga pagbabago sa kalangitan (Apocalipsis 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What must happen before the angels harm the earth and sea?",
+          "fil": "Ano ang dapat mangyari bago pinsalain ng mga anghel ang lupa at dagat?"
+        },
+        "options": {
+          "en": [
+            "God's servants must be sealed on their foreheads",
+            "Babylon must build more ships",
+            "John must receive a crown"
+          ],
+          "fil": [
+            "Dapat matatakan sa noo ang mga lingkod ng Diyos",
+            "Dapat magtayo ng mas maraming barko ang Babilonia",
+            "Dapat tumanggap ng korona si Juan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Harm is held back until God's servants receive a seal on their foreheads (Revelation 7).",
+          "fil": "Pinigil ang pinsala hanggang matatakan sa noo ang mga lingkod ng Diyos (Apocalipsis 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the great multitude before the throne come from?",
+          "fil": "Saan nagmula ang napakaraming tao sa harap ng trono?"
+        },
+        "options": {
+          "en": [
+            "Only the city of Rome",
+            "Every nation, tribe, people, and language",
+            "Only one royal family"
+          ],
+          "fil": [
+            "Lungsod lamang ng Roma",
+            "Bawat bansa, lipi, bayan, at wika",
+            "Iisang maharlikang pamilya lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "An uncountable multitude from all peoples worships before God and the Lamb (Revelation 7).",
+          "fil": "Sumasamba sa harap ng Diyos at ng Kordero ang hindi mabilang na mga taong mula sa lahat ng bayan (Apocalipsis 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What care does the Lamb provide for the multitude?",
+          "fil": "Anong pangangalaga ang ibinibigay ng Kordero sa napakaraming tao?"
+        },
+        "options": {
+          "en": [
+            "He sends them away from God",
+            "He asks them to buy comfort",
+            "He shepherds them to springs of living water"
+          ],
+          "fil": [
+            "Pinalalayo niya sila sa Diyos",
+            "Hinihingi niyang bilhin nila ang ginhawa",
+            "Pinapastol niya sila tungo sa mga bukal ng tubig na nagbibigay-buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lamb shepherds them toward living water while God removes their tears (Revelation 7).",
+          "fil": "Pinapastol sila ng Kordero tungo sa tubig na nagbibigay-buhay habang inaalis ng Diyos ang kanilang mga luha (Apocalipsis 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What happens in heaven when the seventh seal is opened?",
+          "fil": "Ano ang nangyari sa langit nang buksan ang ikapitong tatak?"
+        },
+        "options": {
+          "en": [
+            "The throne disappears forever",
+            "A period of silence",
+            "A market opens beside the throne"
+          ],
+          "fil": [
+            "Nawala ang trono magpakailanman",
+            "Panahon ng katahimikan",
+            "Nagbukas ang pamilihan sa tabi ng trono"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Silence follows the opening of the seventh seal (Revelation 8).",
+          "fil": "Sinundan ng katahimikan ang pagbubukas ng ikapitong tatak (Apocalipsis 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What rises before God together with incense from the angel?",
+          "fil": "Ano ang umakyat sa harap ng Diyos kasama ng insenso mula sa anghel?"
+        },
+        "options": {
+          "en": [
+            "Babylon's trading records",
+            "The boasts of kings",
+            "The prayers of the saints"
+          ],
+          "fil": [
+            "Ang mga tala ng kalakalan ng Babilonia",
+            "Ang mga pagmamayabang ng mga hari",
+            "Ang mga panalangin ng mga banal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "An angel offers incense with the saints' prayers at the golden altar (Revelation 8).",
+          "fil": "Naghandog ang anghel ng insenso kasama ng mga panalangin ng mga banal sa gintong altar (Apocalipsis 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to waters struck by the star called Wormwood?",
+          "fil": "Ano ang nangyari sa mga tubig na tinamaan ng bituing tinatawag na Ajenjo?"
+        },
+        "options": {
+          "en": [
+            "They become bitter",
+            "They turn into bread",
+            "They become sweet wine"
+          ],
+          "fil": [
+            "Naging mapait ang mga ito",
+            "Naging tinapay ang mga ito",
+            "Naging matamis na alak ang mga ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The falling star makes affected waters bitter and deadly (Revelation 8).",
+          "fil": "Ginawang mapait at nakamamatay ng bumagsak na bituin ang mga tubig na tinamaan nito (Apocalipsis 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What emerges from the smoke when the abyss is opened?",
+          "fil": "Ano ang lumabas sa usok nang buksan ang kalaliman?"
+        },
+        "options": {
+          "en": [
+            "Doves carrying olive branches",
+            "Sheep led to green pasture",
+            "Locusts given power to torment"
+          ],
+          "fil": [
+            "Mga kalapating may dalang sanga ng olibo",
+            "Mga tupang inaakay sa luntiang pastulan",
+            "Mga balang na binigyan ng kapangyarihang magpahirap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Locusts emerge from the smoke with power to torment under stated limits (Revelation 9).",
+          "fil": "Lumabas sa usok ang mga balang na may kapangyarihang magpahirap sa ilalim ng itinakdang mga hangganan (Apocalipsis 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where are the four angels released at the sixth trumpet bound?",
+          "fil": "Saan nakagapos ang apat na anghel na pinakawalan sa ikaanim na trumpeta?"
+        },
+        "options": {
+          "en": [
+            "At the Euphrates River",
+            "At the Jordan River",
+            "At the Nile River"
+          ],
+          "fil": [
+            "Sa Ilog Eufrates",
+            "Sa Ilog Jordan",
+            "Sa Ilog Nilo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sixth trumpet includes the release of angels bound at the Euphrates (Revelation 9).",
+          "fil": "Kasama sa ikaanim na trumpeta ang pagpapakawala sa mga anghel na nakagapos sa Eufrates (Apocalipsis 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the survivors respond after these plagues?",
+          "fil": "Paano tumugon ang mga nakaligtas matapos ang mga salot na ito?"
+        },
+        "options": {
+          "en": [
+            "They ask John to become king",
+            "They still refuse to repent",
+            "They all abandon wrongdoing immediately"
+          ],
+          "fil": [
+            "Hiniling nila kay Juan na maging hari",
+            "Ayaw pa rin nilang magsisi",
+            "Agad nilang tinalikuran lahat ang kasamaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The survivors continue in idolatry and other sins instead of repenting (Revelation 9).",
+          "fil": "Nagpatuloy ang mga nakaligtas sa pagsamba sa diyus-diyusan at iba pang kasalanan sa halip na magsisi (Apocalipsis 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Where does the mighty angel place his feet?",
+          "fil": "Saan inilagay ng makapangyarihang anghel ang kanyang mga paa?"
+        },
+        "options": {
+          "en": [
+            "One on the sea and one on the land",
+            "Both on a Roman palace",
+            "Both inside a small boat"
+          ],
+          "fil": [
+            "Isa sa dagat at isa sa lupa",
+            "Pareho sa palasyo ng Roma",
+            "Pareho sa loob ng maliit na bangka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The angel stands with a foot on the sea and a foot on the land (Revelation 10).",
+          "fil": "Nakatayo ang anghel na may isang paa sa dagat at isang paa sa lupa (Apocalipsis 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is John told about the words of the seven thunders?",
+          "fil": "Ano ang sinabi kay Juan tungkol sa mga salita ng pitong kulog?"
+        },
+        "options": {
+          "en": [
+            "Sell them to merchants",
+            "Do not write them down",
+            "Send them to Caesar"
+          ],
+          "fil": [
+            "Ipagbili ang mga ito sa mga mangangalakal",
+            "Huwag isulat ang mga ito",
+            "Ipadala ang mga ito kay Cesar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A heavenly voice tells John not to record what the thunders said (Revelation 10).",
+          "fil": "Sinabihan si Juan ng tinig mula sa langit na huwag itala ang sinabi ng mga kulog (Apocalipsis 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when John eats the little scroll?",
+          "fil": "Ano ang nangyari nang kainin ni Juan ang maliit na balumbon?"
+        },
+        "options": {
+          "en": [
+            "It turns into a stone",
+            "It has no taste or effect",
+            "It tastes sweet but makes his stomach bitter"
+          ],
+          "fil": [
+            "Naging bato ito",
+            "Wala itong lasa o epekto",
+            "Matamis ito sa bibig ngunit nagpait sa kanyang tiyan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The scroll is sweet in John's mouth but bitter in his stomach (Revelation 10).",
+          "fil": "Matamis sa bibig ni Juan ang balumbon ngunit mapait sa kanyang tiyan (Apocalipsis 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What is John told to measure?",
+          "fil": "Ano ang iniutos kay Juan na sukatin?"
+        },
+        "options": {
+          "en": [
+            "Babylon's ships",
+            "God's temple, the altar, and the worshipers",
+            "The walls of Pharaoh's palace"
+          ],
+          "fil": [
+            "Ang mga barko ng Babilonia",
+            "Ang templo ng Diyos, ang altar, at ang mga sumasamba",
+            "Ang mga pader ng palasyo ng Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "John receives a measuring rod for the temple, altar, and worshipers (Revelation 11).",
+          "fil": "Tumanggap si Juan ng panukat para sa templo, altar, at mga sumasamba (Apocalipsis 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the two witnesses after they are killed?",
+          "fil": "Ano ang nangyari sa dalawang saksi matapos silang patayin?"
+        },
+        "options": {
+          "en": [
+            "Their enemies appoint them as kings",
+            "They remain unnoticed by everyone",
+            "God restores them to life and they ascend into heaven"
+          ],
+          "fil": [
+            "Itinalaga sila ng kanilang mga kaaway bilang mga hari",
+            "Hindi sila napansin ng sinuman",
+            "Binuhay silang muli ng Diyos at umakyat sila sa langit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God revives the witnesses, who ascend in a cloud before their enemies (Revelation 11).",
+          "fil": "Binuhay ng Diyos ang mga saksi, na umakyat sa ulap sa harap ng kanilang mga kaaway (Apocalipsis 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is proclaimed when the seventh trumpet sounds?",
+          "fil": "Ano ang ipinahayag nang tumunog ang ikapitong trumpeta?"
+        },
+        "options": {
+          "en": [
+            "The world's kingdom belongs to God and his Christ",
+            "Babylon will rule beyond God's authority",
+            "The saints should worship the dragon"
+          ],
+          "fil": [
+            "Ang kaharian ng mundo ay sa Diyos at sa kanyang Cristo",
+            "Maghahari ang Babilonia lampas sa awtoridad ng Diyos",
+            "Dapat sambahin ng mga banal ang dragon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Heavenly voices proclaim the reign of God and his Christ (Revelation 11).",
+          "fil": "Ipinahayag ng mga tinig sa langit ang paghahari ng Diyos at ng kanyang Cristo (Apocalipsis 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "How is the woman in the heavenly sign described?",
+          "fil": "Paano inilarawan ang babae sa tanda sa langit?"
+        },
+        "options": {
+          "en": [
+            "Covered in Roman armor",
+            "Seated in a fishing boat",
+            "Clothed with the sun, with the moon beneath her feet"
+          ],
+          "fil": [
+            "Nababalutan ng baluting Romano",
+            "Nakaupo sa bangkang pangisda",
+            "Nadaramtan ng araw, na may buwan sa ilalim ng kanyang mga paa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The woman appears clothed with the sun, above the moon and crowned with stars (Revelation 12).",
+          "fil": "Lumitaw ang babaeng nadaramtan ng araw, may buwan sa ilalim, at may koronang mga bituin (Apocalipsis 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the woman's child whom the dragon threatens?",
+          "fil": "Ano ang nangyari sa anak ng babaeng pinagbantaan ng dragon?"
+        },
+        "options": {
+          "en": [
+            "He is taken up to God and his throne",
+            "He becomes the dragon's servant",
+            "He builds Babylon's walls"
+          ],
+          "fil": [
+            "Dinala siya sa Diyos at sa kanyang trono",
+            "Naging lingkod siya ng dragon",
+            "Itinayo niya ang mga pader ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The child is caught up to God while the woman escapes into the wilderness (Revelation 12).",
+          "fil": "Dinala ang bata sa Diyos habang tumakas ang babae patungo sa ilang (Apocalipsis 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What results from the battle involving Michael and his angels?",
+          "fil": "Ano ang kinalabasan ng laban nina Miguel at ng kanyang mga anghel?"
+        },
+        "options": {
+          "en": [
+            "Michael joins the dragon's army",
+            "The dragon is thrown out of heaven",
+            "The dragon takes God's throne"
+          ],
+          "fil": [
+            "Sumapi si Miguel sa hukbo ng dragon",
+            "Itinapon ang dragon mula sa langit",
+            "Inagaw ng dragon ang trono ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Michael and his angels fight the dragon, who is cast down to earth (Revelation 12).",
+          "fil": "Nakipaglaban si Miguel at ang kanyang mga anghel sa dragon, na itinapon sa lupa (Apocalipsis 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What appearance does the beast rising from the sea have?",
+          "fil": "Ano ang anyo ng halimaw na umahon mula sa dagat?"
+        },
+        "options": {
+          "en": [
+            "Seven heads and ten horns",
+            "One head with dove's wings",
+            "An ordinary sheep without horns"
+          ],
+          "fil": [
+            "Pitong ulo at sampung sungay",
+            "Isang ulo na may mga pakpak ng kalapati",
+            "Karaniwang tupang walang sungay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sea beast appears with seven heads, ten horns, and blasphemous names (Revelation 13).",
+          "fil": "Lumitaw ang halimaw mula sa dagat na may pitong ulo, sampung sungay, at mga pangalang lumalapastangan sa Diyos (Apocalipsis 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the beast from the earth described?",
+          "fil": "Paano inilarawan ang halimaw mula sa lupa?"
+        },
+        "options": {
+          "en": [
+            "It is a horse carrying bread",
+            "It has lamb-like horns but speaks like a dragon",
+            "It is a peaceful dove without a voice"
+          ],
+          "fil": [
+            "Kabayo itong may dalang tinapay",
+            "May mga sungay itong tulad ng sa kordero ngunit nagsasalita gaya ng dragon",
+            "Payapang kalapati itong walang tinig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The earth beast's lamb-like horns contrast with its dragon-like speech (Revelation 13).",
+          "fil": "Kabaligtaran ng mga sungay na tulad ng sa kordero ang pagsasalitang gaya ng dragon ng halimaw mula sa lupa (Apocalipsis 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What activity is restricted to those with the beast's mark?",
+          "fil": "Anong gawain ang nilimitahan sa mga may tatak ng halimaw?"
+        },
+        "options": {
+          "en": [
+            "Praying to God",
+            "Reading John's letter",
+            "Buying and selling"
+          ],
+          "fil": [
+            "Panalangin sa Diyos",
+            "Pagbabasa ng sulat ni Juan",
+            "Pagbili at pagbebenta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision describes restrictions on commerce tied to the beast's mark or name (Revelation 13).",
+          "fil": "Inilarawan ng pangitain ang mga limitasyon sa kalakalan na nakaugnay sa tatak o pangalan ng halimaw (Apocalipsis 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Where does John see the Lamb with his marked followers?",
+          "fil": "Saan nakita ni Juan ang Kordero kasama ang kanyang mga tagasunod na may tatak?"
+        },
+        "options": {
+          "en": [
+            "In Babylon's marketplace",
+            "On Mount Zion",
+            "In Pharaoh's prison"
+          ],
+          "fil": [
+            "Sa pamilihan ng Babilonia",
+            "Sa Bundok Zion",
+            "Sa bilangguan ng Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lamb stands on Mount Zion with followers bearing his and his Father's names (Revelation 14).",
+          "fil": "Nakatayo ang Kordero sa Bundok Zion kasama ang mga tagasunod na taglay ang pangalan niya at ng kanyang Ama (Apocalipsis 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the angel with the eternal gospel call people to do?",
+          "fil": "Ano ang panawagan sa mga tao ng anghel na may walang-hanggang ebanghelyo?"
+        },
+        "options": {
+          "en": [
+            "Worship the beast for wealth",
+            "Make Babylon their final hope",
+            "Honor God and worship the Creator"
+          ],
+          "fil": [
+            "Sambahin ang halimaw para sa kayamanan",
+            "Gawing panghuling pag-asa ang Babilonia",
+            "Parangalan ang Diyos at sambahin ang Manlilikha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The angel calls the nations to honor God and worship the Creator (Revelation 14).",
+          "fil": "Tinawag ng anghel ang mga bansa na parangalan ang Diyos at sambahin ang Manlilikha (Apocalipsis 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What tool appears in the visions of harvesting the earth and its grapes?",
+          "fil": "Anong kasangkapan ang lumitaw sa mga pangitain ng pag-aani sa lupa at mga ubas nito?"
+        },
+        "options": {
+          "en": [
+            "A sharp sickle",
+            "A fishing hook",
+            "A carpenter's saw"
+          ],
+          "fil": [
+            "Matalim na karit",
+            "Kawil sa pangingisda",
+            "Lagari ng karpintero"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Sharp sickles are used in the chapter's harvest imagery (Revelation 14).",
+          "fil": "Ginamit ang matatalim na karit sa larawan ng pag-aani sa kabanata (Apocalipsis 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What song do the victors beside the glassy sea sing?",
+          "fil": "Anong awit ang inawit ng mga nagtagumpay sa tabi ng dagat na parang salamin?"
+        },
+        "options": {
+          "en": [
+            "A song praising the beast",
+            "A song asking Babylon for wealth",
+            "The song of Moses and the Lamb"
+          ],
+          "fil": [
+            "Awit na pumupuri sa halimaw",
+            "Awit na humihingi ng kayamanan sa Babilonia",
+            "Ang awit ni Moises at ng Kordero"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The victors sing the song of Moses and the Lamb, praising God's just ways (Revelation 15).",
+          "fil": "Inawit ng mga nagtagumpay ang awit ni Moises at ng Kordero sa pagpuri sa makatarungang mga daan ng Diyos (Apocalipsis 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the seven angels receive in golden bowls?",
+          "fil": "Ano ang tinanggap ng pitong anghel sa mga gintong mangkok?"
+        },
+        "options": {
+          "en": [
+            "God's wrath",
+            "Food for a wedding",
+            "Taxes collected by Rome"
+          ],
+          "fil": [
+            "Ang poot ng Diyos",
+            "Pagkain para sa kasal",
+            "Buwis na nakolekta ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The seven angels receive golden bowls filled with God's wrath (Revelation 15).",
+          "fil": "Tumanggap ang pitong anghel ng mga gintong mangkok na puno ng poot ng Diyos (Apocalipsis 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fills the heavenly temple before the plagues are completed?",
+          "fil": "Ano ang pumuno sa templo sa langit bago matapos ang mga salot?"
+        },
+        "options": {
+          "en": [
+            "Water from the Nile",
+            "Smoke from God's glory and power",
+            "Merchants selling sacrifices"
+          ],
+          "fil": [
+            "Tubig mula sa Nilo",
+            "Usok mula sa kaluwalhatian at kapangyarihan ng Diyos",
+            "Mga mangangalakal na nagbebenta ng mga hain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's glory fills the temple with smoke, preventing entry until the plagues end (Revelation 15).",
+          "fil": "Pinuno ng kaluwalhatian ng Diyos ng usok ang templo, kaya walang makapasok hanggang matapos ang mga salot (Apocalipsis 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What happens to the sea when the second bowl is poured out?",
+          "fil": "Ano ang nangyari sa dagat nang ibuhos ang ikalawang mangkok?"
+        },
+        "options": {
+          "en": [
+            "It becomes like the blood of a dead person",
+            "It becomes a field of wheat",
+            "It becomes a wall of gold"
+          ],
+          "fil": [
+            "Naging tulad ito ng dugo ng patay",
+            "Naging bukirin ito ng trigo",
+            "Naging pader ito ng ginto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The second bowl turns the sea blood-like and its living creatures die (Revelation 16).",
+          "fil": "Ginawang tulad ng dugo ng ikalawang mangkok ang dagat at namatay ang mga nilalang na buhay dito (Apocalipsis 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the Euphrates when the sixth bowl is poured out?",
+          "fil": "Ano ang nangyari sa Eufrates nang ibuhos ang ikaanim na mangkok?"
+        },
+        "options": {
+          "en": [
+            "It becomes a river of milk",
+            "It dries up to prepare a way for kings from the east",
+            "It covers every mountain"
+          ],
+          "fil": [
+            "Naging ilog ito ng gatas",
+            "Natuyo ito upang ihanda ang daan para sa mga hari mula sa silangan",
+            "Tinakpan nito ang bawat bundok"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The sixth bowl dries the Euphrates, preparing the way for eastern kings (Revelation 16).",
+          "fil": "Pinatuyo ng ikaanim na mangkok ang Eufrates upang ihanda ang daan para sa mga hari mula sa silangan (Apocalipsis 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What accompanies the seventh bowl poured into the air?",
+          "fil": "Ano ang kasama sa ikapitong mangkok na ibinuhos sa hangin?"
+        },
+        "options": {
+          "en": [
+            "A quiet picnic beside a lake",
+            "The rebuilding of Jericho",
+            "A tremendous earthquake and huge hailstones"
+          ],
+          "fil": [
+            "Tahimik na salu-salo sa tabi ng lawa",
+            "Muling pagtatayo ng Jerico",
+            "Napakalakas na lindol at malalaking batong yelo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The final bowl brings thunder, a devastating earthquake, and enormous hailstones (Revelation 16).",
+          "fil": "Nagdala ang huling mangkok ng kulog, mapaminsalang lindol, at napakalalaking batong yelo (Apocalipsis 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What is the richly dressed woman riding in John's vision?",
+          "fil": "Ano ang sinasakyan ng babaeng magara ang damit sa pangitain ni Juan?"
+        },
+        "options": {
+          "en": [
+            "A wooden fishing boat",
+            "A scarlet beast",
+            "A white donkey"
+          ],
+          "fil": [
+            "Isang kahoy na bangkang pangisda",
+            "Isang halimaw na kulay pula",
+            "Isang puting asno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The woman sits on a scarlet beast covered with blasphemous names (Revelation 17).",
+          "fil": "Nakasakay ang babae sa halimaw na kulay pula na puno ng mga pangalang lumalapastangan sa Diyos (Apocalipsis 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the woman described as being drunk with?",
+          "fil": "Sa ano inilarawang lasing ang babae?"
+        },
+        "options": {
+          "en": [
+            "Water from a spring",
+            "Oil from olive trees",
+            "The blood of the saints and Jesus' witnesses"
+          ],
+          "fil": [
+            "Tubig mula sa bukal",
+            "Langis mula sa mga punong olibo",
+            "Dugo ng mga banal at mga saksi ni Jesus"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The woman is pictured as drunk with the blood of those who witness to Jesus (Revelation 17).",
+          "fil": "Inilarawang lasing ang babae sa dugo ng mga nagpapatotoo tungkol kay Jesus (Apocalipsis 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the angel explain the waters where the woman sits?",
+          "fil": "Paano ipinaliwanag ng anghel ang mga tubig na inuupuan ng babae?"
+        },
+        "options": {
+          "en": [
+            "Peoples, multitudes, nations, and languages",
+            "Only lakes near Jerusalem",
+            "Future calendar dates"
+          ],
+          "fil": [
+            "Mga bayan, karamihan ng tao, bansa, at wika",
+            "Mga lawa lamang malapit sa Jerusalem",
+            "Mga petsa sa hinaharap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The angel identifies the waters as peoples and nations of many languages (Revelation 17).",
+          "fil": "Tinukoy ng anghel ang mga tubig bilang mga bayan at bansang may maraming wika (Apocalipsis 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What does the mighty angel announce about Babylon?",
+          "fil": "Ano ang ipinahayag ng makapangyarihang anghel tungkol sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "It has become God's eternal throne",
+            "It will never face judgment",
+            "It has fallen"
+          ],
+          "fil": [
+            "Naging walang-hanggang trono ito ng Diyos",
+            "Hindi ito kailanman hahatulan",
+            "Bumagsak na ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The angel announces Babylon's fall and exposes its corruption (Revelation 18).",
+          "fil": "Ipinahayag ng anghel ang pagbagsak ng Babilonia at inilantad ang katiwalian nito (Apocalipsis 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the merchants mourn Babylon's downfall?",
+          "fil": "Bakit nagluksa ang mga mangangalakal sa pagbagsak ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "No one buys their cargo anymore",
+            "They have lost the chance to become prophets",
+            "They cannot give free meals to everyone"
+          ],
+          "fil": [
+            "Wala nang bumibili ng kanilang mga kalakal",
+            "Nawala ang pagkakataon nilang maging mga propeta",
+            "Hindi sila makapagbigay ng libreng pagkain sa lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The merchants lament the loss of the market for their luxury goods (Revelation 18).",
+          "fil": "Ipinagluksa ng mga mangangalakal ang pagkawala ng pamilihan para sa kanilang mamahaling mga kalakal (Apocalipsis 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are God's people told to come out of Babylon?",
+          "fil": "Bakit sinabihan ang bayan ng Diyos na lumabas sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "To preserve its dishonest trade",
+            "To avoid sharing in its sins and plagues",
+            "To join the beast's army"
+          ],
+          "fil": [
+            "Upang mapanatili ang pandaraya nito sa kalakalan",
+            "Upang hindi makibahagi sa mga kasalanan at salot nito",
+            "Upang sumali sa hukbo ng halimaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The heavenly call separates God's people from Babylon's wrongdoing and plagues (Revelation 18).",
+          "fil": "Inihihiwalay ng panawagan mula sa langit ang bayan ng Diyos sa kasamaan at mga salot ng Babilonia (Apocalipsis 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What celebration is announced amid heaven's praise?",
+          "fil": "Anong pagdiriwang ang ipinahayag sa gitna ng pagpupuri sa langit?"
+        },
+        "options": {
+          "en": [
+            "The marriage supper of the Lamb",
+            "The dragon's coronation",
+            "The rebuilding of Babylon's market"
+          ],
+          "fil": [
+            "Ang piging ng kasal ng Kordero",
+            "Ang pagpuputong ng korona sa dragon",
+            "Ang muling pagtatayo ng pamilihan ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Heaven rejoices because the Lamb's marriage has come and his bride is ready (Revelation 19).",
+          "fil": "Nagagalak ang langit dahil dumating na ang kasal ng Kordero at handa na ang kanyang kasintahang babae (Apocalipsis 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name is given to the rider on the white horse?",
+          "fil": "Anong pangalan ang ibinigay sa sakay ng puting kabayo?"
+        },
+        "options": {
+          "en": [
+            "The king of Egypt",
+            "The Word of God",
+            "The merchant of Babylon"
+          ],
+          "fil": [
+            "Ang hari ng Egipto",
+            "Ang Salita ng Diyos",
+            "Ang mangangalakal ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The victorious rider is identified as God's Word and judges in righteousness (Revelation 19).",
+          "fil": "Tinukoy ang matagumpay na sakay bilang Salita ng Diyos at humahatol siya sa katuwiran (Apocalipsis 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the angel say when John tries to worship him?",
+          "fil": "Ano ang sinabi ng anghel nang subukang sumamba ni Juan sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Offer the angel a crown",
+            "Worship every heavenly messenger",
+            "Worship God, because the angel is a fellow servant"
+          ],
+          "fil": [
+            "Maghandog ng korona sa anghel",
+            "Sambahin ang bawat mensahero mula sa langit",
+            "Sambahin ang Diyos dahil kapwa lingkod ang anghel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The angel refuses John's worship and directs him to worship God (Revelation 19).",
+          "fil": "Tinanggihan ng anghel ang pagsamba ni Juan at itinuro siyang sumamba sa Diyos (Apocalipsis 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What happens to the dragon at the start of this vision?",
+          "fil": "Ano ang nangyari sa dragon sa simula ng pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "He receives the Lamb's wedding feast",
+            "He is bound and confined in the abyss",
+            "He is placed on God's throne"
+          ],
+          "fil": [
+            "Tinanggap niya ang piging ng kasal ng Kordero",
+            "Iginapos siya at ikinulong sa kalaliman",
+            "Inilagay siya sa trono ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "An angel binds the dragon and shuts him in the abyss for the stated period (Revelation 20).",
+          "fil": "Iginapos ng anghel ang dragon at ikinulong sa kalaliman para sa itinakdang panahon (Apocalipsis 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the forces surrounding God's people near the chapter's end?",
+          "fil": "Ano ang nangyari sa hukbong nakapaligid sa bayan ng Diyos malapit sa dulo ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "They take God's throne peacefully",
+            "They are crowned as true saints",
+            "Fire from heaven consumes them"
+          ],
+          "fil": [
+            "Payapa nilang kinuha ang trono ng Diyos",
+            "Kinoronahan sila bilang tunay na mga banal",
+            "Tinupok sila ng apoy mula sa langit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Heavenly fire destroys the forces surrounding the saints (Revelation 20).",
+          "fil": "Pinuksa ng apoy mula sa langit ang hukbong nakapaligid sa mga banal (Apocalipsis 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What scene takes place before the great white throne?",
+          "fil": "Anong tagpo ang naganap sa harap ng malaking puting trono?"
+        },
+        "options": {
+          "en": [
+            "The dead are judged as books are opened",
+            "Merchants sell new ships",
+            "Kings plan another palace"
+          ],
+          "fil": [
+            "Hinatulan ang mga patay habang binubuksan ang mga aklat",
+            "Nagbebenta ang mga mangangalakal ng bagong barko",
+            "Nagplano ang mga hari ng isa pang palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "John sees the dead judged before the throne according to what is recorded (Revelation 20).",
+          "fil": "Nakita ni Juan na hinatulan ang mga patay sa harap ng trono ayon sa nakatala (Apocalipsis 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What city comes down from heaven in John's vision?",
+          "fil": "Anong lungsod ang bumaba mula sa langit sa pangitain ni Juan?"
+        },
+        "options": {
+          "en": [
+            "The old city of Jericho",
+            "Babylon restored to luxury",
+            "The new Jerusalem"
+          ],
+          "fil": [
+            "Ang lumang lungsod ng Jerico",
+            "Ang Babiloniang ibinalik sa karangyaan",
+            "Ang bagong Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The holy city, the new Jerusalem, comes down from God (Revelation 21).",
+          "fil": "Bumaba mula sa Diyos ang banal na lungsod, ang bagong Jerusalem (Apocalipsis 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What comfort is promised when God dwells with his people?",
+          "fil": "Anong kaaliwan ang ipinangako kapag nanahan ang Diyos kasama ng kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "Tears, death, mourning, and pain will pass away",
+            "Suffering will become their only purpose",
+            "God will remain forever distant"
+          ],
+          "fil": [
+            "Mawawala ang luha, kamatayan, pagdadalamhati, at sakit",
+            "Pagdurusa ang magiging tanging layunin nila",
+            "Mananatiling malayo ang Diyos magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's dwelling with humanity brings the end of death and former sorrows (Revelation 21).",
+          "fil": "Ang pananahan ng Diyos kasama ng tao ay nagdadala ng wakas sa kamatayan at mga dating kalungkutan (Apocalipsis 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does John see no temple in the city?",
+          "fil": "Bakit walang nakitang templo si Juan sa lungsod?"
+        },
+        "options": {
+          "en": [
+            "The dragon has destroyed all worship",
+            "God Almighty and the Lamb are its temple",
+            "The city has rejected God"
+          ],
+          "fil": [
+            "Winasak ng dragon ang lahat ng pagsamba",
+            "Ang Diyos na Makapangyarihan at ang Kordero ang templo nito",
+            "Itinakwil ng lungsod ang Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God himself and the Lamb are the city's temple rather than a separate building (Revelation 21).",
+          "fil": "Ang Diyos mismo at ang Kordero ang templo ng lungsod sa halip na hiwalay na gusali (Apocalipsis 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "From where does the river of the water of life flow?",
+          "fil": "Saan nagmumula ang ilog ng tubig na nagbibigay-buhay?"
+        },
+        "options": {
+          "en": [
+            "The throne of God and the Lamb",
+            "The ruins of Babylon",
+            "Pharaoh's storehouses"
+          ],
+          "fil": [
+            "Sa trono ng Diyos at ng Kordero",
+            "Sa mga guho ng Babilonia",
+            "Sa mga kamalig ng Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Life's river flows from the throne of God and the Lamb (Revelation 22).",
+          "fil": "Dumadaloy ang ilog ng buhay mula sa trono ng Diyos at ng Kordero (Apocalipsis 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose is given for the leaves of the tree of life?",
+          "fil": "Anong layunin ang ibinigay para sa mga dahon ng puno ng buhay?"
+        },
+        "options": {
+          "en": [
+            "Decorating Babylon's ships",
+            "Healing the nations",
+            "Buying the beast's favor"
+          ],
+          "fil": [
+            "Pagpapalamuti sa mga barko ng Babilonia",
+            "Pagpapagaling sa mga bansa",
+            "Pagbili ng pabor ng halimaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The tree's leaves are described as bringing healing to the nations (Revelation 22).",
+          "fil": "Inilarawan ang mga dahon ng puno bilang nagdadala ng pagpapagaling sa mga bansa (Apocalipsis 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What invitation do the Spirit and the bride extend to the thirsty?",
+          "fil": "Anong paanyaya ang ibinigay ng Espiritu at ng kasintahang babae sa mga nauuhaw?"
+        },
+        "options": {
+          "en": [
+            "Pay gold before approaching God",
+            "Stay away because no one is welcome",
+            "Come and receive the water of life freely"
+          ],
+          "fil": [
+            "Magbayad ng ginto bago lumapit sa Diyos",
+            "Lumayo dahil walang sinumang tinatanggap",
+            "Lumapit at tumanggap nang libre ng tubig na nagbibigay-buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing invitation freely offers the water of life to those who desire it (Revelation 22).",
+          "fil": "Malayang iniaalok ng panghuling paanyaya ang tubig na nagbibigay-buhay sa mga nagnanais nito (Apocalipsis 22)."
+        }
+      }
+    ]
+  }
+}
