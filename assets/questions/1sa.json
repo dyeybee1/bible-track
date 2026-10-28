@@ -1,0 +1,2826 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What does Hannah ask God for in her distress?",
+          "fil": "Ano ang hiniling ni Ana sa Diyos sa kanyang paghihirap?"
+        },
+        "options": {
+          "en": [
+            "A new vineyard",
+            "A royal army",
+            "A son"
+          ],
+          "fil": [
+            "Bagong ubasan",
+            "Hukbo ng hari",
+            "Isang anak na lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hannah brings her longing for a child before the Lord at Shiloh (1 Samuel 1).",
+          "fil": "Dinala ni Ana sa Panginoon sa Silo ang pagnanais niyang magkaanak (1 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Eli mistakenly think when he sees Hannah praying silently?",
+          "fil": "Ano ang maling inakala ni Eli nang makita si Ana na tahimik na nananalangin?"
+        },
+        "options": {
+          "en": [
+            "She is singing a victory song",
+            "She is giving orders to soldiers",
+            "She is drunk"
+          ],
+          "fil": [
+            "Umaawit siya ng awit ng tagumpay",
+            "Nag-uutos siya sa mga kawal",
+            "Lasing siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eli sees her moving lips without hearing her voice and misjudges her (1 Samuel 1).",
+          "fil": "Nakita ni Eli ang paggalaw ng mga labi ni Ana nang walang naririnig na tinig kaya nagkamali siya ng akala (1 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What promise does Hannah make concerning the child she hopes to receive?",
+          "fil": "Anong pangako ang ginawa ni Ana tungkol sa anak na inaasahan niyang matanggap?"
+        },
+        "options": {
+          "en": [
+            "Dedicate his life to the Lord",
+            "Keep him from ever serving God",
+            "Make him king of Egypt"
+          ],
+          "fil": [
+            "Italaga ang buhay niya sa Panginoon",
+            "Ilayo siya sa paglilingkod sa Diyos kailanman",
+            "Gawin siyang hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hannah vows that her son will belong to the Lord throughout his life (1 Samuel 1).",
+          "fil": "Ipinanata ni Ana na magiging para sa Panginoon ang kanyang anak sa buong buhay nito (1 Samuel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Hannah take Samuel after he is weaned?",
+          "fil": "Saan dinala ni Ana si Samuel matapos maawat?"
+        },
+        "options": {
+          "en": [
+            "To Pharaoh's palace",
+            "To Eli at the Lord's house in Shiloh",
+            "To the city of Nineveh"
+          ],
+          "fil": [
+            "Sa palasyo ni Faraon",
+            "Kay Eli sa bahay ng Panginoon sa Silo",
+            "Sa lungsod ng Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hannah fulfills her promise by bringing Samuel to serve at Shiloh (1 Samuel 1).",
+          "fil": "Tinupad ni Ana ang pangako sa pagdadala kay Samuel upang maglingkod sa Silo (1 Samuel 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "How do Eli's sons misuse their position regarding offerings?",
+          "fil": "Paano ginamit nang mali ng mga anak ni Eli ang kanilang katungkulan kaugnay ng mga handog?"
+        },
+        "options": {
+          "en": [
+            "They give all the offerings to the poor",
+            "They refuse to accept any food",
+            "They demand meat improperly, even by force"
+          ],
+          "fil": [
+            "Ibinibigay nila sa mahihirap ang lahat ng handog",
+            "Tinatanggihan nila ang anumang pagkain",
+            "Humihingi sila ng karne sa maling paraan, maging sa dahas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eli's sons treat the Lord's offerings with contempt (1 Samuel 2).",
+          "fil": "Nilapastangan ng mga anak ni Eli ang mga handog sa Panginoon (1 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Eli's sons respond to their father's rebuke?",
+          "fil": "Paano tumugon ang mga anak ni Eli sa pagsaway ng kanilang ama?"
+        },
+        "options": {
+          "en": [
+            "They immediately abandon every wrong practice",
+            "They do not listen",
+            "They ask Samuel to replace them that day"
+          ],
+          "fil": [
+            "Agad nilang iniwan ang bawat maling gawain",
+            "Hindi sila nakinig",
+            "Hiniling nilang palitan sila ni Samuel sa araw na iyon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The sons refuse to heed Eli's warning about their conduct (1 Samuel 2).",
+          "fil": "Tumangging makinig ang mga anak sa babala ni Eli tungkol sa kanilang asal (1 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hannah bring Samuel on her yearly visits?",
+          "fil": "Ano ang dinadala ni Ana kay Samuel sa taunang pagdalaw?"
+        },
+        "options": {
+          "en": [
+            "A battle chariot",
+            "A little robe",
+            "A royal crown"
+          ],
+          "fil": [
+            "Karwaheng pandigma",
+            "Isang maliit na balabal",
+            "Korona ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Hannah continues caring for Samuel by bringing clothing as he grows (1 Samuel 2).",
+          "fil": "Patuloy na inalagaan ni Ana si Samuel sa pagdadala ng damit habang lumalaki ito (1 Samuel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does a man of God deliver about Eli's family?",
+          "fil": "Anong babala ang ipinahayag ng isang lingkod ng Diyos tungkol sa pamilya ni Eli?"
+        },
+        "options": {
+          "en": [
+            "They will become kings of every nation",
+            "Their wrongdoing guarantees lasting power",
+            "Their abuse of priestly service will bring judgment"
+          ],
+          "fil": [
+            "Magiging mga hari sila ng bawat bansa",
+            "Tinitiyak ng paggawa nila ng mali ang nananatiling kapangyarihan",
+            "Magdudulot ng hatol ang pag-abuso nila sa paglilingkod bilang mga pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning announces consequences for dishonoring God in priestly service (1 Samuel 2).",
+          "fil": "Ipinahayag ng babala ang mga bunga ng paglapastangan sa Diyos sa paglilingkod bilang pari (1 Samuel 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Whom does Samuel first think is calling him during the night?",
+          "fil": "Sino ang unang inakala ni Samuel na tumatawag sa kanya sa gabi?"
+        },
+        "options": {
+          "en": [
+            "Saul",
+            "Eli",
+            "David"
+          ],
+          "fil": [
+            "Si Saul",
+            "Si Eli",
+            "Si David"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Samuel repeatedly goes to Eli before understanding the source of the call (1 Samuel 3).",
+          "fil": "Paulit-ulit na pumunta si Samuel kay Eli bago naunawaan kung saan nagmumula ang tawag (1 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Eli advise Samuel to do when the call comes again?",
+          "fil": "Ano ang ipinayo ni Eli kay Samuel kapag muli siyang tinawag?"
+        },
+        "options": {
+          "en": [
+            "Ask for a royal crown",
+            "Leave Shiloh without answering",
+            "Respond as a servant ready to listen to the Lord"
+          ],
+          "fil": [
+            "Humingi ng korona ng hari",
+            "Umalis sa Silo nang hindi sumasagot",
+            "Tumugon bilang lingkod na handang makinig sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eli guides Samuel to receive God's message with a listening heart (1 Samuel 3).",
+          "fil": "Ginabayan ni Eli si Samuel na tanggapin ang mensahe ng Diyos nang may pusong nakikinig (1 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What difficult message does Samuel receive about Eli's household?",
+          "fil": "Anong mahirap na mensahe ang tinanggap ni Samuel tungkol sa sambahayan ni Eli?"
+        },
+        "options": {
+          "en": [
+            "Judgment is coming because its wrongdoing has not been restrained",
+            "It must build another ark for Noah",
+            "Its members will rule Egypt"
+          ],
+          "fil": [
+            "Darating ang hatol dahil hindi napigil ang paggawa nito ng mali",
+            "Kailangan nitong gumawa ng isa pang arka para kay Noe",
+            "Mamumuno sa Egipto ang mga kasapi nito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God confirms the warning of judgment against Eli's house (1 Samuel 3).",
+          "fil": "Pinagtibay ng Diyos ang babala ng hatol laban sa sambahayan ni Eli (1 Samuel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Israel come to recognize about Samuel as he grows?",
+          "fil": "Ano ang kinilala ng Israel tungkol kay Samuel habang lumalaki siya?"
+        },
+        "options": {
+          "en": [
+            "He is the new king of Egypt",
+            "He is established as a prophet of the Lord",
+            "He has replaced Moses as lawgiver in the wilderness"
+          ],
+          "fil": [
+            "Siya ang bagong hari ng Egipto",
+            "Itinatag siya bilang propeta ng Panginoon",
+            "Pinalitan niya si Moises bilang tagapagbigay ng kautusan sa ilang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people recognize that God faithfully speaks through Samuel (1 Samuel 3).",
+          "fil": "Kinilala ng bayan na tapat na nagsasalita ang Diyos sa pamamagitan ni Samuel (1 Samuel 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What do Israel's elders bring into the camp after a defeat by the Philistines?",
+          "fil": "Ano ang dinala ng mga pinuno ng Israel sa kampo matapos matalo sa mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "The king of Egypt's throne",
+            "A golden calf",
+            "The ark of the covenant"
+          ],
+          "fil": [
+            "Ang trono ng hari ng Egipto",
+            "Isang gintong guya",
+            "Ang kaban ng tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The elders bring the ark from Shiloh hoping it will save them (1 Samuel 4).",
+          "fil": "Dinala ng mga pinuno ang kaban mula sa Silo sa pag-asang ililigtas sila nito (1 Samuel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the ark in the following battle?",
+          "fil": "Ano ang nangyari sa kaban sa sumunod na labanan?"
+        },
+        "options": {
+          "en": [
+            "It turns into a stone monument",
+            "It is carried into Jerusalem in victory",
+            "The Philistines capture it"
+          ],
+          "fil": [
+            "Naging bantayog na bato ito",
+            "Dinala ito sa Jerusalem sa tagumpay",
+            "Nabihag ito ng mga Filisteo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel is defeated and the ark is taken by the enemy (1 Samuel 4).",
+          "fil": "Natalo ang Israel at kinuha ng kaaway ang kaban (1 Samuel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Eli when he hears the ark has been captured?",
+          "fil": "Ano ang nangyari kay Eli nang marinig na nabihag ang kaban?"
+        },
+        "options": {
+          "en": [
+            "He falls from his seat and dies",
+            "He becomes king of the Philistines",
+            "He immediately leads a rescue army"
+          ],
+          "fil": [
+            "Nahulog siya mula sa upuan at namatay",
+            "Naging hari siya ng mga Filisteo",
+            "Agad siyang namuno sa hukbong magliligtas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "News of the ark's capture overwhelms Eli and he falls backward (1 Samuel 4).",
+          "fil": "Dinaig si Eli ng balita ng pagkabihag ng kaban at natumba siya paatras (1 Samuel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sorrow does the name Ichabod express?",
+          "fil": "Anong dalamhati ang ipinahahayag ng pangalang Icabod?"
+        },
+        "options": {
+          "en": [
+            "Israel has conquered every city",
+            "A new royal palace has been completed",
+            "Israel's glory has departed with the ark's capture"
+          ],
+          "fil": [
+            "Nasakop ng Israel ang bawat lungsod",
+            "Natapos ang bagong palasyo ng hari",
+            "Nawala ang karilagan ng Israel sa pagkabihag ng kaban"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The child's name mourns the loss associated with the captured ark (1 Samuel 4).",
+          "fil": "Ipinagluluksa ng pangalan ng bata ang pagkawalang kaugnay ng nabihag na kaban (1 Samuel 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Where do the Philistines first place the captured ark?",
+          "fil": "Saan unang inilagay ng mga Filisteo ang nabihag na kaban?"
+        },
+        "options": {
+          "en": [
+            "In Noah's ark",
+            "In Dagon's temple at Ashdod",
+            "In the temple at Jerusalem"
+          ],
+          "fil": [
+            "Sa arka ni Noe",
+            "Sa templo ni Dagon sa Asdod",
+            "Sa templo sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ark is placed beside Dagon in the Philistine temple (1 Samuel 5).",
+          "fil": "Inilagay ang kaban sa tabi ni Dagon sa templo ng mga Filisteo (1 Samuel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Dagon's image before the ark?",
+          "fil": "Ano ang nangyari sa larawan ni Dagon sa harap ng kaban?"
+        },
+        "options": {
+          "en": [
+            "It carries the ark back to Shiloh",
+            "It rises to rule Israel",
+            "It falls and is later found broken"
+          ],
+          "fil": [
+            "Dinala nito ang kaban pabalik sa Silo",
+            "Bumangon ito upang mamuno sa Israel",
+            "Bumagsak ito at kalaunan ay natagpuang sira"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Dagon's fallen image demonstrates its helplessness before the Lord (1 Samuel 5).",
+          "fil": "Ipinakita ng bumagsak na larawan ni Dagon ang kawalang-kakayahan nito sa harap ng Panginoon (1 Samuel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do the Philistine cities want the ark sent away?",
+          "fil": "Bakit nais ng mga lungsod ng Filisteo na paalisin ang kaban?"
+        },
+        "options": {
+          "en": [
+            "They have promised it to Pharaoh",
+            "Severe affliction follows its presence among them",
+            "The ark uses all their farmland"
+          ],
+          "fil": [
+            "Ipinangako nila ito kay Faraon",
+            "Sumunod ang matinding salot sa presensya nito sa kanila",
+            "Ginamit ng kaban ang lahat ng kanilang sakahan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The spreading affliction leads the cities to demand the ark's removal (1 Samuel 5).",
+          "fil": "Dahil sa kumakalat na salot, hiniling ng mga lungsod na alisin ang kaban (1 Samuel 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What do the Philistine advisers say should accompany the returned ark?",
+          "fil": "Ano ang sinabi ng mga tagapayo ng Filisteo na dapat kasama ng ibinabalik na kaban?"
+        },
+        "options": {
+          "en": [
+            "A declaration that Dagon defeated God",
+            "A demand for Israel's throne",
+            "A guilt offering"
+          ],
+          "fil": [
+            "Pahayag na tinalo ni Dagon ang Diyos",
+            "Paghingi sa trono ng Israel",
+            "Handog na pambayad sa kasalanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The advisers tell the rulers to acknowledge guilt as they return the ark (1 Samuel 6).",
+          "fil": "Sinabihan ng mga tagapayo ang mga pinuno na kilalanin ang pagkakasala sa pagbabalik ng kaban (1 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the ark transported back toward Israel?",
+          "fil": "Paano dinala ang kaban pabalik sa Israel?"
+        },
+        "options": {
+          "en": [
+            "On Pharaoh's warship",
+            "On a royal elephant",
+            "On a new cart pulled by cows"
+          ],
+          "fil": [
+            "Sa barkong pandigma ni Faraon",
+            "Sa elepante ng hari",
+            "Sa bagong karitong hinihila ng mga baka"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Philistines place the ark on a cart and let the cows lead it away (1 Samuel 6).",
+          "fil": "Inilagay ng mga Filisteo ang kaban sa kariton at hinayaang hilahin ito ng mga baka (1 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "To which Israelite town do the cows take the cart directly?",
+          "fil": "Sa anong bayang Israelita tuwirang dinala ng mga baka ang kariton?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Jericho",
+            "Beth-shemesh"
+          ],
+          "fil": [
+            "Hebron",
+            "Jerico",
+            "Bet-semes"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cows go straight toward Beth-shemesh rather than turning aside (1 Samuel 6).",
+          "fil": "Tuwirang pumunta ang mga baka sa Bet-semes sa halip na lumiko (1 Samuel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the people doing when they first see the returning ark?",
+          "fil": "Ano ang ginagawa ng mga tao nang una nilang makita ang bumabalik na kaban?"
+        },
+        "options": {
+          "en": [
+            "Preparing for a royal wedding",
+            "Harvesting wheat",
+            "Building a palace"
+          ],
+          "fil": [
+            "Naghahanda sa kasal ng hari",
+            "Nag-aani ng trigo",
+            "Nagtatayo ng palasyo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The wheat harvesters look up and rejoice at the ark's return (1 Samuel 6).",
+          "fil": "Tumingala ang mga umaani ng trigo at natuwa sa pagbabalik ng kaban (1 Samuel 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What does Samuel urge Israel to put away as they return to the Lord?",
+          "fil": "Ano ang hinimok ni Samuel na alisin ng Israel sa pagbabalik sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "All their children",
+            "Foreign gods and idols",
+            "Every farming tool"
+          ],
+          "fil": [
+            "Lahat ng kanilang mga anak",
+            "Mga dayuhang diyos at diyus-diyosan",
+            "Bawat kagamitan sa pagsasaka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Samuel calls for wholehearted loyalty rather than divided worship (1 Samuel 7).",
+          "fil": "Nanawagan si Samuel ng buong-pusong katapatan sa halip na hati-hating pagsamba (1 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Samuel gather the people for prayer and repentance?",
+          "fil": "Saan tinipon ni Samuel ang bayan para sa panalangin at pagsisisi?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Babylon",
+            "Mizpah"
+          ],
+          "fil": [
+            "Nineve",
+            "Babilonia",
+            "Mizpa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel gathers at Mizpah to seek the Lord (1 Samuel 7).",
+          "fil": "Nagtipon ang Israel sa Mizpa upang hanapin ang Panginoon (1 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God disrupt the attacking Philistines?",
+          "fil": "Paano ginulo ng Diyos ang mga sumasalakay na Filisteo?"
+        },
+        "options": {
+          "en": [
+            "By giving them more chariots",
+            "By sending Israel back to Egypt",
+            "With powerful thunder"
+          ],
+          "fil": [
+            "Sa pagbibigay sa kanila ng mas maraming karwahe",
+            "Sa pagpapabalik sa Israel sa Egipto",
+            "Sa pamamagitan ng malakas na kulog"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God answers Samuel and throws the Philistines into confusion (1 Samuel 7).",
+          "fil": "Sinagot ng Diyos si Samuel at ginulo ang mga Filisteo (1 Samuel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samuel's memorial stone commemorate?",
+          "fil": "Ano ang ipinapaalala ng batong pang-alaala ni Samuel?"
+        },
+        "options": {
+          "en": [
+            "The power of Dagon",
+            "The founding of Babylon",
+            "The Lord's help up to that point"
+          ],
+          "fil": [
+            "Ang kapangyarihan ni Dagon",
+            "Ang pagtatatag ng Babilonia",
+            "Ang tulong ng Panginoon hanggang sa panahong iyon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samuel sets up Ebenezer to acknowledge God's help (1 Samuel 7).",
+          "fil": "Inilagay ni Samuel ang Ebenezer upang kilalanin ang tulong ng Diyos (1 Samuel 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What failure in Samuel's sons helps prompt Israel's request for a king?",
+          "fil": "Anong pagkukulang ng mga anak ni Samuel ang nag-udyok sa paghingi ng Israel ng hari?"
+        },
+        "options": {
+          "en": [
+            "They take bribes and distort justice",
+            "They refuse every gift of wealth",
+            "They have moved to Egypt"
+          ],
+          "fil": [
+            "Tumatanggap sila ng suhol at binabaluktot ang katarungan",
+            "Tinatanggihan nila ang bawat regalong kayamanan",
+            "Lumipat sila sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The elders point to the sons' corrupt conduct when requesting a king (1 Samuel 8).",
+          "fil": "Itinuro ng mga pinuno ang tiwaling asal ng mga anak sa paghingi ng hari (1 Samuel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What model do the people give for the kingship they want?",
+          "fil": "Anong huwaran ang ibinigay ng bayan para sa nais nilang paghahari?"
+        },
+        "options": {
+          "en": [
+            "Noah's household in the ark",
+            "The Levites serving in the tent",
+            "The other nations"
+          ],
+          "fil": [
+            "Ang sambahayan ni Noe sa arka",
+            "Ang mga Levitang naglilingkod sa tolda",
+            "Ang ibang mga bansa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel asks for a king like those of the surrounding nations (1 Samuel 8).",
+          "fil": "Humingi ang Israel ng hari na tulad ng sa mga nakapaligid na bansa (1 Samuel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God tell Samuel the request ultimately rejects?",
+          "fil": "Ano ang sinabi ng Diyos kay Samuel na sa huli ay tinatanggihan ng kahilingan?"
+        },
+        "options": {
+          "en": [
+            "The existence of their families",
+            "God's own kingship over them",
+            "Every form of farming"
+          ],
+          "fil": [
+            "Ang pag-iral ng kanilang mga pamilya",
+            "Ang mismong paghahari ng Diyos sa kanila",
+            "Bawat uri ng pagsasaka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God explains the demand as a rejection of his rule (1 Samuel 8).",
+          "fil": "Ipinaliwanag ng Diyos ang paghingi bilang pagtanggi sa kanyang pamumuno (1 Samuel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Samuel give about the proposed king?",
+          "fil": "Anong babala ang ibinigay ni Samuel tungkol sa magiging hari?"
+        },
+        "options": {
+          "en": [
+            "He will never require anything from anyone",
+            "He will take people and resources for his own service",
+            "He will make every family equally wealthy immediately"
+          ],
+          "fil": [
+            "Wala siyang hihingin kailanman sa sinuman",
+            "Kukuha siya ng mga tao at yaman para sa kanyang paglilingkod",
+            "Agad niyang payayamanin nang pantay ang bawat pamilya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Samuel warns that royal power will impose heavy demands on the people (1 Samuel 8).",
+          "fil": "Nagbabala si Samuel na magpapataw ng mabibigat na hinihingi sa bayan ang kapangyarihan ng hari (1 Samuel 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What errand brings Saul away from home?",
+          "fil": "Anong gawain ang nagdala kay Saul palayo sa bahay?"
+        },
+        "options": {
+          "en": [
+            "Carrying the ark to Jerusalem",
+            "Buying grain from Joseph",
+            "Searching for his father's lost donkeys"
+          ],
+          "fil": [
+            "Pagdadala ng kaban sa Jerusalem",
+            "Pagbili ng butil kay Jose",
+            "Paghahanap sa mga nawawalang asno ng kanyang ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Saul and a servant set out to find Kish's donkeys (1 Samuel 9).",
+          "fil": "Umalis si Saul at isang lingkod upang hanapin ang mga asno ni Kis (1 Samuel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Saul's servant suggest they consult?",
+          "fil": "Kanino iminungkahi ng lingkod ni Saul na sumangguni sila?"
+        },
+        "options": {
+          "en": [
+            "The king of Egypt",
+            "The man of God in the town",
+            "A priest of Dagon"
+          ],
+          "fil": [
+            "Sa hari ng Egipto",
+            "Sa lingkod ng Diyos sa bayan",
+            "Sa pari ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The servant proposes asking the seer for guidance (1 Samuel 9).",
+          "fil": "Iminungkahi ng lingkod na humingi ng patnubay sa tagakita (1 Samuel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How has Samuel been prepared for Saul's arrival?",
+          "fil": "Paano naihanda si Samuel sa pagdating ni Saul?"
+        },
+        "options": {
+          "en": [
+            "He has read Saul's royal proclamation",
+            "God has told him the future leader will come",
+            "Saul has already ruled for many years"
+          ],
+          "fil": [
+            "Nabasa niya ang pahayag ni Saul bilang hari",
+            "Sinabi sa kanya ng Diyos na darating ang magiging pinuno",
+            "Maraming taon nang naghahari si Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God alerts Samuel before Saul arrives in the town (1 Samuel 9).",
+          "fil": "Ipinagbigay-alam ng Diyos kay Samuel bago dumating si Saul sa bayan (1 Samuel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Samuel treat Saul at the sacrificial meal?",
+          "fil": "Paano pinakitunguhan ni Samuel si Saul sa salu-salo ng paghahandog?"
+        },
+        "options": {
+          "en": [
+            "He sends him straight to prison",
+            "He refuses him all food",
+            "He gives him an honored place and a reserved portion"
+          ],
+          "fil": [
+            "Agad niya itong ipinabilanggo",
+            "Pinagkaitan niya ito ng lahat ng pagkain",
+            "Binigyan niya ito ng marangal na puwesto at nakalaang bahagi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samuel's hospitality points toward Saul's unexpected calling (1 Samuel 9).",
+          "fil": "Ipinahihiwatig ng pagpapatuloy ni Samuel ang di-inaasahang tawag kay Saul (1 Samuel 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What does Samuel do to mark Saul's appointment?",
+          "fil": "Ano ang ginawa ni Samuel bilang tanda ng pagtatalaga kay Saul?"
+        },
+        "options": {
+          "en": [
+            "Anoints him with oil",
+            "Builds him a palace in Egypt",
+            "Gives him Moses' tablets"
+          ],
+          "fil": [
+            "Pinahiran siya ng langis",
+            "Ipinagtayo siya ng palasyo sa Egipto",
+            "Ibinigay sa kanya ang mga tapyas ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samuel anoints Saul as the leader God has chosen (1 Samuel 10).",
+          "fil": "Pinahiran ni Samuel si Saul bilang pinunong pinili ng Diyos (1 Samuel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Saul meets the group of prophets?",
+          "fil": "Ano ang nangyari nang makatagpo ni Saul ang pangkat ng mga propeta?"
+        },
+        "options": {
+          "en": [
+            "God's Spirit comes upon him and he prophesies",
+            "He makes a golden calf",
+            "He conquers Jericho"
+          ],
+          "fil": [
+            "Sumakanya ang Espiritu ng Diyos at nagpahayag siya bilang propeta",
+            "Gumawa siya ng gintong guya",
+            "Nasakop niya ang Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The encounter fulfills a sign Samuel had announced (1 Samuel 10).",
+          "fil": "Natupad sa pakikipagtagpo ang tandang ipinahayag ni Samuel (1 Samuel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is Saul found when the people seek him after his selection?",
+          "fil": "Saan natagpuan si Saul nang hanapin siya ng bayan matapos mapili?"
+        },
+        "options": {
+          "en": [
+            "Sitting on a golden throne",
+            "Hiding among the baggage",
+            "Inside Dagon's temple"
+          ],
+          "fil": [
+            "Nakaupo sa gintong trono",
+            "Nagtatago sa mga bagahe",
+            "Sa loob ng templo ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul is brought out from among the baggage for the public presentation (1 Samuel 10).",
+          "fil": "Inilabas si Saul mula sa mga bagahe upang iharap sa bayan (1 Samuel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Saul initially respond to those who despise his kingship?",
+          "fil": "Paano unang tumugon si Saul sa mga humamak sa kanyang paghahari?"
+        },
+        "options": {
+          "en": [
+            "He abandons Israel for Egypt",
+            "He orders every critic executed",
+            "He remains silent"
+          ],
+          "fil": [
+            "Iniwan niya ang Israel para sa Egipto",
+            "Ipinapatay niya ang bawat pumuna",
+            "Nanatili siyang tahimik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Saul does not immediately retaliate against those who reject him (1 Samuel 10).",
+          "fil": "Hindi agad gumanti si Saul sa mga tumanggi sa kanya (1 Samuel 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Which threatened town sends messengers seeking rescue?",
+          "fil": "Anong nanganganib na bayan ang nagpadala ng mga sugong humihingi ng pagliligtas?"
+        },
+        "options": {
+          "en": [
+            "Jericho",
+            "Bethlehem",
+            "Jabesh-gilead"
+          ],
+          "fil": [
+            "Jerico",
+            "Bethlehem",
+            "Jabes-gilead"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people of Jabesh seek help against the Ammonite siege (1 Samuel 11).",
+          "fil": "Humingi ng tulong ang mga taga-Jabes laban sa pagkubkob ng mga Ammonita (1 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What empowers Saul when he hears the people's distress?",
+          "fil": "Ano ang nagpalakas kay Saul nang marinig ang paghihirap ng bayan?"
+        },
+        "options": {
+          "en": [
+            "The Spirit of God comes upon him",
+            "Dagon gives him a sword",
+            "Pharaoh appoints him general"
+          ],
+          "fil": [
+            "Sumakanya ang Espiritu ng Diyos",
+            "Binigyan siya ni Dagon ng tabak",
+            "Itinalaga siya ni Faraon bilang heneral"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's Spirit moves Saul to summon Israel for the rescue (1 Samuel 11).",
+          "fil": "Kinilos ng Espiritu ng Diyos si Saul upang tipunin ang Israel sa pagliligtas (1 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Saul refuse calls to kill those who had opposed him?",
+          "fil": "Bakit tinanggihan ni Saul ang mga panawagang patayin ang mga dating tumutol sa kanya?"
+        },
+        "options": {
+          "en": [
+            "He has forgotten who won the battle",
+            "The day should honor the Lord's rescue of Israel",
+            "The opponents have become kings of Egypt"
+          ],
+          "fil": [
+            "Nakalimutan niya kung sino ang nanalo sa labanan",
+            "Dapat parangalan sa araw na iyon ang pagliligtas ng Panginoon sa Israel",
+            "Naging mga hari ng Egipto ang mga tumutol"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul chooses mercy on the day of the nation's deliverance (1 Samuel 11).",
+          "fil": "Pinili ni Saul ang awa sa araw ng pagliligtas sa bansa (1 Samuel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where do the people reaffirm Saul's kingship with rejoicing?",
+          "fil": "Saan muling pinagtibay ng bayan ang paghahari ni Saul nang may kagalakan?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Babel",
+            "Gilgal"
+          ],
+          "fil": [
+            "Nineve",
+            "Babel",
+            "Gilgal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samuel brings the people to Gilgal to renew the kingship (1 Samuel 11).",
+          "fil": "Dinala ni Samuel ang bayan sa Gilgal upang muling pagtibayin ang paghahari (1 Samuel 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What does Samuel ask the people to testify about his leadership?",
+          "fil": "Ano ang hiniling ni Samuel na patotohanan ng bayan tungkol sa kanyang pamumuno?"
+        },
+        "options": {
+          "en": [
+            "Whether he has cheated, oppressed, or taken bribes",
+            "Whether he has built Egypt's pyramids",
+            "Whether he owns all their fields"
+          ],
+          "fil": [
+            "Kung nandaya, nang-api, o tumanggap siya ng suhol",
+            "Kung itinayo niya ang mga piramide ng Egipto",
+            "Kung pag-aari niya ang lahat ng kanilang bukid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samuel invites a public assessment of his honesty in service (1 Samuel 12).",
+          "fil": "Inanyayahan ni Samuel ang bayan na hayagang suriin ang kanyang katapatan sa paglilingkod (1 Samuel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unexpected weather confirms Samuel's warning during the wheat harvest?",
+          "fil": "Anong di-inaasahang panahon ang nagpatibay sa babala ni Samuel sa pag-aani ng trigo?"
+        },
+        "options": {
+          "en": [
+            "A permanent snowfall",
+            "A rainbow without clouds",
+            "Thunder and rain"
+          ],
+          "fil": [
+            "Permanenteng pag-ulan ng niyebe",
+            "Bahagharing walang ulap",
+            "Kulog at ulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God sends thunder and rain as a sign during Samuel's address (1 Samuel 12).",
+          "fil": "Nagpadala ang Diyos ng kulog at ulan bilang tanda sa pagpapahayag ni Samuel (1 Samuel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What service does Samuel promise to continue for the people?",
+          "fil": "Anong paglilingkod ang ipinangako ni Samuel na ipagpapatuloy para sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Choosing foreign gods for them",
+            "Collecting tribute for Egypt",
+            "Praying for them and teaching the right way"
+          ],
+          "fil": [
+            "Pagpili ng mga dayuhang diyos para sa kanila",
+            "Paniningil ng buwis para sa Egipto",
+            "Pananalangin para sa kanila at pagtuturo ng tamang daan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samuel commits himself to prayer and faithful instruction despite their failure (1 Samuel 12).",
+          "fil": "Itinalaga ni Samuel ang sarili sa panalangin at tapat na pagtuturo sa kabila ng pagkukulang ng bayan (1 Samuel 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Where does Saul wait for Samuel while the people grow fearful?",
+          "fil": "Saan hinintay ni Saul si Samuel habang natatakot ang bayan?"
+        },
+        "options": {
+          "en": [
+            "Gilgal",
+            "Goshen",
+            "Hebron"
+          ],
+          "fil": [
+            "Gilgal",
+            "Gosen",
+            "Hebron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul waits at Gilgal as pressure from the Philistines increases (1 Samuel 13).",
+          "fil": "Naghintay si Saul sa Gilgal habang tumitindi ang banta ng mga Filisteo (1 Samuel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Saul do instead of continuing to wait as instructed?",
+          "fil": "Ano ang ginawa ni Saul sa halip na patuloy na maghintay ayon sa tagubilin?"
+        },
+        "options": {
+          "en": [
+            "Offers the burnt offering himself",
+            "Returns the ark to Dagon",
+            "Makes Jonathan king"
+          ],
+          "fil": [
+            "Siya mismo ang naghandog na susunugin nang buo",
+            "Ibinalik niya ang kaban kay Dagon",
+            "Ginawa niyang hari si Jonatan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul acts before Samuel arrives and is rebuked for disobedience (1 Samuel 13).",
+          "fil": "Kumilos si Saul bago dumating si Samuel at sinaway dahil sa pagsuway (1 Samuel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What consequence does Samuel announce for Saul's dynasty?",
+          "fil": "Anong bunga ang ipinahayag ni Samuel para sa angkan ni Saul sa paghahari?"
+        },
+        "options": {
+          "en": [
+            "His kingdom will not endure through his line",
+            "His family will replace the priests",
+            "His descendants will rule every nation forever"
+          ],
+          "fil": [
+            "Hindi mananatili ang kaharian sa kanyang angkan",
+            "Papalitan ng kanyang pamilya ang mga pari",
+            "Maghahari ang kanyang mga inapo sa bawat bansa habambuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samuel declares that God is seeking another leader because of Saul's disobedience (1 Samuel 13).",
+          "fil": "Ipinahayag ni Samuel na naghahanap ang Diyos ng ibang pinuno dahil sa pagsuway ni Saul (1 Samuel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are ordinary Israelite soldiers short of swords and spears?",
+          "fil": "Bakit kulang sa mga tabak at sibat ang karaniwang mga kawal ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The Philistines control access to blacksmiths",
+            "Samuel has sold every weapon to Egypt",
+            "Israel has no metal anywhere"
+          ],
+          "fil": [
+            "Kontrolado ng mga Filisteo ang mga panday",
+            "Ipinagbili ni Samuel sa Egipto ang bawat sandata",
+            "Walang metal saanman sa Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Philistine restrictions leave Israel dependent on them for metalwork (1 Samuel 13).",
+          "fil": "Dahil sa mga limitasyon ng mga Filisteo, umasa sa kanila ang Israel sa pagpapanday (1 Samuel 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Whom does Jonathan take with him to approach the Philistine outpost?",
+          "fil": "Sino ang isinama ni Jonatan sa paglapit sa himpilan ng mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "The king of Moab",
+            "Samuel's whole household",
+            "His armor-bearer"
+          ],
+          "fil": [
+            "Ang hari ng Moab",
+            "Ang buong sambahayan ni Samuel",
+            "Ang tagapagdala ng kanyang sandata"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan approaches the enemy with only his armor-bearer beside him (1 Samuel 14).",
+          "fil": "Lumapit si Jonatan sa kaaway na ang tagapagdala lamang ng sandata ang kasama (1 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What conviction gives Jonathan confidence despite being outnumbered?",
+          "fil": "Anong paniniwala ang nagbigay kay Jonatan ng tiwala kahit mas kaunti sila?"
+        },
+        "options": {
+          "en": [
+            "The Lord can save through a few as well as through many",
+            "The Philistines have no soldiers at all",
+            "Saul has already captured the outpost"
+          ],
+          "fil": [
+            "Kayang magligtas ng Panginoon sa pamamagitan ng kaunti o marami",
+            "Walang anumang kawal ang mga Filisteo",
+            "Nakuha na ni Saul ang himpilan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonathan trusts God's power rather than the size of his force (1 Samuel 14).",
+          "fil": "Nagtiwala si Jonatan sa kapangyarihan ng Diyos sa halip na sa laki ng kanyang hukbo (1 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Jonathan eat without knowing about Saul's oath against eating that day?",
+          "fil": "Ano ang kinain ni Jonatan nang hindi alam ang sumpa ni Saul laban sa pagkain sa araw na iyon?"
+        },
+        "options": {
+          "en": [
+            "A royal feast in Egypt",
+            "The sacred bread from Shiloh",
+            "Honey"
+          ],
+          "fil": [
+            "Handaan ng hari sa Egipto",
+            "Ang banal na tinapay mula sa Silo",
+            "Pulot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan refreshes himself with honey before learning of the oath (1 Samuel 14).",
+          "fil": "Napaginhawa ni Jonatan ang sarili sa pulot bago malaman ang sumpa (1 Samuel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who prevents Jonathan's death over the broken oath?",
+          "fil": "Sino ang pumigil sa pagkamatay ni Jonatan dahil sa nalabag na sumpa?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's guards",
+            "The people, who recognize God's help through him",
+            "The priests of Dagon"
+          ],
+          "fil": [
+            "Ang mga bantay ni Faraon",
+            "Ang bayan na kumilala sa tulong ng Diyos sa pamamagitan niya",
+            "Ang mga pari ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people insist that Jonathan must not die after his part in the victory (1 Samuel 14).",
+          "fil": "Iginiit ng bayan na hindi dapat mamatay si Jonatan matapos ang bahagi niya sa tagumpay (1 Samuel 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What do Saul and the people spare contrary to the command concerning Amalek?",
+          "fil": "Ano ang iniligtas ni Saul at ng bayan na labag sa utos tungkol sa Amalec?"
+        },
+        "options": {
+          "en": [
+            "Only broken farming tools",
+            "King Agag and the best livestock",
+            "Only empty baskets"
+          ],
+          "fil": [
+            "Mga sirang kagamitan lamang sa pagsasaka",
+            "Si Haring Agag at ang pinakamainam na mga hayop",
+            "Mga walang lamang basket lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul keeps Agag alive and preserves valuable animals despite the command (1 Samuel 15).",
+          "fil": "Pinanatiling buhay ni Saul si Agag at iniligtas ang mahahalagang hayop sa kabila ng utos (1 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sound exposes the gap in Saul's claim of obedience?",
+          "fil": "Anong tunog ang naglantad sa pagkukulang sa pag-aangkin ni Saul na sumunod siya?"
+        },
+        "options": {
+          "en": [
+            "The bleating of sheep and lowing of cattle",
+            "The noise of a ship at sea",
+            "The ringing of Egypt's bells"
+          ],
+          "fil": [
+            "Ang ingay ng mga tupa at baka",
+            "Ang ingay ng barko sa dagat",
+            "Ang pagtunog ng mga kampana ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samuel points to the surviving animals as evidence of disobedience (1 Samuel 15).",
+          "fil": "Itinuro ni Samuel ang mga hayop na buhay bilang patunay ng pagsuway (1 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samuel emphasize when Saul mentions sacrificing the animals?",
+          "fil": "Ano ang binigyang-diin ni Samuel nang banggitin ni Saul ang paghahandog ng mga hayop?"
+        },
+        "options": {
+          "en": [
+            "Any sacrifice makes disobedience irrelevant",
+            "Animals are more important than God's commands",
+            "Obedience matters more than sacrifices offered to excuse disobedience"
+          ],
+          "fil": [
+            "Ginagawang walang halaga ng anumang handog ang pagsuway",
+            "Mas mahalaga ang mga hayop kaysa sa mga utos ng Diyos",
+            "Mas mahalaga ang pagsunod kaysa handog na idinadahilan sa pagsuway"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samuel rejects ritual offerings as a substitute for listening to God (1 Samuel 15).",
+          "fil": "Tinanggihan ni Samuel ang mga handog bilang kapalit ng pakikinig sa Diyos (1 Samuel 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the tearing of Samuel's robe signify in his explanation?",
+          "fil": "Ano ang kahulugan ng pagkapunit ng balabal ni Samuel sa kanyang paliwanag?"
+        },
+        "options": {
+          "en": [
+            "The priesthood will end that day",
+            "The kingdom is being taken from Saul and given to another",
+            "Saul will rule Egypt as well"
+          ],
+          "fil": [
+            "Matatapos sa araw na iyon ang pagkapari",
+            "Inaalis kay Saul ang kaharian at ibinibigay sa iba",
+            "Maghahari rin si Saul sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Samuel uses the torn robe to announce the loss of Saul's kingdom (1 Samuel 15).",
+          "fil": "Ginamit ni Samuel ang napunit na balabal upang ipahayag ang pagkawala ng kaharian ni Saul (1 Samuel 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What does God tell Samuel to consider instead of outward appearance?",
+          "fil": "Ano ang sinabi ng Diyos kay Samuel na isaalang-alang sa halip na panlabas na anyo?"
+        },
+        "options": {
+          "en": [
+            "The size of the person's army",
+            "The person's heart",
+            "The price of the person's clothes"
+          ],
+          "fil": [
+            "Ang laki ng hukbo ng tao",
+            "Ang puso ng tao",
+            "Ang halaga ng damit ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God directs Samuel beyond impressive appearance when choosing a king (1 Samuel 16).",
+          "fil": "Inakay ng Diyos si Samuel lampas sa kahanga-hangang anyo sa pagpili ng hari (1 Samuel 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is David before he is called to meet Samuel?",
+          "fil": "Nasaan si David bago tawaging humarap kay Samuel?"
+        },
+        "options": {
+          "en": [
+            "Ruling the Philistines",
+            "Commanding Saul's army",
+            "Tending the sheep"
+          ],
+          "fil": [
+            "Namumuno sa mga Filisteo",
+            "Namumuno sa hukbo ni Saul",
+            "Nag-aalaga ng mga tupa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jesse sends for David from his work with the flock (1 Samuel 16).",
+          "fil": "Ipinatawag ni Jesse si David mula sa pag-aalaga ng kawan (1 Samuel 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to David after Samuel anoints him?",
+          "fil": "Ano ang nangyari kay David matapos siyang pahiran ni Samuel?"
+        },
+        "options": {
+          "en": [
+            "He immediately moves to Egypt",
+            "He builds Jerusalem's temple",
+            "The Spirit of the Lord comes upon him"
+          ],
+          "fil": [
+            "Agad siyang lumipat sa Egipto",
+            "Itinayo niya ang templo sa Jerusalem",
+            "Sumakanya ang Espiritu ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's Spirit empowers David from the time of his anointing (1 Samuel 16).",
+          "fil": "Binigyan ng Espiritu ng Diyos ng lakas si David mula sa kanyang pagkapahid (1 Samuel 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David help Saul when Saul is distressed?",
+          "fil": "Paano tinulungan ni David si Saul kapag nababagabag ito?"
+        },
+        "options": {
+          "en": [
+            "By reading Egyptian battle plans",
+            "By building a golden image",
+            "By playing his lyre"
+          ],
+          "fil": [
+            "Sa pagbasa ng plano ng labanan ng Egipto",
+            "Sa paggawa ng gintong larawan",
+            "Sa pagtugtog ng kanyang lira"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David's music brings Saul relief during his distress (1 Samuel 16).",
+          "fil": "Nagbigay ng ginhawa kay Saul ang musika ni David sa kanyang pagkabagabag (1 Samuel 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Why does David first go to the army camp?",
+          "fil": "Bakit unang pumunta si David sa kampo ng hukbo?"
+        },
+        "options": {
+          "en": [
+            "His father sends supplies for his brothers",
+            "Saul has already crowned him king",
+            "Goliath has invited him to a feast"
+          ],
+          "fil": [
+            "Nagpadala ang kanyang ama ng panustos para sa kanyang mga kapatid",
+            "Kinoronahan na siyang hari ni Saul",
+            "Inanyayahan siya ni Goliat sa handaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jesse sends David with food and a request for news of his brothers (1 Samuel 17).",
+          "fil": "Ipinadala ni Jesse si David na may pagkain at hiling na balita tungkol sa mga kapatid nito (1 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What past experience does David recall when explaining his confidence?",
+          "fil": "Anong karanasan ang inalala ni David sa pagpapaliwanag ng kanyang tiwala?"
+        },
+        "options": {
+          "en": [
+            "Capturing Jerusalem's temple",
+            "Protecting sheep from lions and bears",
+            "Commanding Egypt's chariots"
+          ],
+          "fil": [
+            "Pagsakop sa templo ng Jerusalem",
+            "Pagprotekta sa mga tupa laban sa mga leon at oso",
+            "Pamumuno sa mga karwahe ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David remembers God's help while defending his flock (1 Samuel 17).",
+          "fil": "Inalala ni David ang tulong ng Diyos sa pagtatanggol sa kanyang kawan (1 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David remove Saul's armor?",
+          "fil": "Bakit inalis ni David ang baluti ni Saul?"
+        },
+        "options": {
+          "en": [
+            "He has promised it to Goliath",
+            "He is not used to moving in it",
+            "It has turned into stone"
+          ],
+          "fil": [
+            "Ipinangako niya ito kay Goliat",
+            "Hindi siya sanay na kumilos na suot ito",
+            "Naging bato ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David chooses familiar equipment rather than unfamiliar armor (1 Samuel 17).",
+          "fil": "Pinili ni David ang pamilyar na kagamitan sa halip na baluting hindi niya nakasanayan (1 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What brings Goliath down in the fight?",
+          "fil": "Ano ang nagpabagsak kay Goliat sa labanan?"
+        },
+        "options": {
+          "en": [
+            "A strike from Saul's chariot",
+            "A stone from David's sling",
+            "A flood from the Jordan"
+          ],
+          "fil": [
+            "Paghampas ng karwahe ni Saul",
+            "Batong mula sa tirador ni David",
+            "Baha mula sa Jordan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David strikes Goliath with a sling stone and the giant falls (1 Samuel 17).",
+          "fil": "Tinamaan ni David si Goliat ng batong mula sa tirador at bumagsak ang higante (1 Samuel 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "On whom does David rely rather than on superior weapons?",
+          "fil": "Kanino umasa si David sa halip na sa mas malalakas na sandata?"
+        },
+        "options": {
+          "en": [
+            "The kings of Egypt",
+            "The Lord who delivers",
+            "The gods of the Philistines"
+          ],
+          "fil": [
+            "Sa mga hari ng Egipto",
+            "Sa Panginoong nagliligtas",
+            "Sa mga diyos ng mga Filisteo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David explains that the victory depends on the Lord's power (1 Samuel 17).",
+          "fil": "Ipinaliwanag ni David na nakasalalay sa kapangyarihan ng Panginoon ang tagumpay (1 Samuel 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "How does Jonathan express his close bond with David?",
+          "fil": "Paano ipinahayag ni Jonatan ang malapit niyang ugnayan kay David?"
+        },
+        "options": {
+          "en": [
+            "He demands that David leave Israel",
+            "He makes a covenant and gives him his robe and weapons",
+            "He sells David to the Philistines"
+          ],
+          "fil": [
+            "Hiningi niyang umalis si David sa Israel",
+            "Nakipagtipan siya at ibinigay ang kanyang balabal at mga sandata",
+            "Ipinagbili niya si David sa mga Filisteo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jonathan's gifts accompany his covenant of friendship with David (1 Samuel 18).",
+          "fil": "Kasama ng mga regalo ni Jonatan ang kanyang tipan ng pagkakaibigan kay David (1 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does the women's praise of David stir in Saul?",
+          "fil": "Anong tugon ang pinukaw kay Saul ng papuri ng mga babae kay David?"
+        },
+        "options": {
+          "en": [
+            "Jealousy and suspicion",
+            "A desire to retire immediately",
+            "Gratitude without any resentment"
+          ],
+          "fil": [
+            "Inggit at paghihinala",
+            "Pagnanais na magretiro agad",
+            "Pasasalamat na walang anumang hinanakit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul resents the greater praise David receives after the victories (1 Samuel 18).",
+          "fil": "Ikinagalit ni Saul ang mas malaking papuring tinanggap ni David matapos ang mga tagumpay (1 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Saul throw at David while David plays music?",
+          "fil": "Ano ang inihagis ni Saul kay David habang tumutugtog ito?"
+        },
+        "options": {
+          "en": [
+            "A royal crown",
+            "A spear",
+            "A loaf of bread"
+          ],
+          "fil": [
+            "Isang korona ng hari",
+            "Isang sibat",
+            "Isang tinapay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul tries to strike David with his spear (1 Samuel 18).",
+          "fil": "Tinangkang tamaan ni Saul si David ng kanyang sibat (1 Samuel 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hidden intention lies behind Saul's dangerous marriage requirement for David?",
+          "fil": "Anong nakatagong balak ang nasa likod ng mapanganib na hinihingi ni Saul sa pag-aasawa ni David?"
+        },
+        "options": {
+          "en": [
+            "He wants David to become king of Egypt",
+            "He hopes the Philistines will kill David",
+            "He wants to end all battles forever"
+          ],
+          "fil": [
+            "Nais niyang maging hari ng Egipto si David",
+            "Umaasa siyang papatayin ng mga Filisteo si David",
+            "Nais niyang wakasan ang lahat ng labanan habambuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul uses the marriage arrangement as a trap, but David succeeds (1 Samuel 18).",
+          "fil": "Ginamit ni Saul ang pag-aasawa bilang bitag, ngunit nagtagumpay si David (1 Samuel 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "How does Jonathan initially protect David from Saul's plan?",
+          "fil": "Paano unang pinangalagaan ni Jonatan si David mula sa balak ni Saul?"
+        },
+        "options": {
+          "en": [
+            "He warns David and speaks to Saul on his behalf",
+            "He tells David to worship Dagon",
+            "He gives David to the Philistines"
+          ],
+          "fil": [
+            "Binalaan niya si David at namagitan kay Saul para rito",
+            "Sinabihan niya si David na sambahin si Dagon",
+            "Ibinigay niya si David sa mga Filisteo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jonathan appeals to Saul by recalling David's faithful service (1 Samuel 19).",
+          "fil": "Nakiusap si Jonatan kay Saul sa pag-alala sa tapat na paglilingkod ni David (1 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Michal help David escape the watchers around his house?",
+          "fil": "Paano tinulungan ni Mical si David na makatakas sa mga bantay sa kanyang bahay?"
+        },
+        "options": {
+          "en": [
+            "She hides him inside the ark",
+            "She lets him down through a window",
+            "She sends him through the king's throne room"
+          ],
+          "fil": [
+            "Itinago niya siya sa loob ng kaban",
+            "Ibinaba niya siya sa bintana",
+            "Pinaalis niya siya sa silid ng trono ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Michal enables David to flee before Saul's men seize him (1 Samuel 19).",
+          "fil": "Tinulungan ni Mical si David na tumakas bago siya madakip ng mga tauhan ni Saul (1 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "With whom does David take refuge at Ramah?",
+          "fil": "Kanino nagkanlong si David sa Rama?"
+        },
+        "options": {
+          "en": [
+            "Samuel",
+            "Goliath",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Kay Samuel",
+            "Kay Goliat",
+            "Kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David tells Samuel what Saul has done and stays with him (1 Samuel 19).",
+          "fil": "Sinabi ni David kay Samuel ang ginawa ni Saul at nanatili siyang kasama nito (1 Samuel 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Saul's messengers and then to Saul among the prophets?",
+          "fil": "Ano ang nangyari sa mga sugo ni Saul at pagkatapos ay kay Saul sa piling ng mga propeta?"
+        },
+        "options": {
+          "en": [
+            "God's Spirit comes upon them and they prophesy",
+            "They burn the ark",
+            "They capture Samuel's whole household"
+          ],
+          "fil": [
+            "Sumakanila ang Espiritu ng Diyos at nagpahayag sila bilang mga propeta",
+            "Sinunog nila ang kaban",
+            "Nabihag nila ang buong sambahayan ni Samuel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The pursuit is interrupted by God's Spirit rather than ending in David's capture (1 Samuel 19).",
+          "fil": "Nahinto ng Espiritu ng Diyos ang paghabol sa halip na mauwi sa pagkadakip ni David (1 Samuel 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "How do David and Jonathan plan to learn Saul's attitude toward David?",
+          "fil": "Paano binalak nina David at Jonatan na alamin ang saloobin ni Saul kay David?"
+        },
+        "options": {
+          "en": [
+            "Send Goliath to question Saul",
+            "Ask the priests of Dagon for a prediction",
+            "Observe Saul's response to David's absence from the feast"
+          ],
+          "fil": [
+            "Ipadala si Goliat upang tanungin si Saul",
+            "Humingi ng hula sa mga pari ni Dagon",
+            "Tingnan ang tugon ni Saul sa pagkawala ni David sa handaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David's absence at the royal meal becomes a test of Saul's intentions (1 Samuel 20).",
+          "fil": "Naging pagsubok sa balak ni Saul ang pagkawala ni David sa salu-salo ng hari (1 Samuel 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Saul do when Jonathan defends David at the meal?",
+          "fil": "Ano ang ginawa ni Saul nang ipagtanggol ni Jonatan si David sa salu-salo?"
+        },
+        "options": {
+          "en": [
+            "Throws a spear at Jonathan",
+            "Gives Jonathan the ark",
+            "Makes David king immediately"
+          ],
+          "fil": [
+            "Naghagis ng sibat kay Jonatan",
+            "Ibinigay kay Jonatan ang kaban",
+            "Ginawang hari agad si David"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul's violent response confirms that David is in danger (1 Samuel 20).",
+          "fil": "Pinagtibay ng marahas na tugon ni Saul na nanganganib si David (1 Samuel 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What signal does Jonathan use in the field to warn David to flee?",
+          "fil": "Anong hudyat ang ginamit ni Jonatan sa parang upang balaan si David na tumakas?"
+        },
+        "options": {
+          "en": [
+            "A flock released from the temple",
+            "A royal wedding procession",
+            "Arrows shot beyond the boy sent to retrieve them"
+          ],
+          "fil": [
+            "Kawang pinakawalan mula sa templo",
+            "Prusisyon sa kasal ng hari",
+            "Mga palasong pinatama lampas sa batang ipinakuha ng mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan uses the agreed arrow signal to communicate danger (1 Samuel 20).",
+          "fil": "Ginamit ni Jonatan ang napagkasunduang hudyat ng mga palaso upang ipabatid ang panganib (1 Samuel 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lasting concern is included in their covenant of friendship?",
+          "fil": "Anong pangmatagalang malasakit ang kasama sa kanilang tipan ng pagkakaibigan?"
+        },
+        "options": {
+          "en": [
+            "Permanent hatred between their households",
+            "Faithful kindness to each other's descendants",
+            "A shared claim to rule Egypt"
+          ],
+          "fil": [
+            "Patuloy na galit sa pagitan ng kanilang mga sambahayan",
+            "Tapat na kabaitan sa mga inapo ng isa't isa",
+            "Magkasamang pag-angkin sa paghahari sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their covenant extends loyal care beyond their own lifetimes (1 Samuel 20).",
+          "fil": "Umaabot lampas sa sarili nilang buhay ang tapat na pangangalaga ng kanilang tipan (1 Samuel 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Which priest does David approach at Nob?",
+          "fil": "Sinong pari ang nilapitan ni David sa Nob?"
+        },
+        "options": {
+          "en": [
+            "Ahimelech",
+            "Phinehas",
+            "Eli"
+          ],
+          "fil": [
+            "Si Ahimelec",
+            "Si Finehas",
+            "Si Eli"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David seeks help from Ahimelech at the sanctuary in Nob (1 Samuel 21).",
+          "fil": "Humingi ng tulong si David kay Ahimelec sa santuwaryo sa Nob (1 Samuel 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What explanation does David give for arriving without his usual company?",
+          "fil": "Anong paliwanag ang ibinigay ni David sa pagdating nang wala ang karaniwang kasama?"
+        },
+        "options": {
+          "en": [
+            "He says Samuel has built a new palace",
+            "He says he has become Pharaoh",
+            "He claims to be on a secret royal mission"
+          ],
+          "fil": [
+            "Sinabi niyang nagtayo si Samuel ng bagong palasyo",
+            "Sinabi niyang naging Faraon siya",
+            "Sinabi niyang may lihim siyang gawain para sa hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David gives the priest a misleading account of a confidential assignment (1 Samuel 21).",
+          "fil": "Nagbigay si David sa pari ng mapanlinlang na salaysay tungkol sa lihim na gawain (1 Samuel 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What bread does the priest give David when ordinary bread is unavailable?",
+          "fil": "Anong tinapay ang ibinigay ng pari kay David nang walang karaniwang tinapay?"
+        },
+        "options": {
+          "en": [
+            "Manna just gathered from the wilderness",
+            "Bread stolen from Pharaoh's feast",
+            "The consecrated bread"
+          ],
+          "fil": [
+            "Manna na katitipon mula sa ilang",
+            "Tinapay na ninakaw sa handaan ni Faraon",
+            "Ang banal na tinapay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priest gives David the bread that had been set before the Lord (1 Samuel 21).",
+          "fil": "Ibinigay ng pari kay David ang tinapay na inihaharap sa Panginoon (1 Samuel 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose sword does David receive at Nob?",
+          "fil": "Kaninong tabak ang tinanggap ni David sa Nob?"
+        },
+        "options": {
+          "en": [
+            "Saul's",
+            "Jonathan's",
+            "Goliath's"
+          ],
+          "fil": [
+            "Kay Saul",
+            "Kay Jonatan",
+            "Kay Goliat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The sword kept at Nob is the one taken from Goliath (1 Samuel 21).",
+          "fil": "Ang tabak na iningatan sa Nob ay ang kinuha mula kay Goliat (1 Samuel 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What kind of people gather around David at the cave of Adullam?",
+          "fil": "Anong uri ng mga tao ang nagtipon kay David sa yungib ng Adulam?"
+        },
+        "options": {
+          "en": [
+            "People in distress, debt, or discontent",
+            "Only wealthy temple officials",
+            "Only foreign kings"
+          ],
+          "fil": [
+            "Mga taong naghihirap, may utang, o hindi nasisiyahan",
+            "Mayayamang opisyal lamang ng templo",
+            "Mga dayuhang hari lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David becomes leader of a community of troubled and discontented men (1 Samuel 22).",
+          "fil": "Naging pinuno si David ng pangkat ng mga lalaking nahihirapan at hindi nasisiyahan (1 Samuel 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who reports Ahimelech's help to David before Saul?",
+          "fil": "Sino ang nagsumbong kay Saul tungkol sa pagtulong ni Ahimelec kay David?"
+        },
+        "options": {
+          "en": [
+            "Abigail",
+            "Jonathan",
+            "Doeg the Edomite"
+          ],
+          "fil": [
+            "Si Abigail",
+            "Si Jonatan",
+            "Si Doeg na Edomita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Doeg tells Saul what he saw at Nob (1 Samuel 22).",
+          "fil": "Sinabi ni Doeg kay Saul ang nakita niya sa Nob (1 Samuel 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Saul's guards respond to his order against the priests?",
+          "fil": "Paano tumugon ang mga bantay ni Saul sa kanyang utos laban sa mga pari?"
+        },
+        "options": {
+          "en": [
+            "They refuse to kill the Lord's priests",
+            "They send the priests to rule Egypt",
+            "They immediately crown Ahimelech"
+          ],
+          "fil": [
+            "Tumanggi silang patayin ang mga pari ng Panginoon",
+            "Ipinadala nila ang mga pari upang mamuno sa Egipto",
+            "Agad nilang kinoronahan si Ahimelec"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The guards will not carry out Saul's order, but Doeg does (1 Samuel 22).",
+          "fil": "Tumanggi ang mga bantay na tuparin ang utos ni Saul, ngunit ginawa ito ni Doeg (1 Samuel 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who escapes the attack on the priests and joins David?",
+          "fil": "Sino ang nakaligtas sa pagsalakay sa mga pari at sumama kay David?"
+        },
+        "options": {
+          "en": [
+            "Agag",
+            "Nabal",
+            "Abiathar"
+          ],
+          "fil": [
+            "Si Agag",
+            "Si Nabal",
+            "Si Abiatar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abiathar brings David news of the deaths and receives his protection (1 Samuel 22).",
+          "fil": "Dinala ni Abiatar kay David ang balita ng pagkamatay at tinanggap ang kanyang proteksiyon (1 Samuel 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Which town does David rescue from Philistine attacks on its harvest?",
+          "fil": "Anong bayan ang iniligtas ni David mula sa mga Filisteong sumasalakay sa ani nito?"
+        },
+        "options": {
+          "en": [
+            "Jericho",
+            "Keilah",
+            "Gibeon"
+          ],
+          "fil": [
+            "Jerico",
+            "Keila",
+            "Gibeon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David follows God's guidance and delivers Keilah from the Philistines (1 Samuel 23).",
+          "fil": "Sinunod ni David ang patnubay ng Diyos at iniligtas ang Keila mula sa mga Filisteo (1 Samuel 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David leave Keilah after saving it?",
+          "fil": "Bakit umalis si David sa Keila matapos itong iligtas?"
+        },
+        "options": {
+          "en": [
+            "He has been appointed king of Egypt",
+            "He learns the ark is hidden inside its wall",
+            "God tells him its leaders would hand him over to Saul"
+          ],
+          "fil": [
+            "Itinalaga siyang hari ng Egipto",
+            "Nalaman niyang nakatago ang kaban sa pader nito",
+            "Sinabi ng Diyos na ibibigay siya ng mga pinuno nito kay Saul"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David seeks God's counsel and leaves before Saul can trap him there (1 Samuel 23).",
+          "fil": "Humingi si David ng payo ng Diyos at umalis bago siya mabitag doon ni Saul (1 Samuel 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jonathan help David in the wilderness?",
+          "fil": "Paano tinulungan ni Jonatan si David sa ilang?"
+        },
+        "options": {
+          "en": [
+            "He tells Saul exactly where to capture him",
+            "He urges David to worship Dagon",
+            "He strengthens David's trust in God"
+          ],
+          "fil": [
+            "Sinabi niya kay Saul kung saan ito madadakip",
+            "Hinimok niya si David na sambahin si Dagon",
+            "Pinatibay niya ang pagtitiwala ni David sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jonathan visits David and renews their covenant of loyalty (1 Samuel 23).",
+          "fil": "Dinalaw ni Jonatan si David at muling pinagtibay ang kanilang tipan ng katapatan (1 Samuel 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What urgent news causes Saul to stop a close pursuit of David?",
+          "fil": "Anong agarang balita ang nagpahinto kay Saul sa malapit na paghabol kay David?"
+        },
+        "options": {
+          "en": [
+            "The Philistines are raiding the land",
+            "Nabal has built a temple",
+            "Samuel has become king"
+          ],
+          "fil": [
+            "Sinasalakay ng mga Filisteo ang lupain",
+            "Nagtayo ng templo si Nabal",
+            "Naging hari si Samuel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul turns away to confront a Philistine raid, allowing David to escape (1 Samuel 23).",
+          "fil": "Lumihis si Saul upang harapin ang pagsalakay ng mga Filisteo kaya nakatakas si David (1 Samuel 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Where does Saul unknowingly come close to David and his men?",
+          "fil": "Saan hindi namalayang napalapit si Saul kay David at sa mga tauhan nito?"
+        },
+        "options": {
+          "en": [
+            "Inside a cave at En-gedi",
+            "Inside Pharaoh's palace",
+            "On a ship bound for Babylon"
+          ],
+          "fil": [
+            "Sa loob ng yungib sa En-gedi",
+            "Sa loob ng palasyo ni Faraon",
+            "Sa barkong patungong Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Saul enters the same cave where David's men are hiding (1 Samuel 24).",
+          "fil": "Pumasok si Saul sa yungib kung saan nagtatago ang mga tauhan ni David (1 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David secretly cut off as evidence that he could have harmed Saul?",
+          "fil": "Ano ang palihim na pinutol ni David bilang patunay na maaari niyang saktan si Saul?"
+        },
+        "options": {
+          "en": [
+            "The handle of Saul's sword",
+            "A corner of Saul's robe",
+            "Saul's royal chair"
+          ],
+          "fil": [
+            "Ang hawakan ng tabak ni Saul",
+            "Isang sulok ng balabal ni Saul",
+            "Ang upuan ng hari na si Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David later shows the piece of robe to prove he spared Saul (1 Samuel 24).",
+          "fil": "Ipinakita ni David kalaunan ang bahagi ng balabal upang patunayang iniligtas niya si Saul (1 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David restrain his men from attacking Saul?",
+          "fil": "Bakit pinigil ni David ang mga tauhan sa pagsalakay kay Saul?"
+        },
+        "options": {
+          "en": [
+            "Saul has already become a priest of Dagon",
+            "David has promised to serve Egypt",
+            "Saul remains the Lord's anointed king"
+          ],
+          "fil": [
+            "Naging pari na ni Dagon si Saul",
+            "Nangako si David na maglingkod sa Egipto",
+            "Nananatiling pinahirang hari ng Panginoon si Saul"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David refuses to seize the throne by killing the Lord's anointed (1 Samuel 24).",
+          "fil": "Tumanggi si David na agawin ang trono sa pagpatay sa pinahiran ng Panginoon (1 Samuel 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Saul acknowledge about David after hearing him?",
+          "fil": "Ano ang kinilala ni Saul tungkol kay David matapos marinig ito?"
+        },
+        "options": {
+          "en": [
+            "David has stolen the ark",
+            "David has never served Israel",
+            "David has treated him more righteously and will become king"
+          ],
+          "fil": [
+            "Ninakaw ni David ang kaban",
+            "Hindi kailanman naglingkod si David sa Israel",
+            "Mas matuwid ang pakikitungo ni David sa kanya at magiging hari ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Saul recognizes David's mercy and his future kingship (1 Samuel 24).",
+          "fil": "Kinilala ni Saul ang awa ni David at ang paghahari nito sa hinaharap (1 Samuel 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "How does Nabal respond to David's request for provisions?",
+          "fil": "Paano tumugon si Nabal sa hiling ni David na panustos?"
+        },
+        "options": {
+          "en": [
+            "He gives David all his land",
+            "He welcomes David as king",
+            "He insults David and refuses to share"
+          ],
+          "fil": [
+            "Ibinigay niya kay David ang lahat ng kanyang lupa",
+            "Tinanggap niya si David bilang hari",
+            "Ininsulto niya si David at tumangging magbahagi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nabal's harsh refusal provokes David's anger (1 Samuel 25).",
+          "fil": "Pinukaw ng marahas na pagtanggi ni Nabal ang galit ni David (1 Samuel 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Abigail do when she learns of the danger?",
+          "fil": "Ano ang ginawa ni Abigail nang malaman ang panganib?"
+        },
+        "options": {
+          "en": [
+            "Hides the remaining food from everyone",
+            "Asks Saul to crown Nabal",
+            "Quickly brings food to meet David"
+          ],
+          "fil": [
+            "Itinago ang natitirang pagkain mula sa lahat",
+            "Hiniling kay Saul na koronahan si Nabal",
+            "Agad na nagdala ng pagkain upang salubungin si David"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abigail acts promptly with provisions and a personal appeal (1 Samuel 25).",
+          "fil": "Agad na kumilos si Abigail na may panustos at personal na pakiusap (1 Samuel 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Abigail urge David to avoid for the sake of his future?",
+          "fil": "Ano ang hinimok ni Abigail na iwasan ni David alang-alang sa kanyang hinaharap?"
+        },
+        "options": {
+          "en": [
+            "The guilt of taking revenge and shedding blood",
+            "Any prayer to God",
+            "Every act of kindness"
+          ],
+          "fil": [
+            "Ang pananagutan sa paghihiganti at pagdanak ng dugo",
+            "Anumang panalangin sa Diyos",
+            "Bawat gawa ng kabaitan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Abigail asks David not to burden his future reign with needless bloodshed (1 Samuel 25).",
+          "fil": "Hiniling ni Abigail kay David na huwag bigatan ang magiging paghahari ng di-kailangang pagdanak ng dugo (1 Samuel 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David respond to Abigail's counsel?",
+          "fil": "Paano tumugon si David sa payo ni Abigail?"
+        },
+        "options": {
+          "en": [
+            "He thanks God for her intervention and abandons his revenge",
+            "He refuses to hear her and attacks at once",
+            "He appoints Nabal king"
+          ],
+          "fil": [
+            "Nagpasalamat siya sa Diyos sa pamamagitan nito at iniwan ang paghihiganti",
+            "Tumanggi siyang makinig at agad na sumalakay",
+            "Itinalaga niyang hari si Nabal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David accepts Abigail's wise appeal and spares the household (1 Samuel 25).",
+          "fil": "Tinanggap ni David ang matalinong pakiusap ni Abigail at iniligtas ang sambahayan (1 Samuel 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "Who goes with David into Saul's sleeping camp?",
+          "fil": "Sino ang kasama ni David sa pagpasok sa natutulog na kampo ni Saul?"
+        },
+        "options": {
+          "en": [
+            "Abishai",
+            "Goliath",
+            "Nabal"
+          ],
+          "fil": [
+            "Si Abisai",
+            "Si Goliat",
+            "Si Nabal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David and Abishai enter the camp while Saul's force sleeps (1 Samuel 26).",
+          "fil": "Pumasok sina David at Abisai sa kampo habang natutulog ang hukbo ni Saul (1 Samuel 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does David refuse Abishai's proposal to kill Saul?",
+          "fil": "Bakit tinanggihan ni David ang mungkahi ni Abisai na patayin si Saul?"
+        },
+        "options": {
+          "en": [
+            "He will not attack the Lord's anointed and claim innocence",
+            "He believes Saul is already king of Egypt",
+            "He wants Abishai to become a priest"
+          ],
+          "fil": [
+            "Hindi niya sasalakayin ang pinahiran ng Panginoon at aangking walang sala",
+            "Naniniwala siyang hari na ng Egipto si Saul",
+            "Nais niyang maging pari si Abisai"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David leaves the timing of Saul's end in God's hands (1 Samuel 26).",
+          "fil": "Ipinaubaya ni David sa Diyos ang panahon ng wakas ni Saul (1 Samuel 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does David take from beside Saul's head?",
+          "fil": "Ano ang kinuha ni David sa tabi ng ulo ni Saul?"
+        },
+        "options": {
+          "en": [
+            "His robe and sandals",
+            "His crown and throne",
+            "His spear and water jug"
+          ],
+          "fil": [
+            "Ang kanyang balabal at sandalyas",
+            "Ang kanyang korona at trono",
+            "Ang kanyang sibat at lalagyan ng tubig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The spear and jug demonstrate how near David came without harming Saul (1 Samuel 26).",
+          "fil": "Patunay ang sibat at lalagyan ng tubig kung gaano kalapit si David nang hindi sinasaktan si Saul (1 Samuel 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does nobody awaken during their visit to the camp?",
+          "fil": "Bakit walang nagising sa pagpunta nila sa kampo?"
+        },
+        "options": {
+          "en": [
+            "The Lord has caused a deep sleep to fall on them",
+            "The camp has no soldiers in it",
+            "Abner has ordered everyone to leave"
+          ],
+          "fil": [
+            "Pinatulog sila nang mahimbing ng Panginoon",
+            "Walang kawal sa kampo",
+            "Inutusan ni Abner na umalis ang lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account attributes the camp's deep sleep to the Lord (1 Samuel 26).",
+          "fil": "Iniugnay ng salaysay sa Panginoon ang mahimbing na tulog ng kampo (1 Samuel 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What town does Achish give David as a place to live?",
+          "fil": "Anong bayan ang ibinigay ni Aquis kay David upang tirhan?"
+        },
+        "options": {
+          "en": [
+            "Ziklag",
+            "Shiloh",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Ziklag",
+            "Silo",
+            "Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "David receives Ziklag while living under Achish's protection (1 Samuel 27).",
+          "fil": "Tinanggap ni David ang Ziklag habang nasa proteksiyon ni Aquis (1 Samuel 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David mislead Achish about his raids?",
+          "fil": "Paano nilinlang ni David si Aquis tungkol sa kanyang mga pagsalakay?"
+        },
+        "options": {
+          "en": [
+            "He claims he has conquered Egypt",
+            "He says he has never left his house",
+            "He reports raids against Judah while attacking other peoples"
+          ],
+          "fil": [
+            "Inangkin niyang nasakop niya ang Egipto",
+            "Sinabi niyang hindi siya kailanman lumabas ng bahay",
+            "Ibinalita niyang sinalakay ang Juda habang ibang mga bayan ang kanyang nilulusob"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David conceals his actual targets and gives Achish a false impression (1 Samuel 27).",
+          "fil": "Itinago ni David ang tunay na mga sinalakay at nagbigay kay Aquis ng maling akala (1 Samuel 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistaken conclusion does Achish draw about David's relationship with Israel?",
+          "fil": "Anong maling akala ang nabuo ni Aquis tungkol sa ugnayan ni David sa Israel?"
+        },
+        "options": {
+          "en": [
+            "David has become a priest of the ark",
+            "David has made himself hated by his own people and will remain his servant",
+            "David has already become king in Jerusalem"
+          ],
+          "fil": [
+            "Naging pari na ng kaban si David",
+            "Kinapootan na si David ng sariling bayan at mananatiling lingkod niya",
+            "Hari na si David sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Achish trusts David because he believes David has alienated Israel (1 Samuel 27).",
+          "fil": "Nagtiwala si Aquis kay David dahil inakala niyang inilayo nito ang sarili sa Israel (1 Samuel 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "Why does Saul seek a medium when the Philistine army gathers?",
+          "fil": "Bakit humanap ng sumasangguni sa mga espiritu si Saul nang magtipon ang hukbo ng mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "Samuel has told him to consult mediums",
+            "He is afraid and receives no answer from the Lord",
+            "He is celebrating a victory"
+          ],
+          "fil": [
+            "Sinabihan siya ni Samuel na sumangguni sa mga espiritu",
+            "Natatakot siya at walang tinatanggap na sagot mula sa Panginoon",
+            "Ipinagdiriwang niya ang tagumpay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul turns to a forbidden source of guidance in his fear and desperation (1 Samuel 28).",
+          "fil": "Lumapit si Saul sa ipinagbabawal na pinagmumulan ng patnubay sa takot at kawalan ng pag-asa (1 Samuel 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Saul go in disguise to consult the woman?",
+          "fil": "Saan nagpunta si Saul nang nakabalatkayo upang sumangguni sa babae?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Endor",
+            "Bethlehem"
+          ],
+          "fil": [
+            "Hebron",
+            "Endor",
+            "Bethlehem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul visits the medium at Endor secretly by night (1 Samuel 28).",
+          "fil": "Lihim na dinalaw ni Saul ang babae sa Endor sa gabi (1 Samuel 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Saul ask the woman to bring up?",
+          "fil": "Sino ang hiniling ni Saul na tawagin ng babae?"
+        },
+        "options": {
+          "en": [
+            "Moses",
+            "Samuel",
+            "Abraham"
+          ],
+          "fil": [
+            "Si Moises",
+            "Si Samuel",
+            "Si Abraham"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul specifically asks for Samuel during the encounter (1 Samuel 28).",
+          "fil": "Partikular na hiniling ni Saul si Samuel sa pakikipagtagpo (1 Samuel 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What message about the coming battle does Saul hear?",
+          "fil": "Anong mensahe tungkol sa darating na labanan ang narinig ni Saul?"
+        },
+        "options": {
+          "en": [
+            "David will become king of Egypt",
+            "Saul will conquer every nation",
+            "Israel will be defeated and Saul's rule is ending"
+          ],
+          "fil": [
+            "Magiging hari ng Egipto si David",
+            "Sasakupin ni Saul ang bawat bansa",
+            "Matatalo ang Israel at magwawakas ang paghahari ni Saul"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The message confirms judgment and announces the coming disaster (1 Samuel 28).",
+          "fil": "Pinagtibay ng mensahe ang hatol at ipinahayag ang darating na kapahamakan (1 Samuel 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "Why do the Philistine commanders object to David joining their battle line?",
+          "fil": "Bakit tumutol ang mga pinuno ng Filisteo sa pagsama ni David sa kanilang hukbo?"
+        },
+        "options": {
+          "en": [
+            "They believe he has no fighting experience",
+            "They want him to be their high priest",
+            "They fear he will turn against them during battle"
+          ],
+          "fil": [
+            "Naniniwala silang wala siyang karanasan sa pakikipaglaban",
+            "Nais nilang maging pinakapunong pari nila siya",
+            "Natatakot silang bumaling siya laban sa kanila sa labanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The commanders distrust the former servant of Saul (1 Samuel 29).",
+          "fil": "Hindi pinagtiwalaan ng mga pinuno ang dating lingkod ni Saul (1 Samuel 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Achish describe his own experience of David to the commanders?",
+          "fil": "Paano inilarawan ni Aquis sa mga pinuno ang sarili niyang karanasan kay David?"
+        },
+        "options": {
+          "en": [
+            "He says he has found no fault in him",
+            "He says David has attacked him every day",
+            "He says David has never lived among them"
+          ],
+          "fil": [
+            "Sinabi niyang wala siyang nakitang pagkukulang dito",
+            "Sinabi niyang araw-araw siyang sinalakay ni David",
+            "Sinabi niyang hindi kailanman nanirahan sa kanila si David"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Achish defends David despite the commanders' suspicions (1 Samuel 29).",
+          "fil": "Ipinagtanggol ni Aquis si David sa kabila ng mga hinala ng mga pinuno (1 Samuel 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Achish finally tell David to do?",
+          "fil": "Ano ang sa wakas ay ipinagawa ni Aquis kay David?"
+        },
+        "options": {
+          "en": [
+            "Lead the Philistine attack on Saul",
+            "Leave early with his men and return home",
+            "Take over the temple of Dagon"
+          ],
+          "fil": [
+            "Pangunahan ang pagsalakay ng mga Filisteo kay Saul",
+            "Umalis nang maaga kasama ang mga tauhan at umuwi",
+            "Sakupin ang templo ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David is sent away from the battle because the commanders will not accept him (1 Samuel 29).",
+          "fil": "Pinaalis si David mula sa labanan dahil ayaw siyang tanggapin ng mga pinuno (1 Samuel 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "Who has burned Ziklag and taken its families captive when David returns?",
+          "fil": "Sino ang sumunog sa Ziklag at bumihag sa mga pamilya nito nang bumalik si David?"
+        },
+        "options": {
+          "en": [
+            "The priests of Nob",
+            "The Amalekites",
+            "The people of Keilah"
+          ],
+          "fil": [
+            "Ang mga pari ng Nob",
+            "Ang mga Amalecita",
+            "Ang mga taga-Keila"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David's men discover the Amalekite raid upon returning to Ziklag (1 Samuel 30).",
+          "fil": "Natuklasan ng mga tauhan ni David ang pagsalakay ng mga Amalecita sa pagbabalik sa Ziklag (1 Samuel 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who guides David to the raiders after receiving food and care?",
+          "fil": "Sino ang gumabay kay David sa mga sumalakay matapos bigyan ng pagkain at alaga?"
+        },
+        "options": {
+          "en": [
+            "Saul's armor-bearer",
+            "An abandoned Egyptian servant",
+            "The king of Babylon"
+          ],
+          "fil": [
+            "Ang tagapagdala ng sandata ni Saul",
+            "Iniwan na lingkod na taga-Egipto",
+            "Ang hari ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The rescued servant leads David to the Amalekite camp (1 Samuel 30).",
+          "fil": "Dinala ng iniligtas na lingkod si David sa kampo ng mga Amalecita (1 Samuel 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the captives when David defeats the raiders?",
+          "fil": "Ano ang nangyari sa mga bihag nang talunin ni David ang mga sumalakay?"
+        },
+        "options": {
+          "en": [
+            "They are sold to Egypt",
+            "They are left in the camp without help",
+            "They are all recovered safely"
+          ],
+          "fil": [
+            "Ipinagbili sila sa Egipto",
+            "Iniwan sila sa kampo nang walang tulong",
+            "Ligtas silang lahat na nabawi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David recovers the people and possessions taken from Ziklag (1 Samuel 30).",
+          "fil": "Nabawi ni David ang mga tao at ari-ariang kinuha mula sa Ziklag (1 Samuel 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David decide to share the recovered goods with the exhausted men who stayed behind?",
+          "fil": "Paano ipinamahagi ni David ang nabawing mga bagay sa pagod na mga lalaking naiwan?"
+        },
+        "options": {
+          "en": [
+            "They must buy their own families back",
+            "They receive a share like those who fought",
+            "They are denied everything"
+          ],
+          "fil": [
+            "Kailangan nilang tubusin ang sarili nilang pamilya",
+            "Tumanggap sila ng bahaging tulad ng mga lumaban",
+            "Pinagkaitan sila ng lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David establishes equal sharing for fighters and those guarding the supplies (1 Samuel 30).",
+          "fil": "Itinatag ni David ang pantay na pagbabahagi sa mga lumaban at nagbantay sa mga kagamitan (1 Samuel 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "On which mountain are Saul's forces defeated by the Philistines?",
+          "fil": "Sa anong bundok natalo ng mga Filisteo ang hukbo ni Saul?"
+        },
+        "options": {
+          "en": [
+            "Mount Sinai",
+            "Mount Gilboa",
+            "Mount Carmel"
+          ],
+          "fil": [
+            "Bundok Sinai",
+            "Bundok Gilboa",
+            "Bundok Carmel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul's sons fall and Israel is defeated on Gilboa (1 Samuel 31).",
+          "fil": "Namatay ang mga anak ni Saul at natalo ang Israel sa Gilboa (1 Samuel 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Saul do after his armor-bearer refuses to kill him?",
+          "fil": "Ano ang ginawa ni Saul matapos tumanggi ang tagapagdala ng sandata na patayin siya?"
+        },
+        "options": {
+          "en": [
+            "He crowns David during the battle",
+            "He falls on his own sword",
+            "He surrenders the ark to Dagon"
+          ],
+          "fil": [
+            "Kinoronahan niya si David sa labanan",
+            "Nagpatihulog siya sa sarili niyang tabak",
+            "Isinuko niya ang kaban kay Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Saul takes his own life after being severely wounded (1 Samuel 31).",
+          "fil": "Kinitil ni Saul ang sarili niyang buhay matapos masugatan nang malubha (1 Samuel 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who retrieves the bodies of Saul and his sons from enemy display?",
+          "fil": "Sino ang kumuha sa mga bangkay ni Saul at ng kanyang mga anak mula sa pagkakabitin ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "The rulers of Moab",
+            "The men of Jabesh-gilead",
+            "The priests of Dagon"
+          ],
+          "fil": [
+            "Ang mga pinuno ng Moab",
+            "Ang mga lalaki ng Jabes-gilead",
+            "Ang mga pari ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The brave men of Jabesh recover the bodies and honor them in burial (1 Samuel 31).",
+          "fil": "Kinuha ng matatapang na lalaki ng Jabes ang mga bangkay at pinarangalan sa paglilibing (1 Samuel 31)."
+        }
+      }
+    ]
+  }
+}
