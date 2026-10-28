@@ -1,0 +1,146 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What neglected work does Haggai urge the people to begin?",
+          "fil": "Anong napabayaang gawain ang hinimok ni Hagai na simulan ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Rebuilding the Lord's temple",
+            "Making a new royal tomb",
+            "Building a temple for Baal"
+          ],
+          "fil": [
+            "Ang muling pagtatayo ng Templo ng Panginoon",
+            "Ang paggawa ng bagong libingan ng hari",
+            "Ang pagtatayo ng templo para kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people have cared for their own houses while God's house lies ruined (Haggai 1).",
+          "fil": "Inasikaso ng bayan ang kanilang mga bahay habang wasak ang bahay ng Diyos (Hagai 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the people's harvests described?",
+          "fil": "Paano inilarawan ang ani ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Much effort brings little produce",
+            "Every field produces without work",
+            "Their barns cannot hold all the grain"
+          ],
+          "fil": [
+            "Maliit ang ani sa kabila ng maraming pagsisikap",
+            "Namumunga ang bawat bukid nang walang paggawa",
+            "Hindi magkasya sa kanilang mga kamalig ang lahat ng butil"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Poor harvests prompt the people to reconsider their priorities (Haggai 1).",
+          "fil": "Hinimok ng mahinang ani ang bayan na suriin ang kanilang mga inuuna (Hagai 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the leaders and people respond to Haggai's message?",
+          "fil": "Paano tumugon ang mga pinuno at bayan sa mensahe ni Hagai?"
+        },
+        "options": {
+          "en": [
+            "They obey and begin work on the temple",
+            "They imprison Haggai",
+            "They build an idol instead"
+          ],
+          "fil": [
+            "Sumunod sila at nagsimulang gumawa sa Templo",
+            "Ikinulong nila si Hagai",
+            "Gumawa sila ng diyus-diyosan sa halip"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God stirs the community to act on the message (Haggai 1).",
+          "fil": "Pinukaw ng Diyos ang pamayanan na isagawa ang mensahe (Hagai 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why are some people discouraged about the temple being rebuilt?",
+          "fil": "Bakit pinanghinaan ng loob ang ilan tungkol sa muling itinatayong Templo?"
+        },
+        "options": {
+          "en": [
+            "It has already been carried to Egypt",
+            "It seems unimpressive beside the former temple",
+            "God has forbidden all rebuilding"
+          ],
+          "fil": [
+            "Nadala na ito sa Egipto",
+            "Mukha itong walang karangyaan kung ihahambing sa dating Templo",
+            "Ipinagbawal ng Diyos ang lahat ng muling pagtatayo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Memories of the former temple make the present work seem small (Haggai 2).",
+          "fil": "Nagmukhang maliit ang kasalukuyang gawain dahil sa alaala ng dating Templo (Hagai 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What assurance supports the call to keep working?",
+          "fil": "Anong katiyakan ang sumusuporta sa panawagang magpatuloy sa paggawa?"
+        },
+        "options": {
+          "en": [
+            "Their army is stronger than every nation",
+            "God is with them and his Spirit remains among them",
+            "They will never need God's help again"
+          ],
+          "fil": [
+            "Mas malakas ang kanilang hukbo kaysa sa lahat ng bansa",
+            "Kasama nila ang Diyos at nananatili sa kanila ang kanyang Espiritu",
+            "Hindi na nila kailanman kakailanganin ang tulong ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's continuing presence encourages the builders to be brave (Haggai 2).",
+          "fil": "Pinalakas ng patuloy na presensya ng Diyos ang loob ng mga tagapagtayo (Hagai 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise for this house?",
+          "fil": "Ano ang ipinangako ng Diyos para sa bahay na ito?"
+        },
+        "options": {
+          "en": [
+            "Greater glory and peace",
+            "Permanent abandonment",
+            "A place where idols will rule"
+          ],
+          "fil": [
+            "Higit na kaluwalhatian at kapayapaan",
+            "Permanenteng pagpapabaya",
+            "Isang lugar na paghaharian ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promise gives hope beyond the temple's present appearance (Haggai 2).",
+          "fil": "Nagbigay ang pangako ng pag-asang higit sa kasalukuyang anyo ng Templo (Hagai 2)."
+        }
+      }
+    ]
+  }
+}
