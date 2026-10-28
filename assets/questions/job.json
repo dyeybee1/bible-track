@@ -1,0 +1,3078 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How is Job introduced?",
+          "fil": "Paano ipinakilala si Job?"
+        },
+        "options": {
+          "en": [
+            "Upright and devoted to God",
+            "A ruler who worships idols",
+            "A thief hiding from justice"
+          ],
+          "fil": [
+            "Matuwid at tapat sa Diyos",
+            "Pinunong sumasamba sa diyus-diyosan",
+            "Magnanakaw na nagtatago sa batas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job is introduced as a man who reveres God and avoids evil (Job 1).",
+          "fil": "Ipinakilala si Job bilang taong gumagalang sa Diyos at umiiwas sa masama (Job 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Satan question about Job's devotion?",
+          "fil": "Ano ang kinuwestiyon ni Satanas sa katapatan ni Job?"
+        },
+        "options": {
+          "en": [
+            "Whether Job knows how to farm",
+            "Whether it depends on receiving blessings",
+            "Whether Job has ever owned animals"
+          ],
+          "fil": [
+            "Kung marunong magsaka si Job",
+            "Kung nakasalalay ito sa pagtanggap ng pagpapala",
+            "Kung nagkaroon na si Job ng mga hayop"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Satan claims Job serves God only because his life is protected and prosperous (Job 1).",
+          "fil": "Sinabi ni Satanas na naglilingkod lamang si Job dahil ligtas at masagana ang kanyang buhay (Job 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the successive messengers report?",
+          "fil": "Ano ang ibinalita ng magkakasunod na sugo?"
+        },
+        "options": {
+          "en": [
+            "The capture of Jerusalem",
+            "The loss of Job's possessions and children",
+            "The crowning of Job as king"
+          ],
+          "fil": [
+            "Ang pagkabihag sa Jerusalem",
+            "Ang pagkawala ng mga ari-arian at anak ni Job",
+            "Ang pagkakorona kay Job bilang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The messengers bring news of devastating losses in Job's household (Job 1).",
+          "fil": "Nagdala ang mga sugo ng balita ng matinding pagkawala sa sambahayan ni Job (Job 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Job respond to these losses?",
+          "fil": "Paano tumugon si Job sa mga pagkawala?"
+        },
+        "options": {
+          "en": [
+            "He immediately turns to idols",
+            "He grieves and worships without accusing God of wrongdoing",
+            "He celebrates with a feast"
+          ],
+          "fil": [
+            "Agad siyang bumaling sa diyus-diyosan",
+            "Nagluksa siya at sumamba nang hindi pinararatangan ng mali ang Diyos",
+            "Nagdiwang siya sa piging"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job expresses deep grief while continuing to honor God (Job 1).",
+          "fil": "Ipinahayag ni Job ang matinding lungkot habang patuloy na nagpaparangal sa Diyos (Job 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What new suffering comes upon Job?",
+          "fil": "Anong bagong pagdurusa ang dumating kay Job?"
+        },
+        "options": {
+          "en": [
+            "Blindness from a battle",
+            "Painful sores over his body",
+            "Imprisonment in Egypt"
+          ],
+          "fil": [
+            "Pagkabulag sa labanan",
+            "Masasakit na sugat sa kanyang katawan",
+            "Pagkabilanggo sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job's trial now includes painful bodily disease (Job 2).",
+          "fil": "Kasama na sa pagsubok kay Job ang masakit na karamdaman ng katawan (Job 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What limit does God place on Satan's attack?",
+          "fil": "Anong hangganan ang inilagay ng Diyos sa pag-atake ni Satanas?"
+        },
+        "options": {
+          "en": [
+            "Job's life must be spared",
+            "Job must become a king",
+            "Job's wealth must double immediately"
+          ],
+          "fil": [
+            "Dapat manatiling buhay si Job",
+            "Dapat maging hari si Job",
+            "Dapat dumoble agad ang yaman ni Job"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Satan is allowed to afflict Job but not take his life (Job 2).",
+          "fil": "Pinayagang pahirapan ni Satanas si Job ngunit hindi kunin ang buhay nito (Job 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Job respond to his wife's urging to curse God?",
+          "fil": "Paano tumugon si Job sa paghimok ng kanyang asawa na sumpain ang Diyos?"
+        },
+        "options": {
+          "en": [
+            "He blames his friends for every loss",
+            "He agrees to worship Baal",
+            "He refuses and says hardship must also be faced"
+          ],
+          "fil": [
+            "Sinisi niya ang mga kaibigan sa lahat ng pagkawala",
+            "Pumayag siyang sumamba kay Baal",
+            "Tumanggi siya at sinabing dapat ding harapin ang hirap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job refuses to turn against God despite his suffering (Job 2).",
+          "fil": "Tumanggi si Job na talikuran ang Diyos sa kabila ng kanyang pagdurusa (Job 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Job's friends first do when they see his pain?",
+          "fil": "Ano ang unang ginawa ng mga kaibigan ni Job nang makita ang kanyang pagdurusa?"
+        },
+        "options": {
+          "en": [
+            "Mourn and sit silently with him",
+            "Begin a victory celebration",
+            "Demand payment for their visit"
+          ],
+          "fil": [
+            "Nagluksa at tahimik na umupong kasama niya",
+            "Nagsimula ng pagdiriwang ng tagumpay",
+            "Humingi ng bayad sa kanilang pagdalaw"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The friends share Job's mourning and remain silent because his pain is so great (Job 2).",
+          "fil": "Nakiramay ang mga kaibigan at nanahimik dahil napakatindi ng sakit ni Job (Job 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who breaks the silence with a lament?",
+          "fil": "Sino ang bumasag sa katahimikan sa isang panaghoy?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Elihu",
+            "Job"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Elihu",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job begins speaking after the days of silent mourning (Job 3).",
+          "fil": "Nagsimulang magsalita si Job matapos ang mga araw ng tahimik na pagdadalamhati (Job 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job wish had never occurred?",
+          "fil": "Ano ang hiniling ni Job na sana ay hindi nangyari?"
+        },
+        "options": {
+          "en": [
+            "His own birth",
+            "The creation of animals",
+            "His friends' marriages"
+          ],
+          "fil": [
+            "Ang sarili niyang pagsilang",
+            "Ang paglikha sa mga hayop",
+            "Ang pag-aasawa ng kanyang mga kaibigan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job's grief leads him to lament the day of his birth (Job 3).",
+          "fil": "Dahil sa dalamhati ay ipinaghinagpis ni Job ang araw ng kanyang kapanganakan (Job 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job associate with death in this lament?",
+          "fil": "Ano ang iniugnay ni Job sa kamatayan sa panaghoy na ito?"
+        },
+        "options": {
+          "en": [
+            "A chance to conquer nations",
+            "Rest from overwhelming trouble",
+            "A reward for harming others"
+          ],
+          "fil": [
+            "Pagkakataong sumakop ng mga bansa",
+            "Pahinga mula sa napakatinding hirap",
+            "Gantimpala sa pananakit ng iba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job longs for relief and imagines rest beyond his present suffering (Job 3).",
+          "fil": "Ninais ni Job ng ginhawa at inisip ang pahinga lampas sa kasalukuyang pagdurusa (Job 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Which friend begins answering Job?",
+          "fil": "Sinong kaibigan ang nagsimulang sumagot kay Job?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Eliphaz",
+            "Zophar"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elifaz",
+            "Si Zofar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eliphaz begins the first response from Job's friends (Job 4).",
+          "fil": "Sinimulan ni Elifaz ang unang tugon ng mga kaibigan ni Job (Job 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Eliphaz recall about Job's earlier words to others?",
+          "fil": "Ano ang inalala ni Elifaz tungkol sa mga dating salita ni Job sa iba?"
+        },
+        "options": {
+          "en": [
+            "They praised foreign idols",
+            "They ordered everyone to steal",
+            "They strengthened discouraged people"
+          ],
+          "fil": [
+            "Pinuri ng mga ito ang mga dayuhang diyus-diyosan",
+            "Inutusan ng mga ito ang lahat na magnakaw",
+            "Pinalakas ng mga ito ang nanghihina"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eliphaz reminds Job that he once encouraged people who were struggling (Job 4).",
+          "fil": "Ipinaalala ni Elifaz na dating pinatibay ni Job ang mga taong nahihirapan (Job 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What explanation does Eliphaz begin offering for suffering?",
+          "fil": "Anong paliwanag ang sinimulang ibigay ni Elifaz sa pagdurusa?"
+        },
+        "options": {
+          "en": [
+            "He links ruin with wrongdoing",
+            "He says every wicked person is innocent",
+            "He says God has no power"
+          ],
+          "fil": [
+            "Iniugnay niya ang kapahamakan sa paggawa ng mali",
+            "Sinabi niyang walang sala ang bawat masamang tao",
+            "Sinabi niyang walang kapangyarihan ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Eliphaz argues from his belief that those who sow trouble reap its results (Job 4).",
+          "fil": "Nangatuwiran si Elifaz mula sa paniniwalang inaani ng naghahasik ng gulo ang bunga nito (Job 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who continues the advice in this chapter?",
+          "fil": "Sino ang nagpatuloy ng payo sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Job's wife",
+            "Eliphaz"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Ang asawa ni Job",
+            "Si Elifaz"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eliphaz continues his first speech to Job (Job 5).",
+          "fil": "Ipinagpatuloy ni Elifaz ang una niyang talumpati kay Job (Job 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What would Eliphaz do if he were in Job's position?",
+          "fil": "Ano ang gagawin ni Elifaz kung siya ang nasa kalagayan ni Job?"
+        },
+        "options": {
+          "en": [
+            "Refuse every kind of help",
+            "Ask an idol for revenge",
+            "Appeal to God and place his case before him"
+          ],
+          "fil": [
+            "Tanggihan ang anumang tulong",
+            "Humingi ng paghihiganti sa diyus-diyosan",
+            "Lumapit sa Diyos at iharap ang kanyang usapin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eliphaz urges Job to turn to God for help (Job 5).",
+          "fil": "Hinimok ni Elifaz si Job na lumapit sa Diyos para sa tulong (Job 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Eliphaz describe divine correction?",
+          "fil": "Paano inilarawan ni Elifaz ang pagtutuwid ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Permission to mistreat the weak",
+            "Something to accept from the God who also heals",
+            "Proof that prayer is useless"
+          ],
+          "fil": [
+            "Pahintulot na apihin ang mahina",
+            "Bagay na tatanggapin mula sa Diyos na nagpapagaling din",
+            "Patunay na walang saysay ang panalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eliphaz connects God's discipline with the hope of restoration (Job 5).",
+          "fil": "Iniugnay ni Elifaz ang disiplina ng Diyos sa pag-asa ng pagpapanumbalik (Job 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Who answers Eliphaz in this chapter?",
+          "fil": "Sino ang sumagot kay Elifaz sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Job",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Job",
+            "Si Bildad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job replies to the advice he has received (Job 6).",
+          "fil": "Tumugon si Job sa payong kanyang tinanggap (Job 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job say explains his distressed words?",
+          "fil": "Ano ang sinabi ni Job na dahilan ng kanyang mga salitang puno ng dalamhati?"
+        },
+        "options": {
+          "en": [
+            "A plan to seize a throne",
+            "Delight in deceiving his friends",
+            "The immense weight of his suffering"
+          ],
+          "fil": [
+            "Ang balak na umagaw ng trono",
+            "Ang tuwa sa panlilinlang sa mga kaibigan",
+            "Ang napakabigat niyang pagdurusa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job asks his friends to consider how heavy his grief is (Job 6).",
+          "fil": "Hiniling ni Job sa mga kaibigan na isaalang-alang ang bigat ng kanyang dalamhati (Job 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job expect from friends toward someone in despair?",
+          "fil": "Ano ang inaasahan ni Job sa mga kaibigan para sa taong nawawalan ng pag-asa?"
+        },
+        "options": {
+          "en": [
+            "False accusations",
+            "Mockery",
+            "Loyal kindness"
+          ],
+          "fil": [
+            "Maling paratang",
+            "Pangungutya",
+            "Tapat na kabutihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job appeals for the kindness that his suffering should receive from friends (Job 6).",
+          "fil": "Nakiusap si Job para sa kabutihang dapat niyang matanggap sa mga kaibigan sa kanyang pagdurusa (Job 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Who continues speaking about his troubled life?",
+          "fil": "Sino ang nagpatuloy sa pagsasalita tungkol sa kanyang magulong buhay?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Job",
+            "Zophar"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Job",
+            "Si Zofar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job's reply continues as he describes his weary days and nights (Job 7).",
+          "fil": "Nagpatuloy ang tugon ni Job sa paglalarawan ng nakapapagod na araw at gabi (Job 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of work does Job use to picture human hardship?",
+          "fil": "Anong uri ng paggawa ang ginamit ni Job upang ilarawan ang hirap ng tao?"
+        },
+        "options": {
+          "en": [
+            "A merchant's endless holiday",
+            "A laborer's exhausting service",
+            "A king's effortless feast"
+          ],
+          "fil": [
+            "Ang walang tigil na bakasyon ng mangangalakal",
+            "Ang nakapapagod na paglilingkod ng manggagawa",
+            "Ang walang hirap na piging ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job compares his life with weary labor and longing for rest (Job 7).",
+          "fil": "Inihambing ni Job ang buhay niya sa pagod na paggawa at paghahangad ng pahinga (Job 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What troubles Job about God's attention to him?",
+          "fil": "Ano ang bumabagabag kay Job tungkol sa pagtingin ng Diyos sa kanya?"
+        },
+        "options": {
+          "en": [
+            "He wants God to stop caring for all creation",
+            "He thinks God has made him ruler of heaven",
+            "He feels constantly watched and asks for relief"
+          ],
+          "fil": [
+            "Nais niyang tigilan ng Diyos ang pag-aalaga sa lahat ng nilikha",
+            "Iniisip niyang ginawa siya ng Diyos na pinuno ng langit",
+            "Pakiramdam niya ay lagi siyang binabantayan at humihingi siya ng ginhawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job questions why his fragile life seems subjected to relentless scrutiny (Job 7).",
+          "fil": "Itinanong ni Job kung bakit tila walang humpay na sinusuri ang kanyang marupok na buhay (Job 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Which friend now responds to Job?",
+          "fil": "Sinong kaibigan ang tumugon ngayon kay Job?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Elihu",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Elihu",
+            "Si Bildad"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Bildad begins his first speech in the discussion (Job 8).",
+          "fil": "Sinimulan ni Bildad ang una niyang talumpati sa pag-uusap (Job 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose experience does Bildad urge Job to consider?",
+          "fil": "Kaninong karanasan ang hinimok ni Bildad na isaalang-alang ni Job?"
+        },
+        "options": {
+          "en": [
+            "Foreign kings not yet born",
+            "Job's animals alone",
+            "Earlier generations and their ancestors"
+          ],
+          "fil": [
+            "Ang mga dayuhang haring hindi pa isinisilang",
+            "Ang mga hayop lamang ni Job",
+            "Ang mga naunang salinlahi at ninuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Bildad appeals to the wisdom handed down by earlier generations (Job 8).",
+          "fil": "Umapela si Bildad sa karunungang ipinamana ng mga naunang salinlahi (Job 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Bildad urge Job to do in hope of restoration?",
+          "fil": "Ano ang hinimok ni Bildad na gawin ni Job sa pag-asang maipanumbalik siya?"
+        },
+        "options": {
+          "en": [
+            "Trust only in possessions",
+            "Seek God and live uprightly",
+            "Abandon prayer for revenge"
+          ],
+          "fil": [
+            "Magtiwala lamang sa mga ari-arian",
+            "Hanapin ang Diyos at mamuhay nang matuwid",
+            "Iwan ang panalangin para sa paghihiganti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Bildad insists that turning sincerely to God will bring a renewed future (Job 8).",
+          "fil": "Iginiit ni Bildad na ang tapat na pagbaling sa Diyos ay magdadala ng bagong kinabukasan (Job 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Who answers Bildad's speech?",
+          "fil": "Sino ang sumagot sa talumpati ni Bildad?"
+        },
+        "options": {
+          "en": [
+            "Zophar",
+            "Job",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Zofar",
+            "Si Job",
+            "Si Elihu"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job responds by reflecting on God's overwhelming greatness (Job 9).",
+          "fil": "Tumugon si Job sa pagninilay sa napakalaking kadakilaan ng Diyos (Job 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Job feel unable to argue his case against God as an equal?",
+          "fil": "Bakit nadarama ni Job na hindi niya maihaharap ang usapin sa Diyos bilang kapantay?"
+        },
+        "options": {
+          "en": [
+            "God's wisdom and power far exceed human strength",
+            "Job has never learned to speak",
+            "God must obey Job's commands"
+          ],
+          "fil": [
+            "Higit na malaki ang karunungan at kapangyarihan ng Diyos kaysa lakas ng tao",
+            "Hindi natutong magsalita si Job",
+            "Dapat sundin ng Diyos ang mga utos ni Job"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job sees a vast difference between divine power and his own weakness (Job 9).",
+          "fil": "Nakita ni Job ang malaking agwat ng kapangyarihan ng Diyos at sariling kahinaan (Job 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What help does Job wish stood between him and God?",
+          "fil": "Anong tulong ang ninais ni Job na mamagitan sa kanya at sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "A king to replace God",
+            "A mediator to hear both sides",
+            "An army to conquer heaven"
+          ],
+          "fil": [
+            "Haring papalit sa Diyos",
+            "Tagapamagitan na makikinig sa dalawang panig",
+            "Hukbong sasakop sa langit"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job longs for someone who could bridge the unequal dispute (Job 9).",
+          "fil": "Ninais ni Job ng makapamamagitan sa hindi pantay na usapin (Job 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "To whom does Job direct his complaint?",
+          "fil": "Kanino tuwirang iniharap ni Job ang kanyang hinaing?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "Pharaoh",
+            "A foreign idol"
+          ],
+          "fil": [
+            "Sa Diyos",
+            "Kay Faraon",
+            "Sa dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job addresses God about suffering he cannot understand (Job 10).",
+          "fil": "Kinausap ni Job ang Diyos tungkol sa pagdurusang hindi niya maunawaan (Job 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast deeply troubles Job?",
+          "fil": "Anong pagkakaiba ang labis na bumagabag kay Job?"
+        },
+        "options": {
+          "en": [
+            "His friends have become kings",
+            "His wealth is too large to count",
+            "God carefully made him, yet he now feels destroyed"
+          ],
+          "fil": [
+            "Naging mga hari ang kanyang mga kaibigan",
+            "Hindi mabilang ang laki ng kanyang yaman",
+            "Maingat siyang nilikha ng Diyos ngunit nadarama niyang winawasak siya ngayon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job recalls God's care in forming him while asking why he now suffers (Job 10).",
+          "fil": "Inalala ni Job ang pag-aalaga ng Diyos sa paglikha sa kanya habang nagtatanong kung bakit siya nagdurusa ngayon (Job 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job ask God to explain?",
+          "fil": "Ano ang hiniling ni Job na ipaliwanag ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "How to build a royal palace",
+            "Where to find a hidden treasure",
+            "Why he is being treated as an offender"
+          ],
+          "fil": [
+            "Paano magtayo ng palasyo",
+            "Saan makikita ang nakatagong yaman",
+            "Bakit siya itinuturing na nagkasala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job asks to know the reason for God's case against him (Job 10).",
+          "fil": "Hiniling ni Job na malaman ang dahilan ng usapin ng Diyos laban sa kanya (Job 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Which friend begins speaking here?",
+          "fil": "Sinong kaibigan ang nagsimulang magsalita rito?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Elihu",
+            "Zophar"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elihu",
+            "Si Zofar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Zophar gives his first response to Job (Job 11).",
+          "fil": "Ibinigay ni Zofar ang una niyang tugon kay Job (Job 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Zophar emphasize about God's wisdom?",
+          "fil": "Ano ang binigyang-diin ni Zofar tungkol sa karunungan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "It depends on human approval",
+            "It is beyond human ability to fully measure",
+            "It is smaller than Job's knowledge"
+          ],
+          "fil": [
+            "Umaasa ito sa pagsang-ayon ng tao",
+            "Higit ito sa ganap na masusukat ng tao",
+            "Mas maliit ito kaysa kaalaman ni Job"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Zophar points to the depth of divine wisdom in challenging Job's claims (Job 11).",
+          "fil": "Itinuro ni Zofar ang lalim ng karunungan ng Diyos sa paghamon sa mga pahayag ni Job (Job 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Zophar tell Job to put away?",
+          "fil": "Ano ang sinabi ni Zofar na alisin ni Job?"
+        },
+        "options": {
+          "en": [
+            "Wrongdoing as he turns toward God",
+            "Every hope of mercy",
+            "Every act of kindness"
+          ],
+          "fil": [
+            "Ang kasamaan habang bumabaling sa Diyos",
+            "Ang bawat pag-asa ng awa",
+            "Ang bawat gawa ng kabutihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Zophar urges repentance as the way to a secure and hopeful future (Job 11).",
+          "fil": "Hinimok ni Zofar ang pagsisisi bilang daan sa ligtas at may pag-asang kinabukasan (Job 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Who replies that his friends do not possess all wisdom?",
+          "fil": "Sino ang tumugon na hindi hawak ng mga kaibigan ang lahat ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Bildad",
+            "Job"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Bildad",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job rejects the idea that his understanding is inferior to theirs (Job 12).",
+          "fil": "Tinanggihan ni Job ang palagay na mas mababa ang kanyang pang-unawa kaysa sa kanila (Job 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What can living creatures help people recognize?",
+          "fil": "Ano ang matutulungang makilala ng mga buhay na nilalang?"
+        },
+        "options": {
+          "en": [
+            "God has no part in creation",
+            "Their life depends on God's hand",
+            "Animals choose every human ruler"
+          ],
+          "fil": [
+            "Walang bahagi ang Diyos sa sangnilikha",
+            "Nakasalalay ang kanilang buhay sa kamay ng Diyos",
+            "Pinipili ng mga hayop ang bawat pinuno ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job points to creation as testimony to God's sustaining power (Job 12).",
+          "fil": "Itinuro ni Job ang sangnilikha bilang patotoo sa nag-iingat na kapangyarihan ng Diyos (Job 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job say God can do to rulers and counselors?",
+          "fil": "Ano ang sinabi ni Job na magagawa ng Diyos sa mga pinuno at tagapayo?"
+        },
+        "options": {
+          "en": [
+            "Depend on them for his existence",
+            "Give them power above himself",
+            "Overturn their strength and plans"
+          ],
+          "fil": [
+            "Umasa sa kanila upang mabuhay siya",
+            "Bigyan sila ng kapangyarihang higit sa kanya",
+            "Baligtarin ang kanilang lakas at mga plano"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job describes God as sovereign over even the most powerful leaders (Job 12).",
+          "fil": "Inilarawan ni Job ang Diyos bilang namamahala kahit sa pinakamakapangyarihang pinuno (Job 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Whom does Job want to address directly?",
+          "fil": "Sino ang nais ni Job na makausap nang tuwiran?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "An army commander",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Ang Diyos",
+            "Isang pinuno ng hukbo",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job wants to present his case before God himself (Job 13).",
+          "fil": "Nais ni Job na iharap ang kanyang usapin sa Diyos mismo (Job 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Job assess his friends' attempted help?",
+          "fil": "Paano tinaya ni Job ang tangkang pagtulong ng kanyang mga kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Like judges who already know every hidden fact",
+            "Like ineffective physicians offering faulty arguments",
+            "Like rescuers who have answered every question"
+          ],
+          "fil": [
+            "Tulad ng mga hukom na alam na ang bawat lihim na katotohanan",
+            "Tulad ng mga manggagamot na walang bisa at may maling pangangatwiran",
+            "Tulad ng tagapagligtas na sinagot ang lahat ng tanong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job challenges the usefulness and honesty of his friends' arguments (Job 13).",
+          "fil": "Hinamon ni Job ang kabuluhan at katapatan ng pangangatwiran ng kanyang mga kaibigan (Job 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job ask to know about his own conduct?",
+          "fil": "Ano ang hiniling ni Job na malaman tungkol sa sarili niyang asal?"
+        },
+        "options": {
+          "en": [
+            "The specific wrongs held against him",
+            "How much land his friends own",
+            "Which crown he should wear"
+          ],
+          "fil": [
+            "Ang mga tiyak na kamaliang ipinaparatang sa kanya",
+            "Kung gaano kalaki ang lupa ng kanyang mga kaibigan",
+            "Kung anong korona ang isusuot niya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job asks God to make the charges against him known (Job 13).",
+          "fil": "Hiniling ni Job sa Diyos na ipaalam ang mga paratang laban sa kanya (Job 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Who continues reflecting on fragile human life?",
+          "fil": "Sino ang nagpatuloy sa pagninilay tungkol sa marupok na buhay ng tao?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Job",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Job",
+            "Si Elihu"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job's speech turns to the brevity and troubles of human life (Job 14).",
+          "fil": "Bumaling ang talumpati ni Job sa kaiklian at hirap ng buhay ng tao (Job 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What picture expresses how quickly human life passes?",
+          "fil": "Anong larawan ang nagpapahayag kung gaano kabilis lumipas ang buhay ng tao?"
+        },
+        "options": {
+          "en": [
+            "A palace that never changes",
+            "A mountain made by a king",
+            "A flower that blooms and withers"
+          ],
+          "fil": [
+            "Palasyong hindi kailanman nagbabago",
+            "Bundok na ginawa ng hari",
+            "Bulaklak na namumukadkad at nalalanta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job uses fading beauty to describe life's short duration (Job 14).",
+          "fil": "Ginamit ni Job ang naglalahong ganda upang ilarawan ang maikling buhay (Job 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast does Job draw with a cut-down tree?",
+          "fil": "Anong pagkakaiba ang binanggit ni Job tungkol sa pinutol na puno?"
+        },
+        "options": {
+          "en": [
+            "It can never grow any new shoot",
+            "It can sprout again, while a person's death raises painful uncertainty",
+            "It always lives for only one day"
+          ],
+          "fil": [
+            "Hindi ito makapagpapatubo ng anumang bagong usbong",
+            "Maaari itong muling sumibol habang ang kamatayan ng tao ay nagdudulot ng masakit na tanong",
+            "Lagi itong nabubuhay nang isang araw lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The tree's renewal contrasts with Job's questions about death and renewed life (Job 14).",
+          "fil": "Inihambing ang muling pagsibol ng puno sa mga tanong ni Job tungkol sa kamatayan at bagong buhay (Job 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Which friend speaks again in this chapter?",
+          "fil": "Sinong kaibigan ang muling nagsalita sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Elihu",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Elihu",
+            "Si Bildad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Eliphaz begins another answer to Job (Job 15).",
+          "fil": "Nagsimula si Elifaz ng isa pang sagot kay Job (Job 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What criticism does Eliphaz make of Job's speech?",
+          "fil": "Anong puna ang sinabi ni Elifaz sa pananalita ni Job?"
+        },
+        "options": {
+          "en": [
+            "He says it lacks wisdom and undermines reverence",
+            "He says it has answered every question perfectly",
+            "He says it is a command to build a temple"
+          ],
+          "fil": [
+            "Sinabi niyang kulang ito sa karunungan at sumisira sa paggalang",
+            "Sinabi niyang nasagot nito nang ganap ang bawat tanong",
+            "Sinabi niyang utos ito na magtayo ng templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Eliphaz accuses Job's words of weakening proper devotion to God (Job 15).",
+          "fil": "Pinaratangan ni Elifaz ang mga salita ni Job na nagpapahina ng tamang debosyon sa Diyos (Job 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Eliphaz picture the wicked person's life?",
+          "fil": "Paano inilarawan ni Elifaz ang buhay ng masamang tao?"
+        },
+        "options": {
+          "en": [
+            "Wiser than God's own knowledge",
+            "Permanently safe from all consequences",
+            "Full of fear and approaching trouble"
+          ],
+          "fil": [
+            "Mas matalino kaysa sariling kaalaman ng Diyos",
+            "Ligtas magpakailanman sa lahat ng bunga",
+            "Puno ng takot at paparating na hirap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eliphaz describes the wicked as haunted by fear rather than secure in prosperity (Job 15).",
+          "fil": "Inilarawan ni Elifaz ang masama na inuusig ng takot sa halip na panatag sa kasaganaan (Job 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Who answers his friends' latest accusations?",
+          "fil": "Sino ang sumagot sa pinakahuling mga paratang ng mga kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Elihu",
+            "Job"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elihu",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job speaks again about the failure of his friends to comfort him (Job 16).",
+          "fil": "Muling nagsalita si Job tungkol sa kabiguan ng mga kaibigan na aliwin siya (Job 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of response does Job say he would give if their places were exchanged?",
+          "fil": "Anong tugon ang sinabi ni Job na ibibigay kung magpalit sila ng kalagayan?"
+        },
+        "options": {
+          "en": [
+            "Words that strengthen and bring comfort",
+            "A demand for their remaining wealth",
+            "More ridicule and accusations"
+          ],
+          "fil": [
+            "Mga salitang nagpapalakas at umaaliw",
+            "Paghiling ng natitira nilang kayamanan",
+            "Mas maraming pangungutya at paratang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job says he would try to strengthen sufferers rather than deepen their pain (Job 16).",
+          "fil": "Sinabi ni Job na sisikapin niyang palakasin ang nagdurusa sa halip na dagdagan ang sakit nito (Job 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Job look for someone to witness on his behalf?",
+          "fil": "Saan umasa si Job na may sasaksi para sa kanya?"
+        },
+        "options": {
+          "en": [
+            "In an idol's temple",
+            "In heaven",
+            "In Pharaoh's court"
+          ],
+          "fil": [
+            "Sa templo ng diyus-diyosan",
+            "Sa langit",
+            "Sa hukuman ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job appeals to a heavenly witness amid his distress (Job 16).",
+          "fil": "Umapela si Job sa saksi sa langit sa gitna ng kanyang dalamhati (Job 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Who continues the lament in this chapter?",
+          "fil": "Sino ang nagpatuloy ng panaghoy sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Zophar",
+            "Job"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Zofar",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job continues describing his broken spirit and failing hopes (Job 17).",
+          "fil": "Patuloy na inilarawan ni Job ang wasak niyang diwa at nanghihinang pag-asa (Job 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What treatment from others adds to Job's pain?",
+          "fil": "Anong pakikitungo ng iba ang nagdagdag sa sakit ni Job?"
+        },
+        "options": {
+          "en": [
+            "Patient listening and kindness",
+            "Restoration of everything he lost",
+            "Mockery and contempt"
+          ],
+          "fil": [
+            "Matiyagang pakikinig at kabutihan",
+            "Pagbabalik ng lahat ng nawala sa kanya",
+            "Pangungutya at paghamak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job feels surrounded by mockers rather than understanding companions (Job 17).",
+          "fil": "Nadama ni Job na napapaligiran siya ng mga nangungutya sa halip na mga kasamang nakauunawa (Job 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future seems near to Job as his hopes fade?",
+          "fil": "Anong hinaharap ang tila malapit kay Job habang naglalaho ang pag-asa?"
+        },
+        "options": {
+          "en": [
+            "The grave rather than renewed prosperity",
+            "A feast celebrating military victory",
+            "A royal coronation"
+          ],
+          "fil": [
+            "Ang libingan sa halip na bagong kasaganaan",
+            "Piging ng tagumpay sa digmaan",
+            "Isang koronasyon bilang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job questions where hope can be found when death seems close (Job 17).",
+          "fil": "Itinanong ni Job kung saan makikita ang pag-asa kung tila malapit ang kamatayan (Job 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Which friend delivers this warning-filled reply?",
+          "fil": "Sinong kaibigan ang nagbigay ng tugong ito na puno ng babala?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Elihu",
+            "Eliphaz"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elihu",
+            "Si Elifaz"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Bildad answers Job with another description of the wicked person's fate (Job 18).",
+          "fil": "Sinagot ni Bildad si Job ng isa pang paglalarawan sa kahihinatnan ng masama (Job 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose fate is the main subject of Bildad's speech?",
+          "fil": "Kaninong kahihinatnan ang pangunahing paksa ng talumpati ni Bildad?"
+        },
+        "options": {
+          "en": [
+            "The person who lives without regard for God",
+            "The king who builds Jerusalem's temple",
+            "The farmer who helps the hungry"
+          ],
+          "fil": [
+            "Ang taong namumuhay nang walang paggalang sa Diyos",
+            "Ang haring nagtatayo ng templo ng Jerusalem",
+            "Ang magsasakang tumutulong sa nagugutom"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Bildad portrays godless living as ending in insecurity and ruin (Job 18).",
+          "fil": "Inilarawan ni Bildad ang buhay na walang Diyos bilang humahantong sa kawalang-katiyakan at kapahamakan (Job 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What picture does Bildad use for the wicked person's danger?",
+          "fil": "Anong larawan ang ginamit ni Bildad para sa panganib ng masama?"
+        },
+        "options": {
+          "en": [
+            "Being caught by traps and snares",
+            "Being sheltered by a generous friend",
+            "Being welcomed into a safe harbor"
+          ],
+          "fil": [
+            "Pagkahuli sa mga bitag at patibong",
+            "Pagkakanlong ng bukas-palad na kaibigan",
+            "Pagtanggap sa ligtas na daungan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Bildad uses trapping imagery to describe consequences closing around the wicked (Job 18).",
+          "fil": "Ginamit ni Bildad ang larawan ng mga bitag upang ilarawan ang paglapit ng bunga ng kasamaan (Job 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Who protests the repeated humiliation he receives?",
+          "fil": "Sino ang tumutol sa paulit-ulit na kahihiyang kanyang natatanggap?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Job",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Job",
+            "Si Bildad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job asks his friends to stop crushing him with their words (Job 19).",
+          "fil": "Hiniling ni Job sa mga kaibigan na tigilang durugin siya sa kanilang mga salita (Job 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job say about relatives and close acquaintances?",
+          "fil": "Ano ang sinabi ni Job tungkol sa mga kamag-anak at malalapit na kakilala?"
+        },
+        "options": {
+          "en": [
+            "They have become distant and abandoned him",
+            "They have made him king",
+            "They have restored all his belongings"
+          ],
+          "fil": [
+            "Lumayo sila at pinabayaan siya",
+            "Ginawa nila siyang hari",
+            "Ibinalik nila ang lahat ng kanyang ari-arian"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job's complaint includes painful isolation from those once close to him (Job 19).",
+          "fil": "Kasama sa hinaing ni Job ang masakit na pag-iisa mula sa dating malalapit sa kanya (Job 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope does Job express despite his isolation?",
+          "fil": "Anong pag-asa ang ipinahayag ni Job sa kabila ng pag-iisa?"
+        },
+        "options": {
+          "en": [
+            "His enemies will explain every mystery",
+            "A living defender will ultimately stand for him",
+            "His wealth can buy divine approval"
+          ],
+          "fil": [
+            "Ipaliliwanag ng kanyang mga kaaway ang bawat hiwaga",
+            "May buháy na tagapagtanggol na tatayo para sa kanya sa huli",
+            "Mabibili ng kanyang yaman ang pagsang-ayon ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job expresses confidence in a living redeemer who can vindicate him (Job 19).",
+          "fil": "Ipinahayag ni Job ang tiwala sa buháy na manunubos na makapagpapatunay sa kanya (Job 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Which friend gives this speech?",
+          "fil": "Sinong kaibigan ang nagbigay ng talumpating ito?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Eliphaz",
+            "Zophar"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elifaz",
+            "Si Zofar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Zophar answers Job with a warning about wicked prosperity (Job 20).",
+          "fil": "Sinagot ni Zofar si Job ng babala tungkol sa kasaganaan ng masama (Job 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "How lasting does Zophar say the wicked person's triumph is?",
+          "fil": "Gaano katagal ang tagumpay ng masama ayon kay Zofar?"
+        },
+        "options": {
+          "en": [
+            "Brief and soon lost",
+            "Permanent and unchangeable",
+            "Equal to God's eternal rule"
+          ],
+          "fil": [
+            "Maikli at agad nawawala",
+            "Permanente at hindi nagbabago",
+            "Katumbas ng walang hanggang pamamahala ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Zophar insists that the joy of wrongdoing does not last (Job 20).",
+          "fil": "Iginiit ni Zofar na hindi tumatagal ang tuwa ng paggawa ng mali (Job 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wrongdoing does Zophar connect with wealth that cannot be kept?",
+          "fil": "Anong kasalanan ang iniugnay ni Zofar sa yamang hindi mapanghahawakan?"
+        },
+        "options": {
+          "en": [
+            "Sharing food freely",
+            "Refusing to cheat customers",
+            "Oppressing the poor and seizing what belongs to others"
+          ],
+          "fil": [
+            "Kusang pamimigay ng pagkain",
+            "Pagtangging dayain ang mga mamimili",
+            "Pang-aapi sa mahihirap at pag-agaw sa pag-aari ng iba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Zophar describes ill-gotten wealth as something its owner must lose (Job 20).",
+          "fil": "Inilarawan ni Zofar ang yamang nakuha sa masama bilang bagay na mawawala sa may-ari (Job 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Who challenges his friends' account of the wicked?",
+          "fil": "Sino ang humamon sa salaysay ng mga kaibigan tungkol sa masama?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Eliphaz",
+            "Job"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Elifaz",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job asks his friends to listen to observations that challenge their explanation (Job 21).",
+          "fil": "Hiniling ni Job na pakinggan ng mga kaibigan ang mga obserbasyong humahamon sa kanilang paliwanag (Job 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job observe about some wicked people?",
+          "fil": "Ano ang napansin ni Job tungkol sa ilang masasamang tao?"
+        },
+        "options": {
+          "en": [
+            "They have never had families",
+            "They live long and enjoy prosperous households",
+            "They always die as soon as they do wrong"
+          ],
+          "fil": [
+            "Hindi sila kailanman nagkaroon ng pamilya",
+            "Mahaba ang buhay nila at masagana ang sambahayan",
+            "Lagi silang namamatay agad pagkagawa ng mali"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job points to the apparent success of the wicked as a problem for his friends' theory (Job 21).",
+          "fil": "Itinuro ni Job ang tila tagumpay ng masama bilang suliranin sa paliwanag ng mga kaibigan (Job 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What common end does Job describe for people with very different lives?",
+          "fil": "Anong magkatulad na wakas ang inilarawan ni Job sa mga taong magkaiba ang buhay?"
+        },
+        "options": {
+          "en": [
+            "Both eventually lie in the dust of death",
+            "Both receive the same amount of gold",
+            "Both become rulers of nations"
+          ],
+          "fil": [
+            "Parehong humahantong sa alabok ng kamatayan",
+            "Parehong tumatanggap ng magkaparehong dami ng ginto",
+            "Parehong nagiging pinuno ng mga bansa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job contrasts different earthly fortunes with the death that comes to both (Job 21).",
+          "fil": "Inihambing ni Job ang magkaibang kapalaran sa kamatayang dumarating sa pareho (Job 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Which friend now makes direct accusations against Job?",
+          "fil": "Sinong kaibigan ang tuwirang nagparatang ngayon kay Job?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Eliphaz",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Elifaz",
+            "Si Bildad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eliphaz renews his argument by alleging serious wrongdoing (Job 22).",
+          "fil": "Muling nangatuwiran si Elifaz sa pag-aakusa ng mabigat na kasalanan (Job 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Eliphaz accuse Job of doing to vulnerable people?",
+          "fil": "Ano ang ibinintang ni Elifaz kay Job na ginawa sa mahihinang tao?"
+        },
+        "options": {
+          "en": [
+            "Giving away too much food",
+            "Withholding help and mistreating them",
+            "Making them richer than kings"
+          ],
+          "fil": [
+            "Sobrang pamimigay ng pagkain",
+            "Pagkakait ng tulong at pagmamalupit sa kanila",
+            "Pagpapayaman sa kanila nang higit sa mga hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eliphaz accuses Job of neglecting the hungry, widows, and orphans (Job 22).",
+          "fil": "Pinaratangan ni Elifaz si Job na pinabayaan ang nagugutom, mga biyuda, at ulila (Job 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does Eliphaz urge as the way to restoration?",
+          "fil": "Anong tugon ang hinimok ni Elifaz bilang daan ng pagpapanumbalik?"
+        },
+        "options": {
+          "en": [
+            "Return to God and receive his instruction",
+            "Refuse every word of correction",
+            "Seek protection from foreign idols"
+          ],
+          "fil": [
+            "Bumalik sa Diyos at tanggapin ang kanyang turo",
+            "Tanggihan ang bawat salita ng pagtutuwid",
+            "Humingi ng proteksiyon sa dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Eliphaz urges Job to turn back to God and put wrongdoing away (Job 22).",
+          "fil": "Hinimok ni Elifaz si Job na bumalik sa Diyos at alisin ang kasamaan (Job 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Who longs to find God and present his case?",
+          "fil": "Sino ang nagnanais makita ang Diyos at iharap ang kanyang usapin?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Job",
+            "Zophar"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Job",
+            "Si Zofar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job voices a strong desire to bring his argument before God (Job 23).",
+          "fil": "Ipinahayag ni Job ang matinding hangaring iharap ang kanyang katuwiran sa Diyos (Job 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What frustrates Job as he searches?",
+          "fil": "Ano ang nakabigo kay Job sa kanyang paghahanap?"
+        },
+        "options": {
+          "en": [
+            "He has forgotten how to pray",
+            "His friends have hidden all his maps",
+            "He cannot perceive where God is"
+          ],
+          "fil": [
+            "Nakalimutan niya kung paano manalangin",
+            "Itinago ng mga kaibigan ang lahat ng kanyang mapa",
+            "Hindi niya madama kung nasaan ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job describes seeking God in every direction without finding him (Job 23).",
+          "fil": "Inilarawan ni Job ang paghahanap sa Diyos sa lahat ng dako nang hindi ito matagpuan (Job 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What confidence remains despite Job's inability to find God?",
+          "fil": "Anong tiwala ang nanatili kahit hindi matagpuan ni Job ang Diyos?"
+        },
+        "options": {
+          "en": [
+            "His friends can force God to appear",
+            "God knows his way and can test him like gold",
+            "His possessions prove he cannot suffer"
+          ],
+          "fil": [
+            "Mapipilit ng mga kaibigan na magpakita ang Diyos",
+            "Alam ng Diyos ang kanyang daan at masusubok siya tulad ng ginto",
+            "Patunay ang mga ari-arian na hindi siya maaaring magdusa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job trusts that God knows the integrity of his path (Job 23).",
+          "fil": "Nagtiwala si Job na alam ng Diyos ang katapatan ng kanyang landas (Job 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Who continues describing injustice in the world?",
+          "fil": "Sino ang nagpatuloy sa paglalarawan ng kawalang-katarungan sa daigdig?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Bildad",
+            "Job"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Bildad",
+            "Si Job"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job continues his reply by pointing to suffering caused by oppression (Job 24).",
+          "fil": "Ipinagpatuloy ni Job ang tugon sa pagtukoy sa pagdurusang dulot ng pang-aapi (Job 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What question troubles Job about the timing of judgment?",
+          "fil": "Anong tanong ang bumabagabag kay Job tungkol sa panahon ng paghatol?"
+        },
+        "options": {
+          "en": [
+            "Why the poor are already rulers everywhere",
+            "Why God's people do not see wrongs judged at clear appointed times",
+            "Why every wicked act is stopped before it happens"
+          ],
+          "fil": [
+            "Bakit pinuno na ang mahihirap saanman",
+            "Bakit hindi nakikita ng bayan ng Diyos ang paghatol sa mali sa malinaw na takdang panahon",
+            "Bakit pinipigil ang bawat masamang gawa bago mangyari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job struggles with the apparent delay of justice amid visible wrongdoing (Job 24).",
+          "fil": "Nahirapan si Job sa tila pagkaantala ng katarungan sa gitna ng nakikitang kasamaan (Job 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What painful contrast does Job describe about poor laborers?",
+          "fil": "Anong masakit na pagkakaiba ang inilarawan ni Job tungkol sa mahihirap na manggagawa?"
+        },
+        "options": {
+          "en": [
+            "They own every field in the land",
+            "They refuse work because they have too much",
+            "They produce food and drink for others while remaining hungry and thirsty"
+          ],
+          "fil": [
+            "Kanila ang bawat bukid sa lupain",
+            "Ayaw nilang magtrabaho dahil sobra ang kanila",
+            "Gumagawa sila ng pagkain at inumin para sa iba habang gutom at uhaw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job describes workers whose labor benefits others while their own needs go unmet (Job 24).",
+          "fil": "Inilarawan ni Job ang manggagawang pinakikinabangan ng iba habang hindi natutugunan ang sariling pangangailangan (Job 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "Who gives the brief speech in this chapter?",
+          "fil": "Sino ang nagbigay ng maikling talumpati sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Elihu",
+            "Eliphaz"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Elihu",
+            "Si Elifaz"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Bildad delivers a short response about God's greatness and human limitations (Job 25).",
+          "fil": "Nagbigay si Bildad ng maikling tugon tungkol sa kadakilaan ng Diyos at limitasyon ng tao (Job 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Bildad emphasize about God in the heavens?",
+          "fil": "Ano ang binigyang-diin ni Bildad tungkol sa Diyos sa kalangitan?"
+        },
+        "options": {
+          "en": [
+            "His dependence on kings",
+            "His dominion and majesty",
+            "His inability to govern creation"
+          ],
+          "fil": [
+            "Ang kanyang pag-asa sa mga hari",
+            "Ang kanyang pamamahala at kadakilaan",
+            "Ang kawalan niya ng kakayahang pamahalaan ang sangnilikha"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Bildad stresses God's overwhelming authority over the heavenly realm (Job 25).",
+          "fil": "Binigyang-diin ni Bildad ang napakalaking kapangyarihan ng Diyos sa kalangitan (Job 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What question does Bildad raise about human beings before God?",
+          "fil": "Anong tanong ang inilahad ni Bildad tungkol sa tao sa harap ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "How a mortal can create the sun",
+            "How a mortal can claim purity before him",
+            "How a mortal can appoint God"
+          ],
+          "fil": [
+            "Paano malilikha ng mortal ang araw",
+            "Paano makapag-aangkin ng kalinisan ang mortal sa kanyang harap",
+            "Paano maitatakda ng mortal ang Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Bildad contrasts human frailty with the holiness and greatness of God (Job 25).",
+          "fil": "Inihambing ni Bildad ang kahinaan ng tao sa kabanalan at kadakilaan ng Diyos (Job 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "Who answers Bildad's brief speech?",
+          "fil": "Sino ang sumagot sa maikling talumpati ni Bildad?"
+        },
+        "options": {
+          "en": [
+            "Zophar",
+            "Job",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Zofar",
+            "Si Job",
+            "Si Elihu"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job responds with a challenge to the usefulness of the advice (Job 26).",
+          "fil": "Tumugon si Job sa paghamon sa kabuluhan ng payo (Job 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job question about his friend's words?",
+          "fil": "Ano ang kinuwestiyon ni Job tungkol sa mga salita ng kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Whether they have named enough kings",
+            "Whether they include a plan for a palace",
+            "Whether they have really helped the weak or given insight"
+          ],
+          "fil": [
+            "Kung sapat ang mga haring pinangalanan ng mga ito",
+            "Kung may kasama ang mga itong plano ng palasyo",
+            "Kung tunay na nakatulong ang mga ito sa mahina o nagbigay ng pang-unawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job challenges advice that offers little help to a suffering person (Job 26).",
+          "fil": "Hinamon ni Job ang payong kaunti ang naitutulong sa taong nagdurusa (Job 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Job describe human knowledge of God's mighty works?",
+          "fil": "Paano inilarawan ni Job ang kaalaman ng tao sa makapangyarihang gawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only a small glimpse of something far greater",
+            "Complete mastery of every divine purpose",
+            "Proof that God has done nothing"
+          ],
+          "fil": [
+            "Maliit na sulyap lamang sa higit na dakila",
+            "Ganap na pagkaunawa sa bawat layunin ng Diyos",
+            "Patunay na walang ginawa ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job says the wonders of creation reveal only a small part of God's power (Job 26).",
+          "fil": "Sinabi ni Job na maliit na bahagi lamang ng kapangyarihan ng Diyos ang ipinakikita ng sangnilikha (Job 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "Who continues his declaration in this chapter?",
+          "fil": "Sino ang nagpatuloy ng kanyang pahayag sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Job",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Job",
+            "Si Elihu"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job continues speaking and insists on maintaining his integrity (Job 27).",
+          "fil": "Nagpatuloy si Job sa pagsasalita at iginiit na iingatan ang kanyang katapatan (Job 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job refuse to do merely to agree with his friends?",
+          "fil": "Ano ang tinanggihan ni Job na gawin para lamang sumang-ayon sa mga kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Falsely admit that their accusations are right",
+            "Remember his former life",
+            "Listen to any honest word"
+          ],
+          "fil": [
+            "Maling aminin na tama ang kanilang mga paratang",
+            "Alalahanin ang dati niyang buhay",
+            "Makinig sa anumang tapat na salita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job refuses to abandon what he believes is an honest account of his conduct (Job 27).",
+          "fil": "Tumanggi si Job na iwan ang kinikilala niyang tapat na salaysay ng kanyang asal (Job 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job say wealth cannot guarantee for the wicked?",
+          "fil": "Ano ang sinabi ni Job na hindi matitiyak ng yaman para sa masama?"
+        },
+        "options": {
+          "en": [
+            "Lasting security or hope before God",
+            "A place to store grain",
+            "More garments than one person needs"
+          ],
+          "fil": [
+            "Pangmatagalang katiwasayan o pag-asa sa harap ng Diyos",
+            "Lugar na pag-iimbakan ng butil",
+            "Mas maraming damit kaysa kailangan ng isang tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job describes wicked gains as insecure and unable to rescue their owner (Job 27).",
+          "fil": "Inilarawan ni Job ang masamang pakinabang na hindi tiyak at hindi makapagliligtas sa may-ari (Job 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What human skill opens this poem about wisdom?",
+          "fil": "Anong kakayahan ng tao ang pambungad sa tulang ito tungkol sa karunungan?"
+        },
+        "options": {
+          "en": [
+            "Creating the stars",
+            "Mining hidden metals and precious stones",
+            "Commanding the sea to disappear"
+          ],
+          "fil": [
+            "Paglikha ng mga bituin",
+            "Pagmimina ng nakatagong metal at mamahaling bato",
+            "Pag-uutos na mawala ang dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem describes miners reaching treasures hidden deep in the earth (Job 28).",
+          "fil": "Inilarawan ng tula ang mga minerong umaabot sa yamang nakatago sa ilalim ng lupa (Job 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "Can wisdom be bought with the treasures people discover?",
+          "fil": "Mabibili ba ang karunungan sa mga kayamanang natutuklasan ng tao?"
+        },
+        "options": {
+          "en": [
+            "Yes, any large jewel is enough",
+            "Yes, gold gives complete knowledge automatically",
+            "No, it is beyond their price and God knows its way"
+          ],
+          "fil": [
+            "Oo, sapat ang anumang malaking hiyas",
+            "Oo, kusang nagbibigay ng ganap na kaalaman ang ginto",
+            "Hindi, higit ito sa halaga ng mga iyon at alam ng Diyos ang daan nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The poem contrasts material treasures with wisdom whose source is known to God (Job 28).",
+          "fil": "Inihambing ng tula ang materyal na yaman sa karunungang alam ng Diyos ang pinagmumulan (Job 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the poem identify as wisdom and understanding for people?",
+          "fil": "Ano ang kinilala ng tula bilang karunungan at pang-unawa para sa tao?"
+        },
+        "options": {
+          "en": [
+            "Ignoring every moral choice",
+            "Revering the Lord and turning from evil",
+            "Collecting wealth through oppression"
+          ],
+          "fil": [
+            "Pagbabalewala sa bawat pasiyang moral",
+            "Paggalang sa Panginoon at pagtalikod sa masama",
+            "Pag-iipon ng yaman sa pang-aapi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing statement connects wisdom with reverence and a life that rejects evil (Job 28).",
+          "fil": "Iniugnay ng pangwakas na pahayag ang karunungan sa paggalang at buhay na tumatanggi sa masama (Job 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "What former experience does Job especially miss?",
+          "fil": "Anong dating karanasan ang labis na hinahanap-hanap ni Job?"
+        },
+        "options": {
+          "en": [
+            "God's felt care and friendship over his household",
+            "Building Jerusalem's temple",
+            "Commanding the armies of Egypt"
+          ],
+          "fil": [
+            "Ang nadaramang pag-aalaga at pakikipagkaibigan ng Diyos sa kanyang sambahayan",
+            "Ang pagtatayo ng templo ng Jerusalem",
+            "Ang pamumuno sa mga hukbo ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job remembers earlier days when God's favor seemed close and secure (Job 29).",
+          "fil": "Inalala ni Job ang mga dating araw na tila malapit at tiyak ang pagkalinga ng Diyos (Job 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Job remember helping in those earlier days?",
+          "fil": "Sino ang naalalang tinulungan ni Job noong mga araw na iyon?"
+        },
+        "options": {
+          "en": [
+            "Only people who already had plenty",
+            "Poor people, orphans, and those without support",
+            "Only kings who could repay him"
+          ],
+          "fil": [
+            "Mga taong sagana na lamang",
+            "Mahihirap, ulila, at walang sumasaklolo",
+            "Mga hari lamang na makagaganti sa kanya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job recalls defending vulnerable people and acting justly on their behalf (Job 29).",
+          "fil": "Inalala ni Job ang pagtatanggol sa mahihinang tao at paggawa ng katarungan para sa kanila (Job 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the community once receive Job's counsel?",
+          "fil": "Paano dating tinanggap ng pamayanan ang payo ni Job?"
+        },
+        "options": {
+          "en": [
+            "With orders that he leave the country",
+            "With respect and eager attention",
+            "With constant mockery"
+          ],
+          "fil": [
+            "Nang may utos na umalis siya sa bansa",
+            "Nang may paggalang at sabik na pakikinig",
+            "Nang may palaging pangungutya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job remembers a time when people listened carefully to his guidance (Job 29).",
+          "fil": "Inalala ni Job ang panahong maingat na nakikinig ang mga tao sa kanyang patnubay (Job 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "Who describes the painful contrast with his former life?",
+          "fil": "Sino ang naglarawan ng masakit na pagkakaiba sa dati niyang buhay?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Job",
+            "Eliphaz"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Job",
+            "Si Elifaz"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job turns from remembered honor to his present humiliation (Job 30).",
+          "fil": "Mula sa dating karangalan ay bumaling si Job sa kasalukuyan niyang kahihiyan (Job 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do even younger people now treat Job?",
+          "fil": "Paano na tinatrato si Job maging ng mga nakababata?"
+        },
+        "options": {
+          "en": [
+            "They all seek his counsel respectfully",
+            "They mock and despise him",
+            "They restore his former position"
+          ],
+          "fil": [
+            "Magalang silang lahat na humihingi ng payo",
+            "Kinukutya at hinahamak nila siya",
+            "Ibinalik nila ang dati niyang katayuan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job laments becoming an object of contempt to people who once stood below him (Job 30).",
+          "fil": "Ipinaghinagpis ni Job ang pagiging tampulan ng paghamak ng mga dating mas mababa sa kanya (Job 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast does Job describe between his expectation and experience?",
+          "fil": "Anong pagkakaiba ang inilarawan ni Job sa inaasahan at naranasan?"
+        },
+        "options": {
+          "en": [
+            "He wanted silence but became a victorious ruler",
+            "He expected poverty but received a new palace",
+            "He hoped for good and light but met trouble and darkness"
+          ],
+          "fil": [
+            "Nais niya ng katahimikan ngunit naging matagumpay na pinuno",
+            "Umasa siya sa kahirapan ngunit tumanggap ng bagong palasyo",
+            "Umasa siya sa mabuti at liwanag ngunit nakatagpo ng hirap at dilim"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job expresses the disappointment of hope met by further suffering (Job 30).",
+          "fil": "Ipinahayag ni Job ang kabiguan ng pag-asang sinalubong ng dagdag na pagdurusa (Job 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "Who makes a final solemn defense of his conduct?",
+          "fil": "Sino ang gumawa ng huling taimtim na pagtatanggol sa kanyang asal?"
+        },
+        "options": {
+          "en": [
+            "Job",
+            "Bildad",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Job",
+            "Si Bildad",
+            "Si Elihu"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Job closes his speeches with a detailed declaration of integrity (Job 31).",
+          "fil": "Tinapos ni Job ang kanyang mga talumpati sa detalyadong pahayag ng katapatan (Job 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job say he is willing to face if his claims are false?",
+          "fil": "Ano ang sinabi ni Job na handa niyang harapin kung mali ang kanyang mga pahayag?"
+        },
+        "options": {
+          "en": [
+            "A throne above God",
+            "A reward for deceiving his friends",
+            "The consequences of the wrongs he denies"
+          ],
+          "fil": [
+            "Tronong mas mataas sa Diyos",
+            "Gantimpala sa panlilinlang sa mga kaibigan",
+            "Ang mga bunga ng mga kasalanang itinatanggi niya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job frames his defense as an oath accepting judgment if he has done these wrongs (Job 31).",
+          "fil": "Inihayag ni Job ang pagtatanggol bilang panunumpang tatanggap ng hatol kung nagawa niya ang mga kasalanan (Job 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Job say his servants deserve fair treatment?",
+          "fil": "Bakit sinabi ni Job na nararapat tratuhin nang makatarungan ang kanyang mga lingkod?"
+        },
+        "options": {
+          "en": [
+            "Wealth makes one person a different kind of creature",
+            "The same God made both master and servant",
+            "Servants can never bring a complaint"
+          ],
+          "fil": [
+            "Ginagawang ibang uri ng nilalang ng yaman ang tao",
+            "Iisang Diyos ang lumikha sa panginoon at lingkod",
+            "Hindi maaaring magharap ng hinaing ang mga lingkod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job grounds fairness to servants in their shared creation by God (Job 31).",
+          "fil": "Ibinatay ni Job ang katarungan sa mga lingkod sa iisang Diyos na lumikha sa kanila (Job 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "Who now begins speaking after the three friends stop answering?",
+          "fil": "Sino ang nagsimulang magsalita nang tumigil sa pagsagot ang tatlong kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "Elihu",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Si Elihu",
+            "Si Bildad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elihu enters the discussion after the earlier exchange reaches a standstill (Job 32).",
+          "fil": "Pumasok si Elihu sa pag-uusap nang wala nang maisagot sa naunang pagtatalo (Job 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why had Elihu waited before speaking?",
+          "fil": "Bakit naghintay muna si Elihu bago magsalita?"
+        },
+        "options": {
+          "en": [
+            "He could not hear any of the discussion",
+            "He was younger and gave the older men their turn",
+            "He had been away leading a battle"
+          ],
+          "fil": [
+            "Wala siyang narinig sa pag-uusap",
+            "Mas bata siya at pinauna ang matatanda",
+            "Wala siya dahil nangunguna sa labanan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elihu explains that respect for age kept him from speaking earlier (Job 32).",
+          "fil": "Ipinaliwanag ni Elihu na paggalang sa edad ang nagpigil sa kanya na magsalita agad (Job 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elihu say gives understanding beyond age alone?",
+          "fil": "Ano ang sinabi ni Elihu na nagbibigay ng pang-unawa bukod sa edad?"
+        },
+        "options": {
+          "en": [
+            "Royal clothing",
+            "A large inheritance of gold",
+            "The breath and spirit given by God"
+          ],
+          "fil": [
+            "Maharlikang damit",
+            "Malaking manang ginto",
+            "Ang hininga at espiritung ibinigay ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elihu argues that understanding comes from God rather than merely from many years (Job 32).",
+          "fil": "Nangatuwiran si Elihu na mula sa Diyos ang pang-unawa at hindi lamang sa dami ng taon (Job 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "Who addresses Job directly in this chapter?",
+          "fil": "Sino ang tuwirang kumausap kay Job sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Zophar",
+            "Elihu",
+            "Bildad"
+          ],
+          "fil": [
+            "Si Zofar",
+            "Si Elihu",
+            "Si Bildad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elihu continues by inviting Job to listen and answer him (Job 33).",
+          "fil": "Nagpatuloy si Elihu sa pag-anyaya kay Job na makinig at sumagot sa kanya (Job 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What means of God's communication does Elihu describe?",
+          "fil": "Anong mga paraan ng pakikipag-usap ng Diyos ang inilarawan ni Elihu?"
+        },
+        "options": {
+          "en": [
+            "Instructions from idols",
+            "Dreams and the warning of suffering",
+            "Commands written by Pharaoh"
+          ],
+          "fil": [
+            "Mga utos mula sa diyus-diyosan",
+            "Mga panaginip at babala ng pagdurusa",
+            "Mga utos na isinulat ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elihu argues that God can speak in ways people fail to recognize (Job 33).",
+          "fil": "Nangatuwiran si Elihu na makapagsasalita ang Diyos sa mga paraang hindi napapansin ng tao (Job 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What purpose does Elihu assign to these warnings?",
+          "fil": "Anong layunin ang iniukol ni Elihu sa mga babalang ito?"
+        },
+        "options": {
+          "en": [
+            "To encourage every harmful desire",
+            "To turn people from destructive pride and preserve life",
+            "To make kindness unnecessary"
+          ],
+          "fil": [
+            "Hikayatin ang bawat nakapipinsalang pagnanasa",
+            "Ilayo ang tao sa mapanirang pagmamataas at ingatan ang buhay",
+            "Gawing hindi kailangan ang kabutihan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elihu presents divine warnings as a means of rescue from ruin (Job 33).",
+          "fil": "Iniharap ni Elihu ang mga babala ng Diyos bilang paraan ng pagliligtas sa kapahamakan (Job 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "Who continues defending God's justice?",
+          "fil": "Sino ang nagpatuloy sa pagtatanggol sa katarungan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Eliphaz",
+            "Job's wife"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Elifaz",
+            "Ang asawa ni Job"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu addresses the listeners about what he regards as just judgment (Job 34).",
+          "fil": "Kinausap ni Elihu ang mga nakikinig tungkol sa kinikilala niyang makatarungang paghatol (Job 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What central claim does Elihu make about God?",
+          "fil": "Anong pangunahing pahayag ang sinabi ni Elihu tungkol sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "God needs rulers to tell him what is right",
+            "God never notices human conduct",
+            "God does not act wickedly or pervert justice"
+          ],
+          "fil": [
+            "Kailangan ng Diyos ang mga pinuno upang malaman ang tama",
+            "Hindi napapansin ng Diyos ang asal ng tao kailanman",
+            "Hindi gumagawa ng masama o bumabaluktot ng katarungan ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elihu insists that wrongdoing cannot be attributed to God's rule (Job 34).",
+          "fil": "Iginiit ni Elihu na hindi maibibintang ang kasamaan sa pamamahala ng Diyos (Job 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Elihu describe God's treatment of rich and poor?",
+          "fil": "Paano inilarawan ni Elihu ang pakikitungo ng Diyos sa mayaman at mahirap?"
+        },
+        "options": {
+          "en": [
+            "Without favoritism because all are his creation",
+            "Favoring wealth regardless of conduct",
+            "Depending on gifts from powerful people"
+          ],
+          "fil": [
+            "Walang pagtatangi dahil lahat ay kanyang nilikha",
+            "Pumapabor sa yaman anuman ang asal",
+            "Umaasa sa mga regalo ng makapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu says God does not prefer the powerful simply because of their position (Job 34).",
+          "fil": "Sinabi ni Elihu na hindi pinapaboran ng Diyos ang makapangyarihan dahil lamang sa katayuan (Job 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "Who speaks in this chapter?",
+          "fil": "Sino ang nagsalita sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Bildad",
+            "Zophar",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Bildad",
+            "Si Zofar",
+            "Si Elihu"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elihu continues his response to Job's complaints (Job 35).",
+          "fil": "Ipinagpatuloy ni Elihu ang tugon sa mga hinaing ni Job (Job 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is directly helped or harmed by a person's moral conduct, according to Elihu?",
+          "fil": "Sino ang tuwirang natutulungan o napipinsala ng asal ng tao ayon kay Elihu?"
+        },
+        "options": {
+          "en": [
+            "Other human beings",
+            "God as though he needed human gifts",
+            "Only distant kings"
+          ],
+          "fil": [
+            "Ang ibang tao",
+            "Ang Diyos na para bang kailangan niya ang regalo ng tao",
+            "Ang malalayong hari lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu says human goodness and wrongdoing affect fellow people rather than supply God's needs (Job 35).",
+          "fil": "Sinabi ni Elihu na nakaaapekto sa kapwa ang mabuti at masama sa halip na tumustos sa Diyos (Job 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude does Elihu associate with cries that go unanswered?",
+          "fil": "Anong saloobin ang iniugnay ni Elihu sa mga daing na hindi dinidinig?"
+        },
+        "options": {
+          "en": [
+            "Pride instead of sincere seeking of God",
+            "Humble trust",
+            "Gratitude for God's teaching"
+          ],
+          "fil": [
+            "Pagmamataas sa halip na tapat na paghahanap sa Diyos",
+            "Mapagpakumbabang pagtitiwala",
+            "Pasasalamat sa turo ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu argues that merely crying in distress is not the same as humbly seeking the Maker (Job 35).",
+          "fil": "Nangatuwiran si Elihu na iba ang pagdaing lamang sa hirap sa mapagpakumbabang paghahanap sa Lumikha (Job 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "Who asks the listeners to hear more in God's defense?",
+          "fil": "Sino ang humiling na makinig pa ang mga tao sa pagtatanggol sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Elihu",
+            "Bildad",
+            "Eliphaz"
+          ],
+          "fil": [
+            "Si Elihu",
+            "Si Bildad",
+            "Si Elifaz"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu continues speaking about God's power and instruction (Job 36).",
+          "fil": "Nagpatuloy si Elihu sa pagsasalita tungkol sa kapangyarihan at pagtuturo ng Diyos (Job 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What possible purpose does Elihu see in affliction?",
+          "fil": "Anong posibleng layunin ang nakita ni Elihu sa paghihirap?"
+        },
+        "options": {
+          "en": [
+            "Giving permission to oppress the poor",
+            "Proving that kindness never matters",
+            "Opening people's ears to correction"
+          ],
+          "fil": [
+            "Pagbibigay ng pahintulot na apihin ang mahihirap",
+            "Pagpapatunay na walang halaga ang kabutihan kailanman",
+            "Pagbubukas ng tainga ng tao sa pagtutuwid"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elihu describes suffering as a setting in which people may learn and turn back (Job 36).",
+          "fil": "Inilarawan ni Elihu ang pagdurusa bilang pagkakataong matuto at magbalik-loob ang tao (Job 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does Elihu urge toward God's works?",
+          "fil": "Anong tugon ang hinimok ni Elihu sa mga gawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Magnify them and recognize their greatness",
+            "Dismiss them as unimportant",
+            "Claim full control over them"
+          ],
+          "fil": [
+            "Dakilain ang mga ito at kilalanin ang kanilang kadakilaan",
+            "Ituring ang mga ito na walang halaga",
+            "Angkining lubos na kontrolado ang mga ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu directs attention to God's mighty works, including the giving of rain (Job 36).",
+          "fil": "Itinuon ni Elihu ang pansin sa makapangyarihang gawa ng Diyos, kabilang ang pagbibigay ng ulan (Job 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "Who concludes this speech about God's wonders?",
+          "fil": "Sino ang nagtapos ng talumpating ito tungkol sa mga kahanga-hangang gawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Job",
+            "Bildad",
+            "Elihu"
+          ],
+          "fil": [
+            "Si Job",
+            "Si Bildad",
+            "Si Elihu"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Elihu's final speech calls attention to God's greatness in nature (Job 37).",
+          "fil": "Itinuon ng huling talumpati ni Elihu ang pansin sa kadakilaan ng Diyos sa kalikasan (Job 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What powerful sound does Elihu use to picture God's voice?",
+          "fil": "Anong malakas na tunog ang ginamit ni Elihu upang ilarawan ang tinig ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Thunder",
+            "A ruler whispering secrets",
+            "A merchant counting coins"
+          ],
+          "fil": [
+            "Kulog",
+            "Pinunong bumubulong ng lihim",
+            "Mangangalakal na nagbibilang ng barya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Thunder and storms illustrate power beyond human control (Job 37).",
+          "fil": "Inilarawan ng kulog at bagyo ang kapangyarihang higit sa kontrol ng tao (Job 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Elihu urge Job to do before these wonders?",
+          "fil": "Ano ang hinimok ni Elihu na gawin ni Job sa harap ng mga kahanga-hangang gawa?"
+        },
+        "options": {
+          "en": [
+            "Pause and consider God's works with humility",
+            "Claim to know every purpose behind the clouds",
+            "Command the weather to obey him"
+          ],
+          "fil": [
+            "Huminto at isaalang-alang ang mga gawa ng Diyos nang may pagpapakumbaba",
+            "Angkining alam ang bawat layunin sa likod ng mga ulap",
+            "Utusan ang panahon na sumunod sa kanya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elihu urges reflection on wonders that human understanding cannot fully master (Job 37).",
+          "fil": "Hinimok ni Elihu ang pagninilay sa mga kahanga-hangang bagay na hindi lubos na maarok ng tao (Job 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "Who now answers Job from the storm?",
+          "fil": "Sino ang sumagot ngayon kay Job mula sa bagyo?"
+        },
+        "options": {
+          "en": [
+            "Zophar",
+            "Eliphaz",
+            "The Lord"
+          ],
+          "fil": [
+            "Si Zofar",
+            "Si Elifaz",
+            "Ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord begins his answer to Job from a powerful storm (Job 38).",
+          "fil": "Sinimulan ng Panginoon ang kanyang sagot kay Job mula sa malakas na bagyo (Job 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What opening question points to Job's limited knowledge of creation?",
+          "fil": "Anong pambungad na tanong ang nagturo sa limitadong kaalaman ni Job sa paglikha?"
+        },
+        "options": {
+          "en": [
+            "How many coins his friends own",
+            "Which palace he built for Pharaoh",
+            "Where he was when the earth was founded"
+          ],
+          "fil": [
+            "Kung ilang barya ang pag-aari ng kanyang mga kaibigan",
+            "Kung anong palasyo ang itinayo niya para kay Faraon",
+            "Kung nasaan siya nang itatag ang daigdig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God asks about the earth's beginning to reveal how much lies beyond Job's experience (Job 38).",
+          "fil": "Nagtanong ang Diyos tungkol sa simula ng daigdig upang ipakita ang higit sa karanasan ni Job (Job 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is pictured setting boundaries for the sea?",
+          "fil": "Sino ang inilarawang nagtakda ng hangganan ng dagat?"
+        },
+        "options": {
+          "en": [
+            "Job's friends",
+            "An earthly king",
+            "God"
+          ],
+          "fil": [
+            "Ang mga kaibigan ni Job",
+            "Isang hari sa lupa",
+            "Ang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The questions describe the sea as governed by its Creator (Job 38).",
+          "fil": "Inilarawan ng mga tanong ang dagat na pinamamahalaan ng Lumikha nito (Job 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does rain on uninhabited land show in God's questions?",
+          "fil": "Ano ang ipinakita ng ulan sa lupaing walang tao sa mga tanong ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The wilderness is beyond God's knowledge",
+            "His care extends beyond places managed by people",
+            "Rain can fall only where people command it"
+          ],
+          "fil": [
+            "Hindi alam ng Diyos ang ilang",
+            "Umaabot ang kanyang pag-aalaga lampas sa mga lugar na pinamamahalaan ng tao",
+            "Umuulan lamang kung saan iniutos ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God describes watering wilderness that has no human caretaker (Job 38).",
+          "fil": "Inilarawan ng Diyos ang pagdidilig sa ilang na walang taong nag-aalaga (Job 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "Who continues questioning Job about wild creatures?",
+          "fil": "Sino ang nagpatuloy sa pagtatanong kay Job tungkol sa mga mailap na nilalang?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "Bildad",
+            "Elihu"
+          ],
+          "fil": [
+            "Ang Diyos",
+            "Si Bildad",
+            "Si Elihu"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's answer continues through questions about the animal world (Job 39).",
+          "fil": "Nagpatuloy ang sagot ng Diyos sa mga tanong tungkol sa mga hayop (Job 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the wild donkey's freedom illustrate?",
+          "fil": "Ano ang inilalarawan ng kalayaan ng mailap na asno?"
+        },
+        "options": {
+          "en": [
+            "Some creatures live outside human service and control",
+            "Every animal must live in a royal stable",
+            "Animals created themselves"
+          ],
+          "fil": [
+            "May mga nilalang na nabubuhay sa labas ng paglilingkod at kontrol ng tao",
+            "Dapat tumira ang bawat hayop sa kuwadra ng hari",
+            "Nilikha ng mga hayop ang kanilang sarili"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God points to creatures whose lives do not depend on human management (Job 39).",
+          "fil": "Itinuro ng Diyos ang mga nilalang na hindi umaasa ang buhay sa pangangasiwa ng tao (Job 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which animal's courage and strength in battle are described?",
+          "fil": "Aling hayop ang inilarawang may tapang at lakas sa labanan?"
+        },
+        "options": {
+          "en": [
+            "The dove",
+            "The sheep",
+            "The horse"
+          ],
+          "fil": [
+            "Ang kalapati",
+            "Ang tupa",
+            "Ang kabayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The war horse's vigor is among the wonders Job did not create (Job 39).",
+          "fil": "Kabilang sa mga kahanga-hangang bagay na hindi nilikha ni Job ang sigla ng kabayong pandigma (Job 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "How does Job first respond to God's challenge?",
+          "fil": "Paano unang tumugon si Job sa hamon ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He claims to have created the earth",
+            "He orders God to leave",
+            "He admits his smallness and stops arguing"
+          ],
+          "fil": [
+            "Inangkin niyang nilikha niya ang daigdig",
+            "Inutusan niya ang Diyos na umalis",
+            "Inamin niya ang kanyang kaliitan at tumigil sa pakikipagtalo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Job recognizes that he has no adequate answer and falls silent (Job 40).",
+          "fil": "Kinilala ni Job na wala siyang sapat na sagot at nanahimik (Job 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ability does God challenge Job to demonstrate about the proud and wicked?",
+          "fil": "Anong kakayahan ang hinamon ng Diyos na ipakita ni Job tungkol sa mayabang at masama?"
+        },
+        "options": {
+          "en": [
+            "Hide their wrongdoing from God",
+            "Give them control over heaven",
+            "Bring them low and carry out judgment himself"
+          ],
+          "fil": [
+            "Itago sa Diyos ang kanilang kasamaan",
+            "Bigyan sila ng kontrol sa langit",
+            "Ibaba sila at isagawa mismo ang paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's challenge exposes Job's inability to govern the world as its judge (Job 40).",
+          "fil": "Inilantad ng hamon ng Diyos ang kawalan ng kakayahan ni Job na pamahalaan ang daigdig bilang hukom nito (Job 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the description of Behemoth emphasize?",
+          "fil": "Ano ang binigyang-diin ng paglalarawan sa dambuhalang hayop?"
+        },
+        "options": {
+          "en": [
+            "A rival who created God",
+            "A powerful creature made by God",
+            "An animal Job built himself"
+          ],
+          "fil": [
+            "Isang karibal na lumikha sa Diyos",
+            "Isang makapangyarihang nilalang na ginawa ng Diyos",
+            "Isang hayop na ginawa mismo ni Job"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Behemoth is presented as a mighty creature under the Creator's power (Job 40).",
+          "fil": "Iniharap ang dambuhalang hayop bilang malakas na nilalang sa ilalim ng kapangyarihan ng Lumikha (Job 40)."
+        }
+      }
+    ],
+    "41": [
+      {
+        "q": {
+          "en": "Who describes Leviathan to Job?",
+          "fil": "Sino ang naglarawan ng Leviatan kay Job?"
+        },
+        "options": {
+          "en": [
+            "Eliphaz",
+            "God",
+            "Job's wife"
+          ],
+          "fil": [
+            "Si Elifaz",
+            "Ang Diyos",
+            "Ang asawa ni Job"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God continues his answer with a description of Leviathan (Job 41).",
+          "fil": "Ipinagpatuloy ng Diyos ang sagot sa paglalarawan ng Leviatan (Job 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the questions about hooks and ropes emphasize?",
+          "fil": "Ano ang binigyang-diin ng mga tanong tungkol sa kawit at lubid?"
+        },
+        "options": {
+          "en": [
+            "Leviathan is an ordinary household pet",
+            "Humans cannot casually capture or tame this creature",
+            "Job already commands every creature"
+          ],
+          "fil": [
+            "Karaniwang alagang hayop sa bahay ang Leviatan",
+            "Hindi basta mahuhuli o mapaaamo ng tao ang nilalang na ito",
+            "Napag-uutosan na ni Job ang bawat nilalang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviathan's strength makes ordinary human control seem inadequate (Job 41).",
+          "fil": "Ipinakita ng lakas ng Leviatan na hindi sapat ang karaniwang kontrol ng tao (Job 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Leviathan's protective covering pictured?",
+          "fil": "Paano inilarawan ang pananggalang na balat ng Leviatan?"
+        },
+        "options": {
+          "en": [
+            "Like tightly joined shields that are hard to penetrate",
+            "Like loose leaves that fall off easily",
+            "Like cloth that any child can tear"
+          ],
+          "fil": [
+            "Tulad ng dikit-dikit na kalasag na mahirap tagusan",
+            "Tulad ng maluluwag na dahong madaling malaglag",
+            "Tulad ng telang mapupunit ng kahit sinong bata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The armor-like covering reinforces the picture of Leviathan's formidable strength (Job 41).",
+          "fil": "Pinatibay ng balat na tulad ng baluti ang larawan ng nakatatakot na lakas ng Leviatan (Job 41)."
+        }
+      }
+    ],
+    "42": [
+      {
+        "q": {
+          "en": "What does Job acknowledge after God's answer?",
+          "fil": "Ano ang kinilala ni Job matapos ang sagot ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He has mastered every secret of creation",
+            "He spoke about matters beyond his understanding",
+            "His friends control God's decisions"
+          ],
+          "fil": [
+            "Naunawaan niya ang bawat lihim ng sangnilikha",
+            "Nagsalita siya tungkol sa mga bagay na higit sa kanyang pang-unawa",
+            "Kontrolado ng mga kaibigan ang mga pasiya ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Job humbly recognizes the limits of what he understood (Job 42).",
+          "fil": "Mapagpakumbabang kinilala ni Job ang hangganan ng kanyang naunawaan (Job 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God say to Eliphaz and the other two friends?",
+          "fil": "Ano ang sinabi ng Diyos kay Elifaz at sa dalawa pang kaibigan?"
+        },
+        "options": {
+          "en": [
+            "They should become kings over Job",
+            "They have not spoken rightly about him as Job has",
+            "Every accusation against Job was fully correct"
+          ],
+          "fil": [
+            "Dapat silang maging mga hari ni Job",
+            "Hindi sila nagsalita nang tama tungkol sa kanya gaya ni Job",
+            "Ganap na tama ang bawat paratang kay Job"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God rebukes the three friends for their speech about him (Job 42).",
+          "fil": "Sinaway ng Diyos ang tatlong kaibigan sa kanilang pananalita tungkol sa kanya (Job 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Job do for the friends who have accused him?",
+          "fil": "Ano ang ginawa ni Job para sa mga kaibigang nagparatang sa kanya?"
+        },
+        "options": {
+          "en": [
+            "He seizes all their property",
+            "He refuses God's direction to help them",
+            "He prays for them"
+          ],
+          "fil": [
+            "Sinamsam niya ang lahat ng kanilang ari-arian",
+            "Tumanggi siya sa utos ng Diyos na tulungan sila",
+            "Ipinanalangin niya sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God accepts Job's prayer on behalf of his friends (Job 42).",
+          "fil": "Tinanggap ng Diyos ang panalangin ni Job para sa kanyang mga kaibigan (Job 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Job's story end?",
+          "fil": "Paano nagtapos ang kuwento ni Job?"
+        },
+        "options": {
+          "en": [
+            "With Job abandoning God for idols",
+            "With restoration, family, and a long life",
+            "With exile in Babylon"
+          ],
+          "fil": [
+            "Sa pagtalikod ni Job sa Diyos para sa diyus-diyosan",
+            "Sa pagpapanumbalik, pamilya, at mahabang buhay",
+            "Sa pagkakatapon sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing account describes renewed blessings and Job's later years (Job 42).",
+          "fil": "Inilarawan ng pangwakas na salaysay ang mga bagong pagpapala at huling mga taon ni Job (Job 42)."
+        }
+      }
+    ]
+  }
+}
