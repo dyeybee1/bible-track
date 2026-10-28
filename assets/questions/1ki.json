@@ -1,0 +1,1865 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which son of David promotes himself as king while David is old?",
+          "fil": "Sinong anak ni David ang nagtaas sa sarili bilang hari habang matanda na si David?"
+        },
+        "options": {
+          "en": [
+            "Solomon",
+            "Absalom",
+            "Adonijah"
+          ],
+          "fil": [
+            "Si Solomon",
+            "Si Absalom",
+            "Si Adonias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Adonijah gathers supporters and holds a feast to advance his claim to the throne (1 Kings 1).",
+          "fil": "Nagtipon si Adonias ng mga tagasuporta at nagdaos ng piging upang isulong ang kanyang pag-angkin sa trono (1 Hari 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who urges Bathsheba to remind David of his promise about Solomon?",
+          "fil": "Sino ang humimok kay Batsheba na ipaalala kay David ang pangako nito tungkol kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Goliath",
+            "Joab",
+            "Nathan"
+          ],
+          "fil": [
+            "Si Goliat",
+            "Si Joab",
+            "Si Natan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nathan works with Bathsheba to bring Adonijah's actions to David's attention (1 Kings 1).",
+          "fil": "Nakipagtulungan si Natan kay Batsheba upang ipaalam kay David ang mga ginagawa ni Adonias (1 Hari 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does David make his choice of Solomon public?",
+          "fil": "Paano ipinahayag ni David ang pagpili niya kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "He asks Adonijah to name any successor",
+            "He sends Solomon to hide in Egypt",
+            "He orders Solomon anointed at Gihon and proclaimed king"
+          ],
+          "fil": [
+            "Hiniling niyang pumili si Adonias ng sinumang kahalili",
+            "Ipinagtago niya si Solomon sa Egipto",
+            "Iniutos niyang pahiran si Solomon sa Gihon at ipahayag na hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "David orders a royal procession and anointing that establish Solomon as king (1 Kings 1).",
+          "fil": "Iniutos ni David ang prusisyon at pagpapahid na nagpatibay kay Solomon bilang hari (1 Hari 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Adonijah do when he hears Solomon has become king?",
+          "fil": "Ano ang ginawa ni Adonias nang mabalitaang naging hari si Solomon?"
+        },
+        "options": {
+          "en": [
+            "He takes hold of the altar's horns for safety",
+            "He immediately becomes high priest",
+            "He captures Jerusalem with his guests"
+          ],
+          "fil": [
+            "Humawak siya sa mga sungay ng altar upang maligtas",
+            "Agad siyang naging pinakapunong pari",
+            "Sinakop niya ang Jerusalem kasama ang kanyang mga panauhin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Adonijah seeks protection at the altar after his supporters scatter (1 Kings 1).",
+          "fil": "Humingi ng proteksiyon si Adonias sa altar matapos magsiuwian ang kanyang mga tagasuporta (1 Hari 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does David emphasize in his charge to Solomon?",
+          "fil": "Ano ang binigyang-diin ni David sa kanyang tagubilin kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Stop listening to all wise advice",
+            "Faithfully obey the Lord's commands",
+            "Replace the covenant with foreign idols"
+          ],
+          "fil": [
+            "Tumigil sa pakikinig sa lahat ng matalinong payo",
+            "Tapat na sundin ang mga utos ng Panginoon",
+            "Palitan ng mga dayuhang diyus-diyosan ang tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David urges Solomon to walk in God's ways as he takes up the kingship (1 Kings 2).",
+          "fil": "Hinimok ni David si Solomon na lumakad sa mga daan ng Diyos sa paghawak niya sa pagkahari (1 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What request by Adonijah does Solomon view as a renewed claim to power?",
+          "fil": "Anong hiling ni Adonias ang itinuring ni Solomon na panibagong pag-angkin sa kapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "To marry Abishag",
+            "To grow wheat outside Jerusalem",
+            "To return a borrowed donkey"
+          ],
+          "fil": [
+            "Ang pakasalan si Abisag",
+            "Ang magtanim ng trigo sa labas ng Jerusalem",
+            "Ang magsauli ng hiniram na asno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon treats Adonijah's request for Abishag as a threat to his throne (1 Kings 2).",
+          "fil": "Itinuring ni Solomon ang paghingi ni Adonias kay Abisag bilang banta sa kanyang trono (1 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Abiathar because he supported Adonijah?",
+          "fil": "Ano ang nangyari kay Abiatar dahil sinuportahan niya si Adonias?"
+        },
+        "options": {
+          "en": [
+            "He is removed from the priesthood and sent home",
+            "He becomes king instead of Solomon",
+            "He is made ruler of Egypt"
+          ],
+          "fil": [
+            "Inalis siya sa pagkapari at pinauwi",
+            "Naging hari siya sa halip na si Solomon",
+            "Ginawa siyang pinuno ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon spares Abiathar's life but removes him from priestly service (1 Kings 2).",
+          "fil": "Hindi pinatay ni Solomon si Abiatar ngunit inalis siya sa paglilingkod bilang pari (1 Hari 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What condition does Solomon give Shimei for remaining alive?",
+          "fil": "Anong kondisyon ang ibinigay ni Solomon kay Simei upang manatiling buhay?"
+        },
+        "options": {
+          "en": [
+            "Stay in Jerusalem and do not leave",
+            "Build a temple for Baal",
+            "Gather an army against Judah"
+          ],
+          "fil": [
+            "Manatili sa Jerusalem at huwag umalis",
+            "Magtayo ng templo para kay Baal",
+            "Magtipon ng hukbo laban sa Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Shimei is required to remain in Jerusalem, but later breaks that restriction (1 Kings 2).",
+          "fil": "Inutusan si Simei na manatili sa Jerusalem ngunit nilabag niya kalaunan ang pagbabawal (1 Hari 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does Solomon request when God invites him to ask for something?",
+          "fil": "Ano ang hiniling ni Solomon nang anyayahan siya ng Diyos na humiling?"
+        },
+        "options": {
+          "en": [
+            "Wisdom to govern and judge the people well",
+            "A life with no responsibility",
+            "The death of every neighboring ruler"
+          ],
+          "fil": [
+            "Karunungang mamahala at humatol nang mabuti sa bayan",
+            "Buhay na walang pananagutan",
+            "Ang pagkamatay ng lahat ng kalapit na pinuno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon asks for an understanding heart to distinguish right from wrong as king (1 Kings 3).",
+          "fil": "Humiling si Solomon ng pusong may unawa upang makilala ang tama at mali bilang hari (1 Hari 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God respond to Solomon's request?",
+          "fil": "Paano tumugon ang Diyos sa hiling ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "He takes away the kingdom that night",
+            "He grants wisdom and also gives riches and honor",
+            "He refuses because wisdom is forbidden"
+          ],
+          "fil": [
+            "Kinuha niya ang kaharian nang gabing iyon",
+            "Binigyan niya ito ng karunungan pati kayamanan at karangalan",
+            "Tumanggi siya dahil bawal ang karunungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God is pleased that Solomon seeks discernment rather than selfish gain (1 Kings 3).",
+          "fil": "Kinalugdan ng Diyos na humingi si Solomon ng pang-unawa sa halip na pansariling pakinabang (1 Hari 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What dispute do two women bring before Solomon?",
+          "fil": "Anong pagtatalo ang iniharap ng dalawang babae kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Each claims to be the living baby's mother",
+            "Each claims to own the king's palace",
+            "Each wants to command the army"
+          ],
+          "fil": [
+            "Pareho nilang sinabing sila ang ina ng buhay na sanggol",
+            "Pareho nilang sinabing kanila ang palasyo ng hari",
+            "Pareho nilang gustong mamuno sa hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon hears two women who disagree about whose child survived (1 Kings 3).",
+          "fil": "Dininig ni Solomon ang dalawang babaeng nagtatalo kung kaninong anak ang nabuhay (1 Hari 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reveals the true mother's concern during Solomon's test?",
+          "fil": "Ano ang nagpakita ng malasakit ng tunay na ina sa pagsubok ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "She would give up her claim to save the child's life",
+            "She insists that neither woman keep the child alive",
+            "She asks the king to ignore the child"
+          ],
+          "fil": [
+            "Handa niyang isuko ang kanyang pag-angkin upang mabuhay ang bata",
+            "Iginiit niyang huwag mapunta nang buhay ang bata sa alinman sa kanila",
+            "Hiniling niyang huwag pansinin ng hari ang bata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The real mother places the baby's safety above winning the dispute (1 Kings 3).",
+          "fil": "Inuna ng tunay na ina ang kaligtasan ng sanggol kaysa manalo sa pagtatalo (1 Hari 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What responsibility do Solomon's district officials share?",
+          "fil": "Anong tungkulin ang ginampanan ng mga pinuno ng mga distrito ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Writing new commandments for Moses",
+            "Supplying food for the royal household",
+            "Guarding Dagon's statue"
+          ],
+          "fil": [
+            "Pagsulat ng bagong mga utos para kay Moises",
+            "Paglalaan ng pagkain para sa sambahayan ng hari",
+            "Pagbabantay sa rebulto ni Dagon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The officials organize regular provisions for Solomon and his household (1 Kings 4).",
+          "fil": "Isinaayos ng mga pinuno ang regular na pagkain para kay Solomon at sa kanyang sambahayan (1 Hari 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is life in Judah and Israel described during this period?",
+          "fil": "Paano inilarawan ang buhay sa Juda at Israel sa panahong ito?"
+        },
+        "options": {
+          "en": [
+            "No one can grow food",
+            "People live in abundance and security",
+            "Everyone flees to Babylon"
+          ],
+          "fil": [
+            "Walang makapagtanim ng pagkain",
+            "Namuhay ang mga tao sa kasaganaan at katiwasayan",
+            "Tumakas ang lahat sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter pictures a peaceful and prosperous kingdom under Solomon (1 Kings 4).",
+          "fil": "Inilarawan ng kabanata ang payapa at masaganang kaharian sa ilalim ni Solomon (1 Hari 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do people from other nations come to hear Solomon?",
+          "fil": "Bakit dumating ang mga tao mula sa ibang bansa upang makinig kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "His wisdom has become widely known",
+            "He has forbidden all foreign visitors",
+            "He alone knows how to cross the Jordan"
+          ],
+          "fil": [
+            "Nabantog ang kanyang karunungan",
+            "Ipinagbawal niya ang lahat ng dayuhang bisita",
+            "Siya lamang ang marunong tumawid sa Jordan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon's wisdom about many subjects attracts listeners from other kingdoms (1 Kings 4).",
+          "fil": "Nakaakit ng mga tagapakinig mula sa ibang kaharian ang karunungan ni Solomon sa maraming paksa (1 Hari 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Why does Solomon contact Hiram of Tyre?",
+          "fil": "Bakit nakipag-ugnayan si Solomon kay Hiram ng Tiro?"
+        },
+        "options": {
+          "en": [
+            "To replace Israel's law with Tyre's idols",
+            "To obtain timber and help for building the temple",
+            "To surrender Jerusalem to him"
+          ],
+          "fil": [
+            "Upang palitan ng mga diyus-diyosan ng Tiro ang kautusan ng Israel",
+            "Upang kumuha ng kahoy at tulong sa pagtatayo ng templo",
+            "Upang isuko sa kanya ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon requests timber from Lebanon for the house he plans to build for the Lord (1 Kings 5).",
+          "fil": "Humingi si Solomon ng kahoy mula sa Lebanon para sa bahay na balak niyang itayo para sa Panginoon (1 Hari 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can Solomon now begin the project his father had hoped for?",
+          "fil": "Bakit maaari nang simulan ni Solomon ang balak noon ng kanyang ama?"
+        },
+        "options": {
+          "en": [
+            "Israel has abandoned the Lord",
+            "The ark has been destroyed",
+            "The Lord has given him rest from enemies"
+          ],
+          "fil": [
+            "Tinalikuran na ng Israel ang Panginoon",
+            "Nawasak na ang Kaban",
+            "Binigyan siya ng Panginoon ng kapahingahan mula sa mga kaaway"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon explains that peace makes it possible to undertake the temple building (1 Kings 5).",
+          "fil": "Ipinaliwanag ni Solomon na dahil sa kapayapaan ay maaari nang simulan ang pagtatayo ng templo (1 Hari 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon provide in exchange for Hiram's timber?",
+          "fil": "Ano ang inilaan ni Solomon kapalit ng kahoy ni Hiram?"
+        },
+        "options": {
+          "en": [
+            "Food for Hiram's household",
+            "The tablets of the covenant",
+            "The throne of David"
+          ],
+          "fil": [
+            "Pagkain para sa sambahayan ni Hiram",
+            "Ang mga tapyas ng tipan",
+            "Ang trono ni David"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon supplies food as part of the peaceful agreement with Hiram (1 Kings 5).",
+          "fil": "Naglaan si Solomon ng pagkain bilang bahagi ng mapayapang kasunduan kay Hiram (1 Hari 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What major building project is described in this chapter?",
+          "fil": "Anong malaking pagtatayo ang inilarawan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The temple of the Lord in Jerusalem",
+            "The tower of Babel",
+            "Pharaoh's store cities"
+          ],
+          "fil": [
+            "Ang templo ng Panginoon sa Jerusalem",
+            "Ang tore ng Babel",
+            "Ang mga lunsod na imbakan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter describes Solomon's construction of the Lord's temple (1 Kings 6).",
+          "fil": "Inilarawan ng kabanata ang pagtatayo ni Solomon ng templo ng Panginoon (1 Hari 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "For what sacred object is the inner sanctuary prepared?",
+          "fil": "Para sa anong sagradong bagay inihanda ang pinakaloob na santuwaryo?"
+        },
+        "options": {
+          "en": [
+            "Saul's royal armor",
+            "The ark of the Lord's covenant",
+            "A statue of Baal"
+          ],
+          "fil": [
+            "Ang maharlikang baluti ni Saul",
+            "Ang Kaban ng Tipan ng Panginoon",
+            "Isang rebulto ni Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon prepares the inner sanctuary to receive the ark of the covenant (1 Kings 6).",
+          "fil": "Inihanda ni Solomon ang pinakaloob na santuwaryo upang tanggapin ang Kaban ng Tipan (1 Hari 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God's message during construction emphasize?",
+          "fil": "Ano ang binigyang-diin ng mensahe ng Diyos habang nagtatayo?"
+        },
+        "options": {
+          "en": [
+            "The temple must be dedicated to foreign gods",
+            "Solomon must obey God's commands",
+            "A beautiful building makes obedience unnecessary"
+          ],
+          "fil": [
+            "Dapat ialay ang templo sa mga dayuhang diyos",
+            "Dapat sundin ni Solomon ang mga utos ng Diyos",
+            "Hindi na kailangan ang pagsunod kung maganda ang gusali"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord connects his continuing presence among Israel with faithful obedience (1 Kings 6).",
+          "fil": "Iniugnay ng Panginoon ang pananatili niya sa gitna ng Israel sa tapat na pagsunod (1 Hari 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What special skill does the craftsman brought from Tyre contribute?",
+          "fil": "Anong natatanging kakayahan ang iniambag ng manggagawang dinala mula sa Tiro?"
+        },
+        "options": {
+          "en": [
+            "Working with bronze for the temple furnishings",
+            "Writing the Ten Commandments",
+            "Leading Israel across the Red Sea"
+          ],
+          "fil": [
+            "Paggawa ng mga kagamitang tanso para sa templo",
+            "Pagsulat ng Sampung Utos",
+            "Pangunguna sa Israel sa pagtawid sa Dagat na Pula"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Solomon brings a skilled bronze worker from Tyre to make temple furnishings (1 Kings 7).",
+          "fil": "Nagdala si Solomon ng bihasang manggagawa sa tanso mula sa Tiro upang gumawa ng mga kagamitan ng templo (1 Hari 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What stands at the temple's entrance porch?",
+          "fil": "Ano ang nakatayo sa may balkonahe ng pasukan ng templo?"
+        },
+        "options": {
+          "en": [
+            "Two large bronze pillars",
+            "A wooden throne for Pharaoh",
+            "Two golden calves for worship"
+          ],
+          "fil": [
+            "Dalawang malaking haliging tanso",
+            "Isang tronong kahoy para kay Faraon",
+            "Dalawang gintong guya para sambahin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The bronze pillars form a prominent part of the temple's entrance (1 Kings 7).",
+          "fil": "Naging kapansin-pansing bahagi ng pasukan ng templo ang mga haliging tanso (1 Hari 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the large bronze basin supported by ox figures called?",
+          "fil": "Ano ang tawag sa malaking sisidlang tanso na sinusuportahan ng mga anyong toro?"
+        },
+        "options": {
+          "en": [
+            "The tower of Babel",
+            "The Sea",
+            "The ark of Noah"
+          ],
+          "fil": [
+            "Ang tore ng Babel",
+            "Ang Dagat",
+            "Ang barko ni Noe"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The large bronze Sea is among the furnishings made for the temple (1 Kings 7).",
+          "fil": "Kabilang sa mga kagamitang ginawa para sa templo ang malaking Dagat na tanso (1 Hari 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Where do the priests place the ark during the temple dedication?",
+          "fil": "Saan inilagay ng mga pari ang Kaban sa pagtatalaga ng templo?"
+        },
+        "options": {
+          "en": [
+            "In Pharaoh's palace",
+            "In the inner sanctuary beneath the cherubim",
+            "At the bottom of the Jordan"
+          ],
+          "fil": [
+            "Sa palasyo ni Faraon",
+            "Sa pinakaloob na santuwaryo sa ilalim ng mga kerubin",
+            "Sa ilalim ng Jordan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priests bring the ark into the Most Holy Place of the completed temple (1 Kings 8).",
+          "fil": "Dinala ng mga pari ang Kaban sa Dakong Kabanal-banalan ng natapos na templo (1 Hari 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fills the temple after the priests come out?",
+          "fil": "Ano ang pumuno sa templo matapos lumabas ang mga pari?"
+        },
+        "options": {
+          "en": [
+            "The waters of the sea",
+            "A cloud showing the Lord's glory",
+            "An army from Egypt"
+          ],
+          "fil": [
+            "Ang tubig ng dagat",
+            "Isang ulap na nagpapakita ng kaluwalhatian ng Panginoon",
+            "Isang hukbo mula sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cloud of God's glory fills the house so the priests cannot continue their service (1 Kings 8).",
+          "fil": "Napuno ng ulap ng kaluwalhatian ng Diyos ang bahay kaya hindi maipagpatuloy ng mga pari ang kanilang paglilingkod (1 Hari 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon acknowledge about God's greatness in his prayer?",
+          "fil": "Ano ang kinilala ni Solomon tungkol sa kadakilaan ng Diyos sa kanyang panalangin?"
+        },
+        "options": {
+          "en": [
+            "He can live only inside this building",
+            "Even the heavens cannot contain him",
+            "He rules only within Jerusalem's walls"
+          ],
+          "fil": [
+            "Maaari lamang siyang manirahan sa gusaling ito",
+            "Kahit ang kalangitan ay hindi makapaglalaman sa kanya",
+            "Namamahala lamang siya sa loob ng mga pader ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon recognizes that the temple cannot contain the God who is greater than the heavens (1 Kings 8).",
+          "fil": "Kinilala ni Solomon na hindi makapaglalaman ang templo sa Diyos na higit na dakila kaysa sa kalangitan (1 Hari 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Solomon ask for foreigners who come to pray toward the temple?",
+          "fil": "Ano ang hiniling ni Solomon para sa mga dayuhang darating upang manalangin tungo sa templo?"
+        },
+        "options": {
+          "en": [
+            "That they must first become kings",
+            "That they never be allowed to pray",
+            "That God hear them so all peoples may know his name"
+          ],
+          "fil": [
+            "Na dapat muna silang maging mga hari",
+            "Na huwag silang payagang manalangin kailanman",
+            "Na dinggin sila ng Diyos upang makilala ng lahat ng bayan ang kanyang pangalan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Solomon asks God to hear foreign worshipers and make his name known among the nations (1 Kings 8).",
+          "fil": "Hiniling ni Solomon na dinggin ng Diyos ang mga dayuhang sumasamba at ipakilala ang kanyang pangalan sa mga bansa (1 Hari 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How does the Lord respond to Solomon after the temple is completed?",
+          "fil": "Paano tumugon ang Panginoon kay Solomon matapos matapos ang templo?"
+        },
+        "options": {
+          "en": [
+            "He announces that prayer is now forbidden",
+            "He commands that the temple become a palace for Baal",
+            "He appears again and says he has heard Solomon's prayer"
+          ],
+          "fil": [
+            "Ipinahayag niyang bawal na ang panalangin",
+            "Iniutos niyang gawing palasyo ni Baal ang templo",
+            "Muli siyang nagpakita at sinabing dininig niya ang panalangin ni Solomon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord appears to Solomon a second time and acknowledges his prayer (1 Kings 9).",
+          "fil": "Muling nagpakita ang Panginoon kay Solomon at kinilala ang kanyang panalangin (1 Hari 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God require of Solomon as he rules?",
+          "fil": "Ano ang hinihingi ng Diyos kay Solomon sa kanyang paghahari?"
+        },
+        "options": {
+          "en": [
+            "Replace the covenant with worship of Baal",
+            "Trust the temple while ignoring all commands",
+            "Walk faithfully and obey his commands"
+          ],
+          "fil": [
+            "Palitan ng pagsamba kay Baal ang tipan",
+            "Magtiwala sa templo habang binabale-wala ang lahat ng utos",
+            "Mamuhay nang tapat at sundin ang kanyang mga utos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls Solomon to the integrity and obedience needed for faithful kingship (1 Kings 9).",
+          "fil": "Tinawag ng Diyos si Solomon sa katapatan at pagsunod na kailangan sa matapat na paghahari (1 Hari 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning follows if Israel turns to other gods?",
+          "fil": "Anong babala ang ibinigay kung babaling ang Israel sa ibang mga diyos?"
+        },
+        "options": {
+          "en": [
+            "The people can lose the land and the temple can be rejected",
+            "Their idols will automatically become true gods",
+            "The building will protect them from every consequence"
+          ],
+          "fil": [
+            "Maaaring mawala ang lupain sa bayan at itakwil ang templo",
+            "Kusang magiging tunay na diyos ang kanilang mga diyus-diyosan",
+            "Ililigtas sila ng gusali sa lahat ng bunga ng kanilang gawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord warns that abandoning him will bring judgment despite the temple's presence (1 Kings 9).",
+          "fil": "Nagbabala ang Panginoon na ang pagtalikod sa kanya ay magdadala ng paghatol sa kabila ng pagkakaroon ng templo (1 Hari 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why does the queen of Sheba visit Solomon?",
+          "fil": "Bakit dinalaw ng reyna ng Sheba si Solomon?"
+        },
+        "options": {
+          "en": [
+            "To ask where Noah's ark was built",
+            "To lead an army against Jerusalem",
+            "To test his wisdom with difficult questions"
+          ],
+          "fil": [
+            "Upang itanong kung saan ginawa ang barko ni Noe",
+            "Upang pangunahan ang hukbo laban sa Jerusalem",
+            "Upang subukin ang kanyang karunungan sa mahihirap na tanong"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The queen comes after hearing about Solomon's fame and brings her questions to him (1 Kings 10).",
+          "fil": "Dumating ang reyna matapos mabalitaan ang katanyagan ni Solomon at iniharap dito ang kanyang mga tanong (1 Hari 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the queen react to what she sees and hears?",
+          "fil": "Paano tumugon ang reyna sa kanyang nakita at narinig?"
+        },
+        "options": {
+          "en": [
+            "She demands that the temple be destroyed",
+            "She says he cannot answer any question",
+            "She says Solomon's wisdom exceeds what she had heard"
+          ],
+          "fil": [
+            "Iginiit niyang wasakin ang templo",
+            "Sinabi niyang wala itong masagot na tanong",
+            "Sinabi niyang higit ang karunungan ni Solomon sa kanyang nabalitaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The queen is overwhelmed by Solomon's wisdom and the order of his kingdom (1 Kings 10).",
+          "fil": "Namangha ang reyna sa karunungan ni Solomon at sa kaayusan ng kanyang kaharian (1 Hari 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does the queen praise for placing Solomon on the throne?",
+          "fil": "Sino ang pinuri ng reyna sa paglalagay kay Solomon sa trono?"
+        },
+        "options": {
+          "en": [
+            "The Lord who loves Israel",
+            "Baal of the Sidonians",
+            "Pharaoh who built the pyramids"
+          ],
+          "fil": [
+            "Ang Panginoong nagmamahal sa Israel",
+            "Si Baal ng mga Sidonio",
+            "Si Faraon na nagtayo ng mga piramide"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The queen blesses the Lord for giving Israel a king to uphold justice (1 Kings 10).",
+          "fil": "Pinuri ng reyna ang Panginoon sa pagbibigay sa Israel ng haring magtataguyod ng katarungan (1 Hari 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What leads Solomon's heart away from full devotion to the Lord?",
+          "fil": "Ano ang naglayo sa puso ni Solomon sa lubos na katapatan sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "The priests remove every copy of the law",
+            "His wives lead him toward other gods",
+            "Nathan forbids him to pray"
+          ],
+          "fil": [
+            "Inalis ng mga pari ang lahat ng sipi ng kautusan",
+            "Inakay siya ng kanyang mga asawa sa ibang mga diyos",
+            "Pinagbawalan siya ni Natan na manalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon follows the gods of his foreign wives instead of remaining wholly faithful (1 Kings 11).",
+          "fil": "Sinunod ni Solomon ang mga diyos ng kanyang mga dayuhang asawa sa halip na manatiling lubos na tapat (1 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What judgment does God announce concerning Solomon's kingdom?",
+          "fil": "Anong hatol ang ipinahayag ng Diyos tungkol sa kaharian ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Most of it will be taken from his son's rule",
+            "It will expand forever regardless of his conduct",
+            "It will be handed to Pharaoh that same day"
+          ],
+          "fil": [
+            "Karamihan nito ay aalisin sa pamamahala ng kanyang anak",
+            "Lalawak ito magpakailanman anuman ang kanyang gawin",
+            "Ibibigay ito kay Faraon nang araw ding iyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God announces a division of the kingdom after Solomon's reign (1 Kings 11).",
+          "fil": "Ipinahayag ng Diyos ang paghahati ng kaharian matapos ang paghahari ni Solomon (1 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Ahijah do to illustrate the future division of the kingdom?",
+          "fil": "Ano ang ginawa ni Ahias upang ilarawan ang darating na paghahati ng kaharian?"
+        },
+        "options": {
+          "en": [
+            "He pours water into the temple",
+            "He tears a new cloak into pieces",
+            "He breaks the tablets of the covenant"
+          ],
+          "fil": [
+            "Nagbuhos siya ng tubig sa templo",
+            "Pinunit niya sa mga piraso ang isang bagong balabal",
+            "Binasag niya ang mga tapyas ng tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ahijah uses a torn cloak as a sign while speaking to Jeroboam (1 Kings 11).",
+          "fil": "Ginamit ni Ahias ang punit na balabal bilang tanda habang kinakausap si Jeroboam (1 Hari 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does Jeroboam flee when Solomon seeks to kill him?",
+          "fil": "Saan tumakas si Jeroboam nang tangkain siyang patayin ni Solomon?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Egypt",
+            "Nineveh"
+          ],
+          "fil": [
+            "Bethlehem",
+            "Egipto",
+            "Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeroboam takes refuge in Egypt until Solomon's death (1 Kings 11).",
+          "fil": "Nagtago si Jeroboam sa Egipto hanggang sa pagkamatay ni Solomon (1 Hari 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What do the people ask Rehoboam to change?",
+          "fil": "Ano ang hiniling ng mga tao na baguhin ni Roboam?"
+        },
+        "options": {
+          "en": [
+            "Reduce the heavy burden imposed under Solomon",
+            "Forbid farming throughout Israel",
+            "Move the temple to Egypt"
+          ],
+          "fil": [
+            "Bawasan ang mabigat na pasaning ipinataw sa ilalim ni Solomon",
+            "Ipagbawal ang pagsasaka sa buong Israel",
+            "Ilipat ang templo sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people offer loyalty if Rehoboam lightens their harsh labor and burdens (1 Kings 12).",
+          "fil": "Nangako ng katapatan ang mga tao kung pagagaanin ni Roboam ang mabigat nilang trabaho at pasanin (1 Hari 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose advice does Rehoboam follow in answering them?",
+          "fil": "Kaninong payo ang sinunod ni Roboam sa pagsagot sa kanila?"
+        },
+        "options": {
+          "en": [
+            "The elders who urge him to serve the people",
+            "The young men who urge a harsher response",
+            "The priests who tell him to abdicate"
+          ],
+          "fil": [
+            "Sa matatandang nagmungkahing paglingkuran niya ang bayan",
+            "Sa mga kabataang nagmungkahing maging mas mabagsik",
+            "Sa mga paring nagsabing bumaba siya sa trono"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Rehoboam rejects the elders' counsel and threatens an even heavier burden (1 Kings 12).",
+          "fil": "Tinanggihan ni Roboam ang payo ng matatanda at nagbantang mas pabibigatin ang pasanin (1 Hari 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do the northern Israelites make king after rejecting Rehoboam?",
+          "fil": "Sino ang ginawang hari ng mga Israelita sa hilaga matapos tanggihan si Roboam?"
+        },
+        "options": {
+          "en": [
+            "Hiram",
+            "Nathan",
+            "Jeroboam"
+          ],
+          "fil": [
+            "Si Hiram",
+            "Si Natan",
+            "Si Jeroboam"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The northern tribes choose Jeroboam as the kingdom divides (1 Kings 12).",
+          "fil": "Pinili ng mga lipi sa hilaga si Jeroboam nang mahati ang kaharian (1 Hari 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Jeroboam set up golden calves at Bethel and Dan?",
+          "fil": "Bakit naglagay si Jeroboam ng mga gintong guya sa Bethel at Dan?"
+        },
+        "options": {
+          "en": [
+            "Solomon had hidden the ark inside the calves",
+            "He fears worship in Jerusalem will draw people back to David's house",
+            "God commanded him to replace the temple with calves"
+          ],
+          "fil": [
+            "Itinago ni Solomon ang Kaban sa loob ng mga guya",
+            "Natatakot siyang ibalik ng pagsamba sa Jerusalem ang mga tao sa sambahayan ni David",
+            "Iniutos ng Diyos na palitan niya ng mga guya ang templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jeroboam creates rival worship centers to protect his political rule (1 Kings 12).",
+          "fil": "Gumawa si Jeroboam ng mga karibal na sambahan upang pangalagaan ang kanyang pamamahala (1 Hari 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Where does the man of God from Judah confront Jeroboam?",
+          "fil": "Saan hinarap ng lingkod ng Diyos mula sa Juda si Jeroboam?"
+        },
+        "options": {
+          "en": [
+            "At Pharaoh's palace",
+            "At Noah's vineyard",
+            "At the altar in Bethel"
+          ],
+          "fil": [
+            "Sa palasyo ni Faraon",
+            "Sa ubasan ni Noe",
+            "Sa altar sa Bethel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The man of God delivers a message against the altar while Jeroboam stands there (1 Kings 13).",
+          "fil": "Nagpahayag ng mensahe laban sa altar ang lingkod ng Diyos habang naroon si Jeroboam (1 Hari 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Jeroboam's hand when he orders the man seized?",
+          "fil": "Ano ang nangyari sa kamay ni Jeroboam nang ipahuli niya ang lalaki?"
+        },
+        "options": {
+          "en": [
+            "It turns into a golden scepter",
+            "It carries the altar away",
+            "It becomes withered and he cannot pull it back"
+          ],
+          "fil": [
+            "Naging gintong setro ito",
+            "Binuhat nito ang altar palayo",
+            "Nanigas ito at hindi niya maibalik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeroboam's outstretched hand becomes helpless until the man of God prays for him (1 Kings 13).",
+          "fil": "Hindi maigalaw ni Jeroboam ang nakaunat na kamay hanggang ipanalangin siya ng lingkod ng Diyos (1 Hari 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does an old prophet persuade the man of God to eat with him?",
+          "fil": "Paano nahikayat ng matandang propeta ang lingkod ng Diyos na kumain kasama niya?"
+        },
+        "options": {
+          "en": [
+            "He falsely claims an angel has given a new instruction",
+            "He shows a written command from Moses himself",
+            "He threatens to make Jeroboam king of Judah"
+          ],
+          "fil": [
+            "Nagsinungaling siyang may bagong tagubilin mula sa isang anghel",
+            "Nagpakita siya ng utos na isinulat mismo ni Moises",
+            "Nagbanta siyang gagawing hari ng Juda si Jeroboam"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The old prophet lies about an angel's message and draws the visitor away from God's command (1 Kings 13).",
+          "fil": "Nagsinungaling ang matandang propeta tungkol sa mensahe ng anghel at nailayo ang bisita sa utos ng Diyos (1 Hari 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the man of God on the journey after he disobeys?",
+          "fil": "Ano ang nangyari sa lingkod ng Diyos sa paglalakbay matapos siyang sumuway?"
+        },
+        "options": {
+          "en": [
+            "He builds a new temple in Jerusalem",
+            "He is crowned king at Bethel",
+            "A lion kills him"
+          ],
+          "fil": [
+            "Nagtayo siya ng bagong templo sa Jerusalem",
+            "Kinoronahan siyang hari sa Bethel",
+            "Pinatay siya ng isang leon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A lion kills the man of God after he turns aside from the instruction he received (1 Kings 13).",
+          "fil": "Pinatay ng leon ang lingkod ng Diyos matapos niyang talikuran ang tagubiling tinanggap niya (1 Hari 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Why does Jeroboam send his wife to the prophet Ahijah?",
+          "fil": "Bakit ipinadala ni Jeroboam ang kanyang asawa sa propetang si Ahias?"
+        },
+        "options": {
+          "en": [
+            "To ask him to rebuild Jericho",
+            "To buy land for a vineyard",
+            "To ask about their sick son"
+          ],
+          "fil": [
+            "Upang hilinging itayo niyang muli ang Jerico",
+            "Upang bumili ng lupa para sa ubasan",
+            "Upang magtanong tungkol sa kanilang anak na may sakit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jeroboam seeks news from Ahijah about his son's illness (1 Kings 14).",
+          "fil": "Nais malaman ni Jeroboam mula kay Ahias ang mangyayari sa kanyang anak na may sakit (1 Hari 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does Jeroboam's wife's disguise hide her identity from Ahijah?",
+          "fil": "Naitago ba ng pagbabalatkayo ng asawa ni Jeroboam ang kanyang pagkakakilanlan kay Ahias?"
+        },
+        "options": {
+          "en": [
+            "Yes, she leaves without being recognized",
+            "No, the Lord tells Ahijah who is coming",
+            "Yes, he believes she is the queen of Sheba"
+          ],
+          "fil": [
+            "Oo, umalis siyang hindi nakilala",
+            "Hindi, sinabi ng Panginoon kay Ahias kung sino ang darating",
+            "Oo, inakala niyang siya ang reyna ng Sheba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Although Ahijah cannot see, the Lord reveals the visitor's identity before she arrives (1 Kings 14).",
+          "fil": "Bagaman hindi nakakakita si Ahias, ipinahayag ng Panginoon ang pagkakakilanlan ng bisita bago ito dumating (1 Hari 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the main reason for the judgment announced against Jeroboam's house?",
+          "fil": "Ano ang pangunahing dahilan ng hatol laban sa sambahayan ni Jeroboam?"
+        },
+        "options": {
+          "en": [
+            "He has refused to build a palace",
+            "He has shown too much kindness to the poor",
+            "He has led the people into idol worship"
+          ],
+          "fil": [
+            "Tumanggi siyang magtayo ng palasyo",
+            "Sobra ang kabutihang ipinakita niya sa mahihirap",
+            "Inakay niya ang mga tao sa pagsamba sa diyus-diyosan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ahijah condemns Jeroboam for abandoning the Lord and making other gods (1 Kings 14).",
+          "fil": "Kinondena ni Ahias si Jeroboam sa pagtalikod sa Panginoon at paggawa ng ibang mga diyos (1 Hari 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What change does Asa make in Judah's worship?",
+          "fil": "Anong pagbabago ang ginawa ni Asa sa pagsamba ng Juda?"
+        },
+        "options": {
+          "en": [
+            "He closes the temple to honor Pharaoh",
+            "He orders everyone to worship Baal",
+            "He removes idols made by earlier rulers"
+          ],
+          "fil": [
+            "Isinara niya ang templo upang parangalan si Faraon",
+            "Iniutos niyang sumamba ang lahat kay Baal",
+            "Inalis niya ang mga diyus-diyosang ginawa ng mga naunang pinuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Asa seeks to restore faithful worship by removing idols from the land (1 Kings 15).",
+          "fil": "Sinikap ni Asa na ibalik ang tapat na pagsamba sa pag-aalis ng mga diyus-diyosan sa lupain (1 Hari 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Asa remove Maacah from her royal position?",
+          "fil": "Bakit inalis ni Asa si Maaca sa kanyang maharlikang katayuan?"
+        },
+        "options": {
+          "en": [
+            "She has refused to attack Jerusalem",
+            "She has made an idol for Asherah",
+            "She has asked everyone to help the poor"
+          ],
+          "fil": [
+            "Tumanggi siyang salakayin ang Jerusalem",
+            "Gumawa siya ng diyus-diyosan para kay Ashera",
+            "Hiniling niyang tulungan ng lahat ang mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Asa acts against Maacah's idolatry even though she belongs to his own family (1 Kings 15).",
+          "fil": "Kumilos si Asa laban sa pagsamba ni Maaca sa diyus-diyosan kahit kabilang ito sa sarili niyang pamilya (1 Hari 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose alliance does Asa seek to stop Baasha's pressure on Judah?",
+          "fil": "Kaninong pakikipag-alyansa ang hiningi ni Asa upang pigilan ang pananakot ni Baasa sa Juda?"
+        },
+        "options": {
+          "en": [
+            "Ben-Hadad of Aram",
+            "Pharaoh in Moses' day",
+            "Goliath of Gath"
+          ],
+          "fil": [
+            "Kay Ben-hadad ng Siria",
+            "Kay Faraon noong panahon ni Moises",
+            "Kay Goliat ng Gat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Asa sends temple and palace treasures to Ben-Hadad to break his alliance with Baasha (1 Kings 15).",
+          "fil": "Ipinadala ni Asa ang kayamanan ng templo at palasyo kay Ben-hadad upang wakasan ang alyansa nito kay Baasa (1 Hari 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Who is proclaimed king by the army after Zimri's coup?",
+          "fil": "Sino ang ipinahayag na hari ng hukbo matapos ang pag-agaw ni Zimri sa kapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "Elijah the prophet",
+            "Omri, the army commander",
+            "Hiram of Tyre"
+          ],
+          "fil": [
+            "Ang propetang si Elias",
+            "Si Omri na pinuno ng hukbo",
+            "Si Hiram ng Tiro"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The army chooses Omri as king after hearing that Zimri has killed the ruler (1 Kings 16).",
+          "fil": "Pinili ng hukbo si Omri bilang hari matapos mabalitaang pinatay ni Zimri ang pinuno (1 Hari 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What city does Omri build on a hill he purchases?",
+          "fil": "Anong lunsod ang itinayo ni Omri sa burol na kanyang binili?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem",
+            "Samaria",
+            "Bethlehem"
+          ],
+          "fil": [
+            "Jerusalem",
+            "Samaria",
+            "Bethlehem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Omri buys a hill and establishes the city of Samaria there (1 Kings 16).",
+          "fil": "Bumili si Omri ng burol at itinatag doon ang lunsod ng Samaria (1 Hari 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Omri's conduct toward the Lord described?",
+          "fil": "Paano inilarawan ang asal ni Omri sa harap ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He removes every idol and restores true worship",
+            "He refuses to rule because he is a priest",
+            "He continues the idolatrous ways of Jeroboam"
+          ],
+          "fil": [
+            "Inalis niya ang lahat ng diyus-diyosan at ibinalik ang tunay na pagsamba",
+            "Tumanggi siyang mamuno dahil pari siya",
+            "Ipinagpatuloy niya ang pagsamba sa diyus-diyosan gaya ni Jeroboam"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Omri's achievements do not change the chapter's judgment that he leads Israel in sin (1 Kings 16).",
+          "fil": "Hindi binago ng mga nagawa ni Omri ang hatol ng kabanata na inakay niya ang Israel sa kasalanan (1 Hari 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What does Elijah announce to Ahab at the start of the chapter?",
+          "fil": "Ano ang ipinahayag ni Elias kay Ahab sa simula ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "The immediate rebuilding of the temple",
+            "A period without dew or rain",
+            "The return of Saul as king"
+          ],
+          "fil": [
+            "Ang agarang muling pagtatayo ng templo",
+            "Panahong walang hamog o ulan",
+            "Ang pagbabalik ni Saul bilang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah announces a drought under the authority of the Lord (1 Kings 17).",
+          "fil": "Ipinahayag ni Elias ang tagtuyot sa kapangyarihan ng Panginoon (1 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Elijah fed while he stays near the brook?",
+          "fil": "Paano pinakain si Elias habang nananatili malapit sa batis?"
+        },
+        "options": {
+          "en": [
+            "A Philistine army delivers a banquet",
+            "Ravens bring him food",
+            "He takes all the grain from Jerusalem"
+          ],
+          "fil": [
+            "Naghatid ng piging ang hukbo ng mga Filisteo",
+            "Dinalhan siya ng pagkain ng mga uwak",
+            "Kinuha niya ang lahat ng butil sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord provides food through ravens while Elijah drinks from the brook (1 Kings 17).",
+          "fil": "Naglaan ang Panginoon ng pagkain sa pamamagitan ng mga uwak habang umiinom si Elias sa batis (1 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the widow's flour and oil after she helps Elijah?",
+          "fil": "Ano ang nangyari sa harina at langis ng biyuda matapos niyang tulungan si Elias?"
+        },
+        "options": {
+          "en": [
+            "They disappear before the next meal",
+            "They turn into silver coins",
+            "They do not run out during the drought"
+          ],
+          "fil": [
+            "Nawala ang mga ito bago ang susunod na kainan",
+            "Naging mga baryang pilak ang mga ito",
+            "Hindi naubos ang mga ito sa panahon ng tagtuyot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord sustains the widow's food supply as Elijah had promised (1 Kings 17).",
+          "fil": "Pinanatili ng Panginoon ang pagkain ng biyuda gaya ng ipinangako ni Elias (1 Hari 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens after Elijah prays over the widow's dead son?",
+          "fil": "Ano ang nangyari matapos ipanalangin ni Elias ang namatay na anak ng biyuda?"
+        },
+        "options": {
+          "en": [
+            "The widow is sent away from her home",
+            "The boy becomes king of Israel",
+            "The boy returns to life"
+          ],
+          "fil": [
+            "Pinaalis ang biyuda sa kanyang tahanan",
+            "Naging hari ng Israel ang bata",
+            "Muling nabuhay ang bata"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord hears Elijah and restores the child's life (1 Kings 17).",
+          "fil": "Dininig ng Panginoon si Elias at ibinalik ang buhay ng bata (1 Hari 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Where does Elijah gather the people for the contest with Baal's prophets?",
+          "fil": "Saan tinipon ni Elias ang mga tao para sa pagtutuos sa mga propeta ni Baal?"
+        },
+        "options": {
+          "en": [
+            "The walls of Jericho",
+            "Mount Carmel",
+            "Mount Sinai"
+          ],
+          "fil": [
+            "Sa mga pader ng Jerico",
+            "Sa Bundok Carmel",
+            "Sa Bundok Sinai"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah calls Israel to Mount Carmel to decide whom they will follow (1 Kings 18).",
+          "fil": "Tinawag ni Elias ang Israel sa Bundok Carmel upang magpasya kung sino ang susundin nila (1 Hari 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What test will show which one is truly God?",
+          "fil": "Anong pagsubok ang magpapakita kung sino ang tunay na Diyos?"
+        },
+        "options": {
+          "en": [
+            "Answering by fire to consume the offering",
+            "Gathering the largest number of horses",
+            "Building the tallest palace"
+          ],
+          "fil": [
+            "Ang pagtugon sa pamamagitan ng apoy na tutupok sa handog",
+            "Ang pagtitipon ng pinakamaraming kabayo",
+            "Ang pagtatayo ng pinakamataas na palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elijah proposes that the God who answers by fire be recognized as God (1 Kings 18).",
+          "fil": "Iminungkahi ni Elias na kilalaning Diyos ang tutugon sa pamamagitan ng apoy (1 Hari 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people respond when the Lord sends fire?",
+          "fil": "Paano tumugon ang mga tao nang magpadala ng apoy ang Panginoon?"
+        },
+        "options": {
+          "en": [
+            "They crown Elijah king of Egypt",
+            "They fall down and acknowledge the Lord as God",
+            "They say Baal sent the fire"
+          ],
+          "fil": [
+            "Kinoronahan nila si Elias bilang hari ng Egipto",
+            "Nagpatirapa sila at kinilalang Diyos ang Panginoon",
+            "Sinabi nilang si Baal ang nagpadala ng apoy"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord's answer leads the people to recognize him rather than Baal (1 Kings 18).",
+          "fil": "Dahil sa tugon ng Panginoon ay kinilala siya ng mga tao sa halip na si Baal (1 Hari 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change in the weather follows Elijah's prayer at the end of the chapter?",
+          "fil": "Anong pagbabago sa panahon ang sumunod sa panalangin ni Elias sa dulo ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Heavy rain ends the drought",
+            "Snow covers the temple",
+            "The Jordan dries up forever"
+          ],
+          "fil": [
+            "Winakasan ng malakas na ulan ang tagtuyot",
+            "Nabalot ng niyebe ang templo",
+            "Natuyo magpakailanman ang Jordan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "A small cloud is followed by dark skies and heavy rain (1 Kings 18).",
+          "fil": "Sinundan ang maliit na ulap ng madilim na langit at malakas na ulan (1 Hari 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Why does Elijah flee after the events at Mount Carmel?",
+          "fil": "Bakit tumakas si Elias matapos ang mga pangyayari sa Bundok Carmel?"
+        },
+        "options": {
+          "en": [
+            "David orders him out of Jerusalem",
+            "Solomon invites him to Egypt",
+            "Jezebel threatens to kill him"
+          ],
+          "fil": [
+            "Pinaalis siya ni David sa Jerusalem",
+            "Inanyayahan siya ni Solomon sa Egipto",
+            "Nagbanta si Jezebel na papatayin siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jezebel's threat leaves Elijah afraid and he travels into the wilderness (1 Kings 19).",
+          "fil": "Natakot si Elias sa banta ni Jezebel at nagtungo siya sa ilang (1 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God care for Elijah while he is exhausted?",
+          "fil": "Paano inalagaan ng Diyos si Elias habang pagod na pagod ito?"
+        },
+        "options": {
+          "en": [
+            "An angel gives him food and water",
+            "He is told never to rest",
+            "He is sent into battle without food"
+          ],
+          "fil": [
+            "Binigyan siya ng anghel ng pagkain at tubig",
+            "Sinabihan siyang huwag magpahinga kailanman",
+            "Ipinadala siya sa labanan nang walang pagkain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The angel's provisions strengthen Elijah for the journey ahead (1 Kings 19).",
+          "fil": "Pinalakas si Elias ng pagkaing ibinigay ng anghel para sa susunod na paglalakbay (1 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What follows the wind, earthquake, and fire when Elijah meets the Lord?",
+          "fil": "Ano ang sumunod sa hangin, lindol, at apoy nang makatagpo ni Elias ang Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A gentle, quiet sound",
+            "The collapse of Jerusalem's walls",
+            "A command from Pharaoh"
+          ],
+          "fil": [
+            "Isang banayad at mahinang tunog",
+            "Ang pagbagsak ng mga pader ng Jerusalem",
+            "Isang utos ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elijah hears a quiet sound and steps out to receive the Lord's message (1 Kings 19).",
+          "fil": "Nakarinig si Elias ng mahinang tunog at lumabas upang tanggapin ang mensahe ng Panginoon (1 Hari 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who leaves his farming work to follow Elijah?",
+          "fil": "Sino ang nag-iwan ng kanyang pagsasaka upang sumunod kay Elias?"
+        },
+        "options": {
+          "en": [
+            "Jeroboam",
+            "Elisha",
+            "Ahab"
+          ],
+          "fil": [
+            "Si Jeroboam",
+            "Si Eliseo",
+            "Si Ahab"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Elijah places his cloak on Elisha, who then follows him as his attendant (1 Kings 19).",
+          "fil": "Ibinalabal ni Elias ang kanyang balabal kay Eliseo na pagkatapos ay sumunod bilang kanyang lingkod (1 Hari 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Which king besieges Samaria and makes harsh demands on Ahab?",
+          "fil": "Sinong hari ang kumubkob sa Samaria at nagharap ng mabibigat na hiling kay Ahab?"
+        },
+        "options": {
+          "en": [
+            "David of Judah",
+            "Ben-Hadad of Aram",
+            "Hiram of Tyre"
+          ],
+          "fil": [
+            "Si David ng Juda",
+            "Si Ben-hadad ng Siria",
+            "Si Hiram ng Tiro"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ben-Hadad brings allied forces against Samaria and demands Ahab's possessions (1 Kings 20).",
+          "fil": "Dinala ni Ben-hadad ang mga kaalyadong hukbo laban sa Samaria at hiningi ang mga pag-aari ni Ahab (1 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does a prophet tell Ahab about the enemy's large army?",
+          "fil": "Ano ang sinabi ng propeta kay Ahab tungkol sa malaking hukbo ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "The Lord will give Israel victory so they may know him",
+            "Baal has already been crowned king of Israel",
+            "Ahab must abandon Samaria without a fight"
+          ],
+          "fil": [
+            "Bibigyan ng Panginoon ng tagumpay ang Israel upang makilala nila siya",
+            "Naging hari na ng Israel si Baal",
+            "Dapat iwan ni Ahab ang Samaria nang walang laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promised victory is meant to show Ahab that the Lord is God (1 Kings 20).",
+          "fil": "Nilayon ng ipinangakong tagumpay na ipakita kay Ahab na ang Panginoon ang Diyos (1 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistaken belief do the Arameans have before the next battle?",
+          "fil": "Anong maling paniniwala ang taglay ng mga taga-Siria bago ang susunod na labanan?"
+        },
+        "options": {
+          "en": [
+            "Israel has no towns or farms",
+            "Ahab is the son of Pharaoh",
+            "Israel's God is powerful only in the hills"
+          ],
+          "fil": [
+            "Walang mga bayan o bukirin ang Israel",
+            "Anak ni Faraon si Ahab",
+            "Sa mga bundok lamang makapangyarihan ang Diyos ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their plan to fight on the plains rests on a false limit they place on God's power (1 Kings 20).",
+          "fil": "Nakabatay ang plano nilang lumaban sa kapatagan sa maling paglimita nila sa kapangyarihan ng Diyos (1 Hari 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What action of Ahab does the prophet condemn after the victory?",
+          "fil": "Anong ginawa ni Ahab ang kinondena ng propeta matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Refusing to worship the defeated king",
+            "Giving the poor enough food",
+            "Releasing Ben-Hadad instead of carrying out God's judgment"
+          ],
+          "fil": [
+            "Ang pagtangging sambahin ang natalong hari",
+            "Ang pagbibigay ng sapat na pagkain sa mahihirap",
+            "Ang pagpapalaya kay Ben-hadad sa halip na isagawa ang hatol ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A prophet confronts Ahab for letting the condemned enemy ruler go free (1 Kings 20).",
+          "fil": "Hinarap ng propeta si Ahab dahil pinalaya niya ang pinunong kaaway na hinatulan (1 Hari 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Why does Naboth refuse to sell his vineyard to Ahab?",
+          "fil": "Bakit tumanggi si Nabot na ipagbili kay Ahab ang kanyang ubasan?"
+        },
+        "options": {
+          "en": [
+            "It is his ancestral inheritance",
+            "It belongs to the king of Egypt",
+            "It is already inside Ahab's palace"
+          ],
+          "fil": [
+            "Mana ito mula sa kanyang mga ninuno",
+            "Pag-aari ito ng hari ng Egipto",
+            "Nasa loob na ito ng palasyo ni Ahab"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Naboth refuses to give up the family inheritance entrusted to him (1 Kings 21).",
+          "fil": "Tumanggi si Nabot na isuko ang manang ipinagkatiwala sa kanya ng kanyang pamilya (1 Hari 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Jezebel arrange for Ahab to obtain the vineyard?",
+          "fil": "Paano isinaayos ni Jezebel na makuha ni Ahab ang ubasan?"
+        },
+        "options": {
+          "en": [
+            "She persuades Naboth to exchange it willingly",
+            "She uses false witnesses to have Naboth condemned and killed",
+            "She buys it from Naboth at his chosen price"
+          ],
+          "fil": [
+            "Hinikayat niya si Nabot na kusang ipagpalit ito",
+            "Gumamit siya ng mga sinungaling na saksi upang mahatulan at mapatay si Nabot",
+            "Binili niya ito kay Nabot sa presyong gusto nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jezebel abuses royal authority to bring false charges against Naboth (1 Kings 21).",
+          "fil": "Inabuso ni Jezebel ang kapangyarihan ng hari upang magharap ng maling paratang kay Nabot (1 Hari 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who confronts Ahab when he goes to take possession of the vineyard?",
+          "fil": "Sino ang humarap kay Ahab nang kunin niya ang ubasan?"
+        },
+        "options": {
+          "en": [
+            "Samuel",
+            "Moses",
+            "Elijah"
+          ],
+          "fil": [
+            "Si Samuel",
+            "Si Moises",
+            "Si Elias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord sends Elijah to announce judgment on Ahab for the wrongdoing (1 Kings 21).",
+          "fil": "Isinugo ng Panginoon si Elias upang ipahayag ang hatol kay Ahab dahil sa kasalanan (1 Hari 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Ahab respond when he hears Elijah's judgment?",
+          "fil": "Paano tumugon si Ahab nang marinig ang hatol ni Elias?"
+        },
+        "options": {
+          "en": [
+            "He declares that no one can judge him",
+            "He humbles himself with fasting and mourning clothes",
+            "He immediately builds another palace on the vineyard"
+          ],
+          "fil": [
+            "Ipinahayag niyang walang maaaring humatol sa kanya",
+            "Nagpakumbaba siya sa pag-aayuno at pagsusuot ng damit-panluksa",
+            "Agad siyang nagtayo ng isa pang palasyo sa ubasan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord notices Ahab's humility and delays the announced disaster on his house (1 Kings 21).",
+          "fil": "Napansin ng Panginoon ang pagpapakumbaba ni Ahab at ipinagpaliban ang ipinahayag na kapahamakan sa kanyang sambahayan (1 Hari 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What does Jehoshaphat request before joining Ahab in battle?",
+          "fil": "Ano ang hiniling ni Josafat bago sumama kay Ahab sa labanan?"
+        },
+        "options": {
+          "en": [
+            "Seek the Lord's guidance",
+            "Burn the temple first",
+            "Give the throne to the Arameans"
+          ],
+          "fil": [
+            "Humingi ng patnubay sa Panginoon",
+            "Sunugin muna ang templo",
+            "Ibigay ang trono sa mga taga-Siria"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jehoshaphat asks Ahab to inquire of the Lord before attacking Ramoth Gilead (1 Kings 22).",
+          "fil": "Hiniling ni Josafat kay Ahab na sumangguni sa Panginoon bago salakayin ang Ramot Gilead (1 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Ahab reluctant to call Micaiah?",
+          "fil": "Bakit nag-atubili si Ahab na ipatawag si Micaias?"
+        },
+        "options": {
+          "en": [
+            "Micaiah is king of the enemy army",
+            "Micaiah does not give the favorable predictions Ahab wants",
+            "Micaiah has never lived in Israel"
+          ],
+          "fil": [
+            "Hari si Micaias ng hukbo ng kaaway",
+            "Hindi nagbibigay si Micaias ng magagandang hulang gusto ni Ahab",
+            "Hindi kailanman nanirahan sa Israel si Micaias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ahab dislikes Micaiah because the prophet's messages do not flatter him (1 Kings 22).",
+          "fil": "Ayaw ni Ahab kay Micaias dahil hindi siya pinupuri ng mga mensahe ng propeta (1 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Micaiah's picture of sheep without a shepherd warn about?",
+          "fil": "Ano ang ibinabala ng larawan ni Micaias ng mga tupang walang pastol?"
+        },
+        "options": {
+          "en": [
+            "All Israel's sheep will become soldiers",
+            "The temple will be moved to Samaria",
+            "Israel will lose its ruler in the battle"
+          ],
+          "fil": [
+            "Magiging mga kawal ang lahat ng tupa ng Israel",
+            "Ililipat ang templo sa Samaria",
+            "Mawawala ang pinuno ng Israel sa labanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Micaiah's vision warns that Ahab's campaign will leave Israel without its king (1 Kings 22).",
+          "fil": "Nagbabala ang pangitain ni Micaias na maiiwang walang hari ang Israel dahil sa pagsalakay ni Ahab (1 Hari 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Does Ahab's disguise prevent the announced outcome?",
+          "fil": "Napigilan ba ng pagbabalatkayo ni Ahab ang ipinahayag na kahihinatnan?"
+        },
+        "options": {
+          "en": [
+            "Yes, he returns with no injury",
+            "Yes, he captures every Aramean city",
+            "No, an arrow strikes him and he dies"
+          ],
+          "fil": [
+            "Oo, bumalik siyang walang sugat",
+            "Oo, nasakop niya ang lahat ng lunsod ng Siria",
+            "Hindi, tinamaan siya ng palaso at namatay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ahab is fatally struck despite entering the battle in disguise (1 Kings 22).",
+          "fil": "Namatay si Ahab sa tama ng palaso sa kabila ng kanyang pagbabalatkayo sa labanan (1 Hari 22)."
+        }
+      }
+    ]
+  }
+}
