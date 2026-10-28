@@ -1,0 +1,217 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which city is named as the subject of Nahum's vision?",
+          "fil": "Anong lunsod ang pinangalanang paksa ng pangitain ni Nahum?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Nineveh",
+            "Jericho"
+          ],
+          "fil": [
+            "Betlehem",
+            "Nineve",
+            "Jerico"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision announces judgment on Nineveh (Nahum 1).",
+          "fil": "Ipinahayag ng pangitain ang hatol laban sa Nineve (Nahum 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do trembling mountains and drying waters show about God?",
+          "fil": "Ano ang ipinakikita ng nanginginig na bundok at natutuyong tubig tungkol sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "His power over creation",
+            "His inability to confront evil",
+            "His need for help from idols"
+          ],
+          "fil": [
+            "Ang kanyang kapangyarihan sa sangnilikha",
+            "Ang kawalan niya ng kakayahang harapin ang masama",
+            "Ang pangangailangan niya ng tulong mula sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The images of nature emphasize God's overwhelming power (Nahum 1).",
+          "fil": "Binigyang-diin ng mga larawan ng kalikasan ang dakilang kapangyarihan ng Diyos (Nahum 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the Lord described for those who trust him in trouble?",
+          "fil": "Paano inilarawan ang Panginoon para sa mga nagtitiwala sa kanya sa oras ng kaguluhan?"
+        },
+        "options": {
+          "en": [
+            "A good refuge who cares for them",
+            "An enemy who enjoys their fear",
+            "An idol they must build"
+          ],
+          "fil": [
+            "Mabuting kanlungang nagmamalasakit sa kanila",
+            "Kaaway na natutuwa sa kanilang takot",
+            "Diyus-diyosang dapat nilang gawin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's judgment of evil is joined with care for those who seek refuge in him (Nahum 1).",
+          "fil": "Kasama sa paghatol ng Diyos sa masama ang pagkalinga sa mga kumakanlong sa kanya (Nahum 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What scene dominates the warning about Nineveh?",
+          "fil": "Anong tagpo ang nangingibabaw sa babala tungkol sa Nineve?"
+        },
+        "options": {
+          "en": [
+            "A peaceful wedding feast",
+            "The building of Noah's ark",
+            "An attack and the collapse of the city"
+          ],
+          "fil": [
+            "Isang mapayapang piging sa kasal",
+            "Ang paggawa ng arka ni Noe",
+            "Pagsalakay at pagbagsak ng lunsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter pictures Nineveh's defenses failing under attack (Nahum 2).",
+          "fil": "Inilarawan ng kabanata ang pagbigo ng mga pananggalang ng Nineve sa pagsalakay (Nahum 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What rushes through the streets in the battle scene?",
+          "fil": "Ano ang rumaragasa sa mga lansangan sa tagpo ng labanan?"
+        },
+        "options": {
+          "en": [
+            "Chariots",
+            "Sheep led to pasture",
+            "Fishing boats"
+          ],
+          "fil": [
+            "Mga karwaheng pandigma",
+            "Mga tupang inaakay sa pastulan",
+            "Mga bangkang pangisda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Rushing chariots make the city's turmoil vivid (Nahum 2).",
+          "fil": "Malinaw na ipinakita ng rumaragasang karwahe ang kaguluhan sa lunsod (Nahum 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the image of a lion's den expose about Nineveh?",
+          "fil": "Ano ang inilantad ng larawan ng lungga ng leon tungkol sa Nineve?"
+        },
+        "options": {
+          "en": [
+            "It has always protected the weak",
+            "It has enriched itself by preying on others",
+            "It has never used violence"
+          ],
+          "fil": [
+            "Lagi nitong ipinagtanggol ang mahihina",
+            "Yumaman ito sa pagsalakay sa iba",
+            "Hindi ito kailanman gumamit ng karahasan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The lion image portrays the predatory power that God will end (Nahum 2).",
+          "fil": "Inilarawan ng leon ang mapanilang kapangyarihang wawakasan ng Diyos (Nahum 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What wrongdoing marks the city being condemned?",
+          "fil": "Anong kasamaan ang tanda ng lunsod na hinahatulan?"
+        },
+        "options": {
+          "en": [
+            "Violence, lies, and plunder",
+            "Excessive kindness to enemies",
+            "Refusal to worship an idol"
+          ],
+          "fil": [
+            "Karahasan, kasinungalingan, at pandarambong",
+            "Labis na kabutihan sa mga kaaway",
+            "Pagtangging sumamba sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nineveh is condemned for the harm and deceit behind its power (Nahum 3).",
+          "fil": "Hinatulan ang Nineve dahil sa pananakit at pandarayang nasa likod ng kapangyarihan nito (Nahum 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do fortresses compared to ripe figs suggest?",
+          "fil": "Ano ang ipinahiwatig ng paghahambing sa mga kuta sa hinog na igos?"
+        },
+        "options": {
+          "en": [
+            "Its army cannot be defeated",
+            "Its walls will become fruit trees",
+            "Its defenses will fall easily"
+          ],
+          "fil": [
+            "Hindi matatalo ang hukbo nito",
+            "Magiging mga punong namumunga ang mga pader nito",
+            "Madaling babagsak ang mga pananggalang nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ripe-fruit image exposes the weakness of seemingly strong defenses (Nahum 3).",
+          "fil": "Inilantad ng larawan ng hinog na bunga ang kahinaan ng mga pananggalang na mukhang matibay (Nahum 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do those hearing of Nineveh's fall clap their hands?",
+          "fil": "Bakit pumalakpak ang mga nakarinig sa pagbagsak ng Nineve?"
+        },
+        "options": {
+          "en": [
+            "They want its oppression to continue",
+            "They are celebrating its new temple",
+            "They have suffered from its cruelty"
+          ],
+          "fil": [
+            "Gusto nilang magpatuloy ang pang-aapi nito",
+            "Ipinagdiriwang nila ang bagong templo nito",
+            "Nagdusa sila sa kalupitan nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing question recalls how widely Nineveh has harmed others (Nahum 3).",
+          "fil": "Ipinaalala ng pangwakas na tanong kung gaano karami ang sinaktan ng Nineve (Nahum 3)."
+        }
+      }
+    ]
+  }
+}
