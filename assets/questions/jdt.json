@@ -1,0 +1,1140 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which king does Nebuchadnezzar fight in the opening chapter?",
+          "fil": "Sinong hari ang nilabanan ni Nabucodonosor sa unang kabanata?"
+        },
+        "options": {
+          "en": [
+            "Solomon, king of Jerusalem",
+            "Arphaxad, king of the Medes",
+            "David, king of Israel"
+          ],
+          "fil": [
+            "Si Solomon na hari ng Jerusalem",
+            "Si Arfaxad na hari ng mga taga-Media",
+            "Si David na hari ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The story opens with Nebuchadnezzar's war against Arphaxad (Judith 1).",
+          "fil": "Nagsimula ang kuwento sa digmaan ni Nabucodonosor laban kay Arfaxad (Judith 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do many western nations respond to Nebuchadnezzar's call for help?",
+          "fil": "Paano tumugon ang maraming bansa sa kanluran sa panawagan ni Nabucodonosor na tumulong?"
+        },
+        "options": {
+          "en": [
+            "They refuse and dismiss his messengers",
+            "They all send their armies immediately",
+            "They choose him as their high priest"
+          ],
+          "fil": [
+            "Tumanggi sila at pinaalis ang kanyang mga sugo",
+            "Agad nilang ipinadala lahat ang kanilang mga hukbo",
+            "Pinili nila siyang pinakapunong pari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their refusal to join his campaign provokes Nebuchadnezzar's anger (Judith 1).",
+          "fil": "Ikinagalit ni Nabucodonosor ang pagtanggi nilang sumama sa kanyang kampanya (Judith 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Nebuchadnezzar promise after being refused?",
+          "fil": "Ano ang ipinangako ni Nabucodonosor matapos siyang tanggihan?"
+        },
+        "options": {
+          "en": [
+            "To take revenge on the disobedient lands",
+            "To give his throne to Arphaxad",
+            "To abandon every military campaign"
+          ],
+          "fil": [
+            "Maghiganti sa mga lupaing hindi sumunod",
+            "Ibigay ang kanyang trono kay Arfaxad",
+            "Talikuran ang lahat ng kampanyang pandigma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nebuchadnezzar vows to punish the nations that rejected his command (Judith 1).",
+          "fil": "Nanumpa si Nabucodonosor na parurusahan ang mga bansang tumanggi sa kanyang utos (Judith 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Whom does the king put in charge of the western campaign?",
+          "fil": "Sino ang pinamuno ng hari sa kampanya sa kanluran?"
+        },
+        "options": {
+          "en": [
+            "Achior",
+            "Judith",
+            "Holofernes"
+          ],
+          "fil": [
+            "Si Aquior",
+            "Si Judith",
+            "Si Holofernes"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nebuchadnezzar appoints his leading general Holofernes to carry out the campaign (Judith 2).",
+          "fil": "Itinalaga ni Nabucodonosor ang pangunahing heneral niyang si Holofernes upang isagawa ang kampanya (Judith 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the campaign intended to do?",
+          "fil": "Ano ang layunin ng kampanya?"
+        },
+        "options": {
+          "en": [
+            "Help Jerusalem rebuild its temple",
+            "Bring food as a free gift to Israel",
+            "Punish lands that refused the king's order"
+          ],
+          "fil": [
+            "Tulungan ang Jerusalem na muling itayo ang templo nito",
+            "Magdala ng pagkain bilang libreng kaloob sa Israel",
+            "Parusahan ang mga lupaing tumanggi sa utos ng hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king sends the expedition in revenge for earlier disobedience (Judith 2).",
+          "fil": "Isinugo ng hari ang hukbo bilang paghihiganti sa dating pagsuway (Judith 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of force does Holofernes assemble?",
+          "fil": "Anong uri ng hukbo ang tinipon ni Holofernes?"
+        },
+        "options": {
+          "en": [
+            "A large army with infantry and cavalry",
+            "A choir without soldiers",
+            "Only a few unarmed messengers"
+          ],
+          "fil": [
+            "Malaking hukbong may kawal-panlupa at mangangabayo",
+            "Koro na walang mga sundalo",
+            "Ilang sugong walang sandata lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Holofernes organizes a powerful fighting force as the king ordered (Judith 2).",
+          "fil": "Bumuo si Holofernes ng makapangyarihang hukbo ayon sa utos ng hari (Judith 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What do the threatened nations offer Holofernes?",
+          "fil": "Ano ang inialok ng mga bansang nanganganib kay Holofernes?"
+        },
+        "options": {
+          "en": [
+            "Submission and access to their lands and goods",
+            "A command that he surrender his army",
+            "A declaration that they have defeated him"
+          ],
+          "fil": [
+            "Pagpapasakop at paggamit sa kanilang lupain at mga pag-aari",
+            "Utos na isuko niya ang kanyang hukbo",
+            "Pahayag na natalo na nila siya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The nations seek peace by placing themselves and their resources at his disposal (Judith 3).",
+          "fil": "Humingi ng kapayapaan ang mga bansa sa pagpapaubaya ng sarili at kanilang mga yaman sa kanya (Judith 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the coastal people receive the approaching commander?",
+          "fil": "Paano tinanggap ng mga tao sa baybayin ang papalapit na pinuno?"
+        },
+        "options": {
+          "en": [
+            "With a funeral for his army",
+            "With a successful ambush",
+            "With garlands, music, and dancing"
+          ],
+          "fil": [
+            "Sa libing para sa kanyang hukbo",
+            "Sa matagumpay na pananambang",
+            "May mga putong, musika, at sayawan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people greet Holofernes with public celebrations of welcome (Judith 3).",
+          "fil": "Sinalubong ng mga tao si Holofernes sa mga pampublikong pagdiriwang ng pagtanggap (Judith 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Holofernes destroy local places of worship despite their submission?",
+          "fil": "Bakit sinira ni Holofernes ang mga sambahan kahit nagpasakop na ang mga tao?"
+        },
+        "options": {
+          "en": [
+            "To give the land to peaceful farmers",
+            "To make the nations worship Nebuchadnezzar alone",
+            "To establish worship of Israel's God"
+          ],
+          "fil": [
+            "Upang ibigay ang lupain sa mapapayapang magsasaka",
+            "Upang sambahin ng mga bansa si Nabucodonosor lamang",
+            "Upang itatag ang pagsamba sa Diyos ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "His destruction of local worship serves the demand to honor Nebuchadnezzar as divine (Judith 3).",
+          "fil": "Ang pagsira niya sa lokal na pagsamba ay naglingkod sa paghinging parangalan si Nabucodonosor bilang diyos (Judith 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What do the Israelites especially fear losing as the army approaches?",
+          "fil": "Ano ang pangunahing kinatakutang mawala ng mga Israelita habang papalapit ang hukbo?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem and God's temple",
+            "Nebuchadnezzar's palace",
+            "Their control of Nineveh"
+          ],
+          "fil": [
+            "Ang Jerusalem at ang templo ng Diyos",
+            "Ang palasyo ni Nabucodonosor",
+            "Ang pamamahala nila sa Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "News of destroyed sanctuaries makes the Israelites fear for Jerusalem and their own temple (Judith 4).",
+          "fil": "Dahil sa balita ng mga winasak na santuwaryo ay nangamba ang mga Israelita para sa Jerusalem at sarili nilang templo (Judith 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What defensive task is assigned to the towns guarding the hill country?",
+          "fil": "Anong gawaing pananggalang ang iniatas sa mga bayang nagbabantay sa kabundukan?"
+        },
+        "options": {
+          "en": [
+            "Secure the narrow mountain approaches",
+            "Abandon all stored provisions",
+            "Open every gate to the invaders"
+          ],
+          "fil": [
+            "Bantayan ang makikitid na daan paakyat sa bundok",
+            "Iwan ang lahat ng inimbak na pagkain",
+            "Buksan ang bawat pintuan sa mga mananakop"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The high priest orders the approaches held because they control access to Judea (Judith 4).",
+          "fil": "Iniutos ng pinakapunong pari na bantayan ang mga daan dahil dito nakasalalay ang pagpasok sa Judea (Judith 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people seek God's help while preparing their defenses?",
+          "fil": "Paano humingi ng tulong sa Diyos ang mga tao habang naghahanda ng pananggalang?"
+        },
+        "options": {
+          "en": [
+            "By refusing every act of worship",
+            "With earnest prayer, fasting, and humility",
+            "By offering the temple to foreign gods"
+          ],
+          "fil": [
+            "Sa pagtanggi sa bawat pagsamba",
+            "Sa taimtim na panalangin, pag-aayuno, at pagpapakumbaba",
+            "Sa paghahandog ng templo sa mga dayuhang diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The whole community humbles itself before God and pleads for protection (Judith 4).",
+          "fil": "Nagpakumbaba ang buong komunidad sa Diyos at humingi ng proteksiyon (Judith 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who explains Israel's history to Holofernes?",
+          "fil": "Sino ang nagpaliwanag ng kasaysayan ng Israel kay Holofernes?"
+        },
+        "options": {
+          "en": [
+            "The king of Egypt",
+            "Achior, an Ammonite leader",
+            "Judith's maid"
+          ],
+          "fil": [
+            "Ang hari ng Egipto",
+            "Si Aquior na pinunong Ammonita",
+            "Ang utusan ni Judith"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Achior answers the commander's questions by recounting Israel's relationship with God (Judith 5).",
+          "fil": "Sinagot ni Aquior ang mga tanong ng pinuno sa pagsasalaysay ng kaugnayan ng Israel sa Diyos (Judith 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Achior say is crucial to Israel's security?",
+          "fil": "Ano ang sinabi ni Aquior na mahalaga sa kaligtasan ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Having the most gold",
+            "Owning the largest fleet",
+            "Faithfulness to its God"
+          ],
+          "fil": [
+            "Pagkakaroon ng pinakamaraming ginto",
+            "Pagmamay-ari ng pinakamalaking hukbong-dagat",
+            "Katapatan sa Diyos nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Achior links Israel's protection with remaining faithful rather than sinning against God (Judith 5).",
+          "fil": "Iniugnay ni Aquior ang proteksiyon ng Israel sa pananatiling tapat sa halip na pagkakasala sa Diyos (Judith 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the surrounding officers react to Achior's warning?",
+          "fil": "Paano tumugon ang mga pinunong naroon sa babala ni Aquior?"
+        },
+        "options": {
+          "en": [
+            "They appoint him king of Assyria",
+            "They angrily demand punishment for him",
+            "They immediately cancel the campaign"
+          ],
+          "fil": [
+            "Itinalaga nila siyang hari ng Asiria",
+            "Galit nilang hiniling na parusahan siya",
+            "Agad nilang kinansela ang kampanya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The officers reject Achior's counsel and threaten him instead of heeding it (Judith 5).",
+          "fil": "Tinanggihan ng mga pinuno ang payo ni Aquior at pinagbantaan siya sa halip na pakinggan (Judith 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Holofernes order done to Achior?",
+          "fil": "Ano ang iniutos ni Holofernes na gawin kay Aquior?"
+        },
+        "options": {
+          "en": [
+            "Make him commander of the whole army",
+            "Leave him near Bethulia to share Israel's fate",
+            "Send him home with a royal crown"
+          ],
+          "fil": [
+            "Gawin siyang pinuno ng buong hukbo",
+            "Iwan siya malapit sa Betulia upang makibahagi sa sasapitin ng Israel",
+            "Pauwiin siyang may maharlikang korona"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Holofernes intends Achior to perish with the Israelites he has defended (Judith 6).",
+          "fil": "Nilayon ni Holofernes na mapahamak si Aquior kasama ng mga Israelitang ipinagtanggol niya (Judith 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the Israelites treat Achior after finding him bound?",
+          "fil": "Paano pinakitunguhan ng mga Israelita si Aquior nang makitang nakagapos siya?"
+        },
+        "options": {
+          "en": [
+            "They return him to be executed immediately",
+            "They untie him and bring him into Bethulia",
+            "They leave him without food or help"
+          ],
+          "fil": [
+            "Agad nila siyang ibinalik upang patayin",
+            "Kinalagan nila siya at dinala sa Betulia",
+            "Iniwan nila siyang walang pagkain o tulong"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people rescue Achior and let him explain what happened (Judith 6).",
+          "fil": "Iniligtas ng mga tao si Aquior at pinagsalaysay ng nangyari (Judith 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the community do after hearing Achior's report?",
+          "fil": "Ano ang ginawa ng komunidad matapos marinig ang ulat ni Aquior?"
+        },
+        "options": {
+          "en": [
+            "Pray to God for help against the enemy's arrogance",
+            "Destroy their own sanctuary",
+            "Celebrate Holofernes as a god"
+          ],
+          "fil": [
+            "Nanalangin sa Diyos para sa tulong laban sa kapalaluan ng kaaway",
+            "Winasak ang sarili nilang santuwaryo",
+            "Ipinagdiwang si Holofernes bilang diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people appeal to God and continue seeking help through the night (Judith 6).",
+          "fil": "Dumaing ang mga tao sa Diyos at nagpatuloy sa paghingi ng tulong sa buong gabi (Judith 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "How does the enemy try to force Bethulia to surrender?",
+          "fil": "Paano sinubukang pilitin ng kaaway ang Betulia na sumuko?"
+        },
+        "options": {
+          "en": [
+            "By taking control of its water sources",
+            "By destroying Nineveh's walls",
+            "By giving its people unlimited food"
+          ],
+          "fil": [
+            "Sa pagsakop sa mga pinagkukunan nito ng tubig",
+            "Sa pagsira sa mga pader ng Nineve",
+            "Sa pagbibigay sa mga tao nito ng walang-hanggang pagkain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The besiegers seize the springs to weaken Bethulia through thirst (Judith 7).",
+          "fil": "Sinakop ng mga kumukubkob ang mga bukal upang pahinain ang Betulia sa pagkauhaw (Judith 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the exhausted townspeople urge their rulers to do?",
+          "fil": "Ano ang hinimok ng mga pagod na mamamayan na gawin ng kanilang mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "Crown Judith as queen immediately",
+            "Launch a voyage to Egypt",
+            "Surrender rather than watch their families die of thirst"
+          ],
+          "fil": [
+            "Koronahan agad si Judith bilang reyna",
+            "Maglayag patungong Egipto",
+            "Sumuko sa halip na makitang mamatay sa uhaw ang kanilang mga pamilya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people's suffering leads them to demand surrender from their leaders (Judith 7).",
+          "fil": "Dahil sa pagdurusa ay hiniling ng mga tao sa kanilang mga pinuno ang pagsuko (Judith 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What temporary decision does Uzziah announce?",
+          "fil": "Anong pansamantalang pasya ang ipinahayag ni Ozias?"
+        },
+        "options": {
+          "en": [
+            "Wait a few more days for help before surrendering",
+            "Promise never to pray again",
+            "Abandon the city that same hour"
+          ],
+          "fil": [
+            "Maghintay pa ng ilang araw ng tulong bago sumuko",
+            "Mangakong hindi na muling mananalangin",
+            "Lisanin ang lungsod sa oras ding iyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uzziah sets a short waiting period before agreeing to the people's demand (Judith 7).",
+          "fil": "Nagtakda si Ozias ng maikling paghihintay bago pagbigyan ang hiling ng mga tao (Judith 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "How is Judith's way of life described before she speaks to the elders?",
+          "fil": "Paano inilarawan ang pamumuhay ni Judith bago siya magsalita sa mga elder?"
+        },
+        "options": {
+          "en": [
+            "A ruler who worships Nebuchadnezzar",
+            "A commander serving Holofernes",
+            "A respected widow devoted to God"
+          ],
+          "fil": [
+            "Pinunong sumasamba kay Nabucodonosor",
+            "Pinunong naglilingkod kay Holofernes",
+            "Iginagalang na biyudang tapat sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith is introduced as a devout widow known for reverence toward God (Judith 8).",
+          "fil": "Ipinakilala si Judith bilang tapat na biyudang kilala sa paggalang sa Diyos (Judith 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Judith criticize the deadline set by the leaders?",
+          "fil": "Bakit pinuna ni Judith ang takdang panahong itinakda ng mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "They are trying to put God's help on their timetable",
+            "They have waited too long to worship idols",
+            "They have refused to give her money"
+          ],
+          "fil": [
+            "Sinusubukan nilang itakda kung kailan dapat tumulong ang Diyos",
+            "Masyado silang naghintay upang sumamba sa diyus-diyusan",
+            "Tumanggi silang bigyan siya ng pera"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judith warns against testing God by making surrender depend on a deadline (Judith 8).",
+          "fil": "Nagbabala si Judith laban sa pagsubok sa Diyos sa pag-uugnay ng pagsuko sa takdang panahon (Judith 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judith tell the elders about her plan?",
+          "fil": "Ano ang sinabi ni Judith sa mga elder tungkol sa kanyang plano?"
+        },
+        "options": {
+          "en": [
+            "She will go out with her maid but keep the details private",
+            "She has already surrendered Bethulia",
+            "She will invite Holofernes to rule the temple"
+          ],
+          "fil": [
+            "Lalabas siya kasama ang kanyang utusan ngunit ililihim ang mga detalye",
+            "Isinuko na niya ang Betulia",
+            "Aanyayahan niya si Holofernes na pamunuan ang templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judith asks to leave that night and withholds her plan until it is accomplished (Judith 8).",
+          "fil": "Hiniling ni Judith na makaalis sa gabing iyon at inilihim ang plano hanggang matapos ito (Judith 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How does Judith describe God in her prayer for help?",
+          "fil": "Paano inilarawan ni Judith ang Diyos sa kanyang panalangin para sa tulong?"
+        },
+        "options": {
+          "en": [
+            "Protector of the weak and oppressed",
+            "A ruler impressed only by large armies",
+            "A god who ignores the helpless"
+          ],
+          "fil": [
+            "Tagapagtanggol ng mahihina at inaapi",
+            "Pinunong humahanga lamang sa malalaking hukbo",
+            "Diyos na walang pakialam sa walang kalaban-laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judith trusts the God who helps those without worldly strength (Judith 9).",
+          "fil": "Nagtiwala si Judith sa Diyos na tumutulong sa mga walang kapangyarihan sa mundo (Judith 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judith ask God to accomplish through her?",
+          "fil": "Ano ang hiniling ni Judith na gawin ng Diyos sa pamamagitan niya?"
+        },
+        "options": {
+          "en": [
+            "Help her collect a private fortune",
+            "Bring down the proud enemy through her plan and words",
+            "Make her queen of Assyria"
+          ],
+          "fil": [
+            "Tulungan siyang mag-ipon ng pansariling kayamanan",
+            "Ibagsak ang mapagmataas na kaaway sa pamamagitan ng kanyang plano at mga salita",
+            "Gawin siyang reyna ng Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judith asks for strength to carry out a plan against the enemy's arrogance (Judith 9).",
+          "fil": "Humingi si Judith ng lakas upang maisagawa ang plano laban sa kapalaluan ng kaaway (Judith 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What threatened holy place does Judith ask God to defend?",
+          "fil": "Anong nanganganib na banal na lugar ang hiniling ni Judith na ipagtanggol ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Nebuchadnezzar's palace",
+            "A temple to Assyrian idols",
+            "His sanctuary"
+          ],
+          "fil": [
+            "Ang palasyo ni Nabucodonosor",
+            "Templo ng mga diyus-diyusan ng Asiria",
+            "Ang kanyang santuwaryo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Her prayer names the enemy's intention to profane God's sanctuary (Judith 9).",
+          "fil": "Binanggit ng kanyang panalangin ang hangarin ng kaaway na lapastanganin ang santuwaryo ng Diyos (Judith 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "How does Judith prepare her appearance before leaving Bethulia?",
+          "fil": "Paano inihanda ni Judith ang kanyang anyo bago umalis sa Betulia?"
+        },
+        "options": {
+          "en": [
+            "She disguises herself as an armed soldier",
+            "She puts on the high priest's robes",
+            "She replaces mourning clothes with beautiful clothes and ornaments"
+          ],
+          "fil": [
+            "Nagbalatkayo siyang sundalong may sandata",
+            "Isinuot niya ang damit ng pinakapunong pari",
+            "Pinalitan niya ang damit ng pagluluksa ng magagandang damit at palamuti"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith changes her appearance as part of her plan to enter the enemy camp (Judith 10).",
+          "fil": "Binago ni Judith ang kanyang anyo bilang bahagi ng planong pumasok sa kampo ng kaaway (Judith 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who accompanies Judith when she leaves the city?",
+          "fil": "Sino ang kasama ni Judith nang umalis siya sa lungsod?"
+        },
+        "options": {
+          "en": [
+            "Her maid",
+            "Nebuchadnezzar himself",
+            "The whole army of Israel"
+          ],
+          "fil": [
+            "Ang kanyang utusan",
+            "Si Nabucodonosor mismo",
+            "Ang buong hukbo ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judith departs with her maid while the city's leaders see them off (Judith 10).",
+          "fil": "Umalis si Judith kasama ang kanyang utusan habang inihahatid sila ng mga pinuno ng lungsod (Judith 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judith claim she can offer Holofernes when the guards question her?",
+          "fil": "Ano ang inangkin ni Judith na maiaalok kay Holofernes nang tanungin siya ng mga bantay?"
+        },
+        "options": {
+          "en": [
+            "A fleet of Egyptian ships",
+            "A way to conquer the hill country without losing men",
+            "Ownership of Nineveh's throne"
+          ],
+          "fil": [
+            "Hukbong-dagat ng mga barkong taga-Egipto",
+            "Paraan upang sakupin ang kabundukan nang walang mawawalang kawal",
+            "Pagmamay-ari ng trono ng Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judith gains entry by claiming to have useful information for the commander (Judith 10).",
+          "fil": "Nakapasok si Judith sa pag-aangking may kapaki-pakinabang siyang impormasyon para sa pinuno (Judith 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What does Judith tell Holofernes about Israel's protection?",
+          "fil": "Ano ang sinabi ni Judith kay Holofernes tungkol sa proteksiyon ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Its God has never helped it",
+            "Its protection comes only from gold",
+            "It cannot be overcome unless it sins against God"
+          ],
+          "fil": [
+            "Hindi ito kailanman tinulungan ng Diyos nito",
+            "Mula lamang sa ginto ang proteksiyon nito",
+            "Hindi ito magagapi maliban kung magkasala sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith's speech echoes Achior's warning that sin can expose Israel to defeat (Judith 11).",
+          "fil": "Inulit ng talumpati ni Judith ang babala ni Aquior na maaaring maglantad sa Israel sa pagkatalo ang kasalanan (Judith 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judith claim the desperate people are preparing to do?",
+          "fil": "Ano ang inangkin ni Judith na pinaghahandaang gawin ng mga taong desperado?"
+        },
+        "options": {
+          "en": [
+            "Build more temples for the Lord",
+            "Eat forbidden food and consume sacred offerings",
+            "Give their whole army to Egypt"
+          ],
+          "fil": [
+            "Magtayo pa ng mga templo para sa Panginoon",
+            "Kumain ng ipinagbabawal at ubusin ang mga banal na handog",
+            "Ibigay ang kanilang buong hukbo sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "She claims that hunger is driving the people toward violating God's food and offering laws (Judith 11).",
+          "fil": "Inangkin niyang itinutulak ng gutom ang mga tao sa paglabag sa mga kautusan ng Diyos tungkol sa pagkain at handog (Judith 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Holofernes respond to Judith's persuasive speech?",
+          "fil": "Paano tumugon si Holofernes sa mapanghikayat na talumpati ni Judith?"
+        },
+        "options": {
+          "en": [
+            "He immediately uncovers her whole plan",
+            "He welcomes her advice and promises her honor",
+            "He frees every prisoner and ends the invasion"
+          ],
+          "fil": [
+            "Agad niyang natuklasan ang buong plano niya",
+            "Tinanggap niya ang kanyang payo at nangakong pararangalan siya",
+            "Pinalaya niya ang bawat bilanggo at tinapos ang pagsalakay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Holofernes is impressed by Judith and believes she will help his campaign (Judith 11).",
+          "fil": "Humanga si Holofernes kay Judith at naniwalang tutulong siya sa kanyang kampanya (Judith 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does Judith rely on her own provisions in the camp?",
+          "fil": "Bakit umasa si Judith sa sarili niyang pagkain sa kampo?"
+        },
+        "options": {
+          "en": [
+            "To avoid eating food that would violate her religious duties",
+            "Because Holofernes offers her no food",
+            "To prove she is wealthier than the king"
+          ],
+          "fil": [
+            "Upang maiwasan ang pagkaing lalabag sa kanyang tungkuling panrelihiyon",
+            "Dahil walang inialok na pagkain si Holofernes",
+            "Upang patunayang mas mayaman siya kaysa sa hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judith declines the commander's food and eats what her maid has brought (Judith 12).",
+          "fil": "Tinanggihan ni Judith ang pagkain ng pinuno at kinain ang dinala ng kanyang utusan (Judith 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What permission does Judith receive for her nightly routine?",
+          "fil": "Anong pahintulot ang tinanggap ni Judith para sa kanyang gawain sa gabi?"
+        },
+        "options": {
+          "en": [
+            "To lead the Assyrian army",
+            "To leave for washing and prayer",
+            "To move the king's throne"
+          ],
+          "fil": [
+            "Pamunuan ang hukbo ng Asiria",
+            "Lumabas upang maghugas at manalangin",
+            "Ilipat ang trono ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The guards are told not to hinder Judith when she goes out to pray and purify herself (Judith 12).",
+          "fil": "Sinabihan ang mga bantay na huwag hadlangan si Judith sa paglabas upang manalangin at maglinis ng sarili (Judith 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Holofernes at the banquet with Judith?",
+          "fil": "Ano ang nangyari kay Holofernes sa piging kasama si Judith?"
+        },
+        "options": {
+          "en": [
+            "He drinks an extraordinary amount of wine",
+            "He leaves to attack Jerusalem that night",
+            "He announces his retirement"
+          ],
+          "fil": [
+            "Uminom siya ng napakaraming alak",
+            "Umalis siya upang salakayin ang Jerusalem sa gabing iyon",
+            "Ipinahayag niya ang kanyang pagreretiro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Holofernes becomes deeply intoxicated during the banquet (Judith 12).",
+          "fil": "Labis na nalasing si Holofernes sa piging (Judith 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What decisive action does Judith take in Holofernes' tent?",
+          "fil": "Anong mahalagang hakbang ang ginawa ni Judith sa tolda ni Holofernes?"
+        },
+        "options": {
+          "en": [
+            "She surrenders Bethulia to him",
+            "She cuts off his head with his own sword",
+            "She joins his army as a commander"
+          ],
+          "fil": [
+            "Isinuko niya ang Betulia sa kanya",
+            "Pinugutan niya si Holofernes gamit ang tabak nito",
+            "Sumapi siya sa kanyang hukbo bilang pinuno"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judith uses the helpless commander's sword to kill him and break his threat to her people (Judith 13).",
+          "fil": "Ginamit ni Judith ang tabak ng pinunong walang kalaban-laban upang patayin siya at wakasan ang kanyang banta sa kanyang bayan (Judith 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where do Judith and her maid go after leaving the enemy camp?",
+          "fil": "Saan pumunta si Judith at ang kanyang utusan matapos lisanin ang kampo ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "To a ship bound for Egypt",
+            "To Nebuchadnezzar in Nineveh",
+            "Back to Bethulia"
+          ],
+          "fil": [
+            "Sa barkong patungong Egipto",
+            "Kay Nabucodonosor sa Nineve",
+            "Bumalik sa Betulia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "They return to Bethulia carrying evidence of Holofernes' death (Judith 13).",
+          "fil": "Bumalik sila sa Betulia na dala ang patunay ng pagkamatay ni Holofernes (Judith 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Judith call the townspeople to praise on her return?",
+          "fil": "Sino ang tinawag ni Judith na purihin ng mga mamamayan sa kanyang pagbabalik?"
+        },
+        "options": {
+          "en": [
+            "Holofernes as Israel's savior",
+            "Nebuchadnezzar as creator",
+            "God, who has shown mercy to Israel"
+          ],
+          "fil": [
+            "Si Holofernes bilang tagapagligtas ng Israel",
+            "Si Nabucodonosor bilang manlilikha",
+            "Ang Diyos na nagpakita ng awa sa Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith credits God's mercy for the deliverance accomplished through her (Judith 13).",
+          "fil": "Kinilala ni Judith ang awa ng Diyos sa pagliligtas na naisagawa sa pamamagitan niya (Judith 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What plan does Judith give for the next morning?",
+          "fil": "Anong plano ang ibinigay ni Judith para sa susunod na umaga?"
+        },
+        "options": {
+          "en": [
+            "Display the head and advance so the enemy discovers its leader's death",
+            "Hide the victory and surrender quietly",
+            "Send the whole city to Nineveh"
+          ],
+          "fil": [
+            "Ipakita ang ulo at lumabas upang matuklasan ng kaaway ang pagkamatay ng pinuno nito",
+            "Itago ang tagumpay at tahimik na sumuko",
+            "Ipadala ang buong lungsod sa Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Her plan is meant to make the enemy discover Holofernes' death and fall into panic (Judith 14).",
+          "fil": "Nilayon ng kanyang plano na matuklasan ng kaaway ang pagkamatay ni Holofernes at masindak (Judith 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Achior respond after hearing what Judith has done?",
+          "fil": "Paano tumugon si Aquior matapos marinig ang ginawa ni Judith?"
+        },
+        "options": {
+          "en": [
+            "He believes in Israel's God and joins the people",
+            "He asks to replace Holofernes as invader",
+            "He returns to worship Nebuchadnezzar"
+          ],
+          "fil": [
+            "Nanampalataya siya sa Diyos ng Israel at nakisanib sa bayan",
+            "Humiling siyang pumalit kay Holofernes bilang mananakop",
+            "Bumalik siya sa pagsamba kay Nabucodonosor"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Achior's response is faith in God and entry into Israel's community (Judith 14).",
+          "fil": "Ang tugon ni Aquior ay pananampalataya sa Diyos at pagpasok sa komunidad ng Israel (Judith 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Bagoas discover when he enters Holofernes' sleeping area?",
+          "fil": "Ano ang natuklasan ni Bagoas nang pumasok sa tulugan ni Holofernes?"
+        },
+        "options": {
+          "en": [
+            "Holofernes has already captured Jerusalem",
+            "Judith is commanding a new army there",
+            "Holofernes is dead and Judith is gone"
+          ],
+          "fil": [
+            "Nasakop na ni Holofernes ang Jerusalem",
+            "Namumuno si Judith sa bagong hukbo roon",
+            "Patay na si Holofernes at wala na si Judith"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Bagoas finds the dead commander and raises an alarm in the camp (Judith 14).",
+          "fil": "Natagpuan ni Bagoas ang patay na pinuno at nagbabala sa buong kampo (Judith 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How does the Assyrian army react to the news of Holofernes' death?",
+          "fil": "Paano tumugon ang hukbo ng Asiria sa balita ng pagkamatay ni Holofernes?"
+        },
+        "options": {
+          "en": [
+            "It scatters and flees in fear",
+            "It captures Bethulia immediately",
+            "It calmly elects Judith as queen"
+          ],
+          "fil": [
+            "Nangalat ito at tumakas sa takot",
+            "Agad nitong nasakop ang Betulia",
+            "Payapa nitong inihalal si Judith bilang reyna"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The leader's death causes the enemy's ranks to collapse in panic (Judith 15).",
+          "fil": "Nagdulot ng pagkawatak ng hukbo sa sindak ang pagkamatay ng pinuno (Judith 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the Israelites take from the abandoned enemy camp?",
+          "fil": "Ano ang kinuha ng mga Israelita sa iniwang kampo ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "Large quantities of goods and supplies",
+            "The throne from the Jerusalem temple",
+            "The tablets of Moses"
+          ],
+          "fil": [
+            "Maraming pag-aari at panustos",
+            "Ang trono mula sa templo ng Jerusalem",
+            "Ang mga tapyas ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The victory leaves the enemy camp's abundant possessions in Israel's hands (Judith 15).",
+          "fil": "Dahil sa tagumpay ay napasakamay ng Israel ang maraming pag-aari sa kampo ng kaaway (Judith 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Israel's women honor Judith after the victory?",
+          "fil": "Paano pinarangalan ng mga babae ng Israel si Judith matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "They ask for her imprisonment",
+            "They refuse to welcome her",
+            "They bless her and celebrate with dancing"
+          ],
+          "fil": [
+            "Hiniling nilang ibilanggo siya",
+            "Tumanggi silang tanggapin siya",
+            "Binasbasan nila siya at nagdiwang sa sayawan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The women gather around Judith in a joyful celebration of deliverance (Judith 15).",
+          "fil": "Nagtipon ang mga babae sa paligid ni Judith sa masayang pagdiriwang ng pagliligtas (Judith 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What is the purpose of Judith's song after the victory?",
+          "fil": "Ano ang layunin ng awit ni Judith matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Ask Israel to forget the rescue",
+            "Praise the power of Nebuchadnezzar",
+            "Thank and praise God for delivering his people"
+          ],
+          "fil": [
+            "Hilinging limutin ng Israel ang pagliligtas",
+            "Purihin ang kapangyarihan ni Nabucodonosor",
+            "Pasalamatan at purihin ang Diyos sa pagliligtas sa kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith leads the people in thanksgiving for God's victory over their oppressors (Judith 16).",
+          "fil": "Pinangunahan ni Judith ang bayan sa pasasalamat sa tagumpay ng Diyos laban sa mga umapi sa kanila (Judith 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Judith do with the belongings of Holofernes given to her?",
+          "fil": "Ano ang ginawa ni Judith sa mga gamit ni Holofernes na ibinigay sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Sends them as tribute to Nineveh",
+            "Uses them to build an idol's shrine",
+            "Dedicates them to the Lord in Jerusalem"
+          ],
+          "fil": [
+            "Ipinadala ang mga ito bilang buwis sa Nineve",
+            "Ginamit ang mga ito sa pagtatayo ng dambana ng diyus-diyusan",
+            "Inialay ang mga ito sa Panginoon sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judith offers the captured belongings, including the canopy, to God (Judith 16).",
+          "fil": "Inialay ni Judith sa Diyos ang mga nakuhang gamit, kasama ang kulandong (Judith 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the closing account say about Israel during Judith's remaining life?",
+          "fil": "Ano ang sinabi ng huling salaysay tungkol sa Israel sa nalalabing buhay ni Judith?"
+        },
+        "options": {
+          "en": [
+            "No enemy again terrifies the people during her lifetime",
+            "Judith becomes ruler of Nineveh",
+            "Bethulia is conquered the next morning"
+          ],
+          "fil": [
+            "Walang kaaway na muling nanakot sa bayan sa kanyang buhay",
+            "Naging pinuno ng Nineve si Judith",
+            "Nasakop ang Betulia kinaumagahan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The book closes with a period of security lasting through Judith's life and beyond (Judith 16).",
+          "fil": "Nagtapos ang aklat sa panahon ng katiwasayang nagtagal sa buhay ni Judith at pagkatapos nito (Judith 16)."
+        }
+      }
+    ]
+  }
+}
