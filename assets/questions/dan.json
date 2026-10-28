@@ -1,0 +1,1182 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Why does Daniel ask not to eat the king's food and wine?",
+          "fil": "Bakit hiniling ni Daniel na huwag kainin at inumin ang pagkain at alak ng hari?"
+        },
+        "options": {
+          "en": [
+            "He wants to become king immediately",
+            "He does not want to defile himself",
+            "He believes the king owns no food"
+          ],
+          "fil": [
+            "Gusto niyang maging hari agad",
+            "Ayaw niyang madungisan ang sarili",
+            "Naniniwala siyang walang pagkain ang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Daniel's decision expresses faithfulness while living in a foreign court (Daniel 1).",
+          "fil": "Ipinahayag ng pasya ni Daniel ang katapatan habang naninirahan sa palasyo ng dayuhan (Daniel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What food and drink does Daniel request for the trial?",
+          "fil": "Anong pagkain at inumin ang hiniling ni Daniel para sa pagsubok?"
+        },
+        "options": {
+          "en": [
+            "Rich meat and more wine",
+            "Vegetables and water",
+            "Only honey and oil"
+          ],
+          "fil": [
+            "Marangyang karne at mas maraming alak",
+            "Mga gulay at tubig",
+            "Pulot at langis lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The requested diet offers a simple alternative to the royal provisions (Daniel 1).",
+          "fil": "Nagbigay ng simpleng kapalit sa pagkain ng hari ang hiniling na pagkain (Daniel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Daniel and his companions look after the trial?",
+          "fil": "Ano ang hitsura ni Daniel at ng kanyang mga kasama matapos ang pagsubok?"
+        },
+        "options": {
+          "en": [
+            "Exactly like stone statues",
+            "Too weak to stand",
+            "Healthier than those eating the royal food"
+          ],
+          "fil": [
+            "Katulad na katulad ng mga rebultong bato",
+            "Napakahina upang makatayo",
+            "Mas malusog kaysa sa kumakain ng pagkain ng hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their healthy appearance persuades the guard to continue their diet (Daniel 1).",
+          "fil": "Nahikayat ng malusog nilang anyo ang bantay na ipagpatuloy ang kanilang pagkain (Daniel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who gives the young men knowledge and understanding?",
+          "fil": "Sino ang nagbigay sa mga binata ng kaalaman at pang-unawa?"
+        },
+        "options": {
+          "en": [
+            "God",
+            "Baal",
+            "A golden statue"
+          ],
+          "fil": [
+            "Ang Diyos",
+            "Si Baal",
+            "Isang gintong rebulto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their wisdom in the king's service is presented as God's gift (Daniel 1).",
+          "fil": "Iniharap ang kanilang karunungan sa paglilingkod sa hari bilang kaloob ng Diyos (Daniel 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What difficult demand does the king make about his dream?",
+          "fil": "Anong mahirap na kahilingan ang ibinigay ng hari tungkol sa kanyang panaginip?"
+        },
+        "options": {
+          "en": [
+            "Tell him both the dream and its meaning",
+            "Build a ship that can sail through heaven",
+            "Turn his palace into bread"
+          ],
+          "fil": [
+            "Sabihin sa kanya kapwa ang panaginip at kahulugan nito",
+            "Gumawa ng barkong makapaglalayag sa langit",
+            "Gawing tinapay ang kanyang palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The demand exposes the limits of the royal advisers (Daniel 2).",
+          "fil": "Inilantad ng kahilingan ang hangganan ng kakayahan ng mga tagapayo ng hari (Daniel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Daniel receive knowledge of the mystery?",
+          "fil": "Paano nalaman ni Daniel ang hiwaga?"
+        },
+        "options": {
+          "en": [
+            "He steals a written answer from an idol",
+            "God reveals it after Daniel and his friends seek mercy in prayer",
+            "The king tells him every detail secretly"
+          ],
+          "fil": [
+            "Ninakaw niya ang nakasulat na sagot mula sa diyus-diyosan",
+            "Inihayag ito ng Diyos matapos humingi ng awa sa panalangin si Daniel at ang kanyang mga kaibigan",
+            "Lihim na sinabi sa kanya ng hari ang bawat detalye"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Daniel credits the God who reveals mysteries (Daniel 2).",
+          "fil": "Kinilala ni Daniel ang Diyos na naghahayag ng mga hiwaga (Daniel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What main object appears in the king's dream?",
+          "fil": "Anong pangunahing bagay ang lumitaw sa panaginip ng hari?"
+        },
+        "options": {
+          "en": [
+            "A basket of ripe fruit",
+            "A great statue made of different materials",
+            "A burning scroll over Nineveh"
+          ],
+          "fil": [
+            "Basket ng hinog na bunga",
+            "Malaking rebultong gawa sa iba't ibang sangkap",
+            "Nasusunog na balumbon sa ibabaw ng Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The statue pictures a succession of earthly kingdoms (Daniel 2).",
+          "fil": "Inilarawan ng rebulto ang sunud-sunod na kahariang makalupa (Daniel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the stone that destroys the statue point to in Daniel's explanation?",
+          "fil": "Ano ang tinutukoy ng batong sumira sa rebulto ayon sa paliwanag ni Daniel?"
+        },
+        "options": {
+          "en": [
+            "The complete defeat of God's authority",
+            "The eternal rule of handmade idols",
+            "A lasting kingdom established by God"
+          ],
+          "fil": [
+            "Ang ganap na pagkatalo ng kapangyarihan ng Diyos",
+            "Ang walang hanggang paghahari ng mga diyus-diyosang gawa ng kamay",
+            "Pangmatagalang kahariang itinatag ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's kingdom outlasts the human powers represented by the statue (Daniel 2).",
+          "fil": "Mas magtatagal ang kaharian ng Diyos kaysa sa mga kapangyarihan ng taong kinakatawan ng rebulto (Daniel 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Why are Daniel's companions thrown into the furnace?",
+          "fil": "Bakit inihagis sa pugon ang mga kasama ni Daniel?"
+        },
+        "options": {
+          "en": [
+            "They have stolen the king's crown",
+            "They have attacked the palace guards",
+            "They refuse to worship the king's golden statue"
+          ],
+          "fil": [
+            "Ninakaw nila ang korona ng hari",
+            "Sinalakay nila ang mga bantay ng palasyo",
+            "Tumanggi silang sumamba sa gintong rebulto ng hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their loyalty to God remains firm under the threat of punishment (Daniel 3).",
+          "fil": "Nanatiling matatag ang kanilang katapatan sa Diyos sa banta ng parusa (Daniel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Azariah's prayer emphasize while he is in the fire?",
+          "fil": "Ano ang binigyang-diin ng panalangin ni Azarias habang nasa apoy?"
+        },
+        "options": {
+          "en": [
+            "A claim that Israel has never sinned",
+            "Praise for the golden statue's power",
+            "Confession of sin and an appeal to God's mercy"
+          ],
+          "fil": [
+            "Pahayag na hindi kailanman nagkasala ang Israel",
+            "Papuri sa kapangyarihan ng gintong rebulto",
+            "Pag-amin ng kasalanan at paghingi ng awa ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Azariah asks God to receive humble hearts and remember his covenant (Daniel 3).",
+          "fil": "Hiniling ni Azarias na tanggapin ng Diyos ang mapagpakumbabang puso at alalahanin ang kanyang tipan (Daniel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the song of the three companions invite creation to do?",
+          "fil": "Ano ang inanyayahan ng awit ng tatlong magkakasama na gawin ng sangnilikha?"
+        },
+        "options": {
+          "en": [
+            "Join in praising God",
+            "Bow to Babylon's statue",
+            "Forget the Lord's goodness"
+          ],
+          "fil": [
+            "Makibahagi sa pagpuri sa Diyos",
+            "Yumuko sa rebulto ng Babilonia",
+            "Kalimutan ang kabutihan ng Panginoon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song extends praise across the whole created world (Daniel 3).",
+          "fil": "Pinaabot ng awit ang papuri sa buong daigdig na nilikha (Daniel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the companions protected in the furnace?",
+          "fil": "Paano iningatan ang magkakasama sa pugon?"
+        },
+        "options": {
+          "en": [
+            "They buy protection from the flames",
+            "They replace God with an idol",
+            "God sends his angel and the fire does not harm them"
+          ],
+          "fil": [
+            "Binili nila ang proteksiyon mula sa apoy",
+            "Pinalitan nila ang Diyos ng diyus-diyosan",
+            "Isinugo ng Diyos ang kanyang anghel at hindi sila napinsala ng apoy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their deliverance leads the king to acknowledge God's saving power (Daniel 3).",
+          "fil": "Inakay ng pagliligtas sa kanila ang hari na kilalanin ang nagliligtas na kapangyarihan ng Diyos (Daniel 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What does the great tree in Nebuchadnezzar's dream provide?",
+          "fil": "Ano ang ibinibigay ng malaking puno sa panaginip ni Nebucadnezar?"
+        },
+        "options": {
+          "en": [
+            "Food and shelter for living creatures",
+            "A staircase for idols to reach heaven",
+            "A hiding place for the sun"
+          ],
+          "fil": [
+            "Pagkain at kanlungan para sa mga nilalang",
+            "Hagdan para makarating sa langit ang mga diyus-diyosan",
+            "Taguan para sa araw"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vast tree portrays the reach of the king's power (Daniel 4).",
+          "fil": "Inilarawan ng napakalaking puno ang lawak ng kapangyarihan ng hari (Daniel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Daniel give about the tree being cut down?",
+          "fil": "Anong babala ang ibinigay ni Daniel tungkol sa pagputol sa puno?"
+        },
+        "options": {
+          "en": [
+            "The king will be humbled until he recognizes God's rule",
+            "The king will create a new earth",
+            "God will lose his authority to Babylon"
+          ],
+          "fil": [
+            "Ibababa ang hari hanggang kilalanin niya ang paghahari ng Diyos",
+            "Lilikha ang hari ng bagong daigdig",
+            "Mawawala sa Diyos ang kanyang kapangyarihan at mapupunta sa Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The dream warns the king against pride in his own greatness (Daniel 4).",
+          "fil": "Nagbabala ang panaginip sa hari laban sa pagmamalaki sa sariling kadakilaan (Daniel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens after the king boasts about Babylon?",
+          "fil": "Ano ang nangyari matapos ipagmalaki ng hari ang Babilonia?"
+        },
+        "options": {
+          "en": [
+            "He is driven from people and lives like an animal",
+            "He receives a throne above God",
+            "He turns every poor person into gold"
+          ],
+          "fil": [
+            "Inilayo siya sa mga tao at namuhay na tulad ng hayop",
+            "Tumanggap siya ng tronong nasa ibabaw ng Diyos",
+            "Ginawa niyang ginto ang bawat mahirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king's humiliation fulfills the warning he received (Daniel 4).",
+          "fil": "Tinupad ng pagbaba sa hari ang babalang natanggap niya (Daniel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the king do when his understanding returns?",
+          "fil": "Ano ang ginawa ng hari nang bumalik ang kanyang pang-unawa?"
+        },
+        "options": {
+          "en": [
+            "He orders everyone to worship his hair",
+            "He declares that he created heaven",
+            "He praises and honors the Most High"
+          ],
+          "fil": [
+            "Inutusan niyang sambahin ng lahat ang kanyang buhok",
+            "Ipinahayag niyang siya ang lumikha ng langit",
+            "Pinuri at pinarangalan niya ang Kataas-taasan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The restored king acknowledges God's lasting authority (Daniel 4).",
+          "fil": "Kinilala ng naibalik na hari ang pangmatagalang kapangyarihan ng Diyos (Daniel 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What sacred objects does Belshazzar misuse during his feast?",
+          "fil": "Anong mga sagradong bagay ang maling ginamit ni Belsazar sa kanyang piging?"
+        },
+        "options": {
+          "en": [
+            "The stones David used against Goliath",
+            "Noah's wooden tools",
+            "Vessels taken from Jerusalem's temple"
+          ],
+          "fil": [
+            "Mga batong ginamit ni David laban kay Goliat",
+            "Mga kasangkapang kahoy ni Noe",
+            "Mga sisidlang kinuha mula sa Templo sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The feast dishonors God by using the temple vessels while praising idols (Daniel 5).",
+          "fil": "Nilapastangan ng piging ang Diyos sa paggamit ng mga sisidlan ng Templo habang pinupuri ang mga diyus-diyosan (Daniel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What interrupts the feast and frightens the king?",
+          "fil": "Ano ang pumigil sa piging at nagpatakot sa hari?"
+        },
+        "options": {
+          "en": [
+            "A dove carrying an olive leaf",
+            "A tree growing through the roof",
+            "A hand writing on the wall"
+          ],
+          "fil": [
+            "Isang kalapating may dalang dahon ng olibo",
+            "Isang punong tumutubo sa bubong",
+            "Isang kamay na sumusulat sa pader"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The mysterious writing confronts the king in the midst of his celebration (Daniel 5).",
+          "fil": "Hinarap ng mahiwagang sulat ang hari sa gitna ng kanyang pagdiriwang (Daniel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the central warning in Daniel's reading of the writing?",
+          "fil": "Ano ang pangunahing babala sa pagbasa ni Daniel sa sulat?"
+        },
+        "options": {
+          "en": [
+            "The idols have created a new kingdom for him",
+            "The king has failed God's judgment and his kingdom will be taken away",
+            "The king will rule every nation forever"
+          ],
+          "fil": [
+            "Lumikha ang mga diyus-diyosan ng bagong kaharian para sa kanya",
+            "Nabigo ang hari sa hatol ng Diyos at kukunin ang kanyang kaharian",
+            "Maghahari ang hari sa bawat bansa magpakailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The message announces the end of the king's arrogant rule (Daniel 5).",
+          "fil": "Ipinahayag ng mensahe ang wakas ng mapagmataas na pamamahala ng hari (Daniel 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Belshazzar that night?",
+          "fil": "Ano ang nangyari kay Belsazar nang gabing iyon?"
+        },
+        "options": {
+          "en": [
+            "He escapes with Daniel to Egypt",
+            "He is killed",
+            "He becomes high priest in Jerusalem"
+          ],
+          "fil": [
+            "Tumakas siya kasama ni Daniel patungong Egipto",
+            "Pinatay siya",
+            "Naging pinakapunong pari siya sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The king's death follows the warning written on the wall (Daniel 5).",
+          "fil": "Sumunod sa babalang nakasulat sa pader ang pagkamatay ng hari (Daniel 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What law do Daniel's opponents persuade the king to issue?",
+          "fil": "Anong kautusan ang hinikayat ng mga kalaban ni Daniel na ipalabas ng hari?"
+        },
+        "options": {
+          "en": [
+            "For a limited time, petitions may be made only to the king",
+            "Everyone must pray toward Jerusalem",
+            "No one may accuse an honest official"
+          ],
+          "fil": [
+            "Sa takdang panahon, sa hari lamang maaaring manalangin o humiling",
+            "Dapat manalangin ang lahat patungo sa Jerusalem",
+            "Walang maaaring magparatang sa tapat na pinuno"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The decree is designed to trap Daniel through his devotion to God (Daniel 6).",
+          "fil": "Ginawa ang kautusan upang mabitag si Daniel sa pamamagitan ng kanyang debosyon sa Diyos (Daniel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Daniel do after learning about the decree?",
+          "fil": "Ano ang ginawa ni Daniel matapos malaman ang kautusan?"
+        },
+        "options": {
+          "en": [
+            "He destroys the king's palace",
+            "He begins worshiping the king",
+            "He continues praying to God with his windows toward Jerusalem"
+          ],
+          "fil": [
+            "Winasak niya ang palasyo ng hari",
+            "Nagsimula siyang sumamba sa hari",
+            "Nagpatuloy siyang manalangin sa Diyos nang nakaharap ang mga bintana sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Daniel maintains his practice of prayer despite the danger (Daniel 6).",
+          "fil": "Ipinagpatuloy ni Daniel ang kanyang pananalangin sa kabila ng panganib (Daniel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can the king not simply cancel Daniel's punishment?",
+          "fil": "Bakit hindi basta makansela ng hari ang parusa kay Daniel?"
+        },
+        "options": {
+          "en": [
+            "Daniel has become king already",
+            "The lions have signed a new treaty",
+            "The law he signed is treated as unchangeable"
+          ],
+          "fil": [
+            "Naging hari na si Daniel",
+            "Lumagda ng bagong kasunduan ang mga leon",
+            "Itinuring na hindi mababago ang kautusang pinirmahan niya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king is caught by the decree he has approved (Daniel 6).",
+          "fil": "Nabihag ang hari ng kautusang inaprubahan niya (Daniel 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Daniel survive among the lions?",
+          "fil": "Paano nakaligtas si Daniel sa mga leon?"
+        },
+        "options": {
+          "en": [
+            "God sends an angel to shut their mouths",
+            "He worships the king as a god",
+            "He turns the lions into statues himself"
+          ],
+          "fil": [
+            "Nagpadala ang Diyos ng anghel upang isara ang kanilang mga bibig",
+            "Sinamba niya ang hari bilang diyos",
+            "Siya mismo ang gumawa sa mga leon bilang mga rebulto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Daniel credits God with protecting him from the lions (Daniel 6).",
+          "fil": "Kinilala ni Daniel ang Diyos na nag-ingat sa kanya laban sa mga leon (Daniel 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What rises out of the sea in Daniel's night vision?",
+          "fil": "Ano ang umahon mula sa dagat sa pangitain ni Daniel sa gabi?"
+        },
+        "options": {
+          "en": [
+            "The ark of Noah with his family",
+            "A basket of summer fruit",
+            "Great beasts representing kingdoms"
+          ],
+          "fil": [
+            "Ang arka ni Noe kasama ang kanyang pamilya",
+            "Basket ng bunga sa tag-araw",
+            "Malalaking halimaw na kumakatawan sa mga kaharian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The beasts portray frightening earthly powers (Daniel 7).",
+          "fil": "Inilarawan ng mga halimaw ang nakatatakot na kapangyarihang makalupa (Daniel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What scene contrasts with the violence of the beasts?",
+          "fil": "Anong tagpo ang kabaligtaran ng karahasan ng mga halimaw?"
+        },
+        "options": {
+          "en": [
+            "A heavenly court sits in judgment before the Ancient One",
+            "The beasts receive permission to rule above God",
+            "Every idol creates its own heaven"
+          ],
+          "fil": [
+            "Naupo ang hukumang makalangit upang humatol sa harap ng Nabubuhay Magpakailanpaman",
+            "Tumanggap ang mga halimaw ng pahintulot na maghari sa ibabaw ng Diyos",
+            "Lumikha ang bawat diyus-diyosan ng sarili nitong langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The heavenly court places violent kingdoms under divine judgment (Daniel 7).",
+          "fil": "Inilagay ng hukumang makalangit ang mararahas na kaharian sa ilalim ng hatol ng Diyos (Daniel 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is given to the humanlike figure who comes with the clouds?",
+          "fil": "Ano ang ibinigay sa kahawig ng taong dumating kasama ng mga ulap?"
+        },
+        "options": {
+          "en": [
+            "A command to serve the beasts forever",
+            "A broken ship and an empty net",
+            "Lasting dominion and a kingdom that will not be destroyed"
+          ],
+          "fil": [
+            "Utos na maglingkod sa mga halimaw magpakailanman",
+            "Sirang barko at lambat na walang laman",
+            "Pangmatagalang pamamahala at kahariang hindi mawawasak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision contrasts enduring rule with the passing power of the beasts (Daniel 7).",
+          "fil": "Inihambing ng pangitain ang nagtatagal na pamamahala sa lumilipas na kapangyarihan ng mga halimaw (Daniel 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Which animals clash in this vision?",
+          "fil": "Anong mga hayop ang naglaban sa pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "A camel and a donkey",
+            "A fish and a dove",
+            "A ram and a male goat"
+          ],
+          "fil": [
+            "Isang kamelyo at asno",
+            "Isang isda at kalapati",
+            "Isang lalaking tupa at lalaking kambing"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The clash of the animals is the vision's main image of competing powers (Daniel 8).",
+          "fil": "Pangunahing larawan ng naglalabang kapangyarihan sa pangitain ang labanan ng mga hayop (Daniel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the goat's great horn when it is strongest?",
+          "fil": "Ano ang nangyari sa malaking sungay ng kambing nang pinakamalakas na ito?"
+        },
+        "options": {
+          "en": [
+            "It becomes a boat for Daniel",
+            "It is broken and other horns rise in its place",
+            "It turns into the sun"
+          ],
+          "fil": [
+            "Naging bangka ito para kay Daniel",
+            "Nabali ito at may ibang mga sungay na pumalit",
+            "Naging araw ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The broken horn pictures the disruption of a great power (Daniel 8).",
+          "fil": "Inilarawan ng nabaling sungay ang pagkagambala sa isang dakilang kapangyarihan (Daniel 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the growing horn attack besides the people?",
+          "fil": "Ano ang sinalakay ng lumalaking sungay bukod sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "Only abandoned fishing nets",
+            "The sanctuary and its regular worship",
+            "A garden belonging to Jonah"
+          ],
+          "fil": [
+            "Mga iniwang lambat lamang",
+            "Ang santuwaryo at regular na pagsamba rito",
+            "Harding pag-aari ni Jonas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision includes an assault on worship and truth (Daniel 8).",
+          "fil": "Kasama sa pangitain ang pagsalakay sa pagsamba at katotohanan (Daniel 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "How does Daniel approach God in his long prayer?",
+          "fil": "Paano lumapit si Daniel sa Diyos sa kanyang mahabang panalangin?"
+        },
+        "options": {
+          "en": [
+            "By claiming his nation has never disobeyed",
+            "By demanding a reward for his own power",
+            "By confessing his people's sins and seeking mercy"
+          ],
+          "fil": [
+            "Sa pagsasabing hindi kailanman sumuway ang kanyang bansa",
+            "Sa paghingi ng gantimpala para sa sarili niyang kapangyarihan",
+            "Sa pag-amin sa kasalanan ng kanyang bayan at paghingi ng awa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer identifies Daniel with a people in need of forgiveness (Daniel 9).",
+          "fil": "Iniugnay ng panalangin si Daniel sa bayang nangangailangan ng kapatawaran (Daniel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "For what place does Daniel especially ask God's restoring favor?",
+          "fil": "Para sa anong lugar natatanging hiniling ni Daniel ang nagpapanumbalik na kagandahang-loob ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's royal tomb",
+            "Jerusalem and its desolate sanctuary",
+            "A new temple for Baal in Rome"
+          ],
+          "fil": [
+            "Ang libingan ng hari na si Faraon",
+            "Ang Jerusalem at ang tiwangwang nitong santuwaryo",
+            "Bagong templo para kay Baal sa Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Daniel pleads for restoration for the sake of God's name (Daniel 9).",
+          "fil": "Nakiusap si Daniel ng pagpapanumbalik alang-alang sa pangalan ng Diyos (Daniel 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who comes to give Daniel understanding while he is praying?",
+          "fil": "Sino ang dumating upang bigyan si Daniel ng pang-unawa habang nananalangin siya?"
+        },
+        "options": {
+          "en": [
+            "Goliath",
+            "Belshazzar",
+            "Gabriel"
+          ],
+          "fil": [
+            "Si Goliat",
+            "Si Belsazar",
+            "Si Gabriel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Gabriel's arrival connects the message with Daniel's prayer (Daniel 9).",
+          "fil": "Iniugnay ng pagdating ni Gabriel ang mensahe sa panalangin ni Daniel (Daniel 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What striking figure does Daniel see by the river?",
+          "fil": "Anong kapansin-pansing nilalang ang nakita ni Daniel sa tabi ng ilog?"
+        },
+        "options": {
+          "en": [
+            "A man clothed in linen with a radiant appearance",
+            "A fisherman selling idols",
+            "A golden calf eating grass"
+          ],
+          "fil": [
+            "Lalaking nakasuot ng lino na may maningning na anyo",
+            "Mangingisdang nagtitinda ng diyus-diyosan",
+            "Gintong guyang kumakain ng damo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The radiant figure overwhelms Daniel in the vision (Daniel 10).",
+          "fil": "Nanghina si Daniel sa pangitain ng maningning na nilalang (Daniel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Daniel when he receives the vision?",
+          "fil": "Ano ang nangyari kay Daniel nang matanggap niya ang pangitain?"
+        },
+        "options": {
+          "en": [
+            "He loses strength and must be strengthened",
+            "He becomes proud of his physical power",
+            "He immediately crowns himself king"
+          ],
+          "fil": [
+            "Nawalan siya ng lakas at kailangang palakasin",
+            "Ipinagmalaki niya ang kanyang pisikal na lakas",
+            "Agad niyang kinoronahan ang sarili bilang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The messenger's touch and words help Daniel stand and listen (Daniel 10).",
+          "fil": "Tinulungan ng paghipo at mga salita ng sugo si Daniel na tumayo at makinig (Daniel 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance is Daniel given about his prayer?",
+          "fil": "Anong katiyakan ang ibinigay kay Daniel tungkol sa kanyang panalangin?"
+        },
+        "options": {
+          "en": [
+            "God has never heard any of his words",
+            "His humble appeal was heard from the first day",
+            "He must worship Persia to be heard"
+          ],
+          "fil": [
+            "Hindi kailanman narinig ng Diyos ang alinman sa kanyang mga salita",
+            "Narinig ang mapagpakumbaba niyang pakiusap mula sa unang araw",
+            "Dapat siyang sumamba sa Persia upang marinig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The message assures Daniel that his seeking of God has not been ignored (Daniel 10).",
+          "fil": "Tiniyak ng mensahe kay Daniel na hindi binalewala ang paghahanap niya sa Diyos (Daniel 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What conflict occupies much of this chapter's vision?",
+          "fil": "Anong labanan ang sumasaklaw sa malaking bahagi ng pangitain sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Struggles between kings of the north and south",
+            "A contest between Jonah and a fish",
+            "A quarrel about Noah's vineyard"
+          ],
+          "fil": [
+            "Mga labanan ng mga hari ng hilaga at timog",
+            "Paligsahan ni Jonas at ng isda",
+            "Away tungkol sa ubasan ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision portrays changing rulers, alliances, and wars (Daniel 11).",
+          "fil": "Inilarawan ng pangitain ang nagbabagong pinuno, alyansa, at digmaan (Daniel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the sanctuary during the oppression described?",
+          "fil": "Ano ang nangyari sa santuwaryo sa inilarawang pang-aapi?"
+        },
+        "options": {
+          "en": [
+            "It is carried to heaven by ordinary soldiers",
+            "It becomes a place where no wrong can ever happen",
+            "It is profaned and its regular offering is stopped"
+          ],
+          "fil": [
+            "Dinala ito sa langit ng karaniwang mga sundalo",
+            "Naging lugar itong hindi kailanman maaaring magkaroon ng mali",
+            "Nilapastangan ito at itinigil ang regular na handog nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The conflict includes an attack on the people's worship (Daniel 11).",
+          "fil": "Kasama sa labanan ang pagsalakay sa pagsamba ng bayan (Daniel 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the people who know their God described under pressure?",
+          "fil": "Paano inilarawan ang mga kumikilala sa kanilang Diyos sa ilalim ng panggigipit?"
+        },
+        "options": {
+          "en": [
+            "They all gladly abandon their covenant",
+            "They stand firm and act courageously",
+            "They depend on idols to create justice"
+          ],
+          "fil": [
+            "Masaya nilang tinalikuran lahat ang kanilang tipan",
+            "Nanindigan sila at kumilos nang may tapang",
+            "Umasa sila sa mga diyus-diyosan upang lumikha ng katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision honors faithfulness despite intimidation and suffering (Daniel 11).",
+          "fil": "Pinarangalan ng pangitain ang katapatan sa kabila ng pananakot at pagdurusa (Daniel 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Who is named as the great protector associated with Daniel's people?",
+          "fil": "Sino ang pinangalanang dakilang tagapagtanggol na kaugnay ng bayan ni Daniel?"
+        },
+        "options": {
+          "en": [
+            "Nebuchadnezzar",
+            "Pharaoh",
+            "Michael"
+          ],
+          "fil": [
+            "Si Nebucadnezar",
+            "Si Faraon",
+            "Si Miguel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening promise places the people under heavenly protection amid distress (Daniel 12).",
+          "fil": "Inilagay ng pambungad na pangako ang bayan sa ilalim ng makalangit na proteksiyon sa gitna ng paghihirap (Daniel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope is pictured for many who sleep in the dust?",
+          "fil": "Anong pag-asa ang inilarawan para sa maraming natutulog sa alabok?"
+        },
+        "options": {
+          "en": [
+            "They will awaken, with life and judgment beyond death",
+            "They will all become earthly kings at once",
+            "They will create new gods from the dust"
+          ],
+          "fil": [
+            "Magigising sila, na may buhay at paghatol sa kabila ng kamatayan",
+            "Sabay-sabay silang magiging hari sa lupa",
+            "Lilikha sila ng mga bagong diyos mula sa alabok"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The awakening image reaches beyond present suffering and death (Daniel 12).",
+          "fil": "Lumampas sa kasalukuyang pagdurusa at kamatayan ang larawan ng paggising (Daniel 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the wise who lead others toward righteousness compared to?",
+          "fil": "Saan inihambing ang marurunong na umaakay sa iba sa katuwiran?"
+        },
+        "options": {
+          "en": [
+            "The brightness of the sky and stars",
+            "An idol covered with dust",
+            "A broken pot thrown away"
+          ],
+          "fil": [
+            "Ang ningning ng langit at mga bituin",
+            "Diyus-diyosang nababalot ng alikabok",
+            "Sirang palayok na itinapon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The shining image honors those whose wisdom guides others rightly (Daniel 12).",
+          "fil": "Pinarangalan ng maningning na larawan ang mga gumagabay sa iba nang matuwid sa kanilang karunungan (Daniel 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Who brings a false accusation against Susanna?",
+          "fil": "Sino ang nagdala ng maling paratang laban kay Susana?"
+        },
+        "options": {
+          "en": [
+            "The prophet Haggai",
+            "Elders serving as judges",
+            "Her faithful children"
+          ],
+          "fil": [
+            "Ang propetang si Hagai",
+            "Mga matatandang naglilingkod bilang hukom",
+            "Ang tapat niyang mga anak"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The story exposes corruption in those entrusted with justice (Daniel 13).",
+          "fil": "Inilantad ng kuwento ang katiwalian ng mga pinagkatiwalaan ng katarungan (Daniel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Susanna choose when the elders threaten her?",
+          "fil": "Ano ang pinili ni Susana nang pagbantaan siya ng mga matatanda?"
+        },
+        "options": {
+          "en": [
+            "Ask them to build her an idol",
+            "Refuse their wrongdoing and trust God despite the danger",
+            "Agree to their demands in order to harm her family"
+          ],
+          "fil": [
+            "Hilinging gumawa sila ng diyus-diyosan para sa kanya",
+            "Tanggihan ang kanilang kasamaan at magtiwala sa Diyos sa kabila ng panganib",
+            "Pumayag sa kanilang hinihingi upang saktan ang kanyang pamilya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Susanna remains faithful rather than surrendering to coercion (Daniel 13).",
+          "fil": "Nanatiling tapat si Susana sa halip na sumuko sa pamimilit (Daniel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Daniel expose the false witnesses?",
+          "fil": "Paano inilantad ni Daniel ang mga bulaang saksi?"
+        },
+        "options": {
+          "en": [
+            "He asks a statue to decide the case",
+            "He questions them separately and their answers about the tree conflict",
+            "He accepts their age as proof of honesty"
+          ],
+          "fil": [
+            "Hiniling niya sa rebulto na magpasya sa usapin",
+            "Hiwalay niya silang tinanong at nagkasalungatan ang sagot nila tungkol sa puno",
+            "Tinanggap niya ang kanilang edad bilang patunay ng katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Separate questioning reveals that their testimony cannot be true (Daniel 13).",
+          "fil": "Ibinunyag ng hiwalay na pagtatanong na hindi maaaring totoo ang kanilang patotoo (Daniel 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Susanna when the false testimony is exposed?",
+          "fil": "Ano ang nangyari kay Susana nang malantad ang bulaang patotoo?"
+        },
+        "options": {
+          "en": [
+            "She is punished for telling the truth",
+            "She is sent to serve Bel's priests",
+            "She is recognized as innocent and saved from death"
+          ],
+          "fil": [
+            "Pinarusahan siya dahil nagsabi siya ng totoo",
+            "Ipinadala siya upang maglingkod sa mga pari ni Bel",
+            "Kinilala siyang walang sala at nailigtas sa kamatayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The assembly praises God for rescuing an innocent person (Daniel 13).",
+          "fil": "Pinuri ng kapulungan ang Diyos sa pagliligtas sa walang sala (Daniel 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Why does Daniel refuse to worship Bel?",
+          "fil": "Bakit tumanggi si Daniel na sambahin si Bel?"
+        },
+        "options": {
+          "en": [
+            "He wants the king to worship Daniel instead",
+            "He believes Bel has created heaven",
+            "He worships the living Creator rather than a handmade idol"
+          ],
+          "fil": [
+            "Gusto niyang sambahin ng hari si Daniel sa halip",
+            "Naniniwala siyang nilikha ni Bel ang langit",
+            "Sinasamba niya ang buhay na Lumikha sa halip na diyus-diyosang gawa ng kamay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Daniel distinguishes the living God from an image made of earthly materials (Daniel 14).",
+          "fil": "Ibinukod ni Daniel ang buhay na Diyos mula sa larawang gawa sa mga sangkap ng lupa (Daniel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who actually consumes the food left before Bel?",
+          "fil": "Sino talaga ang umuubos sa pagkaing iniiwan sa harap ni Bel?"
+        },
+        "options": {
+          "en": [
+            "The priests and their families",
+            "Angels sent to worship Bel",
+            "The idol itself"
+          ],
+          "fil": [
+            "Ang mga pari at kanilang mga pamilya",
+            "Mga anghel na isinugong sumamba kay Bel",
+            "Ang mismong diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The hidden entrance allows people to steal the food credited to the idol (Daniel 14).",
+          "fil": "Pinahintulutan ng lihim na pasukan ang mga taong nakawin ang pagkaing ipinalalagay na kinakain ng diyus-diyosan (Daniel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Daniel make the deception visible to the king?",
+          "fil": "Paano ginawang nakikita ni Daniel sa hari ang pandaraya?"
+        },
+        "options": {
+          "en": [
+            "He hides the temple under a cloth",
+            "He paints a picture of a flying chariot",
+            "Ashes on the floor reveal the visitors' footprints"
+          ],
+          "fil": [
+            "Itinago niya ang templo sa ilalim ng tela",
+            "Nagpinta siya ng lumilipad na karwahe",
+            "Ibinunyag ng abo sa sahig ang mga bakas ng paa ng mga dumadalaw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The footprints expose the human activity behind Bel's supposed eating (Daniel 14).",
+          "fil": "Inilantad ng mga bakas ng paa ang pagkilos ng tao sa likod ng diumano'y pagkain ni Bel (Daniel 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Daniel show that the dragon is not a god?",
+          "fil": "Paano ipinakita ni Daniel na hindi diyos ang dragon?"
+        },
+        "options": {
+          "en": [
+            "He asks it to create the sun",
+            "He feeds it prepared cakes and it dies",
+            "He defeats it by worshiping it"
+          ],
+          "fil": [
+            "Hiniling niyang likhain nito ang araw",
+            "Pinakain niya ito ng inihandang mga tinapay at namatay ito",
+            "Tinalo niya ito sa pamamagitan ng pagsamba rito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The dragon's death exposes the weakness of a creature revered as divine (Daniel 14).",
+          "fil": "Inilantad ng pagkamatay ng dragon ang kahinaan ng nilalang na sinasamba bilang diyos (Daniel 14)."
+        }
+      }
+    ]
+  }
+}
