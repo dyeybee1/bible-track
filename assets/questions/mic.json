@@ -1,0 +1,501 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which two cities are named in the vision's opening?",
+          "fil": "Anong dalawang lunsod ang pinangalanan sa simula ng pangitain?"
+        },
+        "options": {
+          "en": [
+            "Rome and Athens",
+            "Samaria and Jerusalem",
+            "Nineveh and Babylon"
+          ],
+          "fil": [
+            "Roma at Atenas",
+            "Samaria at Jerusalem",
+            "Nineve at Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The message addresses the centers of Israel and Judah (Micah 1).",
+          "fil": "Kinausap ng mensahe ang mga sentro ng Israel at Juda (Mikas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will happen to Samaria's carved images?",
+          "fil": "Ano ang mangyayari sa mga inukit na larawan ng Samaria?"
+        },
+        "options": {
+          "en": [
+            "They will receive God's throne",
+            "They will be broken and destroyed",
+            "They will save the city from judgment"
+          ],
+          "fil": [
+            "Tatanggapin ng mga ito ang trono ng Diyos",
+            "Babasagin at sisirain ang mga ito",
+            "Ililigtas ng mga ito ang lunsod sa hatol"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Judgment exposes the failure of Samaria's idols (Micah 1).",
+          "fil": "Inilantad ng hatol ang pagkabigo ng mga diyus-diyosan ng Samaria (Mikas 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Micah respond to the coming disaster?",
+          "fil": "Paano tumugon si Mikas sa darating na sakuna?"
+        },
+        "options": {
+          "en": [
+            "He mourns deeply",
+            "He treats it as a joke",
+            "He celebrates the suffering of children"
+          ],
+          "fil": [
+            "Labis siyang nagluksa",
+            "Itinuring niya itong biro",
+            "Ipinagdiwang niya ang paghihirap ng mga bata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prophet grieves as the calamity reaches Judah (Micah 1).",
+          "fil": "Nagluksa ang propeta habang umaabot sa Juda ang sakuna (Mikas 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What do powerful people seize from others?",
+          "fil": "Ano ang inagaw ng makapangyarihan mula sa iba?"
+        },
+        "options": {
+          "en": [
+            "Fields and houses",
+            "The sun and moon",
+            "Empty clouds"
+          ],
+          "fil": [
+            "Mga bukid at bahay",
+            "Ang araw at buwan",
+            "Mga ulap na walang laman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning condemns those who use power to steal another family's property (Micah 2).",
+          "fil": "Kinondena ng babala ang mga gumagamit ng kapangyarihan upang agawin ang ari-arian ng ibang pamilya (Mikas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "When do these wrongdoers plan the evil they carry out in the morning?",
+          "fil": "Kailan pinaplano ng mga gumagawa ng masama ang isinasagawa nila sa umaga?"
+        },
+        "options": {
+          "en": [
+            "Only after asking Micah's permission",
+            "Only during a foreign king's visit",
+            "While lying in bed at night"
+          ],
+          "fil": [
+            "Matapos lamang humingi ng pahintulot kay Mikas",
+            "Tuwing dumadalaw lamang ang haring dayuhan",
+            "Habang nakahiga sa gabi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their oppression is deliberate rather than accidental (Micah 2).",
+          "fil": "Sinadya ang kanilang pang-aapi at hindi aksidente (Mikas 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is described as being driven from pleasant homes?",
+          "fil": "Sino ang inilarawang pinalayas mula sa magagandang tahanan?"
+        },
+        "options": {
+          "en": [
+            "An invading Roman fleet",
+            "The king of Egypt alone",
+            "The women of God's people"
+          ],
+          "fil": [
+            "Isang sumasalakay na hukbong-dagat ng Roma",
+            "Ang hari lamang ng Egipto",
+            "Ang mga babae sa bayan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The accusation makes the human cost of oppression clear (Micah 2).",
+          "fil": "Nilinaw ng paratang ang pinsalang dinanas ng mga tao dahil sa pang-aapi (Mikas 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What is wrong with the leaders' decisions about justice?",
+          "fil": "Ano ang mali sa mga pasya ng mga pinuno tungkol sa katarungan?"
+        },
+        "options": {
+          "en": [
+            "They always protect the poor honestly",
+            "They accept bribes",
+            "They refuse all favoritism"
+          ],
+          "fil": [
+            "Lagi nilang tapat na ipinagtatanggol ang mahihirap",
+            "Tumatanggap sila ng suhol",
+            "Tinatanggihan nila ang lahat ng pagtatangi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Money has corrupted the leaders' duty to judge fairly (Micah 3).",
+          "fil": "Sinira ng pera ang tungkulin ng mga pinunong humatol nang patas (Mikas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What enables Micah to declare the people's wrongdoing?",
+          "fil": "Ano ang nagbigay kay Mikas ng kakayahang ipahayag ang kasamaan ng bayan?"
+        },
+        "options": {
+          "en": [
+            "A carved image from Samaria",
+            "A payment from false prophets",
+            "The power of the Lord's Spirit"
+          ],
+          "fil": [
+            "Inukit na larawan mula sa Samaria",
+            "Bayad mula sa mga bulaang propeta",
+            "Ang kapangyarihan ng Espiritu ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Micah contrasts God's empowering Spirit with corrupt prophetic service (Micah 3).",
+          "fil": "Inihambing ni Mikas ang nagpapalakas na Espiritu ng Diyos sa tiwaling paglilingkod ng mga propeta (Mikas 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will become of Zion because of this corruption?",
+          "fil": "Ano ang mangyayari sa Sion dahil sa katiwaliang ito?"
+        },
+        "options": {
+          "en": [
+            "It will become immune to all judgment",
+            "It will rule over God",
+            "It will become a plowed field and ruins"
+          ],
+          "fil": [
+            "Hindi na ito maaabot ng anumang hatol",
+            "Maghahari ito sa ibabaw ng Diyos",
+            "Magiging inararong bukid at mga guho ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Religious confidence cannot shield the city from the consequences of injustice (Micah 3).",
+          "fil": "Hindi maipagsasanggalang ng pagtitiwalang panrelihiyon ang lunsod mula sa bunga ng kawalang-katarungan (Mikas 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why do many nations come to the Lord's mountain?",
+          "fil": "Bakit dumating ang maraming bansa sa bundok ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "To learn God's ways",
+            "To choose a new idol for Israel",
+            "To steal God's throne"
+          ],
+          "fil": [
+            "Upang matutuhan ang mga daan ng Diyos",
+            "Upang pumili ng bagong diyus-diyosan para sa Israel",
+            "Upang nakawin ang trono ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision gathers peoples to receive God's instruction (Micah 4).",
+          "fil": "Tinipon ng pangitain ang mga bayan upang tumanggap ng turo ng Diyos (Mikas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to weapons in the vision of peace?",
+          "fil": "Ano ang nangyari sa mga sandata sa pangitain ng kapayapaan?"
+        },
+        "options": {
+          "en": [
+            "They are made into farming tools",
+            "They are worshiped as gods",
+            "They become even larger weapons"
+          ],
+          "fil": [
+            "Ginawang kagamitan sa pagsasaka ang mga ito",
+            "Sinamba ang mga ito bilang mga diyos",
+            "Naging mas malalaking sandata ang mga ito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The image turns instruments of war toward peaceful work (Micah 4).",
+          "fil": "Itinuon ng larawan ang mga kasangkapang pandigma sa mapayapang paggawa (Mikas 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does sitting under one's vine and fig tree picture?",
+          "fil": "Ano ang inilalarawan ng pag-upo sa ilalim ng sariling ubas at puno ng igos?"
+        },
+        "options": {
+          "en": [
+            "A city preparing to attack heaven",
+            "Secure life without fear",
+            "A command to stop caring for neighbors"
+          ],
+          "fil": [
+            "Lunsod na naghahandang salakayin ang langit",
+            "Ligtas na buhay na walang takot",
+            "Utos na tigilang malasakitan ang kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The peaceful household image shows the security God promises (Micah 4).",
+          "fil": "Ipinakita ng larawan ng mapayapang tahanan ang katiwasayang ipinangako ng Diyos (Mikas 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "From which small town is the coming ruler associated with Israel to arise?",
+          "fil": "Sa anong maliit na bayan magmumula ang darating na pinuno ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Sodom",
+            "Nineveh",
+            "Bethlehem"
+          ],
+          "fil": [
+            "Sodoma",
+            "Nineve",
+            "Betlehem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise names Bethlehem as the ruler's place of origin (Micah 5).",
+          "fil": "Pinangalanan ng pangako ang Betlehem bilang pinagmulan ng pinuno (Mikas 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How will this ruler care for the people?",
+          "fil": "Paano aalagaan ng pinunong ito ang bayan?"
+        },
+        "options": {
+          "en": [
+            "Like a thief taking every home",
+            "Like an idol unable to act",
+            "Like a shepherd acting in the Lord's strength"
+          ],
+          "fil": [
+            "Tulad ng magnanakaw na kumukuha ng bawat tahanan",
+            "Tulad ng diyus-diyosang hindi makakilos",
+            "Tulad ng pastol na kumikilos sa lakas ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ruler is pictured as a strong shepherd for the flock (Micah 5).",
+          "fil": "Inilarawan ang pinuno bilang malakas na pastol ng kawan (Mikas 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will the ruler bring to the people threatened by attack?",
+          "fil": "Ano ang dadalhin ng pinuno sa bayang pinagbabantaan ng pagsalakay?"
+        },
+        "options": {
+          "en": [
+            "Peace and security",
+            "A command to worship Assyria",
+            "Permanent abandonment"
+          ],
+          "fil": [
+            "Kapayapaan at katiwasayan",
+            "Utos na sambahin ang Asiria",
+            "Permanenteng pagpapabaya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promise joins the shepherd's rule with protection from danger (Micah 5).",
+          "fil": "Iniugnay ng pangako ang pamamahala ng pastol sa proteksiyon laban sa panganib (Mikas 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What are called to hear the Lord's case against his people?",
+          "fil": "Ano ang tinawag upang dinggin ang usapin ng Panginoon laban sa kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "The mountains and foundations of the earth",
+            "The royal guards of Rome",
+            "Only the fish in the sea"
+          ],
+          "fil": [
+            "Ang mga bundok at pundasyon ng daigdig",
+            "Ang mga bantay ng hari sa Roma",
+            "Ang mga isda lamang sa dagat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Creation is pictured as witnessing God's covenant complaint (Micah 6).",
+          "fil": "Inilarawan ang sangnilikha bilang saksi sa reklamo ng Diyos tungkol sa tipan (Mikas 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What past act of care does God remind the people about?",
+          "fil": "Anong nakaraang pagkalinga ang ipinaalala ng Diyos sa bayan?"
+        },
+        "options": {
+          "en": [
+            "He brought them out of slavery in Egypt",
+            "He commanded them to remain in Babylon forever",
+            "He made Pharaoh their eternal ruler"
+          ],
+          "fil": [
+            "Inilabas niya sila mula sa pagkaalipin sa Egipto",
+            "Inutusan niya silang manatili sa Babilonia magpakailanman",
+            "Ginawa niyang walang hanggang pinuno nila si Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The reminder of deliverance recalls God's faithful care (Micah 6).",
+          "fil": "Ipinaalala ng pagliligtas ang tapat na pagkalinga ng Diyos (Mikas 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of life does the Lord require beyond impressive offerings?",
+          "fil": "Anong uri ng buhay ang hinihingi ng Panginoon bukod sa kahanga-hangang mga handog?"
+        },
+        "options": {
+          "en": [
+            "Success gained through deception",
+            "Wealth without concern for others",
+            "Justice, kindness, and humble fellowship with God"
+          ],
+          "fil": [
+            "Tagumpay na nakamit sa pandaraya",
+            "Yamang walang malasakit sa iba",
+            "Katarungan, kabutihan, at mapagpakumbabang pakikisama sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's requirement centers on faithful conduct toward him and other people (Micah 6).",
+          "fil": "Nakasentro ang hinihingi ng Diyos sa tapat na asal sa kanya at sa kapwa (Mikas 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "When human relationships are full of betrayal, where does the speaker place hope?",
+          "fil": "Kapag puno ng pagtataksil ang ugnayan ng mga tao, saan inilalagay ng nagsasalita ang pag-asa?"
+        },
+        "options": {
+          "en": [
+            "In the strongest carved image",
+            "In bribing dishonest judges",
+            "In the God who saves and hears"
+          ],
+          "fil": [
+            "Sa pinakamalakas na inukit na larawan",
+            "Sa panunuhol sa di-tapat na hukom",
+            "Sa Diyos na nagliligtas at nakikinig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The confession turns toward God despite the surrounding corruption (Micah 7).",
+          "fil": "Bumaling sa Diyos ang paninindigan sa kabila ng nakapaligid na katiwalian (Mikas 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the prayer ask God to do for his people pictured as a flock?",
+          "fil": "Ano ang hiniling ng panalangin na gawin ng Diyos para sa kanyang bayang inilarawang kawan?"
+        },
+        "options": {
+          "en": [
+            "Teach them to prey on the weak",
+            "Sell them to their enemies",
+            "Shepherd and care for them"
+          ],
+          "fil": [
+            "Turuan silang pagsamantalahan ang mahihina",
+            "Ipagbili sila sa kanilang mga kaaway",
+            "Pastulan at alagaan sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The flock image expresses the people's need for God's guidance (Micah 7).",
+          "fil": "Ipinahayag ng larawan ng kawan ang pangangailangan ng bayan sa paggabay ng Diyos (Mikas 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does casting sins into the sea's depths picture?",
+          "fil": "Ano ang inilalarawan ng pagtatapon ng mga kasalanan sa kailaliman ng dagat?"
+        },
+        "options": {
+          "en": [
+            "God's compassionate forgiveness",
+            "Approval of continued cruelty",
+            "God's inability to remember his promises"
+          ],
+          "fil": [
+            "Ang mahabaging pagpapatawad ng Diyos",
+            "Pagsang-ayon sa patuloy na kalupitan",
+            "Ang kawalan ng kakayahan ng Diyos na alalahanin ang kanyang mga pangako"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing praise celebrates God's mercy and covenant faithfulness (Micah 7).",
+          "fil": "Ipinagdiwang ng pangwakas na papuri ang awa at katapatan ng Diyos sa tipan (Mikas 7)."
+        }
+      }
+    ]
+  }
+}
