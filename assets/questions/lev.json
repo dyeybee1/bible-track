@@ -1,0 +1,1921 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What offering is introduced in this chapter?",
+          "fil": "Anong handog ang ipinakilala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "An offering burned completely",
+            "A payment to a king",
+            "A gift to an idol"
+          ],
+          "fil": [
+            "Handog na sinusunog nang buo",
+            "Bayad sa isang hari",
+            "Regalo sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 1 introduces burnt offerings to the Lord.",
+          "fil": "Ipinakilala sa Levitico 1 ang mga handog na sinusunog nang buo para sa Panginoon."
+        }
+      },
+      {
+        "q": {
+          "en": "Who serves at the altar for these offerings?",
+          "fil": "Sino ang naglilingkod sa altar para sa mga handog na ito?"
+        },
+        "options": {
+          "en": [
+            "Aaron's sons, the priests",
+            "Foreign kings",
+            "Egyptian soldiers"
+          ],
+          "fil": [
+            "Mga anak ni Aaron na mga pari",
+            "Mga dayuhang hari",
+            "Mga kawal ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron's sons carry out the priestly duties at the altar (Leviticus 1).",
+          "fil": "Ginampanan ng mga anak ni Aaron ang tungkulin ng mga pari sa altar (Levitico 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the worshiper's offering intended to seek?",
+          "fil": "Ano ang layuning hangarin ng naghahandog?"
+        },
+        "options": {
+          "en": [
+            "A royal crown",
+            "Permission to steal",
+            "Acceptance before the Lord"
+          ],
+          "fil": [
+            "Korona ng hari",
+            "Pahintulot na magnakaw",
+            "Pagtanggap ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The offering is presented for acceptance and atonement before God (Leviticus 1).",
+          "fil": "Iniharap ang handog para sa pagtanggap at pagtubos sa kasalanan sa harap ng Diyos (Levitico 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What kind of offering is the main topic?",
+          "fil": "Anong uri ng handog ang pangunahing paksa?"
+        },
+        "options": {
+          "en": [
+            "Grain offerings",
+            "War trophies",
+            "Royal taxes"
+          ],
+          "fil": [
+            "Mga handog na pagkaing butil",
+            "Mga nasamsam sa digmaan",
+            "Mga buwis sa hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 2 describes grain offerings brought to the Lord.",
+          "fil": "Inilarawan sa Levitico 2 ang mga handog na pagkaing butil para sa Panginoon."
+        }
+      },
+      {
+        "q": {
+          "en": "Who receives the remaining portion after the memorial portion is burned?",
+          "fil": "Sino ang tumatanggap ng natira matapos sunugin ang bahaging pang-alaala?"
+        },
+        "options": {
+          "en": [
+            "Idol makers",
+            "Aaron and his sons",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Mga gumagawa ng diyus-diyosan",
+            "Si Aaron at ang kanyang mga anak",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The remaining grain offering belongs to Aaron and his sons as a holy portion (Leviticus 2).",
+          "fil": "Ang natirang handog na butil ay banal na bahagi para kay Aaron at sa kanyang mga anak (Levitico 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship is recalled by the salt required with offerings?",
+          "fil": "Anong ugnayan ang ipinapaalala ng asin na kailangan sa mga handog?"
+        },
+        "options": {
+          "en": [
+            "A bargain with idols",
+            "An alliance with Egypt",
+            "God's covenant with his people"
+          ],
+          "fil": [
+            "Kasunduan sa mga diyus-diyosan",
+            "Pakikipag-alyansa sa Egipto",
+            "Ang tipan ng Diyos sa kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The salt is linked to God's covenant rather than ordinary seasoning alone (Leviticus 2).",
+          "fil": "Iniugnay ang asin sa tipan ng Diyos at hindi lamang sa pagtimpla ng pagkain (Levitico 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What kind of sacrifice is described here?",
+          "fil": "Anong uri ng paghahandog ang inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "A tribute to Pharaoh",
+            "A sacrifice to the stars",
+            "A fellowship offering"
+          ],
+          "fil": [
+            "Buwis kay Faraon",
+            "Handog sa mga bituin",
+            "Handog para sa mabuting pagsasamahan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Leviticus 3 describes fellowship offerings presented to the Lord.",
+          "fil": "Inilarawan sa Levitico 3 ang mga handog para sa mabuting pagsasamahan sa Panginoon."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom are the choice fat portions dedicated?",
+          "fil": "Kanino inilaan ang piling mga bahaging taba?"
+        },
+        "options": {
+          "en": [
+            "The Lord",
+            "Foreign rulers",
+            "Traveling merchants"
+          ],
+          "fil": [
+            "Sa Panginoon",
+            "Sa mga dayuhang pinuno",
+            "Sa mga naglalakbay na mangangalakal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The fat portions are burned as an offering belonging to the Lord (Leviticus 3).",
+          "fil": "Sinunog ang mga bahaging taba bilang handog na para sa Panginoon (Levitico 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter forbid people to eat?",
+          "fil": "Ano ang ipinagbawal ng kabanata na kainin?"
+        },
+        "options": {
+          "en": [
+            "All vegetables",
+            "All bread and fruit",
+            "Fat and blood"
+          ],
+          "fil": [
+            "Lahat ng gulay",
+            "Lahat ng tinapay at prutas",
+            "Taba at dugo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter ends by reserving fat and blood from ordinary eating (Leviticus 3).",
+          "fil": "Nagtatapos ang kabanata sa pagbabawal sa pagkain ng taba at dugo (Levitico 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What situation calls for the offerings in this chapter?",
+          "fil": "Anong kalagayan ang nangangailangan ng mga handog sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Winning a race",
+            "Unintentional violations of God's commands",
+            "Choosing a new king"
+          ],
+          "fil": [
+            "Pagwawagi sa takbuhan",
+            "Di-sinasadyang paglabag sa mga utos ng Diyos",
+            "Pagpili ng bagong hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 4 concerns offerings for sins committed unintentionally.",
+          "fil": "Tungkol sa mga handog para sa di-sinasadyang kasalanan ang Levitico 4."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose unintentional sin can require an offering for the whole community?",
+          "fil": "Kaninong di-sinasadyang kasalanan ang maaaring mangailangan ng handog para sa buong pamayanan?"
+        },
+        "options": {
+          "en": [
+            "A foreign emperor's",
+            "An Egyptian merchant's",
+            "The anointed priest's"
+          ],
+          "fil": [
+            "Ng dayuhang emperador",
+            "Ng mangangalakal na taga-Egipto",
+            "Ng pinahirang pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter recognizes that the anointed priest's sin can bring guilt upon the people (Leviticus 4).",
+          "fil": "Kinikilala ng kabanata na maaaring magdulot ng pananagutan sa bayan ang kasalanan ng pinahirang pari (Levitico 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What outcome is promised after the prescribed atonement?",
+          "fil": "Anong bunga ang ipinangako matapos ang itinakdang pagtubos sa kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Permission to repeat the sin",
+            "Forgiveness",
+            "A throne"
+          ],
+          "fil": [
+            "Pahintulot na ulitin ang kasalanan",
+            "Kapatawaran",
+            "Isang trono"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priest makes atonement so that the sinner may be forgiven (Leviticus 4).",
+          "fil": "Isinasagawa ng pari ang pagtubos sa kasalanan upang mapatawad ang nagkasala (Levitico 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What should people do when they recognize guilt in the cases described?",
+          "fil": "Ano ang dapat gawin kapag nakilala ang pagkakasala sa mga kasong inilarawan?"
+        },
+        "options": {
+          "en": [
+            "Hide the wrongdoing",
+            "Blame a neighbor",
+            "Confess their sin"
+          ],
+          "fil": [
+            "Itago ang nagawang mali",
+            "Sisihin ang kapitbahay",
+            "Ipahayag ang kanilang kasalanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Acknowledging the sin is part of the response to guilt (Leviticus 5).",
+          "fil": "Bahagi ng pagtugon sa pagkakasala ang pag-amin sa nagawang mali (Levitico 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the offering rules take account of poverty?",
+          "fil": "Paano isinaalang-alang ng mga tuntunin sa handog ang kahirapan?"
+        },
+        "options": {
+          "en": [
+            "Poor people must buy land first",
+            "Less costly offerings are allowed",
+            "Only the rich may seek forgiveness"
+          ],
+          "fil": [
+            "Kailangang bumili muna ng lupa ang mahihirap",
+            "Pinahihintulutan ang mas murang handog",
+            "Mayayaman lamang ang maaaring humingi ng tawad"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter allows birds or flour when a person cannot afford a larger offering (Leviticus 5).",
+          "fil": "Pinahihintulutan ng kabanata ang mga ibon o harina kapag hindi kaya ang mas malaking handog (Levitico 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must accompany an offering when someone misuses holy things?",
+          "fil": "Ano ang kailangang kasama ng handog kapag may gumamit nang mali sa mga banal na bagay?"
+        },
+        "options": {
+          "en": [
+            "A reward for the offender",
+            "Destruction of the sanctuary",
+            "Restitution for the loss"
+          ],
+          "fil": [
+            "Gantimpala sa nagkasala",
+            "Pagsira sa santuwaryo",
+            "Pagbabayad sa nawalang halaga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Misusing holy things requires repayment as well as an offering (Leviticus 5).",
+          "fil": "Kailangan ang pagbabayad bukod sa handog sa maling paggamit ng mga banal na bagay (Levitico 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What responsibility do the priests have for the altar fire?",
+          "fil": "Anong pananagutan ng mga pari sa apoy sa altar?"
+        },
+        "options": {
+          "en": [
+            "Keep it burning",
+            "Use it to worship the sun",
+            "Replace it with sea water"
+          ],
+          "fil": [
+            "Panatilihin itong nagniningas",
+            "Gamitin ito sa pagsamba sa araw",
+            "Palitan ito ng tubig-dagat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The instructions require the priests to maintain the altar fire (Leviticus 6).",
+          "fil": "Inaatasan ng mga tagubilin ang mga pari na panatilihin ang apoy sa altar (Levitico 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the priests to regard the grain and sin offerings entrusted to them?",
+          "fil": "Paano dapat ituring ng mga pari ang mga handog na butil at para sa kasalanan na ipinagkatiwala sa kanila?"
+        },
+        "options": {
+          "en": [
+            "As goods for any market",
+            "As holy offerings",
+            "As gifts to idols"
+          ],
+          "fil": [
+            "Bilang panindang maaaring dalhin sa anumang pamilihan",
+            "Bilang mga banal na handog",
+            "Bilang mga regalo sa diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priestly instructions stress the holiness of these offerings (Leviticus 6).",
+          "fil": "Binibigyang-diin ng mga tagubilin sa mga pari ang kabanalan ng mga handog na ito (Levitico 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to a priest's own grain offering?",
+          "fil": "Ano ang ginagawa sa sariling handog na butil ng pari?"
+        },
+        "options": {
+          "en": [
+            "It is given to Pharaoh",
+            "It is sold to travelers",
+            "It is burned completely"
+          ],
+          "fil": [
+            "Ibinibigay ito kay Faraon",
+            "Ipinagbibili ito sa mga manlalakbay",
+            "Sinusunog ito nang buo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A priest's grain offering is wholly burned rather than eaten (Leviticus 6).",
+          "fil": "Sinusunog nang buo ang handog na butil ng pari sa halip na kainin (Levitico 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Which reason for bringing a fellowship offering is specifically mentioned?",
+          "fil": "Anong dahilan sa pagdadala ng handog para sa mabuting pagsasamahan ang binanggit?"
+        },
+        "options": {
+          "en": [
+            "Thanksgiving",
+            "Buying a throne",
+            "Honoring an idol"
+          ],
+          "fil": [
+            "Pasasalamat",
+            "Pagbili ng trono",
+            "Pagpaparangal sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Thanksgiving is one reason given for a fellowship offering (Leviticus 7).",
+          "fil": "Isa ang pasasalamat sa mga dahilan para sa handog sa mabuting pagsasamahan (Levitico 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must people consider before eating a fellowship offering?",
+          "fil": "Ano ang dapat isaalang-alang bago kumain ng handog para sa mabuting pagsasamahan?"
+        },
+        "options": {
+          "en": [
+            "Their military rank",
+            "Their ability to buy a crown",
+            "Their ritual cleanness"
+          ],
+          "fil": [
+            "Ang kanilang ranggo sa hukbo",
+            "Ang kakayahang bumili ng korona",
+            "Ang kanilang kalinisan ayon sa ritwal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Eating the sacred meal requires attention to ritual cleanness (Leviticus 7).",
+          "fil": "Kailangan ang kalinisan ayon sa ritwal sa pagkain ng banal na handog (Levitico 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who receives designated portions from fellowship offerings?",
+          "fil": "Sino ang tumatanggap ng mga nakalaang bahagi mula sa mga handog para sa mabuting pagsasamahan?"
+        },
+        "options": {
+          "en": [
+            "Egypt's tax collectors",
+            "The priests",
+            "The kings of Canaan"
+          ],
+          "fil": [
+            "Ang mga maniningil ng buwis ng Egipto",
+            "Ang mga pari",
+            "Ang mga hari ng Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Certain portions are assigned to the priests who serve the Lord (Leviticus 7).",
+          "fil": "Inilaan ang ilang bahagi sa mga paring naglilingkod sa Panginoon (Levitico 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What main event takes place in this chapter?",
+          "fil": "Anong pangunahing pangyayari ang naganap sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Israel crowns a king",
+            "Aaron and his sons are ordained as priests",
+            "Moses builds a city"
+          ],
+          "fil": [
+            "Nagluklok ng hari ang Israel",
+            "Itinalaga sina Aaron at ang kanyang mga anak bilang mga pari",
+            "Nagtayo ng lungsod si Moises"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 8 recounts the dedication of Aaron and his sons for priestly service.",
+          "fil": "Isinalaysay sa Levitico 8 ang pagtatalaga kay Aaron at sa kanyang mga anak sa paglilingkod bilang mga pari."
+        }
+      },
+      {
+        "q": {
+          "en": "Who carries out the ordination as God commanded?",
+          "fil": "Sino ang nagsagawa ng pagtatalaga ayon sa utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Balaam",
+            "Pharaoh",
+            "Moses"
+          ],
+          "fil": [
+            "Si Balaam",
+            "Si Faraon",
+            "Si Moises"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses carries out the rites that set the priests apart for service (Leviticus 8).",
+          "fil": "Isinagawa ni Moises ang mga ritwal ng pagbubukod sa mga pari para sa paglilingkod (Levitico 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the newly ordained priests treat their period of dedication?",
+          "fil": "Paano dapat ituring ng mga bagong itinalagang pari ang panahon ng pagtatalaga?"
+        },
+        "options": {
+          "en": [
+            "Begin ruling foreign nations",
+            "Leave immediately for Egypt",
+            "Remain at the tent entrance as instructed"
+          ],
+          "fil": [
+            "Magsimulang mamuno sa mga dayuhang bansa",
+            "Umalis agad patungong Egipto",
+            "Manatili sa pasukan ng tolda ayon sa tagubilin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priests must remain at the tent entrance during their dedication period (Leviticus 8).",
+          "fil": "Kailangang manatili ang mga pari sa pasukan ng tolda sa panahon ng kanilang pagtatalaga (Levitico 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does Aaron begin doing for the people?",
+          "fil": "Ano ang sinimulang gawin ni Aaron para sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Offering sacrifices as their priest",
+            "Collecting taxes for Pharaoh",
+            "Leading them back to slavery"
+          ],
+          "fil": [
+            "Paghahandog bilang kanilang pari",
+            "Paniningil ng buwis para kay Faraon",
+            "Pag-akay sa kanila pabalik sa pagkaalipin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron begins his priestly service by offering sacrifices for himself and the people (Leviticus 9).",
+          "fil": "Sinimulan ni Aaron ang paglilingkod bilang pari sa paghahandog para sa sarili at sa bayan (Levitico 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Moses and Aaron do after coming out of the tent?",
+          "fil": "Ano ang ginawa nina Moises at Aaron paglabas sa tolda?"
+        },
+        "options": {
+          "en": [
+            "Close the camp forever",
+            "Bless the people",
+            "Crown a king"
+          ],
+          "fil": [
+            "Isinara ang kampo magpakailanman",
+            "Binasbasan ang bayan",
+            "Nagluklok ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses and Aaron bless the people before the Lord's glory appears (Leviticus 9).",
+          "fil": "Binasbasan nina Moises at Aaron ang bayan bago nagpakita ang kaluwalhatian ng Panginoon (Levitico 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God show acceptance of the altar offering?",
+          "fil": "Paano ipinakita ng Diyos ang pagtanggap sa handog sa altar?"
+        },
+        "options": {
+          "en": [
+            "The altar turns into a boat",
+            "Fire from his presence consumes it",
+            "A foreign king removes it"
+          ],
+          "fil": [
+            "Naging bangka ang altar",
+            "Tinupok ito ng apoy mula sa kanyang harapan",
+            "Kinuha ito ng isang dayuhang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Fire from the Lord consumes the offering and the people bow in worship (Leviticus 9).",
+          "fil": "Tinupok ng apoy mula sa Panginoon ang handog at nagpatirapa ang bayan sa pagsamba (Levitico 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What wrong did Nadab and Abihu commit in their priestly service?",
+          "fil": "Anong mali ang ginawa nina Nadab at Abihu sa paglilingkod bilang mga pari?"
+        },
+        "options": {
+          "en": [
+            "They gave food to the poor",
+            "They refused to become kings",
+            "They offered fire God had not authorized"
+          ],
+          "fil": [
+            "Nagbigay sila ng pagkain sa mahihirap",
+            "Tumanggi silang maging mga hari",
+            "Naghandog sila ng apoy na hindi ipinag-utos ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nadab and Abihu approach God with unauthorized fire (Leviticus 10).",
+          "fil": "Lumapit sina Nadab at Abihu sa Diyos na may apoy na hindi niya ipinag-utos (Levitico 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Nadab and Abihu after this unauthorized offering?",
+          "fil": "Ano ang nangyari kina Nadab at Abihu matapos ang handog na hindi ipinag-utos?"
+        },
+        "options": {
+          "en": [
+            "They die before the Lord",
+            "They become rulers of Egypt",
+            "They are sent to build ships"
+          ],
+          "fil": [
+            "Namatay sila sa harap ng Panginoon",
+            "Naging mga pinuno sila ng Egipto",
+            "Ipinadala sila upang gumawa ng mga barko"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Fire from the Lord brings judgment on Nadab and Abihu (Leviticus 10).",
+          "fil": "Nagdulot ng hatol kina Nadab at Abihu ang apoy mula sa Panginoon (Levitico 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What teaching duty is emphasized for the priests?",
+          "fil": "Anong tungkulin sa pagtuturo ang binigyang-diin para sa mga pari?"
+        },
+        "options": {
+          "en": [
+            "Teach Israel to honor idols",
+            "Distinguish holy from common and teach God's commands",
+            "Teach that every act of worship is acceptable"
+          ],
+          "fil": [
+            "Turuan ang Israel na parangalan ang mga diyus-diyosan",
+            "Ihiwalay ang banal sa karaniwan at ituro ang mga utos ng Diyos",
+            "Iturong katanggap-tanggap ang lahat ng paraan ng pagsamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priests must help Israel distinguish what is holy and understand God's instructions (Leviticus 10).",
+          "fil": "Dapat tulungan ng mga pari ang Israel na kilalanin ang banal at unawain ang mga tagubilin ng Diyos (Levitico 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What is the main subject of this chapter?",
+          "fil": "Ano ang pangunahing paksa ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The building of city walls",
+            "Clean and unclean animals",
+            "The appointment of a king"
+          ],
+          "fil": [
+            "Ang pagtatayo ng mga pader ng lungsod",
+            "Malilinis at maruruming hayop",
+            "Ang pagtatalaga ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 11 distinguishes animals permitted and forbidden for food.",
+          "fil": "Pinag-iba sa Levitico 11 ang mga hayop na maaaring kainin at ang mga ipinagbabawal."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should Israel pay attention to these distinctions?",
+          "fil": "Bakit dapat bigyang-pansin ng Israel ang mga pagkakaibang ito?"
+        },
+        "options": {
+          "en": [
+            "To gain control of the sea",
+            "To imitate Egyptian idol worship",
+            "To live as a people set apart for their holy God"
+          ],
+          "fil": [
+            "Upang maghari sa dagat",
+            "Upang gayahin ang pagsamba ng Egipto sa diyus-diyosan",
+            "Upang mamuhay bilang bayang nakabukod para sa banal nilang Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God connects the food rules with Israel's call to holiness (Leviticus 11).",
+          "fil": "Iniugnay ng Diyos ang mga tuntunin sa pagkain sa tawag sa Israel na mamuhay nang banal (Levitico 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What can contact with an unclean animal's carcass require?",
+          "fil": "Ano ang maaaring kailanganin matapos mahawakan ang bangkay ng maruming hayop?"
+        },
+        "options": {
+          "en": [
+            "Permanent exile for the whole nation",
+            "Washing and a period of uncleanness",
+            "Building a royal palace"
+          ],
+          "fil": [
+            "Habambuhay na pagpapatapon sa buong bansa",
+            "Paghuhugas at panahon ng pagiging marumi ayon sa ritwal",
+            "Pagtatayo ng palasyo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter gives cleansing rules for contact with animal carcasses (Leviticus 11).",
+          "fil": "Nagbigay ang kabanata ng mga tuntunin sa paglilinis matapos mahawakan ang mga bangkay ng hayop (Levitico 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What life event is addressed by the purification rules here?",
+          "fil": "Anong pangyayari sa buhay ang tinutukoy ng mga tuntunin sa paglilinis dito?"
+        },
+        "options": {
+          "en": [
+            "Childbirth",
+            "A military victory",
+            "A king's coronation"
+          ],
+          "fil": [
+            "Panganganak",
+            "Tagumpay sa digmaan",
+            "Pagluklok sa hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 12 concerns a mother's ritual purification after childbirth.",
+          "fil": "Tungkol sa paglilinis ng ina ayon sa ritwal matapos manganak ang Levitico 12."
+        }
+      },
+      {
+        "q": {
+          "en": "Who presents the mother's offering before the Lord?",
+          "fil": "Sino ang naghahandog para sa ina sa harap ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A foreign soldier",
+            "The priest",
+            "The Egyptian king"
+          ],
+          "fil": [
+            "Isang dayuhang kawal",
+            "Ang pari",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priest offers the sacrifice connected with the mother's purification (Leviticus 12).",
+          "fil": "Inihahandog ng pari ang alay na kaugnay ng paglilinis ng ina (Levitico 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What provision is made for a mother who cannot afford a lamb?",
+          "fil": "Ano ang itinakda para sa inang hindi kayang maghandog ng kordero?"
+        },
+        "options": {
+          "en": [
+            "She must buy a field first",
+            "She must leave Israel forever",
+            "She may bring birds instead"
+          ],
+          "fil": [
+            "Kailangan muna niyang bumili ng bukid",
+            "Kailangan niyang lisanin ang Israel habambuhay",
+            "Maaari siyang magdala ng mga ibon bilang kapalit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A less costly offering is allowed when the mother cannot afford a lamb (Leviticus 12).",
+          "fil": "Pinahihintulutan ang mas murang handog kung hindi kaya ng ina ang kordero (Levitico 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What is the priests' main responsibility in this chapter?",
+          "fil": "Ano ang pangunahing pananagutan ng mga pari sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Count all the soldiers",
+            "Examine suspicious skin conditions and determine ritual cleanness",
+            "Choose the nation's king"
+          ],
+          "fil": [
+            "Bilangin ang lahat ng kawal",
+            "Suriin ang kahina-hinalang sakit sa balat at alamin ang kalinisan ayon sa ritwal",
+            "Piliin ang hari ng bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 13 assigns priests the task of examining signs of skin disease.",
+          "fil": "Ipinagkatiwala sa mga pari sa Levitico 13 ang pagsusuri sa mga palatandaan ng sakit sa balat."
+        }
+      },
+      {
+        "q": {
+          "en": "What may a priest do when a skin condition is uncertain?",
+          "fil": "Ano ang maaaring gawin ng pari kapag hindi pa tiyak ang kalagayan ng balat?"
+        },
+        "options": {
+          "en": [
+            "Ignore all visible signs",
+            "Keep the person apart and examine again",
+            "Declare the person king"
+          ],
+          "fil": [
+            "Balewalain ang lahat ng nakikitang palatandaan",
+            "Ihiwalay muna ang tao at suriin muli",
+            "Ideklara siyang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter provides a period of separation and reexamination for uncertain cases (Leviticus 13).",
+          "fil": "Nagtakda ang kabanata ng panahon ng paghihiwalay at muling pagsusuri sa mga hindi pa tiyak na kaso (Levitico 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where must a person declared unclean because of the disease live?",
+          "fil": "Saan kailangang manirahan ang idineklarang marumi dahil sa sakit?"
+        },
+        "options": {
+          "en": [
+            "Inside the most holy place",
+            "On the altar",
+            "Outside the camp"
+          ],
+          "fil": [
+            "Sa loob ng kabanal-banalang lugar",
+            "Sa ibabaw ng altar",
+            "Sa labas ng kampo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A person declared unclean must live apart outside the camp (Leviticus 13).",
+          "fil": "Kailangang mamuhay nang hiwalay sa labas ng kampo ang idineklarang marumi (Levitico 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What is the main purpose of the first purification rites described here?",
+          "fil": "Ano ang pangunahing layunin ng unang mga ritwal ng paglilinis na inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "Restore someone healed of a skin disease to community life",
+            "Prepare an invasion",
+            "Appoint a new king"
+          ],
+          "fil": [
+            "Maibalik sa pamayanan ang gumaling sa sakit sa balat",
+            "Maghanda ng pagsalakay",
+            "Magtalaga ng bagong hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 14 describes purification after recovery from a skin disease.",
+          "fil": "Inilarawan sa Levitico 14 ang paglilinis matapos gumaling sa sakit sa balat."
+        }
+      },
+      {
+        "q": {
+          "en": "Who goes outside the camp to examine the person seeking purification?",
+          "fil": "Sino ang lumalabas ng kampo upang suriin ang taong nais malinis ayon sa ritwal?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh",
+            "The priest",
+            "A foreign general"
+          ],
+          "fil": [
+            "Si Faraon",
+            "Ang pari",
+            "Isang dayuhang heneral"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priest first examines the recovered person outside the camp (Leviticus 14).",
+          "fil": "Sinusuri muna ng pari sa labas ng kampo ang taong gumaling (Levitico 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter help a poor person complete purification?",
+          "fil": "Paano tinutulungan ng kabanata ang mahirap na makumpleto ang paglilinis?"
+        },
+        "options": {
+          "en": [
+            "It forbids the poor to return",
+            "It requires buying a palace",
+            "It allows less costly offerings"
+          ],
+          "fil": [
+            "Ipinagbabawal nitong bumalik ang mahihirap",
+            "Ipinag-uutos nitong bumili ng palasyo",
+            "Pinahihintulutan nito ang mas murang handog"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The purification instructions include an alternative for someone with limited means (Leviticus 14).",
+          "fil": "Kasama sa mga tagubilin sa paglilinis ang alternatibo para sa kapos sa kabuhayan (Levitico 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What is the main topic of the chapter's purity rules?",
+          "fil": "Ano ang pangunahing paksa ng mga tuntunin sa kalinisan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "The borders of Canaan",
+            "The harvest calendar",
+            "Bodily discharges"
+          ],
+          "fil": [
+            "Ang mga hangganan ng Canaan",
+            "Ang kalendaryo ng pag-aani",
+            "Mga pag-agos mula sa katawan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Leviticus 15 discusses ritual cleanness in connection with bodily discharges.",
+          "fil": "Tinalakay sa Levitico 15 ang kalinisan ayon sa ritwal na kaugnay ng mga pag-agos mula sa katawan."
+        }
+      },
+      {
+        "q": {
+          "en": "Do these rules address only men?",
+          "fil": "Mga lalaki lamang ba ang tinutukoy ng mga tuntuning ito?"
+        },
+        "options": {
+          "en": [
+            "No, they address only kings",
+            "No, they address both men and women",
+            "Yes, women are never mentioned"
+          ],
+          "fil": [
+            "Hindi, mga hari lamang ang tinutukoy",
+            "Hindi, tinutukoy ang mga lalaki at babae",
+            "Oo, hindi kailanman binanggit ang mga babae"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter includes conditions affecting both men and women (Leviticus 15).",
+          "fil": "Kasama sa kabanata ang mga kalagayang nakaaapekto sa mga lalaki at babae (Levitico 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the warning about uncleanness aim to protect?",
+          "fil": "Ano ang layuning pangalagaan ng babala tungkol sa karumihan?"
+        },
+        "options": {
+          "en": [
+            "The power of foreign idols",
+            "Pharaoh's treasure",
+            "The holiness of God's dwelling among Israel"
+          ],
+          "fil": [
+            "Ang kapangyarihan ng mga dayuhang diyus-diyosan",
+            "Ang kayamanan ni Faraon",
+            "Ang kabanalan ng tahanan ng Diyos sa gitna ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The rules warn against defiling God's dwelling with ritual uncleanness (Leviticus 15).",
+          "fil": "Nagbabala ang mga tuntunin laban sa pagdungis sa tahanan ng Diyos dahil sa karumihan ayon sa ritwal (Levitico 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What annual observance is the main subject here?",
+          "fil": "Anong taunang pagdiriwang ang pangunahing paksa rito?"
+        },
+        "options": {
+          "en": [
+            "A festival for Egyptian gods",
+            "The Day of Atonement",
+            "A king's birthday"
+          ],
+          "fil": [
+            "Pista para sa mga diyos ng Egipto",
+            "Ang Araw ng Pagtubos sa Kasalanan",
+            "Kaarawan ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 16 describes the annual purification associated with the Day of Atonement.",
+          "fil": "Inilarawan sa Levitico 16 ang taunang paglilinis na kaugnay ng Araw ng Pagtubos sa Kasalanan."
+        }
+      },
+      {
+        "q": {
+          "en": "Who enters the inner sanctuary under these instructions?",
+          "fil": "Sino ang pumapasok sa pinakaloob na santuwaryo ayon sa mga tagubiling ito?"
+        },
+        "options": {
+          "en": [
+            "Aaron, serving as high priest",
+            "Every soldier at once",
+            "Any visiting merchant"
+          ],
+          "fil": [
+            "Si Aaron bilang pinakapunong pari",
+            "Lahat ng kawal nang sabay-sabay",
+            "Sinumang dumadalaw na mangangalakal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron receives special instructions for entering the inner sanctuary (Leviticus 16).",
+          "fil": "Tumanggap si Aaron ng mga natatanging tagubilin sa pagpasok sa pinakaloob na santuwaryo (Levitico 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the live goat sent into the wilderness represent?",
+          "fil": "Ano ang inilalarawan ng buhay na kambing na ipinadala sa ilang?"
+        },
+        "options": {
+          "en": [
+            "A gift for Pharaoh's army",
+            "The carrying away of the people's sins",
+            "The election of a king"
+          ],
+          "fil": [
+            "Isang regalo para sa hukbo ni Faraon",
+            "Ang pagdadala palayo ng mga kasalanan ng bayan",
+            "Ang pagpili ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The live goat carries the confessed sins of Israel away into the wilderness (Leviticus 16).",
+          "fil": "Dinala ng buhay na kambing sa ilang ang mga ipinahayag na kasalanan ng Israel (Levitico 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Where must the Israelites bring animals offered as sacrifices?",
+          "fil": "Saan dapat dalhin ng mga Israelita ang mga hayop na ihahandog?"
+        },
+        "options": {
+          "en": [
+            "To shrines for goat idols",
+            "To Pharaoh's palace",
+            "To the Lord at the tent of meeting"
+          ],
+          "fil": [
+            "Sa mga dambana ng mga diyus-diyosang kambing",
+            "Sa palasyo ni Faraon",
+            "Sa Panginoon sa toldang tipanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter directs sacrificial worship to the Lord at his appointed sanctuary (Leviticus 17).",
+          "fil": "Itinuturo ng kabanata na sa Panginoon sa kanyang itinakdang santuwaryo gawin ang paghahandog (Levitico 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is eating blood forbidden?",
+          "fil": "Bakit ipinagbawal ang pagkain ng dugo?"
+        },
+        "options": {
+          "en": [
+            "God commands worship of animals",
+            "Blood belongs to foreign kings",
+            "Blood is associated with life and atonement"
+          ],
+          "fil": [
+            "Ipinag-uutos ng Diyos ang pagsamba sa mga hayop",
+            "Pag-aari ng mga dayuhang hari ang dugo",
+            "Kaugnay ng buhay at pagtubos sa kasalanan ang dugo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God explains the blood prohibition through its connection with life and atonement (Leviticus 17).",
+          "fil": "Ipinaliwanag ng Diyos ang pagbabawal sa dugo sa kaugnayan nito sa buhay at pagtubos sa kasalanan (Levitico 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who must observe the prohibition against eating blood?",
+          "fil": "Sino ang dapat sumunod sa pagbabawal sa pagkain ng dugo?"
+        },
+        "options": {
+          "en": [
+            "Only foreign kings",
+            "Israelites and foreigners living among them",
+            "Only Israel's soldiers"
+          ],
+          "fil": [
+            "Mga dayuhang hari lamang",
+            "Mga Israelita at mga dayuhang naninirahang kasama nila",
+            "Mga kawal lamang ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The blood prohibition applies to Israelites and resident foreigners (Leviticus 17).",
+          "fil": "Saklaw ng pagbabawal sa dugo ang mga Israelita at mga dayuhang naninirahang kasama nila (Levitico 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What main area of conduct is regulated here?",
+          "fil": "Anong pangunahing aspeto ng asal ang itinakda rito?"
+        },
+        "options": {
+          "en": [
+            "Rules for building boats",
+            "Forbidden sexual relationships",
+            "Methods of counting soldiers"
+          ],
+          "fil": [
+            "Mga tuntunin sa paggawa ng bangka",
+            "Mga ipinagbabawal na ugnayang seksuwal",
+            "Mga paraan ng pagbibilang ng kawal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 18 sets boundaries for sexual relationships.",
+          "fil": "Nagtakda ang Levitico 18 ng mga hangganan sa mga ugnayang seksuwal."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose practices must Israel avoid copying?",
+          "fil": "Kaninong mga gawain ang hindi dapat tularan ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Those of Egypt and Canaan",
+            "Those taught by Moses as God's law",
+            "Those commanded by God"
+          ],
+          "fil": [
+            "Ang sa Egipto at Canaan",
+            "Ang itinuro ni Moises bilang kautusan ng Diyos",
+            "Ang mga ipinag-utos ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel is warned against following the practices of Egypt and Canaan (Leviticus 18).",
+          "fil": "Binalaan ang Israel na huwag sundin ang mga gawain ng Egipto at Canaan (Levitico 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about defiling the land through these practices?",
+          "fil": "Anong babala ang ibinigay tungkol sa pagdungis sa lupain sa mga gawaing ito?"
+        },
+        "options": {
+          "en": [
+            "The practices guarantee endless prosperity",
+            "The people can be expelled from the land",
+            "The land will become a royal palace"
+          ],
+          "fil": [
+            "Tinitiyak ng mga gawain ang walang-hanggang kasaganaan",
+            "Maaaring mapalayas ang bayan sa lupain",
+            "Magiging palasyo ng hari ang lupain"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns that defiling conduct can lead to removal from the land (Leviticus 18).",
+          "fil": "Nagbabala ang kabanata na maaaring humantong sa pagpapaalis sa lupain ang maruruming gawain (Levitico 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "How should harvesters care for poor people and foreigners?",
+          "fil": "Paano dapat pangalagaan ng mga umaani ang mahihirap at dayuhan?"
+        },
+        "options": {
+          "en": [
+            "Leave part of the harvest for them",
+            "Demand that they buy every leftover",
+            "Drive them away from all fields"
+          ],
+          "fil": [
+            "Mag-iwan ng bahagi ng ani para sa kanila",
+            "Hingin na bilhin nila ang bawat tira",
+            "Palayasin sila sa lahat ng bukid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leaving gleanings gives the poor and foreigners access to food (Leviticus 19).",
+          "fil": "Ang pag-iiwan ng mapupulot na ani ay nagbibigay ng pagkain sa mahihirap at dayuhan (Levitico 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should judgments be made in disputes?",
+          "fil": "Paano dapat humatol sa mga usapin?"
+        },
+        "options": {
+          "en": [
+            "According to the largest bribe",
+            "Always in favor of the wealthy",
+            "Fairly, without favoring rich or poor"
+          ],
+          "fil": [
+            "Batay sa pinakamalaking suhol",
+            "Laging pabor sa mayaman",
+            "Nang makatarungan, walang pinapaborang mayaman o mahirap"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter calls for impartial judgment rather than favoritism (Leviticus 19).",
+          "fil": "Nanawagan ang kabanata ng makatarungang paghatol sa halip na pagkiling (Levitico 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude should replace revenge and grudges?",
+          "fil": "Anong saloobin ang dapat pumalit sa paghihiganti at sama ng loob?"
+        },
+        "options": {
+          "en": [
+            "Love and care for one's neighbor",
+            "Delight in a neighbor's suffering",
+            "A desire to cheat others"
+          ],
+          "fil": [
+            "Pagmamahal at malasakit sa kapwa",
+            "Pagkatuwa sa pagdurusa ng kapwa",
+            "Pagnanais na dayain ang iba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God calls his people to love their neighbors instead of taking revenge (Leviticus 19).",
+          "fil": "Tinawag ng Diyos ang kanyang bayan na mahalin ang kapwa sa halip na maghiganti (Levitico 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What does the chapter attach to serious violations of God's commands?",
+          "fil": "Ano ang inilakip ng kabanata sa mabibigat na paglabag sa mga utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Serious penalties",
+            "Rewards for wrongdoing",
+            "Permission to ignore the covenant"
+          ],
+          "fil": [
+            "Mabibigat na kaparusahan",
+            "Mga gantimpala sa paggawa ng mali",
+            "Pahintulot na balewalain ang tipan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 20 describes penalties for grave offenses against God's commands.",
+          "fil": "Inilarawan sa Levitico 20 ang mga kaparusahan sa mabibigat na paglabag sa mga utos ng Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the community respond to sacrificing children to Molech?",
+          "fil": "Paano dapat tumugon ang pamayanan sa paghahandog ng mga bata kay Molec?"
+        },
+        "options": {
+          "en": [
+            "Reward those who practice it",
+            "Make it the national celebration",
+            "Reject it rather than overlook it"
+          ],
+          "fil": [
+            "Gantimpalaan ang mga gumagawa nito",
+            "Gawin itong pambansang pagdiriwang",
+            "Tanggihan ito sa halip na ipagwalang-bahala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The community must not ignore the offense of offering children to Molech (Leviticus 20).",
+          "fil": "Hindi dapat balewalain ng pamayanan ang pagkakasala ng paghahandog ng mga bata kay Molec (Levitico 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Israel called to be distinct from other nations?",
+          "fil": "Bakit tinawag ang Israel na maging iba sa ibang mga bansa?"
+        },
+        "options": {
+          "en": [
+            "They are commanded to worship every nation's gods",
+            "Their laws are meant to honor Pharaoh",
+            "God has set them apart to belong to him"
+          ],
+          "fil": [
+            "Inutusan silang sambahin ang mga diyos ng bawat bansa",
+            "Layunin ng kanilang mga batas na parangalan si Faraon",
+            "Ibinukod sila ng Diyos upang maging kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God grounds Israel's holiness in his choice of them as his people (Leviticus 20).",
+          "fil": "Ibinatay ng Diyos ang kabanalan ng Israel sa pagpili niya sa kanila bilang kanyang bayan (Levitico 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Whose holiness is the special focus of this chapter?",
+          "fil": "Kaninong kabanalan ang natatanging pokus ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The priests'",
+            "Egypt's soldiers'",
+            "Foreign merchants'"
+          ],
+          "fil": [
+            "Ng mga pari",
+            "Ng mga kawal ng Egipto",
+            "Ng mga dayuhang mangangalakal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 21 gives special holiness requirements for the priests.",
+          "fil": "Nagbigay ang Levitico 21 ng mga natatanging tuntunin sa kabanalan para sa mga pari."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do priests have special responsibilities for holy living?",
+          "fil": "Bakit may natatanging pananagutan ang mga pari sa banal na pamumuhay?"
+        },
+        "options": {
+          "en": [
+            "They own all foreign kingdoms",
+            "They present God's offerings",
+            "They replace God as objects of worship"
+          ],
+          "fil": [
+            "Pag-aari nila ang lahat ng dayuhang kaharian",
+            "Inihaharap nila ang mga handog sa Diyos",
+            "Pumapalit sila sa Diyos bilang sinasamba"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their service in presenting offerings calls for special holiness (Leviticus 21).",
+          "fil": "Nangangailangan ng natatanging kabanalan ang kanilang paglilingkod sa paghaharap ng mga handog (Levitico 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What may a priest with a physical defect still do under these rules?",
+          "fil": "Ano ang maaari pa ring gawin ng paring may kapansanan ayon sa mga tuntuning ito?"
+        },
+        "options": {
+          "en": [
+            "Eat the sacred food",
+            "Sell the sanctuary to foreigners",
+            "Replace the high priest at the altar without restriction"
+          ],
+          "fil": [
+            "Kumain ng banal na pagkain",
+            "Ipagbili ang santuwaryo sa mga dayuhan",
+            "Pumalit sa pinakapunong pari sa altar nang walang limitasyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter permits sacred food for such a priest while restricting altar service (Leviticus 21).",
+          "fil": "Pinahihintulutan ng kabanata ang banal na pagkain para sa gayong pari bagaman may limitasyon sa paglilingkod sa altar (Levitico 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "How must priests treat the sacred offerings entrusted to them?",
+          "fil": "Paano dapat tratuhin ng mga pari ang mga banal na handog na ipinagkatiwala sa kanila?"
+        },
+        "options": {
+          "en": [
+            "With respect for their holiness",
+            "As goods anyone may take",
+            "As gifts for foreign idols"
+          ],
+          "fil": [
+            "Nang may paggalang sa kabanalan ng mga ito",
+            "Bilang mga bagay na maaaring kunin ng sinuman",
+            "Bilang mga regalo sa mga dayuhang diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Leviticus 22 requires care for the holiness of sacred offerings.",
+          "fil": "Hinihingi ng Levitico 22 ang pag-iingat sa kabanalan ng mga banal na handog."
+        }
+      },
+      {
+        "q": {
+          "en": "What should a priest do while ritually unclean?",
+          "fil": "Ano ang dapat gawin ng pari habang marumi ayon sa ritwal?"
+        },
+        "options": {
+          "en": [
+            "Declare the offerings worthless",
+            "Invite everyone to misuse the offerings",
+            "Refrain from eating sacred offerings until clean"
+          ],
+          "fil": [
+            "Ideklara na walang halaga ang mga handog",
+            "Anyayahan ang lahat na gamitin nang mali ang mga handog",
+            "Umiwas sa pagkain ng banal na handog hanggang malinis"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A priest must be ritually clean before eating the sacred food (Leviticus 22).",
+          "fil": "Kailangang malinis ayon sa ritwal ang pari bago kumain ng banal na pagkain (Levitico 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What quality is required of an animal brought as a burnt offering to fulfill a vow?",
+          "fil": "Anong katangian ang kailangan sa hayop na susunugin nang buo upang tuparin ang panata?"
+        },
+        "options": {
+          "en": [
+            "It must be already dead from disease",
+            "It must be stolen",
+            "It must be without defect"
+          ],
+          "fil": [
+            "Kailangan itong namatay na sa sakit",
+            "Kailangan itong nakaw",
+            "Kailangan itong walang kapintasan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God requires an unblemished animal for an acceptable burnt offering (Leviticus 22).",
+          "fil": "Hinihingi ng Diyos ang hayop na walang kapintasan para sa katanggap-tanggap na handog na sinusunog nang buo (Levitico 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What does this chapter organize for Israel's worship?",
+          "fil": "Ano ang isinaayos ng kabanatang ito para sa pagsamba ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Royal elections",
+            "Appointed sacred times and festivals",
+            "Plans to return to slavery"
+          ],
+          "fil": [
+            "Mga pagpili ng hari",
+            "Mga itinakdang banal na panahon at pista",
+            "Mga plano sa pagbabalik sa pagkaalipin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Leviticus 23 sets out sacred assemblies and festivals in Israel's calendar.",
+          "fil": "Inilahad sa Levitico 23 ang mga banal na pagtitipon at pista sa kalendaryo ng Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "Which weekly observance is included among the sacred times?",
+          "fil": "Anong lingguhang pagdiriwang ang kasama sa mga banal na panahon?"
+        },
+        "options": {
+          "en": [
+            "A weekly coronation",
+            "The Sabbath rest",
+            "A feast for Pharaoh"
+          ],
+          "fil": [
+            "Lingguhang pagluklok sa hari",
+            "Ang pamamahinga sa Araw ng Pamamahinga",
+            "Pista para kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Sabbath is included as a sacred day of rest (Leviticus 23).",
+          "fil": "Kasama ang Araw ng Pamamahinga bilang banal na araw ng pagpapahinga (Levitico 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the shelters at the Festival of Shelters help Israel remember?",
+          "fil": "Ano ang ipinapaalala ng mga kubol sa Pista ng mga Kubol?"
+        },
+        "options": {
+          "en": [
+            "The building of Pharaoh's palace",
+            "Their life in shelters after God brought them out of Egypt",
+            "Their victory over Babylon"
+          ],
+          "fil": [
+            "Ang pagtatayo ng palasyo ni Faraon",
+            "Ang paninirahan sa mga kubol matapos silang ilabas ng Diyos sa Egipto",
+            "Ang kanilang tagumpay laban sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The shelters preserve the memory of Israel's journey after the exodus (Leviticus 23).",
+          "fil": "Pinananatili ng mga kubol ang alaala ng paglalakbay ng Israel matapos lumabas sa Egipto (Levitico 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What offense leads to the judgment described in this chapter?",
+          "fil": "Anong kasalanan ang humantong sa hatol na inilarawan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Blaspheming God's name",
+            "Giving bread to the poor",
+            "Resting on the Sabbath"
+          ],
+          "fil": [
+            "Paglapastangan sa pangalan ng Diyos",
+            "Pagbibigay ng tinapay sa mahihirap",
+            "Pamamahinga sa Araw ng Pamamahinga"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account centers on a man who blasphemes God's name (Leviticus 24).",
+          "fil": "Nakatuon ang salaysay sa lalaking lumapastangan sa pangalan ng Diyos (Levitico 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people do while awaiting God's decision about the offender?",
+          "fil": "Ano ang ginawa ng bayan habang hinihintay ang pasya ng Diyos tungkol sa nagkasala?"
+        },
+        "options": {
+          "en": [
+            "Make him their king",
+            "Send him to rule Egypt",
+            "Keep him in custody"
+          ],
+          "fil": [
+            "Ginawa siyang hari",
+            "Ipinadala siya upang maghari sa Egipto",
+            "Ibinilanggo muna siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The man is held until the Lord's decision is made known (Leviticus 24).",
+          "fil": "Ibinilanggo muna ang lalaki hanggang malaman ang pasya ng Panginoon (Levitico 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the law apply to foreigners and native Israelites?",
+          "fil": "Paano dapat ipatupad ang batas sa mga dayuhan at katutubong Israelita?"
+        },
+        "options": {
+          "en": [
+            "Only foreigners are accountable",
+            "The same standard applies to both",
+            "Wealthy people are always exempt"
+          ],
+          "fil": [
+            "Mga dayuhan lamang ang may pananagutan",
+            "Iisang pamantayan ang para sa kapwa",
+            "Laging hindi saklaw ang mayayaman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter calls for the same justice for foreigners and native Israelites (Leviticus 24).",
+          "fil": "Hinihingi ng kabanata ang parehong katarungan para sa mga dayuhan at katutubong Israelita (Levitico 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What is the land given during the sabbatical year?",
+          "fil": "Ano ang ibinibigay sa lupa sa taon ng pamamahinga?"
+        },
+        "options": {
+          "en": [
+            "A new foreign owner by force",
+            "A permanent ban on all future farming",
+            "Rest from normal cultivation"
+          ],
+          "fil": [
+            "Bagong dayuhang may-ari sa pamamagitan ng dahas",
+            "Permanenteng pagbabawal sa lahat ng susunod na pagsasaka",
+            "Pahinga mula sa karaniwang pagsasaka"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The sabbatical year provides rest for the land (Leviticus 25).",
+          "fil": "Nagbibigay ang taon ng pamamahinga ng pahinga para sa lupa (Levitico 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What restoration is associated with the Jubilee?",
+          "fil": "Anong pagpapanumbalik ang kaugnay ng taon ng Jubileo?"
+        },
+        "options": {
+          "en": [
+            "People return to their families and ancestral property",
+            "All families must move to Egypt",
+            "The sanctuary is sold to a king"
+          ],
+          "fil": [
+            "Bumabalik ang mga tao sa pamilya at minanang ari-arian",
+            "Kailangang lumipat sa Egipto ang lahat ng pamilya",
+            "Ipinagbibili sa hari ang santuwaryo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Jubilee joins release with return to family holdings (Leviticus 25).",
+          "fil": "Pinagsasama ng Jubileo ang pagpapalaya at pagbabalik sa ari-arian ng pamilya (Levitico 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must land not be sold as though humans own it forever?",
+          "fil": "Bakit hindi dapat ipagbili ang lupa na para bang habambuhay itong pag-aari ng tao?"
+        },
+        "options": {
+          "en": [
+            "The land belongs to God",
+            "The land has no value",
+            "Pharaoh owns every field"
+          ],
+          "fil": [
+            "Pag-aari ng Diyos ang lupa",
+            "Walang halaga ang lupa",
+            "Pag-aari ni Faraon ang bawat bukid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God explains that the land is his and the people live on it under his care (Leviticus 25).",
+          "fil": "Ipinaliwanag ng Diyos na kanya ang lupa at naninirahan dito ang bayan sa kanyang pangangalaga (Levitico 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What is promised if Israel follows God's commands?",
+          "fil": "Ano ang ipinangako kung susundin ng Israel ang mga utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Fruitfulness, peace, and God's presence",
+            "Automatic rule over every ocean",
+            "Freedom to worship idols"
+          ],
+          "fil": [
+            "Masaganang ani, kapayapaan, at presensya ng Diyos",
+            "Awtomatikong paghahari sa lahat ng karagatan",
+            "Kalayaang sumamba sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The blessings link faithful obedience with provision and God's presence (Leviticus 26).",
+          "fil": "Iniugnay ng mga pagpapala ang tapat na pagsunod sa pagkakaloob at presensya ng Diyos (Levitico 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning follows persistent refusal to listen to God?",
+          "fil": "Anong babala ang kasunod ng patuloy na pagtangging makinig sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "The end of all moral responsibility",
+            "Increasing discipline and possible exile",
+            "Rewards for every act of rebellion"
+          ],
+          "fil": [
+            "Pagtatapos ng lahat ng pananagutang moral",
+            "Lumalalang pagdidisiplina at posibleng pagpapatapon",
+            "Gantimpala sa bawat paghihimagsik"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns that continued rebellion brings severe consequences (Leviticus 26).",
+          "fil": "Nagbabala ang kabanata na may mabibigat na bunga ang patuloy na paghihimagsik (Levitico 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope remains when the people confess their sins?",
+          "fil": "Anong pag-asa ang nananatili kapag ipinahayag ng bayan ang kanilang kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Their idols become their rescuers",
+            "God forgets all his promises",
+            "God remembers his covenant"
+          ],
+          "fil": [
+            "Nagiging tagapagligtas nila ang kanilang mga diyus-diyosan",
+            "Nililimot ng Diyos ang lahat ng kanyang pangako",
+            "Inaalala ng Diyos ang kanyang tipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises to remember his covenant even after the people's failure (Leviticus 26).",
+          "fil": "Ipinangako ng Diyos na aalalahanin ang kanyang tipan kahit nagkulang ang bayan (Levitico 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What is the main subject of the book's final chapter?",
+          "fil": "Ano ang pangunahing paksa ng huling kabanata ng aklat?"
+        },
+        "options": {
+          "en": [
+            "The coronation of Pharaoh",
+            "The building of a war fleet",
+            "Vows and things dedicated to the Lord"
+          ],
+          "fil": [
+            "Ang pagluklok kay Faraon",
+            "Ang paggawa ng mga barkong pandigma",
+            "Mga panata at mga bagay na inilaan sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Leviticus 27 gives rules for commitments and property dedicated to God.",
+          "fil": "Nagbigay ang Levitico 27 ng mga tuntunin para sa mga panata at ari-ariang inilaan sa Diyos."
+        }
+      },
+      {
+        "q": {
+          "en": "How is poverty considered when a person is valued under a vow?",
+          "fil": "Paano isinaalang-alang ang kahirapan sa pagtatakda ng halaga ng taong saklaw ng panata?"
+        },
+        "options": {
+          "en": [
+            "The poor are forbidden to approach a priest",
+            "The poor must become kings first",
+            "The priest adjusts the valuation to the person's means"
+          ],
+          "fil": [
+            "Bawal lumapit sa pari ang mahihirap",
+            "Kailangang maging hari muna ang mahihirap",
+            "Iniaangkop ng pari ang halaga sa kakayahan ng tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priest considers what a poor person can afford (Leviticus 27).",
+          "fil": "Isinasaalang-alang ng pari ang kayang ibigay ng taong mahirap (Levitico 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the tithe of the land described?",
+          "fil": "Paano inilarawan ang ikapu ng ani ng lupain?"
+        },
+        "options": {
+          "en": [
+            "It is tribute for Egyptian idols",
+            "It belongs only to foreign merchants",
+            "It is holy and belongs to the Lord"
+          ],
+          "fil": [
+            "Ito ay buwis para sa mga diyus-diyosan ng Egipto",
+            "Para lamang ito sa mga dayuhang mangangalakal",
+            "Ito ay banal at para sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter identifies the land's tithe as belonging to the Lord (Leviticus 27).",
+          "fil": "Kinilala ng kabanata ang ikapu ng ani ng lupain bilang para sa Panginoon (Levitico 27)."
+        }
+      }
+    ]
+  }
+}
