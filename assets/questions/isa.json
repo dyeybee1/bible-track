@@ -1,0 +1,4782 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How does God describe his people's response to his care?",
+          "fil": "Paano inilarawan ng Diyos ang tugon ng bayan sa kanyang pag-aalaga?"
+        },
+        "options": {
+          "en": [
+            "Children who have rebelled",
+            "Servants who always obey",
+            "Strangers he never knew"
+          ],
+          "fil": [
+            "Mga anak na naghimagsik",
+            "Mga lingkod na laging sumusunod",
+            "Mga dayuhang hindi niya nakilala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God confronts the rebellion of the people he raised (Isaiah 1).",
+          "fil": "Hinarap ng Diyos ang paghihimagsik ng bayang kanyang inalagaan (Isaias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God reject their religious ceremonies?",
+          "fil": "Bakit tinanggihan ng Diyos ang kanilang mga seremonyang panrelihiyon?"
+        },
+        "options": {
+          "en": [
+            "They continue doing evil and injustice",
+            "Their city is too small",
+            "Their music is too quiet"
+          ],
+          "fil": [
+            "Patuloy silang gumagawa ng masama at kawalang-katarungan",
+            "Napakaliit ng kanilang lunsod",
+            "Napakahina ng kanilang musika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ritual cannot excuse persistent wrongdoing (Isaiah 1).",
+          "fil": "Hindi dahilan ang ritwal upang palampasin ang patuloy na kasamaan (Isaias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change does God call for?",
+          "fil": "Anong pagbabago ang hinihingi ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Trust idols for protection",
+            "Stop evil and defend the oppressed",
+            "Offer more gifts while harming neighbors"
+          ],
+          "fil": [
+            "Magtiwala sa diyus-diyosan para sa pag-iingat",
+            "Itigil ang masama at ipagtanggol ang inaapi",
+            "Dagdagan ang handog habang sinasaktan ang kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Repentance must include practical justice (Isaiah 1).",
+          "fil": "Dapat kasama sa pagsisisi ang praktikal na katarungan (Isaias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why do nations come to the Lord's mountain?",
+          "fil": "Bakit dumating ang mga bansa sa bundok ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "To learn his ways",
+            "To worship their weapons",
+            "To conquer heaven"
+          ],
+          "fil": [
+            "Upang matutuhan ang kanyang mga daan",
+            "Upang sambahin ang kanilang sandata",
+            "Upang sakupin ang langit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision gathers nations to receive God's instruction (Isaiah 2).",
+          "fil": "Tinipon ng pangitain ang mga bansa upang tumanggap ng turo ng Diyos (Isaias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change in weapons pictures peace?",
+          "fil": "Anong pagbabago sa sandata ang naglarawan ng kapayapaan?"
+        },
+        "options": {
+          "en": [
+            "They become larger weapons",
+            "They become farming tools",
+            "They are placed on idols"
+          ],
+          "fil": [
+            "Naging mas malalaking sandata ang mga ito",
+            "Naging kagamitan ang mga ito sa pagsasaka",
+            "Inilagay ang mga ito sa diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Instruments of war give way to peaceful work (Isaiah 2).",
+          "fil": "Napalitan ng mapayapang paggawa ang mga kasangkapang pandigma (Isaias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to human pride before the Lord's majesty?",
+          "fil": "Ano ang mangyayari sa pagmamataas ng tao sa harap ng kadakilaan ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "It is humbled",
+            "It becomes greater than God",
+            "It earns unquestioned power"
+          ],
+          "fil": [
+            "Ibinababa ito",
+            "Nagiging higit ito sa Diyos",
+            "Nagtatamo ito ng kapangyarihang walang kumukuwestiyon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's greatness exposes the emptiness of human arrogance (Isaiah 2).",
+          "fil": "Inilalantad ng kadakilaan ng Diyos ang kawalang-saysay ng kapalaluan ng tao (Isaias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What supports will Jerusalem lose under judgment?",
+          "fil": "Anong mga sandigan ang mawawala sa Jerusalem sa paghatol?"
+        },
+        "options": {
+          "en": [
+            "Only musical instruments",
+            "Only foreign jewelry",
+            "Food, water, and capable leadership"
+          ],
+          "fil": [
+            "Mga instrumento lamang sa musika",
+            "Mga dayuhang alahas lamang",
+            "Pagkain, tubig, at may kakayahang pamumuno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judgment removes the city's familiar sources of stability (Isaiah 3).",
+          "fil": "Inaalis ng paghatol ang karaniwang pinagkukunan ng katatagan ng lunsod (Isaias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when inexperienced rulers take charge?",
+          "fil": "Ano ang mangyayari kapag namahala ang mga pinunong walang karanasan?"
+        },
+        "options": {
+          "en": [
+            "Disorder and oppression spread",
+            "Everyone becomes equally wealthy",
+            "Every injustice ends"
+          ],
+          "fil": [
+            "Laganap ang kaguluhan at pang-aapi",
+            "Nagiging pantay-pantay na mayaman ang lahat",
+            "Nagtatapos ang bawat kawalang-katarungan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter pictures leadership failure producing social disorder (Isaiah 3).",
+          "fil": "Inilarawan ng kabanata ang bigong pamumunong nagbubunga ng kaguluhan sa lipunan (Isaias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God accuse the elders and rulers of doing?",
+          "fil": "Ano ang ibinintang ng Diyos sa matatanda at mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "Refusing every dishonest gain",
+            "Crushing poor people and taking their goods",
+            "Caring too much for widows"
+          ],
+          "fil": [
+            "Pagtanggi sa bawat madayang pakinabang",
+            "Pagyurak sa mahihirap at pagkuha sa kanilang mga ari-arian",
+            "Sobrang pag-aalaga sa mga biyuda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God judges leaders for exploiting vulnerable people (Isaiah 3).",
+          "fil": "Hinahatulan ng Diyos ang mga pinunong nagsasamantala sa mahihinang tao (Isaias 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What future is pictured for those remaining in Zion?",
+          "fil": "Anong hinaharap ang inilarawan para sa mga natira sa Sion?"
+        },
+        "options": {
+          "en": [
+            "Cleansing and holiness",
+            "Complete loss of God's care",
+            "Permanent service to idols"
+          ],
+          "fil": [
+            "Paglilinis at kabanalan",
+            "Ganap na pagkawala ng pag-aalaga ng Diyos",
+            "Permanenteng paglilingkod sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The vision describes a purified remnant (Isaiah 4).",
+          "fil": "Inilarawan ng pangitain ang nilinis na nalabi (Isaias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must God wash away from Jerusalem?",
+          "fil": "Ano ang kailangang hugasan ng Diyos mula sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Every honest prayer",
+            "Filth and bloodshed",
+            "The desire for peace"
+          ],
+          "fil": [
+            "Bawat tapat na panalangin",
+            "Karumihan at pagdanak ng dugo",
+            "Ang hangarin sa kapayapaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Restoration involves cleansing the city's wrongdoing (Isaiah 4).",
+          "fil": "Kasama sa pagpapanumbalik ang paglilinis sa kasamaan ng lunsod (Isaias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What pictures God's shelter over his people?",
+          "fil": "Ano ang naglarawan sa pagkakanlong ng Diyos sa kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "A covering of cloud and fire",
+            "A broken idol",
+            "An abandoned marketplace"
+          ],
+          "fil": [
+            "Kanlungang ulap at apoy",
+            "Basag na diyus-diyosan",
+            "Iniwanang pamilihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's presence provides refuge from heat and storm (Isaiah 4).",
+          "fil": "Nagbibigay ng kanlungan sa init at bagyo ang presensiya ng Diyos (Isaias 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who is represented by the vineyard in the song?",
+          "fil": "Sino ang inilalarawan ng ubasan sa awit?"
+        },
+        "options": {
+          "en": [
+            "Babylon's merchants",
+            "Egypt's army",
+            "Israel and Judah"
+          ],
+          "fil": [
+            "Ang mga mangangalakal ng Babilonia",
+            "Ang hukbo ng Egipto",
+            "Ang Israel at Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cared-for vineyard represents God's people (Isaiah 5).",
+          "fil": "Inilalarawan ng inalagaang ubasan ang bayan ng Diyos (Isaias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fruit did God seek but not find?",
+          "fil": "Anong bunga ang hinanap ngunit hindi nakita ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Justice and righteousness",
+            "Larger palaces",
+            "More weapons"
+          ],
+          "fil": [
+            "Katarungan at katuwiran",
+            "Mas malalaking palasyo",
+            "Mas maraming sandata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Oppression appears where God sought just conduct (Isaiah 5).",
+          "fil": "Pang-aapi ang nakita kung saan hinanap ng Diyos ang makatarungang asal (Isaias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does removing the vineyard's protective hedge signify?",
+          "fil": "Ano ang ipinahiwatig ng pag-aalis sa pananggalang ng ubasan?"
+        },
+        "options": {
+          "en": [
+            "Guaranteed prosperity",
+            "Exposure to destruction under judgment",
+            "Approval of its bad fruit"
+          ],
+          "fil": [
+            "Tiyak na kasaganaan",
+            "Pagkalantad sa pagkawasak sa paghatol",
+            "Pagsang-ayon sa masamang bunga nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The ruined vineyard pictures the consequence of unfaithfulness (Isaiah 5).",
+          "fil": "Inilarawan ng nasirang ubasan ang bunga ng pagtataksil (Isaias 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does Isaiah see in the temple vision?",
+          "fil": "Ano ang nakita ni Isaias sa pangitain sa templo?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh ruling heaven",
+            "Baal receiving the ark",
+            "The Lord enthroned in glory"
+          ],
+          "fil": [
+            "Si Faraong namumuno sa langit",
+            "Si Baal na tumatanggap ng Kaban",
+            "Ang Panginoong nakaluklok sa kaluwalhatian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Isaiah sees the majesty of the heavenly King (Isaiah 6).",
+          "fil": "Nakita ni Isaias ang kadakilaan ng Hari sa langit (Isaias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Isaiah react to God's holiness?",
+          "fil": "Paano tumugon si Isaias sa kabanalan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "He claims to be sinless",
+            "He demands a royal reward",
+            "He confesses his unclean speech"
+          ],
+          "fil": [
+            "Inangkin niyang walang sala siya",
+            "Humingi siya ng gantimpala ng hari",
+            "Inamin niya ang marumi niyang pananalita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vision makes Isaiah aware of his need for cleansing (Isaiah 6).",
+          "fil": "Ipinabatid ng pangitain kay Isaias ang pangangailangan niyang malinis (Isaias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What touches Isaiah's lips as a sign of cleansing?",
+          "fil": "Ano ang humipo sa labi ni Isaias bilang tanda ng paglilinis?"
+        },
+        "options": {
+          "en": [
+            "A soldier's spear",
+            "A golden crown",
+            "A burning coal from the altar"
+          ],
+          "fil": [
+            "Sibat ng kawal",
+            "Gintong korona",
+            "Nagbabagang baga mula sa altar"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The coal signifies the removal of Isaiah's guilt (Isaiah 6).",
+          "fil": "Ipinahiwatig ng baga ang pag-aalis ng sala ni Isaias (Isaias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Isaiah answer the call for a messenger?",
+          "fil": "Paano sinagot ni Isaias ang panawagan para sa sugo?"
+        },
+        "options": {
+          "en": [
+            "He demands that no one be sent",
+            "He sends the message to an idol",
+            "He willingly offers to go"
+          ],
+          "fil": [
+            "Iginiit niyang walang isugo",
+            "Ipinadala niya ang mensahe sa diyus-diyosan",
+            "Kusa siyang nag-alok na humayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Isaiah responds to God's call with readiness to serve (Isaiah 6).",
+          "fil": "Tumugon si Isaias sa tawag ng Diyos nang handang maglingkod (Isaias 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Which king receives Isaiah's message during a threat to Judah?",
+          "fil": "Sinong hari ang tumanggap ng mensahe ni Isaias nang mangamba ang Juda?"
+        },
+        "options": {
+          "en": [
+            "Ahaz",
+            "Solomon",
+            "Cyrus"
+          ],
+          "fil": [
+            "Si Ahaz",
+            "Si Solomon",
+            "Si Ciro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Isaiah speaks to Ahaz amid fear of an enemy alliance (Isaiah 7).",
+          "fil": "Kinausap ni Isaias si Ahaz sa gitna ng takot sa alyansa ng kaaway (Isaias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude does Isaiah urge instead of panic?",
+          "fil": "Anong saloobin ang hinikayat ni Isaias sa halip na pagkataranta?"
+        },
+        "options": {
+          "en": [
+            "Steady trust in God",
+            "Dependence on idols",
+            "Confidence in every rumor"
+          ],
+          "fil": [
+            "Matatag na pagtitiwala sa Diyos",
+            "Pag-asa sa diyus-diyosan",
+            "Pagtitiwala sa bawat tsismis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ahaz is called to faith rather than fear (Isaiah 7).",
+          "fil": "Tinawag si Ahaz sa pananampalataya sa halip na takot (Isaias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What child-name appears in the promised sign?",
+          "fil": "Anong pangalan ng bata ang nasa ipinangakong tanda?"
+        },
+        "options": {
+          "en": [
+            "Immanuel",
+            "Ishmael",
+            "Samuel"
+          ],
+          "fil": [
+            "Emmanuel",
+            "Ismael",
+            "Samuel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The sign includes a child's birth and the name Immanuel (Isaiah 7).",
+          "fil": "Kasama sa tanda ang pagsilang ng bata at pangalang Emmanuel (Isaias 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does the overflowing river picture?",
+          "fil": "Ano ang inilalarawan ng umaapaw na ilog?"
+        },
+        "options": {
+          "en": [
+            "The building of a new temple",
+            "Assyria's advancing power",
+            "A peaceful trading festival"
+          ],
+          "fil": [
+            "Ang pagtatayo ng bagong templo",
+            "Ang sumusulong na kapangyarihan ng Asiria",
+            "Mapayapang pistang pangkalakalan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The river image warns of an overwhelming invasion (Isaiah 8).",
+          "fil": "Nagbabala ang larawan ng ilog ng napakalakas na pagsalakay (Isaias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom should the people revere instead of sharing every public fear?",
+          "fil": "Sino ang dapat igalang ng bayan sa halip na makibahagi sa bawat pangamba?"
+        },
+        "options": {
+          "en": [
+            "The Lord",
+            "Whoever spreads the most rumors",
+            "The strongest idol"
+          ],
+          "fil": [
+            "Ang Panginoon",
+            "Ang nagpapalaganap ng pinakamaraming tsismis",
+            "Ang pinakamalakas na diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God calls Isaiah to fear him rather than popular threats (Isaiah 8).",
+          "fil": "Tinawag ng Diyos si Isaias na matakot sa kanya sa halip na karaniwang mga banta (Isaias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where should people seek guidance instead of consulting the dead?",
+          "fil": "Saan dapat humingi ng patnubay ang tao sa halip na sumangguni sa patay?"
+        },
+        "options": {
+          "en": [
+            "In the wealth of foreign kings",
+            "In secret spells",
+            "In God's instruction and testimony"
+          ],
+          "fil": [
+            "Sa yaman ng dayuhang hari",
+            "Sa lihim na orasyon",
+            "Sa turo at patotoo ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The message directs people to God's revealed guidance (Isaiah 8).",
+          "fil": "Itinuon ng mensahe ang bayan sa ipinahayag na patnubay ng Diyos (Isaias 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What change is promised to people living in darkness?",
+          "fil": "Anong pagbabago ang ipinangako sa mga namumuhay sa dilim?"
+        },
+        "options": {
+          "en": [
+            "Endless darkness",
+            "A command to stop hoping",
+            "The coming of great light"
+          ],
+          "fil": [
+            "Walang katapusang dilim",
+            "Utos na tumigil sa pag-asa",
+            "Ang pagdating ng malaking liwanag"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Light pictures the joy of deliverance after oppression (Isaiah 9).",
+          "fil": "Inilarawan ng liwanag ang tuwa ng pagliligtas matapos ang pang-aapi (Isaias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What characterizes the rule of the promised child?",
+          "fil": "Ano ang katangian ng pamamahala ng ipinangakong bata?"
+        },
+        "options": {
+          "en": [
+            "Service to foreign idols",
+            "Cruelty without limits",
+            "Lasting peace and justice"
+          ],
+          "fil": [
+            "Paglilingkod sa dayuhang diyus-diyosan",
+            "Kalupitang walang hangganan",
+            "Pangmatagalang kapayapaan at katarungan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The child is associated with righteous and peaceful government (Isaiah 9).",
+          "fil": "Iniugnay ang bata sa matuwid at mapayapang pamamahala (Isaias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which royal line is connected with this promised rule?",
+          "fil": "Anong maharlikang angkan ang iniugnay sa ipinangakong pamamahala?"
+        },
+        "options": {
+          "en": [
+            "Ahab's",
+            "David's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Ang kay Ahab",
+            "Ang kay David",
+            "Ang kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise concerns David's throne and kingdom (Isaiah 9).",
+          "fil": "Tungkol sa trono at kaharian ni David ang pangako (Isaias 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What role does Assyria serve in the warning?",
+          "fil": "Anong papel ang ginampanan ng Asiria sa babala?"
+        },
+        "options": {
+          "en": [
+            "A power greater than God",
+            "A nation unable to fight",
+            "An instrument of judgment"
+          ],
+          "fil": [
+            "Kapangyarihang higit sa Diyos",
+            "Bansang hindi makalaban",
+            "Kasangkapan ng paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Assyria is used as an instrument without becoming sovereign over God (Isaiah 10).",
+          "fil": "Ginamit ang Asiria bilang kasangkapan nang hindi nagiging higit sa Diyos (Isaias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why will Assyria also face judgment?",
+          "fil": "Bakit haharap din ang Asiria sa paghatol?"
+        },
+        "options": {
+          "en": [
+            "It refuses every act of oppression",
+            "It has shown perfect humility",
+            "It arrogantly credits its victories to itself"
+          ],
+          "fil": [
+            "Tinatanggihan nito ang bawat pang-aapi",
+            "Nagpakita ito ng ganap na pagpapakumbaba",
+            "Mapagmataas nitong iniukol sa sarili ang mga tagumpay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God condemns the arrogance of the instrument he uses (Isaiah 10).",
+          "fil": "Kinondena ng Diyos ang kapalaluan ng kasangkapang kanyang ginagamit (Isaias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "On whom will the surviving remnant finally rely?",
+          "fil": "Kanino sa huli aasa ang nalabing nakaligtas?"
+        },
+        "options": {
+          "en": [
+            "The Lord rather than their oppressor",
+            "Assyria's king forever",
+            "Their idols alone"
+          ],
+          "fil": [
+            "Sa Panginoon sa halip na sa nang-api",
+            "Sa hari ng Asiria magpakailanman",
+            "Sa diyus-diyosan lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The remnant returns to genuine dependence on God (Isaiah 10).",
+          "fil": "Bumalik ang nalabi sa tunay na pag-asa sa Diyos (Isaias 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "From whose family is the new shoot described as growing?",
+          "fil": "Mula sa kaninong angkan inilarawang tumutubo ang bagong usbong?"
+        },
+        "options": {
+          "en": [
+            "Goliath's",
+            "Jesse's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Sa angkan ni Goliat",
+            "Sa angkan ni Jesse",
+            "Sa angkan ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The shoot points to renewed rule from David's family (Isaiah 11).",
+          "fil": "Itinuro ng usbong ang bagong pamamahala mula sa pamilya ni David (Isaias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How will this ruler judge the poor?",
+          "fil": "Paano hahatulan ng pinunong ito ang mahihirap?"
+        },
+        "options": {
+          "en": [
+            "With righteousness rather than appearances",
+            "According to the size of bribes",
+            "Without hearing any concern"
+          ],
+          "fil": [
+            "Nang may katuwiran at hindi sa panlabas na anyo",
+            "Ayon sa laki ng suhol",
+            "Nang walang dinidinig na alalahanin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promised ruler protects the needy through just judgment (Isaiah 11).",
+          "fil": "Iniingatan ng ipinangakong pinuno ang nangangailangan sa makatarungang paghatol (Isaias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do peaceful wolves, lambs, and children picture?",
+          "fil": "Ano ang inilalarawan ng mapayapang lobo, kordero, at mga bata?"
+        },
+        "options": {
+          "en": [
+            "An army training for conquest",
+            "A kingdom free from destructive harm",
+            "People forgetting God completely"
+          ],
+          "fil": [
+            "Hukbong nagsasanay sa pananakop",
+            "Kahariang malaya sa mapanirang pananakit",
+            "Bayang lubusang lumilimot sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The animal imagery expresses peace throughout God's holy mountain (Isaiah 11).",
+          "fil": "Ipinahayag ng larawan ng mga hayop ang kapayapaan sa banal na bundok ng Diyos (Isaias 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does the song give thanks to the Lord?",
+          "fil": "Bakit nagpapasalamat sa Panginoon ang awit?"
+        },
+        "options": {
+          "en": [
+            "He has approved every idol",
+            "He has stopped hearing prayer",
+            "His anger has turned to comfort"
+          ],
+          "fil": [
+            "Sinang-ayunan niya ang bawat diyus-diyosan",
+            "Tumigil siya sa pagdinig ng panalangin",
+            "Napalitan ng pag-aliw ang kanyang galit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song celebrates comfort after divine anger (Isaiah 12).",
+          "fil": "Ipinagdiwang ng awit ang pag-aliw matapos ang galit ng Diyos (Isaias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude replaces fear in this song?",
+          "fil": "Anong saloobin ang pumalit sa takot sa awit?"
+        },
+        "options": {
+          "en": [
+            "Trust in God as salvation",
+            "Pride in oppression",
+            "Dependence on wealth alone"
+          ],
+          "fil": [
+            "Pagtitiwala sa Diyos bilang kaligtasan",
+            "Pagmamataas sa pang-aapi",
+            "Pag-asa sa yaman lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's saving strength gives the singers confidence (Isaiah 12).",
+          "fil": "Nagbigay ng tiwala sa mga umaawit ang nagliligtas na lakas ng Diyos (Isaias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should the singers make known among the nations?",
+          "fil": "Ano ang dapat ipakilala ng mga umaawit sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "The price of royal clothing",
+            "The Lord's great deeds",
+            "The power of handmade idols"
+          ],
+          "fil": [
+            "Ang halaga ng maharlikang damit",
+            "Ang mga dakilang gawa ng Panginoon",
+            "Ang kapangyarihan ng diyus-diyosang gawa ng kamay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Thanksgiving becomes public praise of God's works (Isaiah 12).",
+          "fil": "Nagiging hayag na papuri sa gawa ng Diyos ang pasasalamat (Isaias 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Which empire is named at the beginning of this oracle?",
+          "fil": "Anong imperyo ang pinangalanan sa simula ng pahayag?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Babylon",
+            "Rome"
+          ],
+          "fil": [
+            "Egipto",
+            "Babilonia",
+            "Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The oracle announces Babylon's coming downfall (Isaiah 13).",
+          "fil": "Ipinahayag ng pahayag ang darating na pagbagsak ng Babilonia (Isaias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What human attitude does the coming judgment humble?",
+          "fil": "Anong saloobin ng tao ang ibababa ng darating na paghatol?"
+        },
+        "options": {
+          "en": [
+            "Arrogance and proud power",
+            "Sincere repentance",
+            "Kindness to strangers"
+          ],
+          "fil": [
+            "Kapalaluan at mapagmataas na kapangyarihan",
+            "Tapat na pagsisisi",
+            "Kabutihan sa mga dayuhan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord condemns the pride of the ruthless (Isaiah 13).",
+          "fil": "Kinondena ng Panginoon ang pagmamataas ng malulupit (Isaias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which people are named as attackers stirred against Babylon?",
+          "fil": "Anong bayan ang pinangalanang sasalakay laban sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "The Romans",
+            "The Medes",
+            "The people of Judah alone"
+          ],
+          "fil": [
+            "Ang mga Romano",
+            "Ang mga Medo",
+            "Ang mga taga-Juda lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Medes appear in the warning of Babylon's destruction (Isaiah 13).",
+          "fil": "Binanggit ang mga Medo sa babala ng pagkawasak ng Babilonia (Isaias 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Whose downfall is mocked in the taunt?",
+          "fil": "Kaninong pagbagsak ang kinutya sa panunuya?"
+        },
+        "options": {
+          "en": [
+            "The prophet Isaiah",
+            "The king of Babylon",
+            "The priest Aaron"
+          ],
+          "fil": [
+            "Ang propetang si Isaias",
+            "Ang hari ng Babilonia",
+            "Ang paring si Aaron"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The taunt reverses the former oppressor's royal pride (Isaiah 14).",
+          "fil": "Binaligtad ng panunuya ang dating pagmamataas ng haring nang-api (Isaias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ambition does the taunted ruler express?",
+          "fil": "Anong ambisyon ang ipinahayag ng kinutyang pinuno?"
+        },
+        "options": {
+          "en": [
+            "To raise himself to a godlike height",
+            "To serve the poor humbly",
+            "To give up every claim to power"
+          ],
+          "fil": [
+            "Itaas ang sarili sa katayuang tulad ng diyos",
+            "Mapagpakumbabang maglingkod sa mahihirap",
+            "Iwan ang bawat pag-angkin sa kapangyarihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The ruler's exalted ambition ends in humiliation (Isaiah 14).",
+          "fil": "Nagtapos sa kahihiyan ang mataas na ambisyon ng pinuno (Isaias 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the end of the oppressor's power bring to others?",
+          "fil": "Ano ang idinulot sa iba ng pagtatapos ng kapangyarihan ng nang-api?"
+        },
+        "options": {
+          "en": [
+            "Stronger chains for every nation",
+            "Rest and relief from harsh service",
+            "A command to mourn his greatness forever"
+          ],
+          "fil": [
+            "Mas matibay na tanikala sa bawat bansa",
+            "Pahinga at ginhawa mula sa malupit na paglilingkod",
+            "Utos na ipagluksa magpakailanman ang kanyang kadakilaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The fall of tyranny is pictured as relief for the oppressed (Isaiah 14).",
+          "fil": "Inilarawan ang pagbagsak ng kalupitan bilang ginhawa sa inaapi (Isaias 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Which nation is the subject of this lament?",
+          "fil": "Anong bansa ang paksa ng panaghoy na ito?"
+        },
+        "options": {
+          "en": [
+            "Persia",
+            "Assyria",
+            "Moab"
+          ],
+          "fil": [
+            "Persia",
+            "Asiria",
+            "Moab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter mourns devastation across Moab (Isaiah 15).",
+          "fil": "Ipinagluksa ng kabanata ang pagkawasak sa Moab (Isaias 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people respond to their ruined towns?",
+          "fil": "Paano tumugon ang mga tao sa nasirang mga bayan?"
+        },
+        "options": {
+          "en": [
+            "With confidence that nothing has happened",
+            "With a peaceful harvest feast",
+            "With weeping and flight"
+          ],
+          "fil": [
+            "Sa tiwalang walang nangyari",
+            "Sa mapayapang piging ng anihan",
+            "Sa pag-iyak at pagtakas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Widespread grief accompanies Moab's losses (Isaiah 15).",
+          "fil": "Sinabayan ng malawakang dalamhati ang mga pagkawala ng Moab (Isaias 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the land's grass and greenery?",
+          "fil": "Ano ang nangyari sa damo at luntiang halaman ng lupain?"
+        },
+        "options": {
+          "en": [
+            "They grow into protective walls",
+            "They wither and disappear",
+            "They turn into gold"
+          ],
+          "fil": [
+            "Lumaki ang mga ito bilang mga pader na pananggalang",
+            "Nalanta at nawala ang mga ito",
+            "Naging ginto ang mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Withered fields deepen the picture of desolation (Isaiah 15).",
+          "fil": "Pinalalim ng tuyong bukid ang larawan ng pagkatiwangwang (Isaias 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "For whom is shelter sought in this oracle?",
+          "fil": "Para kanino hinanap ang kanlungan sa pahayag na ito?"
+        },
+        "options": {
+          "en": [
+            "Moab's fugitives",
+            "Rome's merchants",
+            "Babylon's victorious kings"
+          ],
+          "fil": [
+            "Sa mga tumatakas mula sa Moab",
+            "Sa mga mangangalakal ng Roma",
+            "Sa nagtagumpay na mga hari ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The appeal asks for shelter for people driven from Moab (Isaiah 16).",
+          "fil": "Humingi ang pakiusap ng kanlungan para sa mga itinaboy mula sa Moab (Isaias 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude of Moab is condemned?",
+          "fil": "Anong saloobin ng Moab ang kinondena?"
+        },
+        "options": {
+          "en": [
+            "Generous mercy",
+            "Excessive pride",
+            "Humble trust"
+          ],
+          "fil": [
+            "Bukas-palad na awa",
+            "Sobrang pagmamataas",
+            "Mapagpakumbabang pagtitiwala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moab's arrogance is exposed despite its desperate situation (Isaiah 16).",
+          "fil": "Inilantad ang kapalaluan ng Moab sa kabila ng matinding kalagayan nito (Isaias 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to joy in the vineyards?",
+          "fil": "Ano ang nangyari sa saya sa mga ubasan?"
+        },
+        "options": {
+          "en": [
+            "The celebrations increase without end",
+            "Harvest songs and gladness fall silent",
+            "Every field becomes a palace"
+          ],
+          "fil": [
+            "Dumami ang pagdiriwang nang walang katapusan",
+            "Tumahimik ang mga awit ng anihan at kagalakan",
+            "Naging palasyo ang bawat bukid"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The loss of vineyard joy pictures Moab's grief (Isaiah 16).",
+          "fil": "Inilarawan ng pagkawala ng saya sa ubasan ang dalamhati ng Moab (Isaias 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "Which city is named in the opening warning?",
+          "fil": "Anong lunsod ang pinangalanan sa pambungad na babala?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Jerusalem",
+            "Damascus"
+          ],
+          "fil": [
+            "Bethlehem",
+            "Jerusalem",
+            "Damasco"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning concerns Damascus alongside the weakening of Israel (Isaiah 17).",
+          "fil": "Tungkol sa Damasco at paghina ng Israel ang babala (Isaias 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the image of olives left after harvest represent?",
+          "fil": "Ano ang inilalarawan ng mga olibong natira matapos ang anihan?"
+        },
+        "options": {
+          "en": [
+            "An army without any losses",
+            "Unlimited harvests forever",
+            "A small surviving remnant"
+          ],
+          "fil": [
+            "Hukbong walang anumang nasawi",
+            "Walang hanggang ani magpakailanman",
+            "Maliit na nalabing nakaligtas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The harvest image leaves a remnant amid great loss (Isaiah 17).",
+          "fil": "Nag-iwan ang larawan ng anihan ng nalabi sa gitna ng malaking pagkawala (Isaias 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom will people turn instead of handmade altars?",
+          "fil": "Kanino babaling ang mga tao sa halip na sa mga altar na gawa ng kamay?"
+        },
+        "options": {
+          "en": [
+            "More powerful idols",
+            "The richest merchant",
+            "Their Maker"
+          ],
+          "fil": [
+            "Sa mas malakas na diyus-diyosan",
+            "Sa pinakamayamang mangangalakal",
+            "Sa kanilang Lumikha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning points from false worship back to God (Isaiah 17).",
+          "fil": "Itinuro ng babala ang pagbabalik mula sa maling pagsamba tungo sa Diyos (Isaias 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Which region's rivers help locate the land addressed?",
+          "fil": "Anong rehiyon ang may mga ilog na tumutukoy sa lupaing kinausap?"
+        },
+        "options": {
+          "en": [
+            "Cush, also called Ethiopia",
+            "Moab",
+            "Rome"
+          ],
+          "fil": [
+          "Etiopia",
+            "Moab",
+            "Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oracle concerns the distant land associated with Cush (Isaiah 18).",
+        "fil": "Tungkol ang pahayag sa malayong lupaing kaugnay ng Etiopia (Isaias 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does cutting branches before harvest picture?",
+          "fil": "Ano ang inilalarawan ng pagputol ng sanga bago ang anihan?"
+        },
+        "options": {
+          "en": [
+            "The creation of a new idol",
+            "A guarantee of endless harvests",
+            "God's action interrupting human plans"
+          ],
+          "fil": [
+            "Ang paglikha ng bagong diyus-diyosan",
+            "Katiyakan ng walang katapusang ani",
+            "Ang pagkilos ng Diyos na pumuputol sa plano ng tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The pruning image signals decisive divine intervention (Isaiah 18).",
+          "fil": "Nagpahiwatig ang larawan ng pagputol ng tiyak na pagkilos ng Diyos (Isaias 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where are gifts finally brought?",
+          "fil": "Saan dinala sa huli ang mga handog?"
+        },
+        "options": {
+          "en": [
+            "To Pharaoh's tomb",
+            "To Babylon's idols",
+            "To the Lord at Mount Zion"
+          ],
+          "fil": [
+            "Sa libingan ni Faraon",
+            "Sa mga diyus-diyosan ng Babilonia",
+            "Sa Panginoon sa Bundok Sion"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing vision directs tribute toward the Lord (Isaiah 18).",
+          "fil": "Itinuon ng pangwakas na pangitain ang handog sa Panginoon (Isaias 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Which nation is the subject of this oracle?",
+          "fil": "Anong bansa ang paksa ng pahayag na ito?"
+        },
+        "options": {
+          "en": [
+            "Egypt",
+            "Persia",
+            "Edom"
+          ],
+          "fil": [
+            "Egipto",
+            "Persia",
+            "Edom"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter announces Egypt's distress and later hope (Isaiah 19).",
+          "fil": "Ipinahayag ng kabanata ang paghihirap at pag-asa ng Egipto (Isaias 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the Nile and the livelihoods depending on it?",
+          "fil": "Ano ang nangyari sa Nilo at mga hanapbuhay na umaasa rito?"
+        },
+        "options": {
+          "en": [
+            "The river turns into gold",
+            "Every worker becomes a king",
+            "Drying waters bring economic distress"
+          ],
+          "fil": [
+            "Naging ginto ang ilog",
+            "Naging hari ang bawat manggagawa",
+            "Nagdala ng hirap sa kabuhayan ang natutuyong tubig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The failing river exposes Egypt's vulnerable resources (Isaiah 19).",
+          "fil": "Inilantad ng humihinang ilog ang marupok na panustos ng Egipto (Isaias 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What surprising future joins Egypt, Assyria, and Israel?",
+          "fil": "Anong nakakagulat na hinaharap ang nagbuklod sa Egipto, Asiria, at Israel?"
+        },
+        "options": {
+          "en": [
+            "The permanent exclusion of every foreigner",
+            "Endless war approved by idols",
+            "Shared worship and blessing under the Lord"
+          ],
+          "fil": [
+            "Permanenteng pagbubukod sa bawat dayuhan",
+            "Walang katapusang digmaang sinang-ayunan ng diyus-diyosan",
+            "Pinagsasaluhang pagsamba at pagpapala sa ilalim ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The final vision brings former rivals into God's blessing (Isaiah 19).",
+          "fil": "Pinag-isa ng huling pangitain ang dating magkakalaban sa pagpapala ng Diyos (Isaias 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Who performs the unusual prophetic sign?",
+          "fil": "Sino ang gumawa ng di-karaniwang tanda ng propeta?"
+        },
+        "options": {
+          "en": [
+            "Isaiah",
+            "Jeremiah",
+            "Ezekiel"
+          ],
+          "fil": [
+            "Si Isaias",
+            "Si Jeremias",
+            "Si Ezekiel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Isaiah's own conduct becomes a sign to observers (Isaiah 20).",
+          "fil": "Naging tanda sa mga nanonood ang mismong kilos ni Isaias (Isaias 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the sign involve?",
+          "fil": "Ano ang kasama sa tanda?"
+        },
+        "options": {
+          "en": [
+            "Wearing a golden crown",
+            "Walking stripped and barefoot",
+            "Building a ship in Jerusalem"
+          ],
+          "fil": [
+            "Pagsusuot ng gintong korona",
+            "Paglalakad nang hubad at walang sapin sa paa",
+            "Paggawa ng barko sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Isaiah's exposed condition pictures humiliating captivity (Isaiah 20).",
+          "fil": "Inilarawan ng nakahantad na kalagayan ni Isaias ang nakahihiyang pagkabihag (Isaias 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose captivity does the sign warn about?",
+          "fil": "Kaninong pagkabihag ang ibinabala ng tanda?"
+        },
+        "options": {
+          "en": [
+            "Rome under Judah",
+            "Egypt and Cush under Assyria",
+            "Persia under David"
+          ],
+          "fil": [
+            "Ang Roma sa ilalim ng Juda",
+          "Ang Egipto at Etiopia sa ilalim ng Asiria",
+            "Ang Persia sa ilalim ni David"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Reliance on Egypt and Cush will end in disappointment (Isaiah 20).",
+        "fil": "Hahantong sa pagkabigo ang pag-asa sa Egipto at Etiopia (Isaias 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "Which city's fall does the watchman announce?",
+          "fil": "Kaninong pagbagsak ang ipinahayag ng bantay?"
+        },
+        "options": {
+          "en": [
+            "Jerusalem's",
+            "Babylon's",
+            "Bethlehem's"
+          ],
+          "fil": [
+            "Ng Jerusalem",
+            "Ng Babilonia",
+            "Ng Bethlehem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The watchman's report announces Babylon's collapse (Isaiah 21).",
+          "fil": "Ipinahayag ng ulat ng bantay ang pagbagsak ng Babilonia (Isaias 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility is given to the watchman?",
+          "fil": "Anong tungkulin ang ibinigay sa bantay?"
+        },
+        "options": {
+          "en": [
+            "Leave the post without watching",
+            "Observe carefully and report what he sees",
+            "Invent reassuring news"
+          ],
+          "fil": [
+            "Iwan ang puwesto nang hindi nagbabantay",
+            "Magmasid nang maingat at iulat ang nakikita",
+            "Mag-imbento ng nakapagpapanatag na balita"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The watchman waits attentively for the approaching report (Isaiah 21).",
+          "fil": "Matiyagang naghintay ang bantay sa paparating na ulat (Isaias 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the fallen city's images of gods?",
+          "fil": "Ano ang nangyari sa mga imahen ng diyos ng bumagsak na lunsod?"
+        },
+        "options": {
+          "en": [
+            "They rescue the city",
+            "They become living kings",
+            "They are broken to the ground"
+          ],
+          "fil": [
+            "Iniligtas ng mga ito ang lunsod",
+            "Naging buháy na hari ang mga ito",
+            "Nabasag ang mga ito sa lupa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ruined images cannot protect Babylon (Isaiah 21).",
+          "fil": "Hindi maipagtatanggol ng mga sirang imahen ang Babilonia (Isaias 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Which city is addressed in the vision of the valley?",
+          "fil": "Anong lunsod ang kinausap sa pangitain ng lambak?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Tyre",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Nineve",
+            "Tiro",
+            "Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The warning confronts Jerusalem's response to danger (Isaiah 22).",
+          "fil": "Hinarap ng babala ang tugon ng Jerusalem sa panganib (Isaias 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is missing from the city's defensive preparations?",
+          "fil": "Ano ang kulang sa paghahanda ng pananggalang ng lunsod?"
+        },
+        "options": {
+          "en": [
+            "More boasting over enemies",
+            "More confidence in idols",
+            "Looking to the God who made and planned it"
+          ],
+          "fil": [
+            "Dagdag na pagyayabang sa kaaway",
+            "Dagdag na tiwala sa diyus-diyosan",
+            "Pagtingin sa Diyos na lumikha at nagplano nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Practical preparations are made without trust in the Maker (Isaiah 22).",
+          "fil": "Gumawa ng praktikal na paghahanda nang walang tiwala sa Lumikha (Isaias 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response replaces the repentance God calls for?",
+          "fil": "Anong tugon ang pumalit sa pagsisising hinihingi ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Feasting as though there is no hope beyond the moment",
+            "Sincere mourning and humility",
+            "Immediate obedience to every warning"
+          ],
+          "fil": [
+            "Piging na para bang wala nang pag-asa lampas sa sandali",
+            "Tapat na pagluluksa at pagpapakumbaba",
+            "Agarang pagsunod sa bawat babala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people celebrate when they should be turning back (Isaiah 22).",
+          "fil": "Nagdiwang ang bayan kung kailan dapat silang magbalik-loob (Isaias 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Which trading city is the main subject?",
+          "fil": "Anong lunsod ng kalakalan ang pangunahing paksa?"
+        },
+        "options": {
+          "en": [
+            "Tyre",
+            "Bethlehem",
+            "Damascus"
+          ],
+          "fil": [
+            "Tiro",
+            "Bethlehem",
+            "Damasco"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oracle announces the humiliation of wealthy Tyre (Isaiah 23).",
+          "fil": "Ipinahayag ng pahayag ang pagpapababa sa mayamang Tiro (Isaias 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do ships and merchants lament Tyre's fall?",
+          "fil": "Bakit ipinagluksa ng mga barko at mangangalakal ang pagbagsak ng Tiro?"
+        },
+        "options": {
+          "en": [
+            "They have lost every interest in trade",
+            "Their prosperous trading center is devastated",
+            "They have become prophets"
+          ],
+          "fil": [
+            "Nawalan sila ng anumang interes sa kalakalan",
+            "Nawasak ang kanilang masaganang sentro ng kalakalan",
+            "Naging mga propeta sila"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tyre's ruin shakes the wider trading world (Isaiah 23).",
+          "fil": "Nayanig ng pagkawasak ng Tiro ang mas malawak na daigdig ng kalakalan (Isaias 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future use is described for Tyre's earnings?",
+          "fil": "Anong gamit sa hinaharap ang inilarawan para sa kita ng Tiro?"
+        },
+        "options": {
+          "en": [
+            "Permanent payment to Baal",
+            "Provision dedicated to the Lord",
+            "Weapons to conquer heaven"
+          ],
+          "fil": [
+            "Permanenteng bayad kay Baal",
+            "Panustos na inilaan sa Panginoon",
+            "Sandatang sasakop sa langit"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing promise redirects wealth toward sacred provision (Isaiah 23).",
+          "fil": "Itinuon ng pangwakas na pangako ang yaman sa banal na panustos (Isaias 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "How wide is the judgment pictured here?",
+          "fil": "Gaano kalawak ang paghatol na inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "It excludes every wealthy ruler",
+            "It reaches the earth and people of every rank",
+            "It affects only one merchant"
+          ],
+          "fil": [
+            "Hindi kasama ang bawat mayamang pinuno",
+            "Umaabot ito sa daigdig at tao ng bawat katayuan",
+            "Iisang mangangalakal lamang ang apektado"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "No social position provides escape from the upheaval (Isaiah 24).",
+          "fil": "Walang katayuang panlipunan ang makapagliligtas sa kaguluhan (Isaias 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What has defiled the earth?",
+          "fil": "Ano ang nagparumi sa daigdig?"
+        },
+        "options": {
+          "en": [
+            "The faithful prayers of the poor",
+            "Too much honest work",
+            "Its inhabitants' violation of God's order and covenant"
+          ],
+          "fil": [
+            "Ang tapat na panalangin ng mahihirap",
+            "Sobrang matapat na paggawa",
+            "Ang paglabag ng mga naninirahan sa kaayusan at tipan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Human unfaithfulness lies behind the world's devastation (Isaiah 24).",
+          "fil": "Nasa likod ng pagkawasak ng daigdig ang pagtataksil ng tao (Isaias 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do surviving voices still raise amid the devastation?",
+          "fil": "Ano ang itinaas pa ng mga tinig na natira sa gitna ng pagkawasak?"
+        },
+        "options": {
+          "en": [
+            "Worship of broken idols",
+            "Praise for the Lord's majesty",
+            "Orders for a new palace"
+          ],
+          "fil": [
+            "Pagsamba sa basag na diyus-diyosan",
+            "Papuri sa kadakilaan ng Panginoon",
+            "Utos para sa bagong palasyo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Praise persists even within the vision of judgment (Isaiah 24).",
+          "fil": "Nananatili ang papuri kahit sa pangitain ng paghatol (Isaias 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "How has God cared for the poor and distressed?",
+          "fil": "Paano inalagaan ng Diyos ang mahihirap at nahihirapan?"
+        },
+        "options": {
+          "en": [
+            "As refuge and shelter from oppression",
+            "By forgetting their needs",
+            "By demanding royal wealth first"
+          ],
+          "fil": [
+            "Bilang kanlungan at pananggalang sa pang-aapi",
+            "Sa paglimot sa kanilang pangangailangan",
+            "Sa paghingi muna ng yaman ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song praises God as a shelter for the vulnerable (Isaiah 25).",
+          "fil": "Pinuri ng awit ang Diyos bilang kanlungan ng mahihina (Isaias 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whom does the Lord prepare a rich feast on his mountain?",
+          "fil": "Para kanino naghanda ng masaganang piging ang Panginoon sa kanyang bundok?"
+        },
+        "options": {
+          "en": [
+            "All peoples",
+            "Only the strongest army",
+            "Only wealthy merchants"
+          ],
+          "fil": [
+            "Sa lahat ng bayan",
+            "Sa pinakamalakas na hukbo lamang",
+            "Sa mayayamang mangangalakal lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promised banquet welcomes peoples beyond one nation (Isaiah 25).",
+          "fil": "Tinanggap ng ipinangakong piging ang mga bayan lampas sa iisang bansa (Isaias 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sorrowful realities does God promise to remove?",
+          "fil": "Anong malulungkot na kalagayan ang ipinangako ng Diyos na aalisin?"
+        },
+        "options": {
+          "en": [
+            "Every reason to give thanks",
+            "Death, tears, and his people's disgrace",
+            "Every act of kindness"
+          ],
+          "fil": [
+            "Bawat dahilan upang magpasalamat",
+            "Kamatayan, luha, at kahihiyan ng kanyang bayan",
+            "Bawat gawa ng kabutihan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision promises victory over death and mourning (Isaiah 25).",
+          "fil": "Ipinangako ng pangitain ang tagumpay sa kamatayan at pagluluksa (Isaias 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What gives the singers peace amid uncertainty?",
+          "fil": "Ano ang nagbibigay ng kapayapaan sa mga umaawit sa gitna ng kawalang-katiyakan?"
+        },
+        "options": {
+          "en": [
+            "Steady trust in the Lord",
+            "Dependence on dishonest wealth",
+            "Confidence in every rumor"
+          ],
+          "fil": [
+            "Matatag na pagtitiwala sa Panginoon",
+            "Pag-asa sa madayang yaman",
+            "Tiwala sa bawat tsismis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song connects peace with a mind resting on God (Isaiah 26).",
+          "fil": "Iniugnay ng awit ang kapayapaan sa isip na umaasa sa Diyos (Isaias 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the singers long for during the night?",
+          "fil": "Ano ang hinangad ng mga umaawit sa gabi?"
+        },
+        "options": {
+          "en": [
+            "A stronger idol to worship",
+            "God's presence and righteous judgments",
+            "More opportunities for revenge"
+          ],
+          "fil": [
+            "Mas malakas na diyus-diyosan na sasambahin",
+            "Ang presensiya at matuwid na hatol ng Diyos",
+            "Dagdag na pagkakataong maghiganti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer expresses a deep desire to seek God (Isaiah 26).",
+          "fil": "Ipinahayag ng panalangin ang malalim na hangaring hanapin ang Diyos (Isaias 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hopeful picture is given about the dead?",
+          "fil": "Anong larawang may pag-asa ang ibinigay tungkol sa mga patay?"
+        },
+        "options": {
+          "en": [
+            "They become kings over God",
+            "They awaken and rise to life",
+            "They are forgotten without any hope"
+          ],
+          "fil": [
+            "Nagiging mga hari sila ng Diyos",
+            "Gumigising sila at bumabangon sa buhay",
+            "Kinalilimutan sila nang walang anumang pag-asa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter includes a promise of renewed life for the dead (Isaiah 26).",
+          "fil": "Kasama sa kabanata ang pangako ng bagong buhay para sa mga patay (Isaias 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What happens to the creature called Leviathan?",
+          "fil": "Ano ang nangyari sa nilalang na tinawag na Leviatan?"
+        },
+        "options": {
+          "en": [
+            "It becomes Israel's king",
+            "It defeats the Creator",
+            "The Lord defeats it"
+          ],
+          "fil": [
+            "Naging hari ito ng Israel",
+            "Tinalo nito ang Lumikha",
+            "Tinalo ito ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening picture declares God's victory over a threatening creature (Isaiah 27).",
+          "fil": "Ipinahayag ng pambungad na larawan ang tagumpay ng Diyos sa nagbabantang nilalang (Isaias 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God care for his vineyard?",
+          "fil": "Paano inalagaan ng Diyos ang kanyang ubasan?"
+        },
+        "options": {
+          "en": [
+            "He forgets it permanently",
+            "He waters and guards it continually",
+            "He gives it to idols"
+          ],
+          "fil": [
+            "Kinalimutan niya ito nang permanente",
+            "Patuloy niya itong dinidiligan at binabantayan",
+            "Ibinigay niya ito sa diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vineyard becomes a picture of protective divine care (Isaiah 27).",
+          "fil": "Naging larawan ng pag-iingat ng Diyos ang ubasan (Isaias 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the great trumpet gather the scattered people to do?",
+          "fil": "Ano ang gagawin ng nagkawatak-watak na bayang tinipon ng malaking trumpeta?"
+        },
+        "options": {
+          "en": [
+            "Serve Babylon's images",
+            "Destroy every vineyard",
+            "Worship the Lord in Jerusalem"
+          ],
+          "fil": [
+            "Maglingkod sa mga imahen ng Babilonia",
+            "Wasakin ang bawat ubasan",
+            "Sumamba sa Panginoon sa Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The scattered people return to worship on God's holy mountain (Isaiah 27).",
+          "fil": "Bumalik ang nagkawatak-watak na bayan upang sumamba sa banal na bundok ng Diyos (Isaias 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What image describes Ephraim's proud splendor?",
+          "fil": "Anong larawan ang naglarawan sa mapagmataas na kariktan ng Efraim?"
+        },
+        "options": {
+          "en": [
+            "A fortress God can never touch",
+            "A fading crown worn by the drunken",
+            "A sea that obeys a king"
+          ],
+          "fil": [
+            "Kutang hindi maabot ng Diyos kailanman",
+            "Nalalantang koronang suot ng mga lasing",
+            "Dagat na sumusunod sa hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ephraim's proud beauty is shown as fragile and fading (Isaiah 28).",
+          "fil": "Ipinakitang marupok at kumukupas ang ipinagmamalaking ganda ng Efraim (Isaias 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the supposed agreement with death really provide?",
+          "fil": "Ano ang tunay na naibibigay ng inaakalang kasunduan sa kamatayan?"
+        },
+        "options": {
+          "en": [
+            "False security that cannot prevent judgment",
+            "Power greater than God's",
+            "Complete protection for every wrong"
+          ],
+          "fil": [
+            "Maling katiyakang hindi makapipigil sa paghatol",
+            "Kapangyarihang higit sa Diyos",
+            "Ganap na proteksiyon sa bawat mali"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning exposes a deceptive refuge built on lies (Isaiah 28).",
+          "fil": "Inilantad ng babala ang mapanlinlang na kanlungang itinayo sa kasinungalingan (Isaias 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God lay in Zion as a reliable foundation?",
+          "fil": "Ano ang inilagay ng Diyos sa Sion bilang maaasahang pundasyon?"
+        },
+        "options": {
+          "en": [
+            "A pile of borrowed weapons",
+            "A tested cornerstone",
+            "A broken idol"
+          ],
+          "fil": [
+            "Tumpok ng hiniram na sandata",
+            "Isang subok na batong panulok",
+            "Basag na diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The firm stone contrasts with the leaders' refuge in falsehood (Isaiah 28).",
+          "fil": "Naiiba ang matatag na bato sa kanlungan ng mga pinuno sa kasinungalingan (Isaias 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "Which city is addressed as Ariel?",
+          "fil": "Anong lunsod ang kinausap bilang Ariel?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Nineveh",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Roma",
+            "Nineve",
+            "Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ariel is the city associated with David's dwelling (Isaiah 29).",
+          "fil": "Ang Ariel ang lunsod na kaugnay ng paninirahan ni David (Isaias 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What fault lies behind the people's outward religious honor?",
+          "fil": "Anong kasalanan ang nasa likod ng panlabas na paggalang sa relihiyon ng bayan?"
+        },
+        "options": {
+          "en": [
+            "They love justice too much",
+            "They refuse every idol",
+            "Their hearts remain far from God"
+          ],
+          "fil": [
+            "Sobra ang pagmamahal nila sa katarungan",
+            "Tinatanggihan nila ang bawat diyus-diyosan",
+            "Malayo pa rin sa Diyos ang kanilang puso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Verbal devotion hides a lack of genuine closeness to God (Isaiah 29).",
+          "fil": "Itinatago ng debosyon sa salita ang kawalan ng tunay na lapit sa Diyos (Isaias 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hopeful reversal is promised for the deaf and blind?",
+          "fil": "Anong pagbaligtad na may pag-asa ang ipinangako sa bingi at bulag?"
+        },
+        "options": {
+          "en": [
+            "They will be excluded forever",
+            "They will have no reason to rejoice",
+            "They will hear and see"
+          ],
+          "fil": [
+            "Ibubukod sila magpakailanman",
+            "Mawawalan sila ng dahilan upang magalak",
+            "Makaririnig at makakakita sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise pictures restored understanding and joy (Isaiah 29).",
+          "fil": "Inilarawan ng pangako ang naibalik na pang-unawa at kagalakan (Isaias 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What political reliance is condemned?",
+          "fil": "Anong pag-asang pampolitika ang kinondena?"
+        },
+        "options": {
+          "en": [
+            "Treating neighbors justly",
+            "Seeking Egypt's protection without consulting God",
+            "Asking God for wisdom"
+          ],
+          "fil": [
+            "Makatarungang pakikitungo sa kapwa",
+            "Paghahanap ng proteksiyon ng Egipto nang hindi sumasangguni sa Diyos",
+            "Paghingi ng karunungan sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Egypt's promised shelter will prove disappointing (Isaiah 30).",
+          "fil": "Magiging kabiguan ang ipinangakong kanlungan ng Egipto (Isaias 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of messages do the rebellious people demand?",
+          "fil": "Anong uri ng mensahe ang hinihingi ng mapaghimagsik na bayan?"
+        },
+        "options": {
+          "en": [
+            "More warnings against their favorite plans",
+            "Pleasant assurances instead of uncomfortable truth",
+            "Honest correction at every opportunity"
+          ],
+          "fil": [
+            "Dagdag na babala laban sa paborito nilang plano",
+            "Kaaya-ayang katiyakan sa halip na hindi komportableng katotohanan",
+            "Matapat na pagtutuwid sa bawat pagkakataon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people want reassuring words rather than God's warning (Isaiah 30).",
+          "fil": "Nais ng bayan ng nakapagpapanatag na salita sa halip na babala ng Diyos (Isaias 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where is true saving strength offered?",
+          "fil": "Saan inialok ang tunay na lakas na nagliligtas?"
+        },
+        "options": {
+          "en": [
+            "Faster horses alone",
+            "Returning to God with quiet trust",
+            "A larger collection of idols"
+          ],
+          "fil": [
+            "Sa mas mabilis na kabayo lamang",
+            "Sa pagbabalik sa Diyos nang may tahimik na pagtitiwala",
+            "Sa mas malaking koleksiyon ng diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God offers strength through repentance and confidence in him (Isaiah 30).",
+          "fil": "Nag-alok ang Diyos ng lakas sa pagsisisi at pagtitiwala sa kanya (Isaias 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "Why is trust in Egypt's horses and chariots misplaced?",
+          "fil": "Bakit mali ang pagtitiwala sa mga kabayo at karwahe ng Egipto?"
+        },
+        "options": {
+          "en": [
+            "They already control heaven",
+            "They never require anyone's care",
+            "They are human resources rather than divine power"
+          ],
+          "fil": [
+            "Kontrolado na ng mga ito ang langit",
+            "Hindi kailangan ng mga ito ng pag-aalaga kailanman",
+            "Mga panustos ng tao ang mga ito at hindi kapangyarihan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Human military strength cannot replace reliance on God (Isaiah 31).",
+          "fil": "Hindi mapapalitan ng lakas ng hukbo ng tao ang pag-asa sa Diyos (Isaias 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the lion and protective birds illustrate?",
+          "fil": "Ano ang inilalarawan ng leon at nag-iingat na mga ibon?"
+        },
+        "options": {
+          "en": [
+            "The Lord defending Jerusalem",
+            "Egypt ruling every nation",
+            "A new market for animals"
+          ],
+          "fil": [
+            "Ang Panginoong nagtatanggol sa Jerusalem",
+            "Ang Egiptong namamahala sa bawat bansa",
+            "Bagong pamilihan ng hayop"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "These pictures emphasize God's determined protection (Isaiah 31).",
+          "fil": "Binigyang-diin ng mga larawang ito ang matatag na pag-iingat ng Diyos (Isaias 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will the people reject when they turn back?",
+          "fil": "Ano ang itatakwil ng bayan kapag nagbalik-loob?"
+        },
+        "options": {
+          "en": [
+            "The Lord's guidance",
+            "Their silver and gold idols",
+            "Every honest prayer"
+          ],
+          "fil": [
+            "Ang patnubay ng Panginoon",
+            "Ang kanilang pilak at gintong diyus-diyosan",
+            "Ang bawat tapat na panalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Returning to God includes discarding false objects of worship (Isaiah 31).",
+          "fil": "Kasama sa pagbabalik sa Diyos ang pag-aalis ng mga huwad na sinasamba (Isaias 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "What characterizes the king and rulers in the opening vision?",
+          "fil": "Ano ang katangian ng hari at mga pinuno sa pambungad na pangitain?"
+        },
+        "options": {
+          "en": [
+            "Devotion to dishonest profit",
+            "Righteous and just rule",
+            "Indifference to oppression"
+          ],
+          "fil": [
+            "Debosyon sa madayang pakinabang",
+            "Matuwid at makatarungang pamamahala",
+            "Kawalang-malasakit sa pang-aapi"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision begins with leadership that shelters rather than exploits (Isaiah 32).",
+          "fil": "Nagsimula ang pangitain sa pamumunong kumakanlong sa halip na nagsasamantala (Isaias 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What transforms the wilderness into fruitful land?",
+          "fil": "Ano ang nagpabago sa ilang bilang mabungang lupain?"
+        },
+        "options": {
+          "en": [
+            "The pouring out of the Spirit",
+            "The crowning of a foreign idol",
+            "The absence of every law"
+          ],
+          "fil": [
+            "Ang pagbubuhos ng Espiritu",
+            "Ang pagkokorona sa dayuhang diyus-diyosan",
+            "Ang kawalan ng bawat kautusan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Renewal follows the gift of the Spirit from above (Isaiah 32).",
+          "fil": "Sumunod ang pagpapanibago sa kaloob ng Espiritu mula sa itaas (Isaias 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the fruit of righteousness in this renewed society?",
+          "fil": "Ano ang bunga ng katuwiran sa pinanibagong lipunang ito?"
+        },
+        "options": {
+          "en": [
+            "Greater oppression",
+            "Endless quarrels",
+            "Peace, quietness, and security"
+          ],
+          "fil": [
+            "Higit na pang-aapi",
+            "Walang katapusang away",
+            "Kapayapaan, katahimikan, at katiwasayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Just living produces lasting peace for the people (Isaiah 32).",
+          "fil": "Nagbubunga ng pangmatagalang kapayapaan sa bayan ang matuwid na pamumuhay (Isaias 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What warning is addressed to the destroyer?",
+          "fil": "Anong babala ang sinabi sa maninira?"
+        },
+        "options": {
+          "en": [
+            "Destruction will also come upon him",
+            "He has become stronger than God",
+            "His cruelty will be rewarded forever"
+          ],
+          "fil": [
+            "Darating din sa kanya ang pagwasak",
+            "Naging mas malakas siya sa Diyos",
+            "Gagantimpalaan ang kanyang kalupitan magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oppressor will face the same ruin he inflicted (Isaiah 33).",
+          "fil": "Haharap ang nang-api sa pagkawasak na kanyang idinulot (Isaias 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter call a true treasure for the people?",
+          "fil": "Ano ang tinawag ng kabanata na tunay na kayamanan para sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Wealth from bribes",
+            "A larger idol",
+            "Reverence for the Lord"
+          ],
+          "fil": [
+            "Yamang mula sa suhol",
+            "Mas malaking diyus-diyosan",
+            "Paggalang sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's saving wisdom is joined with reverence for him (Isaiah 33).",
+          "fil": "Iniugnay sa paggalang sa Diyos ang kanyang nagliligtas na karunungan (Isaias 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What promise concerns the guilt of those dwelling in restored Zion?",
+          "fil": "Anong pangako ang tungkol sa sala ng mga naninirahan sa ibinalik na Sion?"
+        },
+        "options": {
+          "en": [
+            "Their wrongdoing will be forgiven",
+            "Their idols will judge them",
+            "They must never ask for mercy"
+          ],
+          "fil": [
+            "Patatawarin ang kanilang kasalanan",
+            "Ang kanilang diyus-diyosan ang hahatol sa kanila",
+            "Hindi sila dapat humingi ng awa kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing promise includes forgiveness for the people (Isaiah 33).",
+          "fil": "Kasama sa pangwakas na pangako ang kapatawaran para sa bayan (Isaias 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "Which land receives particular attention in this judgment oracle?",
+          "fil": "Anong lupain ang lalo nang binigyang-pansin sa pahayag na ito ng paghatol?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Edom",
+            "Egypt"
+          ],
+          "fil": [
+            "Roma",
+            "Edom",
+            "Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Edom becomes a central picture of divine judgment (Isaiah 34).",
+          "fil": "Naging pangunahing larawan ng paghatol ng Diyos ang Edom (Isaias 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose cause is connected with the Lord's vengeance?",
+          "fil": "Kaninong usapin ang iniugnay sa paghihiganti ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Zion's",
+            "Pharaoh's",
+            "Baal's"
+          ],
+          "fil": [
+            "Sa Sion",
+            "Kay Faraon",
+            "Kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oracle speaks of judgment in defense of Zion's cause (Isaiah 34).",
+          "fil": "Nagsalita ang pahayag ng paghatol bilang pagtatanggol sa usapin ng Sion (Isaias 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do wild animals inhabiting the ruins picture?",
+          "fil": "Ano ang inilalarawan ng mababangis na hayop na tumitira sa guho?"
+        },
+        "options": {
+          "en": [
+            "An uninterrupted wedding feast",
+            "A thriving royal capital",
+            "Lasting desolation where people once lived"
+          ],
+          "fil": [
+            "Walang tigil na piging ng kasalan",
+            "Masaganang kabisera ng hari",
+            "Pangmatagalang pagkatiwangwang kung saan dating may tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ruined land becomes a habitation for wild creatures (Isaiah 34).",
+          "fil": "Naging tirahan ng mailap na mga nilalang ang wasak na lupain (Isaias 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "What happens to the dry wilderness in this vision?",
+          "fil": "Ano ang nangyari sa tuyong ilang sa pangitaing ito?"
+        },
+        "options": {
+          "en": [
+            "It loses every trace of life forever",
+            "It blossoms and rejoices",
+            "It becomes an idol's throne"
+          ],
+          "fil": [
+            "Nawalan ito ng bawat bakas ng buhay magpakailanman",
+            "Namulaklak ito at nagalak",
+            "Naging trono ito ng diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Blooming desert pictures joyful restoration (Isaiah 35).",
+          "fil": "Inilarawan ng namumulaklak na ilang ang masayang pagpapanumbalik (Isaias 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What changes come to people with bodily limitations?",
+          "fil": "Anong pagbabago ang dumating sa mga may limitasyon sa katawan?"
+        },
+        "options": {
+          "en": [
+            "They are excluded from hope",
+            "They are forgotten by everyone",
+            "Sight, hearing, and movement are restored"
+          ],
+          "fil": [
+            "Ibinukod sila sa pag-asa",
+            "Kinalimutan sila ng lahat",
+            "Naibalik ang paningin, pandinig, at pagkilos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Healing accompanies God's promised deliverance (Isaiah 35).",
+          "fil": "Kasama sa ipinangakong pagliligtas ng Diyos ang paggaling (Isaias 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the holy way lead the redeemed?",
+          "fil": "Saan humahantong ang banal na daan para sa mga tinubos?"
+        },
+        "options": {
+          "en": [
+            "Into permanent exile",
+            "To a temple of Baal",
+            "To Zion with lasting joy"
+          ],
+          "fil": [
+            "Sa permanenteng pagkakatapon",
+            "Sa templo ni Baal",
+            "Sa Sion na may pangmatagalang kagalakan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The redeemed return home as sorrow gives way to gladness (Isaiah 35).",
+          "fil": "Umuwi ang mga tinubos habang napalitan ng saya ang lungkot (Isaias 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "Which empire threatens Jerusalem in this narrative?",
+          "fil": "Anong imperyo ang nagbanta sa Jerusalem sa salaysay na ito?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Assyria",
+            "Persia"
+          ],
+          "fil": [
+            "Roma",
+            "Asiria",
+            "Persia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Sennacherib sends a powerful force against Hezekiah's kingdom (Isaiah 36).",
+          "fil": "Nagpadala si Senakerib ng malakas na hukbo laban sa kaharian ni Ezequias (Isaias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What trust does the Assyrian spokesman try to undermine?",
+          "fil": "Anong pagtitiwala ang sinikap pahinain ng tagapagsalita ng Asiria?"
+        },
+        "options": {
+          "en": [
+            "The people's trust in the Lord and Hezekiah's assurance",
+            "Their trust in Jeremiah's scroll",
+            "Their belief that Baal is king"
+          ],
+          "fil": [
+            "Ang tiwala ng bayan sa Panginoon at katiyakan ni Ezequias",
+            "Ang tiwala sa kasulatan ni Jeremias",
+            "Ang paniniwalang hari si Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The spokesman claims that the Lord cannot rescue Jerusalem (Isaiah 36).",
+          "fil": "Sinabi ng tagapagsalita na hindi maililigtas ng Panginoon ang Jerusalem (Isaias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does the spokesman urge?",
+          "fil": "Anong tugon ang hinimok ng tagapagsalita?"
+        },
+        "options": {
+          "en": [
+            "Crown Isaiah king",
+            "Attack Babylon immediately",
+            "Surrender to Assyria"
+          ],
+          "fil": [
+            "Pagkorona kay Isaias bilang hari",
+            "Agarang pag-atake sa Babilonia",
+            "Pagsuko sa Asiria"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The threatening speech offers false reassurance through surrender (Isaiah 36).",
+          "fil": "Nag-alok ang nagbabantang talumpati ng katiyakan sa pamamagitan ng pagsuko (Isaias 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people answer the spokesman?",
+          "fil": "Paano sinagot ng bayan ang tagapagsalita?"
+        },
+        "options": {
+          "en": [
+            "They crown the spokesman",
+            "They immediately accept every offer",
+            "They remain silent as the king instructed"
+          ],
+          "fil": [
+            "Kinoronahan nila ang tagapagsalita",
+            "Agad nilang tinanggap ang bawat alok",
+            "Nanahimik sila ayon sa utos ng hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hezekiah's command keeps the people from answering the taunts (Isaiah 36).",
+          "fil": "Pinanatiling tahimik ng utos ni Ezequias ang bayan sa mga panunuya (Isaias 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "What does Hezekiah do with the threatening letter?",
+          "fil": "Ano ang ginawa ni Ezequias sa nagbabantang liham?"
+        },
+        "options": {
+          "en": [
+            "Spreads it before the Lord and prays",
+            "Sends it to an idol's temple",
+            "Burns it without seeking help"
+          ],
+          "fil": [
+            "Inilatag ito sa harap ng Panginoon at nanalangin",
+            "Ipinadala ito sa templo ng diyus-diyosan",
+            "Sinunog ito nang hindi humihingi ng tulong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah brings Assyria's threat before God (Isaiah 37).",
+          "fil": "Iniharap ni Ezequias sa Diyos ang banta ng Asiria (Isaias 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which prophet delivers God's answer?",
+          "fil": "Sinong propeta ang nagbigay ng sagot ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Jonah",
+            "Isaiah",
+            "Jeremiah"
+          ],
+          "fil": [
+            "Si Jonas",
+            "Si Isaias",
+            "Si Jeremias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God sends assurance through Isaiah (Isaiah 37).",
+          "fil": "Nagpadala ng katiyakan ang Diyos sa pamamagitan ni Isaias (Isaias 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise about Jerusalem?",
+          "fil": "Ano ang ipinangako ng Diyos tungkol sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "He will require worship of Sennacherib",
+            "He will defend the city",
+            "He will appoint Assyria's idols as guardians"
+          ],
+          "fil": [
+            "Hihingin niyang sambahin si Senakerib",
+            "Ipagtatanggol niya ang lunsod",
+            "Gagawin niyang bantay ang mga diyus-diyosan ng Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord promises to save Jerusalem from the threatened attack (Isaiah 37).",
+          "fil": "Ipinangako ng Panginoon na ililigtas ang Jerusalem sa nagbabantang pag-atake (Isaias 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What forces Sennacherib to withdraw?",
+          "fil": "Ano ang nagpaurong kay Senakerib?"
+        },
+        "options": {
+          "en": [
+            "The Lord's angel strikes the Assyrian camp",
+            "Isaiah becomes king of Assyria",
+            "Hezekiah gives him Egypt"
+          ],
+          "fil": [
+            "Nilipol ng anghel ng Panginoon ang kampo ng Asiria",
+            "Naging hari ng Asiria si Isaias",
+            "Ibinigay ni Ezequias sa kanya ang Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Divine intervention ends the immediate Assyrian threat (Isaiah 37).",
+          "fil": "Tinapos ng pagkilos ng Diyos ang agarang banta ng Asiria (Isaias 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "How does Hezekiah respond to the announcement that he will die?",
+          "fil": "Paano tumugon si Ezequias sa pahayag na mamamatay siya?"
+        },
+        "options": {
+          "en": [
+            "He prays with tears",
+            "He celebrates his illness",
+            "He commands worship of Baal"
+          ],
+          "fil": [
+            "Nanalangin siya nang umiiyak",
+            "Ipinagdiwang niya ang kanyang sakit",
+            "Iniutos niya ang pagsamba kay Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah brings his distress to the Lord (Isaiah 38).",
+          "fil": "Iniharap ni Ezequias sa Panginoon ang kanyang dalamhati (Isaias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What answer does God send through Isaiah?",
+          "fil": "Anong sagot ang ipinadala ng Diyos sa pamamagitan ni Isaias?"
+        },
+        "options": {
+          "en": [
+            "He will become ruler of heaven",
+            "He must never pray again",
+            "His prayer is heard and his life will be extended"
+          ],
+          "fil": [
+            "Magiging pinuno siya ng langit",
+            "Hindi na siya dapat manalangin muli",
+            "Dininig ang kanyang panalangin at pahahabain ang buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God grants Hezekiah healing and additional years (Isaiah 38).",
+          "fil": "Binigyan ng Diyos si Ezequias ng paggaling at dagdag na mga taon (Isaias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sign confirms the promise?",
+          "fil": "Anong tanda ang nagpatibay sa pangako?"
+        },
+        "options": {
+          "en": [
+            "A shadow moves backward",
+            "The Nile turns to blood",
+            "Jerusalem's walls become gold"
+          ],
+          "fil": [
+            "Umurong ang anino",
+            "Naging dugo ang Nilo",
+            "Naging ginto ang mga pader ng Jerusalem"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The backward shadow confirms God's assurance (Isaiah 38).",
+          "fil": "Pinatibay ng umurong na anino ang katiyakan ng Diyos (Isaias 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hezekiah value doing with renewed life?",
+          "fil": "Ano ang pinahalagahang gawin ni Ezequias sa ibinalik na buhay?"
+        },
+        "options": {
+          "en": [
+            "Forgetting every act of mercy",
+            "Claiming he healed himself",
+            "Praising God and telling children of his faithfulness"
+          ],
+          "fil": [
+            "Limutin ang bawat gawa ng awa",
+            "Angkining pinagaling niya ang sarili",
+            "Purihin ang Diyos at sabihin sa mga anak ang kanyang katapatan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Hezekiah's song turns restored life into thanksgiving (Isaiah 38).",
+          "fil": "Ginawang pasasalamat ng awit ni Ezequias ang ibinalik na buhay (Isaias 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "From where do the visiting envoys come?",
+          "fil": "Saan nagmula ang dumalaw na mga sugo?"
+        },
+        "options": {
+          "en": [
+            "Moab",
+            "Rome",
+            "Babylon"
+          ],
+          "fil": [
+            "Moab",
+            "Roma",
+            "Babilonia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Babylon's envoys visit after hearing of Hezekiah's recovery (Isaiah 39).",
+          "fil": "Dumalaw ang mga sugo ng Babilonia matapos mabalitaan ang paggaling ni Ezequias (Isaias 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Hezekiah show them?",
+          "fil": "Ano ang ipinakita ni Ezequias sa kanila?"
+        },
+        "options": {
+          "en": [
+            "His treasuries, stores, and royal resources",
+            "Only an empty courtyard",
+            "Nothing in his kingdom"
+          ],
+          "fil": [
+            "Ang kanyang kabang-yaman, imbakan, at panustos ng hari",
+            "Isang patyong walang laman lamang",
+            "Wala sa kanyang kaharian"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Hezekiah displays his possessions openly to the visitors (Isaiah 39).",
+          "fil": "Hayagang ipinakita ni Ezequias sa mga bisita ang kanyang ari-arian (Isaias 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning does Isaiah give afterward?",
+          "fil": "Anong babala ang ibinigay ni Isaias pagkatapos?"
+        },
+        "options": {
+          "en": [
+            "The envoys will make Hezekiah their emperor",
+            "Treasures and descendants will be carried to Babylon",
+            "Babylon will never reach Judah"
+          ],
+          "fil": [
+            "Gagawin ng mga sugo na emperador si Ezequias",
+            "Dadalhin sa Babilonia ang kayamanan at mga inapo",
+            "Hindi makararating sa Juda ang Babilonia kailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning points toward a future Babylonian exile (Isaiah 39).",
+          "fil": "Itinuro ng babala ang darating na pagkakatapon sa Babilonia (Isaias 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "What message opens this chapter?",
+          "fil": "Anong mensahe ang pambungad ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Praise for foreign idols",
+            "A command to stop hoping",
+            "Comfort for God's people"
+          ],
+          "fil": [
+            "Papuri sa dayuhang diyus-diyosan",
+            "Utos na tumigil sa pag-asa",
+            "Pag-aliw para sa bayan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter opens with assurance after suffering (Isaiah 40).",
+          "fil": "Nagsimula ang kabanata sa katiyakan matapos ang pagdurusa (Isaias 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is God's tender care pictured?",
+          "fil": "Paano inilarawan ang magiliw na pag-aalaga ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A shepherd gathering and carrying lambs",
+            "A merchant selling his family",
+            "A ruler abandoning the weak"
+          ],
+          "fil": [
+            "Pastol na nagtitipon at bumubuhat ng mga kordero",
+            "Mangangalakal na nagbebenta ng kanyang pamilya",
+            "Pinunong nagpapabaya sa mahina"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The shepherd image shows strength joined with gentleness (Isaiah 40).",
+          "fil": "Ipinakita ng larawan ng pastol ang lakas na may kasamang kahinahunan (Isaias 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hope is offered to weary people who rely on the Lord?",
+          "fil": "Anong pag-asa ang inialok sa pagod na umaasa sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A need to find stronger idols",
+            "Permanent exclusion from God's care",
+            "Renewed strength to continue"
+          ],
+          "fil": [
+            "Pangangailangang maghanap ng mas malakas na diyus-diyosan",
+            "Permanenteng pagbubukod sa pag-aalaga ng Diyos",
+            "Bagong lakas upang magpatuloy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The everlasting Creator supplies strength to the exhausted (Isaiah 40).",
+          "fil": "Nagbibigay ng lakas sa pagod ang walang hanggang Lumikha (Isaias 40)."
+        }
+      }
+    ],
+    "41": [
+      {
+        "q": {
+          "en": "How does God identify Israel in his reassurance?",
+          "fil": "Paano kinilala ng Diyos ang Israel sa kanyang pagtiyak?"
+        },
+        "options": {
+          "en": [
+            "A ruler above himself",
+            "His chosen servant",
+            "A nation he never knew"
+          ],
+          "fil": [
+            "Pinunong higit sa kanya",
+            "Kanyang piniling lingkod",
+            "Bansang hindi niya nakilala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel is reassured of God's enduring choice (Isaiah 41).",
+          "fil": "Tiniyak sa Israel ang nananatiling pagpili ng Diyos (Isaias 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why need God's servant not be afraid?",
+          "fil": "Bakit hindi kailangang matakot ang lingkod ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "No enemy has ever existed",
+            "God promises to uphold and help",
+            "Israel's idols are invincible"
+          ],
+          "fil": [
+            "Walang kaaway na umiral kailanman",
+            "Nangako ang Diyos na aalalay at tutulong",
+            "Hindi matatalo ang mga diyus-diyosan ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's presence counters the servant's fear (Isaiah 41).",
+          "fil": "Sinasalungat ng presensiya ng Diyos ang takot ng lingkod (Isaias 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What challenge exposes the idols' helplessness?",
+          "fil": "Anong hamon ang naglantad sa kawalang-lakas ng diyus-diyosan?"
+        },
+        "options": {
+          "en": [
+            "Collect more gold from worshipers",
+            "Tell what is coming and prove their power",
+            "Demand a larger royal palace"
+          ],
+          "fil": [
+            "Mangolekta ng dagdag na ginto sa sumasamba",
+            "Sabihin ang darating at patunayan ang kapangyarihan",
+            "Humingi ng mas malaking palasyo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The idols cannot demonstrate the knowledge and action God commands (Isaiah 41).",
+          "fil": "Hindi maipakikita ng diyus-diyosan ang kaalaman at pagkilos na hinihingi ng Diyos (Isaias 41)."
+        }
+      }
+    ],
+    "42": [
+      {
+        "q": {
+          "en": "What mission is given to the servant?",
+          "fil": "Anong misyon ang ibinigay sa lingkod?"
+        },
+        "options": {
+          "en": [
+            "Bring justice to the nations",
+            "Enrich himself through oppression",
+            "Replace God with idols"
+          ],
+          "fil": [
+            "Magdala ng katarungan sa mga bansa",
+            "Yumaman sa pang-aapi",
+            "Palitan ang Diyos ng diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's servant is commissioned for just and faithful service (Isaiah 42).",
+          "fil": "Isinugo ang lingkod ng Diyos sa makatarungan at tapat na paglilingkod (Isaias 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the unbroken bruised reed and unextinguished wick suggest?",
+          "fil": "Ano ang ipinahiwatig ng hindi binaling nasugatang tambo at hindi pinatay na mitsa?"
+        },
+        "options": {
+          "en": [
+            "Contempt for every weak person",
+            "Gentleness toward the vulnerable",
+            "Approval of injustice"
+          ],
+          "fil": [
+            "Paghamak sa bawat mahinang tao",
+            "Kahinahunan sa mahihina",
+            "Pagsang-ayon sa kawalang-katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The servant's work protects rather than crushes the weak (Isaiah 42).",
+          "fil": "Iniingatan sa halip na dinudurog ng gawain ng lingkod ang mahina (Isaias 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What liberation is included in the servant's calling?",
+          "fil": "Anong pagpapalaya ang kasama sa tungkulin ng lingkod?"
+        },
+        "options": {
+          "en": [
+            "Closing every place of prayer",
+            "Opening blind eyes and releasing captives from darkness",
+            "Enslaving the poor"
+          ],
+          "fil": [
+            "Pagsasara ng bawat lugar ng panalangin",
+            "Pagbubukas ng bulag na mata at pagpapalaya sa bihag sa dilim",
+            "Pag-aalipin sa mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The calling brings light and freedom to those in darkness (Isaiah 42).",
+          "fil": "Nagdadala ang tungkulin ng liwanag at kalayaan sa nasa dilim (Isaias 42)."
+        }
+      }
+    ],
+    "43": [
+      {
+        "q": {
+          "en": "Why does God tell his people not to fear?",
+          "fil": "Bakit sinabi ng Diyos sa kanyang bayan na huwag matakot?"
+        },
+        "options": {
+          "en": [
+            "He has redeemed and claimed them as his own",
+            "Their enemies have become gods",
+            "They have never made a mistake"
+          ],
+          "fil": [
+            "Tinubos niya sila at kinilalang kanya",
+            "Naging mga diyos ang kanilang kaaway",
+            "Hindi sila nagkamali kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's claim on his people grounds the reassurance (Isaiah 43).",
+          "fil": "Ibinatay ang pagtiyak sa pagkilala ng Diyos sa bayan bilang kanya (Isaias 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What assurance accompanies the pictures of deep water and fire?",
+          "fil": "Anong katiyakan ang kasama ng mga larawan ng malalim na tubig at apoy?"
+        },
+        "options": {
+          "en": [
+            "The need to abandon every hope",
+            "The victory of idols over God",
+            "God's presence through danger"
+          ],
+          "fil": [
+            "Ang pangangailangang iwan ang bawat pag-asa",
+            "Ang tagumpay ng diyus-diyosan sa Diyos",
+            "Ang presensiya ng Diyos sa panganib"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God promises companionship and preservation amid trials (Isaiah 43).",
+          "fil": "Ipinangako ng Diyos ang pagsama at pag-iingat sa mga pagsubok (Isaias 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What new provision does God picture in the wilderness?",
+          "fil": "Anong bagong panustos ang inilarawan ng Diyos sa ilang?"
+        },
+        "options": {
+          "en": [
+            "A prison without an exit",
+            "A way through the desert and flowing water",
+            "An altar for every idol"
+          ],
+          "fil": [
+            "Bilangguang walang labasan",
+            "Daan sa ilang at umaagos na tubig",
+            "Altar para sa bawat diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God announces a fresh act of deliverance (Isaiah 43).",
+          "fil": "Nagpahayag ang Diyos ng bagong gawa ng pagliligtas (Isaias 43)."
+        }
+      }
+    ],
+    "44": [
+      {
+        "q": {
+          "en": "What gift is compared with water poured on thirsty ground?",
+          "fil": "Anong kaloob ang inihambing sa tubig na ibinubuhos sa uhaw na lupa?"
+        },
+        "options": {
+          "en": [
+            "God's Spirit and blessing on the people's descendants",
+            "The power of carved images",
+            "A new army for Babylon"
+          ],
+          "fil": [
+            "Ang Espiritu at pagpapala ng Diyos sa mga inapo ng bayan",
+            "Ang kapangyarihan ng inukit na imahen",
+            "Bagong hukbo para sa Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's promise joins renewal with blessing for future generations (Isaiah 44).",
+          "fil": "Iniugnay ng pangako ng Diyos ang pagpapanibago sa pagpapala ng mga susunod na salinlahi (Isaias 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes the woodcarver's idol worship look foolish?",
+          "fil": "Bakit mukhang hangal ang pagsamba ng mang-uukit sa diyus-diyosang kahoy?"
+        },
+        "options": {
+          "en": [
+            "He refuses to shape any image",
+            "He uses some wood for cooking and worships the rest",
+            "He gives all his wood to the poor"
+          ],
+          "fil": [
+            "Tumanggi siyang gumawa ng anumang imahen",
+            "Ginamit niya sa pagluluto ang ilang kahoy at sinamba ang natira",
+            "Ibinigay niya ang lahat ng kahoy sa mahihirap"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ordinary wood cannot become a saving god through carving (Isaiah 44).",
+          "fil": "Hindi nagiging diyos na nagliligtas ang karaniwang kahoy dahil sa pag-ukit (Isaias 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which ruler is named in connection with rebuilding Jerusalem?",
+          "fil": "Sinong pinuno ang pinangalanang kaugnay ng muling pagtatayo ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Ahab",
+            "Pharaoh",
+            "Cyrus"
+          ],
+          "fil": [
+            "Si Ahab",
+            "Si Faraon",
+            "Si Ciro"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Cyrus is named as an instrument in God's restoring purpose (Isaiah 44).",
+          "fil": "Pinangalanan si Ciro bilang kasangkapan sa layunin ng Diyos na magpanumbalik (Isaias 44)."
+        }
+      }
+    ],
+    "45": [
+      {
+        "q": {
+          "en": "Whom does God commission as a ruler for his purpose?",
+          "fil": "Sino ang isinugo ng Diyos bilang pinuno para sa kanyang layunin?"
+        },
+        "options": {
+          "en": [
+            "Goliath",
+            "Cyrus",
+            "Jezebel"
+          ],
+          "fil": [
+            "Si Goliat",
+            "Si Ciro",
+            "Si Jezebel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God addresses Cyrus as an instrument of his work (Isaiah 45).",
+          "fil": "Kinausap ng Diyos si Ciro bilang kasangkapan ng kanyang gawain (Isaias 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must people recognize about the Lord?",
+          "fil": "Ano ang dapat kilalanin ng tao tungkol sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He rules only one small town",
+            "He alone is God and Creator",
+            "He depends on the nations' idols"
+          ],
+          "fil": [
+            "Isang maliit na bayan lamang ang pinamamahalaan niya",
+            "Siya lamang ang Diyos at Lumikha",
+            "Umaasa siya sa mga diyus-diyosan ng bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter repeatedly declares God's unique sovereignty (Isaiah 45).",
+          "fil": "Paulit-ulit na ipinahayag ng kabanata ang natatanging pamamahala ng Diyos (Isaias 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom is the invitation to turn and be saved extended?",
+          "fil": "Kanino ibinigay ang paanyayang bumaling at maligtas?"
+        },
+        "options": {
+          "en": [
+            "Only wealthy kings",
+            "People throughout the earth",
+            "Only skilled craftsmen"
+          ],
+          "fil": [
+            "Sa mayayamang hari lamang",
+            "Sa mga tao sa buong daigdig",
+            "Sa bihasang manggagawa lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's saving invitation reaches beyond Israel (Isaiah 45).",
+          "fil": "Umaabot lampas sa Israel ang paanyaya ng Diyos sa kaligtasan (Isaias 45)."
+        }
+      }
+    ],
+    "46": [
+      {
+        "q": {
+          "en": "What weakness of Babylon's idols is described?",
+          "fil": "Anong kahinaan ng mga diyus-diyosan ng Babilonia ang inilarawan?"
+        },
+        "options": {
+          "en": [
+            "They must be carried as burdens",
+            "They secretly create the stars",
+            "They give life to their makers"
+          ],
+          "fil": [
+            "Kailangang buhatin ang mga ito bilang pasanin",
+            "Lihim nilang nililikha ang mga bituin",
+            "Binibigyan nila ng buhay ang kanilang gumawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The idols cannot even carry themselves to safety (Isaiah 46).",
+          "fil": "Hindi madala ng diyus-diyosan ang sarili sa kaligtasan (Isaias 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God contrast his care with these burdensome idols?",
+          "fil": "Paano inihambing ng Diyos ang pag-aalaga niya sa mabibigat na diyus-diyosan?"
+        },
+        "options": {
+          "en": [
+            "He forgets them once they grow weak",
+            "He carries his people from birth to old age",
+            "He demands that people rescue him"
+          ],
+          "fil": [
+            "Kinalilimutan niya sila kapag nanghihina",
+            "Binubuhat niya ang bayan mula kapanganakan hanggang katandaan",
+            "Hinihingi niyang iligtas siya ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God sustains the people who cannot sustain an idol (Isaiah 46).",
+          "fil": "Inaalalayan ng Diyos ang bayang hindi kayang alalayan ng diyus-diyosan (Isaias 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God declare that idols cannot?",
+          "fil": "Ano ang ipinahayag ng Diyos na hindi magawa ng diyus-diyosan?"
+        },
+        "options": {
+          "en": [
+            "A need for stronger protectors",
+            "The price of every object in a market",
+            "His purpose from the beginning through its fulfillment"
+          ],
+          "fil": [
+            "Pangangailangan ng mas malakas na tagapangalaga",
+            "Ang presyo ng bawat bagay sa pamilihan",
+            "Ang kanyang layunin mula sa simula hanggang katuparan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's declared purpose demonstrates his effective sovereignty (Isaiah 46).",
+          "fil": "Ipinakita ng ipinahayag na layunin ng Diyos ang mabisa niyang pamamahala (Isaias 46)."
+        }
+      }
+    ],
+    "47": [
+      {
+        "q": {
+          "en": "Which proud power is pictured losing its royal place?",
+          "fil": "Anong mapagmataas na kapangyarihan ang inilarawang nawawalan ng maharlikang katayuan?"
+        },
+        "options": {
+          "en": [
+            "Israel alone",
+            "Rome",
+            "Babylon"
+          ],
+          "fil": [
+            "Israel lamang",
+            "Roma",
+            "Babilonia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Babylon's royal confidence is brought down to humiliation (Isaiah 47).",
+          "fil": "Ibinaba sa kahihiyan ang maharlikang pagtitiwala ng Babilonia (Isaias 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false confidence does Babylon express?",
+          "fil": "Anong maling pagtitiwala ang ipinahayag ng Babilonia?"
+        },
+        "options": {
+          "en": [
+            "That she must humbly repent",
+            "That her power is only temporary",
+            "That loss and bereavement cannot reach her"
+          ],
+          "fil": [
+            "Na dapat siyang mapagpakumbabang magsisi",
+            "Na pansamantala lamang ang kanyang kapangyarihan",
+            "Na hindi siya maaabot ng pagkawala at pangungulila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Babylon imagines herself secure against the sorrows of others (Isaiah 47).",
+          "fil": "Inakala ng Babilonia na ligtas siya sa lungkot na nararanasan ng iba (Isaias 47)."
+        }
+      },
+      {
+        "q": {
+        "en": "Can sorcery and astrologers' predictions rescue Babylon?",
+        "fil": "Maililigtas ba ang Babilonia ng pangkukulam at mga hulang batay sa bituin?"
+        },
+        "options": {
+          "en": [
+            "No, those practices cannot stop the disaster",
+            "Yes, they place her above God",
+            "Yes, every adviser guarantees safety"
+          ],
+          "fil": [
+            "Hindi, hindi mapipigil ng mga iyon ang kapahamakan",
+            "Oo, inilalagay siya ng mga ito sa ibabaw ng Diyos",
+            "Oo, tinitiyak ng bawat tagapayo ang kaligtasan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning strips away Babylon's trust in magical protection (Isaiah 47).",
+          "fil": "Inalis ng babala ang tiwala ng Babilonia sa mahiwagang proteksiyon (Isaias 47)."
+        }
+      }
+    ],
+    "48": [
+      {
+        "q": {
+          "en": "What inconsistency does God expose in Israel?",
+          "fil": "Anong hindi pagtutugma ang inilantad ng Diyos sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Claiming his name without truth and righteousness",
+            "Refusing every idol without exception",
+            "Obeying every command too eagerly"
+          ],
+          "fil": [
+            "Pag-angkin sa kanyang pangalan nang walang katotohanan at katuwiran",
+            "Pagtanggi sa bawat diyus-diyosan nang walang natira",
+            "Sobrang sabik na pagsunod sa bawat utos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Religious claims conceal stubborn unfaithfulness (Isaiah 48).",
+          "fil": "Itinatago ng pag-angking panrelihiyon ang matigas na pagtataksil (Isaias 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God say he announced events beforehand?",
+          "fil": "Bakit sinabi ng Diyos na inihayag niya nang maaga ang mga pangyayari?"
+        },
+        "options": {
+          "en": [
+            "Because idols had taught him the future",
+            "So Israel could not credit its idols",
+            "To make all human work unnecessary"
+          ],
+          "fil": [
+            "Dahil itinuro sa kanya ng diyus-diyosan ang hinaharap",
+            "Upang hindi maipagkaloob ng Israel sa diyus-diyosan ang papuri",
+            "Upang hindi na kailangan ang lahat ng paggawa ng tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Fulfilled announcements expose the idols' lack of power (Isaiah 48).",
+          "fil": "Inilantad ng natupad na pahayag ang kawalang-kapangyarihan ng diyus-diyosan (Isaias 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the people told to do about Babylon?",
+          "fil": "Ano ang sinabi sa bayan na gawin tungkol sa Babilonia?"
+        },
+        "options": {
+          "en": [
+            "Depart and announce the Lord's redemption",
+            "Stay forever to serve its images",
+            "Make its king their creator"
+          ],
+          "fil": [
+            "Umalis at ipahayag ang pagtubos ng Panginoon",
+            "Manatili magpakailanman upang paglingkuran ang mga imahen nito",
+            "Gawing kanilang lumikha ang hari nito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The call to leave is joined with joyful news of deliverance (Isaiah 48).",
+          "fil": "Iniugnay ang panawagang umalis sa masayang balita ng pagliligtas (Isaias 48)."
+        }
+      }
+    ],
+    "49": [
+      {
+        "q": {
+          "en": "When does the servant describe God's calling?",
+          "fil": "Kailan inilarawan ng lingkod ang pagtawag ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only after becoming a king",
+            "Only after building a temple",
+            "From before birth"
+          ],
+          "fil": [
+            "Matapos lamang maging hari",
+            "Matapos lamang magtayo ng templo",
+            "Mula bago isilang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The servant's mission begins in God's early purpose (Isaiah 49).",
+          "fil": "Nagsimula ang misyon ng lingkod sa unang layunin ng Diyos (Isaias 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "How far does the servant's mission extend?",
+          "fil": "Gaano kalawak ang misyon ng lingkod?"
+        },
+        "options": {
+          "en": [
+            "Only to Babylon's craftsmen",
+            "Beyond Israel as a light to the nations",
+            "Only to one royal household"
+          ],
+          "fil": [
+            "Sa mga manggagawa lamang ng Babilonia",
+            "Lampas sa Israel bilang liwanag sa mga bansa",
+            "Sa iisang maharlikang sambahayan lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The mission includes bringing God's salvation widely (Isaiah 49).",
+          "fil": "Kasama sa misyon ang malawak na pagdadala ng kaligtasan ng Diyos (Isaias 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God answer Zion's fear of being forgotten?",
+          "fil": "Paano sinagot ng Diyos ang takot ng Sion na makalimutan?"
+        },
+        "options": {
+          "en": [
+            "By confirming permanent abandonment",
+            "By telling Zion to seek idols",
+            "With an assurance of unfailing remembrance and care"
+          ],
+          "fil": [
+            "Sa pagpapatibay ng permanenteng pagpapabaya",
+            "Sa pagsasabing humanap ng diyus-diyosan ang Sion",
+            "Sa katiyakan ng hindi nagkukulang na pag-alaala at pag-aalaga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God compares his faithful care with a mother's deep attachment (Isaiah 49).",
+          "fil": "Inihambing ng Diyos ang tapat na pag-aalaga sa malalim na pagmamahal ng ina (Isaias 49)."
+        }
+      }
+    ],
+    "50": [
+      {
+        "q": {
+          "en": "How does the servant describe receiving instruction?",
+          "fil": "Paano inilarawan ng lingkod ang pagtanggap ng turo?"
+        },
+        "options": {
+          "en": [
+            "Listening as God awakens his ear to learn",
+            "Learning only from carved idols",
+            "Refusing every word from God"
+          ],
+          "fil": [
+            "Pakikinig habang binubuksan ng Diyos ang tainga upang matuto",
+            "Pagkatuto lamang mula sa inukit na diyus-diyosan",
+            "Pagtanggi sa bawat salita ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The servant's obedience begins in attentive listening (Isaiah 50).",
+          "fil": "Nagsimula ang pagsunod ng lingkod sa maingat na pakikinig (Isaias 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whose benefit is the servant taught to speak?",
+          "fil": "Para kaninong kapakinabangan tinuruang magsalita ang lingkod?"
+        },
+        "options": {
+          "en": [
+            "The weary who need sustaining words",
+            "Those planning to oppress the poor",
+            "Only rulers seeking flattery"
+          ],
+          "fil": [
+            "Sa pagod na nangangailangan ng nakapagpapalakas na salita",
+            "Sa mga nagpaplanong apihin ang mahihirap",
+            "Sa mga pinunong naghahanap lamang ng pambobola"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The servant uses received instruction to support the weary (Isaiah 50).",
+          "fil": "Ginamit ng lingkod ang natanggap na turo upang alalayan ang pagod (Isaias 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sustains the servant despite insults and violence?",
+          "fil": "Ano ang umalalay sa lingkod sa kabila ng insulto at karahasan?"
+        },
+        "options": {
+          "en": [
+            "A promise of wealth from enemies",
+            "Certainty that no one can ever oppose him",
+            "Confidence that the Lord will help and vindicate"
+          ],
+          "fil": [
+            "Pangako ng yaman mula sa mga kaaway",
+            "Katiyakang walang sasalungat sa kanya kailanman",
+            "Tiwalang tutulong at magpapatunay ang Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The servant remains resolute because of God's help (Isaiah 50).",
+          "fil": "Nanatiling matatag ang lingkod dahil sa tulong ng Diyos (Isaias 50)."
+        }
+      }
+    ],
+    "51": [
+      {
+        "q": {
+          "en": "Which ancestors are recalled to encourage those seeking righteousness?",
+          "fil": "Sinong mga ninuno ang inalala upang palakasin ang naghahanap ng katuwiran?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh and his officers",
+            "Ahab and Jezebel",
+            "Abraham and Sarah"
+          ],
+          "fil": [
+            "Si Faraon at kanyang mga opisyal",
+            "Sina Ahab at Jezebel",
+            "Sina Abraham at Sara"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Remembering God's work with Abraham and Sarah encourages hope (Isaiah 51).",
+          "fil": "Nagpalakas ng pag-asa ang pag-alaala sa gawa ng Diyos kina Abraham at Sara (Isaias 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "What remains when the heavens and earth pass away?",
+          "fil": "Ano ang nananatili kapag lumipas ang langit at lupa?"
+        },
+        "options": {
+          "en": [
+            "Every handmade idol",
+            "The rule of every empire",
+            "God's salvation and righteousness"
+          ],
+          "fil": [
+            "Ang bawat diyus-diyosang gawa ng kamay",
+            "Ang pamamahala ng bawat imperyo",
+            "Ang kaligtasan at katuwiran ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's saving purpose outlasts the changing world (Isaiah 51).",
+          "fil": "Higit na tumatagal sa nagbabagong daigdig ang nagliligtas na layunin ng Diyos (Isaias 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does removing the cup of staggering from Jerusalem promise?",
+          "fil": "Ano ang ipinangako ng pag-aalis sa Jerusalem ng kopang nakapagpapasuray?"
+        },
+        "options": {
+          "en": [
+            "Approval of all her oppressors",
+            "Relief from the judgment she has endured",
+            "Endless punishment without hope"
+          ],
+          "fil": [
+            "Pagsang-ayon sa lahat ng nang-api sa kanya",
+            "Ginhawa mula sa paghatol na kanyang tiniis",
+            "Walang katapusang parusang walang pag-asa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The cup's removal pictures the end of humiliation (Isaiah 51).",
+          "fil": "Inilarawan ng pag-aalis ng kopa ang pagtatapos ng kahihiyan (Isaias 51)."
+        }
+      }
+    ],
+    "52": [
+      {
+        "q": {
+          "en": "What good news does the messenger bring to Zion?",
+          "fil": "Anong magandang balita ang dinala ng sugo sa Sion?"
+        },
+        "options": {
+          "en": [
+            "Babylon's eternal rule",
+            "Peace, salvation, and God's reign",
+            "A command to abandon hope"
+          ],
+          "fil": [
+            "Walang hanggang pamamahala ng Babilonia",
+            "Kapayapaan, kaligtasan, at paghahari ng Diyos",
+            "Utos na iwan ang pag-asa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The messenger announces God's saving return (Isaiah 52).",
+          "fil": "Ipinahayag ng sugo ang nagliligtas na pagbabalik ng Diyos (Isaias 52)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must those departing leave behind?",
+          "fil": "Ano ang dapat iwan ng mga umaalis?"
+        },
+        "options": {
+          "en": [
+            "Every honest prayer",
+            "God's guidance",
+            "What is unclean"
+          ],
+          "fil": [
+            "Ang bawat tapat na panalangin",
+            "Ang patnubay ng Diyos",
+            "Ang marumi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The departure is to be marked by purity (Isaiah 52).",
+          "fil": "Dapat maging tanda ng pag-alis ang kalinisan (Isaias 52)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reversal is pictured for the servant at the chapter's end?",
+          "fil": "Anong pagbaligtad ang inilarawan para sa lingkod sa wakas ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "A life devoted to oppressing others",
+            "Exaltation despite a deeply disfigured appearance",
+            "Permanent defeat by idols"
+          ],
+          "fil": [
+            "Buhay na nakatuon sa pang-aapi ng iba",
+            "Pagtaas sa kabila ng matinding pagkasira ng anyo",
+            "Permanenteng pagkatalo sa diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The servant's humiliation is joined with astonishing exaltation (Isaiah 52).",
+          "fil": "Iniugnay ang kahihiyan ng lingkod sa kamangha-manghang pagtaas (Isaias 52)."
+        }
+      }
+    ],
+    "53": [
+      {
+        "q": {
+          "en": "How is the servant treated by others?",
+          "fil": "Paano tinrato ng iba ang lingkod?"
+        },
+        "options": {
+          "en": [
+            "Always welcomed as a wealthy king",
+            "Despised and rejected",
+            "Never opposed by anyone"
+          ],
+          "fil": [
+            "Laging tinatanggap bilang mayamang hari",
+            "Hinamak at tinanggihan",
+            "Hindi sinalungat ng sinuman kailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem describes a servant familiar with grief and rejection (Isaiah 53).",
+          "fil": "Inilarawan ng tula ang lingkod na nakaranas ng dalamhati at pagtanggi (Isaias 53)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose burdens and wrongdoing are linked with the servant's suffering?",
+          "fil": "Kaninong pasanin at kasalanan ang iniugnay sa pagdurusa ng lingkod?"
+        },
+        "options": {
+          "en": [
+            "Only the wealth of distant kings",
+            "Only the servant's own violent crimes",
+            "Those of the people speaking about him"
+          ],
+          "fil": [
+            "Ang yaman lamang ng malalayong hari",
+            "Ang sariling marahas na krimen lamang ng lingkod",
+            "Ang sa mga taong nagsasalita tungkol sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The speakers recognize suffering borne on behalf of others (Isaiah 53).",
+          "fil": "Kinilala ng mga nagsasalita ang pagdurusang tiniis para sa iba (Isaias 53)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the servant respond when oppressed?",
+          "fil": "Paano tumugon ang lingkod nang apihin?"
+        },
+        "options": {
+          "en": [
+            "By demanding worship of an idol",
+            "By boasting about his violence",
+            "Quietly, like a lamb led away"
+          ],
+          "fil": [
+            "Sa paghinging sambahin ang diyus-diyosan",
+            "Sa pagyayabang sa kanyang karahasan",
+            "Nang tahimik, tulad ng korderong inaakay palayo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The lamb image emphasizes the servant's unresisting suffering (Isaiah 53).",
+          "fil": "Binigyang-diin ng larawan ng kordero ang hindi lumalabang pagdurusa ng lingkod (Isaias 53)."
+        }
+      }
+    ],
+    "54": [
+      {
+        "q": {
+          "en": "Why is the once-barren woman told to enlarge her tent?",
+          "fil": "Bakit sinabihang palakihin ng dating baog na babae ang kanyang tolda?"
+        },
+        "options": {
+          "en": [
+            "Her household will vanish forever",
+            "She must shelter foreign idols",
+            "Many children are promised"
+          ],
+          "fil": [
+            "Maglalaho ang kanyang sambahayan magpakailanman",
+            "Dapat niyang kanlungin ang dayuhang diyus-diyosan",
+            "Ipinangako ang maraming anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The growing household pictures restored abundance for Zion (Isaiah 54).",
+          "fil": "Inilarawan ng lumalaking sambahayan ang ibinalik na kasaganaan ng Sion (Isaias 54)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God answer the feeling of abandonment?",
+          "fil": "Paano sinagot ng Diyos ang pakiramdam ng pagpapabaya?"
+        },
+        "options": {
+          "en": [
+            "He tells the people to trust carved images",
+            "He confirms that mercy has ended forever",
+            "He promises to gather with great compassion"
+          ],
+          "fil": [
+            "Sinabi niyang magtiwala ang bayan sa inukit na imahen",
+            "Pinatibay niyang tapos na ang awa magpakailanman",
+            "Nangako siyang magtitipon nang may dakilang habag"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's compassion replaces the season of estrangement (Isaiah 54).",
+          "fil": "Pinalitan ng habag ng Diyos ang panahon ng pagkalayo (Isaias 54)."
+        }
+      },
+      {
+        "q": {
+          "en": "What remains firm even if mountains move?",
+          "fil": "Ano ang nananatiling matatag kahit gumalaw ang mga bundok?"
+        },
+        "options": {
+          "en": [
+            "Every foreign army",
+            "The wealth of every ruler",
+            "God's faithful love and covenant of peace"
+          ],
+          "fil": [
+            "Ang bawat dayuhang hukbo",
+            "Ang yaman ng bawat pinuno",
+            "Ang tapat na pag-ibig at tipan ng kapayapaan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise stresses enduring love beyond upheaval (Isaiah 54).",
+          "fil": "Binigyang-diin ng pangako ang pag-ibig na nananatili sa kaguluhan (Isaias 54)."
+        }
+      }
+    ],
+    "55": [
+      {
+        "q": {
+          "en": "Who is invited to receive life-giving provision without payment?",
+          "fil": "Sino ang inanyayahang tumanggap ng panustos na nagbibigay-buhay nang walang bayad?"
+        },
+        "options": {
+          "en": [
+            "Only wealthy merchants",
+            "Only rulers with large armies",
+            "Those who are thirsty and have no money"
+          ],
+          "fil": [
+            "Mga mayamang mangangalakal lamang",
+            "Mga pinunong may malaking hukbo lamang",
+            "Ang mga nauuhaw at walang salapi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's generous invitation does not depend on wealth (Isaiah 55).",
+          "fil": "Hindi nakasalalay sa yaman ang bukas-palad na paanyaya ng Diyos (Isaias 55)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the wicked respond while the Lord may be found?",
+          "fil": "Paano dapat tumugon ang masama habang maaaring matagpuan ang Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Hide wrongdoing more carefully",
+            "Leave evil ways and return to him for mercy",
+            "Seek new idols immediately"
+          ],
+          "fil": [
+            "Mas maingat na itago ang kasalanan",
+            "Iwan ang masamang daan at bumalik sa kanya para sa awa",
+            "Humanap agad ng bagong diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The invitation calls for repentance and promises abundant pardon (Isaiah 55).",
+          "fil": "Nanawagan ng pagsisisi ang paanyaya at nangako ng saganang kapatawaran (Isaias 55)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does rain nourishing the earth illustrate about God's word?",
+          "fil": "Ano ang inilalarawan ng ulang nagdidilig sa lupa tungkol sa salita ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "It always fails to produce anything",
+            "It accomplishes the purpose for which he sends it",
+            "It depends on royal approval"
+          ],
+          "fil": [
+            "Lagi itong nabibigong magbunga",
+            "Natutupad nito ang layuning kanyang ipinadala",
+            "Umaasa ito sa pagsang-ayon ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's word is effective like rain that makes crops grow (Isaiah 55).",
+          "fil": "Mabisa ang salita ng Diyos tulad ng ulang nagpapalago ng pananim (Isaias 55)."
+        }
+      }
+    ],
+    "56": [
+      {
+        "q": {
+          "en": "Which people receive reassurance against exclusion from God's community?",
+          "fil": "Sinong mga tao ang binigyan ng katiyakang hindi ibubukod sa bayan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only powerful kings",
+            "Foreigners and eunuchs devoted to the Lord",
+            "Only rich landowners"
+          ],
+          "fil": [
+            "Mga makapangyarihang hari lamang",
+            "Mga dayuhan at eunukong nakatuon sa Panginoon",
+            "Mga mayamang may-ari ng lupa lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God welcomes people who feared they had no place (Isaiah 56).",
+          "fil": "Tinanggap ng Diyos ang mga natatakot na walang lugar para sa kanila (Isaias 56)."
+        }
+      },
+      {
+        "q": {
+          "en": "What commitment is expected of those joining themselves to the Lord?",
+          "fil": "Anong pangako ang inaasahan sa mga nakikiisa sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Continue serving every idol",
+            "Exclude all poor worshipers",
+            "Keep his covenant and honor the Sabbath"
+          ],
+          "fil": [
+            "Patuloy na paglingkuran ang bawat diyus-diyosan",
+            "Ibukod ang lahat ng mahihirap na sumasamba",
+            "Ingatan ang kanyang tipan at parangalan ang Sabbath"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The promise joins welcome with faithful devotion (Isaiah 56).",
+          "fil": "Iniugnay ng pangako ang pagtanggap sa tapat na debosyon (Isaias 56)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whom is God's house to be a place of prayer?",
+          "fil": "Para kanino dapat maging lugar ng panalangin ang bahay ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "One wealthy family alone",
+            "All nations",
+            "Foreign armies only"
+          ],
+          "fil": [
+            "Sa iisang mayamang pamilya lamang",
+            "Sa lahat ng bansa",
+            "Sa mga dayuhang hukbo lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Worship in God's house reaches beyond ethnic boundaries (Isaiah 56).",
+          "fil": "Umaabot lampas sa hangganan ng lahi ang pagsamba sa bahay ng Diyos (Isaias 56)."
+        }
+      }
+    ],
+    "57": [
+      {
+        "q": {
+          "en": "What misplaced confidence does the warning condemn?",
+          "fil": "Anong maling pagtitiwala ang kinondena ng babala?"
+        },
+        "options": {
+          "en": [
+            "Humble admission of sin",
+            "Trust in idols instead of God",
+            "Hope in God's mercy"
+          ],
+          "fil": [
+            "Mapagpakumbabang pag-amin sa kasalanan",
+            "Tiwala sa diyus-diyosan sa halip na sa Diyos",
+            "Pag-asa sa awa ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter exposes persistent spiritual unfaithfulness (Isaiah 57).",
+          "fil": "Inilantad ng kabanata ang patuloy na pagtataksil sa pagsamba (Isaias 57)."
+        }
+      },
+      {
+        "q": {
+          "en": "With whom does the high and holy God also dwell?",
+          "fil": "Sino ang kasama ring nananahan ng mataas at banal na Diyos?"
+        },
+        "options": {
+          "en": [
+            "The humble and brokenhearted",
+            "Only the most arrogant rulers",
+            "Those who refuse every correction"
+          ],
+          "fil": [
+            "Ang mapagpakumbaba at may bagbag na puso",
+            "Ang pinakamayabang na pinuno lamang",
+            "Ang tumatanggi sa bawat pagtutuwid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's greatness does not keep him from reviving the humble (Isaiah 57).",
+          "fil": "Hindi pinipigilan ng kadakilaan ng Diyos ang pagpapalakas sa mapagpakumbaba (Isaias 57)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast is made between restoration and stubborn wickedness?",
+          "fil": "Anong pagkakaiba ang binanggit sa pagpapanumbalik at matigas na kasamaan?"
+        },
+        "options": {
+          "en": [
+            "Repentance is forbidden",
+            "God offers healing, but wickedness does not bring peace",
+            "Evil always guarantees calm and safety"
+          ],
+          "fil": [
+            "Ipinagbabawal ang pagsisisi",
+            "Nag-aalok ang Diyos ng paggaling ngunit hindi nagdadala ng kapayapaan ang kasamaan",
+            "Laging tinitiyak ng masama ang katahimikan at kaligtasan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise of healing is paired with a warning against evil (Isaiah 57).",
+          "fil": "Ipinares ang pangako ng paggaling sa babala laban sa masama (Isaias 57)."
+        }
+      }
+    ],
+    "58": [
+      {
+        "q": {
+          "en": "Why does the people's fasting fail to please God?",
+          "fil": "Bakit hindi kinalugdan ng Diyos ang pag-aayuno ng bayan?"
+        },
+        "options": {
+          "en": [
+            "They continue exploiting workers and quarreling",
+            "They share too much bread",
+            "They care too much for the homeless"
+          ],
+          "fil": [
+            "Patuloy silang nagsasamantala sa manggagawa at nag-aaway",
+            "Sobra ang ibinabahagi nilang tinapay",
+            "Sobra ang pag-aalaga nila sa walang tahanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Religious self-denial is contradicted by oppressive conduct (Isaiah 58).",
+          "fil": "Sinasalungat ng mapang-aping asal ang pagpipigil sa sarili sa relihiyon (Isaias 58)."
+        }
+      },
+      {
+        "q": {
+          "en": "What actions belong to the fast God desires?",
+          "fil": "Anong mga gawa ang kabilang sa pag-aayunong nais ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Increase others' burdens",
+            "Hide from every needy neighbor",
+            "Free the oppressed and share food, shelter, and clothing"
+          ],
+          "fil": [
+            "Dagdagan ang pasanin ng iba",
+            "Magtago sa bawat nangangailangang kapitbahay",
+            "Palayain ang inaapi at magbahagi ng pagkain, kanlungan, at damit"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "True devotion expresses itself through mercy and justice (Isaiah 58).",
+          "fil": "Ipinapahayag ng tunay na debosyon ang sarili sa awa at katarungan (Isaias 58)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the people treat the Sabbath?",
+          "fil": "Paano dapat tratuhin ng bayan ang Sabbath?"
+        },
+        "options": {
+          "en": [
+            "Use it only to pursue selfish interests",
+            "Replace it with idol worship",
+            "Honor it as a delight devoted to the Lord"
+          ],
+          "fil": [
+            "Gamitin lamang ito sa makasariling hangarin",
+            "Palitan ito ng pagsamba sa diyus-diyosan",
+            "Parangalan ito bilang kagalakang inilaan sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Sabbath faithfulness is included in the call to renewed devotion (Isaiah 58).",
+          "fil": "Kasama sa panawagan sa bagong debosyon ang katapatan sa Sabbath (Isaias 58)."
+        }
+      }
+    ],
+    "59": [
+      {
+        "q": {
+          "en": "What separates the people from God's help?",
+          "fil": "Ano ang naghiwalay sa bayan sa tulong ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The absence of enough gold",
+            "Their sins, rather than any weakness in God",
+            "God's inability to hear"
+          ],
+          "fil": [
+            "Ang kakulangan ng ginto",
+            "Ang kanilang kasalanan at hindi kahinaan ng Diyos",
+            "Ang kawalan ng kakayahan ng Diyos na makarinig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The obstacle is human wrongdoing rather than divine powerlessness (Isaiah 59).",
+          "fil": "Ang hadlang ay kasalanan ng tao at hindi kawalang-kapangyarihan ng Diyos (Isaias 59)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God do when no one steps forward to uphold justice?",
+          "fil": "Ano ang ginawa ng Diyos nang walang humarap upang itaguyod ang katarungan?"
+        },
+        "options": {
+          "en": [
+            "Abandons every purpose forever",
+            "Asks idols to replace him",
+            "Acts by his own strength to bring salvation and judgment"
+          ],
+          "fil": [
+            "Iniwan ang bawat layunin magpakailanman",
+            "Hiniling sa diyus-diyosan na palitan siya",
+            "Kumilos sa sariling lakas upang magdala ng kaligtasan at paghatol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God intervenes where human justice has failed (Isaiah 59).",
+          "fil": "Kumilos ang Diyos kung saan nabigo ang katarungan ng tao (Isaias 59)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom does the promised Redeemer come in Zion?",
+          "fil": "Kanino dumating ang ipinangakong Manunubos sa Sion?"
+        },
+        "options": {
+          "en": [
+            "Those turning away from wrongdoing",
+            "Those demanding more oppression",
+            "Only the richest rulers"
+          ],
+          "fil": [
+            "Sa mga tumatalikod sa kasamaan",
+            "Sa mga humihingi ng dagdag na pang-aapi",
+            "Sa pinakamayayamang pinuno lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promise links redemption with turning from sin (Isaiah 59).",
+          "fil": "Iniugnay ng pangako ang pagtubos sa pagtalikod sa kasalanan (Isaias 59)."
+        }
+      }
+    ],
+    "60": [
+      {
+        "q": {
+          "en": "Why is Zion called to rise and shine?",
+          "fil": "Bakit tinawag ang Sion na bumangon at magliwanag?"
+        },
+        "options": {
+          "en": [
+            "Her idols have defeated God",
+            "The Lord's glory has risen over her",
+            "Darkness has become her permanent ruler"
+          ],
+          "fil": [
+            "Tinalo ng kanyang diyus-diyosan ang Diyos",
+            "Sumikat sa kanya ang kaluwalhatian ng Panginoon",
+            "Naging permanente niyang pinuno ang dilim"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's glory transforms Zion's darkness (Isaiah 60).",
+          "fil": "Binago ng kaluwalhatian ng Diyos ang dilim ng Sion (Isaias 60)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is drawn toward Zion's light?",
+          "fil": "Sino ang naakit sa liwanag ng Sion?"
+        },
+        "options": {
+          "en": [
+            "No one outside the city",
+            "Nations and kings",
+            "Only one isolated family"
+          ],
+          "fil": [
+            "Walang sinuman sa labas ng lunsod",
+            "Mga bansa at hari",
+            "Iisang nakahiwalay na pamilya lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The vision draws distant peoples toward God's restored city (Isaiah 60).",
+          "fil": "Inakit ng pangitain ang malalayong bayan sa ibinalik na lunsod ng Diyos (Isaias 60)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will be Zion's enduring light?",
+          "fil": "Ano ang magiging nananatiling liwanag ng Sion?"
+        },
+        "options": {
+          "en": [
+            "The Lord himself",
+            "The king's store of gold",
+            "Babylon's idols"
+          ],
+          "fil": [
+            "Ang Panginoon mismo",
+            "Ang imbakan ng ginto ng hari",
+            "Ang mga diyus-diyosan ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's presence replaces darkness with lasting light (Isaiah 60).",
+          "fil": "Pinalitan ng presensiya ng Diyos ang dilim ng nananatiling liwanag (Isaias 60)."
+        }
+      }
+    ],
+    "61": [
+      {
+        "q": {
+          "en": "What mission does the Spirit-anointed speaker announce?",
+          "fil": "Anong misyon ang ipinahayag ng nagsasalitang pinahiran ng Espiritu?"
+        },
+        "options": {
+          "en": [
+            "Good news for the poor and freedom for captives",
+            "Riches only for powerful rulers",
+            "A new temple for idols"
+          ],
+          "fil": [
+            "Magandang balita sa mahihirap at kalayaan sa mga bihag",
+            "Yaman para lamang sa makapangyarihang pinuno",
+            "Bagong templo para sa diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The calling brings healing and liberty to the afflicted (Isaiah 61).",
+          "fil": "Nagdadala ng paggaling at kalayaan sa nahihirapan ang tungkulin (Isaias 61)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is promised to those who mourn?",
+          "fil": "Ano ang ipinangako sa mga nagluluksa?"
+        },
+        "options": {
+          "en": [
+            "Comfort and renewed joy",
+            "Permanent shame without relief",
+            "A command never to seek help"
+          ],
+          "fil": [
+            "Pag-aliw at bagong kagalakan",
+            "Permanenteng kahihiyang walang ginhawa",
+            "Utos na huwag humingi ng tulong kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joyful renewal replaces the signs of mourning (Isaiah 61).",
+          "fil": "Pinalitan ng masayang pagpapanibago ang mga tanda ng pagluluksa (Isaias 61)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will happen to long-ruined places?",
+          "fil": "Ano ang mangyayari sa mga lugar na matagal nang wasak?"
+        },
+        "options": {
+          "en": [
+            "They will never be remembered",
+            "They will become stronger idols",
+            "They will be rebuilt"
+          ],
+          "fil": [
+            "Hindi sila aalalahanin kailanman",
+            "Magiging mas malakas silang diyus-diyosan",
+            "Itatayo silang muli"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Restoration includes rebuilding devastated communities (Isaiah 61).",
+          "fil": "Kasama sa pagpapanumbalik ang muling pagtatayo ng mga wasak na pamayanan (Isaias 61)."
+        }
+      }
+    ],
+    "62": [
+      {
+        "q": {
+          "en": "What change is promised in Zion's identity?",
+          "fil": "Anong pagbabago ang ipinangako sa pagkakakilanlan ng Sion?"
+        },
+        "options": {
+          "en": [
+            "From a city to an idol",
+            "From beloved to permanently forgotten",
+            "From forsaken to a place of God's delight"
+          ],
+          "fil": [
+            "Mula sa lunsod tungo sa diyus-diyosan",
+            "Mula sa minamahal tungo sa permanenteng kinalimutan",
+            "Mula sa pinabayaan tungo sa lugar na kinalulugdan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A new name expresses renewed belonging and love (Isaiah 62).",
+          "fil": "Ipinahayag ng bagong pangalan ang bagong pag-aangkin at pag-ibig (Isaias 62)."
+        }
+      },
+      {
+        "q": {
+          "en": "What duty is given to Jerusalem's watchmen?",
+          "fil": "Anong tungkulin ang ibinigay sa mga bantay ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Invent reassuring reports",
+            "Stop praying when trouble comes",
+            "Persist in calling on God until he establishes the city"
+          ],
+          "fil": [
+            "Mag-imbento ng nakapagpapanatag na ulat",
+            "Tumigil sa pananalangin kapag may hirap",
+            "Magpatuloy sa pagtawag sa Diyos hanggang patatagin niya ang lunsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The watchmen picture persistent intercession for Jerusalem (Isaiah 62).",
+          "fil": "Inilarawan ng mga bantay ang patuloy na pamamagitan para sa Jerusalem (Isaias 62)."
+        }
+      },
+      {
+        "q": {
+          "en": "What protection is promised concerning the people's harvest?",
+          "fil": "Anong pag-iingat ang ipinangako tungkol sa ani ng bayan?"
+        },
+        "options": {
+          "en": [
+            "Those who grow it will enjoy it rather than enemies taking it",
+            "Every crop will turn to stone",
+            "Only foreign armies may eat it"
+          ],
+          "fil": [
+            "Tatamasahin ito ng nagtanim sa halip na kunin ng kaaway",
+            "Magiging bato ang bawat pananim",
+            "Dayuhang hukbo lamang ang makakakain nito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The promise restores the people's enjoyment of their labor (Isaiah 62).",
+          "fil": "Ibinalik ng pangako sa bayan ang pagtatamasa sa kanilang paggawa (Isaias 62)."
+        }
+      }
+    ],
+    "63": [
+      {
+        "q": {
+          "en": "What does the warrior's winepress imagery describe?",
+          "fil": "Ano ang inilalarawan ng larawan ng pisaan ng ubas sa mandirigma?"
+        },
+        "options": {
+          "en": [
+            "The execution of judgment",
+            "The making of an idol",
+            "A peaceful farming lesson alone"
+          ],
+          "fil": [
+            "Ang pagsasagawa ng paghatol",
+            "Ang paggawa ng diyus-diyosan",
+            "Mapayapang aralin lamang sa pagsasaka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The red garments accompany an image of divine judgment (Isaiah 63).",
+          "fil": "Kasama ng pulang kasuotan ang larawan ng paghatol ng Diyos (Isaias 63)."
+        }
+      },
+      {
+        "q": {
+          "en": "What earlier rescue is remembered in the prayer?",
+          "fil": "Anong dating pagliligtas ang inalala sa panalangin?"
+        },
+        "options": {
+          "en": [
+            "Rome's conquest of Egypt",
+            "God's leading through the sea in Moses' time",
+            "Babylon's rebuilding of the temple"
+          ],
+          "fil": [
+            "Ang pagsakop ng Roma sa Egipto",
+            "Ang pangunguna ng Diyos sa dagat sa panahon ni Moises",
+            "Ang muling pagtatayo ng Babilonia sa templo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Remembered deliverance strengthens the appeal for renewed mercy (Isaiah 63).",
+          "fil": "Pinatibay ng inaalalang pagliligtas ang pakiusap para sa bagong awa (Isaias 63)."
+        }
+      },
+      {
+        "q": {
+          "en": "What relationship with God does the prayer appeal to?",
+          "fil": "Anong ugnayan sa Diyos ang inapela ng panalangin?"
+        },
+        "options": {
+          "en": [
+            "He is their Father and Redeemer",
+            "He has never known their people",
+            "He is an idol made by them"
+          ],
+          "fil": [
+            "Siya ang kanilang Ama at Manunubos",
+            "Hindi niya nakilala ang kanilang bayan kailanman",
+            "Siya ay diyus-diyosang ginawa nila"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer appeals to God's enduring bond with his people (Isaiah 63).",
+          "fil": "Umapela ang panalangin sa nananatiling ugnayan ng Diyos sa kanyang bayan (Isaias 63)."
+        }
+      }
+    ],
+    "64": [
+      {
+        "q": {
+          "en": "What does the opening plea ask God to do?",
+          "fil": "Ano ang hiniling sa Diyos ng pambungad na pakiusap?"
+        },
+        "options": {
+          "en": [
+            "Give power to every idol",
+            "Come down and reveal his power",
+            "Stop caring for creation"
+          ],
+          "fil": [
+            "Bigyan ng kapangyarihan ang bawat diyus-diyosan",
+            "Bumaba at ihayag ang kanyang kapangyarihan",
+            "Tumigil sa pag-aalaga sa sangnilikha"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer longs for decisive divine intervention (Isaiah 64).",
+          "fil": "Hinangad ng panalangin ang tiyak na pagkilos ng Diyos (Isaias 64)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the community admit about itself?",
+          "fil": "Ano ang inamin ng pamayanan tungkol sa sarili?"
+        },
+        "options": {
+          "en": [
+            "Perfect obedience in every matter",
+            "Power greater than God's",
+            "Its sin and uncleanness"
+          ],
+          "fil": [
+            "Ganap na pagsunod sa bawat bagay",
+            "Kapangyarihang higit sa Diyos",
+            "Ang kasalanan at karumihan nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The appeal for mercy includes honest confession (Isaiah 64).",
+          "fil": "Kasama sa paghingi ng awa ang tapat na pag-amin (Isaias 64)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the potter and clay picture?",
+          "fil": "Ano ang inilalarawan ng magpapalayok at luwad?"
+        },
+        "options": {
+          "en": [
+            "The people creating God",
+            "An idol governing the nations",
+            "God as Maker and the people as his handiwork"
+          ],
+          "fil": [
+            "Ang bayang lumilikha sa Diyos",
+            "Diyus-diyosang namamahala sa mga bansa",
+            "Ang Diyos bilang Lumikha at ang bayan bilang gawa ng kanyang kamay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The image expresses dependence on God's shaping care (Isaiah 64).",
+          "fil": "Ipinahayag ng larawan ang pag-asa sa humuhubog na pag-aalaga ng Diyos (Isaias 64)."
+        }
+      }
+    ],
+    "65": [
+      {
+        "q": {
+          "en": "What response meets God's repeated offer to rebellious people?",
+          "fil": "Anong tugon ang sumalubong sa paulit-ulit na alok ng Diyos sa mapaghimagsik?"
+        },
+        "options": {
+          "en": [
+            "A complete end to wrongdoing",
+            "Persistent refusal and idolatry",
+            "Immediate obedience by everyone"
+          ],
+          "fil": [
+            "Ganap na pagtatapos ng kasamaan",
+            "Patuloy na pagtanggi at pagsamba sa diyus-diyosan",
+            "Agarang pagsunod ng lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God describes reaching out to a people who resist him (Isaiah 65).",
+          "fil": "Inilarawan ng Diyos ang paglapit sa bayang tumatanggi sa kanya (Isaias 65)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contrast is drawn between God's servants and persistent rebels?",
+          "fil": "Anong pagkakaiba ang binanggit sa mga lingkod ng Diyos at patuloy na naghihimagsik?"
+        },
+        "options": {
+          "en": [
+            "Complete rejection of all who seek God",
+            "Joy and provision for servants, shame and want for rebels",
+            "The same approval of every action"
+          ],
+          "fil": [
+            "Ganap na pagtanggi sa lahat ng naghahanap sa Diyos",
+            "Saya at panustos sa lingkod, kahihiyan at kakulangan sa naghihimagsik",
+            "Parehong pagsang-ayon sa bawat kilos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter distinguishes faithful service from stubborn rebellion (Isaiah 65).",
+          "fil": "Ibinukod ng kabanata ang tapat na paglilingkod sa matigas na paghihimagsik (Isaias 65)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future creation does God promise?",
+          "fil": "Anong sangnilikha sa hinaharap ang ipinangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Endless warfare without renewal",
+            "A world ruled by stronger idols",
+            "New heavens and earth marked by joy and peace"
+          ],
+          "fil": [
+            "Walang katapusang digmaang walang pagpapanibago",
+            "Daigdig na pinamamahalaan ng mas malakas na diyus-diyosan",
+            "Bagong langit at lupang may kagalakan at kapayapaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The final vision promises transformed life and peace (Isaiah 65).",
+          "fil": "Ipinangako ng huling pangitain ang binagong buhay at kapayapaan (Isaias 65)."
+        }
+      }
+    ],
+    "66": [
+      {
+        "q": {
+          "en": "Whose response to God receives special regard?",
+          "fil": "Kaninong tugon sa Diyos ang lalo niyang pinahalagahan?"
+        },
+        "options": {
+          "en": [
+            "The proud person trusting ritual while choosing evil",
+            "The humble person who takes his word seriously",
+            "The ruler who refuses every correction"
+          ],
+          "fil": [
+            "Ang mayabang na umaasa sa ritwal habang pumipili ng masama",
+            "Ang mapagpakumbabang nagpapahalaga sa kanyang salita",
+            "Ang pinunong tumatanggi sa bawat pagtutuwid"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God values humility and reverence beyond religious display (Isaiah 66).",
+          "fil": "Pinahahalagahan ng Diyos ang pagpapakumbaba at paggalang higit sa pagpapakitang panrelihiyon (Isaias 66)."
+        }
+      },
+      {
+        "q": {
+          "en": "What family image describes God's comfort?",
+          "fil": "Anong larawan ng pamilya ang naglarawan sa pag-aliw ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A parent abandoning every child",
+            "Siblings selling one another",
+            "A mother comforting her child"
+          ],
+          "fil": [
+            "Magulang na nagpapabaya sa bawat anak",
+            "Magkakapatid na ipinagbibili ang isa't isa",
+            "Inang umaaliw sa kanyang anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Maternal tenderness pictures the promised comfort in Jerusalem (Isaiah 66).",
+          "fil": "Inilarawan ng lambing ng ina ang ipinangakong pag-aliw sa Jerusalem (Isaias 66)."
+        }
+      },
+      {
+        "q": {
+          "en": "How wide is the final vision of worship?",
+          "fil": "Gaano kalawak ang huling pangitain ng pagsamba?"
+        },
+        "options": {
+          "en": [
+            "Peoples from all nations come before the Lord",
+            "Every foreigner is excluded forever",
+            "Only one wealthy family may approach"
+          ],
+          "fil": [
+            "Lumalapit sa Panginoon ang mga bayan mula sa lahat ng bansa",
+            "Ibinukod ang bawat dayuhan magpakailanman",
+            "Iisang mayamang pamilya lamang ang makalalapit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The book closes with worship reaching across the nations (Isaiah 66).",
+          "fil": "Nagtapos ang aklat sa pagsambang umaabot sa mga bansa (Isaias 66)."
+        }
+      }
+    ]
+  }
+}
