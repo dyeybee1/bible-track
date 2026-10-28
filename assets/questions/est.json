@@ -1,0 +1,1347 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Where is the royal feast held at the beginning of the story?",
+          "fil": "Saan idinaos ang handaan ng hari sa simula ng kuwento?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Jerusalem",
+            "Susa"
+          ],
+          "fil": [
+            "Nineve",
+            "Jerusalem",
+            "Susa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king displays his splendor at his royal residence in Susa (Esther 1).",
+          "fil": "Ipinakita ng hari ang kanyang karilagan sa tahanan niya sa Susa (Ester 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Queen Vashti refuse to do?",
+          "fil": "Ano ang tinanggihang gawin ni Reyna Vasti?"
+        },
+        "options": {
+          "en": [
+            "Give grain to Joseph",
+            "Appear before the king's guests when summoned",
+            "Build Jerusalem's temple"
+          ],
+          "fil": [
+            "Magbigay ng butil kay Jose",
+            "Humarap sa mga panauhin ng hari nang ipatawag",
+            "Itayo ang templo ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Vashti refuses the summons to display her beauty before the guests (Esther 1).",
+          "fil": "Tinanggihan ni Vasti ang pagpapatawag upang ipakita ang kanyang kagandahan sa mga panauhin (Ester 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What wider concern do the advisers raise about Vashti's refusal?",
+          "fil": "Anong mas malawak na alalahanin ang iniharap ng mga tagapayo tungkol sa pagtanggi ni Vasti?"
+        },
+        "options": {
+          "en": [
+            "They fear Egypt will lose its harvest",
+            "They fear the temple will move to Babylon",
+            "They fear other wives will disregard their husbands"
+          ],
+          "fil": [
+            "Nangamba silang mawalan ng ani ang Egipto",
+            "Nangamba silang lumipat sa Babilonia ang templo",
+            "Nangamba silang hindi na igalang ng ibang asawa ang kanilang mga lalaki"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The advisers treat the refusal as a threat to household authority across the empire (Esther 1).",
+          "fil": "Itinuring ng mga tagapayo ang pagtanggi bilang banta sa pamumuno sa mga sambahayan ng kaharian (Ester 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do they advise concerning Vashti's position as queen?",
+          "fil": "Ano ang ipinayo nila tungkol sa katungkulan ni Vasti bilang reyna?"
+        },
+        "options": {
+          "en": [
+            "Make her ruler over the king",
+            "Send her to build the ark",
+            "Give her royal position to another woman"
+          ],
+          "fil": [
+            "Gawin siyang pinuno ng hari",
+            "Ipadala siya upang gawin ang arka",
+            "Ibigay sa ibang babae ang kanyang katungkulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The counsel leads to Vashti losing her position as queen (Esther 1).",
+          "fil": "Humantong ang payo sa pagkawala ng katungkulan ni Vasti bilang reyna (Ester 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Who has raised Esther after her parents' death?",
+          "fil": "Sino ang nagpalaki kay Ester matapos mamatay ang kanyang mga magulang?"
+        },
+        "options": {
+          "en": [
+            "Mordecai, her relative",
+            "Pharaoh",
+            "Haman"
+          ],
+          "fil": [
+            "Si Mordecai na kanyang kamag-anak",
+            "Si Faraon",
+            "Si Haman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Mordecai takes Esther into his care as his own daughter (Esther 2).",
+          "fil": "Inalagaan ni Mordecai si Ester na tulad ng sariling anak (Ester 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Esther keep private at Mordecai's instruction?",
+          "fil": "Ano ang inilihim ni Ester ayon sa bilin ni Mordecai?"
+        },
+        "options": {
+          "en": [
+            "The location of Noah's ark",
+            "The king's army plans",
+            "Her Jewish family background"
+          ],
+          "fil": [
+            "Ang kinaroroonan ng arka ni Noe",
+            "Ang mga plano ng hukbo ng hari",
+            "Ang kanyang pinagmulang pamilyang Judio"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esther does not reveal her people and ancestry at this stage (Esther 2).",
+          "fil": "Hindi muna ipinahayag ni Ester ang kanyang bayan at angkan sa panahong ito (Ester 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What position does the king give Esther?",
+          "fil": "Anong katungkulan ang ibinigay ng hari kay Ester?"
+        },
+        "options": {
+          "en": [
+            "Queen in Vashti's place",
+            "Governor of Egypt",
+            "Commander of the army"
+          ],
+          "fil": [
+            "Reyna kapalit ni Vasti",
+            "Gobernador ng Egipto",
+            "Pinuno ng hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king favors Esther and places the royal crown on her (Esther 2).",
+          "fil": "Kinalugdan ng hari si Ester at ipinatong sa kanya ang korona ng reyna (Ester 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Mordecai uncover and report through Esther?",
+          "fil": "Anong panganib ang natuklasan ni Mordecai at ipinaalam sa pamamagitan ni Ester?"
+        },
+        "options": {
+          "en": [
+            "A plot by royal officials to kill the king",
+            "A plan by Jacob to leave Egypt",
+            "A secret attack on Jericho"
+          ],
+          "fil": [
+            "Balak ng mga opisyal na patayin ang hari",
+            "Plano ni Jacob na lisanin ang Egipto",
+            "Lihim na pagsalakay sa Jerico"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Mordecai's warning exposes a conspiracy against the king's life (Esther 2).",
+          "fil": "Inilantad ng babala ni Mordecai ang sabwatan laban sa buhay ng hari (Ester 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What action by Mordecai enrages Haman?",
+          "fil": "Anong ginawa ni Mordecai ang ikinagalit ni Haman?"
+        },
+        "options": {
+          "en": [
+            "He refuses to bow to Haman",
+            "He takes Haman's royal horse",
+            "He burns the palace"
+          ],
+          "fil": [
+            "Tumanggi siyang yumukod kay Haman",
+            "Kinuha niya ang kabayo ni Haman",
+            "Sinunog niya ang palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Mordecai's refusal to bow provokes Haman's anger (Esther 3).",
+          "fil": "Ikinagalit ni Haman ang pagtanggi ni Mordecai na yumukod (Ester 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Haman decide to target beyond Mordecai himself?",
+          "fil": "Sino ang binalak na puntiryahin ni Haman bukod kay Mordecai?"
+        },
+        "options": {
+          "en": [
+            "All the Jews throughout the kingdom",
+            "Only the king's cooks",
+            "Only Egypt's soldiers"
+          ],
+          "fil": [
+            "Lahat ng Judio sa buong kaharian",
+            "Mga tagapagluto lamang ng hari",
+            "Mga kawal lamang ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Haman expands his hatred into a plan against Mordecai's whole people (Esther 3).",
+          "fil": "Pinalawak ni Haman ang kanyang galit tungo sa balak laban sa buong bayan ni Mordecai (Ester 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is a date selected for Haman's planned attack?",
+          "fil": "Paano pinili ang petsa para sa balak na pagsalakay ni Haman?"
+        },
+        "options": {
+          "en": [
+            "By following a pillar of cloud",
+            "By asking Ezra to read the law",
+            "By casting lots"
+          ],
+          "fil": [
+            "Sa pagsunod sa haliging ulap",
+            "Sa paghingi kay Ezra na basahin ang kautusan",
+            "Sa pamamagitan ng palabunutan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The casting of lots is used to select the appointed day (Esther 3).",
+          "fil": "Ginamit ang palabunutan upang piliin ang takdang araw (Ester 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the king give Haman as a sign of authority?",
+          "fil": "Ano ang ibinigay ng hari kay Haman bilang tanda ng kapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "His signet ring",
+            "The ark of the covenant",
+            "The tablets of Moses"
+          ],
+          "fil": [
+            "Ang kanyang singsing na pantatak",
+            "Ang kaban ng tipan",
+            "Ang mga tapyas ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The royal ring enables the decree to be issued under the king's authority (Esther 3).",
+          "fil": "Nagpahintulot ang singsing ng hari na maipalabas ang utos sa kanyang kapangyarihan (Ester 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How does Mordecai publicly show grief over the decree?",
+          "fil": "Paano hayagang ipinakita ni Mordecai ang dalamhati sa utos?"
+        },
+        "options": {
+          "en": [
+            "He crowns Haman king",
+            "He hosts a victory feast",
+            "He wears sackcloth and ashes and cries out"
+          ],
+          "fil": [
+            "Kinoronahan niyang hari si Haman",
+            "Nagdaos siya ng pista ng tagumpay",
+            "Nagsuot siya ng sako at abo at dumaing"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Mordecai openly mourns the danger facing his people (Esther 4).",
+          "fil": "Hayagang ipinagluksa ni Mordecai ang panganib na hinaharap ng kanyang bayan (Ester 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Esther afraid to approach the king without being called?",
+          "fil": "Bakit natakot si Ester na lumapit sa hari nang hindi ipinapatawag?"
+        },
+        "options": {
+          "en": [
+            "She could be put to death unless the king extends his scepter",
+            "She would be sent to build a temple",
+            "She would automatically lose her language"
+          ],
+          "fil": [
+            "Maaari siyang patayin maliban kung iabot ng hari ang kanyang setro",
+            "Ipapadala siya upang magtayo ng templo",
+            "Awtomatiko niyang malilimutan ang kanyang wika"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The court's law makes an unsummoned approach dangerous (Esther 4).",
+          "fil": "Mapanganib ayon sa batas ng palasyo ang paglapit nang hindi ipinapatawag (Ester 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Esther ask the Jews in Susa to do before she goes?",
+          "fil": "Ano ang hiniling ni Ester na gawin ng mga Judio sa Susa bago siya humarap?"
+        },
+        "options": {
+          "en": [
+            "Buy her a new throne",
+            "Join Haman's household",
+            "Fast for her"
+          ],
+          "fil": [
+            "Bilhan siya ng bagong trono",
+            "Sumama sa sambahayan ni Haman",
+            "Mag-ayuno para sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esther calls for communal fasting before her dangerous appeal (Esther 4).",
+          "fil": "Nanawagan si Ester ng sama-samang pag-aayuno bago ang mapanganib niyang paglapit (Ester 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What decision does Esther make despite the risk?",
+          "fil": "Anong pasya ang ginawa ni Ester sa kabila ng panganib?"
+        },
+        "options": {
+          "en": [
+            "She will ask Haman to destroy Susa",
+            "She will approach the king even if it costs her life",
+            "She will abandon her people forever"
+          ],
+          "fil": [
+            "Hihilingin niyang sirain ni Haman ang Susa",
+            "Lalapit siya sa hari kahit ikamatay niya ito",
+            "Iiwan niya ang kanyang bayan habambuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Esther commits herself to pleading for her people despite possible death (Esther 4).",
+          "fil": "Nagpasya si Ester na makiusap para sa kanyang bayan sa kabila ng posibleng kamatayan (Ester 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "How does the king show that Esther may approach him?",
+          "fil": "Paano ipinakita ng hari na maaaring lumapit si Ester?"
+        },
+        "options": {
+          "en": [
+            "He extends the golden scepter",
+            "He throws away his crown",
+            "He sends her back to prison"
+          ],
+          "fil": [
+            "Iniabot niya ang gintong setro",
+            "Itinapon niya ang kanyang korona",
+            "Ibinalik niya siya sa bilangguan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king welcomes Esther by holding out his scepter (Esther 5).",
+          "fil": "Tinanggap ng hari si Ester sa pag-abot ng kanyang setro (Ester 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Esther invite to her banquet?",
+          "fil": "Sino ang inanyayahan ni Ester sa kanyang handaan?"
+        },
+        "options": {
+          "en": [
+            "The king and Haman",
+            "Joseph and Benjamin",
+            "Ezra and Nehemiah"
+          ],
+          "fil": [
+            "Ang hari at si Haman",
+            "Sina Jose at Benjamin",
+            "Sina Ezra at Nehemias"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esther invites the king and Haman to a prepared meal (Esther 5).",
+          "fil": "Inanyayahan ni Ester ang hari at si Haman sa inihandang salu-salo (Ester 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Esther request before revealing her main petition?",
+          "fil": "Ano ang hiniling ni Ester bago ihayag ang pangunahing pakiusap?"
+        },
+        "options": {
+          "en": [
+            "That the palace be destroyed",
+            "That Mordecai become Pharaoh",
+            "That they attend another banquet the next day"
+          ],
+          "fil": [
+            "Na wasakin ang palasyo",
+            "Na maging Faraon si Mordecai",
+            "Na dumalo sila sa isa pang handaan kinabukasan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esther arranges a second banquet before making her full request (Esther 5).",
+          "fil": "Nag-ayos si Ester ng ikalawang handaan bago sabihin ang buong pakiusap (Ester 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Haman's wife and friends advise him to prepare for Mordecai?",
+          "fil": "Ano ang ipinayo ng asawa at mga kaibigan ni Haman na ihanda para kay Mordecai?"
+        },
+        "options": {
+          "en": [
+            "A gallows for his execution",
+            "A new family vineyard",
+            "A place of honor beside the king"
+          ],
+          "fil": [
+            "Bitayan para sa pagpatay sa kanya",
+            "Bagong ubasan ng pamilya",
+            "Lugar ng karangalan sa tabi ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They encourage Haman's deadly plan against Mordecai (Esther 5).",
+          "fil": "Hinimok nila ang nakamamatay na balak ni Haman laban kay Mordecai (Ester 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does the sleepless king ask to have read?",
+          "fil": "Ano ang ipinabasa ng haring hindi makatulog?"
+        },
+        "options": {
+          "en": [
+            "The royal records",
+            "The genealogy of Esau",
+            "The plans for Noah's ark"
+          ],
+          "fil": [
+            "Ang mga talaan ng kaharian",
+            "Ang talaan ng angkan ni Esau",
+            "Ang plano ng arka ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king listens to the records of his reign during the night (Esther 6).",
+          "fil": "Nakinig ang hari sa mga talaan ng kanyang paghahari sa gabi (Ester 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What neglected deed comes to the king's attention?",
+          "fil": "Anong napabayaang ginawa ang naalala ng hari?"
+        },
+        "options": {
+          "en": [
+            "Esther's rescue of Joseph",
+            "Haman's rebuilding of Jerusalem",
+            "Mordecai's warning that saved his life"
+          ],
+          "fil": [
+            "Ang pagliligtas ni Ester kay Jose",
+            "Ang muling pagtatayo ni Haman sa Jerusalem",
+            "Ang babala ni Mordecai na nagligtas sa kanyang buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The records reveal that Mordecai's service has not yet been rewarded (Esther 6).",
+          "fil": "Ipinakita ng mga talaan na hindi pa nagantimpalaan ang paglilingkod ni Mordecai (Ester 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Haman assume the king wants to honor?",
+          "fil": "Sino ang inakala ni Haman na nais parangalan ng hari?"
+        },
+        "options": {
+          "en": [
+            "Haman himself",
+            "Ezra",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Si Haman mismo",
+            "Si Ezra",
+            "Si Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Haman's pride makes him imagine the honor is intended for him (Esther 6).",
+          "fil": "Dahil sa pagmamataas, inakala ni Haman na para sa kanya ang parangal (Ester 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What humiliating duty does Haman receive instead?",
+          "fil": "Anong nakahihiyang tungkulin ang ibinigay kay Haman sa halip?"
+        },
+        "options": {
+          "en": [
+            "Lead Mordecai through the city in royal honor",
+            "Build a throne for himself",
+            "Choose a new queen"
+          ],
+          "fil": [
+            "Ilibot si Mordecai sa lungsod na may parangal ng hari",
+            "Gumawa ng trono para sa sarili",
+            "Pumili ng bagong reyna"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Haman must publicly proclaim honor for the man he hates (Esther 6).",
+          "fil": "Kailangang hayagang ipahayag ni Haman ang parangal para sa lalaking kinamumuhian niya (Ester 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What does Esther ask the king to spare at the banquet?",
+          "fil": "Ano ang hiniling ni Ester na iligtas ng hari sa handaan?"
+        },
+        "options": {
+          "en": [
+            "The walls of Jericho",
+            "Only Haman's wealth",
+            "Her life and the lives of her people"
+          ],
+          "fil": [
+            "Ang mga pader ng Jerico",
+            "Kayamanan lamang ni Haman",
+            "Ang buhay niya at ng kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Esther reveals that she and her people face destruction (Esther 7).",
+          "fil": "Ipinahayag ni Ester na siya at ang kanyang bayan ay nanganganib malipol (Ester 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Esther identify as the enemy behind the threat?",
+          "fil": "Sino ang itinuro ni Ester na kaaway sa likod ng banta?"
+        },
+        "options": {
+          "en": [
+            "Mordecai",
+            "Haman",
+            "Ezra"
+          ],
+          "fil": [
+            "Si Mordecai",
+            "Si Haman",
+            "Si Ezra"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Esther names Haman as the adversary responsible for the plot (Esther 7).",
+          "fil": "Pinangalanan ni Ester si Haman bilang kaaway na may pananagutan sa balak (Ester 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Haman do while the king is outside in the garden?",
+          "fil": "Ano ang ginawa ni Haman habang nasa labas sa halamanan ang hari?"
+        },
+        "options": {
+          "en": [
+            "Give orders to build the temple",
+            "Crown himself king",
+            "Beg Esther to spare his life"
+          ],
+          "fil": [
+            "Nag-utos na itayo ang templo",
+            "Kinoronahan ang sarili bilang hari",
+            "Nakiusap kay Ester na iligtas ang kanyang buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Haman turns to Esther in desperation after his scheme is exposed (Esther 7).",
+          "fil": "Desperadong lumapit si Haman kay Ester matapos mabunyag ang kanyang balak (Ester 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What becomes of the gallows Haman prepared for Mordecai?",
+          "fil": "Ano ang nangyari sa bitayang inihanda ni Haman para kay Mordecai?"
+        },
+        "options": {
+          "en": [
+            "It is used to honor Mordecai with a crown",
+            "It becomes the king's throne",
+            "Haman is executed on it"
+          ],
+          "fil": [
+            "Ginamit ito sa pagpaparangal kay Mordecai ng korona",
+            "Naging trono ito ng hari",
+            "Doon pinatay si Haman"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Haman suffers the fate he had planned for Mordecai (Esther 7).",
+          "fil": "Naranasan ni Haman ang kapalarang binalak niya para kay Mordecai (Ester 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What danger does Esther ask the king to address after Haman's death?",
+          "fil": "Anong panganib ang ipinakiusap ni Ester na tugunan ng hari matapos mamatay si Haman?"
+        },
+        "options": {
+          "en": [
+            "The approaching flood of Noah",
+            "The collapse of Egypt's pyramids",
+            "The decree still threatening the Jews"
+          ],
+          "fil": [
+            "Ang papalapit na baha ni Noe",
+            "Ang pagbagsak ng mga piramide ng Egipto",
+            "Ang utos na nagbabanta pa rin sa mga Judio"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Haman's removal has not by itself ended the decree's danger (Esther 8).",
+          "fil": "Hindi pa natapos ng pag-aalis kay Haman ang panganib ng utos (Ester 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who receives the royal signet ring formerly held by Haman?",
+          "fil": "Sino ang tumanggap ng singsing ng hari na dating hawak ni Haman?"
+        },
+        "options": {
+          "en": [
+            "Vashti",
+            "Pharaoh",
+            "Mordecai"
+          ],
+          "fil": [
+            "Si Vasti",
+            "Si Faraon",
+            "Si Mordecai"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king transfers the ring to Mordecai (Esther 8).",
+          "fil": "Inilipat ng hari ang singsing kay Mordecai (Ester 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the new royal authorization allow the Jews to do?",
+          "fil": "Ano ang pinahihintulutang gawin ng mga Judio sa bagong utos ng hari?"
+        },
+        "options": {
+          "en": [
+            "Gather and defend their lives against attackers",
+            "Abandon all their laws",
+            "Destroy every peaceful neighbor"
+          ],
+          "fil": [
+            "Magtipon at ipagtanggol ang buhay laban sa mga sasalakay",
+            "Talikuran ang lahat ng kanilang batas",
+            "Lipulin ang bawat mapayapang kapitbahay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The new decree provides legal protection for the threatened community (Esther 8).",
+          "fil": "Naglaan ng legal na proteksiyon ang bagong utos para sa nanganganib na pamayanan (Ester 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the Jewish community respond to the changed situation?",
+          "fil": "Paano tumugon ang pamayanang Judio sa pagbabagong ito?"
+        },
+        "options": {
+          "en": [
+            "By refusing every message from Mordecai",
+            "With grief over Haman's lost power",
+            "With joy, honor, and celebration"
+          ],
+          "fil": [
+            "Sa pagtanggi sa bawat mensahe ni Mordecai",
+            "Sa lungkot sa nawalang kapangyarihan ni Haman",
+            "Sa kagalakan, karangalan, at pagdiriwang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Relief replaces fear as news of the new decree spreads (Esther 8).",
+          "fil": "Napawi ng ginhawa ang takot habang kumakalat ang balita ng bagong utos (Ester 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What do the Jews refrain from taking when they overcome their enemies?",
+          "fil": "Ano ang hindi kinuha ng mga Judio nang madaig ang kanilang mga kaaway?"
+        },
+        "options": {
+          "en": [
+            "Their own children",
+            "The plunder",
+            "The royal law"
+          ],
+          "fil": [
+            "Ang sarili nilang mga anak",
+            "Ang mga samsam",
+            "Ang batas ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The account repeatedly notes that they do not seize the plunder (Esther 9).",
+          "fil": "Paulit-ulit na binanggit ng salaysay na hindi nila kinuha ang mga samsam (Ester 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change does the festival of Purim remember?",
+          "fil": "Anong pagbabago ang ipinapaalala ng pista ng Purim?"
+        },
+        "options": {
+          "en": [
+            "Sorrow and danger turned into joy and relief",
+            "The rebuilding of Babel",
+            "Israel choosing a new Pharaoh"
+          ],
+          "fil": [
+            "Ang lungkot at panganib na naging saya at ginhawa",
+            "Ang muling pagtatayo ng Babel",
+            "Ang pagpili ng Israel ng bagong Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Purim preserves the memory of the people's deliverance (Esther 9).",
+          "fil": "Pinananatili ng Purim ang alaala ng pagliligtas sa bayan (Ester 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What generosity is included in the celebration?",
+          "fil": "Anong pagbibigayan ang kasama sa pagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "Sharing food and giving gifts to the poor",
+            "Taking food away from the hungry",
+            "Sending every gift to Haman's army"
+          ],
+          "fil": [
+            "Pagbabahagi ng pagkain at pagbibigay ng handog sa mahihirap",
+            "Pagkuha ng pagkain mula sa nagugutom",
+            "Pagpapadala ng lahat ng regalo sa hukbo ni Haman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The festival joins joyful feasting with care for others (Esther 9).",
+          "fil": "Pinagsasama ng pista ang masayang salu-salo at malasakit sa iba (Ester 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Who is represented by the little spring that becomes a river in Mordecai's interpretation?",
+          "fil": "Sino ang kinakatawan ng maliit na bukal na naging ilog sa paliwanag ni Mordecai?"
+        },
+        "options": {
+          "en": [
+            "Vashti",
+            "Esther",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Si Vasti",
+            "Si Ester",
+            "Si Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mordecai identifies the growing spring with Esther when explaining his dream (Esther 10).",
+          "fil": "Iniugnay ni Mordecai kay Ester ang lumalaking bukal sa paliwanag ng panaginip sa kabanatang ito (Ester 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom do the opposing dragons represent in that interpretation?",
+          "fil": "Sino ang kinakatawan ng magkalabang dragon sa paliwanag na iyon?"
+        },
+        "options": {
+          "en": [
+            "Abraham and Isaac",
+            "Mordecai and Haman",
+            "Ezra and Nehemiah"
+          ],
+          "fil": [
+            "Sina Abraham at Isaac",
+            "Sina Mordecai at Haman",
+            "Sina Ezra at Nehemias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mordecai explains the opposing dragons as himself and Haman (Esther 10).",
+          "fil": "Ipinaliwanag ni Mordecai na siya at si Haman ang magkalabang dragon (Ester 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "To whom does Mordecai give credit for Israel's rescue?",
+          "fil": "Kanino ibinigay ni Mordecai ang pagkilala sa pagliligtas sa Israel?"
+        },
+        "options": {
+          "en": [
+            "The gods of Egypt",
+            "Haman, who planned their destruction",
+            "God, who heard his people's cry"
+          ],
+          "fil": [
+            "Sa mga diyos ng Egipto",
+            "Kay Haman na nagbalak na lipulin sila",
+            "Sa Diyos na nakinig sa daing ng kanyang bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The interpretation gives thanks for God's mercy and deliverance (Esther 10).",
+          "fil": "Nagpasalamat ang paliwanag sa awa at pagliligtas ng Diyos (Ester 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Who has the troubling dream recorded in this chapter?",
+          "fil": "Sino ang nanaginip ng nakababahalang panaginip na itinala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Mordecai",
+            "Vashti",
+            "Haman"
+          ],
+          "fil": [
+            "Si Mordecai",
+            "Si Vasti",
+            "Si Haman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Mordecai's dream anticipates the danger and rescue that will follow (Esther 11).",
+          "fil": "Inilarawan ng panaginip ni Mordecai ang panganib at pagliligtas na mangyayari pagkaraan (Ester 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the endangered righteous people do within the dream?",
+          "fil": "Ano ang ginawa ng nanganganib na matuwid na bayan sa panaginip?"
+        },
+        "options": {
+          "en": [
+            "Celebrate their own destruction",
+            "Cry out to God",
+            "Choose Haman as their god"
+          ],
+          "fil": [
+            "Ipagdiwang ang sarili nilang pagkalipol",
+            "Dumaing sa Diyos",
+            "Piliin si Haman bilang kanilang diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The threatened people seek God's help amid the dream's darkness (Esther 11).",
+          "fil": "Humingi ng tulong sa Diyos ang nanganganib na bayan sa gitna ng dilim ng panaginip (Ester 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hopeful change follows their cry in the dream?",
+          "fil": "Anong pagbabagong may pag-asa ang sumunod sa kanilang daing sa panaginip?"
+        },
+        "options": {
+          "en": [
+            "A small spring becomes a great river and light appears",
+            "Every source of water vanishes forever",
+            "The palace becomes a prison for God"
+          ],
+          "fil": [
+            "Naging malaking ilog ang maliit na bukal at lumitaw ang liwanag",
+            "Naglaho habambuhay ang bawat bukal ng tubig",
+            "Naging bilangguan ng Diyos ang palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The rising water and light signal a reversal of the dream's danger (Esther 11).",
+          "fil": "Tanda ng pagbabago ng panganib sa panaginip ang lumalagong tubig at liwanag (Ester 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What does Mordecai discover about two palace officials?",
+          "fil": "Ano ang natuklasan ni Mordecai tungkol sa dalawang opisyal ng palasyo?"
+        },
+        "options": {
+          "en": [
+            "They are bringing food to Noah",
+            "They plan violence against the king",
+            "They are rebuilding Jerusalem's wall"
+          ],
+          "fil": [
+            "Nagdala sila ng pagkain kay Noe",
+            "Balak nilang patayin ang hari",
+            "Muli nilang itinatayo ang pader ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mordecai investigates and reports a conspiracy against the king (Esther 12).",
+          "fil": "Siniyasat at iniulat ni Mordecai ang sabwatan laban sa hari (Ester 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens after the conspiracy is confirmed?",
+          "fil": "Ano ang nangyari matapos mapatunayan ang sabwatan?"
+        },
+        "options": {
+          "en": [
+            "The king records what happened",
+            "The king destroys all royal records",
+            "The king makes the conspirators his gods"
+          ],
+          "fil": [
+            "Itinala ng hari ang nangyari",
+            "Sinira ng hari ang lahat ng talaan",
+            "Ginawang mga diyos ng hari ang mga nagsabwatan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The episode is preserved in writing after the investigation (Esther 12).",
+          "fil": "Iningatan sa sulat ang pangyayari matapos ang pagsisiyasat (Ester 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Mordecai treated for giving the warning in this chapter?",
+          "fil": "Paano pinakitunguhan si Mordecai sa pagbibigay ng babala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "He is given gifts and a place at court",
+            "He is sent to build Babel",
+            "He is forbidden ever to see the king"
+          ],
+          "fil": [
+            "Binigyan siya ng mga regalo at lugar sa palasyo",
+            "Ipinadala siyang magtayo ng Babel",
+            "Pinagbawalan siyang makita ang hari kailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king rewards Mordecai with presents and continued court service (Esther 12).",
+          "fil": "Ginantimpalaan ng hari si Mordecai ng mga regalo at patuloy na paglilingkod sa palasyo (Ester 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Who prays for the threatened people in the latter part of the chapter?",
+          "fil": "Sino ang nanalangin para sa nanganganib na bayan sa huling bahagi ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Haman",
+            "Mordecai",
+            "Vashti"
+          ],
+          "fil": [
+            "Si Haman",
+            "Si Mordecai",
+            "Si Vasti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mordecai turns to God after the hostile decree is set out (Esther 13).",
+          "fil": "Lumapit si Mordecai sa Diyos matapos ilahad ang utos laban sa bayan (Ester 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Mordecai explain his refusal to give Haman worshipful honor?",
+          "fil": "Paano ipinaliwanag ni Mordecai ang pagtangging magbigay kay Haman ng parangal na tila pagsamba?"
+        },
+        "options": {
+          "en": [
+            "He wants to become God himself",
+            "He believes Haman has already saved Israel",
+            "He wants to reserve divine honor for God"
+          ],
+          "fil": [
+            "Nais niyang maging Diyos mismo",
+            "Naniniwala siyang nailigtas na ni Haman ang Israel",
+            "Nais niyang ilaan sa Diyos ang banal na parangal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "His prayer distinguishes devotion to God from personal pride (Esther 13).",
+          "fil": "Ibinukod ng kanyang panalangin ang katapatan sa Diyos sa pansariling pagmamataas (Ester 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change does Mordecai ask God to bring to the people's mourning?",
+          "fil": "Anong pagbabago sa pagluluksa ng bayan ang hiniling ni Mordecai sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Replace it with worship of Haman",
+            "Turn it to joy so they may live and praise him",
+            "Make it an excuse to abandon prayer"
+          ],
+          "fil": [
+            "Palitan ito ng pagsamba kay Haman",
+            "Gawin itong kagalakan upang mabuhay sila at magpuri sa kanya",
+            "Gawin itong dahilan upang talikuran ang panalangin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Mordecai seeks deliverance that allows the people to continue praising God (Esther 13).",
+          "fil": "Humiling si Mordecai ng pagliligtas upang patuloy na makapagpuri sa Diyos ang bayan (Ester 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "To whom does Esther turn as her ultimate helper in danger?",
+          "fil": "Kanino lumapit si Ester bilang sukdulang katulong sa panganib?"
+        },
+        "options": {
+          "en": [
+            "The God of Israel",
+            "The kings of Egypt",
+            "Haman's household gods"
+          ],
+          "fil": [
+            "Sa Diyos ng Israel",
+            "Sa mga hari ng Egipto",
+            "Sa mga diyus-diyosan ng sambahayan ni Haman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esther's prayer expresses dependence on God when she feels alone (Esther 14).",
+          "fil": "Ipinahahayag ng panalangin ni Ester ang pag-asa sa Diyos habang nadarama niyang nag-iisa siya (Ester 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Esther acknowledge about the people's past conduct?",
+          "fil": "Ano ang kinilala ni Ester tungkol sa nakaraang asal ng bayan?"
+        },
+        "options": {
+          "en": [
+            "They have never broken a command",
+            "They created the heavens themselves",
+            "They have sinned by worshiping other gods"
+          ],
+          "fil": [
+            "Hindi sila kailanman lumabag sa utos",
+            "Sila mismo ang lumikha ng kalangitan",
+            "Nagkasala sila sa pagsamba sa ibang diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer confesses the people's unfaithfulness while appealing for mercy (Esther 14).",
+          "fil": "Inamin ng panalangin ang pagtataksil ng bayan habang humihingi ng awa (Ester 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What personal help does Esther request for speaking before the king?",
+          "fil": "Anong pansariling tulong ang hiniling ni Ester sa pagsasalita sa harap ng hari?"
+        },
+        "options": {
+          "en": [
+            "Courage and fitting words",
+            "A desire to praise Haman's plan",
+            "Power to forget her people"
+          ],
+          "fil": [
+            "Tapang at angkop na mga salita",
+            "Pagnanais na purihin ang balak ni Haman",
+            "Kapangyarihang malimutan ang kanyang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Esther asks God to strengthen her and guide her appeal (Esther 14).",
+          "fil": "Hiniling ni Ester sa Diyos na palakasin siya at gabayan ang kanyang pakiusap (Ester 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "How does Esther prepare outwardly for the royal audience after prayer?",
+          "fil": "Paano naghanda si Ester sa panlabas na anyo para sa pagharap sa hari matapos manalangin?"
+        },
+        "options": {
+          "en": [
+            "She wears Haman's armor",
+            "She puts on her royal robes",
+            "She disguises herself as a soldier"
+          ],
+          "fil": [
+            "Isinuot niya ang baluti ni Haman",
+            "Isinuot niya ang kanyang kasuotang pangreyna",
+            "Nagbalatkayo siyang kawal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Esther changes from mourning clothes into royal attire for the audience (Esther 15).",
+          "fil": "Nagpalit si Ester mula sa damit ng pagluluksa tungo sa kasuotang pangreyna para sa pagharap (Ester 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What feeling does Esther conceal beneath her composed appearance?",
+          "fil": "Anong damdamin ang itinago ni Ester sa ilalim ng maayos niyang anyo?"
+        },
+        "options": {
+          "en": [
+            "Great fear and distress",
+            "Complete indifference to the meeting",
+            "Delight in her people's danger"
+          ],
+          "fil": [
+            "Matinding takot at pagkabagabag",
+            "Lubusang pagwawalang-bahala sa pagharap",
+            "Pagkatuwa sa panganib ng kanyang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The expanded account contrasts her graceful appearance with inward fear (Esther 15).",
+          "fil": "Inihambing ng mas mahabang salaysay ang kanyang maayos na anyo sa takot sa kalooban (Ester 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God do when Esther collapses in fear before the king?",
+          "fil": "Ano ang ginawa ng Diyos nang manghina si Ester sa takot sa harap ng hari?"
+        },
+        "options": {
+          "en": [
+            "Turns the king's heart toward gentleness",
+            "Makes the palace disappear",
+            "Commands the king to worship Haman"
+          ],
+          "fil": [
+            "Ibinaling ang puso ng hari sa kahinahunan",
+            "Pinaglaho ang palasyo",
+            "Inutusan ang hari na sambahin si Haman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God changes the king's disposition so that he hurries to comfort Esther (Esther 15).",
+          "fil": "Binago ng Diyos ang saloobin ng hari kaya nagmadali itong aliwin si Ester (Ester 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance does the king give Esther?",
+          "fil": "Anong katiyakan ang ibinigay ng hari kay Ester?"
+        },
+        "options": {
+          "en": [
+            "She will not die for approaching him",
+            "Haman will rule in her place",
+            "She must leave her people without help"
+          ],
+          "fil": [
+            "Hindi siya mamamatay dahil sa paglapit sa kanya",
+            "Mamumuno si Haman kapalit niya",
+            "Kailangan niyang iwan ang kanyang bayan nang walang tulong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The king reassures Esther and invites her to approach his scepter (Esther 15).",
+          "fil": "Pinanatag ng hari si Ester at inanyayahang lumapit sa kanyang setro (Ester 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What abuse does the royal letter expose in Haman's conduct?",
+          "fil": "Anong pang-aabuso sa asal ni Haman ang inilantad ng sulat ng hari?"
+        },
+        "options": {
+          "en": [
+            "He used royal favor to deceive and threaten loyal people",
+            "He protected the Jews from all harm",
+            "He refused every position of power"
+          ],
+          "fil": [
+            "Ginamit niya ang tiwala ng hari upang manlinlang at magbanta sa mga tapat na tao",
+            "Pinangalagaan niya ang mga Judio laban sa lahat ng pinsala",
+            "Tinanggihan niya ang bawat katungkulan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The letter denounces the misuse of royal trust through lies and ambition (Esther 16).",
+          "fil": "Kinondena ng sulat ang maling paggamit ng tiwala ng hari sa pamamagitan ng kasinungalingan at ambisyon (Ester 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the letter describe the Jews in contrast to Haman's accusations?",
+          "fil": "Paano inilarawan ng sulat ang mga Judio na kaiba sa mga paratang ni Haman?"
+        },
+        "options": {
+          "en": [
+            "As innocent people with just laws",
+            "As the king's proven murderers",
+            "As people forbidden to live anywhere"
+          ],
+          "fil": [
+            "Bilang mga taong walang sala na may makatarungang mga batas",
+            "Bilang napatunayang mga papatay sa hari",
+            "Bilang mga taong bawal manirahan saanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The letter rejects the allegations used to justify their destruction (Esther 16).",
+          "fil": "Tinanggihan ng sulat ang mga paratang na ginamit upang bigyang-katwiran ang paglipol sa kanila (Ester 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are officials instructed to do for the Jewish community?",
+          "fil": "Ano ang iniutos sa mga opisyal na gawin para sa pamayanang Judio?"
+        },
+        "options": {
+          "en": [
+            "Forbid every celebration of deliverance",
+            "Enforce Haman's plot unchanged",
+            "Support their protection and allow them to follow their laws"
+          ],
+          "fil": [
+            "Ipagbawal ang bawat pagdiriwang ng pagliligtas",
+            "Ipatupad ang balak ni Haman nang walang pagbabago",
+            "Suportahan ang kanilang proteksiyon at pahintulutang sundin ang kanilang mga batas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The new letter directs officials to help the threatened people rather than destroy them (Esther 16).",
+          "fil": "Inutusan ng bagong sulat ang mga opisyal na tulungan ang nanganganib na bayan sa halip na lipulin (Ester 16)."
+        }
+      }
+    ]
+  }
+}
