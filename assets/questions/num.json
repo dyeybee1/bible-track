@@ -1,0 +1,2790 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What is the main purpose of the census?",
+          "fil": "Ano ang pangunahing layunin ng pagbilang?"
+        },
+        "options": {
+          "en": [
+            "Organize men eligible for military service",
+            "Count foreign idols",
+            "Choose a new Pharaoh"
+          ],
+          "fil": [
+            "Ayusin ang mga lalaking maaaring maglingkod sa hukbo",
+            "Bilangin ang mga dayuhang diyus-diyosan",
+            "Pumili ng bagong Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The census organizes Israel's men for military service (Numbers 1).",
+          "fil": "Isinaayos ng pagbilang ang mga lalaki ng Israel para sa paglilingkod sa hukbo (Mga Bilang 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which tribe is listed first in the census?",
+          "fil": "Anong lipi ang unang nakatala sa pagbilang?"
+        },
+        "options": {
+          "en": [
+            "Reuben",
+            "Benjamin",
+            "Judah"
+          ],
+          "fil": [
+            "Ruben",
+            "Benjamin",
+            "Juda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Reuben heads the tribal census list (Numbers 1).",
+          "fil": "Nauna ang Ruben sa talaan ng pagbilang ng mga lipi (Mga Bilang 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are the Levites counted separately from the fighting men?",
+          "fil": "Bakit hiwalay ang mga Levita sa pagbilang ng mga mandirigma?"
+        },
+        "options": {
+          "en": [
+            "They have become a foreign nation",
+            "They are assigned care of the tabernacle",
+            "They have returned to Egypt"
+          ],
+          "fil": [
+            "Naging dayuhang bansa sila",
+            "Inatasan silang mangalaga sa tabernakulo",
+            "Bumalik sila sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Levites receive responsibility for the tabernacle rather than ordinary military service (Numbers 1).",
+          "fil": "Ipinagkatiwala sa mga Levita ang tabernakulo sa halip na karaniwang paglilingkod sa hukbo (Mga Bilang 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What stands at the center of Israel's camp arrangement?",
+          "fil": "Ano ang nasa gitna ng pagkakaayos ng kampo ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The tent of meeting with the Levites around it",
+            "Pharaoh's palace",
+            "A shrine to Baal"
+          ],
+          "fil": [
+            "Ang toldang tipanan na napaliligiran ng mga Levita",
+            "Ang palasyo ni Faraon",
+            "Dambana ni Baal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The camp is arranged around the tent of meeting (Numbers 2).",
+          "fil": "Inayos ang kampo sa palibot ng toldang tipanan (Mga Bilang 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which tribal group camps on the east and sets out first?",
+          "fil": "Anong pangkat ng mga lipi ang nasa silangan at unang umaalis?"
+        },
+        "options": {
+          "en": [
+            "The group led by Dan",
+            "The group led by Reuben",
+            "The group led by Judah"
+          ],
+          "fil": [
+            "Ang pangkat na pinangungunahan ng Dan",
+            "Ang pangkat na pinangungunahan ng Ruben",
+            "Ang pangkat na pinangungunahan ng Juda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Judah's group occupies the eastern side and leads the march (Numbers 2).",
+          "fil": "Nasa silangan ang pangkat ng Juda at ito ang nangunguna sa paglalakbay (Mga Bilang 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the tribes identified in their camping places?",
+          "fil": "Paano nakikilala ang mga lipi sa kanilang puwesto sa kampo?"
+        },
+        "options": {
+          "en": [
+            "By their banners and family signs",
+            "By statues of foreign gods",
+            "By crowns from Egypt"
+          ],
+          "fil": [
+            "Sa kanilang mga watawat at sagisag ng pamilya",
+            "Sa mga rebulto ng dayuhang diyos",
+            "Sa mga korona mula sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The tribes camp under their own banners and family signs (Numbers 2).",
+          "fil": "Nagkampo ang mga lipi sa ilalim ng sariling mga watawat at sagisag ng pamilya (Mga Bilang 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What role is given to the Levites in relation to Aaron?",
+          "fil": "Anong tungkulin ang ibinigay sa mga Levita kaugnay ni Aaron?"
+        },
+        "options": {
+          "en": [
+            "Collect tribute for Egypt",
+            "Replace him as king",
+            "Assist him in service at the tent"
+          ],
+          "fil": [
+            "Maningil ng buwis para sa Egipto",
+            "Palitan siya bilang hari",
+            "Tulungan siya sa paglilingkod sa tolda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Levites are assigned to assist Aaron in sanctuary service (Numbers 3).",
+          "fil": "Inatasan ang mga Levita na tumulong kay Aaron sa paglilingkod sa santuwaryo (Mga Bilang 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "In whose place does God take the Levites for himself?",
+          "fil": "Kapalit nino kinuha ng Diyos ang mga Levita para sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Egypt's generals",
+            "Canaan's kings",
+            "Israel's firstborn"
+          ],
+          "fil": [
+            "Ng mga heneral ng Egipto",
+            "Ng mga hari ng Canaan",
+            "Ng mga panganay ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God takes the Levites in place of Israel's firstborn (Numbers 3).",
+          "fil": "Kinuha ng Diyos ang mga Levita bilang kapalit ng mga panganay ng Israel (Mga Bilang 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is sanctuary work organized among the Levite families?",
+          "fil": "Paano inayos ang paglilingkod sa santuwaryo sa mga pamilya ng Levita?"
+        },
+        "options": {
+          "en": [
+            "Each family receives its own responsibilities",
+            "All duties are sold to foreigners",
+            "No family receives any duty"
+          ],
+          "fil": [
+            "Bawat pamilya ay binigyan ng sariling pananagutan",
+            "Ipinagbili sa mga dayuhan ang lahat ng tungkulin",
+            "Walang pamilyang binigyan ng tungkulin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter assigns distinct sanctuary duties to the Levite families (Numbers 3).",
+          "fil": "Ipinamahagi ng kabanata ang magkakaibang tungkulin sa santuwaryo sa mga pamilya ng Levita (Mga Bilang 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What is being organized in this chapter?",
+          "fil": "Ano ang isinasaayos sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The building of a royal fleet",
+            "The coronation of Moses",
+            "Levite service in moving the tabernacle"
+          ],
+          "fil": [
+            "Paggawa ng mga barko ng hari",
+            "Pagluklok kay Moises bilang hari",
+            "Paglilingkod ng mga Levita sa paglilipat ng tabernakulo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Numbers 4 assigns Levite work for transporting the tabernacle.",
+          "fil": "Itinakda sa Mga Bilang 4 ang gawain ng mga Levita sa pagdadala ng tabernakulo."
+        }
+      },
+      {
+        "q": {
+          "en": "Who prepares the sacred objects before the Kohathites carry them?",
+          "fil": "Sino ang naghahanda ng mga banal na kagamitan bago dalhin ng mga Kohatita?"
+        },
+        "options": {
+          "en": [
+            "Egyptian soldiers",
+            "The kings of Moab",
+            "Aaron and his sons"
+          ],
+          "fil": [
+            "Mga kawal ng Egipto",
+            "Ang mga hari ng Moab",
+            "Si Aaron at ang kanyang mga anak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The priests cover the sacred objects before the Kohathites transport them (Numbers 4).",
+          "fil": "Tinatakpan ng mga pari ang mga banal na kagamitan bago dalhin ng mga Kohatita (Mga Bilang 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must the Kohathites respect the restrictions around holy objects?",
+          "fil": "Bakit dapat igalang ng mga Kohatita ang mga limitasyon sa mga banal na kagamitan?"
+        },
+        "options": {
+          "en": [
+            "To avoid deadly misuse of holy things",
+            "To become rulers of Canaan",
+            "To honor Pharaoh"
+          ],
+          "fil": [
+            "Upang maiwasan ang nakamamatay na maling paghawak sa mga banal na bagay",
+            "Upang maging mga pinuno ng Canaan",
+            "Upang parangalan si Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The restrictions protect those serving near the most holy objects (Numbers 4).",
+          "fil": "Pinangangalagaan ng mga limitasyon ang mga naglilingkod malapit sa mga kabanal-banalang kagamitan (Mga Bilang 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What concern is brought before the priest in the chapter's longest section?",
+          "fil": "Anong usapin ang iniharap sa pari sa pinakamahabang bahagi ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "A plan to conquer Egypt",
+            "A husband's suspicion of marital unfaithfulness",
+            "A dispute over a royal crown"
+          ],
+          "fil": [
+            "Plano sa pagsakop sa Egipto",
+            "Hinala ng asawa tungkol sa pagtataksil sa pag-aasawa",
+            "Usapin sa korona ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The longest section concerns a suspected breach of marital faithfulness (Numbers 5).",
+          "fil": "Tungkol sa hinihinalang pagtataksil sa pag-aasawa ang pinakamahabang bahagi (Mga Bilang 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who handles this case before the Lord?",
+          "fil": "Sino ang nangangasiwa sa kasong ito sa harap ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A foreign king",
+            "The priest",
+            "An Egyptian tax collector"
+          ],
+          "fil": [
+            "Isang dayuhang hari",
+            "Ang pari",
+            "Isang maniningil ng buwis ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The procedure places the accusation before God through the priest (Numbers 5).",
+          "fil": "Inihaharap ng pamamaraan ang paratang sa Diyos sa pamamagitan ng pari (Mga Bilang 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the procedure distinguish between?",
+          "fil": "Ano ang pinag-iiba ng pamamaraan?"
+        },
+        "options": {
+          "en": [
+            "Rich and poor clothing",
+            "Actual guilt and innocence",
+            "Soldiers and farmers"
+          ],
+          "fil": [
+            "Mamahalin at murang damit",
+            "Tunay na pagkakasala at kawalang-sala",
+            "Mga kawal at magsasaka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The stated outcomes distinguish an innocent woman from one who has been unfaithful (Numbers 5).",
+          "fil": "Pinag-iba ng mga itinakdang bunga ang babaeng walang sala at ang nagtaksil (Mga Bilang 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What is the purpose of a Nazirite vow?",
+          "fil": "Ano ang layunin ng panata ng isang Nazareo?"
+        },
+        "options": {
+          "en": [
+            "Special dedication to God",
+            "Permission to worship idols",
+            "Appointment as an Egyptian official"
+          ],
+          "fil": [
+            "Natatanging pagtatalaga sa Diyos",
+            "Pahintulot na sumamba sa diyus-diyosan",
+            "Pagtatalaga bilang opisyal ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Nazirite vow sets a person apart for God (Numbers 6).",
+          "fil": "Ibinubukod ng panata ng Nazareo ang isang tao para sa Diyos (Mga Bilang 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who may make the Nazirite vow described here?",
+          "fil": "Sino ang maaaring gumawa ng panata ng Nazareo na inilarawan dito?"
+        },
+        "options": {
+          "en": [
+            "Either a man or a woman",
+            "Only foreign kings",
+            "Only Aaron's eldest son"
+          ],
+          "fil": [
+            "Lalaki o babae",
+            "Mga dayuhang hari lamang",
+            "Panganay na anak lamang ni Aaron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter allows both men and women to make this vow (Numbers 6).",
+          "fil": "Pinahihintulutan ng kabanata ang mga lalaki at babae na gumawa ng panatang ito (Mga Bilang 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What visible feature marks the dedication while the vow is in effect?",
+          "fil": "Anong nakikitang katangian ang tanda ng pagtatalaga habang umiiral ang panata?"
+        },
+        "options": {
+          "en": [
+            "Hair left uncut",
+            "An Egyptian military uniform",
+            "A royal crown"
+          ],
+          "fil": [
+            "Buhok na hindi pinuputol",
+            "Uniporme ng kawal ng Egipto",
+            "Korona ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Uncut hair is a sign of the Nazirite's dedication during the vow (Numbers 6).",
+          "fil": "Tanda ng pagtatalaga ng Nazareo ang buhok na hindi pinuputol habang umiiral ang panata (Mga Bilang 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What occasion prompts the tribal leaders' offerings?",
+          "fil": "Anong okasyon ang dahilan ng mga handog ng mga pinuno ng lipi?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's birthday",
+            "The dedication of the altar",
+            "The building of Babel"
+          ],
+          "fil": [
+            "Ang kaarawan ni Faraon",
+            "Ang pagtatalaga ng altar",
+            "Ang pagtatayo ng Babel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The tribal leaders bring gifts for the altar's dedication (Numbers 7).",
+          "fil": "Nagdala ng mga handog ang mga pinuno ng lipi para sa pagtatalaga ng altar (Mga Bilang 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the leaders' listed offerings compare?",
+          "fil": "Paano nagkakatulad ang mga nakatalang handog ng mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "Each leader brings a different idol",
+            "Each leader brings the same kinds of gifts",
+            "Only one tribe brings anything"
+          ],
+          "fil": [
+            "Magkakaibang diyus-diyosan ang dala ng bawat pinuno",
+            "Pare-parehong uri ng handog ang dala ng bawat pinuno",
+            "Isang lipi lamang ang may dalang anuman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The repeated list shows equal participation by the tribal leaders (Numbers 7).",
+          "fil": "Ipinakikita ng paulit-ulit na talaan ang pantay na pakikibahagi ng mga pinuno ng lipi (Mga Bilang 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the donated wagons and oxen used for?",
+          "fil": "Para saan ginamit ang mga ibinigay na kariton at baka?"
+        },
+        "options": {
+          "en": [
+            "Helping the Levites transport the tabernacle",
+            "Transporting idols to Egypt",
+            "Building Pharaoh's tomb"
+          ],
+          "fil": [
+            "Pagtulong sa mga Levita sa pagdadala ng tabernakulo",
+            "Pagdadala ng mga diyus-diyosan sa Egipto",
+            "Pagtatayo ng libingan ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The wagons and oxen support the Levites' assigned transport work (Numbers 7).",
+          "fil": "Tumulong ang mga kariton at baka sa itinakdang gawain ng mga Levita sa pagdadala (Mga Bilang 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What is the main purpose of the Levites' cleansing and presentation?",
+          "fil": "Ano ang pangunahing layunin ng paglilinis at paghaharap sa mga Levita?"
+        },
+        "options": {
+          "en": [
+            "Make them kings of Egypt",
+            "Release them from every responsibility",
+            "Prepare them for service at the tent of meeting"
+          ],
+          "fil": [
+            "Gawin silang mga hari ng Egipto",
+            "Palayain sila sa lahat ng pananagutan",
+            "Ihanda sila sa paglilingkod sa toldang tipanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Levites are purified and dedicated for sanctuary service (Numbers 8).",
+          "fil": "Nilinis at itinalaga ang mga Levita para sa paglilingkod sa santuwaryo (Mga Bilang 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Israel do as the Levites are presented?",
+          "fil": "Ano ang ginawa ng Israel nang iharap ang mga Levita?"
+        },
+        "options": {
+          "en": [
+            "Crown them as foreign kings",
+            "Lay hands on them",
+            "Drive them out as enemies"
+          ],
+          "fil": [
+            "Kinoronahan sila bilang mga dayuhang hari",
+            "Ipinatong ang mga kamay sa kanila",
+            "Pinalayas sila bilang mga kaaway"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Israelites lay hands on the Levites during their presentation (Numbers 8).",
+          "fil": "Ipinatong ng mga Israelita ang mga kamay sa mga Levita sa kanilang paghaharap (Mga Bilang 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What may older Levites still do after retiring from regular service?",
+          "fil": "Ano ang maaari pa ring gawin ng matatandang Levita matapos magretiro sa regular na tungkulin?"
+        },
+        "options": {
+          "en": [
+            "Assist their fellow Levites",
+            "Sell the tent of meeting",
+            "Take over foreign kingdoms"
+          ],
+          "fil": [
+            "Tumulong sa kapwa Levita",
+            "Ipagbili ang toldang tipanan",
+            "Sakupin ang mga dayuhang kaharian"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Older Levites may assist others while no longer performing regular service (Numbers 8).",
+          "fil": "Maaaring tumulong ang matatandang Levita kahit hindi na gumaganap sa regular na tungkulin (Mga Bilang 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What observance is kept in the wilderness of Sinai?",
+          "fil": "Anong pagdiriwang ang ginanap sa ilang ng Sinai?"
+        },
+        "options": {
+          "en": [
+            "A festival for Baal",
+            "Pharaoh's coronation",
+            "Passover"
+          ],
+          "fil": [
+            "Pista para kay Baal",
+            "Pagluklok kay Faraon",
+            "Paskuwa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel celebrates Passover in the wilderness as God commands (Numbers 9).",
+          "fil": "Ipinagdiwang ng Israel ang Paskuwa sa ilang ayon sa utos ng Diyos (Mga Bilang 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What provision is made for someone unclean or away on a journey at Passover?",
+          "fil": "Ano ang itinakda para sa marumi ayon sa ritwal o naglalakbay sa panahon ng Paskuwa?"
+        },
+        "options": {
+          "en": [
+            "A requirement to worship in Egypt",
+            "A later opportunity to keep it",
+            "Permanent exclusion from Israel"
+          ],
+          "fil": [
+            "Kailangang sumamba sa Egipto",
+            "Pagkakataong ipagdiwang ito sa mas huling petsa",
+            "Tuluyang pag-aalis sa Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God provides a later Passover observance for those unable to keep the first date (Numbers 9).",
+          "fil": "Naglaan ang Diyos ng mas huling pagdiriwang ng Paskuwa para sa hindi makadalo sa unang petsa (Mga Bilang 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What guides Israel's camping and departure?",
+          "fil": "Ano ang gumagabay sa pagkakampo at pag-alis ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The movement of a golden calf",
+            "The cloud over the tabernacle",
+            "Orders from Pharaoh"
+          ],
+          "fil": [
+            "Ang paggalaw ng gintong guya",
+            "Ang ulap sa ibabaw ng tabernakulo",
+            "Mga utos ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Israel stays or moves according to the cloud over God's dwelling (Numbers 9).",
+          "fil": "Nanatili o naglakbay ang Israel ayon sa ulap sa ibabaw ng tahanan ng Diyos (Mga Bilang 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What are the silver trumpets used for?",
+          "fil": "Para saan ginagamit ang mga trumpetang pilak?"
+        },
+        "options": {
+          "en": [
+            "Calling the assembly and signaling departures",
+            "Measuring the Jordan",
+            "Decorating Pharaoh's throne"
+          ],
+          "fil": [
+            "Pagtawag sa pagtitipon at pagbibigay-hudyat ng pag-alis",
+            "Pagsukat sa Jordan",
+            "Pagpapalamuti sa trono ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The trumpets communicate signals to the gathered nation (Numbers 10).",
+          "fil": "Nagbibigay ng mga hudyat sa nagkakatipong bayan ang mga trumpeta (Mga Bilang 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "From which mountain region does Israel set out?",
+          "fil": "Mula sa rehiyon ng anong bundok umalis ang Israel?"
+        },
+        "options": {
+          "en": [
+            "Sinai",
+            "Carmel",
+            "Zion"
+          ],
+          "fil": [
+            "Sinai",
+            "Carmel",
+            "Zion"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The cloud rises and Israel leaves the wilderness of Sinai (Numbers 10).",
+          "fil": "Umakyat ang ulap at umalis ang Israel sa ilang ng Sinai (Mga Bilang 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Moses ask Hobab to travel with them?",
+          "fil": "Bakit hiniling ni Moises na sumama si Hobab sa kanila?"
+        },
+        "options": {
+          "en": [
+            "He owns Pharaoh's army",
+            "He knows the wilderness and camping places",
+            "He can choose a new god for Israel"
+          ],
+          "fil": [
+            "Pag-aari niya ang hukbo ni Faraon",
+            "Alam niya ang ilang at mga lugar na makakampuhan",
+            "Makapipili siya ng bagong diyos para sa Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses values Hobab's knowledge of travel and camps in the wilderness (Numbers 10).",
+          "fil": "Pinahalagahan ni Moises ang kaalaman ni Hobab sa paglalakbay at pagkakampo sa ilang (Mga Bilang 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What food do the complaining people long for?",
+          "fil": "Anong pagkain ang hinanap-hanap ng mga nagrereklamong tao?"
+        },
+        "options": {
+          "en": [
+            "Fruit from Babylon's royal garden",
+            "Meat and the foods they remembered from Egypt",
+            "Bread from Jerusalem's temple"
+          ],
+          "fil": [
+            "Prutas mula sa hardin ng hari ng Babilonia",
+            "Karne at mga pagkaing naalala nila sa Egipto",
+            "Tinapay mula sa templo ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people complain about their diet and recall Egypt's foods (Numbers 11).",
+          "fil": "Nagreklamo ang bayan sa pagkain at inalala ang mga pagkain sa Egipto (Mga Bilang 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God help Moses carry the burden of leadership?",
+          "fil": "Paano tinulungan ng Diyos si Moises sa bigat ng pamumuno?"
+        },
+        "options": {
+          "en": [
+            "He removes every leader",
+            "He gives the Spirit to elders who will help him",
+            "He sends Pharaoh to rule Israel"
+          ],
+          "fil": [
+            "Inalis niya ang lahat ng pinuno",
+            "Ibinigay niya ang Espiritu sa matatandang tutulong sa kanya",
+            "Ipinadala niya si Faraon upang mamuno sa Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God shares the Spirit with elders to help Moses lead (Numbers 11).",
+          "fil": "Ibinahagi ng Diyos ang Espiritu sa matatanda upang tulungan si Moises sa pamumuno (Mga Bilang 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses wish when Joshua objects to Eldad and Medad prophesying?",
+          "fil": "Ano ang hinangad ni Moises nang tumutol si Josue sa pagpapahayag nina Eldad at Medad?"
+        },
+        "options": {
+          "en": [
+            "That Joshua would become Pharaoh",
+            "That nobody would ever speak for God",
+            "That all God's people could receive his Spirit and prophesy"
+          ],
+          "fil": [
+            "Na maging Faraon si Josue",
+            "Na wala nang magsalita para sa Diyos",
+            "Na tumanggap ng Espiritu ng Diyos at magpahayag ang buong bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses welcomes God's Spirit working beyond the immediate gathering (Numbers 11).",
+          "fil": "Malugod na tinanggap ni Moises ang pagkilos ng Espiritu ng Diyos kahit sa labas ng pagtitipon (Mga Bilang 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What birds does God send when the people demand meat?",
+          "fil": "Anong mga ibon ang ipinadala ng Diyos nang humingi ng karne ang bayan?"
+        },
+        "options": {
+          "en": [
+            "Ravens",
+            "Quail",
+            "Eagles"
+          ],
+          "fil": [
+            "Mga uwak",
+            "Mga pugo",
+            "Mga agila"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A wind brings quail into the camp before judgment falls on the people's craving (Numbers 11).",
+          "fil": "Nagdala ang hangin ng mga pugo sa kampo bago dumating ang hatol sa matinding pagnanasa ng bayan (Mga Bilang 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Who speaks against Moses in this chapter?",
+          "fil": "Sino ang nagsalita laban kay Moises sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Eldad and Medad",
+            "Miriam and Aaron",
+            "Joshua and Caleb"
+          ],
+          "fil": [
+            "Sina Eldad at Medad",
+            "Sina Miriam at Aaron",
+            "Sina Josue at Caleb"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Miriam and Aaron challenge Moses' special standing (Numbers 12).",
+          "fil": "Hinamon nina Miriam at Aaron ang natatanging katayuan ni Moises (Mga Bilang 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God describe his communication with Moses?",
+          "fil": "Paano inilarawan ng Diyos ang pakikipag-usap niya kay Moises?"
+        },
+        "options": {
+          "en": [
+            "Only through carved idols",
+            "Direct and clear rather than in riddles",
+            "Only through Pharaoh"
+          ],
+          "fil": [
+            "Sa pamamagitan lamang ng mga inukit na diyus-diyosan",
+            "Tuwiran at malinaw sa halip na sa mga palaisipan",
+            "Sa pamamagitan lamang ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God distinguishes his clear communication with Moses from ordinary prophetic visions (Numbers 12).",
+          "fil": "Ibinukod ng Diyos ang malinaw niyang pakikipag-usap kay Moises sa karaniwang pangitain ng mga propeta (Mga Bilang 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Miriam after God's rebuke?",
+          "fil": "Ano ang nangyari kay Miriam matapos ang pagsaway ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "She becomes queen of Egypt",
+            "She receives the tablets of the law",
+            "She develops a severe skin disease"
+          ],
+          "fil": [
+            "Naging reyna siya ng Egipto",
+            "Tinanggap niya ang mga tapyas ng kautusan",
+            "Nagkaroon siya ng malubhang sakit sa balat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Miriam is struck with a skin disease after the confrontation (Numbers 12).",
+          "fil": "Nagkaroon si Miriam ng sakit sa balat matapos ang paghaharap (Mga Bilang 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Moses respond to Miriam's suffering?",
+          "fil": "Paano tumugon si Moises sa pagdurusa ni Miriam?"
+        },
+        "options": {
+          "en": [
+            "He celebrates her pain",
+            "He refuses to speak to God",
+            "He asks God to heal her"
+          ],
+          "fil": [
+            "Ikinatuwa niya ang sakit nito",
+            "Tumanggi siyang makipag-usap sa Diyos",
+            "Hiniling niya sa Diyos na pagalingin siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses intercedes for Miriam's healing (Numbers 12).",
+          "fil": "Namagitan si Moises para sa paggaling ni Miriam (Mga Bilang 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What mission does Moses give the men sent into Canaan?",
+          "fil": "Anong gawain ang ibinigay ni Moises sa mga ipinadala sa Canaan?"
+        },
+        "options": {
+          "en": [
+            "Explore the land and report what it is like",
+            "Choose a new law for Israel",
+            "Build a palace for Pharaoh"
+          ],
+          "fil": [
+            "Siyasatin ang lupain at ibalita ang kalagayan nito",
+            "Pumili ng bagong kautusan para sa Israel",
+            "Magtayo ng palasyo para kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses sends representatives to examine Canaan's land and inhabitants (Numbers 13).",
+          "fil": "Nagpadala si Moises ng mga kinatawan upang siyasatin ang lupain at mga naninirahan sa Canaan (Mga Bilang 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the explorers bring from the Valley of Eshcol?",
+          "fil": "Ano ang dinala ng mga tagasiyasat mula sa Libis ng Escol?"
+        },
+        "options": {
+          "en": [
+            "A large cluster of grapes",
+            "A royal crown",
+            "A golden calf"
+          ],
+          "fil": [
+            "Isang malaking kumpol ng ubas",
+            "Korona ng hari",
+            "Isang gintong guya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The grapes provide visible evidence of the land's fruitfulness (Numbers 13).",
+          "fil": "Nagbigay ang mga ubas ng nakikitang patunay sa kasaganaan ng lupain (Mga Bilang 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who urges the people to go up and take the land?",
+          "fil": "Sino ang humimok sa bayan na umakyat at kunin ang lupain?"
+        },
+        "options": {
+          "en": [
+            "Caleb",
+            "Balak",
+            "Pharaoh"
+          ],
+          "fil": [
+            "Si Caleb",
+            "Si Balac",
+            "Si Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Caleb expresses confidence that Israel can take the land (Numbers 13).",
+          "fil": "Nagpahayag si Caleb ng pagtitiwalang kayang kunin ng Israel ang lupain (Mga Bilang 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes the other explorers' report frightening to the people?",
+          "fil": "Bakit nakakatakot para sa bayan ang ulat ng ibang tagasiyasat?"
+        },
+        "options": {
+          "en": [
+            "They report that Egypt has disappeared",
+            "They say the land has no people at all",
+            "They emphasize powerful inhabitants and fortified cities"
+          ],
+          "fil": [
+            "Ibinalita nilang naglaho ang Egipto",
+            "Sinabi nilang walang sinumang naninirahan sa lupain",
+            "Binigyang-diin nila ang malalakas na naninirahan at napapaderang lungsod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The negative report stresses obstacles and discourages the people (Numbers 13).",
+          "fil": "Binigyang-diin ng masamang ulat ang mga hadlang at pinanghinaan ang bayan (Mga Bilang 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What do the frightened people propose instead of entering the land?",
+          "fil": "Ano ang iminungkahi ng natatakot na bayan sa halip na pumasok sa lupain?"
+        },
+        "options": {
+          "en": [
+            "Sail to Nineveh",
+            "Choose a leader and return to Egypt",
+            "Build Solomon's temple"
+          ],
+          "fil": [
+            "Maglayag patungong Nineve",
+            "Pumili ng pinuno at bumalik sa Egipto",
+            "Itayo ang templo ni Solomon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people talk of choosing a leader to take them back to Egypt (Numbers 14).",
+          "fil": "Napag-usapan ng bayan ang pagpili ng pinunong magbabalik sa kanila sa Egipto (Mga Bilang 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which explorers urge Israel to trust God despite the obstacles?",
+          "fil": "Sinong mga tagasiyasat ang humimok sa Israel na magtiwala sa Diyos sa kabila ng mga hadlang?"
+        },
+        "options": {
+          "en": [
+            "Korah and Dathan",
+            "Balak and Balaam",
+            "Joshua and Caleb"
+          ],
+          "fil": [
+            "Sina Korah at Datan",
+            "Sina Balac at Balaam",
+            "Sina Josue at Caleb"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Joshua and Caleb insist that the Lord can bring Israel into the land (Numbers 14).",
+          "fil": "Iginiit nina Josue at Caleb na kayang dalhin ng Panginoon ang Israel sa lupain (Mga Bilang 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What consequence is announced for the rebellious generation?",
+          "fil": "Anong bunga ang ipinahayag para sa henerasyong naghimagsik?"
+        },
+        "options": {
+          "en": [
+            "They will replace the priests",
+            "They will die in the wilderness instead of entering the land",
+            "They will immediately rule Canaan"
+          ],
+          "fil": [
+            "Papalitan nila ang mga pari",
+            "Mamamatay sila sa ilang sa halip na makapasok sa lupain",
+            "Agad silang maghahari sa Canaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God declares that the unbelieving generation will not enter the promised land (Numbers 14).",
+          "fil": "Ipinahayag ng Diyos na hindi makapapasok sa lupang pangako ang henerasyong hindi naniwala (Mga Bilang 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when the people attack after Moses warns them not to go?",
+          "fil": "Ano ang nangyari nang sumalakay ang bayan matapos silang pagbawalan ni Moises?"
+        },
+        "options": {
+          "en": [
+            "They find Pharaoh waiting to surrender",
+            "They are defeated",
+            "They capture every city"
+          ],
+          "fil": [
+            "Natagpuan nilang naghihintay si Faraon upang sumuko",
+            "Natalo sila",
+            "Nasakop nila ang bawat lungsod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their unauthorized attack ends in defeat because the Lord is not with them (Numbers 14).",
+          "fil": "Nauwi sa pagkatalo ang pagsalakay nilang walang pahintulot dahil hindi nila kasama ang Panginoon (Mga Bilang 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What future setting is assumed by the offering instructions?",
+          "fil": "Anong kalagayan sa hinaharap ang ipinapalagay ng mga tagubilin sa paghahandog?"
+        },
+        "options": {
+          "en": [
+            "Israel living in the land God will give them",
+            "Israel abandoning all worship",
+            "Israel permanently serving Pharaoh"
+          ],
+          "fil": [
+            "Paninirahan ng Israel sa lupaing ibibigay ng Diyos",
+            "Pagtalikod ng Israel sa lahat ng pagsamba",
+            "Habambuhay na paglilingkod ng Israel kay Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The offering instructions look ahead to life in the promised land (Numbers 15).",
+          "fil": "Nakatuon sa buhay sa lupang pangako ang mga tagubilin sa paghahandog (Mga Bilang 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What rule applies to foreigners joining Israel's offerings?",
+          "fil": "Anong tuntunin ang para sa mga dayuhang nakikibahagi sa paghahandog ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The same offering law applies to them",
+            "They may ignore every instruction",
+            "They must offer to a different god"
+          ],
+          "fil": [
+            "Parehong kautusan sa paghahandog ang para sa kanila",
+            "Maaari nilang balewalain ang bawat tagubilin",
+            "Kailangan nilang maghandog sa ibang diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter gives one offering standard for Israelites and resident foreigners (Numbers 15).",
+          "fil": "Nagbigay ang kabanata ng iisang pamantayan sa paghahandog para sa mga Israelita at mga dayuhang naninirahan kasama nila (Mga Bilang 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What distinction is made concerning sin?",
+          "fil": "Anong pagkakaiba ang ginawa tungkol sa kasalanan?"
+        },
+        "options": {
+          "en": [
+            "Only foreigners can do wrong",
+            "Unintentional wrongdoing differs from deliberate defiance",
+            "Every sin is described as accidental"
+          ],
+          "fil": [
+            "Mga dayuhan lamang ang maaaring magkasala",
+            "Iba ang di-sinasadyang pagkakasala sa sadyang pagsuway",
+            "Inilarawang di-sinasadya ang bawat kasalanan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter distinguishes inadvertent sin from defiant rejection of God (Numbers 15).",
+          "fil": "Pinag-iba ng kabanata ang di-sinasadyang kasalanan at ang sadyang pagtanggi sa Diyos (Mga Bilang 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "Who leads the challenge against Moses and Aaron?",
+          "fil": "Sino ang nanguna sa paghamon kina Moises at Aaron?"
+        },
+        "options": {
+          "en": [
+            "Korah with Dathan and Abiram",
+            "Miriam with Zipporah",
+            "Joshua with Caleb"
+          ],
+          "fil": [
+            "Si Korah kasama sina Datan at Abiram",
+            "Si Miriam kasama si Zipora",
+            "Si Josue kasama si Caleb"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Korah and his allies challenge the leadership of Moses and Aaron (Numbers 16).",
+          "fil": "Hinamon ni Korah at ng kanyang mga kasama ang pamumuno nina Moises at Aaron (Mga Bilang 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses propose to show whom God has chosen?",
+          "fil": "Ano ang iminungkahi ni Moises upang ipakita kung sino ang pinili ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Ask Pharaoh to vote",
+            "Present incense before the Lord",
+            "Hold a boat race"
+          ],
+          "fil": [
+            "Hingin ang boto ni Faraon",
+            "Magharap ng insenso sa Panginoon",
+            "Magpaligsahan ng bangka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The incense test places the disputed priestly claim before God (Numbers 16).",
+          "fil": "Iniharap sa Diyos ng pagsubok sa insenso ang pinagtatalunang karapatan sa pagkapari (Mga Bilang 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the households of Dathan and Abiram?",
+          "fil": "Ano ang nangyari sa mga sambahayan nina Datan at Abiram?"
+        },
+        "options": {
+          "en": [
+            "They become rulers of Egypt",
+            "They receive the ark",
+            "The ground opens and swallows them"
+          ],
+          "fil": [
+            "Naging mga pinuno sila ng Egipto",
+            "Tinanggap nila ang kaban",
+            "Bumuka ang lupa at nilamon sila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The earth opens beneath the rebels and their households (Numbers 16).",
+          "fil": "Bumuka ang lupa sa ilalim ng mga naghimagsik at ng kanilang mga sambahayan (Mga Bilang 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Aaron act when a plague breaks out among the people?",
+          "fil": "Ano ang ginawa ni Aaron nang magkaroon ng salot sa bayan?"
+        },
+        "options": {
+          "en": [
+            "He throws away all sacred offerings",
+            "He invites Pharaoh to celebrate",
+            "He carries incense and makes atonement for them"
+          ],
+          "fil": [
+            "Itinapon niya ang lahat ng banal na handog",
+            "Inanyayahan niya si Faraon na magdiwang",
+            "Nagdala siya ng insenso at nagsagawa ng pagtubos sa kasalanan para sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Aaron stands between the living and the dead as the plague is stopped (Numbers 16).",
+          "fil": "Tumayo si Aaron sa pagitan ng mga buhay at patay nang mapigil ang salot (Mga Bilang 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What sign settles the dispute about God's chosen priestly family?",
+          "fil": "Anong tanda ang lumutas sa pagtatalo tungkol sa pamilyang pinili ng Diyos sa pagkapari?"
+        },
+        "options": {
+          "en": [
+            "The sea turns to gold",
+            "Pharaoh's crown falls from the sky",
+            "Aaron's staff sprouts and bears almonds"
+          ],
+          "fil": [
+            "Naging ginto ang dagat",
+            "Nahulog mula sa langit ang korona ni Faraon",
+            "Sumibol at namunga ng almendras ang tungkod ni Aaron"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Aaron's staff blossoms and produces almonds as God's confirming sign (Numbers 17).",
+          "fil": "Namulaklak at namunga ng almendras ang tungkod ni Aaron bilang patunay mula sa Diyos (Mga Bilang 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which tribe's name is represented by Aaron's staff?",
+          "fil": "Anong lipi ang kinakatawan ng tungkod ni Aaron?"
+        },
+        "options": {
+          "en": [
+            "Judah",
+            "Levi",
+            "Benjamin"
+          ],
+          "fil": [
+            "Juda",
+            "Levi",
+            "Benjamin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Aaron's staff represents the tribe of Levi (Numbers 17).",
+          "fil": "Kinakatawan ng tungkod ni Aaron ang lipi ni Levi (Mga Bilang 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Aaron's staff kept as a reminder?",
+          "fil": "Bakit itinago ang tungkod ni Aaron bilang paalaala?"
+        },
+        "options": {
+          "en": [
+            "To warn against further rebellion",
+            "To honor a foreign idol",
+            "To help Egypt collect taxes"
+          ],
+          "fil": [
+            "Upang magbabala laban sa muling paghihimagsik",
+            "Upang parangalan ang dayuhang diyus-diyosan",
+            "Upang tulungan ang Egipto sa paniningil ng buwis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The staff is preserved as a sign meant to end rebellious complaints (Numbers 17).",
+          "fil": "Iningatan ang tungkod bilang tandang magpapatigil sa mga reklamong mapanghimagsik (Mga Bilang 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "What service is entrusted specifically to Aaron and his sons?",
+          "fil": "Anong paglilingkod ang partikular na ipinagkatiwala kay Aaron at sa kanyang mga anak?"
+        },
+        "options": {
+          "en": [
+            "Priestly service at the altar and inner sanctuary",
+            "Rule over Pharaoh's army",
+            "Building the tower of Babel"
+          ],
+          "fil": [
+            "Paglilingkod bilang mga pari sa altar at panloob na santuwaryo",
+            "Pamumuno sa hukbo ni Faraon",
+            "Pagtatayo ng tore ng Babel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron's family bears responsibility for the priesthood and sacred service (Numbers 18).",
+          "fil": "Pananagutan ng pamilya ni Aaron ang pagkapari at banal na paglilingkod (Mga Bilang 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the Levites supported for their work at the tent?",
+          "fil": "Paano sinusuportahan ang mga Levita sa kanilang gawain sa tolda?"
+        },
+        "options": {
+          "en": [
+            "By selling idols",
+            "Through Israel's tithes",
+            "By stealing from travelers"
+          ],
+          "fil": [
+            "Sa pagbebenta ng diyus-diyosan",
+            "Sa pamamagitan ng mga ikapu ng Israel",
+            "Sa pagnanakaw sa mga manlalakbay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God assigns Israel's tithes to the Levites for their service (Numbers 18).",
+          "fil": "Inilaan ng Diyos ang mga ikapu ng Israel sa mga Levita para sa kanilang paglilingkod (Mga Bilang 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What must the Levites do with the tithes they receive?",
+          "fil": "Ano ang kailangang gawin ng mga Levita sa mga ikapung tinanggap nila?"
+        },
+        "options": {
+          "en": [
+            "Use them only to buy weapons",
+            "Send everything to Pharaoh",
+            "Offer a portion to the Lord for the priests"
+          ],
+          "fil": [
+            "Gamitin lamang sa pagbili ng sandata",
+            "Ipadala ang lahat kay Faraon",
+            "Maghandog ng bahagi sa Panginoon para sa mga pari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Levites also give an offering from what they receive (Numbers 18).",
+          "fil": "Nagbibigay rin ang mga Levita ng handog mula sa kanilang tinatanggap (Mga Bilang 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What is the purpose of the red cow's ashes?",
+          "fil": "Ano ang layunin ng abo ng pulang baka?"
+        },
+        "options": {
+          "en": [
+            "Making an idol",
+            "Coloring a king's palace",
+            "Preparing water for ritual purification"
+          ],
+          "fil": [
+            "Paggawa ng diyus-diyosan",
+            "Pagkukulay sa palasyo ng hari",
+            "Paghahanda ng tubig para sa paglilinis ayon sa ritwal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ashes are kept for water used in purification (Numbers 19).",
+          "fil": "Iningatan ang abo para sa tubig na ginagamit sa paglilinis (Mga Bilang 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What contact creates the uncleanness emphasized here?",
+          "fil": "Anong pagkakahawak ang nagdudulot ng karumihang binigyang-diin dito?"
+        },
+        "options": {
+          "en": [
+            "Contact with a dead person",
+            "Gathering grain",
+            "Holding a staff"
+          ],
+          "fil": [
+            "Pagkakahawak sa patay na tao",
+            "Pag-iipon ng butil",
+            "Paghawak sa tungkod"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter addresses ritual uncleanness caused by contact with human death (Numbers 19).",
+          "fil": "Tinalakay ng kabanata ang karumihan ayon sa ritwal dahil sa pagkakahawak sa patay na tao (Mga Bilang 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why must this uncleanness be dealt with?",
+          "fil": "Bakit kailangang tugunan ang karumihang ito?"
+        },
+        "options": {
+          "en": [
+            "So God's sanctuary is not defiled",
+            "So Pharaoh receives a reward",
+            "So idols gain new worshipers"
+          ],
+          "fil": [
+            "Upang hindi madungisan ang santuwaryo ng Diyos",
+            "Upang tumanggap ng gantimpala si Faraon",
+            "Upang madagdagan ang sumasamba sa mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning links failure to be purified with defiling God's sanctuary (Numbers 19).",
+          "fil": "Iniugnay ng babala ang hindi paglilinis sa pagdungis sa santuwaryo ng Diyos (Mga Bilang 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What do the people lack when they gather against Moses and Aaron at Kadesh?",
+          "fil": "Ano ang kulang ng bayan nang magtipon sila laban kina Moises at Aaron sa Cades?"
+        },
+        "options": {
+          "en": [
+            "Golden crowns",
+            "Water",
+            "Warships"
+          ],
+          "fil": [
+            "Mga gintong korona",
+            "Tubig",
+            "Mga barkong pandigma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The quarrel at Kadesh begins because the community has no water (Numbers 20).",
+          "fil": "Nagsimula ang pagtatalo sa Cades dahil walang tubig ang pamayanan (Mga Bilang 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses do to the rock instead of speaking to it as commanded?",
+          "fil": "Ano ang ginawa ni Moises sa bato sa halip na kausapin ito gaya ng utos?"
+        },
+        "options": {
+          "en": [
+            "He strikes it with his staff",
+            "He carries it to Egypt",
+            "He carves a throne from it"
+          ],
+          "fil": [
+            "Hinampas niya ito ng tungkod",
+            "Dinala niya ito sa Egipto",
+            "Inukitan niya ito bilang trono"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses strikes the rock rather than following God's instruction to speak to it (Numbers 20).",
+          "fil": "Hinampas ni Moises ang bato sa halip na sundin ang tagubilin ng Diyos na kausapin ito (Mga Bilang 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Edom respond to Israel's request to pass through its territory?",
+          "fil": "Paano tumugon ang Edom sa hiling ng Israel na dumaan sa lupain nito?"
+        },
+        "options": {
+          "en": [
+            "It asks Moses to become its priest",
+            "It immediately gives Israel its throne",
+            "It refuses passage"
+          ],
+          "fil": [
+            "Hiniling nitong maging pari nito si Moises",
+            "Agad nitong ibinigay sa Israel ang trono nito",
+            "Tumanggi itong magpadaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Edom refuses to let Israel pass through its territory (Numbers 20).",
+          "fil": "Tumanggi ang Edom na padaanin ang Israel sa lupain nito (Mga Bilang 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who succeeds Aaron as priest when Aaron dies on Mount Hor?",
+          "fil": "Sino ang humalili kay Aaron bilang pari nang mamatay siya sa Bundok Hor?"
+        },
+        "options": {
+          "en": [
+            "Eleazar",
+            "Balak",
+            "Balaam"
+          ],
+          "fil": [
+            "Si Eleazar",
+            "Si Balac",
+            "Si Balaam"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron's priestly garments are transferred to his son Eleazar (Numbers 20).",
+          "fil": "Inilipat ang kasuotan ni Aaron bilang pari sa anak niyang si Eleazar (Mga Bilang 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What trouble follows the people's complaints against God and Moses?",
+          "fil": "Anong kapahamakan ang sumunod sa reklamo ng bayan laban sa Diyos at kay Moises?"
+        },
+        "options": {
+          "en": [
+            "An attack by Pharaoh's ships",
+            "Venomous snakes among the people",
+            "A tower collapsing in Babylon"
+          ],
+          "fil": [
+            "Pagsalakay ng mga barko ni Faraon",
+            "Mga makamandag na ahas sa gitna ng bayan",
+            "Pagbagsak ng tore sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Venomous snakes strike the people after their complaints (Numbers 21).",
+          "fil": "Tinuklaw ng mga makamandag na ahas ang bayan matapos ang kanilang mga reklamo (Mga Bilang 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Moses do when the people ask him to seek relief?",
+          "fil": "Ano ang ginawa ni Moises nang hilingin ng bayan na humingi siya ng tulong?"
+        },
+        "options": {
+          "en": [
+            "He sends them to Pharaoh",
+            "He prays for them",
+            "He refuses to listen"
+          ],
+          "fil": [
+            "Ipinadala niya sila kay Faraon",
+            "Nanalangin siya para sa kanila",
+            "Tumanggi siyang makinig"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses intercedes after the people acknowledge their sin (Numbers 21).",
+          "fil": "Namagitan si Moises matapos aminin ng bayan ang kanilang kasalanan (Mga Bilang 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the bitten people told to look at so they may live?",
+          "fil": "Ano ang ipinatingin sa mga natuklaw upang mabuhay?"
+        },
+        "options": {
+          "en": [
+            "A golden calf",
+            "An Egyptian crown",
+            "A bronze snake raised on a pole"
+          ],
+          "fil": [
+            "Isang gintong guya",
+            "Isang korona ng Egipto",
+            "Isang ahas na tanso na itinaas sa poste"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God provides healing through looking at the bronze snake Moses raises (Numbers 21).",
+          "fil": "Naglaan ang Diyos ng paggaling sa pagtingin sa ahas na tansong itinaas ni Moises (Mga Bilang 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which Amorite king attacks Israel after refusing passage?",
+          "fil": "Sinong hari ng mga Amoreo ang sumalakay sa Israel matapos tumangging magpadaan?"
+        },
+        "options": {
+          "en": [
+            "Abimelech",
+            "Balak",
+            "Sihon"
+          ],
+          "fil": [
+            "Si Abimelec",
+            "Si Balac",
+            "Si Sihon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Sihon refuses passage and is defeated after attacking Israel (Numbers 21).",
+          "fil": "Tumangging magpadaan si Sihon at natalo matapos salakayin ang Israel (Mga Bilang 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "Why does Balak send for Balaam?",
+          "fil": "Bakit ipinatawag ni Balac si Balaam?"
+        },
+        "options": {
+          "en": [
+            "He wants Balaam to lead Passover",
+            "He wants Balaam to build the ark",
+            "He wants Balaam to curse Israel"
+          ],
+          "fil": [
+            "Nais niyang pamunuan ni Balaam ang Paskuwa",
+            "Nais niyang ipagawa kay Balaam ang kaban",
+            "Nais niyang sumpain ni Balaam ang Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Balak hopes Balaam's curse will help him overcome Israel (Numbers 22).",
+          "fil": "Umasa si Balac na makatutulong ang sumpa ni Balaam upang madaig ang Israel (Mga Bilang 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What blocks Balaam's donkey on the road?",
+          "fil": "Ano ang humarang sa asno ni Balaam sa daan?"
+        },
+        "options": {
+          "en": [
+            "The walls of Jericho",
+            "Pharaoh's throne",
+            "An angel of the Lord with a sword"
+          ],
+          "fil": [
+            "Ang mga pader ng Jerico",
+            "Ang trono ni Faraon",
+            "Isang anghel ng Panginoon na may tabak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The donkey sees the Lord's angel blocking the way (Numbers 22).",
+          "fil": "Nakita ng asno ang anghel ng Panginoon na humaharang sa daan (Mga Bilang 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unusual thing does the donkey do after Balaam strikes it?",
+          "fil": "Anong kakaibang ginawa ng asno matapos hampasin ni Balaam?"
+        },
+        "options": {
+          "en": [
+            "It flies to Egypt",
+            "It turns into a lion",
+            "It speaks to him"
+          ],
+          "fil": [
+            "Lumipad ito sa Egipto",
+            "Naging leon ito",
+            "Nagsalita ito sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord enables the donkey to speak to Balaam (Numbers 22).",
+          "fil": "Binigyan ng Panginoon ang asno ng kakayahang magsalita kay Balaam (Mga Bilang 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What limit is placed on Balaam's message?",
+          "fil": "Anong limitasyon ang itinakda sa mensahe ni Balaam?"
+        },
+        "options": {
+          "en": [
+            "He must repeat whatever Balak pays for",
+            "He must speak only what God tells him",
+            "He must remain silent forever"
+          ],
+          "fil": [
+            "Anumang bayaran ni Balac ang dapat niyang ulitin",
+            "Ang sinabi lamang ng Diyos ang dapat niyang ipahayag",
+            "Kailangan niyang manahimik habambuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Balaam is told to speak only the message God gives him (Numbers 22).",
+          "fil": "Inutusan si Balaam na ipahayag lamang ang mensaheng ibibigay ng Diyos (Mga Bilang 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What does Balaam pronounce instead of the curse Balak wants?",
+          "fil": "Ano ang ipinahayag ni Balaam sa halip na sumpang nais ni Balac?"
+        },
+        "options": {
+          "en": [
+            "A command to worship Baal",
+            "A decree making Balak ruler of Israel",
+            "A blessing on Israel"
+          ],
+          "fil": [
+            "Utos na sambahin si Baal",
+            "Utos na gawing pinuno ng Israel si Balac",
+            "Pagpapala sa Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God gives Balaam blessings rather than curses for Israel (Numbers 23).",
+          "fil": "Mga pagpapala sa halip na sumpa para sa Israel ang ibinigay ng Diyos kay Balaam (Mga Bilang 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Balaam's second message emphasize about God's promises?",
+          "fil": "Ano ang binigyang-diin ng ikalawang mensahe ni Balaam tungkol sa mga pangako ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God forgets Israel completely",
+            "God lies whenever kings request it",
+            "God is trustworthy and carries out what he says"
+          ],
+          "fil": [
+            "Lubusang nililimot ng Diyos ang Israel",
+            "Nagsisinungaling ang Diyos kapag hiniling ng mga hari",
+            "Mapagkakatiwalaan ang Diyos at tinutupad niya ang sinasabi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The message contrasts God's faithfulness with human unreliability (Numbers 23).",
+          "fil": "Inihambing ng mensahe ang katapatan ng Diyos sa pagiging di-mapagkakatiwalaan ng tao (Mga Bilang 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is said about divination directed against Israel?",
+          "fil": "Ano ang sinabi tungkol sa panghuhulang laban sa Israel?"
+        },
+        "options": {
+          "en": [
+            "It cannot overturn God's protection",
+            "It becomes Israel's new law",
+            "It is stronger than God"
+          ],
+          "fil": [
+            "Hindi nito mababawi ang proteksiyon ng Diyos",
+            "Nagiging bagong kautusan ito ng Israel",
+            "Mas makapangyarihan ito kaysa sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Balaam's message declares that divination cannot prevail against God's people (Numbers 23).",
+          "fil": "Ipinahayag ng mensahe ni Balaam na hindi mananaig ang panghuhula laban sa bayan ng Diyos (Mga Bilang 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "What happens to Balaam as he looks at Israel's orderly camp?",
+          "fil": "Ano ang nangyari kay Balaam nang makita ang maayos na kampo ng Israel?"
+        },
+        "options": {
+          "en": [
+            "The Spirit of God comes upon him",
+            "He builds a golden calf",
+            "He is crowned king of Israel"
+          ],
+          "fil": [
+            "Sumakanya ang Espiritu ng Diyos",
+            "Gumawa siya ng gintong guya",
+            "Kinoronahan siyang hari ng Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's Spirit comes upon Balaam before his next oracle (Numbers 24).",
+          "fil": "Sumakanya ang Espiritu ng Diyos bago ang sumunod na pahayag ni Balaam (Mga Bilang 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Balak react to Balaam's repeated blessings?",
+          "fil": "Paano tumugon si Balac sa paulit-ulit na pagpapala ni Balaam?"
+        },
+        "options": {
+          "en": [
+            "He gives Israel his kingdom immediately",
+            "He becomes angry and tells him to leave",
+            "He joyfully joins Israel's camp"
+          ],
+          "fil": [
+            "Agad niyang ibinigay sa Israel ang kanyang kaharian",
+            "Nagalit siya at pinaalis ito",
+            "Masaya siyang sumama sa kampo ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Balak angrily dismisses Balaam because he has blessed Israel (Numbers 24).",
+          "fil": "Galit na pinaalis ni Balac si Balaam dahil pinagpala nito ang Israel (Mga Bilang 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What royal images appear in Balaam's later vision about Israel's future?",
+          "fil": "Anong mga sagisag ng paghahari ang lumitaw sa sumunod na pangitain ni Balaam tungkol sa hinaharap ng Israel?"
+        },
+        "options": {
+          "en": [
+            "A star and a scepter",
+            "A fishing net and a boat",
+            "A plow and a basket"
+          ],
+          "fil": [
+            "Isang bituin at setro",
+            "Isang lambat at bangka",
+            "Isang araro at basket"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Balaam pictures a future ruler with the images of a star and scepter (Numbers 24).",
+          "fil": "Inilarawan ni Balaam ang isang pinuno sa hinaharap sa mga sagisag ng bituin at setro (Mga Bilang 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What draws Israel into wrongdoing at Peor?",
+          "fil": "Ano ang nag-udyok sa Israel sa paggawa ng mali sa Peor?"
+        },
+        "options": {
+          "en": [
+            "Joining Moabite women in sacrifices to their gods",
+            "Giving food to poor foreigners",
+            "Refusing to build Pharaoh's ships"
+          ],
+          "fil": [
+            "Pakikiisa sa mga babaeng Moabita sa paghahandog sa kanilang mga diyos",
+            "Pagbibigay ng pagkain sa mahihirap na dayuhan",
+            "Pagtangging gawin ang mga barko ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel becomes involved in idolatrous feasts connected with Baal of Peor (Numbers 25).",
+          "fil": "Nasangkot ang Israel sa mga pistang sumasamba kay Baal ng Peor (Mga Bilang 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What afflicts the people during this rebellion?",
+          "fil": "Ano ang dumapo sa bayan sa paghihimagsik na ito?"
+        },
+        "options": {
+          "en": [
+            "A famine in Babylon alone",
+            "A flood covering the world",
+            "A plague"
+          ],
+          "fil": [
+            "Taggutom sa Babilonia lamang",
+            "Bahang sumaklaw sa mundo",
+            "Isang salot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A plague breaks out during Israel's unfaithfulness at Peor (Numbers 25).",
+          "fil": "Nagkaroon ng salot sa pagtataksil ng Israel sa Peor (Mga Bilang 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who takes decisive action against the public wrongdoing in the camp?",
+          "fil": "Sino ang kumilos laban sa hayagang paggawa ng mali sa kampo?"
+        },
+        "options": {
+          "en": [
+            "Phinehas, son of Eleazar",
+            "Balak, king of Moab",
+            "Pharaoh, king of Egypt"
+          ],
+          "fil": [
+            "Si Finehas na anak ni Eleazar",
+            "Si Balac na hari ng Moab",
+            "Si Faraon na hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Phinehas acts against the wrongdoing and the plague is stopped (Numbers 25).",
+          "fil": "Kumilos si Finehas laban sa paggawa ng mali at napigil ang salot (Mga Bilang 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What covenant does God grant Phinehas?",
+          "fil": "Anong tipan ang ipinagkaloob ng Diyos kay Finehas?"
+        },
+        "options": {
+          "en": [
+            "A covenant making him Pharaoh",
+            "A covenant of peace and lasting priesthood",
+            "A covenant to replace God's law"
+          ],
+          "fil": [
+            "Tipan na gagawin siyang Faraon",
+            "Tipan ng kapayapaan at nananatiling pagkapari",
+            "Tipan na papalitan ang kautusan ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God rewards Phinehas' zeal with a covenant concerning peace and priesthood (Numbers 25).",
+          "fil": "Ginantimpalaan ng Diyos ang sigasig ni Finehas ng tipan tungkol sa kapayapaan at pagkapari (Mga Bilang 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "When is this new census taken?",
+          "fil": "Kailan isinagawa ang bagong pagbilang na ito?"
+        },
+        "options": {
+          "en": [
+            "During Solomon's reign",
+            "Before Joseph enters Egypt",
+            "After the plague, on the plains of Moab"
+          ],
+          "fil": [
+            "Sa paghahari ni Solomon",
+            "Bago pumasok si Jose sa Egipto",
+            "Matapos ang salot, sa kapatagan ng Moab"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The census is taken after the plague as Israel prepares to enter the land (Numbers 26).",
+          "fil": "Isinagawa ang pagbilang matapos ang salot habang naghahanda ang Israel na pumasok sa lupain (Mga Bilang 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "How will the census help with the promised land?",
+          "fil": "Paano makatutulong ang pagbilang kaugnay ng lupang pangako?"
+        },
+        "options": {
+          "en": [
+            "It guides the distribution of tribal inheritances",
+            "It assigns the land to Egypt",
+            "It cancels God's promise"
+          ],
+          "fil": [
+            "Gagabay ito sa pamamahagi ng mana ng mga lipi",
+            "Ilalaan nito ang lupain sa Egipto",
+            "Kakanselahin nito ang pangako ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tribal population is considered in distributing the land (Numbers 26).",
+          "fil": "Isinaalang-alang ang laki ng mga lipi sa pamamahagi ng lupain (Mga Bilang 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which two men remain from the earlier generation counted by Moses and Aaron?",
+          "fil": "Sinong dalawang lalaki ang nanatili mula sa naunang henerasyong binilang nina Moises at Aaron?"
+        },
+        "options": {
+          "en": [
+            "Korah and Dathan",
+            "Joshua and Caleb",
+            "Balak and Balaam"
+          ],
+          "fil": [
+            "Sina Korah at Datan",
+            "Sina Josue at Caleb",
+            "Sina Balac at Balaam"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua and Caleb are the exceptions among the earlier generation of counted men (Numbers 26).",
+          "fil": "Sina Josue at Caleb ang mga natatangi sa naunang henerasyon ng mga lalaking binilang (Mga Bilang 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What request do Zelophehad's daughters bring?",
+          "fil": "Anong kahilingan ang iniharap ng mga anak na babae ni Zelofehad?"
+        },
+        "options": {
+          "en": [
+            "Permission to become Egyptian rulers",
+            "An inheritance because their father had no sons",
+            "Ownership of the priesthood"
+          ],
+          "fil": [
+            "Pahintulot na maging mga pinuno ng Egipto",
+            "Mana dahil walang anak na lalaki ang kanilang ama",
+            "Pagmamay-ari sa pagkapari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The daughters ask that their father's family not lose its inheritance (Numbers 27).",
+          "fil": "Hiniling ng mga anak na babae na hindi mawalan ng mana ang pamilya ng kanilang ama (Mga Bilang 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God respond to their inheritance claim?",
+          "fil": "Paano tumugon ang Diyos sa kanilang paghiling ng mana?"
+        },
+        "options": {
+          "en": [
+            "He orders all family land destroyed",
+            "He gives the land to Pharaoh",
+            "He says their claim is right"
+          ],
+          "fil": [
+            "Ipinag-utos niyang sirain ang lahat ng lupa ng pamilya",
+            "Ibinigay niya ang lupa kay Faraon",
+            "Sinabi niyang tama ang kanilang kahilingan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God affirms the daughters' claim and gives inheritance instructions (Numbers 27).",
+          "fil": "Pinagtibay ng Diyos ang kahilingan ng mga anak na babae at nagbigay ng tagubilin tungkol sa mana (Mga Bilang 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does God choose to lead Israel after Moses?",
+          "fil": "Sino ang pinili ng Diyos na mamuno sa Israel pagkatapos ni Moises?"
+        },
+        "options": {
+          "en": [
+            "Joshua",
+            "Balak",
+            "Balaam"
+          ],
+          "fil": [
+            "Si Josue",
+            "Si Balac",
+            "Si Balaam"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God directs Moses to commission Joshua as the next leader (Numbers 27).",
+          "fil": "Inutusan ng Diyos si Moises na italaga si Josue bilang susunod na pinuno (Mga Bilang 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What does this chapter establish for Israel's offerings?",
+          "fil": "Ano ang itinakda ng kabanatang ito para sa mga handog ng Israel?"
+        },
+        "options": {
+          "en": [
+            "A ban on all communal worship",
+            "A regular schedule of worship",
+            "A tax for Pharaoh"
+          ],
+          "fil": [
+            "Pagbabawal sa lahat ng sama-samang pagsamba",
+            "Regular na iskedyul ng pagsamba",
+            "Buwis para kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Numbers 28 organizes offerings for regular sacred times.",
+          "fil": "Isinaayos sa Mga Bilang 28 ang mga handog para sa mga regular na banal na panahon."
+        }
+      },
+      {
+        "q": {
+          "en": "How often are the daily offerings presented?",
+          "fil": "Gaano kadalas inihaharap ang araw-araw na mga handog?"
+        },
+        "options": {
+          "en": [
+            "Only when a king dies",
+            "Morning and evening",
+            "Only before a war"
+          ],
+          "fil": [
+            "Kapag namatay lamang ang hari",
+            "Umaga at gabi",
+            "Bago lamang ang digmaan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The daily rhythm includes offerings in the morning and evening (Numbers 28).",
+          "fil": "Kasama sa araw-araw na kaayusan ang mga handog sa umaga at gabi (Mga Bilang 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do special-day offerings relate to the regular offering?",
+          "fil": "Paano nauugnay sa regular na handog ang mga handog sa natatanging araw?"
+        },
+        "options": {
+          "en": [
+            "They abolish worship forever",
+            "They are offered to a different god",
+            "They are added to it"
+          ],
+          "fil": [
+            "Winawakasan ng mga ito ang pagsamba habambuhay",
+            "Inihahandog ang mga ito sa ibang diyos",
+            "Idinaragdag ang mga ito rito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Offerings for special occasions accompany the continuing regular offering (Numbers 28).",
+          "fil": "Kasama ng patuloy na regular na handog ang mga handog sa natatanging okasyon (Mga Bilang 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "Which part of the worship calendar is emphasized here?",
+          "fil": "Anong bahagi ng kalendaryo ng pagsamba ang binigyang-diin dito?"
+        },
+        "options": {
+          "en": [
+            "The birthdays of foreign kings",
+            "The anniversary of Babel's tower",
+            "The sacred occasions of the seventh month"
+          ],
+          "fil": [
+            "Ang mga kaarawan ng dayuhang hari",
+            "Ang anibersaryo ng tore ng Babel",
+            "Ang mga banal na okasyon sa ikapitong buwan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Numbers 29 describes offerings for the seventh month's sacred occasions.",
+          "fil": "Inilarawan sa Mga Bilang 29 ang mga handog para sa mga banal na okasyon ng ikapitong buwan."
+        }
+      },
+      {
+        "q": {
+          "en": "Which extended festival receives a day-by-day offering schedule?",
+          "fil": "Anong mahabang pista ang may araw-araw na iskedyul ng paghahandog?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's royal festival",
+            "A festival for Baal",
+            "The Festival of Shelters"
+          ],
+          "fil": [
+            "Ang pista ng hari na si Faraon",
+            "Isang pista para kay Baal",
+            "Ang Pista ng mga Kubol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter details offerings throughout the Festival of Shelters (Numbers 29).",
+          "fil": "Inilahad ng kabanata ang mga handog sa buong Pista ng mga Kubol (Mga Bilang 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "Do the festival offerings replace voluntary gifts and vows?",
+          "fil": "Pinapalitan ba ng mga handog sa pista ang kusang-loob na handog at mga panata?"
+        },
+        "options": {
+          "en": [
+            "No, they are in addition to them",
+            "Yes, voluntary worship is forbidden",
+            "Yes, all vows are canceled"
+          ],
+          "fil": [
+            "Hindi, dagdag ang mga ito sa mga iyon",
+            "Oo, ipinagbawal ang kusang-loob na pagsamba",
+            "Oo, kinansela ang lahat ng panata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The scheduled offerings are distinguished from vows and voluntary offerings (Numbers 29).",
+          "fil": "Ibinukod ang mga nakatakdang handog sa mga panata at kusang-loob na handog (Mga Bilang 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What is the main subject of this chapter?",
+          "fil": "Ano ang pangunahing paksa ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Vows and binding promises",
+            "The route through Edom",
+            "The division of battle spoils"
+          ],
+          "fil": [
+            "Mga panata at pangakong may pananagutan",
+            "Ang daan sa Edom",
+            "Ang paghahati ng nasamsam sa labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Numbers 30 addresses responsibility for vows and solemn commitments.",
+          "fil": "Tinalakay sa Mga Bilang 30 ang pananagutan sa mga panata at taimtim na pangako."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a man treat a vow he makes to the Lord?",
+          "fil": "Paano dapat ituring ng lalaki ang panatang ginawa niya sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "He may always ignore it",
+            "He must offer it to an idol instead",
+            "He must fulfill it"
+          ],
+          "fil": [
+            "Maaari niya itong laging balewalain",
+            "Kailangan niya itong ialay sa diyus-diyosan sa halip",
+            "Kailangan niya itong tuparin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter requires a man to keep his pledged word (Numbers 30).",
+          "fil": "Hinihingi ng kabanata na tuparin ng lalaki ang kanyang ipinangako (Mga Bilang 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What family responsibility is discussed concerning certain women's vows?",
+          "fil": "Anong pananagutan ng pamilya ang tinalakay kaugnay ng mga panata ng ilang babae?"
+        },
+        "options": {
+          "en": [
+            "Every neighbor must vote on them",
+            "A father or husband may confirm or cancel them under stated conditions",
+            "Any foreign king may sell them"
+          ],
+          "fil": [
+            "Kailangang pagbotohan ang mga ito ng bawat kapitbahay",
+            "Maaaring pagtibayin o pawalang-bisa ng ama o asawa ang mga ito sa itinakdang kalagayan",
+            "Maaaring ipagbili ng sinumang dayuhang hari ang mga ito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter explains when a father or husband may uphold or annul a vow (Numbers 30).",
+          "fil": "Ipinaliwanag ng kabanata kung kailan maaaring pagtibayin o pawalang-bisa ng ama o asawa ang panata (Mga Bilang 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "Against which people does Moses send Israel's army?",
+          "fil": "Laban sa anong bayan ipinadala ni Moises ang hukbo ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Edom",
+            "Babylon",
+            "Midian"
+          ],
+          "fil": [
+            "Edom",
+            "Babilonia",
+            "Midian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses sends the army against Midian as God commands (Numbers 31).",
+          "fil": "Ipinadala ni Moises ang hukbo laban sa Midian ayon sa utos ng Diyos (Mga Bilang 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which priest accompanies the army with sacred articles and trumpets?",
+          "fil": "Sinong pari ang sumama sa hukbo na may mga banal na kagamitan at trumpeta?"
+        },
+        "options": {
+          "en": [
+            "Phinehas",
+            "Balaam",
+            "Melchizedek"
+          ],
+          "fil": [
+            "Si Finehas",
+            "Si Balaam",
+            "Si Melquisedec"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Phinehas goes with the army carrying sacred articles and signal trumpets (Numbers 31).",
+          "fil": "Sumama si Finehas sa hukbo na may mga banal na kagamitan at trumpetang panghudyat (Mga Bilang 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "Between which two groups are the spoils divided?",
+          "fil": "Sa anong dalawang pangkat hinati ang mga nasamsam?"
+        },
+        "options": {
+          "en": [
+            "Egypt and Babylon",
+            "The fighters and the rest of the community",
+            "Only two foreign kings"
+          ],
+          "fil": [
+            "Ang Egipto at Babilonia",
+            "Ang mga mandirigma at ang natitirang pamayanan",
+            "Dalawang dayuhang hari lamang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God directs a division between those who fought and the community (Numbers 31).",
+          "fil": "Iniutos ng Diyos ang paghahati sa mga lumaban at sa pamayanan (Mga Bilang 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "Why do Reuben and Gad ask for land east of the Jordan?",
+          "fil": "Bakit humiling ang Ruben at Gad ng lupa sa silangan ng Jordan?"
+        },
+        "options": {
+          "en": [
+            "It is suitable for their many livestock",
+            "They want to rebuild Babel",
+            "They want to become Egyptians"
+          ],
+          "fil": [
+            "Angkop ito sa marami nilang alagang hayop",
+            "Nais nilang muling itayo ang Babel",
+            "Nais nilang maging mga taga-Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The tribes see that the eastern land is good for livestock (Numbers 32).",
+          "fil": "Nakita ng mga lipi na mainam sa pag-aalaga ng hayop ang lupain sa silangan (Mga Bilang 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What concern does Moses first express about their request?",
+          "fil": "Anong alalahanin ang unang ipinahayag ni Moises tungkol sa kanilang hiling?"
+        },
+        "options": {
+          "en": [
+            "They might crown Aaron again",
+            "They might discourage the others from entering the land",
+            "They might build too many boats"
+          ],
+          "fil": [
+            "Baka muli nilang koronahan si Aaron",
+            "Baka pahinain nila ang loob ng iba sa pagpasok sa lupain",
+            "Baka gumawa sila ng napakaraming bangka"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Moses fears their request could repeat the earlier discouragement of Israel (Numbers 32).",
+          "fil": "Nangamba si Moises na maulit dahil sa kanilang hiling ang naunang pagpapahina sa loob ng Israel (Mga Bilang 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the tribes promise to do before settling fully?",
+          "fil": "Ano ang ipinangako ng mga lipi bago tuluyang manirahan?"
+        },
+        "options": {
+          "en": [
+            "Destroy the tabernacle",
+            "Help the other tribes fight for their inheritance",
+            "Return the whole nation to Egypt"
+          ],
+          "fil": [
+            "Wasakin ang tabernakulo",
+            "Tulungan ang ibang lipi na ipaglaban ang kanilang mana",
+            "Ibalik ang buong bayan sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "They promise to cross over armed and help their fellow Israelites (Numbers 32).",
+          "fil": "Ipinangako nilang tatawid nang armado at tutulong sa kapwa Israelita (Mga Bilang 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who may remain in their eastern settlements while the men go to war?",
+          "fil": "Sino ang maaaring manatili sa kanilang mga pamayanan sa silangan habang nakikipagdigma ang mga lalaki?"
+        },
+        "options": {
+          "en": [
+            "Their children, wives, and livestock",
+            "The entire enemy army",
+            "Pharaoh and his court"
+          ],
+          "fil": [
+            "Ang kanilang mga anak, asawa, at alagang hayop",
+            "Ang buong hukbo ng kaaway",
+            "Si Faraon at ang kanyang mga tauhan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The families and livestock remain in protected settlements while the men help Israel (Numbers 32).",
+          "fil": "Nanatili ang mga pamilya at alagang hayop sa mga ligtas na pamayanan habang tumutulong sa Israel ang mga lalaki (Mga Bilang 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What is the main purpose of the long list in this chapter?",
+          "fil": "Ano ang pangunahing layunin ng mahabang talaan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Describe the building of the temple",
+            "List the kings of Babylon",
+            "Record the stages of Israel's journey"
+          ],
+          "fil": [
+            "Ilarawan ang pagtatayo ng templo",
+            "Itala ang mga hari ng Babilonia",
+            "Itala ang mga yugto ng paglalakbay ng Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Numbers 33 records the successive stages of Israel's journey.",
+          "fil": "Itinala sa Mga Bilang 33 ang sunud-sunod na yugto ng paglalakbay ng Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "Who records the stages at the Lord's command?",
+          "fil": "Sino ang nagtala ng mga yugto ayon sa utos ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh",
+            "Balak",
+            "Moses"
+          ],
+          "fil": [
+            "Si Faraon",
+            "Si Balac",
+            "Si Moises"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moses writes down the journey's stages as the Lord directs (Numbers 33).",
+          "fil": "Itinala ni Moises ang mga yugto ng paglalakbay ayon sa tagubilin ng Panginoon (Mga Bilang 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the travel list bring Israel by its end?",
+          "fil": "Saan naroon ang Israel sa pagtatapos ng talaan ng paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "Back inside Egypt",
+            "Inside Babylon's palace",
+            "The plains of Moab by the Jordan"
+          ],
+          "fil": [
+            "Muli sa loob ng Egipto",
+            "Sa loob ng palasyo ng Babilonia",
+            "Sa kapatagan ng Moab sa tabi ng Jordan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The listed stages end with Israel camped near the Jordan in Moab (Numbers 33).",
+          "fil": "Nagtapos ang mga nakatalang yugto sa pagkakampo ng Israel malapit sa Jordan sa Moab (Mga Bilang 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "What is the main subject of this chapter?",
+          "fil": "Ano ang pangunahing paksa ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "The boundaries of the promised land and its allocation",
+            "The rebellion of Korah",
+            "Rules for the red cow"
+          ],
+          "fil": [
+            "Ang mga hangganan ng lupang pangako at pamamahagi nito",
+            "Ang paghihimagsik ni Korah",
+            "Mga tuntunin para sa pulang baka"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Numbers 34 defines the land to be allotted to Israel.",
+          "fil": "Itinakda sa Mga Bilang 34 ang lupaing ipamamahagi sa Israel."
+        }
+      },
+      {
+        "q": {
+          "en": "Who oversees the distribution of the land with tribal leaders?",
+          "fil": "Sino ang nangangasiwa sa pamamahagi ng lupain kasama ang mga pinuno ng lipi?"
+        },
+        "options": {
+          "en": [
+            "Eleazar and Joshua",
+            "Balak and Balaam",
+            "Pharaoh and his officers"
+          ],
+          "fil": [
+            "Sina Eleazar at Josue",
+            "Sina Balac at Balaam",
+            "Si Faraon at ang kanyang mga opisyal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Eleazar and Joshua are appointed to oversee the allocation (Numbers 34).",
+          "fil": "Itinalaga sina Eleazar at Josue na mangasiwa sa pamamahagi (Mga Bilang 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are Reuben and Gad not awaiting the same western allotment?",
+          "fil": "Bakit hindi naghihintay ng kaparehong mana sa kanluran ang Ruben at Gad?"
+        },
+        "options": {
+          "en": [
+            "They have already received land east of the Jordan",
+            "They have moved to Babylon",
+            "They have ceased to be Israelites"
+          ],
+          "fil": [
+            "Nakatanggap na sila ng lupa sa silangan ng Jordan",
+            "Lumipat na sila sa Babilonia",
+            "Hindi na sila mga Israelita"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Their eastern inheritance is distinguished from the land still to be allotted (Numbers 34).",
+          "fil": "Ibinukod ang kanilang mana sa silangan sa lupaing ipamamahagi pa (Mga Bilang 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "What protection do the cities of refuge provide?",
+          "fil": "Anong proteksiyon ang ibinibigay ng mga kanlungang-lungsod?"
+        },
+        "options": {
+          "en": [
+            "A hiding place for stolen idols",
+            "A reward for deliberate murder",
+            "Safety for someone who kills unintentionally while the case is judged"
+          ],
+          "fil": [
+            "Taguan ng mga ninakaw na diyus-diyosan",
+            "Gantimpala sa sadyang pagpatay",
+            "Kaligtasan para sa nakapatay nang di-sinasadya habang nililitis ang kaso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The cities protect an accused unintentional killer from immediate revenge (Numbers 35).",
+          "fil": "Pinangangalagaan ng mga lungsod ang inaakusahan ng di-sinasadyang pagpatay laban sa agarang paghihiganti (Mga Bilang 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who determines the case between the accused and the avenger?",
+          "fil": "Sino ang nagpapasya sa kaso sa pagitan ng inaakusahan at naghihiganti?"
+        },
+        "options": {
+          "en": [
+            "The community acting in judgment",
+            "The wealthiest merchant automatically",
+            "Pharaoh alone"
+          ],
+          "fil": [
+            "Ang pamayanang humahatol",
+            "Awtomatikong ang pinakamayamang mangangalakal",
+            "Si Faraon lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The community must judge according to the stated distinctions (Numbers 35).",
+          "fil": "Kailangang humatol ang pamayanan ayon sa mga itinakdang pagkakaiba (Mga Bilang 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who may use these cities under the stated law?",
+          "fil": "Sino ang maaaring gumamit ng mga lungsod na ito ayon sa itinakdang batas?"
+        },
+        "options": {
+          "en": [
+            "Only the richest families",
+            "Israelites and foreigners living among them",
+            "Only military commanders"
+          ],
+          "fil": [
+            "Pinakamayayamang pamilya lamang",
+            "Mga Israelita at mga dayuhang naninirahang kasama nila",
+            "Mga pinuno lamang ng hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The refuge provision includes both Israelites and resident foreigners (Numbers 35).",
+          "fil": "Kasama sa kanlungan ang mga Israelita at mga dayuhang naninirahang kasama nila (Mga Bilang 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "What concern do the leaders raise about inherited land?",
+          "fil": "Anong alalahanin ang iniharap ng mga pinuno tungkol sa minanang lupa?"
+        },
+        "options": {
+          "en": [
+            "It could pass to another tribe through marriage",
+            "It could turn into the sea",
+            "It could make Pharaoh a priest"
+          ],
+          "fil": [
+            "Maaaring mapunta ito sa ibang lipi sa pamamagitan ng pag-aasawa",
+            "Maaaring maging dagat ito",
+            "Maaaring maging pari si Faraon dahil dito"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The leaders seek to preserve tribal inheritances when an heiress marries (Numbers 36).",
+          "fil": "Nais ng mga pinuno na mapanatili ang mana ng lipi kapag nag-asawa ang tagapagmanang babae (Mga Bilang 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What condition is given to daughters who inherit land?",
+          "fil": "Anong kondisyon ang ibinigay sa mga anak na babaeng nagmamana ng lupa?"
+        },
+        "options": {
+          "en": [
+            "Never marry under any circumstances",
+            "Marry only Egyptian kings",
+            "Marry within their father's tribe"
+          ],
+          "fil": [
+            "Huwag mag-asawa sa anumang kalagayan",
+            "Mag-asawa lamang ng mga hari ng Egipto",
+            "Mag-asawa sa loob ng lipi ng kanilang ama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Marriage within the tribe keeps inherited land in its original tribe (Numbers 36).",
+          "fil": "Pinananatili sa orihinal na lipi ang minanang lupa sa pag-aasawa sa loob ng lipi (Mga Bilang 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Zelophehad's daughters respond to the instruction?",
+          "fil": "Paano tumugon ang mga anak na babae ni Zelofehad sa tagubilin?"
+        },
+        "options": {
+          "en": [
+            "They marry within their father's clan",
+            "They sell Israel's land to Egypt",
+            "They abandon their inheritance"
+          ],
+          "fil": [
+            "Nag-asawa sila sa loob ng angkan ng kanilang ama",
+            "Ipinagbili nila sa Egipto ang lupain ng Israel",
+            "Iniwan nila ang kanilang mana"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Zelophehad's daughters obey the instruction about marriage and inheritance (Numbers 36).",
+          "fil": "Sinunod ng mga anak na babae ni Zelofehad ang tagubilin tungkol sa pag-aasawa at mana (Mga Bilang 36)."
+        }
+      }
+    ]
+  }
+}
