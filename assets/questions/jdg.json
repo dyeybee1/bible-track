@@ -1,0 +1,1840 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Which tribe is told to go first against the Canaanites?",
+          "fil": "Anong lipi ang sinabihang maunang lumaban sa mga Cananeo?"
+        },
+        "options": {
+          "en": [
+            "Benjamin",
+            "Judah",
+            "Dan"
+          ],
+          "fil": [
+            "Benjamin",
+            "Juda",
+            "Dan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Lord directs Judah to take the lead after Joshua's death (Judges 1).",
+          "fil": "Inutusan ng Panginoon ang Juda na manguna matapos mamatay si Josue (Mga Hukom 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose help does Judah request for the campaign?",
+          "fil": "Kaninong tulong ang hiniling ng Juda sa pakikipaglaban?"
+        },
+        "options": {
+          "en": [
+            "Simeon's",
+            "Babylon's",
+            "Pharaoh's"
+          ],
+          "fil": [
+            "Ng Simeon",
+            "Ng Babilonia",
+            "Ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah invites Simeon to fight alongside it in their allotted territory (Judges 1).",
+          "fil": "Inanyayahan ng Juda ang Simeon na lumabang kasama nito sa nakalaang lupain (Mga Hukom 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Caleb's daughter request for the land she receives?",
+          "fil": "Ano ang hiniling ng anak na babae ni Caleb para sa lupang tinanggap niya?"
+        },
+        "options": {
+          "en": [
+            "Springs of water",
+            "A fleet of ships",
+            "A crown of gold"
+          ],
+          "fil": [
+            "Mga bukal ng tubig",
+            "Mga barko",
+            "Koronang ginto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Caleb grants Achsah water sources for her land (Judges 1).",
+          "fil": "Binigyan ni Caleb si Acsa ng mga bukal para sa kanyang lupa (Mga Hukom 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What recurring problem appears in the chapter's tribal reports?",
+          "fil": "Anong paulit-ulit na suliranin ang lumitaw sa mga ulat ng mga lipi?"
+        },
+        "options": {
+          "en": [
+            "Every tribe leaves for Egypt",
+            "No tribe receives any territory",
+            "Many Canaanite communities are not driven out"
+          ],
+          "fil": [
+            "Umalis patungong Egipto ang bawat lipi",
+            "Walang liping tumanggap ng anumang lupain",
+            "Maraming pamayanang Cananeo ang hindi napaalis"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The repeated reports describe incomplete possession of the land (Judges 1).",
+          "fil": "Inilarawan ng paulit-ulit na ulat ang hindi ganap na pag-angkin sa lupain (Mga Hukom 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What change occurs after the generation that knew Joshua passes away?",
+          "fil": "Anong pagbabago ang nangyari matapos mawala ang henerasyong nakakilala kay Josue?"
+        },
+        "options": {
+          "en": [
+            "Everyone becomes perfectly faithful",
+            "Israel returns immediately to Egypt",
+            "A new generation fails to know the Lord's deeds"
+          ],
+          "fil": [
+            "Naging ganap na tapat ang lahat",
+            "Bumalik agad sa Egipto ang Israel",
+            "Hindi nakilala ng bagong henerasyon ang mga gawa ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter links the new generation's forgetfulness with unfaithfulness (Judges 2).",
+          "fil": "Iniugnay ng kabanata ang paglimot ng bagong henerasyon sa pagtataksil (Mga Hukom 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does God raise up judges for the oppressed people?",
+          "fil": "Bakit nagtalaga ang Diyos ng mga hukom para sa inaaping bayan?"
+        },
+        "options": {
+          "en": [
+            "To make Pharaoh their permanent king",
+            "To rescue them from their enemies",
+            "To teach them to worship Baal"
+          ],
+          "fil": [
+            "Upang gawing permanenteng hari nila si Faraon",
+            "Upang iligtas sila mula sa mga kaaway",
+            "Upang turuan silang sambahin si Baal"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's compassion leads him to send deliverers during oppression (Judges 2).",
+          "fil": "Dahil sa habag, nagsugo ang Diyos ng mga tagapagligtas sa panahon ng pang-aapi (Mga Hukom 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What pattern often follows a judge's death?",
+          "fil": "Anong takbo ang madalas sumunod sa pagkamatay ng hukom?"
+        },
+        "options": {
+          "en": [
+            "The people never face temptation again",
+            "Every enemy willingly joins Israel",
+            "The people return to even worse unfaithfulness"
+          ],
+          "fil": [
+            "Hindi na muling nahaharap sa tukso ang bayan",
+            "Kusang sumasama sa Israel ang bawat kaaway",
+            "Bumabalik ang bayan sa mas matinding pagtataksil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter introduces a repeated cycle of rescue and renewed rebellion (Judges 2).",
+          "fil": "Ipinakilala ng kabanata ang paulit-ulit na pagliligtas at muling paghihimagsik (Mga Hukom 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Who becomes a deliverer when the Lord's Spirit comes upon him early in the chapter?",
+          "fil": "Sino ang naging tagapagligtas nang sumakanya ang Espiritu ng Panginoon sa unang bahagi ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Othniel",
+            "Haman",
+            "Laban"
+          ],
+          "fil": [
+            "Si Otniel",
+            "Si Haman",
+            "Si Laban"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Lord empowers Othniel to lead Israel to victory (Judges 3).",
+          "fil": "Binigyan ng Panginoon si Otniel ng kakayahang akayin ang Israel sa tagumpay (Mga Hukom 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What distinctive ability is noted about Ehud?",
+          "fil": "Anong natatanging katangian ang binanggit tungkol kay Ehud?"
+        },
+        "options": {
+          "en": [
+            "He commands Egypt's navy",
+            "He can predict every storm",
+            "He is left-handed"
+          ],
+          "fil": [
+            "Pinamumunuan niya ang hukbong-dagat ng Egipto",
+            "Nahuhulaan niya ang bawat bagyo",
+            "Kaliwete siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ehud's left-handedness matters in his approach to the Moabite king (Judges 3).",
+          "fil": "May papel ang pagiging kaliwete ni Ehud sa paglapit niya sa hari ng Moab (Mga Hukom 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which king oppresses Israel before Ehud's victory?",
+          "fil": "Sinong hari ang umapi sa Israel bago ang tagumpay ni Ehud?"
+        },
+        "options": {
+          "en": [
+            "Cyrus of Persia",
+            "Eglon of Moab",
+            "David of Jerusalem"
+          ],
+          "fil": [
+            "Si Ciro ng Persia",
+            "Si Eglon ng Moab",
+            "Si David ng Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ehud delivers Israel from the rule of Eglon (Judges 3).",
+          "fil": "Iniligtas ni Ehud ang Israel mula sa pamumuno ni Eglon (Mga Hukom 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What ordinary farming tool does Shamgar use against the Philistines?",
+          "fil": "Anong karaniwang kagamitan sa pagsasaka ang ginamit ni Samgar laban sa mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "A fishing net",
+            "A grain basket",
+            "An oxgoad"
+          ],
+          "fil": [
+            "Lambat na pangisda",
+            "Basket ng butil",
+            "Pangtulak sa baka"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Shamgar is remembered for delivering Israel with an oxgoad (Judges 3).",
+          "fil": "Inalala si Samgar sa pagliligtas sa Israel gamit ang pangtulak sa baka (Mga Hukom 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Who serves as a prophet and judge under a palm tree?",
+          "fil": "Sino ang naglingkod bilang propeta at hukom sa ilalim ng puno ng palma?"
+        },
+        "options": {
+          "en": [
+            "Deborah",
+            "Delilah",
+            "Rahab"
+          ],
+          "fil": [
+            "Si Debora",
+            "Si Delila",
+            "Si Rahab"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Deborah hears the people's disputes and communicates God's command (Judges 4).",
+          "fil": "Dinidinig ni Debora ang mga usapin ng bayan at ipinahahayag ang utos ng Diyos (Mga Hukom 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What condition does Barak set for going to battle?",
+          "fil": "Anong kondisyon ang ibinigay ni Barak sa pagpunta sa labanan?"
+        },
+        "options": {
+          "en": [
+            "Israel must surrender every weapon",
+            "Deborah must go with him",
+            "Pharaoh must crown him first"
+          ],
+          "fil": [
+            "Kailangang isuko ng Israel ang bawat sandata",
+            "Kailangang sumama sa kanya si Debora",
+            "Kailangan muna siyang koronahan ni Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Barak agrees to go only if Deborah accompanies him (Judges 4).",
+          "fil": "Pumayag lamang si Barak na pumunta kung sasama si Debora (Mga Hukom 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who commands the enemy's chariot force?",
+          "fil": "Sino ang namuno sa mga karwahe ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "Sisera",
+            "Gideon",
+            "Jephthah"
+          ],
+          "fil": [
+            "Si Sisera",
+            "Si Gideon",
+            "Si Jefta"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Sisera leads Jabin's forces against Israel (Judges 4).",
+          "fil": "Pinamunuan ni Sisera ang mga hukbo ni Jabin laban sa Israel (Mga Hukom 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who brings about Sisera's death after he flees the battle?",
+          "fil": "Sino ang naging dahilan ng pagkamatay ni Sisera matapos tumakas sa labanan?"
+        },
+        "options": {
+          "en": [
+            "Jael",
+            "Miriam",
+            "Esther"
+          ],
+          "fil": [
+            "Si Jael",
+            "Si Miriam",
+            "Si Ester"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Sisera seeks refuge in Jael's tent and does not escape (Judges 4).",
+          "fil": "Humanap ng kanlungan si Sisera sa tolda ni Jael at hindi nakatakas (Mga Hukom 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who sings the victory song recorded here?",
+          "fil": "Sino ang umawit ng awit ng tagumpay na itinala rito?"
+        },
+        "options": {
+          "en": [
+            "Deborah and Barak",
+            "David and Solomon",
+            "Moses and Aaron"
+          ],
+          "fil": [
+            "Sina Debora at Barak",
+            "Sina David at Solomon",
+            "Sina Moises at Aaron"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song celebrates the victory associated with Deborah and Barak (Judges 5).",
+          "fil": "Ipinagdiwang ng awit ang tagumpay na kaugnay nina Debora at Barak (Mga Hukom 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response by Israel's leaders and people is praised?",
+          "fil": "Anong pagtugon ng mga pinuno at bayan ng Israel ang pinuri?"
+        },
+        "options": {
+          "en": [
+            "Refusal to help anyone",
+            "Agreement to worship Sisera",
+            "Willing participation in the struggle"
+          ],
+          "fil": [
+            "Pagtangging tumulong sa sinuman",
+            "Pagsang-ayong sambahin si Sisera",
+            "Kusang pakikibahagi sa pakikipaglaban"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song honors those who offered themselves willingly (Judges 5).",
+          "fil": "Pinarangalan ng awit ang mga kusang nag-alay ng sarili (Mga Hukom 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which woman is singled out for praise in connection with Sisera's defeat?",
+          "fil": "Sinong babae ang ibinukod sa papuri kaugnay ng pagkatalo ni Sisera?"
+        },
+        "options": {
+          "en": [
+            "Delilah",
+            "Vashti",
+            "Jael"
+          ],
+          "fil": [
+            "Si Delila",
+            "Si Vasti",
+            "Si Jael"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Jael's action is celebrated in the victory song (Judges 5).",
+          "fil": "Ipinagdiwang sa awit ng tagumpay ang ginawa ni Jael (Mga Hukom 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Why is Gideon threshing wheat in a winepress?",
+          "fil": "Bakit gumigiik ng trigo si Gideon sa pisaan ng ubas?"
+        },
+        "options": {
+          "en": [
+            "To prepare a royal wedding feast",
+            "To feed Pharaoh's chariots",
+            "To hide the food from Midian"
+          ],
+          "fil": [
+            "Upang maghanda ng kasal ng hari",
+            "Upang pakainin ang mga karwahe ni Faraon",
+            "Upang itago ang pagkain mula sa Midian"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Midian's raids force Gideon to conceal his harvest (Judges 6).",
+          "fil": "Dahil sa mga pagsalakay ng Midian, itinago ni Gideon ang kanyang ani (Mga Hukom 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What assurance accompanies God's call to Gideon?",
+          "fil": "Anong katiyakan ang kasama ng tawag ng Diyos kay Gideon?"
+        },
+        "options": {
+          "en": [
+            "Gideon is already king of Egypt",
+            "The Midianites have vanished without a battle",
+            "God will be with him in delivering Israel"
+          ],
+          "fil": [
+            "Hari na ng Egipto si Gideon",
+            "Naglaho na ang mga Midianita nang walang labanan",
+            "Sasamahan siya ng Diyos sa pagliligtas sa Israel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God answers Gideon's sense of weakness with the promise of his presence (Judges 6).",
+          "fil": "Tinugunan ng Diyos ang nadaramang kahinaan ni Gideon sa pangakong sasamahan siya (Mga Hukom 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Gideon tear down in his father's household?",
+          "fil": "Ano ang sinira ni Gideon sa sambahayan ng kanyang ama?"
+        },
+        "options": {
+          "en": [
+            "The city wall of Jerusalem",
+            "The altar of Baal",
+            "The ark of the covenant"
+          ],
+          "fil": [
+            "Ang pader ng Jerusalem",
+            "Ang altar ni Baal",
+            "Ang kaban ng tipan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gideon obeys God's command to remove the household's idol worship (Judges 6).",
+          "fil": "Sinunod ni Gideon ang utos ng Diyos na alisin ang pagsamba sa diyus-diyosan ng sambahayan (Mga Hukom 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What object does Gideon use when asking for signs involving dew?",
+          "fil": "Anong bagay ang ginamit ni Gideon sa paghingi ng mga tandang may hamog?"
+        },
+        "options": {
+          "en": [
+            "A fleece",
+            "A royal crown",
+            "A silver trumpet"
+          ],
+          "fil": [
+            "Isang balahibo ng tupa",
+            "Isang korona ng hari",
+            "Isang trumpetang pilak"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gideon asks for contrasting conditions on a fleece and the ground (Judges 6).",
+          "fil": "Humingi si Gideon ng magkaibang kalagayan ng balahibo ng tupa at lupa (Mga Hukom 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Why does God reduce Gideon's army?",
+          "fil": "Bakit binawasan ng Diyos ang hukbo ni Gideon?"
+        },
+        "options": {
+          "en": [
+            "So Gideon can return to Egypt",
+            "So Israel cannot claim it saved itself by its own strength",
+            "So Midian can choose Israel's gods"
+          ],
+          "fil": [
+            "Upang makabalik si Gideon sa Egipto",
+            "Upang hindi maangkin ng Israel na sariling lakas ang nagligtas dito",
+            "Upang mapili ng Midian ang mga diyos ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The smaller force makes God's role in the victory clear (Judges 7).",
+          "fil": "Nilinaw ng mas maliit na hukbo ang papel ng Diyos sa tagumpay (Mga Hukom 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What overheard event encourages Gideon in the enemy camp?",
+          "fil": "Anong narinig sa kampo ng kaaway ang nagpalakas ng loob ni Gideon?"
+        },
+        "options": {
+          "en": [
+            "A dream and its interpretation predicting Midian's defeat",
+            "A report that Israel has no children",
+            "A decree making him Pharaoh"
+          ],
+          "fil": [
+            "Panaginip at paliwanag na nagsasabing matatalo ang Midian",
+            "Ulat na walang anak ang Israel",
+            "Utos na ginagawa siyang Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The enemy soldier's dream reassures Gideon of the coming victory (Judges 7).",
+          "fil": "Pinatibay ng panaginip ng kawal ng kaaway ang loob ni Gideon tungkol sa darating na tagumpay (Mga Hukom 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What items do Gideon's men use in their nighttime surprise?",
+          "fil": "Anong mga bagay ang ginamit ng mga tauhan ni Gideon sa biglaang pagsalakay sa gabi?"
+        },
+        "options": {
+          "en": [
+            "Trumpets, jars, and torches",
+            "Warships and golden crowns",
+            "Plows and seed baskets only"
+          ],
+          "fil": [
+            "Mga trumpeta, banga, at sulo",
+            "Mga barkong pandigma at gintong korona",
+            "Mga araro at basket ng binhi lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The unusual equipment helps create confusion in Midian's camp (Judges 7).",
+          "fil": "Nakatulong ang kakaibang kagamitan upang magkagulo ang kampo ng Midian (Mga Hukom 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens among the enemy soldiers during the panic?",
+          "fil": "Ano ang nangyari sa mga kawal ng kaaway sa pagkataranta?"
+        },
+        "options": {
+          "en": [
+            "They turn their swords against one another and flee",
+            "They build an altar for Moses",
+            "They calmly crown Gideon king"
+          ],
+          "fil": [
+            "Nagtabak sila laban sa isa't isa at tumakas",
+            "Gumawa sila ng altar para kay Moises",
+            "Tahimik nilang kinoronahang hari si Gideon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God turns the enemy camp into confusion during Gideon's attack (Judges 7).",
+          "fil": "Ginulo ng Diyos ang kampo ng kaaway sa pagsalakay ni Gideon (Mga Hukom 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What complaint do the Ephraimites bring against Gideon?",
+          "fil": "Anong reklamo ang iniharap ng mga Efraimita kay Gideon?"
+        },
+        "options": {
+          "en": [
+            "They were ordered to rule Egypt",
+            "They were given too many crowns",
+            "They were not called at the beginning of the campaign"
+          ],
+          "fil": [
+            "Inutusan silang mamuno sa Egipto",
+            "Binigyan sila ng napakaraming korona",
+            "Hindi sila tinawag sa simula ng pakikipaglaban"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Gideon calms Ephraim's anger by honoring their contribution (Judges 8).",
+          "fil": "Pinahinahon ni Gideon ang galit ng Efraim sa pagkilala sa kanilang ambag (Mga Hukom 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Succoth and Penuel refuse to give Gideon's exhausted men?",
+          "fil": "Ano ang tinanggihan ng Sucot at Penuel na ibigay sa mga pagod na tauhan ni Gideon?"
+        },
+        "options": {
+          "en": [
+            "Ocean ships",
+            "Royal titles",
+            "Food"
+          ],
+          "fil": [
+            "Mga barkong pandagat",
+            "Mga titulong maharlika",
+            "Pagkain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The towns refuse provisions while Gideon is still pursuing the enemy kings (Judges 8).",
+          "fil": "Tumanggi ang mga bayan na magbigay ng panustos habang hinahabol pa ni Gideon ang mga hari ng kaaway (Mga Hukom 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Gideon answer the offer of hereditary rule?",
+          "fil": "Paano sinagot ni Gideon ang alok na mamuno pati ang kanyang mga inapo?"
+        },
+        "options": {
+          "en": [
+            "He hands Israel to Midian",
+            "He says the Lord should rule over them",
+            "He crowns himself Pharaoh"
+          ],
+          "fil": [
+            "Ibinigay niya ang Israel sa Midian",
+            "Sinabi niyang ang Panginoon ang dapat mamuno sa kanila",
+            "Kinoronahan niya ang sarili bilang Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gideon rejects the offer of rule for himself and his family (Judges 8).",
+          "fil": "Tinanggihan ni Gideon ang alok na pamumuno para sa sarili at kanyang pamilya (Mga Hukom 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What becomes a spiritual trap after Gideon makes it from collected gold?",
+          "fil": "Ano ang naging bitag sa pananampalataya matapos gawin ni Gideon mula sa nakolektang ginto?"
+        },
+        "options": {
+          "en": [
+            "The stone tablets of Moses",
+            "The bronze basin of the temple",
+            "An ephod"
+          ],
+          "fil": [
+            "Ang mga tapyas ni Moises",
+            "Ang palanggana na tanso ng templo",
+            "Isang efod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The golden ephod becomes an object of unfaithful worship (Judges 8).",
+          "fil": "Naging bagay ng di-tapat na pagsamba ang gintong efod (Mga Hukom 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Which surviving brother warns the people after Abimelech's violent rise?",
+          "fil": "Sinong nakaligtas na kapatid ang nagbabala sa bayan matapos ang marahas na pag-angat ni Abimelec?"
+        },
+        "options": {
+          "en": [
+            "Joseph",
+            "Jotham",
+            "Benjamin"
+          ],
+          "fil": [
+            "Si Jose",
+            "Si Jotam",
+            "Si Benjamin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jotham survives and speaks against the alliance with Abimelech (Judges 9).",
+          "fil": "Nakaligtas si Jotam at nagsalita laban sa pakikipag-alyansa kay Abimelec (Mga Hukom 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of story does Jotham use to warn them?",
+          "fil": "Anong uri ng kuwento ang ginamit ni Jotam upang magbabala?"
+        },
+        "options": {
+          "en": [
+            "Animals entering Noah's ark",
+            "A shepherd finding a lost coin",
+            "Trees seeking a king and choosing a thornbush"
+          ],
+          "fil": [
+            "Mga hayop na pumapasok sa arka ni Noe",
+            "Pastol na nakatagpo ng nawawalang barya",
+            "Mga punong naghahanap ng hari at pumipili ng halamang matinik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The tree fable exposes the danger of Abimelech's rule (Judges 9).",
+          "fil": "Inilantad ng pabula ng mga puno ang panganib ng pamumuno ni Abimelec (Mga Hukom 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the alliance between Abimelech and Shechem?",
+          "fil": "Ano ang nangyari sa alyansa nina Abimelec at ng Siquem?"
+        },
+        "options": {
+          "en": [
+            "It makes Shechem the capital of Egypt",
+            "It turns into mistrust and destructive conflict",
+            "It brings permanent peace to every nation"
+          ],
+          "fil": [
+            "Ginawa nitong kabisera ng Egipto ang Siquem",
+            "Naging kawalan ito ng tiwala at mapanirang alitan",
+            "Nagdala ito ng permanenteng kapayapaan sa bawat bansa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The partners in violence turn against one another (Judges 9).",
+          "fil": "Nag-away ang mga dating magkakampi sa karahasan (Mga Hukom 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What stops Abimelech during his attack on the tower at Thebez?",
+          "fil": "Ano ang nagpahinto kay Abimelec sa pagsalakay sa tore sa Tebez?"
+        },
+        "options": {
+          "en": [
+            "A woman drops a millstone on him",
+            "Pharaoh takes him captive",
+            "The Jordan floods the tower"
+          ],
+          "fil": [
+            "Binagsakan siya ng babae ng batong gilingan",
+            "Binihag siya ni Faraon",
+            "Binaha ng Jordan ang tore"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The millstone ends Abimelech's advance and leads to his death (Judges 9).",
+          "fil": "Pinatigil ng batong gilingan ang pagsulong ni Abimelec at humantong sa kanyang kamatayan (Mga Hukom 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Which enemy gathers against Gilead near the chapter's end?",
+          "fil": "Anong kaaway ang nagtipon laban sa Gilead sa hulihan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "The Persians",
+            "The Egyptians",
+            "The Ammonites"
+          ],
+          "fil": [
+            "Ang mga taga-Persia",
+            "Ang mga taga-Egipto",
+            "Ang mga Ammonita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Ammonite threat leads into the search for a leader (Judges 10).",
+          "fil": "Humantong sa paghahanap ng pinuno ang banta ng mga Ammonita (Mga Hukom 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people show repentance after crying out to God?",
+          "fil": "Paano ipinakita ng bayan ang pagsisisi matapos dumaing sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "They build more shrines to Baal",
+            "They remove foreign gods and serve the Lord",
+            "They refuse to acknowledge wrongdoing"
+          ],
+          "fil": [
+            "Nagtayo sila ng dagdag na dambana ni Baal",
+            "Inalis nila ang mga dayuhang diyos at naglingkod sa Panginoon",
+            "Tumanggi silang kilalanin ang pagkakasala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people demonstrate their change by abandoning other gods (Judges 10).",
+          "fil": "Ipinakita ng bayan ang pagbabago sa pagtalikod sa ibang diyos (Mga Hukom 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God respond to their continuing misery?",
+          "fil": "Paano tumugon ang Diyos sa patuloy nilang paghihirap?"
+        },
+        "options": {
+          "en": [
+            "He declares that compassion is wrong",
+            "He delights in their pain",
+            "He is moved by their suffering"
+          ],
+          "fil": [
+            "Ipinahayag niyang mali ang mahabag",
+            "Natuwa siya sa kanilang sakit",
+            "Naantig siya sa kanilang pagdurusa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter ends the repentance scene with God's concern for Israel's distress (Judges 10).",
+          "fil": "Tinapos ng kabanata ang tagpo ng pagsisisi sa malasakit ng Diyos sa hirap ng Israel (Mga Hukom 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "Why do Jephthah's brothers drive him from the family home?",
+          "fil": "Bakit pinalayas ng mga kapatid si Jefta sa tahanan ng pamilya?"
+        },
+        "options": {
+          "en": [
+            "They reject his claim to inherit because he has a different mother",
+            "He has stolen Pharaoh's crown",
+            "He has burned Noah's ark"
+          ],
+          "fil": [
+            "Tinanggihan nila ang karapatan niyang magmana dahil iba ang kanyang ina",
+            "Ninakaw niya ang korona ni Faraon",
+            "Sinunog niya ang arka ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jephthah is rejected by his half-brothers over his family status (Judges 11).",
+          "fil": "Itinakwil si Jefta ng kanyang mga kapatid sa ama dahil sa kanyang katayuan sa pamilya (Mga Hukom 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Gilead's elders later ask Jephthah to return?",
+          "fil": "Bakit hiniling kalaunan ng mga pinuno ng Gilead na bumalik si Jefta?"
+        },
+        "options": {
+          "en": [
+            "They want him to replace God's law",
+            "They need him to lead against the Ammonites",
+            "They want him to build a palace in Egypt"
+          ],
+          "fil": [
+            "Nais nilang palitan niya ang kautusan ng Diyos",
+            "Kailangan nila siyang mamuno laban sa mga Ammonita",
+            "Nais nilang magtayo siya ng palasyo sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The elders seek Jephthah's military leadership during the crisis (Judges 11).",
+          "fil": "Hiningi ng mga pinuno ang pamumuno ni Jefta sa pakikidigma sa panahon ng panganib (Mga Hukom 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who first comes out to greet Jephthah when he returns after his victory?",
+          "fil": "Sino ang unang lumabas upang salubungin si Jefta nang bumalik matapos ang tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's general",
+            "His daughter",
+            "The king of Moab"
+          ],
+          "fil": [
+            "Ang heneral ni Faraon",
+            "Ang kanyang anak na babae",
+            "Ang hari ng Moab"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "His daughter's greeting makes the consequences of his vow painfully real (Judges 11).",
+          "fil": "Dahil sa pagsalubong ng kanyang anak, naging masakit na katotohanan ang bunga ng kanyang panata (Mga Hukom 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does his daughter ask for before he fulfills the vow?",
+          "fil": "Ano ang hiniling ng kanyang anak bago niya tuparin ang panata?"
+        },
+        "options": {
+          "en": [
+            "Time in the hills with her companions",
+            "Command of the Ammonite army",
+            "A throne in Egypt"
+          ],
+          "fil": [
+            "Panahon sa kabundukan kasama ang kanyang mga kaibigan",
+            "Pamumuno sa hukbo ng mga Ammonita",
+            "Trono sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Jephthah permits his daughter to spend time in the hills with her companions (Judges 11).",
+          "fil": "Pinahintulutan ni Jefta ang kanyang anak na magpalipas ng panahon sa kabundukan kasama ang mga kaibigan (Mga Hukom 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What do the brief accounts of the later judges show?",
+          "fil": "Ano ang ipinakikita ng maiikling salaysay ng mga sumunod na hukom?"
+        },
+        "options": {
+          "en": [
+            "Every tribe has moved to Egypt",
+            "Leadership continues through successive judges",
+            "Israel has already chosen Solomon as king"
+          ],
+          "fil": [
+            "Lumipat na sa Egipto ang bawat lipi",
+            "Nagpatuloy ang pamumuno sa sunud-sunod na mga hukom",
+            "Napili na ng Israel si Solomon bilang hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter records judges who lead after Jephthah (Judges 12).",
+          "fil": "Itinala ng kabanata ang mga hukom na namuno pagkatapos ni Jefta (Mga Hukom 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which town is associated with the judge Ibzan?",
+          "fil": "Anong bayan ang kaugnay ng hukom na si Ibzan?"
+        },
+        "options": {
+          "en": [
+            "Babel",
+            "Nineveh",
+            "Bethlehem"
+          ],
+          "fil": [
+            "Babel",
+            "Nineve",
+            "Bethlehem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Ibzan is identified as coming from Bethlehem (Judges 12).",
+          "fil": "Kinilala si Ibzan bilang mula sa Bethlehem (Mga Hukom 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What memorable detail is given about Abdon's family?",
+          "fil": "Anong kapansin-pansing detalye ang ibinigay tungkol sa pamilya ni Abdon?"
+        },
+        "options": {
+          "en": [
+            "His children build the ark",
+            "His household rules Egypt",
+            "His many sons and grandsons ride donkeys"
+          ],
+          "fil": [
+            "Ginawa ng kanyang mga anak ang arka",
+            "Pinamumunuan ng kanyang sambahayan ang Egipto",
+            "Marami niyang anak at apo ang sumasakay sa mga asno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Abdon's large family is pictured with the donkeys they ride (Judges 12).",
+          "fil": "Inilarawan ang malaking pamilya ni Abdon kasama ang mga asnong sinasakyan nila (Mga Hukom 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does the angel promise Manoah's childless wife?",
+          "fil": "Ano ang ipinangako ng anghel sa asawa ni Manoa na walang anak?"
+        },
+        "options": {
+          "en": [
+            "She will have a son who begins Israel's deliverance from the Philistines",
+            "She will build a new tower of Babel",
+            "She will become queen of Egypt"
+          ],
+          "fil": [
+            "Magkakaroon siya ng anak na lalaking magsisimulang magligtas sa Israel mula sa mga Filisteo",
+            "Gagawa siya ng bagong tore ng Babel",
+            "Magiging reyna siya ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The announcement connects the child's birth with God's plan for Israel (Judges 13).",
+          "fil": "Iniugnay ng pahayag ang pagsilang ng bata sa plano ng Diyos para sa Israel (Mga Hukom 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What special dedication is prescribed for the child?",
+          "fil": "Anong natatanging pagtatalaga ang itinakda para sa bata?"
+        },
+        "options": {
+          "en": [
+            "He is to serve Pharaoh forever",
+            "He is to become a priest of Baal",
+            "He is to be a Nazirite with uncut hair"
+          ],
+          "fil": [
+            "Maglilingkod siya kay Faraon habambuhay",
+            "Magiging pari siya ni Baal",
+            "Magiging Nazareo siyang hindi pinuputulan ng buhok"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The child is dedicated to God from before his birth (Judges 13).",
+          "fil": "Itinalaga ang bata sa Diyos bago pa siya isilang (Mga Hukom 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the angel do as the offering's flame rises?",
+          "fil": "Ano ang ginawa ng anghel nang umakyat ang apoy ng handog?"
+        },
+        "options": {
+          "en": [
+            "Builds a royal throne",
+            "Ascends in the flame",
+            "Carries the altar to Egypt"
+          ],
+          "fil": [
+            "Gumawa ng trono ng hari",
+            "Umakyat sa apoy",
+            "Dinala sa Egipto ang altar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The angel's ascent reveals the extraordinary nature of the encounter (Judges 13).",
+          "fil": "Ipinakita ng pag-akyat ng anghel ang pambihirang katangian ng pakikipagtagpo (Mga Hukom 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Manoah's wife answer his fear that they will die?",
+          "fil": "Paano sinagot ng asawa ni Manoa ang takot niyang mamamatay sila?"
+        },
+        "options": {
+          "en": [
+            "They should worship the angel instead",
+            "God would not have accepted their offering and made these promises if he meant to kill them",
+            "They can escape God by moving to Babylon"
+          ],
+          "fil": [
+            "Dapat na lamang nilang sambahin ang anghel",
+            "Hindi sana tinanggap ng Diyos ang handog at ibinigay ang mga pangako kung balak niya silang patayin",
+            "Matatakasan nila ang Diyos sa paglipat sa Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "She draws reassurance from God's accepted offering and promises (Judges 13).",
+          "fil": "Nakakuha siya ng katiyakan sa pagtanggap ng Diyos sa handog at sa mga pangako nito (Mga Hukom 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "Where does Samson see the Philistine woman he wants to marry?",
+          "fil": "Saan nakita ni Samson ang babaeng Filisteong nais niyang mapangasawa?"
+        },
+        "options": {
+          "en": [
+            "Nineveh",
+            "Timnah",
+            "Jerusalem"
+          ],
+          "fil": [
+            "Nineve",
+            "Timna",
+            "Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Samson asks his parents to arrange a marriage with a woman in Timnah (Judges 14).",
+          "fil": "Hiniling ni Samson sa mga magulang na ayusin ang pag-aasawa sa isang babae sa Timna (Mga Hukom 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What animal does Samson overcome when the Lord's Spirit empowers him?",
+          "fil": "Anong hayop ang nadaig ni Samson nang bigyan siya ng lakas ng Espiritu ng Panginoon?"
+        },
+        "options": {
+          "en": [
+            "A lion",
+            "An elephant",
+            "A whale"
+          ],
+          "fil": [
+            "Isang leon",
+            "Isang elepante",
+            "Isang balyena"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samson defeats the attacking lion through strength given by God's Spirit (Judges 14).",
+          "fil": "Nadaig ni Samson ang sumalakay na leon sa lakas na ibinigay ng Espiritu ng Diyos (Mga Hukom 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samson later find in the lion's remains?",
+          "fil": "Ano ang natagpuan ni Samson kalaunan sa labi ng leon?"
+        },
+        "options": {
+          "en": [
+            "The tablets of Moses",
+            "A royal crown",
+            "Bees and honey"
+          ],
+          "fil": [
+            "Ang mga tapyas ni Moises",
+            "Korona ng hari",
+            "Mga bubuyog at pulot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The honey in the lion's remains becomes the basis of Samson's riddle (Judges 14).",
+          "fil": "Naging batayan ng bugtong ni Samson ang pulot sa labi ng leon (Mga Hukom 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the wedding companions learn the answer to his riddle?",
+          "fil": "Paano nalaman ng mga kasama sa kasalan ang sagot sa kanyang bugtong?"
+        },
+        "options": {
+          "en": [
+            "They ask Noah to explain it",
+            "They read the answer in Pharaoh's records",
+            "They pressure his wife, who obtains it from Samson"
+          ],
+          "fil": [
+            "Hiniling nilang ipaliwanag ito ni Noe",
+            "Binasa nila ang sagot sa talaan ni Faraon",
+            "Giniit nila sa kanyang asawa na kunin ang sagot kay Samson"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Threats against the woman lead to the disclosure of the riddle's answer (Judges 14).",
+          "fil": "Humantong sa pagkakabunyag ng sagot sa bugtong ang mga banta sa babae (Mga Hukom 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What does Samson use to spread fire through the Philistines' crops?",
+          "fil": "Ano ang ginamit ni Samson upang ikalat ang apoy sa mga pananim ng mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "Ships carrying royal soldiers",
+            "A pillar of cloud",
+            "Animals with burning torches fastened between their tails"
+          ],
+          "fil": [
+            "Mga barkong may sakay na mga kawal ng hari",
+            "Haliging ulap",
+            "Mga hayop na may nakataling nagliliyab na sulo sa pagitan ng kanilang mga buntot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samson burns the fields using animals carrying torches (Judges 15).",
+          "fil": "Sinunog ni Samson ang mga bukid gamit ang mga hayop na may dalang sulo (Mga Hukom 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do men of Judah bind Samson and take him to the Philistines?",
+          "fil": "Bakit iginapos ng mga lalaki ng Juda si Samson at dinala sa mga Filisteo?"
+        },
+        "options": {
+          "en": [
+            "They fear retaliation from their Philistine rulers",
+            "They want him crowned king of Egypt",
+            "They are preparing his wedding"
+          ],
+          "fil": [
+            "Natatakot sila sa pagganti ng mga Filisteong namumuno sa kanila",
+            "Nais nilang koronahan siyang hari ng Egipto",
+            "Inihahanda nila ang kanyang kasal"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Judah's men surrender Samson because they feel subject to Philistine power (Judges 15).",
+          "fil": "Isinuko ng mga lalaki ng Juda si Samson dahil nadarama nilang sakop sila ng kapangyarihan ng mga Filisteo (Mga Hukom 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samson use as a weapon after breaking free?",
+          "fil": "Ano ang ginamit ni Samson na sandata matapos makawala?"
+        },
+        "options": {
+          "en": [
+            "A donkey's jawbone",
+            "A royal crown",
+            "A wooden altar"
+          ],
+          "fil": [
+            "Panga ng asno",
+            "Korona ng hari",
+            "Altar na kahoy"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samson defeats his opponents with a jawbone after the Spirit empowers him (Judges 15).",
+          "fil": "Tinalo ni Samson ang mga kalaban gamit ang panga matapos bigyan siya ng lakas ng Espiritu (Mga Hukom 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God answer Samson's desperate thirst after the battle?",
+          "fil": "Paano tinugon ng Diyos ang matinding uhaw ni Samson matapos ang labanan?"
+        },
+        "options": {
+          "en": [
+            "Orders him to worship Dagon",
+            "Provides water so his strength returns",
+            "Sends him a new crown"
+          ],
+          "fil": [
+            "Inutusan siyang sambahin si Dagon",
+            "Naglaan ng tubig upang manumbalik ang kanyang lakas",
+            "Nagpadala ng bagong korona"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God supplies water in response to Samson's plea (Judges 15).",
+          "fil": "Naglaan ang Diyos ng tubig bilang tugon sa pakiusap ni Samson (Mga Hukom 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What does Samson carry away when he escapes from Gaza?",
+          "fil": "Ano ang dinala palayo ni Samson nang tumakas sa Gaza?"
+        },
+        "options": {
+          "en": [
+            "The city gates and their posts",
+            "The ark of the covenant",
+            "Pharaoh's fleet"
+          ],
+          "fil": [
+            "Ang mga pintuan ng lungsod at mga haligi nito",
+            "Ang kaban ng tipan",
+            "Ang mga barko ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samson escapes by removing and carrying the gates (Judges 16).",
+          "fil": "Tumakas si Samson sa pag-alis at pagdadala ng mga pintuan (Mga Hukom 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Delilah arrange after learning about Samson's uncut hair?",
+          "fil": "Ano ang ipinagawa ni Delila matapos malaman ang tungkol sa hindi pinuputulang buhok ni Samson?"
+        },
+        "options": {
+          "en": [
+            "Have him crowned king",
+            "Send him safely to his father",
+            "Have it shaved while he sleeps"
+          ],
+          "fil": [
+            "Ipakorona siya bilang hari",
+            "Pauwiin siya nang ligtas sa kanyang ama",
+            "Ipaahit ito habang natutulog siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Delilah uses the secret of his dedication to betray him to the Philistines (Judges 16).",
+          "fil": "Ginamit ni Delila ang lihim ng kanyang pagtatalaga upang ipagkanulo siya sa mga Filisteo (Mga Hukom 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What work is Samson forced to do after being captured and blinded?",
+          "fil": "Anong gawain ang sapilitang ipinagawa kay Samson matapos mabihag at mabulag?"
+        },
+        "options": {
+          "en": [
+            "Grind grain in prison",
+            "Build the temple in Jerusalem",
+            "Rule the Philistine army"
+          ],
+          "fil": [
+            "Gumiling ng butil sa bilangguan",
+            "Itayo ang templo sa Jerusalem",
+            "Pamunuan ang hukbo ng mga Filisteo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Philistines imprison Samson and put him to grinding work (Judges 16).",
+          "fil": "Ibinilanggo ng mga Filisteo si Samson at pinagtrabaho sa paggiling (Mga Hukom 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samson do before pushing against the temple's supporting pillars?",
+          "fil": "Ano ang ginawa ni Samson bago itulak ang mga haliging sumusuporta sa templo?"
+        },
+        "options": {
+          "en": [
+            "Asks Dagon for a royal title",
+            "Orders Israel to return to Egypt",
+            "Prays for God to strengthen him again"
+          ],
+          "fil": [
+            "Humingi kay Dagon ng titulong maharlika",
+            "Inutusan ang Israel na bumalik sa Egipto",
+            "Nanalanging muling palakasin siya ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Samson appeals to God before his final act against the Philistines (Judges 16).",
+          "fil": "Nakiusap si Samson sa Diyos bago ang huli niyang pagkilos laban sa mga Filisteo (Mga Hukom 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What kind of religious arrangement does Micah create in his home?",
+          "fil": "Anong uri ng kaayusan sa pagsamba ang ginawa ni Micas sa kanyang bahay?"
+        },
+        "options": {
+          "en": [
+            "A private shrine with an idol",
+            "Solomon's temple in Jerusalem",
+            "The tabernacle commanded to Moses"
+          ],
+          "fil": [
+            "Pansariling dambana na may diyus-diyosan",
+            "Ang templo ni Solomon sa Jerusalem",
+            "Ang tabernakulong ipinagawa kay Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Micah's household combines religious language with unauthorized idol worship (Judges 17).",
+          "fil": "Pinagsama ng sambahayan ni Micas ang pananalitang panrelihiyon at pagsamba sa diyus-diyosan na walang pahintulot (Mga Hukom 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Micah hire as his household priest?",
+          "fil": "Sino ang inupahan ni Micas bilang pari ng sambahayan?"
+        },
+        "options": {
+          "en": [
+            "A young Levite",
+            "The king of Moab",
+            "Pharaoh's eldest son"
+          ],
+          "fil": [
+            "Isang batang Levita",
+            "Ang hari ng Moab",
+            "Panganay na anak ni Faraon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Micah offers the traveling Levite support in exchange for priestly service (Judges 17).",
+          "fil": "Inalukan ni Micas ng panustos ang naglalakbay na Levita kapalit ng paglilingkod bilang pari (Mga Hukom 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What summary describes the people's conduct when there is no king?",
+          "fil": "Anong buod ang naglalarawan sa asal ng mga tao nang walang hari?"
+        },
+        "options": {
+          "en": [
+            "All disputes have ended forever",
+            "Everyone obeys God's commands perfectly",
+            "People follow what seems right to themselves"
+          ],
+          "fil": [
+            "Natapos na habambuhay ang lahat ng alitan",
+            "Ganap na sinusunod ng lahat ang mga utos ng Diyos",
+            "Sinusunod ng mga tao ang inaakala nilang tama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The narrator's summary frames Micah's actions within Israel's disorder (Judges 17).",
+          "fil": "Inilagay ng buod ng tagapagsalaysay ang ginawa ni Micas sa gitna ng kaguluhan ng Israel (Mga Hukom 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Which tribe sends scouts to look for a place to settle?",
+          "fil": "Anong lipi ang nagpadala ng mga tagasiyasat upang humanap ng matitirhan?"
+        },
+        "options": {
+          "en": [
+            "Judah",
+            "Dan",
+            "Reuben"
+          ],
+          "fil": [
+            "Juda",
+            "Dan",
+            "Ruben"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The Danites seek territory where they can establish themselves (Judges 18).",
+          "fil": "Humanap ang mga Danita ng lupaing mapamamahayan nila (Mga Hukom 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes Laish seem vulnerable to the scouts?",
+          "fil": "Bakit tila madaling salakayin ang Lais sa tingin ng mga tagasiyasat?"
+        },
+        "options": {
+          "en": [
+            "Its people live securely and are isolated from helpers",
+            "It is protected by the sea on every side",
+            "It has the largest army in Egypt"
+          ],
+          "fil": [
+            "Panatag ang mga tao nito at malayo sa mga makatutulong",
+            "Napapaligiran ito ng dagat sa lahat ng panig",
+            "Naroon ang pinakamalaking hukbo ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The scouts see a peaceful, isolated population with little outside protection (Judges 18).",
+          "fil": "Nakita ng mga tagasiyasat ang mapayapang populasyong malayo sa proteksiyon ng iba (Mga Hukom 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the Danites take from Micah on their way?",
+          "fil": "Ano ang kinuha ng mga Danita kay Micas sa kanilang pagdaan?"
+        },
+        "options": {
+          "en": [
+            "His sacred objects and his Levite priest",
+            "Noah's ark",
+            "The royal records of Persia"
+          ],
+          "fil": [
+            "Ang kanyang mga gamit sa pagsamba at paring Levita",
+            "Ang arka ni Noe",
+            "Ang mga talaan ng kaharian ng Persia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Danites seize Micah's objects and recruit the priest for their tribe (Judges 18).",
+          "fil": "Kinuha ng mga Danita ang mga gamit ni Micas at isinama ang pari para sa kanilang lipi (Mga Hukom 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name do they give the captured city of Laish?",
+          "fil": "Anong pangalan ang ibinigay nila sa nasakop na lungsod ng Lais?"
+        },
+        "options": {
+          "en": [
+            "Hebron",
+            "Jericho",
+            "Dan"
+          ],
+          "fil": [
+            "Hebron",
+            "Jerico",
+            "Dan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Danites rename the city after their ancestor Dan (Judges 18).",
+          "fil": "Pinangalanan ng mga Danita ang lungsod ayon sa kanilang ninunong si Dan (Mga Hukom 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "Why does the Levite pass by Jebus rather than stay there?",
+          "fil": "Bakit nilampasan ng Levita ang Jebus sa halip na manatili roon?"
+        },
+        "options": {
+          "en": [
+            "He wants to stay in an Israelite town",
+            "He is commanded to go to Egypt",
+            "He is looking for Noah's ark"
+          ],
+          "fil": [
+            "Nais niyang manatili sa bayang Israelita",
+            "Inutusan siyang pumunta sa Egipto",
+            "Hinahanap niya ang arka ni Noe"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The traveler prefers an Israelite settlement to the foreign city (Judges 19).",
+          "fil": "Mas pinili ng manlalakbay ang pamayanang Israelita kaysa sa dayuhang lungsod (Mga Hukom 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "In which Benjaminite town does the group stop for the night?",
+          "fil": "Sa anong bayan ng Benjamin huminto ang pangkat upang magpalipas ng gabi?"
+        },
+        "options": {
+          "en": [
+            "Bethlehem",
+            "Gibeah",
+            "Shiloh"
+          ],
+          "fil": [
+            "Bethlehem",
+            "Gibea",
+            "Silo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The group enters Gibeah and initially finds no one to host them (Judges 19).",
+          "fil": "Pumasok ang pangkat sa Gibea at noong una ay walang nagpatuloy sa kanila (Mga Hukom 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who finally offers them hospitality?",
+          "fil": "Sino ang sa wakas ay nagpatuloy sa kanila?"
+        },
+        "options": {
+          "en": [
+            "An elderly man returning from work in the fields",
+            "The commander of Persia's army",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Matandang lalaking pauwi mula sa bukid",
+            "Ang pinuno ng hukbo ng Persia",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "An older resident from Ephraim welcomes the travelers into his home (Judges 19).",
+          "fil": "Tinanggap sa kanyang bahay ng matandang taga-Efraim ang mga manlalakbay (Mga Hukom 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does the shocking report at the end demand of Israel?",
+          "fil": "Anong pagtugon ang hinihingi sa Israel ng nakagigimbal na ulat sa pagtatapos?"
+        },
+        "options": {
+          "en": [
+            "Consider the wrong and decide how to respond",
+            "Celebrate the violence as a victory",
+            "Ignore every victim's suffering"
+          ],
+          "fil": [
+            "Pag-isipan ang ginawa at magpasya kung paano tutugon",
+            "Ipagdiwang ang karahasan bilang tagumpay",
+            "Balewalain ang pagdurusa ng bawat biktima"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The tragedy provokes a national call to deliberate about the wrongdoing (Judges 19).",
+          "fil": "Nag-udyok ang trahedya ng pambansang panawagang pag-usapan ang ginawang mali (Mga Hukom 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "Where do the tribes gather to consider the crime at Gibeah?",
+          "fil": "Saan nagtipon ang mga lipi upang pag-usapan ang krimen sa Gibea?"
+        },
+        "options": {
+          "en": [
+            "Mizpah",
+            "Babel",
+            "Nineveh"
+          ],
+          "fil": [
+            "Mizpa",
+            "Babel",
+            "Nineve"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel assembles at Mizpah to hear the account and decide its response (Judges 20).",
+          "fil": "Nagtipon ang Israel sa Mizpa upang marinig ang salaysay at magpasya sa pagtugon (Mga Hukom 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Benjamin refuse when the other tribes demand justice?",
+          "fil": "Ano ang tinanggihan ng Benjamin nang hingin ng ibang lipi ang katarungan?"
+        },
+        "options": {
+          "en": [
+            "Hand over the guilty men of Gibeah",
+            "Share Egypt's royal treasure",
+            "Return the ark to Moses"
+          ],
+          "fil": [
+            "Ibigay ang mga nagkasalang lalaki ng Gibea",
+            "Ibahagi ang kayamanan ng hari ng Egipto",
+            "Ibalik ang kaban kay Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Benjamin's refusal to surrender the offenders leads to civil war (Judges 20).",
+          "fil": "Humantong sa digmaang sibil ang pagtanggi ng Benjamin na ibigay ang mga nagkasala (Mga Hukom 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which tribe is directed to lead the first attack?",
+          "fil": "Anong lipi ang inatasang manguna sa unang pagsalakay?"
+        },
+        "options": {
+          "en": [
+            "Naphtali",
+            "Judah",
+            "Dan"
+          ],
+          "fil": [
+            "Neftali",
+            "Juda",
+            "Dan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God tells the assembled Israelites that Judah should go first (Judges 20).",
+          "fil": "Sinabi ng Diyos sa nagkatipong Israel na Juda ang dapat mauna (Mga Hukom 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What strategy succeeds after Israel's earlier defeats?",
+          "fil": "Anong paraan ang nagtagumpay matapos ang mga naunang pagkatalo ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Asking Pharaoh to annex Benjamin",
+            "An ambush that draws Benjamin away from the city",
+            "A fleet attacking from the sea"
+          ],
+          "fil": [
+            "Paghiling kay Faraon na sakupin ang Benjamin",
+            "Pananambang na naglayo sa Benjamin mula sa lungsod",
+            "Mga barkong sumalakay mula sa dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The final battle uses a planned retreat and ambush against Gibeah (Judges 20).",
+          "fil": "Gumamit ang huling labanan ng planadong pag-atras at pananambang laban sa Gibea (Mga Hukom 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What concern troubles Israel after the war against Benjamin?",
+          "fil": "Anong alalahanin ang bumagabag sa Israel matapos ang digmaan laban sa Benjamin?"
+        },
+        "options": {
+          "en": [
+            "One of Israel's tribes may disappear",
+            "Egypt has run out of crowns",
+            "The temple of Solomon has already fallen"
+          ],
+          "fil": [
+            "Maaaring mawala ang isa sa mga lipi ng Israel",
+            "Naubusan ng korona ang Egipto",
+            "Bumagsak na ang templo ni Solomon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The survivors' situation makes the other tribes fear Benjamin's extinction (Judges 21).",
+          "fil": "Dahil sa kalagayan ng mga nakaligtas, nangamba ang ibang lipi na tuluyang mawala ang Benjamin (Mga Hukom 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What earlier oath complicates finding wives for Benjamin's survivors?",
+          "fil": "Anong naunang sumpa ang nagpahirap sa paghahanap ng asawa para sa mga nakaligtas sa Benjamin?"
+        },
+        "options": {
+          "en": [
+            "They had sworn never to gather again",
+            "They had sworn to move every family to Egypt",
+            "They had sworn not to give their daughters to Benjamin"
+          ],
+          "fil": [
+            "Nanumpa silang hindi na muling magtitipon",
+            "Nanumpa silang ililipat sa Egipto ang bawat pamilya",
+            "Nanumpa silang hindi ibibigay sa Benjamin ang kanilang mga anak na babae"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The oath creates a new problem after the destructive war (Judges 21).",
+          "fil": "Nagdulot ang sumpa ng bagong suliranin matapos ang mapanirang digmaan (Mga Hukom 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What final description sums up this troubled period?",
+          "fil": "Anong huling paglalarawan ang nagbuod sa magulong panahong ito?"
+        },
+        "options": {
+          "en": [
+            "Without a king, people follow what seems right to themselves",
+            "Every person has obeyed God perfectly",
+            "Israel has never experienced division"
+          ],
+          "fil": [
+            "Walang hari at sinusunod ng mga tao ang inaakala nilang tama",
+            "Ganap na sumunod sa Diyos ang bawat tao",
+            "Hindi kailanman nakaranas ng pagkakahati ang Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The book ends by emphasizing the disorder of self-directed conduct (Judges 21).",
+          "fil": "Nagtatapos ang aklat sa pagbibigay-diin sa kaguluhan ng asal na sariling pasya lamang ang sinusunod (Mga Hukom 21)."
+        }
+      }
+    ]
+  }
+}
