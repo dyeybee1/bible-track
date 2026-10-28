@@ -1,0 +1,217 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What kind of day does Zephaniah warn is approaching?",
+          "fil": "Anong uri ng araw ang ibinabala ni Zefanias na dumarating?"
+        },
+        "options": {
+          "en": [
+            "A day of the Lord's judgment",
+            "A day when idols will rule heaven",
+            "A day when injustice will be rewarded"
+          ],
+          "fil": [
+            "Araw ng paghatol ng Panginoon",
+            "Araw na paghaharian ng mga diyus-diyosan ang langit",
+            "Araw na gagantimpalaan ang kawalang-katarungan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning calls attention to the seriousness of coming judgment (Zephaniah 1).",
+          "fil": "Itinawag-pansin ng babala ang bigat ng darating na paghatol (Zefanias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistaken belief do complacent people hold about God?",
+          "fil": "Anong maling paniniwala tungkol sa Diyos ang hawak ng mga kampante?"
+        },
+        "options": {
+          "en": [
+            "He will do nothing about their conduct",
+            "He deserves their faithful worship",
+            "He wants them to defend the weak"
+          ],
+          "fil": [
+            "Wala siyang gagawin tungkol sa kanilang asal",
+            "Karapat-dapat siya sa kanilang tapat na pagsamba",
+            "Gusto niyang ipagtanggol nila ang mahihina"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God confronts those who assume he will never intervene (Zephaniah 1).",
+          "fil": "Hinarap ng Diyos ang mga nag-aakalang hindi siya kailanman kikilos (Zefanias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What cannot rescue people on the day of judgment?",
+          "fil": "Ano ang hindi makapagliligtas sa mga tao sa araw ng paghatol?"
+        },
+        "options": {
+          "en": [
+            "God's own power",
+            "The Lord's mercy",
+            "Their silver and gold"
+          ],
+          "fil": [
+            "Ang mismong kapangyarihan ng Diyos",
+            "Ang awa ng Panginoon",
+            "Ang kanilang pilak at ginto"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Wealth provides no protection against God's judgment (Zephaniah 1).",
+          "fil": "Hindi pananggalang ang kayamanan laban sa hatol ng Diyos (Zefanias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What are the humble urged to seek before judgment comes?",
+          "fil": "Ano ang hinimok sa mapagpakumbaba na hanapin bago dumating ang hatol?"
+        },
+        "options": {
+          "en": [
+            "Greater power to oppress others",
+            "The Lord, righteousness, and humility",
+            "More idols for protection"
+          ],
+          "fil": [
+            "Higit na kapangyarihang mang-api",
+            "Ang Panginoon, katuwiran, at pagpapakumbaba",
+            "Mas maraming diyus-diyosan para sa proteksiyon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening appeal invites people to turn toward God with humility (Zephaniah 2).",
+          "fil": "Inanyayahan ng pambungad na panawagan ang mga tao na lumapit sa Diyos nang may pagpapakumbaba (Zefanias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are Moab and Ammon rebuked?",
+          "fil": "Bakit sinaway ang Moab at Ammon?"
+        },
+        "options": {
+          "en": [
+            "They refused to rob their neighbors",
+            "They helped rebuild Jerusalem's temple",
+            "They mocked God's people and acted proudly"
+          ],
+          "fil": [
+            "Tumanggi silang pagnakawan ang kanilang kapwa",
+            "Tumulong silang muling itayo ang Templo sa Jerusalem",
+            "Tinuya nila ang bayan ng Diyos at nagmataas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Their pride and insults form part of the case against the nations (Zephaniah 2).",
+          "fil": "Bahagi ng hatol laban sa mga bansa ang kanilang pagmamataas at panlalait (Zefanias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future is pictured for proud Nineveh?",
+          "fil": "Anong kinabukasan ang inilarawan para sa mapagmataas na Nineve?"
+        },
+        "options": {
+          "en": [
+            "A throne above God's throne",
+            "Permanent safety from every danger",
+            "Desolation where animals make their home"
+          ],
+          "fil": [
+            "Tronong nasa ibabaw ng trono ng Diyos",
+            "Permanenteng kaligtasan sa lahat ng panganib",
+            "Pagkatiwangwang na magiging tirahan ng mga hayop"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The city's confidence will give way to ruin (Zephaniah 2).",
+          "fil": "Mapapalitan ng pagkawasak ang pagtitiwala ng lunsod sa sarili (Zefanias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What are the city's leaders compared to when they prey on people?",
+          "fil": "Saan inihambing ang mga pinuno ng lunsod nang pagsamantalahan nila ang mga tao?"
+        },
+        "options": {
+          "en": [
+            "Lions and wolves",
+            "Gentle doves",
+            "Fruitful vines"
+          ],
+          "fil": [
+            "Mga leon at lobo",
+            "Maamong mga kalapati",
+            "Mga ubas na mabunga"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The animal images expose the leaders' predatory behavior (Zephaniah 3).",
+          "fil": "Inilantad ng mga larawan ng hayop ang mapanilang asal ng mga pinuno (Zefanias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of people will remain and take refuge in the Lord?",
+          "fil": "Anong uri ng mga tao ang matitira at kakanlong sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Boastful people who trust in stolen wealth",
+            "Rulers who delight in cruelty",
+            "Humble people who reject deceit"
+          ],
+          "fil": [
+            "Mga mayabang na nagtitiwala sa nakaw na yaman",
+            "Mga pinunong natutuwa sa kalupitan",
+            "Mga mapagpakumbabang tumatanggi sa pandaraya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The restored remnant is marked by humility and honesty (Zephaniah 3).",
+          "fil": "Nakilala ang mga natirang ibinalik sa pagpapakumbaba at katapatan (Zefanias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Zion invited to rejoice?",
+          "fil": "Bakit inanyayahang magalak ang Sion?"
+        },
+        "options": {
+          "en": [
+            "God has abandoned the weak forever",
+            "The Lord is among his people to save and restore them",
+            "Their enemies will rule without end"
+          ],
+          "fil": [
+            "Iniwan na ng Diyos ang mahihina magpakailanman",
+            "Kasama ng Panginoon ang kanyang bayan upang iligtas at ibalik sila",
+            "Walang hanggan ang paghahari ng kanilang mga kaaway"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing promise turns fear into joy through God's saving presence (Zephaniah 3).",
+          "fil": "Pinalitan ng pangwakas na pangako ang takot ng galak sa pamamagitan ng nagliligtas na presensya ng Diyos (Zefanias 3)."
+        }
+      }
+    ]
+  }
+}
