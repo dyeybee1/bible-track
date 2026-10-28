@@ -1,0 +1,998 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "How does Tobit care for needy fellow Israelites in Nineveh?",
+          "fil": "Paano inalagaan ni Tobit ang mga kapwa Israelitang nangangailangan sa Nineve?"
+        },
+        "options": {
+          "en": [
+            "He demands payment before helping",
+            "He shares food and clothing with them",
+            "He sends them away hungry"
+          ],
+          "fil": [
+            "Humingi siya ng bayad bago tumulong",
+            "Ibinahagi niya ang pagkain at damit sa kanila",
+            "Pinaalis niya silang gutom"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobit describes giving practical help to hungry and poorly clothed members of his people (Tobit 1).",
+          "fil": "Isinalaysay ni Tobit ang praktikal na pagtulong sa mga kababayan niyang gutom at walang maayos na damit (Tobit 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Tobit have to hide from the king?",
+          "fil": "Bakit kailangang magtago ni Tobit mula sa hari?"
+        },
+        "options": {
+          "en": [
+            "He buries Israelites whom the king has killed",
+            "He steals the king's crown",
+            "He leads an attack on the palace"
+          ],
+          "fil": [
+            "Inilibing niya ang mga Israelitang ipinapatay ng hari",
+            "Ninakaw niya ang korona ng hari",
+            "Pinamunuan niya ang paglusob sa palasyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tobit's burial of the slain brings the king's anger upon him (Tobit 1).",
+          "fil": "Nagdulot ng galit ng hari kay Tobit ang paglilibing niya sa mga pinatay (Tobit 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Tobit leave in Gabael's care in Media?",
+          "fil": "Ano ang ipinagkatiwala ni Tobit kay Gabael sa Media?"
+        },
+        "options": {
+          "en": [
+            "The temple's altar",
+            "A royal army",
+            "A sum of silver"
+          ],
+          "fil": [
+            "Ang altar ng templo",
+            "Isang maharlikang hukbo",
+            "Isang halaga ng pilak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit deposits silver with Gabael before travel becomes difficult (Tobit 1).",
+          "fil": "Naglagak si Tobit ng pilak kay Gabael bago naging mahirap ang paglalakbay (Tobit 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "Why does Tobit interrupt his festive meal?",
+          "fil": "Bakit naantala ang masayang pagkain ni Tobit?"
+        },
+        "options": {
+          "en": [
+            "He is summoned to become king",
+            "He decides to buy a fishing boat",
+            "He learns that a fellow Israelite lies dead outside"
+          ],
+          "fil": [
+            "Ipinatawag siya upang maging hari",
+            "Nagpasya siyang bumili ng bangkang pangisda",
+            "Nalaman niyang may patay na kapwa Israelita sa labas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit leaves his meal to care for the body of a slain Israelite (Tobit 2).",
+          "fil": "Iniwan ni Tobit ang kanyang pagkain upang asikasuhin ang bangkay ng pinatay na Israelita (Tobit 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What causes Tobit's loss of sight?",
+          "fil": "Ano ang naging sanhi ng pagkawala ng paningin ni Tobit?"
+        },
+        "options": {
+          "en": [
+            "Bird droppings fall into his eyes",
+            "A soldier wounds him in battle",
+            "He falls into the river"
+          ],
+          "fil": [
+            "Nahulugan ng dumi ng ibon ang kanyang mga mata",
+            "Sinugatan siya ng sundalo sa labanan",
+            "Nahulog siya sa ilog"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Droppings fall into Tobit's uncovered eyes while he rests near a wall (Tobit 2).",
+          "fil": "Nahulog ang dumi sa walang-takip na mga mata ni Tobit habang nagpapahinga siya malapit sa pader (Tobit 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Tobit and Anna quarrel about a young goat?",
+          "fil": "Bakit nagtalo sina Tobit at Ana tungkol sa batang kambing?"
+        },
+        "options": {
+          "en": [
+            "Anna wants to sacrifice it to an idol",
+            "He suspects theft, but she says it was a gift with her wages",
+            "They disagree about who owns the king's herd"
+          ],
+          "fil": [
+            "Gusto ni Ana na ihain ito sa diyus-diyusan",
+            "Naghinala siyang ninakaw ito, ngunit sinabi niyang regalo ito kasama ng kanyang sahod",
+            "Hindi sila nagkasundo kung sino ang may-ari ng kawan ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Anna explains that the goat was an extra gift for her work, contrary to Tobit's suspicion (Tobit 2).",
+          "fil": "Ipinaliwanag ni Ana na dagdag na regalo sa kanyang trabaho ang kambing, salungat sa hinala ni Tobit (Tobit 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How does Tobit respond to his deep distress?",
+          "fil": "Paano tumugon si Tobit sa kanyang matinding paghihirap?"
+        },
+        "options": {
+          "en": [
+            "He begins worshiping foreign gods",
+            "He orders his neighbors imprisoned",
+            "He prays to God in sorrow"
+          ],
+          "fil": [
+            "Nagsimula siyang sumamba sa mga dayuhang diyos",
+            "Iniutos niyang ibilanggo ang kanyang mga kapitbahay",
+            "Nanalangin siya sa Diyos nang may kalungkutan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit turns to God with a sorrowful prayer for relief (Tobit 3).",
+          "fil": "Lumapit si Tobit sa Diyos sa malungkot na panalangin para sa ginhawa (Tobit 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What sorrow has Sarah suffered before she prays?",
+          "fil": "Anong kalungkutan ang dinanas ni Sara bago siya nanalangin?"
+        },
+        "options": {
+          "en": [
+            "Her father has driven her from home",
+            "Her husbands have been killed by an evil spirit",
+            "Her family has forbidden all marriage"
+          ],
+          "fil": [
+            "Pinalayas siya ng kanyang ama sa tahanan",
+            "Pinatay ng masamang espiritu ang kanyang mga asawa",
+            "Ipinagbawal ng kanyang pamilya ang lahat ng pag-aasawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Sarah suffers loss and cruel accusations after the deaths of her husbands (Tobit 3).",
+          "fil": "Dumanas si Sara ng pagkawala at malulupit na paratang matapos mamatay ang kanyang mga asawa (Tobit 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does God send after hearing Tobit's and Sarah's prayers?",
+          "fil": "Sino ang isinugo ng Diyos matapos marinig ang mga panalangin nina Tobit at Sara?"
+        },
+        "options": {
+          "en": [
+            "Raphael",
+            "Nebuchadnezzar",
+            "Gabael"
+          ],
+          "fil": [
+            "Si Rafael",
+            "Si Nabucodonosor",
+            "Si Gabael"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Raphael is sent to bring healing to both troubled households (Tobit 3).",
+          "fil": "Isinugo si Rafael upang magdala ng kagalingan sa dalawang sambahayang naghihirap (Tobit 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "What advice does Tobit give Tobias about his mother?",
+          "fil": "Anong payo ang ibinigay ni Tobit kay Tobias tungkol sa kanyang ina?"
+        },
+        "options": {
+          "en": [
+            "Leave her without support",
+            "Honor and care for her throughout her life",
+            "Ignore her once he receives money"
+          ],
+          "fil": [
+            "Iwan siya nang walang suporta",
+            "Igalang at alagaan siya sa buong buhay niya",
+            "Balewalain siya kapag natanggap na niya ang pera"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobit reminds his son to honor his mother and remember her care for him (Tobit 4).",
+          "fil": "Ipinaalala ni Tobit sa anak na igalang ang kanyang ina at alalahanin ang pangangalaga nito sa kanya (Tobit 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should Tobias treat the poor according to his father's advice?",
+          "fil": "Paano dapat pakitunguhan ni Tobias ang mahihirap ayon sa payo ng kanyang ama?"
+        },
+        "options": {
+          "en": [
+            "Give generously according to his means",
+            "Refuse every request when he has little",
+            "Help only when he can become famous"
+          ],
+          "fil": [
+            "Magbigay nang bukas-palad ayon sa kanyang kakayahan",
+            "Tanggihan ang bawat hiling kapag kaunti ang kanyang pag-aari",
+            "Tumulong lamang kung magiging sikat siya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tobit encourages almsgiving even from limited resources (Tobit 4).",
+          "fil": "Hinikayat ni Tobit ang pagbibigay sa nangangailangan kahit mula sa kaunting pag-aari (Tobit 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Tobit tell Tobias about money in Media?",
+          "fil": "Bakit sinabi ni Tobit kay Tobias ang tungkol sa pera sa Media?"
+        },
+        "options": {
+          "en": [
+            "He plans to stop helping the poor",
+            "He wants to buy the Assyrian throne",
+            "He wants his son to know about the deposit with Gabael"
+          ],
+          "fil": [
+            "Plano niyang tumigil sa pagtulong sa mahihirap",
+            "Gusto niyang bilhin ang trono ng Asiria",
+            "Gusto niyang malaman ng anak ang perang nakalagak kay Gabael"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit discloses the deposit so Tobias can recover it (Tobit 4).",
+          "fil": "Ipinabatid ni Tobit ang perang nakalagak upang mabawi ito ni Tobias (Tobit 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Who agrees to guide Tobias on his journey?",
+          "fil": "Sino ang pumayag gumabay kay Tobias sa kanyang paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "The king of Assyria",
+            "Sarah's father Raguel",
+            "Raphael, whose angelic identity is still hidden"
+          ],
+          "fil": [
+            "Ang hari ng Asiria",
+            "Ang ama ni Sara na si Raguel",
+            "Si Rafael na hindi pa nakikilalang anghel"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobias finds Raphael without knowing that his companion is an angel (Tobit 5).",
+          "fil": "Natagpuan ni Tobias si Rafael nang hindi alam na anghel ang kanyang kasama (Tobit 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What name does the guide give when Tobit asks about him?",
+          "fil": "Anong pangalan ang ibinigay ng gabay nang magtanong si Tobit tungkol sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Gabael",
+            "Raguel",
+            "Azariah"
+          ],
+          "fil": [
+            "Gabael",
+            "Raguel",
+            "Azarias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Raphael presents himself to Tobit under the name Azariah (Tobit 5).",
+          "fil": "Nagpakilala si Rafael kay Tobit sa pangalang Azarias (Tobit 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Tobit arrange for the guide's service?",
+          "fil": "Ano ang isinaayos ni Tobit para sa paglilingkod ng gabay?"
+        },
+        "options": {
+          "en": [
+            "Wages and necessary expenses for the journey",
+            "A royal crown and an army",
+            "Ownership of the temple"
+          ],
+          "fil": [
+            "Sahod at kinakailangang gastos sa paglalakbay",
+            "Maharlikang korona at hukbo",
+            "Pagmamay-ari ng templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tobit agrees to pay the guide and provide for the journey (Tobit 5).",
+          "fil": "Pumayag si Tobit na bayaran ang gabay at tustusan ang paglalakbay (Tobit 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What does the guide tell Tobias to do when a large fish rushes at him?",
+          "fil": "Ano ang sinabi ng gabay na gawin ni Tobias nang sumugod sa kanya ang malaking isda?"
+        },
+        "options": {
+          "en": [
+            "Leave all his belongings behind",
+            "Catch it and bring it ashore",
+            "Return immediately to Nineveh"
+          ],
+          "fil": [
+            "Iwan ang lahat ng kanyang mga gamit",
+            "Hulihin ito at dalhin sa pampang",
+            "Bumalik agad sa Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobias catches the fish at the guide's instruction (Tobit 6).",
+          "fil": "Nahuli ni Tobias ang isda ayon sa tagubilin ng gabay (Tobit 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What use does the guide explain for the fish's gall?",
+          "fil": "Anong gamit ang ipinaliwanag ng gabay para sa apdo ng isda?"
+        },
+        "options": {
+          "en": [
+            "Making a royal crown",
+            "Buying passage across the river",
+            "Treating the white films over someone's eyes"
+          ],
+          "fil": [
+            "Paggawa ng maharlikang korona",
+            "Pagbili ng masasakyan patawid sa ilog",
+            "Panggamot sa maputing sapin sa mga mata"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The guide explains that the gall can help restore sight to eyes covered with white films (Tobit 6).",
+          "fil": "Ipinaliwanag ng gabay na makatutulong ang apdo upang maibalik ang paningin ng mga matang may maputing sapin (Tobit 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Tobias afraid of marrying Sarah?",
+          "fil": "Bakit natatakot si Tobias na pakasalan si Sara?"
+        },
+        "options": {
+          "en": [
+            "His parents have forbidden him to marry anyone",
+            "He knows she commands an enemy army",
+            "He has heard that her earlier husbands died"
+          ],
+          "fil": [
+            "Pinagbawalan siya ng kanyang mga magulang na mag-asawa",
+            "Alam niyang namumuno siya sa hukbo ng kaaway",
+            "Narinig niyang namatay ang mga dati niyang asawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobias fears the fate of Sarah's earlier husbands and the sorrow his death would cause his parents (Tobit 6).",
+          "fil": "Natatakot si Tobias sa sinapit ng mga dating asawa ni Sara at sa lungkot na idudulot ng pagkamatay niya sa kanyang mga magulang (Tobit 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "Why does Raguel welcome Tobias with particular affection?",
+          "fil": "Bakit natatanging magiliw na tinanggap ni Raguel si Tobias?"
+        },
+        "options": {
+          "en": [
+            "He discovers that Tobias is his relative Tobit's son",
+            "Tobias has brought him an army",
+            "He believes Tobias is king of Assyria"
+          ],
+          "fil": [
+            "Nalaman niyang anak si Tobias ng kamag-anak niyang si Tobit",
+            "Nagdala si Tobias ng hukbo para sa kanya",
+            "Inakala niyang hari ng Asiria si Tobias"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Learning Tobias' family connection moves Raguel to embrace and bless him (Tobit 7).",
+          "fil": "Nang malaman ang kaugnayan ng pamilya ni Tobias ay niyakap at binasbasan siya ni Raguel (Tobit 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Raguel honestly disclose before the marriage?",
+          "fil": "Ano ang tapat na ipinabatid ni Raguel bago ang kasal?"
+        },
+        "options": {
+          "en": [
+            "Tobit has forbidden Tobias to enter the house",
+            "Sarah is already married to a living king",
+            "Sarah's previous husbands died on their wedding nights"
+          ],
+          "fil": [
+            "Ipinagbawal ni Tobit na pumasok si Tobias sa bahay",
+            "Kasal na si Sara sa isang buhay na hari",
+            "Namatay ang mga dating asawa ni Sara sa gabi ng kanilang kasal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Raguel warns Tobias about the deaths of Sarah's former husbands (Tobit 7).",
+          "fil": "Binalaan ni Raguel si Tobias tungkol sa pagkamatay ng mga dating asawa ni Sara (Tobit 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is Tobias' marriage to Sarah formally recorded?",
+          "fil": "Paano pormal na itinala ang kasal nina Tobias at Sara?"
+        },
+        "options": {
+          "en": [
+            "With a sale of Sarah to a stranger",
+            "With a written marriage agreement",
+            "With a decree from the Assyrian army"
+          ],
+          "fil": [
+            "Sa pagbebenta kay Sara sa hindi kakilala",
+            "Sa nakasulat na kasunduan sa kasal",
+            "Sa utos mula sa hukbo ng Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Raguel gives Sarah in marriage and records the agreement in writing (Tobit 7).",
+          "fil": "Ibinigay ni Raguel si Sara sa pag-aasawa at itinala ang kasunduan (Tobit 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What happens when Tobias burns the fish's heart and liver?",
+          "fil": "Ano ang nangyari nang sunugin ni Tobias ang puso at atay ng isda?"
+        },
+        "options": {
+          "en": [
+            "The evil spirit flees and Raphael binds it",
+            "The house becomes a royal palace",
+            "Raguel is taken prisoner"
+          ],
+          "fil": [
+            "Tumakas ang masamang espiritu at iginapos ito ni Rafael",
+            "Naging maharlikang palasyo ang bahay",
+            "Nabihag si Raguel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The smoke drives away the evil spirit, which Raphael then restrains (Tobit 8).",
+          "fil": "Itinaboy ng usok ang masamang espiritu na pagkatapos ay iginapos ni Rafael (Tobit 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Tobias and Sarah do together before sleeping?",
+          "fil": "Ano ang magkasamang ginawa nina Tobias at Sara bago matulog?"
+        },
+        "options": {
+          "en": [
+            "Plan to steal Raguel's property",
+            "Offer a sacrifice to foreign gods",
+            "Pray for God's mercy and a lasting life together"
+          ],
+          "fil": [
+            "Nagplanong nakawin ang ari-arian ni Raguel",
+            "Naghandog ng hain sa mga dayuhang diyos",
+            "Nanalangin para sa awa ng Diyos at matagal na pagsasama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The couple begins married life with prayer for mercy and faithful companionship (Tobit 8).",
+          "fil": "Sinimulan ng mag-asawa ang kanilang pagsasama sa panalangin para sa awa at tapat na pagsasama (Tobit 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Raguel order after learning that Tobias is alive?",
+          "fil": "Ano ang iniutos ni Raguel nang malamang buhay si Tobias?"
+        },
+        "options": {
+          "en": [
+            "Cancel the wedding feast",
+            "Send Sarah away forever",
+            "Fill in the grave he had prepared"
+          ],
+          "fil": [
+            "Kanselahin ang piging ng kasal",
+            "Paalisin si Sara magpakailanman",
+            "Tabunan ang libingang inihanda niya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Raguel gives thanks and orders the unused grave filled after his fear proves unfounded (Tobit 8).",
+          "fil": "Nagpasalamat si Raguel at ipinatabon ang hindi nagamit na libingan nang hindi mangyari ang kanyang kinatatakutan (Tobit 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Why does Tobias ask his companion to make the trip to Gabael?",
+          "fil": "Bakit hiniling ni Tobias sa kanyang kasama na siya ang pumunta kay Gabael?"
+        },
+        "options": {
+          "en": [
+            "Raguel has insisted that Tobias stay for the wedding celebration",
+            "Tobias has forgotten his father's request entirely",
+            "The king has imprisoned Tobias"
+          ],
+          "fil": [
+            "Iginiit ni Raguel na manatili si Tobias para sa pagdiriwang ng kasal",
+            "Lubusang nakalimutan ni Tobias ang hiling ng kanyang ama",
+            "Ipinabilanggo ng hari si Tobias"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tobias delegates the errand because he must remain with Raguel for the wedding festivities (Tobit 9).",
+          "fil": "Ipinagawa ni Tobias ang pakay dahil kailangan niyang manatili kay Raguel para sa pagdiriwang ng kasal (Tobit 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Gabael hand over after seeing the written document?",
+          "fil": "Ano ang ibinigay ni Gabael matapos makita ang nakasulat na kasulatan?"
+        },
+        "options": {
+          "en": [
+            "The king's weapons",
+            "The money deposited with him",
+            "A deed to Jerusalem"
+          ],
+          "fil": [
+            "Ang mga sandata ng hari",
+            "Ang perang nakalagak sa kanya",
+            "Kasulatan ng pagmamay-ari sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Gabael returns the deposit when the guide presents the document (Tobit 9).",
+          "fil": "Ibinalik ni Gabael ang perang nakalagak nang iharap ng gabay ang kasulatan (Tobit 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What gathering does Tobias ask Gabael to attend?",
+          "fil": "Sa anong pagtitipon hiniling ni Tobias na dumalo si Gabael?"
+        },
+        "options": {
+          "en": [
+            "A royal tax collection",
+            "The wedding feast",
+            "A battle at Nineveh"
+          ],
+          "fil": [
+            "Ang pangongolekta ng buwis ng hari",
+            "Ang piging ng kasal",
+            "Ang labanan sa Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobias asks that Gabael come to share in the wedding celebration (Tobit 9).",
+          "fil": "Hiniling ni Tobias na dumalo si Gabael sa pagdiriwang ng kasal (Tobit 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "Why are Tobit and Anna anxious about Tobias?",
+          "fil": "Bakit nag-aalala sina Tobit at Ana tungkol kay Tobias?"
+        },
+        "options": {
+          "en": [
+            "He has announced that he hates them",
+            "He has not returned when they expected him",
+            "He has joined the Assyrian army"
+          ],
+          "fil": [
+            "Ipinahayag niyang napopoot siya sa kanila",
+            "Hindi pa siya bumalik sa oras na inaasahan nila",
+            "Sumapi siya sa hukbo ng Asiria"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The delay makes Tobias' parents fear that something has happened to him (Tobit 10).",
+          "fil": "Dahil sa pagkaantala ay nangamba ang mga magulang ni Tobias na may nangyari sa kanya (Tobit 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Tobias ask Raguel after the wedding celebration?",
+          "fil": "Ano ang hiniling ni Tobias kay Raguel matapos ang pagdiriwang ng kasal?"
+        },
+        "options": {
+          "en": [
+            "Let him return to his parents",
+            "Make him king of Media",
+            "Keep his marriage secret forever"
+          ],
+          "fil": [
+            "Payagan siyang bumalik sa kanyang mga magulang",
+            "Gawin siyang hari ng Media",
+            "Ilihim ang kanyang kasal magpakailanman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Tobias insists on returning because his parents will be worried about him (Tobit 10).",
+          "fil": "Iginiit ni Tobias ang pagbabalik dahil mag-aalala ang kanyang mga magulang (Tobit 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Raguel provide for the departing couple?",
+          "fil": "Paano tinustusan ni Raguel ang mag-asawang paalis?"
+        },
+        "options": {
+          "en": [
+            "He refuses to acknowledge their marriage",
+            "He takes all their belongings",
+            "He gives them half his property and his blessing"
+          ],
+          "fil": [
+            "Tumanggi siyang kilalanin ang kanilang kasal",
+            "Kinuha niya ang lahat ng kanilang mga gamit",
+            "Ibinigay niya ang kalahati ng kanyang ari-arian at ang kanyang basbas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Raguel sends Sarah and Tobias away with a generous share of his possessions and blessings (Tobit 10).",
+          "fil": "Pinaalis ni Raguel sina Sara at Tobias na may malaking bahagi ng kanyang mga pag-aari at mga basbas (Tobit 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "How does Anna react when she sees Tobias approaching?",
+          "fil": "Paano tumugon si Ana nang makita niyang papalapit si Tobias?"
+        },
+        "options": {
+          "en": [
+            "She asks soldiers to send him away",
+            "She runs to embrace him and weeps",
+            "She refuses to recognize him"
+          ],
+          "fil": [
+            "Hiniling niya sa mga sundalo na paalisin siya",
+            "Tumakbo siya upang yakapin siya at umiyak",
+            "Tumanggi siyang kilalanin siya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Anna joyfully welcomes her returning son with tears and an embrace (Tobit 11).",
+          "fil": "Masayang sinalubong ni Ana ang nagbabalik niyang anak nang may luha at yakap (Tobit 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Tobias apply to Tobit's eyes?",
+          "fil": "Ano ang inilagay ni Tobias sa mga mata ni Tobit?"
+        },
+        "options": {
+          "en": [
+            "Oil from a temple lamp",
+            "The fish's gall",
+            "Dust from the road"
+          ],
+          "fil": [
+            "Langis mula sa ilawan ng templo",
+            "Ang apdo ng isda",
+            "Alikabok mula sa daan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Following Raphael's instruction, Tobias uses the gall and Tobit's sight is restored (Tobit 11).",
+          "fil": "Ayon sa tagubilin ni Rafael, ginamit ni Tobias ang apdo at naibalik ang paningin ni Tobit (Tobit 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Tobit welcome Sarah when she arrives?",
+          "fil": "Paano tinanggap ni Tobit si Sara nang dumating siya?"
+        },
+        "options": {
+          "en": [
+            "He demands that Tobias cancel the marriage",
+            "He blesses her as his daughter and thanks God",
+            "He forbids her to enter Nineveh"
+          ],
+          "fil": [
+            "Hiniling niyang ipawalang-bisa ni Tobias ang kasal",
+            "Binasbasan niya siya bilang anak at nagpasalamat sa Diyos",
+            "Pinagbawalan niya siyang pumasok sa Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobit welcomes his daughter-in-law with blessing and public thanksgiving (Tobit 11).",
+          "fil": "Tinanggap ni Tobit ang kanyang manugang na may basbas at hayagang pasasalamat (Tobit 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What generous payment do Tobit and Tobias offer their companion?",
+          "fil": "Anong bukas-palad na bayad ang inialok nina Tobit at Tobias sa kanilang kasama?"
+        },
+        "options": {
+          "en": [
+            "The Assyrian crown",
+            "The whole city of Nineveh",
+            "Half of what Tobias brought back"
+          ],
+          "fil": [
+            "Ang korona ng Asiria",
+            "Ang buong lungsod ng Nineve",
+            "Kalahati ng iniuwi ni Tobias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "They offer half the recovered wealth in gratitude for the companion's many services (Tobit 12).",
+          "fil": "Inialok nila ang kalahati ng nabawing yaman bilang pasasalamat sa maraming tulong ng kanilang kasama (Tobit 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the companion reveal about his identity?",
+          "fil": "Ano ang inihayag ng kasama tungkol sa kanyang pagkakakilanlan?"
+        },
+        "options": {
+          "en": [
+            "He is the king of Media",
+            "He is Gabael in disguise",
+            "He is Raphael, an angel sent by God"
+          ],
+          "fil": [
+            "Siya ang hari ng Media",
+            "Siya si Gabael na nagbalatkayo",
+            "Siya si Rafael, isang anghel na isinugo ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Raphael reveals that God sent him to heal Tobit and Sarah (Tobit 12).",
+          "fil": "Inihayag ni Rafael na isinugo siya ng Diyos upang pagalingin sina Tobit at Sara (Tobit 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the family respond to God's help according to Raphael?",
+          "fil": "Paano dapat tumugon ang pamilya sa tulong ng Diyos ayon kay Rafael?"
+        },
+        "options": {
+          "en": [
+            "Treat Raphael as the creator of all things",
+            "Praise God and make his good works known",
+            "Hide God's mercy from everyone"
+          ],
+          "fil": [
+            "Ituring si Rafael na manlilikha ng lahat",
+            "Purihin ang Diyos at ipaalam ang kanyang mabubuting gawa",
+            "Itago sa lahat ang awa ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Raphael directs their gratitude toward God and urges them to tell of his works (Tobit 12).",
+          "fil": "Itinuro ni Rafael ang kanilang pasasalamat sa Diyos at hinimok na isalaysay ang kanyang mga gawa (Tobit 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does Tobit's hymn say about God amid suffering?",
+          "fil": "Ano ang sinasabi ng awit ni Tobit tungkol sa Diyos sa gitna ng pagdurusa?"
+        },
+        "options": {
+          "en": [
+            "God is powerless to restore anyone",
+            "God has forgotten every exile",
+            "God both disciplines and shows mercy"
+          ],
+          "fil": [
+            "Walang kapangyarihan ang Diyos na papanumbalikin ang sinuman",
+            "Nakalimutan ng Diyos ang bawat bihag",
+            "Dumidisiplina ang Diyos at nagpapakita ng awa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit praises the God who can bring people low and restore them in mercy (Tobit 13).",
+          "fil": "Pinuri ni Tobit ang Diyos na nagpapababa sa mga tao at nagpapanauli sa kanila sa awa (Tobit 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are Israelites urged to do among the nations where they are scattered?",
+          "fil": "Ano ang hinimok sa mga Israelita sa mga bansang pinangalatan nila?"
+        },
+        "options": {
+          "en": [
+            "Worship the most powerful king",
+            "Declare God's greatness and give thanks",
+            "Keep their faith hidden from everyone"
+          ],
+          "fil": [
+            "Sambahin ang pinakamakapangyarihang hari",
+            "Ipahayag ang kadakilaan ng Diyos at magpasalamat",
+            "Itago ang kanilang pananampalataya sa lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The hymn calls the scattered people to make God's greatness known among the nations (Tobit 13).",
+          "fil": "Tinawag ng awit ang mga nangalat na ipaalam ang kadakilaan ng Diyos sa mga bansa (Tobit 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What future does the hymn picture for Jerusalem?",
+          "fil": "Anong hinaharap ang inilalarawan ng awit para sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Restoration and joyful worship by peoples from afar",
+            "A temple devoted to foreign gods",
+            "Permanent ruin with no hope"
+          ],
+          "fil": [
+            "Pagpapanumbalik at masayang pagsamba ng mga bayan mula sa malayo",
+            "Templong nakalaan sa mga dayuhang diyos",
+            "Tuluyang pagkawasak na walang pag-asa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The hymn looks forward to Jerusalem's renewal and nations coming to honor God (Tobit 13).",
+          "fil": "Inaasahan ng awit ang pagpapanibago ng Jerusalem at pagdating ng mga bansa upang parangalan ang Diyos (Tobit 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What does Tobit urge Tobias to do concerning Nineveh?",
+          "fil": "Ano ang hinimok ni Tobit na gawin ni Tobias tungkol sa Nineve?"
+        },
+        "options": {
+          "en": [
+            "Build a shrine to its idols",
+            "Seek its throne by force",
+            "Leave it because its destruction is coming"
+          ],
+          "fil": [
+            "Magtayo ng dambana sa mga diyus-diyusan nito",
+            "Agawin ang trono nito sa dahas",
+            "Lisanin ito dahil darating ang pagkawasak nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Tobit warns that Nineveh will fall and tells his son to move away (Tobit 14).",
+          "fil": "Nagbabala si Tobit na babagsak ang Nineve at sinabihan ang kanyang anak na lisanin ito (Tobit 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What way of life does Tobit recommend in his final advice?",
+          "fil": "Anong pamumuhay ang ipinayo ni Tobit sa kanyang huling mga tagubilin?"
+        },
+        "options": {
+          "en": [
+            "Abandon almsgiving when life is comfortable",
+            "Obey God's law and practice mercy and righteousness",
+            "Gain wealth through cruelty"
+          ],
+          "fil": [
+            "Talikuran ang pagbibigay sa mahihirap kapag maginhawa na ang buhay",
+            "Sundin ang kautusan ng Diyos at isagawa ang awa at katuwiran",
+            "Magkamal ng yaman sa kalupitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobit's final counsel joins faithful obedience with generous and righteous action (Tobit 14).",
+          "fil": "Pinagsama ng huling payo ni Tobit ang tapat na pagsunod at mapagbigay at matuwid na pagkilos (Tobit 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What change among the nations does Tobit foresee?",
+          "fil": "Anong pagbabago sa mga bansa ang inaasahan ni Tobit?"
+        },
+        "options": {
+          "en": [
+            "They will make Nineveh last forever",
+            "They will abandon idols and turn to the true God",
+            "They will create a god greater than the Lord"
+          ],
+          "fil": [
+            "Gagawin nilang walang-hanggan ang Nineve",
+            "Tatalikuran nila ang mga diyus-diyusan at lalapit sa tunay na Diyos",
+            "Lilikha sila ng diyos na higit sa Panginoon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Tobit anticipates nations turning from idols to genuine worship of God (Tobit 14).",
+          "fil": "Inasahan ni Tobit ang pagtalikod ng mga bansa sa mga diyus-diyusan tungo sa tunay na pagsamba sa Diyos (Tobit 14)."
+        }
+      }
+    ]
+  }
+}
