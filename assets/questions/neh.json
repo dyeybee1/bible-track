@@ -1,0 +1,1065 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What news about Jerusalem troubles Nehemiah?",
+          "fil": "Anong balita tungkol sa Jerusalem ang ikinabahala ni Nehemias?"
+        },
+        "options": {
+          "en": [
+            "It has conquered Persia",
+            "It has become Egypt's capital",
+            "Its wall is broken and its gates burned"
+          ],
+          "fil": [
+            "Nasakop nito ang Persia",
+            "Naging kabisera ito ng Egipto",
+            "Wasak ang pader nito at sunog ang mga pintuan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The report describes Jerusalem's insecurity and disgrace (Nehemiah 1).",
+          "fil": "Inilarawan ng ulat ang kawalan ng kaligtasan at kahihiyan ng Jerusalem (Nehemias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Nehemiah first respond to the news?",
+          "fil": "Paano unang tumugon si Nehemias sa balita?"
+        },
+        "options": {
+          "en": [
+            "He ignores the report",
+            "He holds a victory feast",
+            "He mourns, fasts, and prays"
+          ],
+          "fil": [
+            "Binale-wala niya ang ulat",
+            "Nagdaos siya ng pista ng tagumpay",
+            "Nagluksa, nag-ayuno, at nanalangin siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nehemiah brings his grief before God in prayer (Nehemiah 1).",
+          "fil": "Dinala ni Nehemias ang kanyang dalamhati sa Diyos sa panalangin (Nehemias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose sins does Nehemiah include in his confession?",
+          "fil": "Kaninong mga kasalanan ang isinama ni Nehemias sa kanyang pagpapahayag?"
+        },
+        "options": {
+          "en": [
+            "His own and his family's, along with Israel's",
+            "Only people who have never lived in Jerusalem",
+            "Only the king's enemies'"
+          ],
+          "fil": [
+            "Ang sarili at pamilya niya, kasama ng Israel",
+            "Sa mga hindi kailanman nanirahan sa Jerusalem lamang",
+            "Sa mga kaaway lamang ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah identifies himself with the people's need for forgiveness (Nehemiah 1).",
+          "fil": "Nakiisa si Nehemias sa pangangailangan ng bayan ng kapatawaran (Nehemias 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What position does Nehemiah hold at the royal court?",
+          "fil": "Anong tungkulin ang ginagampanan ni Nehemias sa korte ng hari?"
+        },
+        "options": {
+          "en": [
+            "The king's cupbearer",
+            "High priest of Babylon",
+            "Commander of Egypt's navy"
+          ],
+          "fil": [
+            "Tagasilbi ng inumin ng hari",
+            "Pinakapunong pari ng Babilonia",
+            "Pinuno ng hukbong-dagat ng Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah serves as cupbearer to the king (Nehemiah 1).",
+          "fil": "Naglingkod si Nehemias bilang tagasilbi ng inumin ng hari (Nehemias 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does Nehemiah ask the king to let him do?",
+          "fil": "Ano ang hiniling ni Nehemias na pahintulutan ng hari?"
+        },
+        "options": {
+          "en": [
+            "Destroy the temple in Jerusalem",
+            "Become king of Persia",
+            "Go to Judah to rebuild Jerusalem"
+          ],
+          "fil": [
+            "Wasakin ang templo sa Jerusalem",
+            "Maging hari ng Persia",
+            "Pumunta sa Juda upang muling itayo ang Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Nehemiah requests permission to restore the city of his ancestors (Nehemiah 2).",
+          "fil": "Humiling si Nehemias ng pahintulot na ibalik ang lungsod ng kanyang mga ninuno (Nehemias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What practical help does the king give for the journey and building work?",
+          "fil": "Anong praktikal na tulong ang ibinigay ng hari para sa paglalakbay at pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Orders to destroy all roads",
+            "A command to return to slavery",
+            "Letters for safe passage and access to timber"
+          ],
+          "fil": [
+            "Mga utos na sirain ang lahat ng daan",
+            "Utos na bumalik sa pagkaalipin",
+            "Mga sulat para sa ligtas na pagdaan at pagkuha ng kahoy"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The king grants written support for travel and building supplies (Nehemiah 2).",
+          "fil": "Nagbigay ang hari ng nakasulat na suporta sa paglalakbay at materyales sa pagtatayo (Nehemias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Nehemiah first inspect Jerusalem's damaged wall?",
+          "fil": "Paano unang sinuri ni Nehemias ang nasirang pader ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "From a ship on the Nile",
+            "At night with a small group",
+            "During a royal parade of all Persia"
+          ],
+          "fil": [
+            "Mula sa barko sa Nilo",
+            "Sa gabi na may maliit na pangkat",
+            "Sa parada ng hari ng buong Persia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Nehemiah quietly examines the ruins before announcing his plan (Nehemiah 2).",
+          "fil": "Tahimik na sinuri ni Nehemias ang mga guho bago ipahayag ang kanyang plano (Nehemias 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the Jewish leaders respond when he explains the rebuilding plan?",
+          "fil": "Paano tumugon ang mga pinunong Judio nang ipaliwanag niya ang plano sa pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "They ask to rebuild Babel instead",
+            "They agree to begin the work",
+            "They immediately abandon the city"
+          ],
+          "fil": [
+            "Hiniling nilang Babel na lamang ang itayo",
+            "Pumayag silang simulan ang gawain",
+            "Agad nilang iniwan ang lungsod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The leaders take courage and commit themselves to rebuilding (Nehemiah 2).",
+          "fil": "Lumakas ang loob ng mga pinuno at itinalaga nila ang sarili sa muling pagtatayo (Nehemias 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does the chapter's list mainly record?",
+          "fil": "Ano ang pangunahing itinala ng talaan ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "The rulers of Egypt",
+            "The armies invading Babylon",
+            "People repairing different sections of Jerusalem's wall"
+          ],
+          "fil": [
+            "Ang mga pinuno ng Egipto",
+            "Ang mga hukbong sumasalakay sa Babilonia",
+            "Mga taong nagkukumpuni ng iba't ibang bahagi ng pader ng Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The list shows the wall project shared among many groups (Nehemiah 3).",
+          "fil": "Ipinakikita ng talaan ang pakikibahagi ng maraming pangkat sa gawain sa pader (Nehemias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which gate do the priests rebuild at the beginning of the list?",
+          "fil": "Anong pintuan ang muling itinayo ng mga pari sa simula ng talaan?"
+        },
+        "options": {
+          "en": [
+            "The gate of Pharaoh's palace",
+            "The Sheep Gate",
+            "The gate of Nineveh"
+          ],
+          "fil": [
+            "Ang pintuan ng palasyo ni Faraon",
+            "Ang Pintuan ng mga Tupa",
+            "Ang pintuan ng Nineve"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The priests' work at the Sheep Gate opens the repair list (Nehemiah 3).",
+          "fil": "Sinimulan ng gawain ng mga pari sa Pintuan ng mga Tupa ang talaan ng pagkukumpuni (Nehemias 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What memorable detail shows women sharing in the rebuilding?",
+          "fil": "Anong kapansin-pansing detalye ang nagpapakitang tumulong ang mga babae sa pagtatayo?"
+        },
+        "options": {
+          "en": [
+            "Only foreign queens build the wall",
+            "Shallum repairs a section with his daughters",
+            "All women are ordered away from the city"
+          ],
+          "fil": [
+            "Mga dayuhang reyna lamang ang nagtayo ng pader",
+            "Nagkumpuni si Salum ng isang bahagi kasama ang kanyang mga anak na babae",
+            "Pinaalis sa lungsod ang lahat ng babae"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Shallum's daughters are specifically mentioned among those doing repairs (Nehemiah 3).",
+          "fil": "Partikular na binanggit ang mga anak na babae ni Salum sa mga nagkukumpuni (Nehemias 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How do the opponents initially react to the wall rebuilding?",
+          "fil": "Paano unang tumugon ang mga kalaban sa muling pagtatayo ng pader?"
+        },
+        "options": {
+          "en": [
+            "They leave every neighboring land",
+            "They ridicule the workers and their wall",
+            "They give the workers royal honors"
+          ],
+          "fil": [
+            "Nilisan nila ang lahat ng kalapit na lupain",
+            "Kinutya nila ang mga manggagawa at pader",
+            "Binigyan nila ng parangal ng hari ang mga manggagawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opposition begins with scorn intended to discourage the builders (Nehemiah 4).",
+          "fil": "Nagsimula ang paghadlang sa pangungutyang layong magpahina sa mga nagtatayo (Nehemias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the community combine with prayer when threats increase?",
+          "fil": "Ano ang isinabay ng pamayanan sa panalangin nang dumami ang banta?"
+        },
+        "options": {
+          "en": [
+            "Abandoning every tool",
+            "Offering gifts to idols",
+            "Posting a guard"
+          ],
+          "fil": [
+            "Pag-iwan sa bawat kagamitan",
+            "Pagbibigay ng handog sa diyus-diyosan",
+            "Paglalagay ng bantay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The people pray and take practical steps to guard against attack (Nehemiah 4).",
+          "fil": "Nanalangin ang bayan at gumawa ng praktikal na hakbang upang magbantay laban sa pagsalakay (Nehemias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the workers prepare to defend themselves while building?",
+          "fil": "Paano naghanda ang mga manggagawang ipagtanggol ang sarili habang nagtatayo?"
+        },
+        "options": {
+          "en": [
+            "They send every weapon to Babylon",
+            "They keep weapons ready alongside their work",
+            "They refuse all protection"
+          ],
+          "fil": [
+            "Ipinadala nila sa Babilonia ang lahat ng sandata",
+            "Inihanda nila ang mga sandata kasabay ng paggawa",
+            "Tinanggihan nila ang lahat ng proteksiyon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The builders balance construction with readiness to defend the community (Nehemiah 4).",
+          "fil": "Pinagsabay ng mga nagtatayo ang paggawa at kahandaang ipagtanggol ang pamayanan (Nehemias 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What signal is arranged to gather help at a threatened point?",
+          "fil": "Anong hudyat ang itinakda upang tipunin ang tulong sa bahaging nanganganib?"
+        },
+        "options": {
+          "en": [
+            "A royal wedding song",
+            "A feast for Pharaoh",
+            "The sound of a trumpet"
+          ],
+          "fil": [
+            "Awit sa kasal ng hari",
+            "Pista para kay Faraon",
+            "Ang tunog ng trumpeta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The trumpet provides a way to rally people along the spread-out wall (Nehemiah 4).",
+          "fil": "Naglaan ang trumpeta ng paraan upang tipunin ang mga tao sa mahabang pader (Nehemias 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What hardship do poor families report to Nehemiah?",
+          "fil": "Anong hirap ang isinumbong ng mahihirap na pamilya kay Nehemias?"
+        },
+        "options": {
+          "en": [
+            "They have conquered more land than they need",
+            "Debt is costing them land and even their children's freedom",
+            "They have too many royal palaces"
+          ],
+          "fil": [
+            "Nasakop nila ang lupang higit sa kailangan",
+            "Nawawala dahil sa utang ang lupa at maging kalayaan ng kanilang mga anak",
+            "Napakarami nilang palasyo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The families describe desperate borrowing and the loss of livelihood and freedom (Nehemiah 5).",
+          "fil": "Inilarawan ng mga pamilya ang desperadong pangungutang at pagkawala ng kabuhayan at kalayaan (Nehemias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does Nehemiah confront over this injustice?",
+          "fil": "Sino ang hinarap ni Nehemias tungkol sa kawalang-katarungang ito?"
+        },
+        "options": {
+          "en": [
+            "The nobles and officials taking advantage of fellow Jews",
+            "Only the children who ask for food",
+            "Only foreign shepherds"
+          ],
+          "fil": [
+            "Ang mga maharlika at opisyal na nagsasamantala sa kapwa Judio",
+            "Ang mga batang humihingi lamang ng pagkain",
+            "Mga dayuhang pastol lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah rebukes the powerful for burdening their own people (Nehemiah 5).",
+          "fil": "Sinaway ni Nehemias ang makapangyarihan sa pagpapabigat sa sarili nilang bayan (Nehemias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the creditors agree to do?",
+          "fil": "Ano ang sinang-ayunang gawin ng mga nagpautang?"
+        },
+        "options": {
+          "en": [
+            "Destroy all the farmland",
+            "Take more children as payment",
+            "Return property and stop demanding what burdens the people"
+          ],
+          "fil": [
+            "Sirain ang lahat ng sakahan",
+            "Kumuha pa ng mga bata bilang bayad",
+            "Ibalik ang ari-arian at itigil ang mga hinihinging nagpapabigat sa bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The public agreement commits the creditors to restitution and relief (Nehemiah 5).",
+          "fil": "Itinalaga ng hayag na kasunduan ang mga nagpautang sa pagbabalik at pagpapagaan ng pasanin (Nehemias 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Nehemiah avoid taking the governor's food allowance?",
+          "fil": "Bakit umiwas si Nehemias sa pagkuha ng laang pagkain ng gobernador?"
+        },
+        "options": {
+          "en": [
+            "He has forbidden everyone to eat",
+            "He does not want to add to the people's burden",
+            "He plans to become Pharaoh instead"
+          ],
+          "fil": [
+            "Ipinagbawal niya sa lahat ang pagkain",
+            "Ayaw niyang dagdagan ang pasanin ng bayan",
+            "Plano niyang maging Faraon sa halip"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Reverence for God leads Nehemiah to spare the people further expense (Nehemiah 5).",
+          "fil": "Dahil sa paggalang sa Diyos, iniwasan ni Nehemias ang dagdag na gastos para sa bayan (Nehemias 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Why does Nehemiah refuse repeated invitations to meet his opponents away from Jerusalem?",
+          "fil": "Bakit tumanggi si Nehemias sa paulit-ulit na paanyayang makipagkita sa mga kalaban sa labas ng Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "He recognizes a trap and will not abandon the work",
+            "He has no interest in finishing the wall",
+            "He has already moved to Egypt"
+          ],
+          "fil": [
+            "Nakilala niya ang bitag at ayaw niyang iwan ang gawain",
+            "Wala siyang interes na tapusin ang pader",
+            "Lumipat na siya sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah refuses to leave the rebuilding for a dangerous meeting (Nehemiah 6).",
+          "fil": "Tumanggi si Nehemias na iwan ang pagtatayo para sa mapanganib na pagpupulong (Nehemias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false political claim is circulated against him?",
+          "fil": "Anong maling paratang sa pamumuno ang ipinakalat laban sa kanya?"
+        },
+        "options": {
+          "en": [
+            "He wants to abolish Jerusalem",
+            "He has crowned Pharaoh in the temple",
+            "He plans rebellion and wants to be king"
+          ],
+          "fil": [
+            "Nais niyang alisin ang Jerusalem",
+            "Kinoronahan niya si Faraon sa templo",
+            "Balak niyang maghimagsik at maging hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The open letter uses a false charge of rebellion to frighten Nehemiah (Nehemiah 6).",
+          "fil": "Gumamit ang bukas na sulat ng maling paratang ng paghihimagsik upang takutin si Nehemias (Nehemias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Nehemiah reject the advice to hide inside the temple?",
+          "fil": "Bakit tinanggihan ni Nehemias ang payong magtago sa loob ng templo?"
+        },
+        "options": {
+          "en": [
+            "He has promised to worship Baal there",
+            "It would lead him into wrongdoing and discredit him",
+            "The wall has already disappeared"
+          ],
+          "fil": [
+            "Nangako siyang sasamba kay Baal doon",
+            "Aakay ito sa pagkakasala at paninira sa kanya",
+            "Naglaho na ang pader"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Nehemiah recognizes the paid advice as an attempt to make him sin (Nehemiah 6).",
+          "fil": "Kinilala ni Nehemias ang bayarang payo bilang pagtatangkang akayin siya sa kasalanan (Nehemias 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the surrounding enemies realize when the wall is finished?",
+          "fil": "Ano ang naunawaan ng mga kaaway sa paligid nang matapos ang pader?"
+        },
+        "options": {
+          "en": [
+            "God has helped accomplish the work",
+            "Persia has ceased to exist",
+            "The wall was never actually built"
+          ],
+          "fil": [
+            "Tumulong ang Diyos sa pagtatapos ng gawain",
+            "Nawala na ang Persia",
+            "Hindi pala naitayo ang pader"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The completion causes the opponents to recognize God's help (Nehemiah 6).",
+          "fil": "Dahil sa pagtatapos, kinilala ng mga kalaban ang tulong ng Diyos (Nehemias 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What earlier record does Nehemiah find when organizing the people?",
+          "fil": "Anong naunang talaan ang nakita ni Nehemias sa pag-aayos ng bayan?"
+        },
+        "options": {
+          "en": [
+            "The genealogy of those who first returned from exile",
+            "Pharaoh's battle plans",
+            "The builders' record from Babel"
+          ],
+          "fil": [
+            "Ang talaan ng angkan ng mga unang nagbalik mula sa pagkakatapon",
+            "Ang mga plano ni Faraon sa labanan",
+            "Ang talaan ng mga nagtayo sa Babel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah uses the earlier returnee register to identify the community (Nehemiah 7).",
+          "fil": "Ginamit ni Nehemias ang naunang talaan ng mga nagbalik upang kilalanin ang pamayanan (Nehemias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which groups in the list are connected with organized worship?",
+          "fil": "Anong mga pangkat sa talaan ang kaugnay ng maayos na pagsamba?"
+        },
+        "options": {
+          "en": [
+            "Priests, Levites, singers, and gatekeepers",
+            "Only the kings of Egypt",
+            "Only foreign military officers"
+          ],
+          "fil": [
+            "Mga pari, Levita, mang-aawit, at bantay-pinto",
+            "Mga hari lamang ng Egipto",
+            "Mga dayuhang opisyal lamang ng hukbo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The register includes families entrusted with temple duties (Nehemiah 7).",
+          "fil": "Kasama sa talaan ang mga pamilyang pinagkatiwalaan ng tungkulin sa templo (Nehemias 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do some leaders and families contribute near the end of the register?",
+          "fil": "Ano ang iniambag ng ilang pinuno at pamilya malapit sa hulihan ng talaan?"
+        },
+        "options": {
+          "en": [
+            "Weapons for an attack on Persia",
+            "Statues of foreign gods",
+            "Gifts for the work and worship"
+          ],
+          "fil": [
+            "Mga sandata para sa pagsalakay sa Persia",
+            "Mga rebulto ng mga dayuhang diyos",
+            "Mga handog para sa gawain at pagsamba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The account records voluntary resources contributed by the community (Nehemiah 7).",
+          "fil": "Itinala ng salaysay ang mga kusang-loob na ambag ng pamayanan (Nehemias 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Who reads the book of the law to the assembled people?",
+          "fil": "Sino ang bumasa ng aklat ng kautusan sa nagkatipong bayan?"
+        },
+        "options": {
+          "en": [
+            "Sanballat",
+            "Ezra",
+            "Tobiah"
+          ],
+          "fil": [
+            "Si Sanbalat",
+            "Si Ezra",
+            "Si Tobias"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Ezra reads God's law before the gathered community (Nehemiah 8).",
+          "fil": "Binasa ni Ezra ang kautusan ng Diyos sa nagkatipong pamayanan (Nehemias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the Levites help the listeners?",
+          "fil": "Paano tinulungan ng mga Levita ang mga nakikinig?"
+        },
+        "options": {
+          "en": [
+            "They explain the reading so the people understand",
+            "They hide the book",
+            "They forbid the children to listen"
+          ],
+          "fil": [
+            "Ipinaliwanag nila ang binasa upang maunawaan ng bayan",
+            "Itinago nila ang aklat",
+            "Pinagbawalan nilang makinig ang mga bata"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Levites help the people grasp the meaning of the law (Nehemiah 8).",
+          "fil": "Tinulungan ng mga Levita ang bayan na maunawaan ang kahulugan ng kautusan (Nehemias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What are the people encouraged to do instead of continuing to weep that holy day?",
+          "fil": "Ano ang hinimok na gawin ng bayan sa halip na patuloy na umiyak sa banal na araw na iyon?"
+        },
+        "options": {
+          "en": [
+            "Stop listening to God's law forever",
+            "Refuse food to every stranger",
+            "Rejoice and share food with those without provisions"
+          ],
+          "fil": [
+            "Tumigil sa pakikinig sa kautusan ng Diyos habambuhay",
+            "Ipagkait ang pagkain sa bawat dayuhan",
+            "Magsaya at magbahagi ng pagkain sa walang naihanda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The leaders direct the people toward holy joy and generosity (Nehemiah 8).",
+          "fil": "Inakay ng mga pinuno ang bayan sa banal na kagalakan at pagbibigayan (Nehemias 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which festival do the people observe after learning its instructions?",
+          "fil": "Anong pista ang ipinagdiwang ng bayan matapos malaman ang mga tagubilin dito?"
+        },
+        "options": {
+          "en": [
+            "A festival for Baal",
+            "The Festival of Shelters",
+            "Pharaoh's coronation feast"
+          ],
+          "fil": [
+            "Pista para kay Baal",
+            "Ang Pista ng mga Kubol",
+            "Handaan sa pagluklok kay Faraon"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people make shelters and celebrate the appointed festival (Nehemiah 8).",
+          "fil": "Gumawa ng mga kubol ang bayan at ipinagdiwang ang itinakdang pista (Nehemias 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What does the long prayer recall about God's dealings with Israel?",
+          "fil": "Ano ang inalala ng mahabang panalangin tungkol sa pakikitungo ng Diyos sa Israel?"
+        },
+        "options": {
+          "en": [
+            "His creation, covenant, rescue, and faithful care",
+            "His command to worship Pharaoh",
+            "His complete absence from their history"
+          ],
+          "fil": [
+            "Ang kanyang paglikha, tipan, pagliligtas, at tapat na pangangalaga",
+            "Ang kanyang utos na sambahin si Faraon",
+            "Ang lubusang pagkawala niya sa kanilang kasaysayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer recounts God's goodness across Israel's history (Nehemiah 9).",
+          "fil": "Isinalaysay ng panalangin ang kabutihan ng Diyos sa kasaysayan ng Israel (Nehemias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What repeated contrast appears between God and the ancestors?",
+          "fil": "Anong paulit-ulit na paghahambing ang lumitaw sa Diyos at mga ninuno?"
+        },
+        "options": {
+          "en": [
+            "Both encourage idol worship",
+            "The people rebel, but God remains patient and merciful",
+            "The people are always perfect while God forgets them"
+          ],
+          "fil": [
+            "Kapwa nila hinihikayat ang pagsamba sa diyus-diyosan",
+            "Naghihimagsik ang bayan, ngunit nananatiling matiisin at maawain ang Diyos",
+            "Laging ganap ang bayan habang nililimot sila ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer admits repeated disobedience while praising God's compassion (Nehemiah 9).",
+          "fil": "Inamin ng panalangin ang paulit-ulit na pagsuway habang pinupuri ang habag ng Diyos (Nehemias 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What present hardship do the people acknowledge despite being in their land?",
+          "fil": "Anong kasalukuyang hirap ang kinilala ng bayan kahit nasa kanilang lupain?"
+        },
+        "options": {
+          "en": [
+            "They have never returned from exile",
+            "They have no memory of their ancestors",
+            "They remain subject to foreign kings"
+          ],
+          "fil": [
+            "Hindi sila kailanman nagbalik mula sa pagkakatapon",
+            "Wala silang alaala ng mga ninuno",
+            "Nananatili silang sakop ng mga dayuhang hari"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer recognizes continuing subjection and distress in the land (Nehemiah 9).",
+          "fil": "Kinilala ng panalangin ang patuloy na pagkakasakop at hirap sa lupain (Nehemias 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What does the list of named leaders introduce?",
+          "fil": "Ano ang ipinakilala ng talaan ng mga pinangalanang pinuno?"
+        },
+        "options": {
+          "en": [
+            "A new alliance to worship foreign idols",
+            "A renewed commitment to God's covenant",
+            "A plan to abandon Jerusalem"
+          ],
+          "fil": [
+            "Bagong alyansang sasamba sa dayuhang diyus-diyosan",
+            "Muling pagtalaga sa tipan ng Diyos",
+            "Plano na iwan ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The named representatives seal the community's renewed covenant commitment (Nehemiah 10).",
+          "fil": "Pinagtibay ng mga pinangalanang kinatawan ang muling pagtalaga ng pamayanan sa tipan (Nehemias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the people promise concerning the Sabbath?",
+          "fil": "Ano ang ipinangako ng bayan tungkol sa Araw ng Pamamahinga?"
+        },
+        "options": {
+          "en": [
+            "To hold every trading fair on it",
+            "To replace it with a feast for Pharaoh",
+            "Not to treat it as an ordinary market day"
+          ],
+          "fil": [
+            "Idaos dito ang bawat kalakalan",
+            "Palitan ito ng pista para kay Faraon",
+            "Huwag itong ituring na karaniwang araw ng pamilihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The covenant commitments include guarding Sabbath rest from ordinary commerce (Nehemiah 10).",
+          "fil": "Kasama sa mga pangako sa tipan ang pangangalaga sa Araw ng Pamamahinga laban sa karaniwang kalakalan (Nehemias 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility do the people accept for God's house?",
+          "fil": "Anong pananagutan ang tinanggap ng bayan para sa bahay ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Provide offerings and support its service",
+            "Leave it without supplies forever",
+            "Sell it to foreign kings"
+          ],
+          "fil": [
+            "Maglaan ng mga handog at suportahan ang paglilingkod dito",
+            "Iwan itong walang panustos habambuhay",
+            "Ipagbili ito sa mga dayuhang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The commitments provide for the continuing worship and care of the temple (Nehemiah 10).",
+          "fil": "Naglaan ang mga pangako para sa patuloy na pagsamba at pangangalaga sa templo (Nehemias 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "What arrangement helps increase Jerusalem's population?",
+          "fil": "Anong kaayusan ang nakatulong upang dumami ang mga naninirahan sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Moving every family to Egypt",
+            "Choosing people by lot to settle there",
+            "Closing every city gate permanently"
+          ],
+          "fil": [
+            "Paglilipat sa bawat pamilya sa Egipto",
+            "Pagpili sa pamamagitan ng palabunutan ng mga maninirahan doon",
+            "Permanenteng pagsasara sa bawat pintuan ng lungsod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The people use lots to arrange additional residents for Jerusalem (Nehemiah 11).",
+          "fil": "Gumamit ng palabunutan ang bayan upang magtalaga ng dagdag na maninirahan sa Jerusalem (Nehemias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are those who willingly settle in Jerusalem regarded?",
+          "fil": "Paano itinuring ang kusang nanirahan sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "They are forbidden to worship",
+            "They are declared enemies",
+            "The people bless them"
+          ],
+          "fil": [
+            "Pinagbawalan silang sumamba",
+            "Itinuring silang mga kaaway",
+            "Binasbasan sila ng bayan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The community honors volunteers who make their home in the city (Nehemiah 11).",
+          "fil": "Pinarangalan ng pamayanan ang mga kusang nanirahan sa lungsod (Nehemias 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter record besides Jerusalem's residents?",
+          "fil": "Ano ang itinala ng kabanata bukod sa mga naninirahan sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "The kings of Nineveh",
+            "Settlements of the people in surrounding towns",
+            "The navies of Egypt"
+          ],
+          "fil": [
+            "Ang mga hari ng Nineve",
+            "Mga pamayanan ng bayan sa mga nakapaligid na bayan",
+            "Ang mga hukbong-dagat ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The lists locate the restored community both in Jerusalem and beyond it (Nehemiah 11).",
+          "fil": "Ipinakikita ng mga talaan ang naibalik na pamayanan sa Jerusalem at sa labas nito (Nehemias 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "What worship leaders are traced in the opening lists?",
+          "fil": "Anong mga pinuno sa pagsamba ang sinundan ng mga unang talaan?"
+        },
+        "options": {
+          "en": [
+            "Egyptian generals",
+            "Priests and Levites",
+            "The kings of Moab"
+          ],
+          "fil": [
+            "Mga heneral ng Egipto",
+            "Mga pari at Levita",
+            "Ang mga hari ng Moab"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The lists preserve the continuity of priestly and Levite service (Nehemiah 12).",
+          "fil": "Iningatan ng mga talaan ang pagpapatuloy ng paglilingkod ng mga pari at Levita (Nehemias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What memorable feature marks the wall's dedication?",
+          "fil": "Anong kapansin-pansing bahagi ang tanda ng pagtatalaga sa pader?"
+        },
+        "options": {
+          "en": [
+            "The people destroy the gates again",
+            "Foreign idols are placed on every tower",
+            "Thanksgiving choirs process along the wall"
+          ],
+          "fil": [
+            "Muling sinira ng bayan ang mga pintuan",
+            "Inilagay ang mga dayuhang diyus-diyosan sa bawat tore",
+            "Naglakad sa pader ang mga koro ng pasasalamat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The dedication includes organized processions of praise and thanksgiving (Nehemiah 12).",
+          "fil": "Kasama sa pagtatalaga ang maayos na paglalakad na may papuri at pasasalamat (Nehemias 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who shares in the celebration's great joy?",
+          "fil": "Sino ang nakibahagi sa malaking kagalakan ng pagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "The community, including women and children",
+            "Only foreign ambassadors",
+            "Only the richest officials"
+          ],
+          "fil": [
+            "Ang pamayanan, pati mga babae at bata",
+            "Mga dayuhang sugo lamang",
+            "Pinakamayayamang opisyal lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God gives the whole community joy that can be heard far away (Nehemiah 12).",
+          "fil": "Binigyan ng Diyos ang buong pamayanan ng kagalakang narinig sa malayo (Nehemias 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What does Nehemiah remove from the temple room improperly given to Tobiah?",
+          "fil": "Ano ang inalis ni Nehemias sa silid ng templo na maling ibinigay kay Tobias?"
+        },
+        "options": {
+          "en": [
+            "Tobiah's household belongings",
+            "The whole city wall",
+            "The tablets Moses broke"
+          ],
+          "fil": [
+            "Mga gamit ng sambahayan ni Tobias",
+            "Ang buong pader ng lungsod",
+            "Ang mga tapyas na binasag ni Moises"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Nehemiah clears the room so it can return to its sacred purpose (Nehemiah 13).",
+          "fil": "Nilinis ni Nehemias ang silid upang maibalik ito sa banal na layunin (Nehemias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why have the Levites and singers gone back to their fields?",
+          "fil": "Bakit bumalik sa kanilang mga bukid ang mga Levita at mang-aawit?"
+        },
+        "options": {
+          "en": [
+            "They have become kings of Persia",
+            "All temple service has been permanently forbidden by God",
+            "Their assigned support has not been provided"
+          ],
+          "fil": [
+            "Naging mga hari sila ng Persia",
+            "Permanenteng ipinagbawal ng Diyos ang lahat ng paglilingkod sa templo",
+            "Hindi naibigay ang nakalaang suporta sa kanila"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Neglected support forces the temple servants to seek their livelihood elsewhere (Nehemiah 13).",
+          "fil": "Dahil sa napabayaang suporta, napilitang humanap ng kabuhayan sa iba ang mga naglilingkod sa templo (Nehemias 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What quality guides Nehemiah's appointment of people over the storerooms?",
+          "fil": "Anong katangian ang batayan ni Nehemias sa pagtatalaga sa mga mamamahala sa mga imbakan?"
+        },
+        "options": {
+          "en": [
+            "They are considered trustworthy",
+            "They demand the largest bribes",
+            "They promise to support Tobiah's private room"
+          ],
+          "fil": [
+            "Itinuturing silang mapagkakatiwalaan",
+            "Humihingi sila ng pinakamalaking suhol",
+            "Nangangako silang susuporta sa pansariling silid ni Tobias"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Trustworthy supervisors are appointed to distribute the provisions fairly (Nehemiah 13).",
+          "fil": "Itinalaga ang mga mapagkakatiwalaang tagapangasiwa upang maayos na maipamahagi ang mga panustos (Nehemias 13)."
+        }
+      }
+    ]
+  }
+}
