@@ -1,0 +1,288 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What disaster has devastated the land?",
+          "fil": "Anong sakuna ang sumira sa lupain?"
+        },
+        "options": {
+          "en": [
+            "A fleet has burned every fishing boat",
+            "Snow has covered every vineyard",
+            "Swarms of locusts have consumed the crops"
+          ],
+          "fil": [
+            "Sinunog ng isang hukbong-dagat ang lahat ng bangkang pangisda",
+            "Tinakpan ng niyebe ang lahat ng ubasan",
+            "Kinain ng mga balang ang mga pananim"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The ruined harvest calls the whole community to recognize its distress (Joel 1).",
+          "fil": "Tinawag ng nasirang ani ang buong pamayanan na kilalanin ang kanilang paghihirap (Joel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the ruined harvest affect worship at God's house?",
+          "fil": "Paano naapektuhan ng nasirang ani ang pagsamba sa bahay ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Grain and wine offerings are cut off",
+            "The priests receive unlimited food",
+            "The temple becomes a royal palace"
+          ],
+          "fil": [
+            "Naubos ang mga handog na butil at alak",
+            "Tumanggap ang mga pari ng walang hanggang pagkain",
+            "Naging palasyo ng hari ang Templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The agricultural disaster reaches even the community's offerings (Joel 1).",
+          "fil": "Naapektuhan ng sakuna sa mga pananim maging ang mga handog ng pamayanan (Joel 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does Joel call the people to make?",
+          "fil": "Anong tugon ang hinihingi ni Joel sa bayan?"
+        },
+        "options": {
+          "en": [
+            "Celebrate the destruction of the fields",
+            "Ask Baal to replace the Lord",
+            "Gather for fasting and cry out to the Lord"
+          ],
+          "fil": [
+            "Ipagdiwang ang pagkasira ng mga bukid",
+            "Hilinging palitan ni Baal ang Panginoon",
+            "Magtipon para mag-ayuno at dumaing sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prophet calls for shared prayer in the face of disaster (Joel 1).",
+          "fil": "Nanawagan ang propeta ng sama-samang panalangin sa harap ng sakuna (Joel 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What does the trumpet alarm announce?",
+          "fil": "Ano ang ipinahahayag ng babala ng trumpeta?"
+        },
+        "options": {
+          "en": [
+            "A royal wedding in Egypt",
+            "The end of all need for repentance",
+            "The approaching day of the Lord"
+          ],
+          "fil": [
+            "Isang kasal ng hari sa Egipto",
+            "Ang wakas ng lahat ng pangangailangang magsisi",
+            "Ang papalapit na araw ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The alarm urges the people to take the coming crisis seriously (Joel 2).",
+          "fil": "Hinimok ng babala ang bayan na seryosohin ang darating na krisis (Joel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of return to God is requested?",
+          "fil": "Anong uri ng pagbabalik sa Diyos ang hinihingi?"
+        },
+        "options": {
+          "en": [
+            "A promise to worship more idols",
+            "A sincere return from the heart",
+            "Only an outward display without change"
+          ],
+          "fil": [
+            "Pangakong sasamba sa mas maraming diyus-diyosan",
+            "Tapat na pagbabalik mula sa puso",
+            "Panlabas na pagpapakitang walang pagbabago"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God calls for inward repentance rather than empty gestures (Joel 2).",
+          "fil": "Nanawagan ang Diyos ng panloob na pagsisisi sa halip na walang saysay na pagpapakita (Joel 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What restoration does God promise after the locust devastation?",
+          "fil": "Anong pagpapanumbalik ang ipinangako ng Diyos matapos ang pananalanta ng balang?"
+        },
+        "options": {
+          "en": [
+            "The permanent loss of every field",
+            "Renewed harvests and enough food",
+            "A command never to plant again"
+          ],
+          "fil": [
+            "Permanenteng pagkawala ng bawat bukid",
+            "Muling pag-ani at sapat na pagkain",
+            "Utos na huwag nang magtanim kailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise of renewed abundance answers the people's hunger and shame (Joel 2).",
+          "fil": "Tinugunan ng pangako ng muling kasaganaan ang gutom at kahihiyan ng bayan (Joel 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does God promise to pour out on people?",
+          "fil": "Ano ang ipinangako ng Diyos na ibubuhos sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "The wealth of Pharaoh's tomb",
+            "His Spirit",
+            "A new collection of idols"
+          ],
+          "fil": [
+            "Ang yaman ng libingan ni Faraon",
+            "Ang kanyang Espiritu",
+            "Bagong pangkat ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise describes a generous sharing of God's Spirit (Joel 3).",
+          "fil": "Inilarawan ng pangako ang masaganang pagbibigay ng Espiritu ng Diyos (Joel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is included in the promise of prophecy, dreams, and visions?",
+          "fil": "Sino ang kasama sa pangako ng propesiya, panaginip, at pangitain?"
+        },
+        "options": {
+          "en": [
+            "Only wealthy men in Jerusalem",
+            "People of different ages and both men and women, including servants",
+            "Only kings who own armies"
+          ],
+          "fil": [
+            "Mayayamang lalaki lamang sa Jerusalem",
+            "Mga taong may iba't ibang edad at kapwa lalaki at babae, kasama ang mga alipin",
+            "Mga hari lamang na may hukbo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The promise reaches beyond a single age or social rank (Joel 3).",
+          "fil": "Lumampas ang pangako sa iisang edad o katayuan sa lipunan (Joel 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter direct people to seek deliverance?",
+          "fil": "Paano itinuro ng kabanata na humingi ng pagliligtas?"
+        },
+        "options": {
+          "en": [
+            "By buying a place in heaven",
+            "By calling on the Lord",
+            "By trusting carved images"
+          ],
+          "fil": [
+            "Sa pagbili ng lugar sa langit",
+            "Sa pagtawag sa Panginoon",
+            "Sa pagtitiwala sa mga inukit na larawan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warning about the Lord's day is joined with hope for those who call on him (Joel 3).",
+          "fil": "Kasama sa babala tungkol sa araw ng Panginoon ang pag-asa para sa mga tumatawag sa kanya (Joel 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why are the nations gathered for judgment?",
+          "fil": "Bakit tinipon ang mga bansa para sa paghatol?"
+        },
+        "options": {
+          "en": [
+            "They refused to steal the temple's treasures",
+            "They scattered God's people and mistreated them",
+            "They cared too much for the helpless"
+          ],
+          "fil": [
+            "Tumanggi silang nakawin ang kayamanan ng Templo",
+            "Ikinalat nila ang bayan ng Diyos at inabuso sila",
+            "Labis silang nagmalasakit sa walang magawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God's judgment answers the harm done to his people (Joel 4).",
+          "fil": "Tinugunan ng hatol ng Diyos ang pananakit sa kanyang bayan (Joel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the Lord pictured for his people while the nations face judgment?",
+          "fil": "Paano inilarawan ang Panginoon para sa kanyang bayan habang hinahatulan ang mga bansa?"
+        },
+        "options": {
+          "en": [
+            "A ruler who has forgotten them",
+            "An idol made of clay",
+            "A refuge and stronghold"
+          ],
+          "fil": [
+            "Pinunong nakalimot sa kanila",
+            "Diyus-diyosang gawa sa luwad",
+            "Kanlungan at tanggulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Lord provides protection amid the upheaval of judgment (Joel 4).",
+          "fil": "Nagbigay ng proteksiyon ang Panginoon sa gitna ng kaguluhan ng paghatol (Joel 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image of water comes from the Lord's house in the restored land?",
+          "fil": "Anong larawan ng tubig ang nagmula sa bahay ng Panginoon sa ibinalik na lupain?"
+        },
+        "options": {
+          "en": [
+            "A spring flowing out to water the valley",
+            "A river carrying away the temple forever",
+            "A sea of salt destroying every field"
+          ],
+          "fil": [
+            "Bukal na umaagos upang patubigan ang lambak",
+            "Ilog na tumatangay sa Templo magpakailanman",
+            "Dagat na maalat na sumisira sa bawat bukid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The flowing spring pictures renewed life and blessing (Joel 4).",
+          "fil": "Inilarawan ng umaagos na bukal ang panibagong buhay at pagpapala (Joel 4)."
+        }
+      }
+    ]
+  }
+}
