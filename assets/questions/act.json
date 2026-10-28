@@ -1,0 +1,1992 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What happens to Jesus while the apostles watch?",
+          "fil": "Ano ang nangyari kay Jesus habang nakatingin ang mga apostol?"
+        },
+        "options": {
+          "en": [
+            "He is taken up into heaven",
+            "He is crowned king in Rome",
+            "He sails to Egypt"
+          ],
+          "fil": [
+            "Iniakyat siya sa langit",
+            "Kinoronahan siyang hari sa Roma",
+            "Naglayag siya sa Egipto"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The apostles witness Jesus being taken up and hidden by a cloud (Acts 1).",
+          "fil": "Nasaksihan ng mga apostol ang pag-akyat ni Jesus at pagkatakip sa kanya ng ulap (Mga Gawa 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What will empower the disciples to be Jesus' witnesses?",
+          "fil": "Ano ang magbibigay ng kapangyarihan sa mga alagad upang maging mga saksi ni Jesus?"
+        },
+        "options": {
+          "en": [
+            "Money from the emperor",
+            "The coming of the Holy Spirit",
+            "An army from Jerusalem"
+          ],
+          "fil": [
+            "Pera mula sa emperador",
+            "Ang pagdating ng Banal na Espiritu",
+            "Isang hukbo mula sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Jesus promises the Holy Spirit's power for their witness from Jerusalem to the ends of the earth (Acts 1).",
+          "fil": "Ipinangako ni Jesus ang kapangyarihan ng Banal na Espiritu para sa kanilang pagsaksi mula Jerusalem hanggang sa dulo ng mundo (Mga Gawa 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is chosen to take Judas' place among the apostles?",
+          "fil": "Sino ang napili upang pumalit kay Judas sa mga apostol?"
+        },
+        "options": {
+          "en": [
+            "Stephen",
+            "Apollos",
+            "Matthias"
+          ],
+          "fil": [
+            "Si Esteban",
+            "Si Apolos",
+            "Si Matias"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "After prayer and casting lots, Matthias is chosen to join the eleven apostles (Acts 1).",
+          "fil": "Pagkatapos ng panalangin at pagpapalabunutan, napili si Matias na sumama sa labing-isang apostol (Mga Gawa 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What amazes the crowd when the Spirit fills the believers at Pentecost?",
+          "fil": "Ano ang ikinamangha ng mga tao nang mapuspos ng Espiritu ang mga mananampalataya sa Pentecostes?"
+        },
+        "options": {
+          "en": [
+            "The temple turns into gold",
+            "They hear God's mighty works in their own languages",
+            "Every person suddenly becomes a soldier"
+          ],
+          "fil": [
+            "Naging ginto ang templo",
+            "Narinig nila ang mga dakilang gawa ng Diyos sa sarili nilang mga wika",
+            "Biglang naging sundalo ang bawat tao"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "People from many places hear the Spirit-filled believers speaking in their own languages (Acts 2).",
+          "fil": "Narinig ng mga taong mula sa maraming lugar ang mga mananampalatayang puspos ng Espiritu sa sarili nilang mga wika (Mga Gawa 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does Peter urge when listeners ask what to do?",
+          "fil": "Anong tugon ang hinimok ni Pedro nang itanong ng mga nakikinig kung ano ang gagawin?"
+        },
+        "options": {
+          "en": [
+            "Pay for a place among the apostles",
+            "Leave Jerusalem without listening further",
+            "Repent and be baptized in Jesus Christ's name"
+          ],
+          "fil": [
+            "Magbayad para sa lugar sa mga apostol",
+            "Umalis sa Jerusalem nang hindi na nakikinig",
+            "Magsisi at magpabautismo sa pangalan ni Jesu-Cristo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter calls the listeners to repentance and baptism in Jesus' name (Acts 2).",
+          "fil": "Tinawag ni Pedro ang mga nakikinig sa pagsisisi at bautismo sa pangalan ni Jesus (Mga Gawa 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the new believers care for those in need?",
+          "fil": "Paano inalagaan ng mga bagong mananampalataya ang mga nangangailangan?"
+        },
+        "options": {
+          "en": [
+            "They share possessions and distribute resources",
+            "They refuse to eat together",
+            "They reserve all help for the wealthy"
+          ],
+          "fil": [
+            "Ibinahagi nila ang mga ari-arian at ipinamahagi ang mga yaman",
+            "Tumanggi silang kumain nang magkakasama",
+            "Inilaan nila ang lahat ng tulong sa mayayaman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The believers share their goods so that members' needs are met (Acts 2).",
+          "fil": "Ibinahagi ng mga mananampalataya ang kanilang mga pag-aari upang matugunan ang pangangailangan ng mga kasapi (Mga Gawa 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "What does the man at the temple gate receive instead of money?",
+          "fil": "Ano ang natanggap ng lalaki sa pintuan ng templo sa halip na pera?"
+        },
+        "options": {
+          "en": [
+            "A position in the Roman army",
+            "A boat for fishing",
+            "Healing that enables him to walk"
+          ],
+          "fil": [
+            "Posisyon sa hukbo ng Roma",
+            "Bangka para sa pangingisda",
+            "Pagpapagaling na nagbigay sa kanya ng kakayahang lumakad"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The man who could not walk is healed and enters the temple praising God (Acts 3).",
+          "fil": "Gumaling ang lalaking hindi makalakad at pumasok sa templo na nagpupuri sa Diyos (Mga Gawa 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose power does Peter credit for the man's healing?",
+          "fil": "Kaninong kapangyarihan ang kinilala ni Pedro sa paggaling ng lalaki?"
+        },
+        "options": {
+          "en": [
+            "Jesus' power through faith in his name",
+            "Peter's own special holiness",
+            "The governor's authority"
+          ],
+          "fil": [
+            "Kapangyarihan ni Jesus sa pamamagitan ng pananampalataya sa kanyang pangalan",
+            "Sariling natatanging kabanalan ni Pedro",
+            "Awtoridad ng gobernador"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Peter says the healing came through Jesus, not the apostles' own power or godliness (Acts 3).",
+          "fil": "Sinabi ni Pedro na mula kay Jesus ang paggaling at hindi sa sariling kapangyarihan o kabanalan ng mga apostol (Mga Gawa 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Peter urge the crowd to do after explaining about Jesus?",
+          "fil": "Ano ang hinimok ni Pedro na gawin ng mga tao matapos ipaliwanag ang tungkol kay Jesus?"
+        },
+        "options": {
+          "en": [
+            "Stop listening to the prophets",
+            "Repent and turn back to God",
+            "Worship Peter as a god"
+          ],
+          "fil": [
+            "Tumigil sa pakikinig sa mga propeta",
+            "Magsisi at manumbalik sa Diyos",
+            "Sambahin si Pedro bilang diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter calls the people to return to God so their sins may be wiped away (Acts 3).",
+          "fil": "Tinawag ni Pedro ang mga tao na manumbalik sa Diyos upang mapawi ang kanilang mga kasalanan (Mga Gawa 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Why are Peter and John arrested after speaking at the temple?",
+          "fil": "Bakit dinakip sina Pedro at Juan matapos magsalita sa templo?"
+        },
+        "options": {
+          "en": [
+            "They teach the people about resurrection through Jesus",
+            "They steal the temple's silver",
+            "They attack the Roman governor"
+          ],
+          "fil": [
+            "Itinuturo nila sa mga tao ang muling pagkabuhay sa pamamagitan ni Jesus",
+            "Ninakaw nila ang pilak ng templo",
+            "Sinalakay nila ang gobernador ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The authorities object to their teaching and proclamation of resurrection in Jesus (Acts 4).",
+          "fil": "Tinutulan ng mga namumuno ang kanilang pagtuturo at pagpapahayag ng muling pagkabuhay kay Jesus (Mga Gawa 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the believers ask God for after the apostles are threatened?",
+          "fil": "Ano ang hiniling ng mga mananampalataya sa Diyos matapos pagbantaan ang mga apostol?"
+        },
+        "options": {
+          "en": [
+            "Permission to abandon their faith",
+            "Boldness to continue speaking his message",
+            "An army to overthrow Jerusalem"
+          ],
+          "fil": [
+            "Pahintulot na talikuran ang kanilang pananampalataya",
+            "Lakas ng loob na magpatuloy sa pagpapahayag ng kanyang mensahe",
+            "Hukbong magpapabagsak sa Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The believers pray for boldness, and the place shakes as they are filled with the Holy Spirit (Acts 4).",
+          "fil": "Nanalangin ang mga mananampalataya para sa lakas ng loob, at nayanig ang lugar habang napuspos sila ng Banal na Espiritu (Mga Gawa 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Barnabas do to support the community?",
+          "fil": "Ano ang ginawa ni Bernabe upang suportahan ang komunidad?"
+        },
+        "options": {
+          "en": [
+            "Collects taxes for Caesar",
+            "Purchases a crown for Peter",
+            "Sells a field and brings the money to the apostles"
+          ],
+          "fil": [
+            "Nangolekta ng buwis para kay Cesar",
+            "Bumili ng korona para kay Pedro",
+            "Nagbenta ng bukid at dinala ang pera sa mga apostol"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Barnabas sells a field and places the proceeds at the apostles' disposal (Acts 4).",
+          "fil": "Nagbenta si Bernabe ng bukid at ipinagkatiwala ang napagbilhan sa mga apostol (Mga Gawa 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What wrongdoing do Ananias and Sapphira commit about their land sale?",
+          "fil": "Anong kasamaan ang ginawa nina Ananias at Safira tungkol sa pagbebenta ng kanilang lupa?"
+        },
+        "options": {
+          "en": [
+            "They give money to hungry families",
+            "They lie about the amount they bring",
+            "They refuse an order to sell every possession"
+          ],
+          "fil": [
+            "Nagbigay sila ng pera sa nagugutom na mga pamilya",
+            "Nagsinungaling sila tungkol sa halagang dinala nila",
+            "Tumanggi sila sa utos na ibenta ang lahat ng pag-aari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their offense is deception about the proceeds, not a requirement to surrender all property (Acts 5).",
+          "fil": "Ang kanilang kasalanan ay panlilinlang tungkol sa napagbilhan at hindi paglabag sa utos na isuko ang lahat ng pag-aari (Mga Gawa 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who frees the apostles from prison during the night?",
+          "fil": "Sino ang nagpalaya sa mga apostol mula sa bilangguan sa gabi?"
+        },
+        "options": {
+          "en": [
+            "The high priest",
+            "A Roman emperor",
+            "An angel of the Lord"
+          ],
+          "fil": [
+            "Ang pinakapunong pari",
+            "Isang emperador ng Roma",
+            "Isang anghel ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "An angel opens the prison and tells the apostles to continue teaching at the temple (Acts 5).",
+          "fil": "Binuksan ng anghel ang bilangguan at sinabihan ang mga apostol na magpatuloy sa pagtuturo sa templo (Mga Gawa 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What advice does Gamaliel give the council about the apostles?",
+          "fil": "Anong payo ang ibinigay ni Gamaliel sa kapulungan tungkol sa mga apostol?"
+        },
+        "options": {
+          "en": [
+            "Leave them alone, since a work from God cannot be stopped",
+            "Crown them as rulers of Jerusalem",
+            "Force everyone to stop praying"
+          ],
+          "fil": [
+            "Pabayaan sila dahil hindi mapipigil ang gawa mula sa Diyos",
+            "Koronahan silang mga pinuno ng Jerusalem",
+            "Pilitin ang lahat na tumigil sa pananalangin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gamaliel warns that opposing a work from God could mean fighting against God (Acts 5).",
+          "fil": "Nagbabala si Gamaliel na ang pagsalungat sa gawa mula sa Diyos ay maaaring pakikipaglaban sa Diyos (Mga Gawa 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "What complaint arises about the daily distribution of food?",
+          "fil": "Anong reklamo ang lumitaw tungkol sa araw-araw na pamamahagi ng pagkain?"
+        },
+        "options": {
+          "en": [
+            "The apostles demand luxury meals",
+            "Every widow has refused help",
+            "Greek-speaking widows are being overlooked"
+          ],
+          "fil": [
+            "Humihingi ang mga apostol ng marangyang pagkain",
+            "Tumanggi sa tulong ang bawat biyuda",
+            "Napapabayaan ang mga biyudang nagsasalita ng Griego"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Greek-speaking believers complain that their widows are neglected in the daily distribution (Acts 6).",
+          "fil": "Nagreklamo ang mga mananampalatayang nagsasalita ng Griego na napapabayaan ang kanilang mga biyuda sa araw-araw na pamamahagi (Mga Gawa 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are seven qualified men appointed to handle this need?",
+          "fil": "Bakit nagtalaga ng pitong angkop na lalaki upang tugunan ang pangangailangang ito?"
+        },
+        "options": {
+          "en": [
+            "So the apostles can focus on prayer and the ministry of the word",
+            "So all preaching can be stopped",
+            "So the poor can be removed from the community"
+          ],
+          "fil": [
+            "Upang makatuon ang mga apostol sa panalangin at paglilingkod sa salita",
+            "Upang maitigil ang lahat ng pangangaral",
+            "Upang maalis ang mahihirap sa komunidad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The appointment provides practical care while the apostles devote themselves to prayer and teaching (Acts 6).",
+          "fil": "Nagbigay ng praktikal na pangangalaga ang pagtatalaga habang nakatuon ang mga apostol sa panalangin at pagtuturo (Mga Gawa 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What false accusation is brought against Stephen?",
+          "fil": "Anong maling paratang ang iniharap laban kay Esteban?"
+        },
+        "options": {
+          "en": [
+            "Organizing a Roman military attack",
+            "Speaking against the holy place and the law",
+            "Stealing the governor's horses"
+          ],
+          "fil": [
+            "Pagpaplano ng paglusob ng hukbo ng Roma",
+            "Pagsasalita laban sa banal na lugar at kautusan",
+            "Pagnanakaw ng mga kabayo ng gobernador"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "False witnesses accuse Stephen of speaking against the temple and the law (Acts 6).",
+          "fil": "Pinaratangan si Esteban ng mga bulaang saksi ng pagsasalita laban sa templo at kautusan (Mga Gawa 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What recurring behavior does Stephen condemn after reviewing Israel's history?",
+          "fil": "Anong paulit-ulit na asal ang kinondena ni Esteban matapos talakayin ang kasaysayan ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Resisting the Holy Spirit and rejecting God's messengers",
+            "Faithfully welcoming every prophet",
+            "Always obeying God's guidance"
+          ],
+          "fil": [
+            "Paglaban sa Banal na Espiritu at pagtanggi sa mga sugo ng Diyos",
+            "Tapat na pagtanggap sa bawat propeta",
+            "Palaging pagsunod sa paggabay ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Stephen charges his listeners with continuing their ancestors' resistance to God's messengers (Acts 7).",
+          "fil": "Pinaratangan ni Esteban ang mga nakikinig ng pagpapatuloy sa pagtanggi ng kanilang mga ninuno sa mga sugo ng Diyos (Mga Gawa 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Stephen see when he looks into heaven?",
+          "fil": "Ano ang nakita ni Esteban nang tumingin siya sa langit?"
+        },
+        "options": {
+          "en": [
+            "Babylon's merchants holding crowns",
+            "God's glory and Jesus standing at God's right hand",
+            "Caesar sitting on God's throne"
+          ],
+          "fil": [
+            "Mga mangangalakal ng Babilonia na may hawak na korona",
+            "Kaluwalhatian ng Diyos at si Jesus na nakatayo sa kanan ng Diyos",
+            "Si Cesar na nakaupo sa trono ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Filled with the Spirit, Stephen sees God's glory and Jesus at God's right hand (Acts 7).",
+          "fil": "Puspos ng Espiritu, nakita ni Esteban ang kaluwalhatian ng Diyos at si Jesus sa kanan ng Diyos (Mga Gawa 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Stephen pray for those stoning him?",
+          "fil": "Ano ang ipinanalangin ni Esteban para sa mga bumabato sa kanya?"
+        },
+        "options": {
+          "en": [
+            "That their homes be destroyed",
+            "That he may take revenge later",
+            "That the Lord not hold this sin against them"
+          ],
+          "fil": [
+            "Na wasakin ang kanilang mga tahanan",
+            "Na makapaghiganti siya kalaunan",
+            "Na huwag silang panagutin ng Panginoon sa kasalanang ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Stephen asks forgiveness for his attackers as he is being killed (Acts 7).",
+          "fil": "Humingi si Esteban ng kapatawaran para sa mga sumasalakay sa kanya habang siya ay pinapatay (Mga Gawa 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "Where does Philip preach and perform signs, bringing joy to the city?",
+          "fil": "Saan nangaral at gumawa ng mga tanda si Felipe, na nagdulot ng kagalakan sa lungsod?"
+        },
+        "options": {
+          "en": [
+            "Athens",
+            "Samaria",
+            "Rome"
+          ],
+          "fil": [
+            "Sa Atenas",
+            "Sa Samaria",
+            "Sa Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Philip's preaching and signs bring joy to a city in Samaria (Acts 8).",
+          "fil": "Nagdala ng kagalakan sa isang lungsod sa Samaria ang pangangaral at mga tanda ni Felipe (Mga Gawa 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Peter rebuke Simon after the Samaritans receive the Spirit?",
+          "fil": "Bakit sinaway ni Pedro si Simon matapos tumanggap ng Espiritu ang mga Samaritano?"
+        },
+        "options": {
+          "en": [
+            "Simon shares food with travelers",
+            "Simon asks to learn about Jesus",
+            "Simon tries to buy the power to give the Spirit"
+          ],
+          "fil": [
+            "Nagbahagi si Simon ng pagkain sa mga manlalakbay",
+            "Humiling si Simon na matuto tungkol kay Jesus",
+            "Sinubukang bilhin ni Simon ang kapangyarihang magbigay ng Espiritu"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Peter rebukes Simon for treating God's gift as something purchasable (Acts 8).",
+          "fil": "Sinaway ni Pedro si Simon sa pagtrato sa kaloob ng Diyos bilang bagay na nabibili (Mga Gawa 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Philip explain to the Ethiopian official reading Isaiah?",
+          "fil": "Ano ang ipinaliwanag ni Felipe sa pinunong taga-Etiopia na nagbabasa ng Isaias?"
+        },
+        "options": {
+          "en": [
+            "The good news about Jesus",
+            "How to collect Roman taxes",
+            "How to become a temple soldier"
+          ],
+          "fil": [
+            "Ang mabuting balita tungkol kay Jesus",
+            "Kung paano mangolekta ng buwis ng Roma",
+            "Kung paano maging sundalo ng templo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Beginning with Isaiah's passage, Philip explains Jesus and later baptizes the official (Acts 8).",
+          "fil": "Mula sa bahaging binabasa sa Isaias, ipinaliwanag ni Felipe si Jesus at kalaunan ay binautismuhan ang pinuno (Mga Gawa 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "Who speaks to Saul on the road to Damascus?",
+          "fil": "Sino ang nagsalita kay Saulo sa daan patungong Damasco?"
+        },
+        "options": {
+          "en": [
+            "Caesar",
+            "Gamaliel",
+            "Jesus"
+          ],
+          "fil": [
+            "Si Cesar",
+            "Si Gamaliel",
+            "Si Jesus"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The risen Jesus confronts Saul about persecuting him (Acts 9).",
+          "fil": "Hinarap ng muling nabuhay na si Jesus si Saulo tungkol sa pag-uusig nito sa kanya (Mga Gawa 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does the Lord send to Saul so he may see again?",
+          "fil": "Sino ang isinugo ng Panginoon kay Saulo upang makakita siyang muli?"
+        },
+        "options": {
+          "en": [
+            "Ananias",
+            "Cornelius",
+            "Apollos"
+          ],
+          "fil": [
+            "Si Ananias",
+            "Si Cornelio",
+            "Si Apolos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Ananias lays hands on Saul, who regains sight and is baptized (Acts 9).",
+          "fil": "Ipinatong ni Ananias ang mga kamay kay Saulo, na muling nakakita at nagpabautismo (Mga Gawa 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when Peter prays beside the body of Tabitha?",
+          "fil": "Ano ang nangyari nang manalangin si Pedro sa tabi ng bangkay ni Tabita?"
+        },
+        "options": {
+          "en": [
+            "Peter is taken to Rome",
+            "She returns to life",
+            "The house burns down"
+          ],
+          "fil": [
+            "Dinala si Pedro sa Roma",
+            "Muli siyang nabuhay",
+            "Nasunog ang bahay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter prays and calls Tabitha to rise, and she opens her eyes (Acts 9).",
+          "fil": "Nanalangin si Pedro at sinabihan si Tabita na bumangon, at iminulat niya ang kanyang mga mata (Mga Gawa 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What does the angel tell Cornelius to do?",
+          "fil": "Ano ang sinabi ng anghel na gawin ni Cornelio?"
+        },
+        "options": {
+          "en": [
+            "Send to Joppa for Peter",
+            "Offer sacrifices to Caesar",
+            "Leave his family without explanation"
+          ],
+          "fil": [
+            "Magpasundo kay Pedro sa Joppa",
+            "Maghandog ng mga hain kay Cesar",
+            "Iwan ang pamilya nang walang paliwanag"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Cornelius is told to send men to Joppa to bring Peter (Acts 10).",
+          "fil": "Sinabihan si Cornelio na magsugo ng mga lalaki sa Joppa upang sunduin si Pedro (Mga Gawa 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Peter learn from the vision before visiting Cornelius?",
+          "fil": "Ano ang natutuhan ni Pedro sa pangitain bago dalawin si Cornelio?"
+        },
+        "options": {
+          "en": [
+            "God accepts only people from one city",
+            "He should not call any person unclean",
+            "He should refuse every Gentile visitor"
+          ],
+          "fil": [
+            "Mga mula lamang sa iisang lungsod ang tinatanggap ng Diyos",
+            "Hindi niya dapat tawaging marumi ang sinumang tao",
+            "Dapat niyang tanggihan ang bawat bisitang Gentil"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter explains that God taught him not to regard any person as unclean (Acts 10).",
+          "fil": "Ipinaliwanag ni Pedro na itinuro ng Diyos na huwag ituring na marumi ang sinumang tao (Mga Gawa 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the listeners in Cornelius' house while Peter is speaking?",
+          "fil": "Ano ang nangyari sa mga nakikinig sa bahay ni Cornelio habang nagsasalita si Pedro?"
+        },
+        "options": {
+          "en": [
+            "They all flee to Rome",
+            "They arrest Peter for theft",
+            "They receive the Holy Spirit"
+          ],
+          "fil": [
+            "Tumakas silang lahat sa Roma",
+            "Dinakip nila si Pedro dahil sa pagnanakaw",
+            "Tinanggap nila ang Banal na Espiritu"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Holy Spirit comes upon the Gentile listeners before Peter directs their baptism (Acts 10).",
+          "fil": "Dumating ang Banal na Espiritu sa mga nakikinig na Gentil bago iniutos ni Pedro ang kanilang bautismo (Mga Gawa 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "How does Peter defend his visit to the Gentiles?",
+          "fil": "Paano ipinaliwanag ni Pedro ang pagdalaw niya sa mga Gentil?"
+        },
+        "options": {
+          "en": [
+            "He wanted to collect their taxes",
+            "God gave them the same Spirit, so he could not oppose God",
+            "A Roman law forced him to visit"
+          ],
+          "fil": [
+            "Gusto niyang kolektahin ang kanilang buwis",
+            "Ibinigay ng Diyos sa kanila ang kaparehong Espiritu kaya hindi niya masasalungat ang Diyos",
+            "Pinilit siya ng batas ng Roma na dumalaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Peter points to God's gift of the Spirit as the reason he welcomed Gentile believers (Acts 11).",
+          "fil": "Itinuro ni Pedro ang kaloob ng Diyos na Espiritu bilang dahilan ng pagtanggap niya sa mga mananampalatayang Gentil (Mga Gawa 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where are the disciples first called Christians?",
+          "fil": "Saan unang tinawag na mga Cristiano ang mga alagad?"
+        },
+        "options": {
+          "en": [
+            "Rome",
+            "Bethlehem",
+            "Antioch"
+          ],
+          "fil": [
+            "Sa Roma",
+            "Sa Bethlehem",
+            "Sa Antioquia"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The disciples first receive the name Christians in Antioch (Acts 11).",
+          "fil": "Unang tinawag na mga Cristiano ang mga alagad sa Antioquia (Mga Gawa 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the disciples respond to Agabus' warning of famine?",
+          "fil": "Paano tumugon ang mga alagad sa babala ni Agabo tungkol sa taggutom?"
+        },
+        "options": {
+          "en": [
+            "They send aid to believers in Judea",
+            "They hide all food from the poor",
+            "They stop gathering for worship"
+          ],
+          "fil": [
+            "Nagpadala sila ng tulong sa mga mananampalataya sa Judea",
+            "Itinago nila ang lahat ng pagkain sa mahihirap",
+            "Tumigil sila sa pagtitipon para sumamba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The disciples give according to their means for relief in Judea (Acts 11).",
+          "fil": "Nagbigay ang mga alagad ayon sa kanilang kakayahan para sa tulong sa Judea (Mga Gawa 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Which apostle does Herod have killed with a sword?",
+          "fil": "Sinong apostol ang ipinapatay ni Herodes sa pamamagitan ng tabak?"
+        },
+        "options": {
+          "en": [
+            "Peter",
+            "Thomas",
+            "James, the brother of John"
+          ],
+          "fil": [
+            "Si Pedro",
+            "Si Tomas",
+            "Si Santiago na kapatid ni Juan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Herod kills James and then arrests Peter (Acts 12).",
+          "fil": "Ipinapatay ni Herodes si Santiago at pagkatapos ay ipinadakip si Pedro (Mga Gawa 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Peter leave the guarded prison?",
+          "fil": "Paano nakaalis si Pedro sa binabantayang bilangguan?"
+        },
+        "options": {
+          "en": [
+            "An angel leads him out past the guards",
+            "He buys his freedom from Herod",
+            "The believers attack the guards"
+          ],
+          "fil": [
+            "Inakay siya ng anghel palabas lampas sa mga bantay",
+            "Binili niya ang kanyang kalayaan kay Herodes",
+            "Sinalakay ng mga mananampalataya ang mga bantay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "An angel frees Peter while the church is praying for him (Acts 12).",
+          "fil": "Pinalaya ng anghel si Pedro habang ipinapanalangin siya ng iglesiya (Mga Gawa 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why is Herod struck after his public speech?",
+          "fil": "Bakit pinarusahan si Herodes matapos ang kanyang talumpati sa publiko?"
+        },
+        "options": {
+          "en": [
+            "He gives food to hungry believers",
+            "He accepts divine praise without giving glory to God",
+            "He refuses to accept public taxes"
+          ],
+          "fil": [
+            "Nagbigay siya ng pagkain sa mga nagugutom na mananampalataya",
+            "Tinanggap niya ang papuring para sa diyos nang hindi niluluwalhati ang Diyos",
+            "Tumanggi siyang tumanggap ng buwis ng bayan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Herod is struck because he does not give God glory when the crowd calls him divine (Acts 12).",
+          "fil": "Pinarusahan si Herodes dahil hindi niya niluwalhati ang Diyos nang tawagin siyang diyos ng mga tao (Mga Gawa 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "Whom does the Holy Spirit set apart for missionary work in Antioch?",
+          "fil": "Sino ang ibinukod ng Banal na Espiritu para sa gawaing misyon sa Antioquia?"
+        },
+        "options": {
+          "en": [
+            "Barnabas and Saul",
+            "Peter and John",
+            "James and Thomas"
+          ],
+          "fil": [
+            "Sina Bernabe at Saulo",
+            "Sina Pedro at Juan",
+            "Sina Santiago at Tomas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Spirit directs the church to send Barnabas and Saul for the work to which he called them (Acts 13).",
+          "fil": "Itinuro ng Espiritu sa iglesiya na isugo sina Bernabe at Saulo para sa gawaing itinawag sa kanila (Mga Gawa 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Elymas when he opposes Paul's message in Cyprus?",
+          "fil": "Ano ang nangyari kay Elimas nang salungatin niya ang mensahe ni Pablo sa Cyprus?"
+        },
+        "options": {
+          "en": [
+            "He receives a ship of gold",
+            "He becomes temporarily blind",
+            "He is made governor"
+          ],
+          "fil": [
+            "Tumanggap siya ng barkong ginto",
+            "Pansamantala siyang nabulag",
+            "Ginawa siyang gobernador"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul announces blindness upon Elymas, and the proconsul believes after seeing what happens (Acts 13).",
+          "fil": "Ipinahayag ni Pablo ang pagkabulag ni Elimas, at nanampalataya ang proconsul matapos makita ang nangyari (Mga Gawa 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Paul and Barnabas announce when opponents reject their message in Pisidian Antioch?",
+          "fil": "Ano ang ipinahayag nina Pablo at Bernabe nang tanggihan ng mga kalaban ang kanilang mensahe sa Antioquia ng Pisidia?"
+        },
+        "options": {
+          "en": [
+            "They will stop preaching everywhere",
+            "They will worship the local gods",
+            "They will turn to the Gentiles"
+          ],
+          "fil": [
+            "Titigil sila sa pangangaral sa lahat ng lugar",
+            "Sasamba sila sa mga diyos ng lugar",
+            "Ipahahayag nila ang mensahe sa mga Gentil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul and Barnabas turn toward the Gentiles when their opponents reject the message (Acts 13).",
+          "fil": "Bumaling sina Pablo at Bernabe sa mga Gentil nang tanggihan ng mga kalaban ang mensahe (Mga Gawa 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "How does the crowd in Lystra react after Paul heals a man unable to walk?",
+          "fil": "Paano tumugon ang mga tao sa Listra matapos pagalingin ni Pablo ang lalaking hindi makalakad?"
+        },
+        "options": {
+          "en": [
+            "They ask for Roman citizenship",
+            "They mistake Paul and Barnabas for gods",
+            "They immediately arrest the healed man"
+          ],
+          "fil": [
+            "Humingi sila ng pagkamamamayang Romano",
+            "Napagkamalan nilang mga diyos sina Pablo at Bernabe",
+            "Agad nilang dinakip ang lalaking gumaling"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The crowd wrongly identifies Barnabas and Paul with Zeus and Hermes and tries to offer sacrifices (Acts 14).",
+          "fil": "Maling iniugnay ng mga tao sina Bernabe at Pablo kina Zeus at Hermes at sinubukang maghandog ng mga hain (Mga Gawa 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to Paul after opponents stir up the people in Lystra?",
+          "fil": "Ano ang nangyari kay Pablo matapos udyukan ng mga kalaban ang mga tao sa Listra?"
+        },
+        "options": {
+          "en": [
+            "He becomes king of the city",
+            "He is sent to govern Egypt",
+            "He is stoned and dragged outside but survives"
+          ],
+          "fil": [
+            "Naging hari siya ng lungsod",
+            "Isinugo siya upang pamahalaan ang Egipto",
+            "Binato siya at kinaladkad palabas ngunit nabuhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul is left for dead outside Lystra but rises and later continues his journey (Acts 14).",
+          "fil": "Iniwan si Pablo sa labas ng Listra na inakalang patay ngunit bumangon siya at nagpatuloy sa paglalakbay (Mga Gawa 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do Paul and Barnabas do when revisiting the young churches?",
+          "fil": "Ano ang ginawa nina Pablo at Bernabe nang muling dalawin ang mga bagong iglesiya?"
+        },
+        "options": {
+          "en": [
+            "Strengthen believers and appoint elders",
+            "Tell everyone to abandon the faith",
+            "Collect crowns for themselves"
+          ],
+          "fil": [
+            "Pinatibay ang mga mananampalataya at nagtalaga ng mga elder",
+            "Sinabihan ang lahat na talikuran ang pananampalataya",
+            "Nangolekta ng mga korona para sa sarili"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "They encourage perseverance and appoint elders with prayer and fasting (Acts 14).",
+          "fil": "Hinikayat nila ang pagtitiyaga at nagtalaga ng mga elder na may panalangin at pag-aayuno (Mga Gawa 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "What dispute leads believers to consult the apostles and elders in Jerusalem?",
+          "fil": "Anong pagtatalo ang nagdala sa mga mananampalataya sa mga apostol at elder sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "Whether Peter should become emperor",
+            "Whether all believers must live in Rome",
+            "Whether Gentile believers must be circumcised to be saved"
+          ],
+          "fil": [
+            "Kung dapat maging emperador si Pedro",
+            "Kung dapat manirahan sa Roma ang lahat ng mananampalataya",
+            "Kung kailangang tuliin ang mga mananampalatayang Gentil upang maligtas"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Jerusalem meeting addresses claims that Gentile believers need circumcision and the law of Moses (Acts 15).",
+          "fil": "Tinalakay ng pagtitipon sa Jerusalem ang pag-aangking kailangan ng mga mananampalatayang Gentil ang pagtutuli at kautusan ni Moises (Mga Gawa 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the council's letter ask Gentile believers to avoid?",
+          "fil": "Ano ang ipinaiiwas ng sulat ng kapulungan sa mga mananampalatayang Gentil?"
+        },
+        "options": {
+          "en": [
+            "Food offered to idols, blood, meat of strangled animals, and sexual immorality",
+            "All travel and all manual work",
+            "Prayer and shared meals"
+          ],
+          "fil": [
+            "Pagkaing inihandog sa diyus-diyusan, dugo, karne ng hayop na binigti, at kahalayan",
+            "Lahat ng paglalakbay at lahat ng gawaing-kamay",
+            "Panalangin at sama-samang pagkain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The letter gives these practical requirements without demanding circumcision of Gentile believers (Acts 15).",
+          "fil": "Ibinigay ng sulat ang mga praktikal na tagubiling ito nang hindi hinihingi ang pagtutuli sa mga mananampalatayang Gentil (Mga Gawa 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do Paul and Barnabas separate before another journey?",
+          "fil": "Bakit naghiwalay sina Pablo at Bernabe bago ang isa pang paglalakbay?"
+        },
+        "options": {
+          "en": [
+            "They compete to become high priest",
+            "They disagree about taking John Mark",
+            "They disagree about whether Jesus rose"
+          ],
+          "fil": [
+            "Nag-agawan sila sa pagiging pinakapunong pari",
+            "Hindi sila nagkasundo sa pagsama kay Juan Marcos",
+            "Hindi sila nagkasundo kung muling nabuhay si Jesus"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Their sharp disagreement concerns whether John Mark should accompany them again (Acts 15).",
+          "fil": "Tungkol sa muling pagsama kay Juan Marcos ang kanilang matinding hindi pagkakasundo (Mga Gawa 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What vision leads Paul and his companions toward Macedonia?",
+          "fil": "Anong pangitain ang nagdala kay Pablo at sa kanyang mga kasama patungong Macedonia?"
+        },
+        "options": {
+          "en": [
+            "A Macedonian man asking for help",
+            "Caesar offering Paul a crown",
+            "An Egyptian army approaching"
+          ],
+          "fil": [
+            "Lalaking taga-Macedonia na humihingi ng tulong",
+            "Si Cesar na nag-aalok ng korona kay Pablo",
+            "Hukbo ng Egipto na papalapit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul's vision of a Macedonian man's appeal leads the group to preach there (Acts 16).",
+          "fil": "Nagdala sa grupo ang pangitain ni Pablo ng lalaking taga-Macedonia na humihingi ng tulong upang mangaral doon (Mga Gawa 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Lydia respond after the Lord opens her heart to Paul's message?",
+          "fil": "Paano tumugon si Lydia matapos buksan ng Panginoon ang kanyang puso sa mensahe ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "She leaves to worship Caesar",
+            "She is baptized and welcomes the missionaries into her home",
+            "She has Paul arrested for theft"
+          ],
+          "fil": [
+            "Umalis siya upang sambahin si Cesar",
+            "Nagpabautismo siya at tinanggap ang mga misyonaryo sa kanyang tahanan",
+            "Ipinadakip niya si Pablo dahil sa pagnanakaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Lydia and her household are baptized, and she offers the missionaries hospitality (Acts 16).",
+          "fil": "Nagpabautismo si Lydia at ang kanyang sambahayan, at magiliw niyang tinanggap ang mga misyonaryo (Mga Gawa 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the Philippian jailer after hearing about faith in Jesus?",
+          "fil": "Ano ang nangyari sa bantay-bilangguan sa Filipos matapos marinig ang tungkol sa pananampalataya kay Jesus?"
+        },
+        "options": {
+          "en": [
+            "He orders Paul and Silas killed",
+            "He sells his family to the emperor",
+            "He and his household are baptized and rejoice"
+          ],
+          "fil": [
+            "Ipinapatay niya sina Pablo at Silas",
+            "Ipinagbili niya ang kanyang pamilya sa emperador",
+            "Nagpabautismo siya at ang kanyang sambahayan at nagalak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The jailer cares for Paul and Silas and rejoices with his household after believing (Acts 16).",
+          "fil": "Inalagaan ng bantay-bilangguan sina Pablo at Silas at nagalak kasama ng kanyang sambahayan matapos manampalataya (Mga Gawa 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What does Paul explain from Scripture in the Thessalonian synagogue?",
+          "fil": "Ano ang ipinaliwanag ni Pablo mula sa Kasulatan sa sinagoga sa Tesalonica?"
+        },
+        "options": {
+          "en": [
+            "Idols can forgive sins",
+            "The Messiah had to suffer and rise, and Jesus is that Messiah",
+            "Caesar created the world"
+          ],
+          "fil": [
+            "Kayang magpatawad ng mga diyus-diyusan ng mga kasalanan",
+            "Kailangang magdusa at muling mabuhay ang Mesias, at si Jesus ang Mesias na iyon",
+            "Nilikha ni Cesar ang mundo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul reasons from Scripture that Jesus fulfills the Messiah's suffering and resurrection (Acts 17).",
+          "fil": "Ipinaliwanag ni Pablo mula sa Kasulatan na tinupad ni Jesus ang pagdurusa at muling pagkabuhay ng Mesias (Mga Gawa 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the Bereans do when they hear Paul's message?",
+          "fil": "Ano ang ginawa ng mga taga-Berea nang marinig ang mensahe ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "Refuse to listen to any teaching",
+            "Ask merchants to vote on its truth",
+            "Examine the Scriptures daily to check it"
+          ],
+          "fil": [
+            "Tumangging makinig sa anumang turo",
+            "Hiniling sa mga mangangalakal na iboto kung totoo ito",
+            "Sinuri araw-araw ang Kasulatan upang tiyakin ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The Bereans eagerly receive the message and examine Scripture to test what they hear (Acts 17).",
+          "fil": "Masigasig na tinanggap ng mga taga-Berea ang mensahe at sinuri ang Kasulatan upang subukin ang kanilang naririnig (Mga Gawa 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What object in Athens does Paul use as a starting point for his speech?",
+          "fil": "Anong bagay sa Atenas ang ginamit ni Pablo bilang simula ng kanyang talumpati?"
+        },
+        "options": {
+          "en": [
+            "An altar dedicated to an unknown god",
+            "A throne built for Paul",
+            "A ship belonging to Peter"
+          ],
+          "fil": [
+            "Altar na nakalaan sa di-kilalang diyos",
+            "Tronong ginawa para kay Pablo",
+            "Barkong pag-aari ni Pedro"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul uses the altar to an unknown god to introduce the Creator who needs no human-made temple (Acts 17).",
+          "fil": "Ginamit ni Pablo ang altar sa di-kilalang diyos upang ipakilala ang Manlilikhang hindi nangangailangan ng templong gawa ng tao (Mga Gawa 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Why does Paul work with Aquila and Priscilla in Corinth?",
+          "fil": "Bakit nagtrabaho si Pablo kasama nina Aquila at Priscilla sa Corinto?"
+        },
+        "options": {
+          "en": [
+            "They command the same army",
+            "They collect taxes for Caesar",
+            "They share the trade of tentmaking"
+          ],
+          "fil": [
+            "Pinamumunuan nila ang iisang hukbo",
+            "Nangongolekta sila ng buwis para kay Cesar",
+            "Pareho silang gumagawa ng mga tolda"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul stays and works with Aquila and Priscilla because they practice the same trade (Acts 18).",
+          "fil": "Nanatili at nagtrabaho si Pablo kasama nina Aquila at Priscilla dahil pareho ang kanilang hanapbuhay (Mga Gawa 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Gallio respond to the charge brought against Paul?",
+          "fil": "Paano tumugon si Galio sa paratang laban kay Pablo?"
+        },
+        "options": {
+          "en": [
+            "He refuses to judge a dispute about Jewish teaching",
+            "He orders Paul executed",
+            "He makes Paul ruler of Corinth"
+          ],
+          "fil": [
+            "Tumanggi siyang humatol sa pagtatalo tungkol sa aral ng mga Judio",
+            "Iniutos niyang patayin si Pablo",
+            "Ginawa niyang pinuno ng Corinto si Pablo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Gallio dismisses the case as a religious dispute rather than the crime he is asked to judge (Acts 18).",
+          "fil": "Ibinasura ni Galio ang kaso bilang pagtatalong panrelihiyon sa halip na krimeng hinihinging hatulan niya (Mga Gawa 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do Priscilla and Aquila help Apollos?",
+          "fil": "Paano tinulungan nina Priscilla at Aquila si Apolos?"
+        },
+        "options": {
+          "en": [
+            "They send him to worship Artemis",
+            "They explain God's way more accurately",
+            "They forbid him from ever learning"
+          ],
+          "fil": [
+            "Isinugo nila siyang sumamba kay Artemis",
+            "Ipinaliwanag nila nang mas tumpak ang daan ng Diyos",
+            "Pinagbawalan nila siyang matuto kailanman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "They take Apollos aside and help him understand God's way more fully (Acts 18).",
+          "fil": "Isinama nila nang sarilinan si Apolos at tinulungang maunawaan nang mas ganap ang daan ng Diyos (Mga Gawa 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What happens to the Ephesian disciples after baptism and Paul's laying on of hands?",
+          "fil": "Ano ang nangyari sa mga alagad sa Efeso matapos ang bautismo at pagpapatong ni Pablo ng mga kamay?"
+        },
+        "options": {
+          "en": [
+            "They receive the Holy Spirit and speak in tongues and prophesy",
+            "They become Roman governors",
+            "They build a temple for Artemis"
+          ],
+          "fil": [
+            "Tinanggap nila ang Banal na Espiritu at nagsalita sa ibang mga wika at nagpahayag ng propesiya",
+            "Naging mga gobernador sila ng Roma",
+            "Nagtayo sila ng templo para kay Artemis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The Spirit comes upon the disciples after Paul lays hands on them (Acts 19).",
+          "fil": "Dumating ang Espiritu sa mga alagad matapos ipatong ni Pablo ang kanyang mga kamay sa kanila (Mga Gawa 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do many former practitioners of magic do after believing?",
+          "fil": "Ano ang ginawa ng maraming dating nagsasagawa ng mahika matapos manampalataya?"
+        },
+        "options": {
+          "en": [
+            "Ask Paul to teach more magic",
+            "Bring their books together and burn them",
+            "Sell their spells to the apostles"
+          ],
+          "fil": [
+            "Hiniling kay Pablo na magturo ng higit pang mahika",
+            "Tinipon ang kanilang mga aklat at sinunog ang mga ito",
+            "Ipinagbili ang kanilang mga orasyon sa mga apostol"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "They publicly burn costly books as a break with their former practices (Acts 19).",
+          "fil": "Sinunog nila sa publiko ang mamahaling mga aklat bilang pagtalikod sa dati nilang mga gawain (Mga Gawa 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does the silversmith Demetrius stir up opposition in Ephesus?",
+          "fil": "Bakit nagpasimula ng pagtutol sa Efeso ang panday-pilak na si Demetrio?"
+        },
+        "options": {
+          "en": [
+            "Paul has stolen his fishing boat",
+            "The church refuses to collect Roman taxes",
+            "Paul's teaching threatens the trade in Artemis shrines"
+          ],
+          "fil": [
+            "Ninakaw ni Pablo ang kanyang bangkang pangisda",
+            "Tumanggi ang iglesiya na mangolekta ng buwis ng Roma",
+            "Nanganganib dahil sa turo ni Pablo ang kalakalan ng mga dambana ni Artemis"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Demetrius fears loss of income and honor for Artemis because people are turning from idols (Acts 19).",
+          "fil": "Natatakot si Demetrio na mawala ang kita at karangalan ni Artemis dahil tumatalikod ang mga tao sa mga diyus-diyusan (Mga Gawa 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What happens to Eutychus during Paul's long talk in Troas?",
+          "fil": "Ano ang nangyari kay Eutico sa mahabang pagsasalita ni Pablo sa Troas?"
+        },
+        "options": {
+          "en": [
+            "He sails away with Paul's belongings",
+            "He falls from a window and is brought back alive",
+            "He is arrested by a Roman army"
+          ],
+          "fil": [
+            "Naglayag siyang dala ang mga gamit ni Pablo",
+            "Nahulog siya sa bintana at naibalik na buhay",
+            "Dinakip siya ng hukbo ng Roma"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Eutychus falls from an upper window, but after Paul's intervention the believers take him home alive (Acts 20).",
+          "fil": "Nahulog si Eutico mula sa mataas na bintana, ngunit matapos lapitan ni Pablo ay iniuwi siya ng mga mananampalataya nang buhay (Mga Gawa 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger does Paul warn the Ephesian elders about at Miletus?",
+          "fil": "Anong panganib ang ibinabala ni Pablo sa mga elder ng Efeso sa Mileto?"
+        },
+        "options": {
+          "en": [
+            "A shortage of gold crowns",
+            "An order that every elder become a merchant",
+            "False teachers who will harm and divide the flock"
+          ],
+          "fil": [
+            "Kakulangan ng mga gintong korona",
+            "Utos na maging mangangalakal ang bawat elder",
+            "Mga maling gurong mananakit at maghahati sa kawan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul warns of destructive wolves and distorted teaching arising around and within the community (Acts 20).",
+          "fil": "Nagbabala si Pablo tungkol sa mapanirang mga lobo at baluktot na aral na lilitaw sa paligid at loob ng komunidad (Mga Gawa 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What example of work does Paul remind the elders he gave?",
+          "fil": "Anong halimbawa sa paggawa ang ipinaalala ni Pablo sa mga elder?"
+        },
+        "options": {
+          "en": [
+            "Working to meet needs and help the weak",
+            "Seeking wealth through dishonest trade",
+            "Refusing to help anyone in need"
+          ],
+          "fil": [
+            "Paggawa upang matugunan ang pangangailangan at tulungan ang mahihina",
+            "Paghahanap ng yaman sa pandarayang kalakalan",
+            "Pagtangging tumulong sa sinumang nangangailangan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul recalls working with his hands and urges support for the weak through generous giving (Acts 20).",
+          "fil": "Ipinaalala ni Pablo ang paggawa sa sariling mga kamay at hinimok ang suporta sa mahihina sa mapagbigay na pagbabahagi (Mga Gawa 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "What does Agabus illustrate by binding his hands and feet with Paul's belt?",
+          "fil": "Ano ang inilalarawan ni Agabo sa paggapos ng kanyang mga kamay at paa gamit ang sinturon ni Pablo?"
+        },
+        "options": {
+          "en": [
+            "Paul will become high priest",
+            "Paul must buy a new ship",
+            "Paul will be bound in Jerusalem and handed to Gentiles"
+          ],
+          "fil": [
+            "Magiging pinakapunong pari si Pablo",
+            "Kailangang bumili si Pablo ng bagong barko",
+            "Igagapos si Pablo sa Jerusalem at ibibigay sa mga Gentil"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Agabus uses Paul's belt to illustrate the imprisonment awaiting him in Jerusalem (Acts 21).",
+          "fil": "Ginamit ni Agabo ang sinturon ni Pablo upang ilarawan ang pagkabilanggong naghihintay sa kanya sa Jerusalem (Mga Gawa 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What accusation helps provoke the crowd against Paul at the temple?",
+          "fil": "Anong paratang ang nakatulong sa pag-udyok sa mga tao laban kay Pablo sa templo?"
+        },
+        "options": {
+          "en": [
+            "He brought Greeks into the temple and defiled it",
+            "He stole Caesar's crown",
+            "He burned the city of Rome"
+          ],
+          "fil": [
+            "Nagdala siya ng mga Griego sa templo at nilapastangan ito",
+            "Ninakaw niya ang korona ni Cesar",
+            "Sinunog niya ang lungsod ng Roma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The accusers assume Paul brought a Gentile into the temple after seeing him elsewhere with Trophimus (Acts 21).",
+          "fil": "Inakala ng mga nagparatang na nagdala si Pablo ng Gentil sa templo dahil nakita siyang kasama ni Trofimo sa ibang lugar (Mga Gawa 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who intervenes when the crowd is beating Paul?",
+          "fil": "Sino ang namagitan habang binubugbog ng mga tao si Pablo?"
+        },
+        "options": {
+          "en": [
+            "The merchants of Babylon",
+            "The Roman commander and his soldiers",
+            "The king of Egypt"
+          ],
+          "fil": [
+            "Ang mga mangangalakal ng Babilonia",
+            "Ang pinunong Romano at kanyang mga sundalo",
+            "Ang hari ng Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Roman troops stop the beating, take Paul into custody, and bring him toward the barracks (Acts 21).",
+          "fil": "Pinigil ng mga sundalong Romano ang pambubugbog, dinakip si Pablo, at dinala patungo sa kuwartel (Mga Gawa 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "What does Ananias urge Saul to do in Paul's account of his conversion?",
+          "fil": "Ano ang hinimok ni Ananias na gawin ni Saulo sa salaysay ni Pablo ng kanyang pagbabalik-loob?"
+        },
+        "options": {
+          "en": [
+            "Be baptized and call on the Lord's name",
+            "Return to persecuting believers",
+            "Pay the governor for forgiveness"
+          ],
+          "fil": [
+            "Magpabautismo at tumawag sa pangalan ng Panginoon",
+            "Bumalik sa pag-uusig sa mga mananampalataya",
+            "Bayaran ang gobernador para sa kapatawaran"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul recalls Ananias urging him to be baptized and call on the Lord (Acts 22).",
+          "fil": "Ipinaalala ni Pablo na hinimok siya ni Ananias na magpabautismo at tumawag sa Panginoon (Mga Gawa 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What part of Paul's account provokes renewed shouting from the crowd?",
+          "fil": "Anong bahagi ng salaysay ni Pablo ang muling nagpaingay sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "His description of a fishing trip",
+            "The Lord sending him to the Gentiles",
+            "His mention of buying bread"
+          ],
+          "fil": [
+            "Ang paglalarawan niya ng pangingisda",
+            "Ang pagsusugo sa kanya ng Panginoon sa mga Gentil",
+            "Ang pagbanggit niya ng pagbili ng tinapay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The crowd erupts when Paul describes being sent far away to the Gentiles (Acts 22).",
+          "fil": "Nagkagulo ang mga tao nang ilarawan ni Pablo ang pagsusugo sa kanya sa malalayong Gentil (Mga Gawa 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What prevents the soldiers from flogging Paul?",
+          "fil": "Ano ang pumigil sa mga sundalo sa paghagupit kay Pablo?"
+        },
+        "options": {
+          "en": [
+            "He promises them a royal crown",
+            "The crowd offers to pay his tax",
+            "They learn he is a Roman citizen"
+          ],
+          "fil": [
+            "Pinangakuan niya sila ng maharlikang korona",
+            "Nag-alok ang mga tao na bayaran ang kanyang buwis",
+            "Nalaman nilang mamamayang Romano siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The soldiers withdraw when Paul invokes his Roman citizenship before an unlawful flogging (Acts 22).",
+          "fil": "Umatras ang mga sundalo nang banggitin ni Pablo ang kanyang pagkamamamayang Romano bago ang labag-sa-batas na paghagupit (Mga Gawa 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "Why does the council divide when Paul mentions resurrection?",
+          "fil": "Bakit nahati ang kapulungan nang banggitin ni Pablo ang muling pagkabuhay?"
+        },
+        "options": {
+          "en": [
+            "They argue only about the price of grain",
+            "Pharisees affirm resurrection while Sadducees deny it",
+            "Both groups agree resurrection is impossible"
+          ],
+          "fil": [
+            "Tungkol lamang sa presyo ng butil ang kanilang pagtatalo",
+            "Kinikilala ng mga Fariseo ang muling pagkabuhay samantalang itinatanggi ito ng mga Saduceo",
+            "Parehong sumasang-ayon ang dalawang grupo na imposible ang muling pagkabuhay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul's mention of resurrection exposes the disagreement between Pharisees and Sadducees (Acts 23).",
+          "fil": "Inilantad ng pagbanggit ni Pablo ng muling pagkabuhay ang hindi pagkakasundo ng mga Fariseo at Saduceo (Mga Gawa 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who alerts Paul to the plot to kill him?",
+          "fil": "Sino ang nagbabala kay Pablo tungkol sa planong pagpatay sa kanya?"
+        },
+        "options": {
+          "en": [
+            "The high priest",
+            "A merchant from Egypt",
+            "His sister's son"
+          ],
+          "fil": [
+            "Ang pinakapunong pari",
+            "Isang mangangalakal mula sa Egipto",
+            "Ang anak na lalaki ng kanyang kapatid na babae"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul's nephew hears the ambush plan and reports it to Paul and the commander (Acts 23).",
+          "fil": "Narinig ng pamangkin ni Pablo ang planong pananambang at iniulat ito kay Pablo at sa pinuno (Mga Gawa 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the commander send Paul under military protection?",
+          "fil": "Saan ipinadala ng pinuno si Pablo sa ilalim ng proteksiyon ng mga sundalo?"
+        },
+        "options": {
+          "en": [
+            "To Governor Felix in Caesarea",
+            "To Pharaoh in Egypt",
+            "To the temple of Artemis"
+          ],
+          "fil": [
+            "Kay Gobernador Felix sa Cesarea",
+            "Sa Faraon sa Egipto",
+            "Sa templo ni Artemis"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The commander sends Paul to Felix in Caesarea with an armed escort and a letter (Acts 23).",
+          "fil": "Ipinadala ng pinuno si Pablo kay Felix sa Cesarea na may bantay na mga sundalo at sulat (Mga Gawa 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "How do Paul's accusers portray him before Felix?",
+          "fil": "Paano inilarawan ng mga nagparatang si Pablo sa harap ni Felix?"
+        },
+        "options": {
+          "en": [
+            "A Roman emperor",
+            "The chief tax collector of Egypt",
+            "A troublemaker and leader of the Nazarene group"
+          ],
+          "fil": [
+            "Isang emperador ng Roma",
+            "Ang punong maniningil ng buwis ng Egipto",
+            "Mapanggulo at pinuno ng pangkat ng mga Nazareno"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The accusers charge Paul with stirring unrest, leading the Nazarenes, and attempting to profane the temple (Acts 24).",
+          "fil": "Pinaratangan si Pablo ng pag-uudyok ng kaguluhan, pamumuno sa mga Nazareno, at pagtatangkang lapastanganin ang templo (Mga Gawa 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Felix react when Paul discusses righteousness, self-control, and judgment?",
+          "fil": "Paano tumugon si Felix nang talakayin ni Pablo ang katuwiran, pagpipigil sa sarili, at paghatol?"
+        },
+        "options": {
+          "en": [
+            "He becomes afraid and dismisses Paul for the moment",
+            "He immediately appoints Paul as governor",
+            "He declares that judgment has already ended"
+          ],
+          "fil": [
+            "Natakot siya at pansamantalang pinaalis si Pablo",
+            "Agad niyang itinalaga si Pablo bilang gobernador",
+            "Ipinahayag niyang tapos na ang paghatol"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Felix becomes alarmed at Paul's discussion and postpones further conversation (Acts 24).",
+          "fil": "Nabahala si Felix sa pagtalakay ni Pablo at ipinagpaliban ang pagpapatuloy ng pag-uusap (Mga Gawa 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "What selfish hope leads Felix to summon Paul repeatedly?",
+          "fil": "Anong makasariling pag-asa ang nag-udyok kay Felix na paulit-ulit ipatawag si Pablo?"
+        },
+        "options": {
+          "en": [
+            "He wants Paul to name a fishing boat",
+            "He hopes Paul will give him money",
+            "He hopes to learn tentmaking"
+          ],
+          "fil": [
+            "Gusto niyang pangalanan ni Pablo ang bangkang pangisda",
+            "Umaasa siyang bibigyan siya ni Pablo ng pera",
+            "Umaasa siyang matutong gumawa ng tolda"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Felix repeatedly speaks with Paul while hoping to receive a bribe (Acts 24).",
+          "fil": "Paulit-ulit na kinausap ni Felix si Pablo habang umaasang makatanggap ng suhol (Mga Gawa 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What does Paul request when Festus asks about a trial in Jerusalem?",
+          "fil": "Ano ang hiniling ni Pablo nang magtanong si Festo tungkol sa paglilitis sa Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "An appeal to Caesar",
+            "A crown from Herod",
+            "A seat as high priest"
+          ],
+          "fil": [
+            "Pag-apela kay Cesar",
+            "Korona mula kay Herodes",
+            "Luklukan bilang pinakapunong pari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul invokes his right to appeal to Caesar rather than be transferred for trial in Jerusalem (Acts 25).",
+          "fil": "Ginamit ni Pablo ang karapatang umapela kay Cesar sa halip na ilipat para litisin sa Jerusalem (Mga Gawa 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What central disagreement does Festus describe to Agrippa?",
+          "fil": "Anong pangunahing pagtatalo ang inilarawan ni Festo kay Agripa?"
+        },
+        "options": {
+          "en": [
+            "Paul refuses to reveal a ship's cargo",
+            "Paul says Jesus is alive although others consider him dead",
+            "Paul claims ownership of Caesar's palace"
+          ],
+          "fil": [
+            "Ayaw ihayag ni Pablo ang karga ng barko",
+            "Sinasabi ni Pablo na buhay si Jesus kahit itinuturing siya ng iba na patay",
+            "Inaangkin ni Pablo ang palasyo ni Cesar"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Festus describes a religious dispute involving Jesus, whom Paul affirms to be alive (Acts 25).",
+          "fil": "Inilarawan ni Festo ang pagtatalong panrelihiyon tungkol kay Jesus na pinagtitibay ni Pablo na buhay (Mga Gawa 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why does Festus present Paul before Agrippa and the assembled officials?",
+          "fil": "Bakit iniharap ni Festo si Pablo kay Agripa at sa nagkatipong mga pinuno?"
+        },
+        "options": {
+          "en": [
+            "He wants to crown Paul king",
+            "He has already ordered Paul's execution",
+            "He needs definite information to write to the emperor"
+          ],
+          "fil": [
+            "Gusto niyang koronahan si Pablo bilang hari",
+            "Iniutos na niya ang pagpatay kay Pablo",
+            "Kailangan niya ng tiyak na impormasyong isusulat sa emperador"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Festus hopes the examination will clarify what charges he should report to the emperor (Acts 25).",
+          "fil": "Umaasa si Festo na lilinawin ng pagsusuri kung anong mga paratang ang dapat niyang iulat sa emperador (Mga Gawa 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What does Paul acknowledge about his former treatment of believers?",
+          "fil": "Ano ang inamin ni Pablo tungkol sa dati niyang pagtrato sa mga mananampalataya?"
+        },
+        "options": {
+          "en": [
+            "He had never heard about them",
+            "He had fiercely persecuted them",
+            "He had always defended them"
+          ],
+          "fil": [
+            "Hindi pa siya nakarinig tungkol sa kanila",
+            "Matindi niya silang inusig",
+            "Palagi niya silang ipinagtanggol"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul tells Agrippa how he once imprisoned and opposed followers of Jesus (Acts 26).",
+          "fil": "Isinalaysay ni Pablo kay Agripa kung paano niya dating ipinabilanggo at sinalungat ang mga tagasunod ni Jesus (Mga Gawa 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mission does Paul say Jesus gave him in the vision?",
+          "fil": "Anong misyon ang sinabi ni Pablo na ibinigay sa kanya ni Jesus sa pangitain?"
+        },
+        "options": {
+          "en": [
+            "Build a palace for the Roman army",
+            "Stop every Gentile from hearing the gospel",
+            "Open people's eyes so they turn from darkness to God"
+          ],
+          "fil": [
+            "Magtayo ng palasyo para sa hukbo ng Roma",
+            "Pigilan ang bawat Gentil na makarinig ng ebanghelyo",
+            "Buksan ang mga mata ng mga tao upang tumalikod sa kadiliman at lumapit sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Paul describes being sent to turn people from darkness and Satan's power toward God (Acts 26).",
+          "fil": "Inilarawan ni Pablo ang pagsusugo sa kanya upang ibaling ang mga tao mula sa kadiliman at kapangyarihan ni Satanas tungo sa Diyos (Mga Gawa 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "What conclusion do Agrippa and the officials reach after hearing Paul?",
+          "fil": "Anong pasya ang narating nina Agripa at ng mga pinuno matapos marinig si Pablo?"
+        },
+        "options": {
+          "en": [
+            "He has done nothing deserving death or imprisonment",
+            "He must be executed immediately",
+            "He must become emperor"
+          ],
+          "fil": [
+            "Wala siyang ginawang karapat-dapat sa kamatayan o pagkabilanggo",
+            "Dapat siyang patayin agad",
+            "Dapat siyang maging emperador"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The officials agree that Paul has committed no offense deserving death or chains (Acts 26).",
+          "fil": "Nagkasundo ang mga pinuno na walang nagawang kasalanan si Pablo na karapat-dapat sa kamatayan o mga tanikala (Mga Gawa 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What threatens the ship carrying Paul toward Italy?",
+          "fil": "Ano ang nagbanta sa barkong lulan si Pablo patungong Italia?"
+        },
+        "options": {
+          "en": [
+            "An army of chariots",
+            "A fire from Mount Sinai",
+            "A violent storm"
+          ],
+          "fil": [
+            "Hukbo ng mga karwaheng pandigma",
+            "Apoy mula sa Bundok Sinai",
+            "Isang marahas na bagyo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A severe storm drives the ship helplessly for many days (Acts 27).",
+          "fil": "Itinulak ng matinding bagyo ang barko nang walang magawa sa loob ng maraming araw (Mga Gawa 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What reassurance does Paul give after an angel visits him?",
+          "fil": "Anong katiyakan ang ibinigay ni Pablo matapos siyang dalawin ng anghel?"
+        },
+        "options": {
+          "en": [
+            "The ship will be lost, but everyone aboard will survive",
+            "The ship will arrive without any damage",
+            "Only the soldiers will survive"
+          ],
+          "fil": [
+            "Mawawasak ang barko, ngunit mabubuhay ang lahat ng sakay",
+            "Darating ang barko nang walang anumang sira",
+            "Mga sundalo lamang ang mabubuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul reports God's promise that all aboard will be spared despite the ship's loss (Acts 27).",
+          "fil": "Iniulat ni Pablo ang pangako ng Diyos na maliligtas ang lahat ng sakay kahit mawala ang barko (Mga Gawa 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the passengers reach shore after the ship breaks apart?",
+          "fil": "Paano nakarating sa pampang ang mga sakay matapos mabasag ang barko?"
+        },
+        "options": {
+          "en": [
+            "They wait for a bridge to be built",
+            "Some swim and others use planks or pieces of the ship",
+            "They all ride horses across the sea"
+          ],
+          "fil": [
+            "Naghintay silang maitayo ang tulay",
+            "Lumangoy ang ilan at gumamit ang iba ng mga tabla o bahagi ng barko",
+            "Sumakay silang lahat sa mga kabayo sa ibabaw ng dagat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The passengers reach land safely by swimming or holding pieces from the ship (Acts 27).",
+          "fil": "Ligtas na nakarating sa lupa ang mga sakay sa paglangoy o pagkapit sa mga bahagi ng barko (Mga Gawa 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What happens when a viper fastens onto Paul's hand on Malta?",
+          "fil": "Ano ang nangyari nang kumapit ang ulupong sa kamay ni Pablo sa Malta?"
+        },
+        "options": {
+          "en": [
+            "He shakes it into the fire and suffers no harm",
+            "He immediately loses his hand",
+            "He falls into the sea and disappears"
+          ],
+          "fil": [
+            "Ipinagpag niya ito sa apoy at hindi napinsala",
+            "Agad na naputol ang kanyang kamay",
+            "Nahulog siya sa dagat at nawala"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Paul remains unharmed after shaking the snake into the fire, astonishing the islanders (Acts 28).",
+          "fil": "Hindi napinsala si Pablo matapos ipagpag ang ahas sa apoy, na ikinamangha ng mga taga-isla (Mga Gawa 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Paul do for Publius' sick father?",
+          "fil": "Ano ang ginawa ni Pablo para sa maysakit na ama ni Publio?"
+        },
+        "options": {
+          "en": [
+            "Sends him away without help",
+            "Prays, lays hands on him, and heals him",
+            "Demands gold before visiting"
+          ],
+          "fil": [
+            "Pinaalis siya nang walang tulong",
+            "Nanalangin, nagpatong ng mga kamay, at pinagaling siya",
+            "Humingi ng ginto bago dumalaw"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Paul prays and lays hands on Publius' father, who is healed (Acts 28).",
+          "fil": "Nanalangin si Pablo at ipinatong ang mga kamay sa ama ni Publio, na gumaling (Mga Gawa 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Acts describe Paul's life in Rome at the end?",
+          "fil": "Paano inilarawan ng Mga Gawa ang buhay ni Pablo sa Roma sa pagtatapos?"
+        },
+        "options": {
+          "en": [
+            "He becomes commander of Caesar's army",
+            "He stops speaking about God's kingdom",
+            "He welcomes visitors and teaches about Jesus in his rented lodging"
+          ],
+          "fil": [
+            "Naging pinuno siya ng hukbo ni Cesar",
+            "Tumigil siya sa pagsasalita tungkol sa kaharian ng Diyos",
+            "Tumatanggap siya ng mga bisita at nagtuturo tungkol kay Jesus sa inuupahan niyang tirahan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Though under guard, Paul receives visitors and boldly proclaims God's kingdom and Jesus (Acts 28).",
+          "fil": "Kahit may bantay, tumatanggap si Pablo ng mga bisita at buong-tapang na ipinahahayag ang kaharian ng Diyos at si Jesus (Mga Gawa 28)."
+        }
+      }
+    ]
+  }
+}
