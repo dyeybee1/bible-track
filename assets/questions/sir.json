@@ -1,0 +1,3625 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "Where does wisdom ultimately come from?",
+          "fil": "Saan nagmumula ang tunay na karunungan?"
+        },
+        "options": {
+          "en": [
+            "Human pride alone",
+            "The Lord",
+            "The amount of gold someone owns"
+          ],
+          "fil": [
+            "Sa kapalaluan lamang ng tao",
+            "Sa Panginoon",
+            "Sa dami ng gintong pag-aari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter presents wisdom as God's enduring gift (Sirach 1).",
+          "fil": "Inihaharap ng kabanata ang karunungan bilang nananatiling kaloob ng Diyos (Sirak 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude forms the foundation of wisdom?",
+          "fil": "Anong saloobin ang pundasyon ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Confidence in deceit",
+            "Contempt for instruction",
+            "Reverence for the Lord"
+          ],
+          "fil": [
+            "Pagtitiwala sa panlilinlang",
+            "Paghamak sa pagtuturo",
+            "Paggalang sa Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Reverent fear of the Lord is repeatedly linked with wisdom (Sirach 1).",
+          "fil": "Paulit-ulit na iniugnay sa karunungan ang may-paggalang na takot sa Panginoon (Sirak 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of heart should accompany devotion to God?",
+          "fil": "Anong uri ng puso ang dapat kasama ng debosyon sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Sincere and humble",
+            "Deceitful and proud",
+            "Divided between worship and deliberate wrongdoing"
+          ],
+          "fil": [
+            "Tapat at mapagpakumbaba",
+            "Mapanlinlang at palalo",
+            "Hati sa pagsamba at sadyang kasamaan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter rejects hypocrisy and pride in approaching God (Sirach 1).",
+          "fil": "Tinatanggihan ng kabanata ang pagkukunwari at kapalaluan sa paglapit sa Diyos (Sirak 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What should someone serving the Lord expect in difficult times?",
+          "fil": "Ano ang dapat asahan ng naglilingkod sa Panginoon sa mahihirap na panahon?"
+        },
+        "options": {
+          "en": [
+            "Trials calling for patience and faithfulness",
+            "A life without any challenges",
+            "Permission to abandon every commitment"
+          ],
+          "fil": [
+            "Mga pagsubok na nangangailangan ng pagtitiyaga at katapatan",
+            "Buhay na walang anumang hamon",
+            "Pahintulot na talikuran ang bawat pangako"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Service to God calls for steadfast trust amid trials (Sirach 2).",
+          "fil": "Hinihingi ng paglilingkod sa Diyos ang matatag na pagtitiwala sa gitna ng mga pagsubok (Sirak 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the testing of gold illustrate?",
+          "fil": "Ano ang inilalarawan ng pagsubok sa ginto?"
+        },
+        "options": {
+          "en": [
+            "The worthlessness of patience",
+            "Faithfulness refined through hardship",
+            "Wealth as the only sign of goodness"
+          ],
+          "fil": [
+            "Kawalang-halaga ng pagtitiyaga",
+            "Katapatang dinadalisay sa paghihirap",
+            "Kayamanan bilang tanging tanda ng kabutihan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The image of refining describes the strengthening of those who remain faithful (Sirach 2).",
+          "fil": "Ipinakikita ng pagdadalisay ng ginto ang pagpapatibay sa mga nananatiling tapat (Sirak 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why can those who trust God keep hoping for mercy?",
+          "fil": "Bakit maaaring patuloy na umasa sa awa ang mga nagtitiwala sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "He rewards dishonesty above faithfulness",
+            "He is compassionate and does not neglect those who call on him",
+            "His care depends only on social rank"
+          ],
+          "fil": [
+            "Ginagantimpalaan niya ang pandaraya higit sa katapatan",
+            "Maawain siya at hindi pinababayaan ang mga tumatawag sa kanya",
+            "Sa katayuan lamang nakasalalay ang kanyang pangangalaga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Earlier generations are recalled as witnesses to God's compassion and faithfulness (Sirach 2).",
+          "fil": "Ipinaalala ang mga naunang salinlahi bilang mga saksi ng awa at katapatan ng Diyos (Sirak 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "How should children honor their parents?",
+          "fil": "Paano dapat igalang ng mga anak ang kanilang mga magulang?"
+        },
+        "options": {
+          "en": [
+            "Only when they expect an inheritance",
+            "By praising themselves while shaming their parents",
+            "Through both respectful words and actions"
+          ],
+          "fil": [
+            "Kapag umaasa lamang sa mana",
+            "Sa pagpuri sa sarili habang hinihiya ang mga magulang",
+            "Sa magalang na salita at gawa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Respect for parents should be expressed in conduct as well as speech (Sirach 3).",
+          "fil": "Dapat ipakita sa asal at pananalita ang paggalang sa mga magulang (Sirak 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a child respond when an aging parent's understanding weakens?",
+          "fil": "Paano dapat tumugon ang anak kapag humina ang pang-unawa ng tumatandang magulang?"
+        },
+        "options": {
+          "en": [
+            "By abandoning the parent immediately",
+            "With patience and care",
+            "With ridicule and rejection"
+          ],
+          "fil": [
+            "Sa agarang pag-iwan sa magulang",
+            "Nang may pagtitiyaga at pangangalaga",
+            "Nang may pangungutya at pagtatakwil"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter calls for kindness rather than humiliation when a parent becomes frail (Sirach 3).",
+          "fil": "Nanawagan ang kabanata ng kabaitan sa halip na pagpapahiya kapag nanghina ang magulang (Sirak 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What value is attached to a parent's blessing and kindness toward parents?",
+          "fil": "Anong halaga ang iniuugnay sa basbas ng magulang at kabaitan sa mga magulang?"
+        },
+        "options": {
+          "en": [
+            "They have no lasting significance",
+            "They excuse deliberate cruelty to others",
+            "They contribute to an enduring good in family life"
+          ],
+          "fil": [
+            "Wala silang nananatiling kabuluhan",
+            "Ipinagpapaumanhin nila ang sadyang kalupitan sa iba",
+            "Nakatutulong ang mga ito sa nananatiling kabutihan ng buhay-pamilya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Parental blessing and remembered acts of kindness are described as lasting benefits (Sirach 3).",
+          "fil": "Inilarawan bilang nananatiling kabutihan ang basbas ng magulang at naaalalang mga gawa ng kabaitan (Sirak 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "How should someone respond to a poor person in urgent need?",
+          "fil": "Paano dapat tumugon sa mahirap na may agarang pangangailangan?"
+        },
+        "options": {
+          "en": [
+            "Offer help without needless delay",
+            "Add to the person's distress",
+            "Make the person wait as a punishment"
+          ],
+          "fil": [
+            "Tumulong nang walang hindi kailangang pagkaantala",
+            "Dagdagan ang paghihirap ng tao",
+            "Paghintayin ang tao bilang parusa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter urges prompt care rather than prolonging a needy person's suffering (Sirach 4).",
+          "fil": "Hinimok ng kabanata ang agarang pangangalaga sa halip na patagalin ang pagdurusa ng nangangailangan (Sirak 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What manner of speaking should accompany help for the poor?",
+          "fil": "Anong paraan ng pananalita ang dapat kasama ng pagtulong sa mahihirap?"
+        },
+        "options": {
+          "en": [
+            "Public insults to gain attention",
+            "Mockery before giving anything",
+            "Patient listening and gentle, respectful words"
+          ],
+          "fil": [
+            "Panlalait sa publiko upang mapansin",
+            "Pangungutya bago magbigay ng anuman",
+            "Matiyagang pakikinig at mahinahon at magalang na salita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Respectful attention is part of the care owed to people in distress (Sirach 4).",
+          "fil": "Bahagi ng nararapat na pangangalaga sa mga naghihirap ang magalang na pakikinig (Sirak 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility is urged toward the wronged and fatherless?",
+          "fil": "Anong pananagutan sa mga inaapi at ulila ang hinihikayat ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Take advantage of their weakness",
+            "Defend them and offer protective care",
+            "Leave them entirely on their own"
+          ],
+          "fil": [
+            "Pagsamantalahan ang kanilang kahinaan",
+            "Ipagtanggol sila at pangalagaan",
+            "Lubusang pabayaan silang mag-isa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter calls for active protection of those who lack support (Sirach 4).",
+          "fil": "Nanawagan ang kabanata ng aktibong pagprotekta sa mga walang sandigan (Sirak 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "Why should a person avoid relying completely on possessions?",
+          "fil": "Bakit dapat iwasan ang lubos na pag-asa sa mga ari-arian?"
+        },
+        "options": {
+          "en": [
+            "Every possession proves complete wisdom",
+            "Wealth cannot guarantee safety before God",
+            "God's judgment can always be bought"
+          ],
+          "fil": [
+            "Patunay ng ganap na karunungan ang bawat pag-aari",
+            "Hindi matitiyak ng yaman ang kaligtasan sa harap ng Diyos",
+            "Laging mabibili ang paghatol ng Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns against treating wealth as sufficient security (Sirach 5).",
+          "fil": "Nagbabala ang kabanata laban sa pagturing sa yaman bilang sapat na katiwasayan (Sirak 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What mistake does the chapter warn against concerning God's mercy?",
+          "fil": "Anong pagkakamali ang ibinabala ng kabanata tungkol sa awa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Asking forgiveness sincerely",
+            "Turning back after doing wrong",
+            "Using mercy as an excuse to continue sinning"
+          ],
+          "fil": [
+            "Tapat na paghingi ng kapatawaran",
+            "Panunumbalik matapos gumawa ng masama",
+            "Paggamit sa awa bilang dahilan upang magpatuloy sa kasalanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's patience should lead to repentance rather than careless repetition of sin (Sirach 5).",
+          "fil": "Dapat umakay sa pagsisisi ang pagtitiyaga ng Diyos sa halip na pabayaang pag-uulit ng kasalanan (Sirak 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "When should a person turn back to the Lord?",
+          "fil": "Kailan dapat manumbalik ang tao sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Only when no other option remains",
+            "Only after becoming wealthy",
+            "Without putting it off from day to day"
+          ],
+          "fil": [
+            "Kapag wala nang ibang pagpipilian",
+            "Pagkatapos lamang yumaman",
+            "Nang hindi ito ipinagpapaliban araw-araw"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter urges timely repentance instead of repeated delay (Sirach 5).",
+          "fil": "Hinimok ng kabanata ang napapanahong pagsisisi sa halip na paulit-ulit na pagpapaliban (Sirak 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "When should a person begin the discipline of learning wisdom?",
+          "fil": "Kailan dapat simulan ng tao ang pagsasanay sa pagkatuto ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "Only after refusing all earlier advice",
+            "From youth onward",
+            "Only when public honor is guaranteed"
+          ],
+          "fil": [
+            "Pagkatapos lamang tanggihan ang lahat ng naunang payo",
+            "Mula sa kabataan",
+            "Kapag tiyak lamang ang papuri ng publiko"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Early instruction prepares a person to find wisdom in later life (Sirach 6).",
+          "fil": "Inihahanda ng maagang pagtuturo ang tao upang matagpuan ang karunungan sa huling bahagi ng buhay (Sirak 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the comparison with cultivating a field encourage?",
+          "fil": "Ano ang hinihikayat ng paghahambing sa paglinang ng bukid?"
+        },
+        "options": {
+          "en": [
+            "Patient effort while waiting for wisdom's fruit",
+            "Expecting results without any learning",
+            "Giving up as soon as work begins"
+          ],
+          "fil": [
+            "Matiyagang pagsisikap habang hinihintay ang bunga ng karunungan",
+            "Pag-asang may bunga nang walang anumang pag-aaral",
+            "Pagsuko sa sandaling magsimula ang gawain"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Seeking wisdom requires cultivation and patient expectation of its benefits (Sirach 6).",
+          "fil": "Nangangailangan ng paglinang at matiyagang pag-asam sa pakinabang nito ang paghahanap ng karunungan (Sirak 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why might an undisciplined person abandon wisdom too quickly?",
+          "fil": "Bakit maaaring agad talikuran ng taong walang disiplina ang karunungan?"
+        },
+        "options": {
+          "en": [
+            "Its training initially feels difficult and restrictive",
+            "Wisdom never asks anyone to learn",
+            "Only the wealthy are allowed instruction"
+          ],
+          "fil": [
+            "Mahirap at tila mahigpit ang pagsasanay nito sa simula",
+            "Hindi kailanman humihingi ng pagkatuto ang karunungan",
+            "Mayayaman lamang ang pinapayagang turuan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter warns against rejecting wisdom because its discipline first feels burdensome (Sirach 6).",
+          "fil": "Nagbabala ang kabanata laban sa pagtanggi sa karunungan dahil tila mabigat sa simula ang disiplina nito (Sirak 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What should take priority over exchanging a loyal friend for gain?",
+          "fil": "Ano ang dapat unahin kaysa sa pagpapalit ng tapat na kaibigan para sa pakinabang?"
+        },
+        "options": {
+          "en": [
+            "The value of faithful relationships",
+            "The approval of dishonest people",
+            "A chance to obtain more gold at any cost"
+          ],
+          "fil": [
+            "Ang halaga ng tapat na mga ugnayan",
+            "Pagsang-ayon ng mga taong mandaraya",
+            "Pagkakataong makakuha ng higit na ginto anuman ang halaga"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter values a true friend and brother above material profit (Sirach 7).",
+          "fil": "Pinahalagahan ng kabanata ang tunay na kaibigan at kapatid higit sa materyal na pakinabang (Sirak 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is a wise and good spouse valued?",
+          "fil": "Paano pinahalagahan ang matalino at mabuting asawa?"
+        },
+        "options": {
+          "en": [
+            "As a possession to discard for money",
+            "As a blessing worth more than wealth",
+            "As someone whose goodness does not matter"
+          ],
+          "fil": [
+            "Bilang pag-aaring itatapon para sa pera",
+            "Bilang pagpapalang higit sa kayamanan",
+            "Bilang taong walang halaga ang kabutihan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The counsel places a spouse's goodness above financial advantage (Sirach 7).",
+          "fil": "Inuna ng payo ang kabutihan ng asawa higit sa pakinabang sa pera (Sirak 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should a faithful servant or worker be treated?",
+          "fil": "Paano dapat pakitunguhan ang tapat na lingkod o manggagawa?"
+        },
+        "options": {
+          "en": [
+            "With contempt regardless of service",
+            "With care rather than abuse or withheld freedom",
+            "As someone whose loyalty invites exploitation"
+          ],
+          "fil": [
+            "May paghamak anuman ang paglilingkod",
+            "May pangangalaga sa halip na pagmamalupit o pagkakait ng kalayaan",
+            "Bilang taong maaaring pagsamantalahan dahil sa katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter forbids mistreating faithful servants and withholding their liberty (Sirach 7).",
+          "fil": "Ipinagbawal ng kabanata ang pagmamalupit sa tapat na mga lingkod at pagkakait ng kanilang kalayaan (Sirak 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What caution is given about quarrels with powerful or wealthy people?",
+          "fil": "Anong pag-iingat ang ibinigay tungkol sa pakikipag-away sa makapangyarihan o mayaman?"
+        },
+        "options": {
+          "en": [
+            "Assume justice is unnecessary whenever money is present",
+            "Do not recklessly enter conflicts where their power can overwhelm you",
+            "Start every possible argument to show courage"
+          ],
+          "fil": [
+            "Isiping hindi kailangan ang katarungan kapag may pera",
+            "Huwag padalus-dalos sa alitang maaari kang madaig ng kanilang kapangyarihan",
+            "Simulan ang bawat maaaring pagtatalo upang ipakita ang tapang"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter urges prudent restraint in dangerous disputes (Sirach 8).",
+          "fil": "Hinimok ng kabanata ang maingat na pagpipigil sa mapanganib na mga alitan (Sirak 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should a person be careful about traveling with the reckless or violent?",
+          "fil": "Bakit dapat mag-ingat sa paglalakbay kasama ang padalus-dalos o marahas?"
+        },
+        "options": {
+          "en": [
+            "Their anger guarantees everyone's safety",
+            "Their behavior can bring danger to their companions",
+            "They always accept wise advice immediately"
+          ],
+          "fil": [
+            "Tinitiyak ng kanilang galit ang kaligtasan ng lahat",
+            "Maaaring ilagay sa panganib ng kanilang asal ang mga kasama",
+            "Palagi silang agad tumatanggap ng matalinong payo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The advice recognizes that a companion's recklessness can endanger others (Sirach 8).",
+          "fil": "Kinikilala ng payo na maaaring ilagay sa panganib ng kapusukan ng kasama ang iba (Sirak 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What approach to sharing private matters is recommended?",
+          "fil": "Anong paraan ng pagbabahagi ng pribadong bagay ang ipinapayo?"
+        },
+        "options": {
+          "en": [
+            "Use discernment instead of trusting every listener",
+            "Tell every stranger every secret",
+            "Assume foolish people always keep confidence"
+          ],
+          "fil": [
+            "Gumamit ng pagkilatis sa halip na magtiwala sa bawat nakikinig",
+            "Sabihin sa bawat hindi kakilala ang bawat lihim",
+            "Isiping laging nag-iingat ng lihim ang mga mangmang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter urges discretion about secrets and the people consulted (Sirach 8).",
+          "fil": "Hinimok ng kabanata ang pag-iingat sa mga lihim at sa mga taong kinokonsulta (Sirak 8)."
+        }
+      }
+    ],
+    "9": [
+      {
+        "q": {
+          "en": "What warning is given about jealousy within marriage?",
+          "fil": "Anong babala ang ibinigay tungkol sa pagseselos sa pag-aasawa?"
+        },
+        "options": {
+          "en": [
+            "Jealous accusations always strengthen trust",
+            "Unfounded jealousy can damage the relationship",
+            "A spouse should be publicly humiliated for reassurance"
+          ],
+          "fil": [
+            "Palaging pinatitibay ng mga paratang ng selos ang tiwala",
+            "Maaaring sirain ng walang-batayang pagseselos ang ugnayan",
+            "Dapat hiyain sa publiko ang asawa upang mapanatag"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter cautions against jealous conduct that creates trouble in one's own home (Sirach 9).",
+          "fil": "Nagbababala ang kabanata laban sa mapagselos na asal na nagdudulot ng suliranin sa sariling tahanan (Sirak 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude is urged toward attraction that could lead to unfaithfulness?",
+          "fil": "Anong saloobin ang hinihikayat sa pagkahumaling na maaaring humantong sa pagtataksil?"
+        },
+        "options": {
+          "en": [
+            "Deliberately feeding the temptation",
+            "Self-control and faithful boundaries",
+            "Treating another person's marriage as unimportant"
+          ],
+          "fil": [
+            "Sadyang pagpapalakas sa tukso",
+            "Pagpipigil sa sarili at mga hangganan ng katapatan",
+            "Pagtrato sa pag-aasawa ng iba bilang walang halaga"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The warnings call for restraint rather than cultivating desires that threaten fidelity (Sirach 9).",
+          "fil": "Nanawagan ang mga babala ng pagpipigil sa halip na paglinang ng mga pagnanasang nagbabanta sa katapatan (Sirak 9)."
+        }
+      },
+      {
+        "q": {
+          "en": "What further harm can the pursuit of illicit pleasure bring?",
+          "fil": "Anong dagdag na pinsala ang maaaring idulot ng paghahangad ng bawal na kasiyahan?"
+        },
+        "options": {
+          "en": [
+            "Guaranteed family peace",
+            "Freedom from every consequence",
+            "Loss of one's resources and stability"
+          ],
+          "fil": [
+            "Tiyak na kapayapaan ng pamilya",
+            "Kalayaan sa bawat bunga ng gawa",
+            "Pagkawala ng sariling mga yaman at katatagan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter connects reckless pursuit of pleasure with damage to a person's life and possessions (Sirach 9).",
+          "fil": "Iniugnay ng kabanata ang padalus-dalos na paghahangad ng kasiyahan sa pinsala sa buhay at mga pag-aari (Sirak 9)."
+        }
+      }
+    ],
+    "10": [
+      {
+        "q": {
+          "en": "What spiritual error lies at the beginning of pride?",
+          "fil": "Anong espirituwal na kamalian ang nasa simula ng kapalaluan?"
+        },
+        "options": {
+          "en": [
+            "Acknowledging one's dependence on God",
+            "Listening humbly to correction",
+            "Turning one's heart away from the Creator"
+          ],
+          "fil": [
+            "Pagkilala sa sariling pag-asa sa Diyos",
+            "Mapagpakumbabang pakikinig sa pagtutuwid",
+            "Paglalayo ng puso sa Manlilikha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Pride is linked with forgetting the God who made us (Sirach 10).",
+          "fil": "Iniugnay ang kapalaluan sa paglimot sa Diyos na gumawa sa atin (Sirak 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should even a ruler avoid boasting in status?",
+          "fil": "Bakit dapat iwasan maging ng pinuno ang pagmamayabang sa katayuan?"
+        },
+        "options": {
+          "en": [
+            "Human power is temporary and everyone is mortal",
+            "High rank removes human weakness",
+            "A ruler can control death by command"
+          ],
+          "fil": [
+            "Pansamantala ang kapangyarihan ng tao at lahat ay namamatay",
+            "Inaalis ng mataas na katayuan ang kahinaan ng tao",
+            "Kayang kontrolin ng pinuno ang kamatayan sa utos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter contrasts proud claims with the frailty shared by all people (Sirach 10).",
+          "fil": "Inihambing ng kabanata ang mapagmataas na pag-aangkin sa kahinaang taglay ng lahat ng tao (Sirak 10)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is the true basis of honor across rich and poor alike?",
+          "fil": "Ano ang tunay na batayan ng karangalan sa mayaman at mahirap?"
+        },
+        "options": {
+          "en": [
+            "Reverence for God and upright conduct",
+            "The ability to silence the weak",
+            "Birth into the richest family"
+          ],
+          "fil": [
+            "Paggalang sa Diyos at matuwid na asal",
+            "Kakayahang patahimikin ang mahihina",
+            "Pagsilang sa pinakamayamang pamilya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "True honor is attached to faithfulness rather than wealth or ancestry (Sirach 10).",
+          "fil": "Iniugnay ang tunay na karangalan sa katapatan sa halip na yaman o angkan (Sirak 10)."
+        }
+      }
+    ],
+    "11": [
+      {
+        "q": {
+          "en": "How should a person's outward appearance affect our judgment of them?",
+          "fil": "Paano dapat makaapekto ang panlabas na anyo sa paghusga natin sa tao?"
+        },
+        "options": {
+          "en": [
+            "It should not determine their worth",
+            "Poor appearance proves bad character",
+            "Fine clothing proves wisdom"
+          ],
+          "fil": [
+            "Hindi nito dapat itakda ang kanilang halaga",
+            "Patunay ng masamang pagkatao ang hamak na anyo",
+            "Patunay ng karunungan ang magarang damit"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter warns against praising or despising people merely for their looks (Sirach 11).",
+          "fil": "Nagbabala ang kabanata laban sa pagpuri o paghamak sa tao dahil lamang sa hitsura (Sirak 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should come before blaming or rebuking someone?",
+          "fil": "Ano ang dapat mauna bago sisihin o sawayin ang isang tao?"
+        },
+        "options": {
+          "en": [
+            "Listening and investigating the matter",
+            "Interrupting every explanation",
+            "Accepting the first rumor immediately"
+          ],
+          "fil": [
+            "Pakikinig at pagsisiyasat sa pangyayari",
+            "Paggambala sa bawat paliwanag",
+            "Agad na pagtanggap sa unang sabi-sabi"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Understanding the facts must precede correction (Sirach 11).",
+          "fil": "Dapat mauna ang pag-unawa sa mga pangyayari bago ang pagtutuwid (Sirak 11)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should people remain humble about status and success?",
+          "fil": "Bakit dapat manatiling mapagpakumbaba tungkol sa katayuan at tagumpay?"
+        },
+        "options": {
+          "en": [
+            "Honor can never be lost",
+            "The poor can never rise",
+            "Fortunes can change and God can lift the lowly"
+          ],
+          "fil": [
+            "Hindi kailanman mawawala ang karangalan",
+            "Hindi kailanman aangat ang mahihirap",
+            "Maaaring magbago ang kalagayan at maitataas ng Diyos ang mababa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Examples of reversed fortunes challenge pride in present position (Sirach 11).",
+          "fil": "Hinahamon ng mga halimbawa ng nagbagong kalagayan ang kapalaluan sa kasalukuyang katayuan (Sirak 11)."
+        }
+      }
+    ],
+    "12": [
+      {
+        "q": {
+          "en": "Why does the chapter urge discernment in giving help?",
+          "fil": "Bakit hinihikayat ng kabanata ang pagkilatis sa pagbibigay ng tulong?"
+        },
+        "options": {
+          "en": [
+            "Help should not strengthen someone intent on harming others",
+            "Kindness has no value",
+            "Every poor person should be despised"
+          ],
+          "fil": [
+            "Hindi dapat palakasin ng tulong ang nagbabalak manakit sa iba",
+            "Walang halaga ang kabaitan",
+            "Dapat hamakin ang bawat mahirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The warning concerns aid that would be turned into a means of further harm (Sirach 12).",
+          "fil": "Tungkol ang babala sa tulong na gagawing paraan ng higit pang pananakit (Sirak 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about an enemy's humble appearance and pleasant words?",
+          "fil": "Anong babala ang ibinigay tungkol sa mapagpakumbabang anyo at magagandang salita ng kaaway?"
+        },
+        "options": {
+          "en": [
+            "They make past deception impossible",
+            "They always prove a complete change of heart",
+            "They may conceal hostile intentions"
+          ],
+          "fil": [
+            "Ginagawa nilang imposible ang dating panlilinlang",
+            "Palaging patunay ang mga ito ng lubos na pagbabago ng puso",
+            "Maaaring itago ng mga ito ang masamang balak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter advises caution when friendly behavior masks continuing hostility (Sirach 12).",
+          "fil": "Ipinapayo ng kabanata ang pag-iingat kapag tinatakpan ng magiliw na asal ang patuloy na pagkapoot (Sirak 12)."
+        }
+      },
+      {
+        "q": {
+          "en": "What can hardship reveal about relationships?",
+          "fil": "Ano ang maaaring ihayag ng paghihirap tungkol sa mga ugnayan?"
+        },
+        "options": {
+          "en": [
+            "That every flattering acquaintance is loyal",
+            "That prosperity is the only test of friendship",
+            "Who is dependable and where hidden hostility lies"
+          ],
+          "fil": [
+            "Na tapat ang bawat kakilalang nambobola",
+            "Na kasaganaan lamang ang pagsubok sa pagkakaibigan",
+            "Kung sino ang maaasahan at saan may nakatagong pagkapoot"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Adversity exposes loyalties and enmities that prosperity can hide (Sirach 12).",
+          "fil": "Inilalantad ng kahirapan ang mga katapatan at pagkapoot na maaaring itago ng kasaganaan (Sirak 12)."
+        }
+      }
+    ],
+    "13": [
+      {
+        "q": {
+          "en": "What danger is pictured in a friendship dominated by a much richer person?",
+          "fil": "Anong panganib ang inilalarawan sa pagkakaibigang pinangingibabawan ng higit na mayaman?"
+        },
+        "options": {
+          "en": [
+            "The poorer person always controls the relationship",
+            "The weaker person may be used and then abandoned",
+            "Wealth automatically guarantees fair treatment"
+          ],
+          "fil": [
+            "Palaging kontrolado ng mas mahirap ang ugnayan",
+            "Maaaring gamitin at pagkatapos ay iwan ang mas mahina",
+            "Awtomatikong tinitiyak ng yaman ang patas na pagtrato"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns against relationships where unequal power becomes exploitation (Sirach 13).",
+          "fil": "Nagbabala ang kabanata laban sa mga ugnayang nagiging pagsasamantala ang di-pantay na kapangyarihan (Sirak 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unfair contrast does the writer observe between rich and poor?",
+          "fil": "Anong di-patas na pagkakaiba ang nakita ng sumulat sa mayaman at mahirap?"
+        },
+        "options": {
+          "en": [
+            "The rich may threaten after doing wrong while the wronged poor must apologize",
+            "Poor people never experience injustice",
+            "Both are always treated equally by society"
+          ],
+          "fil": [
+            "Maaaring magbanta ang mayamang nagkasala habang kailangang humingi ng tawad ang mahirap na inapi",
+            "Hindi kailanman nakararanas ng kawalang-katarungan ang mahihirap",
+            "Laging pantay ang pagtrato ng lipunan sa dalawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The observation exposes how social power can distort fair treatment (Sirach 13).",
+          "fil": "Inilalantad ng obserbasyon kung paano maaaring baluktutin ng kapangyarihan sa lipunan ang patas na pagtrato (Sirak 13)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should someone respond to flattering interest from the powerful?",
+          "fil": "Paano dapat tumugon sa mapambolang pakikitungo ng makapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "With thoughtful caution rather than instant trust",
+            "By sharing every secret at once",
+            "By assuming every promise is certain"
+          ],
+          "fil": [
+            "May maingat na pagkilatis sa halip na agarang pagtitiwala",
+            "Sa pagbabahagi agad ng bawat lihim",
+            "Sa pag-aakalang tiyak ang bawat pangako"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The advice urges reserve when another person's kindness may serve self-interest (Sirach 13).",
+          "fil": "Hinimok ng payo ang pag-iingat kapag maaaring para sa pansariling interes ang kabaitan ng iba (Sirak 13)."
+        }
+      }
+    ],
+    "14": [
+      {
+        "q": {
+          "en": "What is foolish about hoarding while denying every good to oneself?",
+          "fil": "Ano ang kamangmangan sa pag-iipon habang ipinagkakait sa sarili ang bawat mabuti?"
+        },
+        "options": {
+          "en": [
+            "It guarantees a longer life",
+            "Others may enjoy what the miser never uses well",
+            "It automatically benefits every neighbor"
+          ],
+          "fil": [
+            "Tinitiyak nito ang mas mahabang buhay",
+            "Maaaring tamasahin ng iba ang hindi kailanman nagamit nang mabuti ng maramot",
+            "Kusang nakikinabang dito ang bawat kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter criticizes wealth accumulated without wise or generous use (Sirach 14).",
+          "fil": "Pinuna ng kabanata ang yamang iniipon nang walang matalino o mapagbigay na paggamit (Sirak 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "What balanced use of resources is encouraged?",
+          "fil": "Anong balanseng paggamit ng mga yaman ang hinihikayat?"
+        },
+        "options": {
+          "en": [
+            "Refuse every good thing out of greed",
+            "Enjoy legitimate goods and honor God with one's means",
+            "Waste everything to attract attention"
+          ],
+          "fil": [
+            "Tanggihan ang bawat mabuting bagay dahil sa kasakiman",
+            "Tamasahin ang mabubuting bagay at parangalan ang Diyos ayon sa kakayahan",
+            "Sayangin ang lahat upang mapansin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The counsel permits wholesome enjoyment together with worthy offerings to God (Sirach 14).",
+          "fil": "Pinahihintulutan ng payo ang mabuting kasiyahan kasama ang karapat-dapat na mga handog sa Diyos (Sirak 14)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should someone do good to friends while still alive?",
+          "fil": "Bakit dapat gumawa ng mabuti sa mga kaibigan habang buhay pa?"
+        },
+        "options": {
+          "en": [
+            "Generosity is useful only after death",
+            "Death guarantees control of all possessions",
+            "The chance to share will not last forever"
+          ],
+          "fil": [
+            "May silbi lamang ang pagbibigay matapos mamatay",
+            "Tinitiyak ng kamatayan ang paghawak sa lahat ng pag-aari",
+            "Hindi mananatili magpakailanman ang pagkakataong magbahagi"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Remembering life's limits encourages present generosity (Sirach 14).",
+          "fil": "Hinihikayat ng pag-alala sa hangganan ng buhay ang pagbibigay ngayon (Sirak 14)."
+        }
+      }
+    ],
+    "15": [
+      {
+        "q": {
+          "en": "Which claim about wrongdoing does this chapter reject?",
+          "fil": "Aling pahayag tungkol sa pagkakasala ang tinatanggihan ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "People are responsible for their choices",
+            "A person can choose to obey the commandments",
+            "The Lord makes people commit sin"
+          ],
+          "fil": [
+            "May pananagutan ang tao sa kanyang mga pagpili",
+            "Maaaring piliin ng tao na sundin ang mga utos",
+            "Ang Panginoon ang nagtutulak sa tao na magkasala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter rejects the claim that God causes a person to do what he hates (Sirach 15).",
+          "fil": "Tinatanggihan ng kabanata ang pag-aangking ang Diyos ang sanhi ng paggawa ng tao ng kanyang kinapopootan (Sirak 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are obedience and faithfulness presented?",
+          "fil": "Paano inihaharap ang pagsunod at katapatan?"
+        },
+        "options": {
+          "en": [
+            "As matters unrelated to conduct",
+            "As impossible for every willing person",
+            "As choices for which people are responsible"
+          ],
+          "fil": [
+            "Bilang mga bagay na walang kaugnayan sa asal",
+            "Bilang imposible sa bawat handang tao",
+            "Bilang mga pagpiling may pananagutan ang tao"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter affirms human responsibility in responding to God's commands (Sirach 15).",
+          "fil": "Pinagtitibay ng kabanata ang pananagutan ng tao sa pagtugon sa mga utos ng Diyos (Sirak 15)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does choosing between life and death emphasize?",
+          "fil": "Ano ang binibigyang-diin ng pagpili sa buhay at kamatayan?"
+        },
+        "options": {
+          "en": [
+            "God has given permission for every sin",
+            "Every action has exactly the same result",
+            "Our choices have real consequences"
+          ],
+          "fil": [
+            "Ibinigay ng Diyos ang pahintulot sa bawat kasalanan",
+            "Pare-pareho ang bunga ng bawat gawa",
+            "May tunay na bunga ang ating mga pagpili"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The contrasting choices underscore the seriousness of moral freedom (Sirach 15).",
+          "fil": "Binibigyang-diin ng magkasalungat na pagpili ang kabigatan ng kalayaang moral (Sirak 15)."
+        }
+      }
+    ],
+    "16": [
+      {
+        "q": {
+          "en": "What matters more than having many descendants?",
+          "fil": "Ano ang mas mahalaga kaysa sa pagkakaroon ng maraming inapo?"
+        },
+        "options": {
+          "en": [
+            "Their number regardless of character",
+            "Their ability to overpower neighbors",
+            "Their reverence for God and good conduct"
+          ],
+          "fil": [
+            "Ang kanilang dami anuman ang asal",
+            "Ang kakayahan nilang daigin ang mga kapitbahay",
+            "Ang kanilang paggalang sa Diyos at mabuting asal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter values godliness above the mere size of a family (Sirach 16).",
+          "fil": "Pinahalagahan ng kabanata ang pagiging maka-Diyos higit sa dami lamang ng pamilya (Sirak 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the warnings from earlier generations teach about wrongdoing?",
+          "fil": "Ano ang itinuturo ng mga babala mula sa naunang salinlahi tungkol sa kasamaan?"
+        },
+        "options": {
+          "en": [
+            "A large crowd can never face judgment",
+            "Great strength or numbers do not remove accountability to God",
+            "Power makes every offense harmless"
+          ],
+          "fil": [
+            "Hindi kailanman mahahatulan ang malaking karamihan",
+            "Hindi inaalis ng malaking lakas o dami ang pananagutan sa Diyos",
+            "Ginagawang walang masama ng kapangyarihan ang bawat pagkakasala"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Past judgments show that no size or power makes disobedience safe (Sirach 16).",
+          "fil": "Ipinakikita ng mga nakaraang paghatol na walang dami o lakas na nagpapaligtas sa pagsuway (Sirak 16)."
+        }
+      },
+      {
+        "q": {
+          "en": "Are merciful deeds and faithful perseverance overlooked by God?",
+          "fil": "Binabalewala ba ng Diyos ang mga gawa ng awa at tapat na pagtitiyaga?"
+        },
+        "options": {
+          "en": [
+            "No, he takes people's actions seriously",
+            "Yes, only family size matters",
+            "Yes, he notices only fame"
+          ],
+          "fil": [
+            "Hindi, pinahahalagahan niya ang mga gawa ng tao",
+            "Oo, dami lamang ng pamilya ang mahalaga",
+            "Oo, katanyagan lamang ang napapansin niya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter assures readers that God recognizes deeds of mercy and faithfulness (Sirach 16).",
+          "fil": "Tinitiyak ng kabanata na kinikilala ng Diyos ang mga gawa ng awa at katapatan (Sirak 16)."
+        }
+      }
+    ],
+    "17": [
+      {
+        "q": {
+          "en": "What gifts help human beings recognize good and evil?",
+          "fil": "Anong mga kaloob ang tumutulong sa tao na makilala ang mabuti at masama?"
+        },
+        "options": {
+          "en": [
+            "Authority to invent truth at will",
+            "Wealth without any need to learn",
+            "Understanding and moral awareness given by God"
+          ],
+          "fil": [
+            "Awtoridad na lumikha ng katotohanan ayon sa gusto",
+            "Yamang walang pangangailangang matuto",
+            "Pag-unawa at kaalamang moral na ibinigay ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God equips humanity with faculties for understanding and responsible action (Sirach 17).",
+          "fil": "Binigyan ng Diyos ang tao ng mga kakayahan para sa pag-unawa at may-pananagutang pagkilos (Sirak 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God's covenant and law call people to do?",
+          "fil": "Ano ang hinihingi ng tipan at kautusan ng Diyos sa mga tao?"
+        },
+        "options": {
+          "en": [
+            "Avoid injustice and act rightly toward neighbors",
+            "Treat other people as worthless",
+            "Separate worship from all moral duties"
+          ],
+          "fil": [
+            "Iwasan ang kawalang-katarungan at maging matuwid sa kapwa",
+            "Ituring na walang halaga ang ibang tao",
+            "Ihiwalay ang pagsamba sa lahat ng tungkuling moral"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The law given with the covenant directs how people should treat one another (Sirach 17).",
+          "fil": "Ginagabayan ng kautusang ibinigay sa tipan kung paano dapat pakitunguhan ang isa't isa (Sirak 17)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should people remember about actions hidden from others?",
+          "fil": "Ano ang dapat tandaan tungkol sa mga gawang nakatago sa iba?"
+        },
+        "options": {
+          "en": [
+            "They cannot affect one's responsibility",
+            "They automatically become innocent",
+            "They remain known to God"
+          ],
+          "fil": [
+            "Hindi makaaapekto ang mga ito sa pananagutan",
+            "Awtomatiko silang nagiging walang sala",
+            "Nananatiling alam ng Diyos ang mga ito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Human ways and wrongs are not concealed from God's sight (Sirach 17).",
+          "fil": "Hindi nakatago sa paningin ng Diyos ang mga landas at kasamaan ng tao (Sirak 17)."
+        }
+      }
+    ],
+    "18": [
+      {
+        "q": {
+          "en": "Why does God show patience toward fragile human beings?",
+          "fil": "Bakit nagtitiis ang Diyos sa mahihinang tao?"
+        },
+        "options": {
+          "en": [
+            "He cannot see their condition",
+            "Human beings are stronger than he is",
+            "He knows their limited lives and need for mercy"
+          ],
+          "fil": [
+            "Hindi niya nakikita ang kanilang kalagayan",
+            "Mas malakas sa kanya ang mga tao",
+            "Alam niya ang kanilang limitadong buhay at pangangailangan sa awa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Human frailty is linked with God's abundant compassion and forgiveness (Sirach 18).",
+          "fil": "Iniugnay ang kahinaan ng tao sa masaganang habag at kapatawaran ng Diyos (Sirak 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God's compassion differ from ordinary human mercy?",
+          "fil": "Paano naiiba ang habag ng Diyos sa karaniwang awa ng tao?"
+        },
+        "options": {
+          "en": [
+            "It reaches all living people rather than only those nearby",
+            "It is limited to the most important families",
+            "It excludes everyone needing correction"
+          ],
+          "fil": [
+            "Umaabot ito sa lahat ng tao at hindi lamang sa mga malapit",
+            "Para lamang ito sa pinakamahahalagang pamilya",
+            "Hindi kasama rito ang lahat ng nangangailangan ng pagtutuwid"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's mercy is portrayed as broad and shepherd-like in its care (Sirach 18).",
+          "fil": "Inilarawan ang awa ng Diyos bilang malawak at tulad ng pangangalaga ng pastol (Sirak 18)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should accompany a gift if it is to express real kindness?",
+          "fil": "Ano ang dapat kasama ng regalo upang magpahayag ng tunay na kabaitan?"
+        },
+        "options": {
+          "en": [
+            "Insults reminding the receiver of inferiority",
+            "Gracious words without reproach",
+            "Constant demands for public praise"
+          ],
+          "fil": [
+            "Mga panlalait na nagpapaalala ng pagiging mababa ng tumanggap",
+            "Magiliw na salitang walang panunumbat",
+            "Walang-tigil na paghingi ng papuri sa publiko"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Harsh speech undermines generosity while a gracious manner completes it (Sirach 18).",
+          "fil": "Sinisira ng malupit na pananalita ang pagbibigay samantalang binubuo ito ng magiliw na asal (Sirak 18)."
+        }
+      }
+    ],
+    "19": [
+      {
+        "q": {
+          "en": "What should a person do with an unnecessary rumor?",
+          "fil": "Ano ang dapat gawin sa hindi kailangang sabi-sabi?"
+        },
+        "options": {
+          "en": [
+            "Let it stop rather than pass it on",
+            "Make it more dramatic to interest others",
+            "Repeat it before checking it"
+          ],
+          "fil": [
+            "Hayaang matigil ito sa halip na ipasa",
+            "Palalain ito upang maakit ang iba",
+            "Ulitin ito bago suriin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter urges restraint instead of spreading harmful gossip (Sirach 19).",
+          "fil": "Hinimok ng kabanata ang pagpipigil sa halip na pagpapakalat ng mapaminsalang tsismis (Sirak 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should an accusation against a friend be handled?",
+          "fil": "Paano dapat harapin ang paratang laban sa kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Ask and clarify before believing every report",
+            "Assume every accusation is true",
+            "Threaten the friend without hearing them"
+          ],
+          "fil": [
+            "Magtanong at linawin bago paniwalaan ang bawat ulat",
+            "Isiping totoo ang bawat paratang",
+            "Pagbantaan ang kaibigan nang hindi pinakikinggan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Careful questioning can expose slander or correct a real mistake (Sirach 19).",
+          "fil": "Maaaring mailantad ng maingat na pagtatanong ang paninira o maituwid ang tunay na pagkakamali (Sirak 19)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should a careless word not always be treated as deliberate malice?",
+          "fil": "Bakit hindi dapat laging ituring na sadyang masamang hangarin ang padalus-dalos na salita?"
+        },
+        "options": {
+          "en": [
+            "Every rumor must be protected from correction",
+            "Words can never cause harm",
+            "People can slip in speech without intending the harm"
+          ],
+          "fil": [
+            "Dapat protektahan sa pagtutuwid ang bawat sabi-sabi",
+            "Hindi kailanman nakapipinsala ang mga salita",
+            "Maaaring magkamali sa pagsasalita ang tao nang hindi sinasadya ang pinsala"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter distinguishes a verbal slip from settled evil intent (Sirach 19).",
+          "fil": "Ibinukod ng kabanata ang pagkakamali sa salita mula sa sadyang masamang hangarin (Sirak 19)."
+        }
+      }
+    ],
+    "20": [
+      {
+        "q": {
+          "en": "What makes silence wise rather than merely speechless?",
+          "fil": "Ano ang nagpapatalino sa pananahimik sa halip na kawalan lamang ng masabi?"
+        },
+        "options": {
+          "en": [
+            "Never listening to anyone",
+            "Keeping truth hidden in every situation",
+            "Knowing the right time to speak"
+          ],
+          "fil": [
+            "Hindi pakikinig sa sinuman kailanman",
+            "Pagtatago ng katotohanan sa bawat pagkakataon",
+            "Pag-alam sa tamang panahon ng pagsasalita"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The wise person uses restraint and speaks at a fitting moment (Sirach 20).",
+          "fil": "Nagpipigil ang matalino at nagsasalita sa angkop na pagkakataon (Sirak 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is better than letting anger grow without addressing a wrong?",
+          "fil": "Ano ang mas mabuti kaysa sa pagpapalago ng galit nang hindi tinutugunan ang mali?"
+        },
+        "options": {
+          "en": [
+            "Appropriate correction",
+            "Violent retaliation",
+            "A public campaign of insults"
+          ],
+          "fil": [
+            "Angkop na pagtutuwid",
+            "Marahas na pagganti",
+            "Pampublikong kampanya ng panlalait"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening counsel favors thoughtful reproof over unresolved anger (Sirach 20).",
+          "fil": "Pinaboran ng pambungad na payo ang maingat na pagsaway kaysa sa hindi nalutas na galit (Sirak 20)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is wrong with a gift accompanied by repeated insults and demands?",
+          "fil": "Ano ang mali sa regalong may kasamang paulit-ulit na panlalait at paghingi?"
+        },
+        "options": {
+          "en": [
+            "The receiver becomes obligated to praise abuse",
+            "The giver's speech spoils the kindness",
+            "The insults make it more generous"
+          ],
+          "fil": [
+            "Nagiging obligadong purihin ng tumanggap ang pagmamalupit",
+            "Sinisira ng pananalita ng nagbibigay ang kabaitan",
+            "Lalong pinapabukas-palad ito ng mga panlalait"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The foolish giver's small gift is overshadowed by much insulting talk (Sirach 20).",
+          "fil": "Natatabunan ng maraming mapanlait na salita ang maliit na kaloob ng mangmang (Sirak 20)."
+        }
+      }
+    ],
+    "21": [
+      {
+        "q": {
+          "en": "How does a wise person respond to sound teaching?",
+          "fil": "Paano tumutugon ang taong marunong sa mabuting aral?"
+        },
+        "options": {
+          "en": [
+            "Welcomes it and learns more",
+            "Rejects it without listening",
+            "Mocks everyone who teaches"
+          ],
+          "fil": [
+            "Tinatanggap ito at nadaragdagan ang kaalaman",
+            "Tinatanggihan ito nang hindi nakikinig",
+            "Hinahamak ang lahat ng nagtuturo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The wise value good teaching and build on what they hear (Sirach 21).",
+          "fil": "Pinahahalagahan ng marunong ang mabuting aral at dinaragdagan ang natutuhan (Sirak 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter say about a fool's ability to keep knowledge?",
+          "fil": "Ano ang sinasabi ng kabanata tungkol sa kakayahan ng mangmang na mag-ingat ng kaalaman?"
+        },
+        "options": {
+          "en": [
+            "It is always greater than the knowledge of the wise",
+            "It is like a broken container that cannot hold its contents",
+            "It grows simply by refusing all advice"
+          ],
+          "fil": [
+            "Lagi itong higit sa kaalaman ng marunong",
+            "Tulad ito ng sirang sisidlang hindi makapaglaman",
+            "Lumalago ito sa pagtanggi sa lahat ng payo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The broken container illustrates the failure to retain instruction (Sirach 21).",
+          "fil": "Inilalarawan ng sirang sisidlan ang hindi pag-iingat sa aral (Sirak 21)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do people seek a prudent person's advice?",
+          "fil": "Bakit hinahanap ng mga tao ang payo ng taong maingat mag-isip?"
+        },
+        "options": {
+          "en": [
+            "The advice encourages endless quarrels",
+            "The advice makes learning unnecessary",
+            "The advice offers understanding worth considering"
+          ],
+          "fil": [
+            "Hinihikayat nito ang walang katapusang pagtatalo",
+            "Ginagawa nitong hindi na kailangan ang pag-aaral",
+            "Nagbibigay ito ng kaunawaang dapat pag-isipan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter presents wise counsel as helpful and worthy of reflection (Sirach 21).",
+          "fil": "Ipinakikita ng kabanata na kapaki-pakinabang at dapat pag-isipan ang matalinong payo (Sirak 21)."
+        }
+      }
+    ],
+    "22": [
+      {
+        "q": {
+          "en": "How should someone treat a friend who has become poor?",
+          "fil": "Paano dapat pakitunguhan ang kaibigang naghirap?"
+        },
+        "options": {
+          "en": [
+            "Remain loyal during the hardship",
+            "Pretend never to have known the friend",
+            "Wait for riches before offering friendship"
+          ],
+          "fil": [
+            "Manatiling tapat sa panahon ng kahirapan",
+            "Magkunwaring hindi kailanman nakilala ang kaibigan",
+            "Hintaying yumaman bago makipagkaibigan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter encourages steadfast friendship during poverty and trouble (Sirach 22).",
+          "fil": "Hinihikayat ng kabanata ang tapat na pagkakaibigan sa kahirapan at kaguluhan (Sirak 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "What possibility remains after a quarrel with a friend?",
+          "fil": "Anong posibilidad ang nananatili matapos makagalit ang kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Every disagreement must last forever",
+            "Reconciliation may still be possible",
+            "Only public revenge can restore friendship"
+          ],
+          "fil": [
+            "Dapat tumagal magpakailanman ang bawat di-pagkakasundo",
+            "Maaari pang magkasundo muli",
+            "Paghihiganti sa harap ng lahat lamang ang makapagbabalik ng pagkakaibigan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A disagreement does not always close the way to reconciliation (Sirach 22).",
+          "fil": "Hindi laging nagsasara ang daan sa pagkakasundo dahil sa pagtatalo (Sirak 22)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which action seriously damages friendship in this chapter?",
+          "fil": "Aling kilos ang lubhang sumisira sa pagkakaibigan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Betraying a friend's secrets",
+            "Standing beside a struggling friend",
+            "Offering shelter in trouble"
+          ],
+          "fil": [
+            "Pagtataksil sa lihim ng kaibigan",
+            "Pagdamay sa kaibigang nahihirapan",
+            "Pagbibigay ng masisilungan sa kaguluhan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Revealing a friend's secrets is named among acts that drive friends apart (Sirach 22).",
+          "fil": "Ang pagbubunyag ng lihim ng kaibigan ay kabilang sa mga kilos na sumisira sa pagkakaibigan (Sirak 22)."
+        }
+      }
+    ],
+    "23": [
+      {
+        "q": {
+          "en": "What help does the opening prayer seek from God?",
+          "fil": "Anong tulong ang hinihingi sa Diyos sa pambungad na panalangin?"
+        },
+        "options": {
+          "en": [
+            "Permission to become proud",
+            "Discipline over thoughts and desires",
+            "Skill in deceiving neighbors"
+          ],
+          "fil": [
+            "Pahintulot na maging palalo",
+            "Disiplina sa pag-iisip at mga pagnanasa",
+            "Kakayahang manlinlang ng kapwa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer asks God to keep the speaker from sinful thoughts and uncontrolled desires (Sirach 23).",
+          "fil": "Hinihiling ng panalangin na ilayo ng Diyos ang nagsasalita sa masamang isip at di-mapigil na pagnanasa (Sirak 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "What habit of speech does this chapter warn against?",
+          "fil": "Anong gawi sa pagsasalita ang binabalaan ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Carelessly making frequent oaths",
+            "Asking sincerely for guidance",
+            "Speaking respectfully to parents"
+          ],
+          "fil": [
+            "Madalas na panunumpa nang padalus-dalos",
+            "Taos-pusong paghingi ng patnubay",
+            "Magalang na pagsasalita sa mga magulang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Frequent and careless oaths expose a person to wrongdoing (Sirach 23).",
+          "fil": "Inilalapit ng madalas at padalus-dalos na panunumpa ang tao sa pagkakasala (Sirak 23)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which way of speaking should a person avoid?",
+          "fil": "Aling paraan ng pagsasalita ang dapat iwasan ng tao?"
+        },
+        "options": {
+          "en": [
+            "Habitual insults and vulgar language",
+            "Words that admit a mistake",
+            "Gentle answers to sincere questions"
+          ],
+          "fil": [
+            "Palagiang pang-iinsulto at mahalay na pananalita",
+            "Mga salitang umaamin ng pagkakamali",
+            "Mahinahong sagot sa tapat na tanong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter warns that abusive speech can become a destructive habit (Sirach 23).",
+          "fil": "Nagbababala ang kabanata na maaaring maging mapanirang gawi ang mapang-abusong pananalita (Sirak 23)."
+        }
+      }
+    ],
+    "24": [
+      {
+        "q": {
+          "en": "Who is presented as the source of Wisdom?",
+          "fil": "Sino ang ipinakikilalang pinagmulan ng Karunungan?"
+        },
+        "options": {
+          "en": [
+            "The Most High, the Creator",
+            "A wealthy merchant",
+            "A king who defeated every nation"
+          ],
+          "fil": [
+            "Ang Kataas-taasan na Lumikha",
+            "Isang mayamang mangangalakal",
+            "Isang haring tumalo sa lahat ng bansa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom speaks of coming from the Most High and receiving a dwelling from the Creator (Sirach 24).",
+          "fil": "Sinasabi ng Karunungan na nagmula siya sa Kataas-taasan at pinagkalooban ng tahanan ng Lumikha (Sirak 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "Among which people does Wisdom take root?",
+          "fil": "Saang bayan nag-uugat ang Karunungan?"
+        },
+        "options": {
+          "en": [
+            "Israel, God's people",
+            "Only among Egypt's soldiers",
+            "Only among the rulers of Babylon"
+          ],
+          "fil": [
+            "Sa Israel na bayan ng Diyos",
+            "Sa mga kawal lamang ng Egipto",
+            "Sa mga pinuno lamang ng Babilonia"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Wisdom is pictured as dwelling among Israel and serving in Jerusalem (Sirach 24).",
+          "fil": "Inilalarawang naninirahan ang Karunungan sa Israel at naglilingkod sa Jerusalem (Sirak 24)."
+        }
+      },
+      {
+        "q": {
+          "en": "With what is Wisdom's teaching connected in this chapter?",
+          "fil": "Sa ano iniuugnay ang aral ng Karunungan sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "A guide to conquering distant islands",
+            "Instructions for worshiping foreign idols",
+            "The covenant law given through Moses"
+          ],
+          "fil": [
+            "Sa gabay sa pananakop ng malalayong isla",
+            "Sa tagubilin sa pagsamba sa mga dayuhang diyus-diyosan",
+            "Sa kautusan ng tipang ibinigay sa pamamagitan ni Moises"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter connects Wisdom with God's covenant and the law entrusted through Moses (Sirach 24).",
+          "fil": "Iniuugnay ng kabanata ang Karunungan sa tipan ng Diyos at sa kautusang ipinagkatiwala sa pamamagitan ni Moises (Sirak 24)."
+        }
+      }
+    ],
+    "25": [
+      {
+        "q": {
+          "en": "What kind of family and community life is praised at the start of the chapter?",
+          "fil": "Anong uri ng buhay sa pamilya at pamayanan ang pinupuri sa simula ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Constant suspicion between husband and wife",
+            "Harmony among relatives, neighbors, and spouses",
+            "Competition over who can insult others most"
+          ],
+          "fil": [
+            "Palagiang paghihinala ng mag-asawa",
+            "Pagkakasundo ng magkakamag-anak, magkakapitbahay, at mag-asawa",
+            "Paligsahan kung sino ang pinakamagaling mang-insulto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The opening praises peaceful relationships within families, neighborhoods, and marriage (Sirach 25).",
+          "fil": "Pinupuri sa simula ang mapayapang ugnayan sa pamilya, magkakapitbahay, at mag-asawa (Sirak 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is described as a blessing in marriage?",
+          "fil": "Ano ang inilalarawang pagpapala sa pag-aasawa?"
+        },
+        "options": {
+          "en": [
+            "Living with an understanding wife",
+            "Winning every argument by shouting",
+            "Refusing to listen to one's spouse"
+          ],
+          "fil": [
+            "Pamumuhay kasama ang asawang babaeng maunawain",
+            "Panalo sa bawat pagtatalo sa pamamagitan ng pagsigaw",
+            "Pagtangging makinig sa asawa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "An understanding wife is included among the reasons for a happy life (Sirach 25).",
+          "fil": "Kabilang ang maunawaing asawang babae sa mga dahilan ng masayang buhay (Sirak 25)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger to a household is emphasized in the warnings about a wicked spouse?",
+          "fil": "Anong panganib sa tahanan ang binibigyang-diin sa mga babala tungkol sa masamang asawa?"
+        },
+        "options": {
+          "en": [
+            "Kindness makes a household collapse",
+            "Mutual respect always causes conflict",
+            "Cruel conduct brings deep sorrow at home"
+          ],
+          "fil": [
+            "Nagpapabagsak sa tahanan ang kabaitan",
+            "Laging sanhi ng alitan ang paggalang sa isa't isa",
+            "Nagdudulot ng matinding lungkot sa tahanan ang malupit na asal"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter's warnings show how destructive wicked conduct can be within marriage (Sirach 25).",
+          "fil": "Ipinakikita ng mga babala ng kabanata kung gaano nakapipinsala ang masamang asal sa pag-aasawa (Sirak 25)."
+        }
+      }
+    ],
+    "26": [
+      {
+        "q": {
+          "en": "What does a faithful wife bring to married life?",
+          "fil": "Ano ang naidudulot ng tapat na asawang babae sa buhay ng mag-asawa?"
+        },
+        "options": {
+          "en": [
+            "A command to abandon the family",
+            "Joy and peace",
+            "An excuse for constant revenge"
+          ],
+          "fil": [
+            "Utos na iwan ang pamilya",
+            "Kagalakan at kapayapaan",
+            "Dahilan para sa palagiang paghihiganti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter praises a faithful wife for bringing happiness and peace to her husband (Sirach 26).",
+          "fil": "Pinupuri ng kabanata ang tapat na asawang babae na nagdudulot ng saya at kapayapaan sa kanyang asawa (Sirak 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is a good wife regarded in this chapter?",
+          "fil": "Paano itinuturing ang mabuting asawang babae sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "As something useful only to wealthy men",
+            "As a punishment for seeking wisdom",
+            "As a valuable gift from the Lord"
+          ],
+          "fil": [
+            "Bilang kapaki-pakinabang lamang sa mayayamang lalaki",
+            "Bilang parusa sa paghahanap ng karunungan",
+            "Bilang mahalagang kaloob ng Panginoon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A good wife is described as a gift to those who revere the Lord (Sirach 26).",
+          "fil": "Inilalarawan ang mabuting asawang babae bilang kaloob sa mga gumagalang sa Panginoon (Sirak 26)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which quality is said to have a value that cannot be measured?",
+          "fil": "Aling katangian ang sinasabing may halagang hindi masusukat?"
+        },
+        "options": {
+          "en": [
+            "An eagerness to drink without restraint",
+            "Skill at spreading rumors",
+            "Self-control and modesty"
+          ],
+          "fil": [
+            "Pagkahilig sa pag-inom nang walang pagpipigil",
+            "Galing sa pagpapakalat ng tsismis",
+            "Pagpipigil sa sarili at kahinhinan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter treasures the modest and self-controlled character of a wife (Sirach 26).",
+          "fil": "Pinahahalagahan ng kabanata ang mahinhin at mapagpigil na pagkatao ng asawang babae (Sirak 26)."
+        }
+      }
+    ],
+    "27": [
+      {
+        "q": {
+          "en": "What can a person's speech reveal?",
+          "fil": "Ano ang maaaring maihayag ng pananalita ng tao?"
+        },
+        "options": {
+          "en": [
+            "The exact amount of money in a distant city",
+            "The date when every crop will ripen",
+            "The character and thoughts of the heart"
+          ],
+          "fil": [
+            "Ang eksaktong halaga ng pera sa malayong lungsod",
+            "Ang araw kung kailan mahihinog ang lahat ng pananim",
+            "Ang pagkatao at nilalaman ng puso"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "A person's words are presented as a test of what is within (Sirach 27).",
+          "fil": "Ipinakikita ang pananalita ng tao bilang pagsubok sa kanyang kalooban (Sirak 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What danger can accompany the pursuit of profit?",
+          "fil": "Anong panganib ang maaaring kasama ng paghahangad ng pakinabang?"
+        },
+        "options": {
+          "en": [
+            "Dishonesty can enter business dealings unless a person holds firmly to reverence for God",
+            "Every profitable trade is automatically righteous",
+            "Buying and selling make moral responsibility disappear"
+          ],
+          "fil": [
+            "Maaaring pumasok ang pandaraya sa pangangalakal kung hindi maninindigan sa paggalang sa Diyos",
+            "Awtomatikong matuwid ang bawat kalakal na may tubo",
+            "Nawawala ang pananagutang moral sa pagbili at pagbebenta"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter warns that the desire for gain can open business dealings to sin (Sirach 27).",
+          "fil": "Nagbababala ang kabanata na maaaring magbukas sa kasalanan ang pangangalakal dahil sa hangaring kumita (Sirak 27)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when someone reveals a friend's secrets?",
+          "fil": "Ano ang nangyayari kapag ibinubunyag ng tao ang lihim ng kaibigan?"
+        },
+        "options": {
+          "en": [
+            "Trust is destroyed",
+            "The friend becomes obligated to give money",
+            "The betrayal becomes an act of kindness"
+          ],
+          "fil": [
+            "Nasisira ang tiwala",
+            "Napipilitang magbigay ng pera ang kaibigan",
+            "Nagiging kabutihan ang pagtataksil"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Disclosing secrets undermines the trust on which friendship depends (Sirach 27).",
+          "fil": "Sinisira ng pagbubunyag ng lihim ang tiwalang saligan ng pagkakaibigan (Sirak 27)."
+        }
+      }
+    ],
+    "28": [
+      {
+        "q": {
+          "en": "What response to a neighbor's wrongdoing does this chapter encourage?",
+          "fil": "Anong tugon sa pagkakamali ng kapwa ang hinihikayat ng kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Forgive instead of seeking revenge",
+            "Keep hatred alive for a lifetime",
+            "Plan a harsher injury in return"
+          ],
+          "fil": [
+            "Magpatawad sa halip na maghiganti",
+            "Magkimkim ng galit habambuhay",
+            "Magplano ng mas matinding pananakit bilang ganti"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter urges forgiveness and warns against revenge (Sirach 28).",
+          "fil": "Hinihikayat ng kabanata ang pagpapatawad at nagbababala laban sa paghihiganti (Sirak 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What inconsistency does the chapter point out about an unforgiving person?",
+          "fil": "Anong pagsasalungatan ang itinuturo ng kabanata tungkol sa taong ayaw magpatawad?"
+        },
+        "options": {
+          "en": [
+            "Asking God for mercy while refusing mercy to another",
+            "Admitting a fault and seeking reconciliation",
+            "Giving away food while someone is hungry"
+          ],
+          "fil": [
+            "Paghingi ng awa sa Diyos habang ipinagkakait ang awa sa kapwa",
+            "Pag-amin ng pagkakamali at pakikipagkasundo",
+            "Pagbibigay ng pagkain habang may nagugutom"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Seeking God's mercy should be accompanied by mercy toward other people (Sirach 28).",
+          "fil": "Dapat samahan ng awa sa kapwa ang paghingi ng awa sa Diyos (Sirak 28)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should help a person let go of hostility?",
+          "fil": "Ano ang dapat makatulong sa tao na talikuran ang poot?"
+        },
+        "options": {
+          "en": [
+            "Assuming that anger is always harmless",
+            "Remembering life's end and God's commandments",
+            "Collecting every insult for future revenge"
+          ],
+          "fil": [
+            "Pag-aakalang laging walang pinsala ang galit",
+            "Pag-alala sa katapusan ng buhay at mga utos ng Diyos",
+            "Pagtatala ng bawat pang-iinsulto para sa paghihiganti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Remembering mortality and God's covenant encourages an end to resentment (Sirach 28).",
+          "fil": "Hinihikayat ng pag-alala sa kamatayan at tipan ng Diyos ang pagtalikod sa sama ng loob (Sirak 28)."
+        }
+      }
+    ],
+    "29": [
+      {
+        "q": {
+          "en": "How should a person respond to a neighbor in financial need?",
+          "fil": "Paano dapat tumugon ang tao sa kapitbahay na nangangailangan ng salapi?"
+        },
+        "options": {
+          "en": [
+            "Demand public humiliation before helping",
+            "Offer compassionate help rather than turn away empty-handed",
+            "Hide every resource and mock the need"
+          ],
+          "fil": [
+            "Humingi muna ng pampublikong kahihiyan bago tumulong",
+            "Magbigay ng mahabaging tulong sa halip na paalisin siyang walang dala",
+            "Itago ang lahat ng ari-arian at kutyain ang pangangailangan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter encourages lending and giving help to neighbors in need (Sirach 29).",
+          "fil": "Hinihikayat ng kabanata ang pagpapahiram at pagtulong sa kapwang nangangailangan (Sirak 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "What responsibility does a borrower have?",
+          "fil": "Anong pananagutan ang mayroon ang nanghiram?"
+        },
+        "options": {
+          "en": [
+            "Keep the promise to repay and honor the helper's trust",
+            "Treat the loan as money that never needs repayment",
+            "Insult the lender when payment is due"
+          ],
+          "fil": [
+            "Tuparin ang pangakong magbayad at igalang ang tiwala ng tumulong",
+            "Ituring ang hiniram na perang hindi na kailangang bayaran",
+            "Insultuhin ang nagpahiram kapag oras na ng pagbabayad"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter asks borrowers to repay faithfully instead of abusing generosity (Sirach 29).",
+          "fil": "Hinihiling ng kabanata na tapat na magbayad ang nanghiram sa halip na abusuhin ang pagkabukas-palad (Sirak 29)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should someone regard a person who guarantees a loan for him?",
+          "fil": "Paano dapat ituring ang taong gumagarantiya sa kanyang utang?"
+        },
+        "options": {
+          "en": [
+            "Deliberately waste the guarantor's property",
+            "Forget the help as soon as the money arrives",
+            "Remember the kindness and avoid causing the guarantor loss"
+          ],
+          "fil": [
+            "Sadyang sayangin ang ari-arian ng gumarantiya",
+            "Kalimutan ang tulong sa oras na dumating ang pera",
+            "Alalahanin ang kabutihan at iwasang malugi ang gumarantiya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter calls for gratitude and responsibility toward a guarantor (Sirach 29).",
+          "fil": "Itinuturo ng kabanata ang pasasalamat at pananagutan sa taong gumarantiya (Sirak 29)."
+        }
+      }
+    ],
+    "30": [
+      {
+        "q": {
+          "en": "What responsibility of parents is emphasized in the opening teaching?",
+          "fil": "Anong pananagutan ng mga magulang ang binibigyang-diin sa pambungad na aral?"
+        },
+        "options": {
+          "en": [
+            "Give children instruction and correction",
+            "Leave children without any guidance",
+            "Reward every harmful action"
+          ],
+          "fil": [
+            "Turuan at ituwid ang mga anak",
+            "Pabayaan ang mga anak nang walang patnubay",
+            "Gantimpalaan ang bawat mapaminsalang kilos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening connects parental love with the work of teaching and correcting a child (Sirach 30).",
+          "fil": "Iniuugnay ng simula ang pagmamahal ng magulang sa pagtuturo at pagtutuwid sa anak (Sirak 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What risk is associated with leaving a child without restraint?",
+          "fil": "Anong panganib ang iniuugnay sa pagpapabaya sa anak nang walang disiplina?"
+        },
+        "options": {
+          "en": [
+            "The child will no longer need any teaching",
+            "The child may become stubborn and disobedient",
+            "The child will automatically become perfectly wise"
+          ],
+          "fil": [
+            "Hindi na mangangailangan ng anumang pagtuturo ang anak",
+            "Maaaring maging matigas ang ulo at masuwayin ang anak",
+            "Kusang magiging ganap na marunong ang anak"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns that unchecked behavior can grow into stubbornness (Sirach 30).",
+          "fil": "Nagbababala ang kabanata na maaaring lumala tungo sa katigasan ng ulo ang asal na hindi itinutuwid (Sirak 30)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lasting good can a parent leave through careful teaching?",
+          "fil": "Anong pangmatagalang kabutihan ang maiiwan ng magulang sa maingat na pagtuturo?"
+        },
+        "options": {
+          "en": [
+            "A reason for the child to reject every duty",
+            "A child who carries on the parent's good example",
+            "A family that no longer values kindness"
+          ],
+          "fil": [
+            "Dahilan upang tanggihan ng anak ang lahat ng tungkulin",
+            "Anak na nagpapatuloy sa mabuting halimbawa ng magulang",
+            "Pamilyang hindi na nagpapahalaga sa kabaitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A well-taught child is pictured as continuing the parent's influence after the parent's death (Sirach 30).",
+          "fil": "Inilalarawan ang anak na naturuang mabuti na nagpapatuloy sa impluwensiya ng magulang matapos itong mamatay (Sirak 30)."
+        }
+      }
+    ],
+    "31": [
+      {
+        "q": {
+          "en": "What attitude should guide someone at a shared meal?",
+          "fil": "Anong saloobin ang dapat gumabay sa taong kasalo sa hapag?"
+        },
+        "options": {
+          "en": [
+            "A desire to embarrass the host",
+            "A determination to take every dish first",
+            "Consideration for the other guests"
+          ],
+          "fil": [
+            "Pagnanais na ipahiya ang mayhanda",
+            "Pagpupumilit na maunang kumuha sa lahat ng pagkain",
+            "Pagmamalasakit sa ibang kasalo"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter urges diners to consider others rather than act greedily (Sirach 31).",
+          "fil": "Hinihikayat ng kabanata ang mga kumakain na isaalang-alang ang kapwa sa halip na maging sakim (Sirak 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What benefit is linked with moderate eating?",
+          "fil": "Anong pakinabang ang iniuugnay sa katamtamang pagkain?"
+        },
+        "options": {
+          "en": [
+            "A guarantee of becoming the richest guest",
+            "Freedom to insult everyone at the table",
+            "Restful sleep and a refreshed start"
+          ],
+          "fil": [
+            "Katiyakang magiging pinakamayamang panauhin",
+            "Kalayaang insultuhin ang lahat sa hapag",
+            "Mahimbing na tulog at maginhawang paggising"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Moderation in eating is contrasted with the discomfort of excess (Sirach 31).",
+          "fil": "Inihahambing ang katamtamang pagkain sa hirap na dulot ng labis na pagkain (Sirak 31)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about excessive drinking?",
+          "fil": "Anong babala ang ibinibigay tungkol sa labis na pag-inom ng alak?"
+        },
+        "options": {
+          "en": [
+            "It is the surest proof of wisdom",
+            "It can bring anger, conflict, and injury",
+            "It always makes quarrels disappear"
+          ],
+          "fil": [
+            "Ito ang pinakatiyak na patunay ng karunungan",
+            "Maaari itong magdulot ng galit, alitan, at pinsala",
+            "Lagi nitong pinapawi ang mga alitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter distinguishes moderate enjoyment from the harm caused by drunkenness (Sirach 31).",
+          "fil": "Ipinagkaiba ng kabanata ang katamtamang kasiyahan at ang pinsalang dulot ng paglalasing (Sirak 31)."
+        }
+      }
+    ],
+    "32": [
+      {
+        "q": {
+          "en": "How should a person placed in charge of a feast act?",
+          "fil": "Paano dapat kumilos ang taong namamahala sa handaan?"
+        },
+        "options": {
+          "en": [
+            "Ignore everyone else's needs",
+            "Care for the guests without becoming proud",
+            "Demand honor before doing any work"
+          ],
+          "fil": [
+            "Balewalain ang pangangailangan ng lahat ng iba",
+            "Asikasuhin ang mga panauhin nang hindi nagyayabang",
+            "Humingi ng karangalan bago gumawa ng anumang tungkulin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The person leading the feast should serve the guests before taking a place (Sirach 32).",
+          "fil": "Dapat munang asikasuhin ng namamahala sa handaan ang mga panauhin bago maupo (Sirak 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of speech is recommended at a gathering?",
+          "fil": "Anong uri ng pananalita ang ipinapayo sa pagtitipon?"
+        },
+        "options": {
+          "en": [
+            "Brief and thoughtful words at the right time",
+            "Endless talk that prevents others from speaking",
+            "Boasting without understanding the subject"
+          ],
+          "fil": [
+            "Maikli at makabuluhang salita sa tamang pagkakataon",
+            "Walang katapusang salita na humahadlang sa iba",
+            "Pagmamayabang nang walang pagkaunawa sa paksa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter recommends modest speech that says what is needed without excess (Sirach 32).",
+          "fil": "Ipinapayo ng kabanata ang mahinahong pagsasalita na nagsasabi ng kailangan nang hindi labis (Sirak 32)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should someone respond when music is being performed?",
+          "fil": "Paano dapat kumilos kapag may tumutugtog ng musika?"
+        },
+        "options": {
+          "en": [
+            "Listen without interrupting with a speech",
+            "Shout personal opinions over the music",
+            "Stop the performance to display one's knowledge"
+          ],
+          "fil": [
+            "Makinig nang hindi sumisingit ng talumpati",
+            "Isigaw ang sariling opinyon kasabay ng musika",
+            "Patigilin ang pagtugtog upang ipakita ang sariling kaalaman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Respecting the music is part of the chapter's teaching on considerate behavior (Sirach 32).",
+          "fil": "Bahagi ng aral ng kabanata sa magalang na asal ang paggalang sa pagtugtog ng musika (Sirak 32)."
+        }
+      }
+    ],
+    "33": [
+      {
+        "q": {
+          "en": "What advice is given about handing over all one's possessions too early?",
+          "fil": "Anong payo ang ibinibigay tungkol sa maagang pagpapasa ng lahat ng ari-arian?"
+        },
+        "options": {
+          "en": [
+            "Assume that managing resources is always wrong",
+            "Give everything away merely to gain praise",
+            "Keep responsible control rather than become needlessly dependent"
+          ],
+          "fil": [
+            "Ipagpalagay na laging masama ang pamamahala sa ari-arian",
+            "Ipamigay ang lahat upang lamang mapuri",
+            "Panatilihin ang maingat na pamamahala upang hindi umasa nang di-kailangan sa iba"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter warns against surrendering control so early that one must beg for one's own needs (Sirach 33).",
+          "fil": "Nagbababala ang kabanata laban sa napakaagang pagsuko ng pamamahala na mauuwi sa paghingi para sa sariling pangangailangan (Sirak 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter recommend instead of leaving a servant idle?",
+          "fil": "Ano ang ipinapayo ng kabanata sa halip na pabayaang walang ginagawa ang lingkod?"
+        },
+        "options": {
+          "en": [
+            "Give work suited to the servant",
+            "Leave every household task unfinished",
+            "Encourage the servant to steal from neighbors"
+          ],
+          "fil": [
+            "Bigyan siya ng angkop na gawain",
+            "Pabayaan ang lahat ng gawain sa tahanan",
+            "Hikayatin siyang magnakaw sa mga kapitbahay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The household advice favors suitable work over idleness (Sirach 33).",
+          "fil": "Mas pinapaboran ng payo sa tahanan ang angkop na gawain kaysa kawalang-ginagawa (Sirak 33)."
+        }
+      },
+      {
+        "q": {
+          "en": "What limit does the chapter place on a master's authority?",
+          "fil": "Anong hangganan ang inilalagay ng kabanata sa kapangyarihan ng amo?"
+        },
+        "options": {
+          "en": [
+            "Cruelty is always acceptable",
+            "A servant's needs never matter",
+            "Do not act unjustly or mistreat the servant"
+          ],
+          "fil": [
+            "Laging katanggap-tanggap ang kalupitan",
+            "Walang halaga ang pangangailangan ng lingkod",
+            "Huwag gumawa ng kawalang-katarungan o abusuhin ang lingkod"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter tells the master to avoid injustice and treat the servant with personal concern (Sirach 33).",
+          "fil": "Sinasabihan ng kabanata ang amo na iwasan ang kawalang-katarungan at pangalagaan ang lingkod (Sirak 33)."
+        }
+      }
+    ],
+    "34": [
+      {
+        "q": {
+          "en": "Why is an offering taken from the poor unacceptable?",
+          "fil": "Bakit hindi katanggap-tanggap ang handog na kinuha sa mahihirap?"
+        },
+        "options": {
+          "en": [
+            "Worship cannot justify depriving people of what sustains them",
+            "Every offering must come from a king",
+            "The poor are forbidden to approach God"
+          ],
+          "fil": [
+            "Hindi maidadahilan ang pagsamba upang agawan ng ikabubuhay ang kapwa",
+            "Dapat magmula sa hari ang bawat handog",
+            "Bawal lumapit sa Diyos ang mahihirap"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter condemns sacrifices made at the expense of the poor (Sirach 34).",
+          "fil": "Kinokondena ng kabanata ang mga handog na mula sa pang-aapi sa mahihirap (Sirak 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "How seriously does the chapter treat withholding a worker's wages?",
+          "fil": "Gaano kabigat itinuturing ng kabanata ang pagkakait ng sahod ng manggagawa?"
+        },
+        "options": {
+          "en": [
+            "As a grave harm to the worker's life",
+            "As a harmless way of saving money",
+            "As a required form of worship"
+          ],
+          "fil": [
+            "Bilang matinding pinsala sa buhay ng manggagawa",
+            "Bilang walang pinsalang paraan ng pag-iipon",
+            "Bilang kailangang paraan ng pagsamba"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Withholding wages is condemned because it deprives a person of a livelihood (Sirach 34).",
+          "fil": "Kinokondena ang pagkakait ng sahod dahil inaalisan nito ng ikabubuhay ang tao (Sirak 34)."
+        }
+      },
+      {
+        "q": {
+          "en": "What makes repentance inconsistent in the chapter's final warning?",
+          "fil": "Ano ang nagpapakitang hindi tapat ang pagsisisi sa huling babala ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Asking sincerely for forgiveness",
+            "Stopping the wrongdoing and making amends",
+            "Returning to the same wrongdoing after fasting for it"
+          ],
+          "fil": [
+            "Taos-pusong paghingi ng kapatawaran",
+            "Pagtigil sa pagkakasala at pagwawasto ng pinsala",
+            "Pagbalik sa parehong kasalanan matapos mag-ayuno dahil dito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Fasting for sins is undermined when a person deliberately repeats the same acts (Sirach 34).",
+          "fil": "Nawawalan ng saysay ang pag-aayuno para sa kasalanan kapag sadyang inuulit ang parehong gawa (Sirak 34)."
+        }
+      }
+    ],
+    "35": [
+      {
+        "q": {
+          "en": "What kind of daily conduct is compared to a pleasing offering?",
+          "fil": "Anong pang-araw-araw na asal ang inihahambing sa kalugud-lugod na handog?"
+        },
+        "options": {
+          "en": [
+            "Ignoring every commandment",
+            "Obeying God and turning away from injustice",
+            "Cheating neighbors to buy larger gifts"
+          ],
+          "fil": [
+            "Pagbalewala sa lahat ng utos",
+            "Pagsunod sa Diyos at pagtalikod sa kawalang-katarungan",
+            "Pandaraya sa kapwa upang makabili ng mas malaking handog"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter connects acceptable worship with obedience, generosity, and justice (Sirach 35).",
+          "fil": "Iniuugnay ng kabanata ang kalugud-lugod na pagsamba sa pagsunod, pagkabukas-palad, at katarungan (Sirak 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude should accompany an offering to God?",
+          "fil": "Anong saloobin ang dapat kasama ng paghahandog sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Resentment toward everyone who has less",
+            "A plan to purchase permission to sin",
+            "Cheerful generosity rather than an attempt to bribe him"
+          ],
+          "fil": [
+            "Galit sa lahat ng may mas kaunti",
+            "Balak na bilhin ang pahintulot na magkasala",
+            "Masayang pagkabukas-palad sa halip na tangkang suhulan siya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God welcomes willing generosity but cannot be bought with gifts (Sirach 35).",
+          "fil": "Tinatanggap ng Diyos ang kusang pagkabukas-palad ngunit hindi siya mabibili ng mga handog (Sirak 35)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose prayers does God hear without favoring the powerful?",
+          "fil": "Kaninong panalangin ang dinirinig ng Diyos nang hindi kumikiling sa makapangyarihan?"
+        },
+        "options": {
+          "en": [
+            "Those of the wronged, the orphan, and the widow",
+            "Only those of wealthy landowners",
+            "Only those who can afford lavish gifts"
+          ],
+          "fil": [
+            "Sa inaapi, ulila, at biyuda",
+            "Sa mayayamang maylupa lamang",
+            "Sa may kayang magbigay lamang ng mararangyang handog"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's justice includes attentive care for the prayers of vulnerable people (Sirach 35).",
+          "fil": "Kabilang sa katarungan ng Diyos ang pagdinig sa panalangin ng mga taong mahina at nangangailangan (Sirak 35)."
+        }
+      }
+    ],
+    "36": [
+      {
+        "q": {
+          "en": "What restoration does the prayer ask for Israel?",
+          "fil": "Anong pagpapanumbalik ang hinihingi ng panalangin para sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Gather the scattered tribes and show mercy to Jerusalem",
+            "Turn Jerusalem into a place for foreign idols",
+            "Remove every memory of God's covenant"
+          ],
+          "fil": [
+            "Tipunin ang nagkalat na mga lipi at kahabagan ang Jerusalem",
+            "Gawing lugar ng mga dayuhang diyus-diyosan ang Jerusalem",
+            "Alisin ang lahat ng alaala ng tipan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer asks God to gather his people and restore the city of his sanctuary (Sirach 36).",
+          "fil": "Hinihiling ng panalangin na tipunin ng Diyos ang kanyang bayan at ibalik ang lungsod ng kanyang santuwaryo (Sirak 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the prayer desire the nations to recognize?",
+          "fil": "Ano ang nais ng panalangin na kilalanin ng mga bansa?"
+        },
+        "options": {
+          "en": [
+            "That idols created the Lord",
+            "That the Lord alone is God",
+            "That no one hears Israel's prayers"
+          ],
+          "fil": [
+            "Na nilikha ng mga diyus-diyosan ang Panginoon",
+            "Na ang Panginoon lamang ang Diyos",
+            "Na walang dumirinig sa mga panalangin ng Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer seeks a display of God's power so the nations will know him (Sirach 36).",
+          "fil": "Hinihiling ng panalangin na ipakita ang kapangyarihan ng Diyos upang makilala siya ng mga bansa (Sirak 36)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the prayer ask regarding the words spoken through God's prophets?",
+          "fil": "Ano ang hinihingi ng panalangin tungkol sa mga salitang sinabi sa pamamagitan ng mga propeta ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "That the prophets be replaced by fortune-tellers",
+            "That the people forget every promise",
+            "That God fulfill those promises"
+          ],
+          "fil": [
+            "Na palitan ng mga manghuhula ang mga propeta",
+            "Na limutin ng bayan ang bawat pangako",
+            "Na tuparin ng Diyos ang mga pangakong iyon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer asks God to confirm the prophets' message by fulfilling it (Sirach 36).",
+          "fil": "Hinihiling ng panalangin na patibayin ng Diyos ang mensahe ng mga propeta sa pagtupad nito (Sirak 36)."
+        }
+      }
+    ],
+    "37": [
+      {
+        "q": {
+          "en": "What warning is given about people who claim to be friends?",
+          "fil": "Anong babala ang ibinibigay tungkol sa mga nagsasabing sila ay kaibigan?"
+        },
+        "options": {
+          "en": [
+            "A person's claim of friendship can never be false",
+            "Some are friends only in name and disappear in trouble",
+            "Every friend must be treated as an enemy"
+          ],
+          "fil": [
+            "Hindi kailanman maaaring maging huwad ang pag-aangking kaibigan",
+            "Ang ilan ay kaibigan lamang sa pangalan at lumalayo sa kagipitan",
+            "Dapat ituring na kaaway ang bawat kaibigan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter distinguishes loyal friendship from friendship that fails in adversity (Sirach 37).",
+          "fil": "Ipinagkaiba ng kabanata ang tapat na pagkakaibigan at ang pagkakaibigang nabibigo sa kagipitan (Sirak 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why should someone consider an adviser's motives?",
+          "fil": "Bakit dapat isaalang-alang ang motibo ng nagpapayo?"
+        },
+        "options": {
+          "en": [
+            "Every adviser knows the future perfectly",
+            "Some advice serves the adviser's own advantage",
+            "Advice is valuable only when it is flattering"
+          ],
+          "fil": [
+            "Ganap na alam ng bawat nagpapayo ang hinaharap",
+            "May payong para lamang sa sariling pakinabang ng nagpapayo",
+            "Mahalaga lamang ang payo kapag ito ay pambobola"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter warns that a counselor may recommend what benefits himself (Sirach 37).",
+          "fil": "Nagbababala ang kabanata na maaaring irekomenda ng tagapayo ang para sa sarili niyang pakinabang (Sirak 37)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of person is recommended as a trustworthy adviser?",
+          "fil": "Anong uri ng tao ang ipinapayo bilang mapagkakatiwalaang tagapayo?"
+        },
+        "options": {
+          "en": [
+            "Someone who rejoices when others fail",
+            "A God-fearing person who keeps the commandments and cares sincerely",
+            "Someone who always profits from a friend's mistakes"
+          ],
+          "fil": [
+            "Taong natutuwa kapag nabibigo ang iba",
+            "Taong may paggalang sa Diyos, sumusunod sa mga utos, at tapat na nagmamalasakit",
+            "Taong laging nakikinabang sa pagkakamali ng kaibigan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "A faithful and sympathetic person is presented as a better source of counsel (Sirach 37).",
+          "fil": "Ipinakikilala ang taong tapat at maunawain bilang mas mabuting mapagkukunan ng payo (Sirak 37)."
+        }
+      }
+    ],
+    "38": [
+      {
+        "q": {
+          "en": "How should a physician be regarded in this chapter?",
+          "fil": "Paano dapat ituring ang manggagamot sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "As someone who never needs God's help",
+            "With contempt because all treatment opposes God",
+            "With honor because healing skill is a gift from God"
+          ],
+          "fil": [
+            "Bilang taong hindi kailanman nangangailangan ng tulong ng Diyos",
+            "May paghamak dahil laban sa Diyos ang lahat ng paggamot",
+            "May paggalang dahil kaloob ng Diyos ang kasanayan sa pagpapagaling"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter honors physicians and recognizes God as the source of their skill (Sirach 38).",
+          "fil": "Iginagalang ng kabanata ang mga manggagamot at kinikilalang mula sa Diyos ang kanilang kasanayan (Sirak 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter teach about medicines from the earth?",
+          "fil": "Ano ang itinuturo ng kabanata tungkol sa mga gamot mula sa lupa?"
+        },
+        "options": {
+          "en": [
+            "They prove that the Creator has no care for people",
+            "They are part of God's provision and should not be despised",
+            "They were made only to decorate royal houses"
+          ],
+          "fil": [
+            "Patunay sila na walang malasakit sa tao ang Lumikha",
+            "Bahagi sila ng pagkakaloob ng Diyos at hindi dapat hamakin",
+            "Ginawa lamang sila upang palamutihan ang mga palasyo"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Medicines are presented as created resources through which healing can be given (Sirach 38).",
+          "fil": "Ipinakikilala ang mga gamot bilang mga nilikhang bagay na magagamit sa pagpapagaling (Sirak 38)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are prayer and medical care related in the advice to the sick?",
+          "fil": "Paano iniuugnay ang panalangin at pagpapagamot sa payo sa maysakit?"
+        },
+        "options": {
+          "en": [
+            "The sick person is encouraged to pray and receive a physician's care",
+            "Seeking a physician is forbidden after praying",
+            "Prayer is forbidden whenever medicine is used"
+          ],
+          "fil": [
+            "Hinihikayat ang maysakit na manalangin at magpagamot sa manggagamot",
+            "Ipinagbabawal ang pagpapagamot matapos manalangin",
+            "Ipinagbabawal ang panalangin kapag gumagamit ng gamot"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter places prayer and a physician's care together in responding to illness (Sirach 38).",
+          "fil": "Pinagsasama ng kabanata ang panalangin at pangangalaga ng manggagamot sa pagtugon sa karamdaman (Sirak 38)."
+        }
+      }
+    ],
+    "39": [
+      {
+        "q": {
+          "en": "What does the hymn say about God's works in their proper time?",
+          "fil": "Ano ang sinasabi ng himno tungkol sa mga gawa ng Diyos sa tamang panahon?"
+        },
+        "options": {
+          "en": [
+            "They are good and serve their appointed purposes",
+            "They have no place in caring for creation",
+            "They are all mistakes beyond God's control"
+          ],
+          "fil": [
+            "Mabuti sila at tumutupad sa kanilang layunin",
+            "Wala silang bahagi sa pangangalaga sa sangnilikha",
+            "Lahat sila ay pagkakamaling hindi mapangasiwaan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The hymn affirms the goodness and timely purpose of God's works (Sirach 39).",
+          "fil": "Pinagtitibay ng himno ang kabutihan at angkop na layunin ng mga gawa ng Diyos (Sirak 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter describe creation's response to God's command?",
+          "fil": "Paano inilalarawan ng kabanata ang tugon ng sangnilikha sa utos ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Every part of creation defeats his plans",
+            "The elements are beyond his knowledge",
+            "Created things carry out his purposes at the appointed time"
+          ],
+          "fil": [
+            "Binibigo ng bawat bahagi ng sangnilikha ang kanyang mga plano",
+            "Hindi niya nalalaman ang mga puwersa ng kalikasan",
+            "Tinutupad ng mga nilikha ang kanyang layunin sa takdang panahon"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The hymn describes the elements as ready to carry out God's commands (Sirach 39).",
+          "fil": "Inilalarawan ng himno ang mga puwersa ng kalikasan na handang tumupad sa utos ng Diyos (Sirak 39)."
+        }
+      },
+      {
+        "q": {
+          "en": "What response does the hymn invite from its listeners?",
+          "fil": "Anong tugon ang hinihingi ng himno sa mga nakikinig?"
+        },
+        "options": {
+          "en": [
+            "Anger that God provides for creation",
+            "Wholehearted praise and thanksgiving to the Lord",
+            "Worship of the weather instead of its Creator"
+          ],
+          "fil": [
+            "Galit dahil nagkakaloob ang Diyos para sa sangnilikha",
+            "Buong-pusong papuri at pasasalamat sa Panginoon",
+            "Pagsamba sa panahon sa halip na sa Lumikha nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter concludes by calling people to praise the Lord with heart and voice (Sirach 39).",
+          "fil": "Nagtatapos ang kabanata sa panawagang purihin ang Panginoon nang buong puso at tinig (Sirak 39)."
+        }
+      }
+    ],
+    "40": [
+      {
+        "q": {
+          "en": "What does the chapter say about wealth gained through injustice?",
+          "fil": "Ano ang sinasabi ng kabanata tungkol sa kayamanang nakuha sa kawalang-katarungan?"
+        },
+        "options": {
+          "en": [
+            "It guarantees a good name forever",
+            "It does not provide lasting security",
+            "It is more enduring than faithfulness"
+          ],
+          "fil": [
+            "Tinitiyak nito ang mabuting pangalan magpakailanman",
+            "Hindi ito nagbibigay ng pangmatagalang katiwasayan",
+            "Mas matibay ito kaysa katapatan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Unjust gains are pictured as passing away rather than remaining secure (Sirach 40).",
+          "fil": "Inilalarawan ang di-matapat na pakinabang na lumilipas sa halip na manatiling matatag (Sirak 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What use of resources is described as having lasting value?",
+          "fil": "Anong paggamit ng yaman ang inilalarawang may pangmatagalang halaga?"
+        },
+        "options": {
+          "en": [
+            "Bribing judges to harm neighbors",
+            "Hiding stolen goods from their owners",
+            "Generous help for people in need"
+          ],
+          "fil": [
+            "Panunuhol sa mga hukom upang pinsalain ang kapwa",
+            "Pagtatago ng nakaw na ari-arian mula sa may-ari",
+            "Bukal sa loob na pagtulong sa nangangailangan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter contrasts enduring generosity with wealth that disappears (Sirach 40).",
+          "fil": "Inihahambing ng kabanata ang nagtatagal na pagkakawanggawa sa yamang nawawala (Sirak 40)."
+        }
+      },
+      {
+        "q": {
+          "en": "What is presented as a better refuge than riches and strength?",
+          "fil": "Ano ang ipinakikilalang mas mabuting kanlungan kaysa yaman at lakas?"
+        },
+        "options": {
+          "en": [
+            "Reverence for the Lord",
+            "Confidence in dishonest bargains",
+            "Pride in one's ability to frighten the weak"
+          ],
+          "fil": [
+            "Paggalang sa Panginoon",
+            "Pagtitiwala sa di-matapat na kasunduan",
+            "Pagmamalaki sa kakayahang takutin ang mahihina"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Reverence for the Lord is pictured as a sheltering source of blessing (Sirach 40).",
+          "fil": "Inilalarawan ang paggalang sa Panginoon bilang kanlungang pinagmumulan ng pagpapala (Sirak 40)."
+        }
+      }
+    ],
+    "41": [
+      {
+        "q": {
+          "en": "Which kind of conduct should cause a person shame?",
+          "fil": "Anong uri ng asal ang dapat ikahiya ng tao?"
+        },
+        "options": {
+          "en": [
+            "Lying and dishonest dealing",
+            "Speaking truthfully before others",
+            "Treating a friend fairly"
+          ],
+          "fil": [
+            "Pagsisinungaling at pandaraya",
+            "Pagsasabi ng totoo sa harap ng iba",
+            "Makatarungang pakikitungo sa kaibigan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter identifies lies and unfair dealings as proper reasons for shame (Sirach 41).",
+          "fil": "Itinuturo ng kabanata na nararapat ikahiya ang kasinungalingan at di-makatarungang pakikitungo (Sirak 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning is given about helping someone and then speaking cruelly?",
+          "fil": "Anong babala ang ibinibigay tungkol sa pagtulong sa kapwa at pagkatapos ay pagsasalita nang masakit?"
+        },
+        "options": {
+          "en": [
+            "Do not spoil a gift by insulting the person who received it",
+            "A gift gives permission to humiliate its recipient",
+            "Public insults are a required part of generosity"
+          ],
+          "fil": [
+            "Huwag sirain ang kabutihan ng regalo sa pag-insulto sa tumanggap",
+            "Nagbibigay ng pahintulot ang regalo upang ipahiya ang tumanggap",
+            "Kailangang bahagi ng pagkabukas-palad ang pang-iinsulto sa harap ng lahat"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Insulting someone after giving is included among shameful ways of treating others (Sirach 41).",
+          "fil": "Kabilang sa kahiya-hiyang pakikitungo sa kapwa ang pang-iinsulto matapos magbigay (Sirak 41)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should private information be handled?",
+          "fil": "Paano dapat pangalagaan ang pribadong impormasyon?"
+        },
+        "options": {
+          "en": [
+            "Repeat every rumor as widely as possible",
+            "Avoid spreading what was heard or exposing secrets",
+            "Reveal a friend's secrets to gain attention"
+          ],
+          "fil": [
+            "Ulit-ulitin ang bawat tsismis sa pinakamaraming tao",
+            "Iwasang ipakalat ang narinig o ibunyag ang mga lihim",
+            "Ibunyag ang lihim ng kaibigan upang mapansin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter includes spreading reports and revealing secrets among things to avoid (Sirach 41).",
+          "fil": "Kabilang sa mga dapat iwasan sa kabanata ang pagpapakalat ng balita at pagbubunyag ng lihim (Sirak 41)."
+        }
+      }
+    ],
+    "42": [
+      {
+        "q": {
+          "en": "What do the works of creation display in the chapter's closing section?",
+          "fil": "Ano ang ipinakikita ng mga nilikha sa huling bahagi ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "The need to worship nature instead of God",
+            "The glory and wisdom of the Lord",
+            "The inability of God to create order"
+          ],
+          "fil": [
+            "Ang pangangailangang sambahin ang kalikasan sa halip na ang Diyos",
+            "Ang kaluwalhatian at karunungan ng Panginoon",
+            "Ang kawalan ng kakayahan ng Diyos na lumikha ng kaayusan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter turns to the wonders of creation as signs of God's glory (Sirach 42).",
+          "fil": "Bumaling ang kabanata sa mga kamangha-manghang nilikha bilang tanda ng kaluwalhatian ng Diyos (Sirak 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter say about God's knowledge of human thoughts?",
+          "fil": "Ano ang sinasabi ng kabanata tungkol sa kaalaman ng Diyos sa isip ng tao?"
+        },
+        "options": {
+          "en": [
+            "He needs human advisers to discover the heart",
+            "Even hidden thoughts are known to him",
+            "He knows only what people say in public"
+          ],
+          "fil": [
+            "Kailangan niya ng mga taong tagapayo upang malaman ang nasa puso",
+            "Alam niya maging ang mga lihim na iniisip",
+            "Alam lamang niya ang sinasabi ng tao sa harap ng lahat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "God is described as knowing the heart and every hidden thought (Sirach 42).",
+          "fil": "Inilalarawan ang Diyos na nakaaalam sa puso at bawat lihim na iniisip (Sirak 42)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the chapter describe the parts of creation in relation to one another?",
+          "fil": "Paano inilalarawan ng kabanata ang ugnayan ng mga bahagi ng sangnilikha?"
+        },
+        "options": {
+          "en": [
+            "They exist only to undo the Creator's work",
+            "They prove that creation has no purpose",
+            "They complement one another within God's wise order"
+          ],
+          "fil": [
+            "Umiiral lamang sila upang sirain ang gawa ng Lumikha",
+            "Pinatutunayan nilang walang layunin ang paglikha",
+            "Nagtutulungan sila sa marunong na kaayusan ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter describes created things as ordered so that one displays the goodness of another (Sirach 42).",
+          "fil": "Inilalarawan ng kabanata ang mga nilikha na may kaayusang nagpapakita ng kabutihan ng isa't isa (Sirak 42)."
+        }
+      }
+    ],
+    "43": [
+      {
+        "q": {
+          "en": "What does the description of the sun, moon, and stars emphasize?",
+          "fil": "Ano ang binibigyang-diin ng paglalarawan sa araw, buwan, at mga bituin?"
+        },
+        "options": {
+          "en": [
+            "They were made by human rulers",
+            "They are rival gods fighting the Lord",
+            "Their beauty and order point to their Creator"
+          ],
+          "fil": [
+            "Ginawa sila ng mga pinunong tao",
+            "Sila ay mga karibal na diyos na nakikipaglaban sa Panginoon",
+            "Itinuturo ng kanilang ganda at kaayusan ang kanilang Lumikha"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The heavens are praised as wonderful works under the Lord's command (Sirach 43).",
+          "fil": "Pinupuri ang kalangitan bilang kamangha-manghang gawa na nasa ilalim ng utos ng Panginoon (Sirak 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "How are the weather and the forces of nature presented?",
+          "fil": "Paano inilalarawan ang panahon at mga puwersa ng kalikasan?"
+        },
+        "options": {
+          "en": [
+            "As displays of the Lord's power and command",
+            "As reasons to stop thanking the Creator",
+            "As powers that God has never understood"
+          ],
+          "fil": [
+            "Bilang pagpapakita ng kapangyarihan at utos ng Panginoon",
+            "Bilang mga dahilan upang tumigil sa pagpapasalamat sa Lumikha",
+            "Bilang mga kapangyarihang hindi kailanman naunawaan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The hymn describes snow, storms, and other natural wonders as subject to God's power (Sirach 43).",
+          "fil": "Inilalarawan ng himno ang niyebe, bagyo, at iba pang kababalaghan ng kalikasan na nasasakop ng kapangyarihan ng Diyos (Sirak 43)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude should people have when praising God for creation?",
+          "fil": "Anong saloobin ang dapat taglayin sa pagpuri sa Diyos dahil sa sangnilikha?"
+        },
+        "options": {
+          "en": [
+            "Pride that a short speech can fully describe God",
+            "Humble wonder because God is greater than all our praise",
+            "Indifference because creation has no beauty"
+          ],
+          "fil": [
+            "Pagmamalaking kayang lubos na ilarawan ang Diyos sa maikling talumpati",
+            "Mapagpakumbabang pagkamangha dahil higit ang Diyos sa lahat ng ating papuri",
+            "Kawalang-pakialam dahil walang ganda ang sangnilikha"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The chapter acknowledges that human words cannot fully express the Creator's greatness (Sirach 43).",
+          "fil": "Kinikilala ng kabanata na hindi lubos na maipahahayag ng salita ng tao ang kadakilaan ng Lumikha (Sirak 43)."
+        }
+      }
+    ],
+    "44": [
+      {
+        "q": {
+          "en": "What is the main purpose of recalling the ancestors in this chapter?",
+          "fil": "Ano ang pangunahing layunin ng paggunita sa mga ninuno sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Honor their faithful lives and good deeds",
+            "Prove that only wealth deserves remembrance",
+            "Encourage descendants to forget God's covenant"
+          ],
+          "fil": [
+            "Parangalan ang kanilang tapat na buhay at mabubuting gawa",
+            "Patunayang kayamanan lamang ang dapat alalahanin",
+            "Hikayatin ang mga inapo na limutin ang tipan ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter begins a celebration of ancestors whose lives displayed wisdom and faithfulness (Sirach 44).",
+          "fil": "Sinisimulan ng kabanata ang pagpupugay sa mga ninunong nagpakita ng karunungan at katapatan (Sirak 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "Are only famous people included in this praise?",
+          "fil": "Ang mga tanyag lamang ba ang kasama sa pagpupugay na ito?"
+        },
+        "options": {
+          "en": [
+            "No, the good deeds of less-remembered people also matter",
+            "Yes, only kings ever did good",
+            "Yes, anyone without a monument is worthless"
+          ],
+          "fil": [
+            "Hindi, mahalaga rin ang mabubuting gawa ng mga hindi gaanong naaalala",
+            "Oo, mga hari lamang ang nakagawa ng mabuti",
+            "Oo, walang halaga ang sinumang walang bantayog"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter honors merciful people even when their names are not widely remembered (Sirach 44).",
+          "fil": "Pinararangalan ng kabanata ang mahabaging mga tao kahit hindi malawak na naaalala ang kanilang pangalan (Sirak 44)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lasting blessing is connected with the ancestors' faithfulness?",
+          "fil": "Anong nagtatagal na pagpapala ang iniuugnay sa katapatan ng mga ninuno?"
+        },
+        "options": {
+          "en": [
+            "A command never to teach the next generation",
+            "A good inheritance and covenant blessing for their descendants",
+            "Freedom for descendants to practice every injustice"
+          ],
+          "fil": [
+            "Utos na huwag kailanman turuan ang susunod na salinlahi",
+            "Mabuting pamana at pagpapala ng tipan para sa kanilang mga inapo",
+            "Kalayaan ng mga inapo na gumawa ng lahat ng kawalang-katarungan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The praise links faithful ancestors with blessings that reach their descendants (Sirach 44).",
+          "fil": "Iniuugnay ng pagpupugay ang tapat na mga ninuno sa pagpapalang umaabot sa kanilang mga inapo (Sirak 44)."
+        }
+      }
+    ],
+    "45": [
+      {
+        "q": {
+          "en": "What task did God entrust to Moses for Israel?",
+          "fil": "Anong tungkulin ang ipinagkatiwala ng Diyos kay Moises para sa Israel?"
+        },
+        "options": {
+          "en": [
+            "Teach the people God's covenant and commandments",
+            "Keep every commandment hidden from the people",
+            "Replace God's law with worship of idols"
+          ],
+          "fil": [
+            "Ituro sa bayan ang tipan at mga utos ng Diyos",
+            "Ilihim sa bayan ang bawat utos",
+            "Palitan ang kautusan ng Diyos ng pagsamba sa mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Moses is praised for receiving God's law to teach it to Israel (Sirach 45).",
+          "fil": "Pinupuri si Moises sa pagtanggap ng kautusan ng Diyos upang ituro ito sa Israel (Sirak 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "What role is emphasized in the account of Aaron?",
+          "fil": "Anong tungkulin ang binibigyang-diin sa paglalarawan kay Aaron?"
+        },
+        "options": {
+          "en": [
+            "Serving as priest and leading the people's worship",
+            "Collecting tribute for a foreign idol",
+            "Commanding a fleet against distant islands"
+          ],
+          "fil": [
+            "Paglilingkod bilang pari at pangunguna sa pagsamba ng bayan",
+            "Pangongolekta ng buwis para sa dayuhang diyus-diyosan",
+            "Pamumuno sa hukbong-dagat laban sa malalayong isla"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Aaron is honored for the priesthood and the service of offering sacrifices to the Lord (Sirach 45).",
+          "fil": "Pinararangalan si Aaron dahil sa pagkapari at paglilingkod sa paghahandog sa Panginoon (Sirak 45)."
+        }
+      },
+      {
+        "q": {
+          "en": "Besides offering sacrifices, what responsibility is given to Aaron?",
+          "fil": "Bukod sa paghahandog, anong pananagutan ang ibinigay kay Aaron?"
+        },
+        "options": {
+          "en": [
+            "Instruct the people in God's law",
+            "Forbid the people to learn about God",
+            "Teach that justice does not matter"
+          ],
+          "fil": [
+            "Turuan ang bayan sa kautusan ng Diyos",
+            "Ipagbawal sa bayan ang pag-aaral tungkol sa Diyos",
+            "Ituro na walang halaga ang katarungan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter includes teaching Israel God's law among Aaron's duties (Sirach 45).",
+          "fil": "Kasama sa mga tungkulin ni Aaron sa kabanata ang pagtuturo sa Israel ng kautusan ng Diyos (Sirak 45)."
+        }
+      }
+    ],
+    "46": [
+      {
+        "q": {
+          "en": "What quality is praised in Joshua's leadership?",
+          "fil": "Anong katangian ang pinupuri sa pamumuno ni Josue?"
+        },
+        "options": {
+          "en": [
+            "A refusal to seek God's help",
+            "Courage joined with dependence on the Lord",
+            "A desire to keep Israel from its inheritance"
+          ],
+          "fil": [
+            "Pagtangging humingi ng tulong sa Diyos",
+            "Tapang na may pagtitiwala sa Panginoon",
+            "Pagnanais na hadlangan ang Israel sa pamana nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Joshua is remembered as a courageous leader who called on God in battle (Sirach 46).",
+          "fil": "Inaalala si Josue bilang matapang na pinunong tumawag sa Diyos sa labanan (Sirak 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are Joshua and Caleb praised together?",
+          "fil": "Bakit magkasamang pinupuri sina Josue at Caleb?"
+        },
+        "options": {
+          "en": [
+            "They stood against the people's sinful rebellion",
+            "They encouraged everyone to abandon the Lord",
+            "They taught that God's promises could not be trusted"
+          ],
+          "fil": [
+            "Nanindigan sila laban sa makasalanang paghihimagsik ng bayan",
+            "Hinimok nila ang lahat na talikuran ang Panginoon",
+            "Itinuro nilang hindi mapagkakatiwalaan ang mga pangako ng Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Joshua and Caleb are honored for helping restrain the people's rebellion in Moses' time (Sirach 46).",
+          "fil": "Pinararangalan sina Josue at Caleb sa pagpigil sa paghihimagsik ng bayan noong panahon ni Moises (Sirak 46)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does Samuel's final testimony show about his leadership?",
+          "fil": "Ano ang ipinakikita ng huling patotoo ni Samuel tungkol sa kanyang pamumuno?"
+        },
+        "options": {
+          "en": [
+            "He served without taking people's property for himself",
+            "He refused to be accountable to anyone",
+            "He became wealthy by stealing from the people"
+          ],
+          "fil": [
+            "Naglingkod siya nang hindi kinukuha para sa sarili ang ari-arian ng bayan",
+            "Tumanggi siyang managot kaninuman",
+            "Yumaman siya sa pagnanakaw sa bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Samuel's testimony highlights his integrity in serving the people (Sirach 46).",
+          "fil": "Binibigyang-diin ng patotoo ni Samuel ang kanyang katapatan sa paglilingkod sa bayan (Sirak 46)."
+        }
+      }
+    ],
+    "47": [
+      {
+        "q": {
+          "en": "How did David express his devotion to God?",
+          "fil": "Paano ipinahayag ni David ang kanyang debosyon sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "By declaring that his victories needed no help from God",
+            "Through heartfelt praise and the ordering of worship",
+            "By forbidding all songs of thanksgiving"
+          ],
+          "fil": [
+            "Sa pagsasabing hindi kailangan ng tulong ng Diyos sa kanyang mga tagumpay",
+            "Sa buong-pusong papuri at pagsasaayos ng pagsamba",
+            "Sa pagbabawal sa lahat ng awit ng pasasalamat"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "David is praised for loving his Creator and enriching the people's worship (Sirach 47).",
+          "fil": "Pinupuri si David sa pagmamahal sa kanyang Lumikha at pagpapayaman sa pagsamba ng bayan (Sirak 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What warning emerges from the account of Solomon?",
+          "fil": "Anong babala ang lumilitaw sa paglalarawan kay Solomon?"
+        },
+        "options": {
+          "en": [
+            "Possessing wealth guarantees perfect obedience",
+            "Great wisdom does not excuse unfaithful choices",
+            "Peace makes it impossible to do wrong"
+          ],
+          "fil": [
+            "Tinitiyak ng pagkakaroon ng yaman ang ganap na pagsunod",
+            "Hindi dahilan ang malaking karunungan upang maging di-tapat",
+            "Ginagawang imposible ng kapayapaan ang paggawa ng mali"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Solomon's wisdom is praised, but his failures are shown as damaging his honor and kingdom (Sirach 47).",
+          "fil": "Pinupuri ang karunungan ni Solomon ngunit ipinakikitang pininsala ng kanyang pagkukulang ang dangal at kaharian niya (Sirak 47)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the chapter affirm about God despite the kings' failures?",
+          "fil": "Ano ang pinagtitibay ng kabanata tungkol sa Diyos sa kabila ng pagkukulang ng mga hari?"
+        },
+        "options": {
+          "en": [
+            "He remained merciful and preserved David's line",
+            "He declared every injustice pleasing",
+            "He forgot every promise he had made"
+          ],
+          "fil": [
+            "Nanatili siyang mahabagin at pinanatili ang angkan ni David",
+            "Ipinahayag niyang kalugud-lugod ang bawat kawalang-katarungan",
+            "Nilimot niya ang lahat ng pangakong ginawa niya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter recalls God's enduring mercy and the continuation of David's family (Sirach 47).",
+          "fil": "Inaalala ng kabanata ang patuloy na awa ng Diyos at ang pagpapatuloy ng angkan ni David (Sirak 47)."
+        }
+      }
+    ],
+    "48": [
+      {
+        "q": {
+          "en": "What work of restoration is associated with Elijah?",
+          "fil": "Anong gawain ng pagpapanumbalik ang iniuugnay kay Elias?"
+        },
+        "options": {
+          "en": [
+            "Turning hearts toward reconciliation and restoring Israel",
+            "Teaching families to preserve hatred forever",
+            "Ordering the people to replace the Lord with idols"
+          ],
+          "fil": [
+            "Pagbabalik ng mga puso sa pagkakasundo at pagpapanumbalik sa Israel",
+            "Pagtuturo sa mga pamilya na panatilihin ang poot magpakailanman",
+            "Pag-uutos sa bayan na palitan ang Panginoon ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elijah's mission is recalled in connection with reconciliation and the restoration of God's people (Sirach 48).",
+          "fil": "Inaalala ang misyon ni Elias kaugnay ng pagkakasundo at pagpapanumbalik sa bayan ng Diyos (Sirak 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "What quality is emphasized in Elisha after Elijah's departure?",
+          "fil": "Anong katangian ang binibigyang-diin kay Eliseo matapos lumisan si Elias?"
+        },
+        "options": {
+          "en": [
+            "Prophetic courage that was not cowed by rulers",
+            "Fear that made him abandon every duty",
+            "A decision never to serve God again"
+          ],
+          "fil": [
+            "Tapang ng propetang hindi nasindak sa mga pinuno",
+            "Takot na nagtulak sa kanyang iwan ang bawat tungkulin",
+            "Pasiyang hindi na muling maglingkod sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Elisha is described as carrying on the prophetic work without yielding to fear of rulers (Sirach 48).",
+          "fil": "Inilalarawan si Eliseo na nagpapatuloy sa gawaing propetiko nang hindi nagpapadaig sa takot sa mga pinuno (Sirak 48)."
+        }
+      },
+      {
+        "q": {
+          "en": "How did the people respond when Jerusalem was threatened in Hezekiah's time?",
+          "fil": "Paano tumugon ang bayan nang manganib ang Jerusalem noong panahon ni Ezequias?"
+        },
+        "options": {
+          "en": [
+            "They declared that prayer was forbidden",
+            "They cried to the merciful Lord for help",
+            "They thanked the invaders for attacking"
+          ],
+          "fil": [
+            "Ipinahayag nilang bawal ang panalangin",
+            "Dumaing sila sa mahabaging Panginoon para sa tulong",
+            "Pinasalamatan nila ang mga mananalakay sa pagsalakay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The account connects the people's prayer with God's deliverance during the Assyrian threat (Sirach 48).",
+          "fil": "Iniuugnay ng salaysay ang panalangin ng bayan sa pagliligtas ng Diyos sa banta ng mga taga-Asiria (Sirak 48)."
+        }
+      }
+    ],
+    "49": [
+      {
+        "q": {
+          "en": "Why is Josiah remembered with praise?",
+          "fil": "Bakit inaalala si Josias nang may papuri?"
+        },
+        "options": {
+          "en": [
+            "He turned toward the Lord and removed corrupt worship",
+            "He ordered the people to forget God's law",
+            "He made the worship of idols compulsory"
+          ],
+          "fil": [
+            "Bumaling siya sa Panginoon at inalis ang tiwaling pagsamba",
+            "Iniutos niyang limutin ng bayan ang kautusan ng Diyos",
+            "Ginawa niyang sapilitan ang pagsamba sa mga diyus-diyosan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Josiah is praised for reforming the people and promoting devotion to the Lord (Sirach 49).",
+          "fil": "Pinupuri si Josias sa pagtutuwid sa bayan at pagpapalaganap ng katapatan sa Panginoon (Sirak 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "What service of the prophets is recalled in this chapter?",
+          "fil": "Anong paglilingkod ng mga propeta ang inaalala sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "Giving God's people comfort and hope",
+            "Promising that wrongdoing never has consequences",
+            "Teaching that Jerusalem had no need of God"
+          ],
+          "fil": [
+            "Pagbibigay ng kaaliwan at pag-asa sa bayan ng Diyos",
+            "Pangangakong walang bunga ang paggawa ng masama",
+            "Pagtuturong hindi kailangan ng Jerusalem ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The chapter remembers the prophets as bringing comfort and hopeful encouragement to Israel (Sirach 49).",
+          "fil": "Inaalala ng kabanata ang mga propeta na nagbibigay ng kaaliwan at pag-asa sa Israel (Sirak 49)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are the leaders who rebuilt the Temple and Jerusalem honored?",
+          "fil": "Bakit pinararangalan ang mga pinunong muling nagtayo ng Templo at Jerusalem?"
+        },
+        "options": {
+          "en": [
+            "They prevented every effort to rebuild",
+            "They helped restore the people's worship and common life",
+            "They turned the holy city into a permanent ruin"
+          ],
+          "fil": [
+            "Hinadlangan nila ang lahat ng pagsisikap na magtayo muli",
+            "Tumulong sila sa pagpapanumbalik ng pagsamba at pamumuhay ng bayan",
+            "Ginawa nilang permanenteng guho ang banal na lungsod"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The praise honors the work of restoring the sanctuary, walls, and homes of the people (Sirach 49).",
+          "fil": "Pinararangalan ng pagpupugay ang pagpapanumbalik sa santuwaryo, mga pader, at mga tahanan ng bayan (Sirak 49)."
+        }
+      }
+    ],
+    "50": [
+      {
+        "q": {
+          "en": "What service of the high priest Simon is celebrated?",
+          "fil": "Anong paglilingkod ng pinakapunong paring si Simon ang ipinagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "Caring for the Temple and leading its worship",
+            "Replacing the altar with a royal throne",
+            "Forbidding the people to approach God"
+          ],
+          "fil": [
+            "Pangangalaga sa Templo at pangunguna sa pagsamba rito",
+            "Pagpapalit sa altar ng trono ng hari",
+            "Pagbabawal sa bayan na lumapit sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Simon is honored for strengthening the Temple and serving in its worship (Sirach 50).",
+          "fil": "Pinararangalan si Simon sa pagpapatibay sa Templo at paglilingkod sa pagsamba rito (Sirak 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "How do the people take part in the Temple worship described here?",
+          "fil": "Paano nakikibahagi ang bayan sa pagsamba sa Templong inilalarawan dito?"
+        },
+        "options": {
+          "en": [
+            "They bow before God and pray together",
+            "They leave because prayer is prohibited",
+            "They worship Simon as the creator of the world"
+          ],
+          "fil": [
+            "Yumuyukod sila sa Diyos at sama-samang nananalangin",
+            "Umaalis sila dahil ipinagbabawal ang panalangin",
+            "Sinasamba nila si Simon bilang lumikha ng daigdig"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people join the service with worship and prayer to the Most High (Sirach 50).",
+          "fil": "Nakikibahagi ang bayan sa paglilingkod sa pamamagitan ng pagsamba at panalangin sa Kataas-taasan (Sirak 50)."
+        }
+      },
+      {
+        "q": {
+          "en": "What blessing is sought after the description of worship?",
+          "fil": "Anong pagpapala ang hinihingi matapos ilarawan ang pagsamba?"
+        },
+        "options": {
+          "en": [
+            "Permission to oppress neighboring families",
+            "A life with no gratitude toward God",
+            "Joy, peace, and God's continuing mercy"
+          ],
+          "fil": [
+            "Pahintulot na apihin ang mga pamilyang kapitbahay",
+            "Buhay na walang pasasalamat sa Diyos",
+            "Kagalakan, kapayapaan, at patuloy na awa ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The chapter invites thanksgiving and asks God to grant joy, peace, and deliverance (Sirach 50).",
+          "fil": "Inaanyayahan ng kabanata ang pagpapasalamat at hinihiling sa Diyos ang kagalakan, kapayapaan, at pagliligtas (Sirak 50)."
+        }
+      }
+    ],
+    "51": [
+      {
+        "q": {
+          "en": "Why does the speaker begin the closing prayer with thanksgiving?",
+          "fil": "Bakit sinisimulan ng nagsasalita ang pangwakas na panalangin sa pasasalamat?"
+        },
+        "options": {
+          "en": [
+            "His enemies had taught him to abandon wisdom",
+            "He had never needed help from anyone",
+            "God rescued him from danger and heard his prayer"
+          ],
+          "fil": [
+            "Tinuruan siya ng kanyang mga kaaway na talikuran ang karunungan",
+            "Hindi siya kailanman nangailangan ng tulong kaninuman",
+            "Iniligtas siya ng Diyos sa panganib at dininig ang kanyang panalangin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing prayer thanks God for protection and deliverance in a time of distress (Sirach 51).",
+          "fil": "Nagpapasalamat sa Diyos ang pangwakas na panalangin para sa pag-iingat at pagliligtas sa panahon ng kagipitan (Sirak 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does the speaker describe his search for wisdom?",
+          "fil": "Paano inilalarawan ng nagsasalita ang paghahanap niya ng karunungan?"
+        },
+        "options": {
+          "en": [
+            "He expected to gain it without listening or effort",
+            "He sought it in prayer and practiced it from his youth",
+            "He refused instruction until he became wealthy"
+          ],
+          "fil": [
+            "Inasahan niyang makakamit ito nang walang pakikinig o pagsisikap",
+            "Hinanap niya ito sa panalangin at isinagawa mula sa kabataan",
+            "Tumanggi siyang magpaturo hanggang yumaman siya"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The speaker connects the search for wisdom with prayer, attentive learning, and faithful practice (Sirach 51).",
+          "fil": "Iniuugnay ng nagsasalita ang paghahanap ng karunungan sa panalangin, maingat na pag-aaral, at tapat na pagsasagawa (Sirak 51)."
+        }
+      },
+      {
+        "q": {
+          "en": "What invitation is offered near the end of the book?",
+          "fil": "Anong paanyaya ang ibinibigay malapit sa wakas ng aklat?"
+        },
+        "options": {
+          "en": [
+            "Keep all learning only for the powerful",
+            "Come and receive instruction in wisdom",
+            "Stop seeking what is good"
+          ],
+          "fil": [
+            "Ilaan ang lahat ng pag-aaral sa makapangyarihan lamang",
+            "Lumapit at tumanggap ng pagtuturo sa karunungan",
+            "Tumigil sa paghahanap ng mabuti"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The book closes with an invitation to learn and accept the discipline of wisdom (Sirach 51).",
+          "fil": "Nagtatapos ang aklat sa paanyayang matuto at tanggapin ang disiplina ng karunungan (Sirak 51)."
+        }
+      }
+    ]
+  }
+}
