@@ -1,0 +1,572 @@
+{
+  "chapters": {
+    "1": [
+      {
+        "q": {
+          "en": "What outdoor work does the woman say she was made to do?",
+          "fil": "Anong gawaing panlabas ang sinabi ng babae na ipinagawa sa kanya?"
+        },
+        "options": {
+          "en": [
+            "Care for vineyards",
+            "Command an army",
+            "Build city walls"
+          ],
+          "fil": [
+            "Mag-alaga ng mga ubasan",
+            "Mamuno sa hukbo",
+            "Magtayo ng mga pader ng lungsod"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The woman connects her sun-darkened appearance with work in the vineyards (Song of Songs 1).",
+          "fil": "Iniugnay ng babae ang kanyang kutis na nabilad sa araw sa pagtatrabaho sa mga ubasan (Awit ng mga Awit 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the woman ask her beloved about his flock?",
+          "fil": "Ano ang itinanong ng babae sa kanyang minamahal tungkol sa kawan nito?"
+        },
+        "options": {
+          "en": [
+            "Where he grazes it and rests at midday",
+            "Where he hides royal treasure",
+            "Where he builds warships"
+          ],
+          "fil": [
+            "Kung saan niya ito pinapastol at ipinapahinga sa tanghali",
+            "Kung saan niya itinatago ang kayamanan ng hari",
+            "Kung saan niya ginagawa ang mga barkong pandigma"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The woman's question uses the setting of a shepherd tending his flock (Song of Songs 1).",
+          "fil": "Gumamit ang tanong ng babae ng tagpo ng pastol na nag-aalaga ng kanyang kawan (Awit ng mga Awit 1)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude do the lovers express toward each other?",
+          "fil": "Anong saloobin ang ipinahayag ng magkasintahan sa isa't isa?"
+        },
+        "options": {
+          "en": [
+            "Complete indifference",
+            "A desire for revenge",
+            "Affection and admiration"
+          ],
+          "fil": [
+            "Lubusang pagwawalang-bahala",
+            "Pagnanais na maghiganti",
+            "Pagmamahal at paghanga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The speakers exchange words of affection and appreciation (Song of Songs 1).",
+          "fil": "Nagpalitan ang mga nagsasalita ng pagpapahayag ng pagmamahal at pagpapahalaga (Awit ng mga Awit 1)."
+        }
+      }
+    ],
+    "2": [
+      {
+        "q": {
+          "en": "What season is suggested by flowers, birdsong, and the end of winter?",
+          "fil": "Anong panahon ang ipinahihiwatig ng mga bulaklak, awit ng ibon, at pagtatapos ng taglamig?"
+        },
+        "options": {
+          "en": [
+            "Spring",
+            "The depths of winter",
+            "A season without any growing plants"
+          ],
+          "fil": [
+            "Tagsibol",
+            "Kasukdulan ng taglamig",
+            "Panahong walang anumang tumutubong halaman"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The poem celebrates the arrival of spring and renewed life (Song of Songs 2).",
+          "fil": "Ipinagdiwang ng tula ang pagdating ng tagsibol at panibagong buhay (Awit ng mga Awit 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What small animals threaten the flowering vineyards?",
+          "fil": "Anong maliliit na hayop ang nagbabanta sa namumulaklak na mga ubasan?"
+        },
+        "options": {
+          "en": [
+            "Foxes",
+            "Horses",
+            "Camels"
+          ],
+          "fil": [
+            "Mga soro",
+            "Mga kabayo",
+            "Mga kamelyo"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The foxes are pictured as a threat to the vineyards in bloom (Song of Songs 2).",
+          "fil": "Inilarawan ang mga soro bilang banta sa namumulaklak na mga ubasan (Awit ng mga Awit 2)."
+        }
+      },
+      {
+        "q": {
+          "en": "What caution is given about love?",
+          "fil": "Anong paalaala ang ibinigay tungkol sa pag-ibig?"
+        },
+        "options": {
+          "en": [
+            "Do not force it before the proper time",
+            "Measure it only by wealth",
+            "Treat it as a battle to win"
+          ],
+          "fil": [
+            "Huwag itong pilitin bago ang tamang panahon",
+            "Sukatin lamang ito sa kayamanan",
+            "Ituring itong labanang dapat mapanalunan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The repeated appeal urges respect for love's proper timing (Song of Songs 2).",
+          "fil": "Hinihikayat ng paulit-ulit na pakiusap ang paggalang sa tamang panahon ng pag-ibig (Awit ng mga Awit 2)."
+        }
+      }
+    ],
+    "3": [
+      {
+        "q": {
+          "en": "Whose royal procession is pictured in the latter part of the chapter?",
+          "fil": "Kaninong paglalakbay bilang hari ang inilarawan sa huling bahagi ng kabanata?"
+        },
+        "options": {
+          "en": [
+            "Pharaoh's",
+            "Solomon's",
+            "Saul's"
+          ],
+          "fil": [
+            "Ni Faraon",
+            "Ni Solomon",
+            "Ni Saul"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem presents Solomon's splendid carriage and escort (Song of Songs 3).",
+          "fil": "Inilahad ng tula ang maringal na sasakyan at mga bantay ni Solomon (Awit ng mga Awit 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why do armed warriors surround the royal carriage?",
+          "fil": "Bakit napaliligiran ng mga armadong mandirigma ang sasakyan ng hari?"
+        },
+        "options": {
+          "en": [
+            "To guard against dangers at night",
+            "To build a fishing boat",
+            "To gather grapes"
+          ],
+          "fil": [
+            "Upang magbantay laban sa mga panganib sa gabi",
+            "Upang gumawa ng bangkang pangisda",
+            "Upang mamitas ng ubas"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The experienced warriors provide protection during the procession (Song of Songs 3).",
+          "fil": "Nagbibigay ng proteksiyon ang mga bihasang mandirigma sa paglalakbay (Awit ng mga Awit 3)."
+        }
+      },
+      {
+        "q": {
+          "en": "What joyful occasion is associated with the king's crown?",
+          "fil": "Anong masayang okasyon ang kaugnay ng korona ng hari?"
+        },
+        "options": {
+          "en": [
+            "His wedding day",
+            "His exile from the land",
+            "His defeat in battle"
+          ],
+          "fil": [
+            "Ang araw ng kanyang kasal",
+            "Ang kanyang pagpapatapon mula sa lupain",
+            "Ang kanyang pagkatalo sa labanan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The crown is linked with the joy of Solomon's wedding (Song of Songs 3).",
+          "fil": "Iniugnay ang korona sa kagalakan ng kasal ni Solomon (Awit ng mga Awit 3)."
+        }
+      }
+    ],
+    "4": [
+      {
+        "q": {
+          "en": "Who offers the extended praise of the woman's beauty in this chapter?",
+          "fil": "Sino ang nagbigay ng mahabang pagpuri sa kagandahan ng babae sa kabanatang ito?"
+        },
+        "options": {
+          "en": [
+            "A judge announcing punishment",
+            "Her beloved",
+            "An enemy general"
+          ],
+          "fil": [
+            "Isang hukom na nagpapahayag ng parusa",
+            "Ang kanyang minamahal",
+            "Isang heneral ng kaaway"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The beloved expresses admiration through poetic comparisons (Song of Songs 4).",
+          "fil": "Nagpahayag ng paghanga ang minamahal sa pamamagitan ng mga paghahambing sa tula (Awit ng mga Awit 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What image is used to describe the beloved woman as precious and protected?",
+          "fil": "Anong larawan ang ginamit upang ilarawan ang minamahal na babae bilang mahalaga at iniingatan?"
+        },
+        "options": {
+          "en": [
+            "A ruined battlefield",
+            "An empty prison",
+            "An enclosed garden"
+          ],
+          "fil": [
+            "Isang wasak na larangan ng digmaan",
+            "Isang walang lamang bilangguan",
+            "Isang nakabakod na halamanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The enclosed garden portrays the woman's cherished beauty (Song of Songs 4).",
+          "fil": "Inilalarawan ng nakabakod na halamanan ang iniingatang kagandahan ng babae (Awit ng mga Awit 4)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the invitation to the winds ask them to spread?",
+          "fil": "Ano ang ipinakakalat sa mga hangin sa paanyaya sa mga ito?"
+        },
+        "options": {
+          "en": [
+            "News of a royal defeat",
+            "The smoke of war",
+            "The garden's fragrance"
+          ],
+          "fil": [
+            "Balita ng pagkatalo ng hari",
+            "Ang usok ng digmaan",
+            "Ang halimuyak ng halamanan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The winds are invited to carry the garden's pleasant scents (Song of Songs 4).",
+          "fil": "Inanyayahan ang mga hangin na dalhin ang mababangong amoy ng halamanan (Awit ng mga Awit 4)."
+        }
+      }
+    ],
+    "5": [
+      {
+        "q": {
+          "en": "What does the woman hear her beloved doing at the door?",
+          "fil": "Ano ang narinig ng babae na ginagawa ng kanyang minamahal sa pinto?"
+        },
+        "options": {
+          "en": [
+            "Knocking and asking her to open",
+            "Announcing a harvest tax",
+            "Ordering soldiers to attack"
+          ],
+          "fil": [
+            "Kumakatok at humihiling na magbukas siya",
+            "Nagpapahayag ng buwis sa ani",
+            "Nag-uutos sa mga kawal na sumalakay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The nighttime scene begins with the beloved calling at the door (Song of Songs 5).",
+          "fil": "Nagsimula ang tagpo sa gabi sa pagtawag ng minamahal sa pinto (Awit ng mga Awit 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens when she finally opens the door?",
+          "fil": "Ano ang nangyari nang sa wakas ay magbukas siya ng pinto?"
+        },
+        "options": {
+          "en": [
+            "She finds a vineyard inside",
+            "Her beloved has gone",
+            "A royal army enters"
+          ],
+          "fil": [
+            "Nakakita siya ng ubasan sa loob",
+            "Umalis na ang kanyang minamahal",
+            "Pumasok ang hukbo ng hari"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Her delayed response leads to a search for the absent beloved (Song of Songs 5).",
+          "fil": "Humantong sa paghahanap sa nawawalang minamahal ang kanyang naantalang pagtugon (Awit ng mga Awit 5)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does she answer the friends who ask what makes her beloved special?",
+          "fil": "Paano niya sinagot ang mga kaibigang nagtanong kung bakit natatangi ang kanyang minamahal?"
+        },
+        "options": {
+          "en": [
+            "She praises his beauty and calls him her friend",
+            "She speaks only of his army's size",
+            "She says she has never cared for him"
+          ],
+          "fil": [
+            "Pinuri niya ang kagandahan nito at tinawag na kanyang kaibigan",
+            "Tungkol lamang sa laki ng hukbo nito ang sinabi niya",
+            "Sinabi niyang hindi niya ito kailanman pinahalagahan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Her description combines admiration with affectionate friendship (Song of Songs 5).",
+          "fil": "Pinagsama ng kanyang paglalarawan ang paghanga at mapagmahal na pagkakaibigan (Awit ng mga Awit 5)."
+        }
+      }
+    ],
+    "6": [
+      {
+        "q": {
+          "en": "Where does the woman say her beloved has gone?",
+          "fil": "Saan sinabi ng babae na pumunta ang kanyang minamahal?"
+        },
+        "options": {
+          "en": [
+            "To a prison in Babylon",
+            "To his garden",
+            "To a battlefield in Egypt"
+          ],
+          "fil": [
+            "Sa bilangguan sa Babilonia",
+            "Sa kanyang halamanan",
+            "Sa larangan ng digmaan sa Egipto"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "She locates her beloved among the garden's beds and lilies (Song of Songs 6).",
+          "fil": "Itinuro niya ang kanyang minamahal sa mga taniman at liryo ng halamanan (Awit ng mga Awit 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "Which cities appear in the beloved's praise of the woman?",
+          "fil": "Anong mga lungsod ang lumitaw sa pagpuri ng minamahal sa babae?"
+        },
+        "options": {
+          "en": [
+            "Sodom and Gomorrah",
+            "Nineveh and Babylon",
+            "Tirzah and Jerusalem"
+          ],
+          "fil": [
+            "Sodoma at Gomorra",
+            "Nineve at Babilonia",
+            "Tirza at Jerusalem"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The woman's beauty is compared with Tirzah and Jerusalem (Song of Songs 6).",
+          "fil": "Inihambing ang kagandahan ng babae sa Tirza at Jerusalem (Awit ng mga Awit 6)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is the woman valued among the many women mentioned?",
+          "fil": "Paano pinahalagahan ang babae sa maraming babaeng binanggit?"
+        },
+        "options": {
+          "en": [
+            "As someone he refuses to notice",
+            "As uniquely precious to her beloved",
+            "As an enemy to defeat"
+          ],
+          "fil": [
+            "Bilang ayaw niyang pansinin",
+            "Bilang natatanging mahalaga sa kanyang minamahal",
+            "Bilang kaaway na dapat talunin"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The praise singles her out as unique rather than interchangeable (Song of Songs 6).",
+          "fil": "Ibinukod siya ng papuri bilang natatangi at hindi basta mapapalitan (Awit ng mga Awit 6)."
+        }
+      }
+    ],
+    "7": [
+      {
+        "q": {
+          "en": "What is the main tone of the beloved's descriptions of the woman?",
+          "fil": "Ano ang pangunahing himig ng mga paglalarawan ng minamahal sa babae?"
+        },
+        "options": {
+          "en": [
+            "A legal accusation",
+            "A threat of war",
+            "Delighted admiration"
+          ],
+          "fil": [
+            "Paratang sa hukuman",
+            "Banta ng digmaan",
+            "Masayang paghanga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The poetic descriptions express joy in the woman's beauty (Song of Songs 7).",
+          "fil": "Nagpapahayag ng kagalakan sa kagandahan ng babae ang mga paglalarawan sa tula (Awit ng mga Awit 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "Where does the woman invite her beloved to go with her?",
+          "fil": "Saan inanyayahan ng babae ang kanyang minamahal na sumama sa kanya?"
+        },
+        "options": {
+          "en": [
+            "To rule Egypt",
+            "Into the countryside and vineyards",
+            "To attack Jerusalem"
+          ],
+          "fil": [
+            "Upang maghari sa Egipto",
+            "Sa kanayunan at mga ubasan",
+            "Upang salakayin ang Jerusalem"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "She invites her beloved to share time among the fields and vineyards (Song of Songs 7).",
+          "fil": "Inanyayahan niya ang kanyang minamahal na magsama sa mga parang at ubasan (Awit ng mga Awit 7)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do they plan to look for in the vineyards?",
+          "fil": "Ano ang balak nilang tingnan sa mga ubasan?"
+        },
+        "options": {
+          "en": [
+            "Hidden weapons for battle",
+            "Prisoners waiting for judgment",
+            "Budding vines and opening blossoms"
+          ],
+          "fil": [
+            "Mga nakatagong sandata sa labanan",
+            "Mga bilanggong naghihintay ng hatol",
+            "Mga sumisibol na baging at bumubukang bulaklak"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The vineyard imagery celebrates growth and affection (Song of Songs 7).",
+          "fil": "Ipinagdiriwang ng larawan ng ubasan ang pagtubo at pagmamahalan (Awit ng mga Awit 7)."
+        }
+      }
+    ],
+    "8": [
+      {
+        "q": {
+          "en": "What does the request to be kept like a seal express?",
+          "fil": "Ano ang ipinahahayag ng hiling na maingatang tulad ng pantatak?"
+        },
+        "options": {
+          "en": [
+            "A wish to forget the beloved",
+            "A demand for military power",
+            "A desire for lasting commitment"
+          ],
+          "fil": [
+            "Pagnanais na malimutan ang minamahal",
+            "Paghiling ng kapangyarihan sa hukbo",
+            "Pagnanais ng nananatiling pagtalaga"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The seal image expresses a deeply held and lasting bond (Song of Songs 8).",
+          "fil": "Ipinahahayag ng larawan ng pantatak ang malalim at nananatiling ugnayan (Awit ng mga Awit 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "How is love's strength portrayed through the image of great waters?",
+          "fil": "Paano inilarawan ang lakas ng pag-ibig sa larawan ng malalakas na tubig?"
+        },
+        "options": {
+          "en": [
+            "A small rain immediately ends it",
+            "Even floods cannot sweep it away",
+            "It exists only beside a river"
+          ],
+          "fil": [
+            "Agad itong winawakasan ng kaunting ulan",
+            "Hindi ito kayang tangayin maging ng mga baha",
+            "Umiiral lamang ito sa tabi ng ilog"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The water imagery stresses love's enduring power (Song of Songs 8).",
+          "fil": "Binibigyang-diin ng larawan ng tubig ang nananatiling lakas ng pag-ibig (Awit ng mga Awit 8)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the poem suggest about buying love with wealth?",
+          "fil": "Ano ang ipinahihiwatig ng tula tungkol sa pagbili ng pag-ibig sa kayamanan?"
+        },
+        "options": {
+          "en": [
+            "A rich person can always buy it",
+            "Love cannot be purchased like property",
+            "Its value is fixed by a king's tax"
+          ],
+          "fil": [
+            "Laging nabibili ito ng mayaman",
+            "Hindi nabibili ang pag-ibig na tulad ng ari-arian",
+            "Itinatakda ng buwis ng hari ang halaga nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The poem presents love as beyond the price of possessions (Song of Songs 8).",
+          "fil": "Ipinakikita ng tula na higit sa halaga ng mga ari-arian ang pag-ibig (Awit ng mga Awit 8)."
+        }
+      }
+    ]
+  }
+}
