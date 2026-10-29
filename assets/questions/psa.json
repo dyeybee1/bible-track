@@ -5324,6 +5324,1781 @@
           "fil": "Nagbabala ang kopa na hindi nakatatakas sa pananagutan ang kayabangan (Mga Awit 75)."
         }
       }
+    ],
+    "76": [
+      {
+        "q": {
+          "en": "Where is God's dwelling especially celebrated?",
+          "fil": "Saan tanging ipinagdiriwang ang tahanan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "In a Philistine shrine",
+            "In Babylon's palace",
+            "In Zion"
+          ],
+          "fil": [
+            "Sa dambana ng mga Filisteo",
+            "Sa palasyo ng Babilonia",
+            "Sa Sion"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song associates God's dwelling with Salem and Zion (Psalm 76).",
+          "fil": "Iniuugnay ng awit ang tahanan ng Diyos sa Salem at Sion (Mga Awit 76)."
+        }
+      },
+      {
+        "q": {
+          "en": "What happens to the weapons and powerful warriors before God?",
+          "fil": "Ano ang nangyayari sa mga sandata at makapangyarihang mandirigma sa harap ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Their power is broken",
+            "They become stronger than ever",
+            "They defeat God"
+          ],
+          "fil": [
+            "Nawawasak ang kanilang kapangyarihan",
+            "Lalo silang lumalakas kaysa dati",
+            "Natatalo nila ang Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Broken weapons and helpless warriors show God's victory over human force (Psalm 76).",
+          "fil": "Ipinakikita ng mga wasak na sandata at walang magawang mandirigma ang tagumpay ng Diyos laban sa lakas ng tao (Mga Awit 76)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whom does God rise to save when he judges?",
+          "fil": "Sino ang inililigtas ng Diyos kapag siya ay humahatol?"
+        },
+        "options": {
+          "en": [
+            "The humble of the earth",
+            "Those selling false judgments",
+            "Only boastful conquerors"
+          ],
+          "fil": [
+            "Ang mga mapagpakumbaba sa daigdig",
+            "Ang mga nagbebenta ng maling hatol",
+            "Ang mga palalong mananakop lamang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's judgment brings rescue for the humble rather than support for violent pride (Psalm 76).",
+          "fil": "Ang paghatol ng Diyos ay nagdudulot ng pagliligtas sa mga mapagpakumbaba sa halip na pagsuporta sa marahas na pagmamataas (Mga Awit 76)."
+        }
+      }
+    ],
+    "77": [
+      {
+        "q": {
+          "en": "What is the speaker's experience during the troubled night?",
+          "fil": "Ano ang karanasan ng nagsasalita sa gabing puno ng bagabag?"
+        },
+        "options": {
+          "en": [
+            "Sleepless distress and searching questions",
+            "Carefree sleep after a feast",
+            "Excitement about buying land"
+          ],
+          "fil": [
+            "Di-makatulog na pagkabagabag at mga tanong",
+            "Mahimbing na tulog matapos ang handaan",
+            "Pananabik sa pagbili ng lupa"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The speaker stays awake in distress and wonders whether God's mercy has ended (Psalm 77).",
+          "fil": "Nananatiling gising ang nagsasalita sa pagkabagabag at nagtatanong kung nagwakas na ang awa ng Diyos (Mga Awit 77)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the speaker deliberately remember after expressing doubt?",
+          "fil": "Ano ang sadyang inaalala ng nagsasalita matapos ipahayag ang pag-aalinlangan?"
+        },
+        "options": {
+          "en": [
+            "God's wonderful deeds in the past",
+            "Plans for a larger marketplace",
+            "The prices of royal treasures"
+          ],
+          "fil": [
+            "Ang mga kahanga-hangang ginawa ng Diyos noon",
+            "Mga plano para sa mas malaking pamilihan",
+            "Ang mga halaga ng kayamanan ng hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Remembering God's earlier wonders redirects the troubled speaker's thoughts (Psalm 77).",
+          "fil": "Ang pag-alala sa mga kahanga-hangang ginawa ng Diyos noon ay muling gumagabay sa isip ng nababagabag na nagsasalita (Mga Awit 77)."
+        }
+      },
+      {
+        "q": {
+          "en": "What surprising path appears near the end?",
+          "fil": "Anong di-pangkaraniwang daan ang lumilitaw malapit sa wakas?"
+        },
+        "options": {
+          "en": [
+            "A road through a king's bedroom",
+            "God's path through the sea",
+            "A tunnel under an idol"
+          ],
+          "fil": [
+            "Isang daan sa silid-tulugan ng hari",
+            "Ang daan ng Diyos sa dagat",
+            "Isang lagusan sa ilalim ng diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The closing picture recalls God's unseen path through mighty waters while leading his people (Psalm 77).",
+          "fil": "Ipinapaalala ng huling larawan ang di-nakikitang daan ng Diyos sa malawak na tubig habang inaakay ang kanyang bayan (Mga Awit 77)."
+        }
+      }
+    ],
+    "78": [
+      {
+        "q": {
+          "en": "Why are God's past deeds to be passed on to children?",
+          "fil": "Bakit dapat ipasa sa mga anak ang mga ginawa ng Diyos noon?"
+        },
+        "options": {
+          "en": [
+            "So future generations will trust and obey God",
+            "So they can forget their people",
+            "So they can worship foreign kings"
+          ],
+          "fil": [
+            "Upang magtiwala at sumunod sa Diyos ang mga susunod na salinlahi",
+            "Upang makalimutan nila ang kanilang bayan",
+            "Upang sumamba sila sa mga dayuhang hari"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Israel's history is taught so children will remember God's works and keep his commands (Psalm 78).",
+          "fil": "Itinuturo ang kasaysayan ng Israel upang maalala ng mga anak ang mga gawa ng Diyos at sundin ang kanyang mga utos (Mga Awit 78)."
+        }
+      },
+      {
+        "q": {
+          "en": "What repeated failure appears in the wilderness memories?",
+          "fil": "Anong paulit-ulit na pagkukulang ang makikita sa mga alaala sa ilang?"
+        },
+        "options": {
+          "en": [
+            "The people rebel despite God's care",
+            "The people faithfully obey every time",
+            "The people never receive any help"
+          ],
+          "fil": [
+            "Naghihimagsik ang bayan sa kabila ng pag-aaruga ng Diyos",
+            "Laging tapat na sumusunod ang bayan",
+            "Hindi kailanman tumatanggap ng tulong ang bayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The historical account contrasts God's provision with the people's repeated unbelief (Psalm 78).",
+          "fil": "Inihahambing ng salaysay ng kasaysayan ang pagkakaloob ng Diyos sa paulit-ulit na kawalan ng pananampalataya ng bayan (Mga Awit 78)."
+        }
+      },
+      {
+        "q": {
+          "en": "What kind of leadership closes the account of God's care for Israel?",
+          "fil": "Anong uri ng pamumuno ang nagtatapos sa salaysay ng pag-aaruga ng Diyos sa Israel?"
+        },
+        "options": {
+          "en": [
+            "David shepherding the people with integrity",
+            "A ruler ordering everyone to forget God",
+            "A foreign merchant buying the kingdom"
+          ],
+          "fil": [
+            "Ang pangangalaga ni David sa bayan nang may katapatan",
+            "Isang pinunong nag-uutos sa lahat na kalimutan ang Diyos",
+            "Isang dayuhang mangangalakal na bumibili sa kaharian"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The account ends with God choosing David to guide Israel as a faithful shepherd (Psalm 78).",
+          "fil": "Nagtatapos ang salaysay sa pagpili ng Diyos kay David upang akayin ang Israel bilang tapat na pastol (Mga Awit 78)."
+        }
+      }
+    ],
+    "79": [
+      {
+        "q": {
+          "en": "What has happened to Jerusalem and the temple?",
+          "fil": "Ano ang nangyari sa Jerusalem at sa templo?"
+        },
+        "options": {
+          "en": [
+            "Invaders have ruined the city and defiled the temple",
+            "They have been moved to the desert unharmed",
+            "They have been abandoned for a sea voyage"
+          ],
+          "fil": [
+            "Winasak ng mga mananalakay ang lungsod at nilapastangan ang templo",
+            "Inilipat ang mga ito sa ilang nang walang pinsala",
+            "Iniwan ang mga ito para sa paglalayag"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The lament begins with the devastation of Jerusalem and the defilement of God's sanctuary (Psalm 79).",
+          "fil": "Nagsisimula ang panaghoy sa pagkawasak ng Jerusalem at paglapastangan sa santuwaryo ng Diyos (Mga Awit 79)."
+        }
+      },
+      {
+        "q": {
+          "en": "What painful detail shows the severity of the disaster?",
+          "fil": "Anong masakit na detalye ang nagpapakita ng tindi ng kapahamakan?"
+        },
+        "options": {
+          "en": [
+            "No one has enough festival decorations",
+            "The palace has too many guests",
+            "The dead are left without burial"
+          ],
+          "fil": [
+            "Walang may sapat na palamuti para sa pista",
+            "Sobrang dami ng panauhin sa palasyo",
+            "Naiwang hindi naililibing ang mga patay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The unburied dead reveal the terrible suffering caused by the attack (Psalm 79).",
+          "fil": "Ipinakikita ng mga patay na hindi nailibing ang matinding pagdurusang dulot ng pagsalakay (Mga Awit 79)."
+        }
+      },
+      {
+        "q": {
+          "en": "For whose honor do the people ask for rescue and forgiveness?",
+          "fil": "Para sa karangalan nino humihingi ang bayan ng pagliligtas at kapatawaran?"
+        },
+        "options": {
+          "en": [
+            "For God's name",
+            "For an idol maker's name",
+            "For the invading army's name"
+          ],
+          "fil": [
+            "Para sa pangalan ng Diyos",
+            "Para sa pangalan ng gumagawa ng diyus-diyosan",
+            "Para sa pangalan ng hukbong sumalakay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The people appeal to God's name as they seek help and cleansing from sin (Psalm 79).",
+          "fil": "Dumudulog ang bayan alang-alang sa pangalan ng Diyos habang humihingi ng tulong at paglilinis sa kasalanan (Mga Awit 79)."
+        }
+      }
+    ],
+    "80": [
+      {
+        "q": {
+          "en": "What title is used for God at the beginning?",
+          "fil": "Anong tawag sa Diyos ang ginamit sa simula?"
+        },
+        "options": {
+          "en": [
+            "A sleeping idol",
+            "Israel's shepherd",
+            "Babylon's merchant"
+          ],
+          "fil": [
+            "Isang natutulog na diyus-diyosan",
+            "Pastol ng Israel",
+            "Mangangalakal ng Babilonia"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer addresses God as the shepherd who guides Israel like a flock (Psalm 80).",
+          "fil": "Tinatawag ng panalangin ang Diyos na pastol na umaakay sa Israel gaya ng isang kawan (Mga Awit 80)."
+        }
+      },
+      {
+        "q": {
+          "en": "What plant represents the people brought from Egypt?",
+          "fil": "Anong halaman ang kumakatawan sa bayang inilabas mula sa Egipto?"
+        },
+        "options": {
+          "en": [
+            "A reed floating without roots",
+            "A thorn bush sold in a market",
+            "A vine planted by God"
+          ],
+          "fil": [
+            "Isang tambo na lumulutang na walang ugat",
+            "Isang matinik na palumpong na ibinenta sa pamilihan",
+            "Isang punong ubas na itinanim ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Israel is pictured as a vine God transplanted from Egypt and established in the land (Psalm 80).",
+          "fil": "Inilalarawan ang Israel bilang punong ubas na inilipat ng Diyos mula sa Egipto at pinatatag sa lupain (Mga Awit 80)."
+        }
+      },
+      {
+        "q": {
+          "en": "What request returns throughout the prayer?",
+          "fil": "Anong kahilingan ang paulit-ulit sa panalangin?"
+        },
+        "options": {
+          "en": [
+            "Give us another god to follow",
+            "Keep us from ever praying again",
+            "Restore us and show us your saving favor"
+          ],
+          "fil": [
+            "Bigyan kami ng ibang diyos na susundin",
+            "Pigilan kaming manalangin muli kailanman",
+            "Panumbalikin kami at ipakita ang iyong nagliligtas na kabutihan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The repeated plea asks God to restore his people and turn his favor toward them (Psalm 80).",
+          "fil": "Hinihiling ng paulit-ulit na pakiusap na panumbalikin ng Diyos ang kanyang bayan at muli silang kalugdan (Mga Awit 80)."
+        }
+      }
+    ],
+    "81": [
+      {
+        "q": {
+          "en": "What joyful activity opens the psalm?",
+          "fil": "Anong masayang gawain ang nagbubukas sa awit?"
+        },
+        "options": {
+          "en": [
+            "Silent counting of enemy weapons",
+            "An argument about buying livestock",
+            "Festival praise with music and a trumpet"
+          ],
+          "fil": [
+            "Tahimik na pagbilang ng sandata ng kaaway",
+            "Pagtatalo tungkol sa pagbili ng mga hayop",
+            "Pagpupuri sa pista na may musika at trumpeta"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The opening calls for joyful music and trumpet sounding at Israel's appointed feast (Psalm 81).",
+          "fil": "Nananawagan ang simula ng masayang musika at pagtunog ng trumpeta sa takdang pista ng Israel (Mga Awit 81)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God urge Israel to stop doing?",
+          "fil": "Ano ang hinihimok ng Diyos na itigil ng Israel?"
+        },
+        "options": {
+          "en": [
+            "Teaching children about his rescue",
+            "Giving thanks for freedom",
+            "Worshiping foreign gods and refusing to listen"
+          ],
+          "fil": [
+            "Pagtuturo sa mga anak tungkol sa kanyang pagliligtas",
+            "Pagpapasalamat sa kalayaan",
+            "Pagsamba sa mga dayuhang diyos at pagtangging makinig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God calls his rescued people to listen to him instead of turning to other gods (Psalm 81).",
+          "fil": "Tinatawag ng Diyos ang kanyang iniligtas na bayan na makinig sa kanya sa halip na bumaling sa ibang diyos (Mga Awit 81)."
+        }
+      },
+      {
+        "q": {
+          "en": "What food images close God's offer of generous care?",
+          "fil": "Anong mga larawan ng pagkain ang nagtatapos sa alok ng masaganang pag-aaruga ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Ashes and broken pottery",
+            "Sand and iron nails",
+            "Choice wheat and honey from rock"
+          ],
+          "fil": [
+            "Abo at basag na palayok",
+            "Buhangin at mga pakong bakal",
+            "Mainam na trigo at pulot mula sa bato"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The closing images of wheat and honey express the good provision Israel could receive from God (Psalm 81).",
+          "fil": "Ipinahahayag ng mga huling larawan ng trigo at pulot ang mabuting pagkakaloob na maaaring matanggap ng Israel mula sa Diyos (Mga Awit 81)."
+        }
+      }
+    ],
+    "82": [
+      {
+        "q": {
+          "en": "What wrongdoing is condemned in the assembly?",
+          "fil": "Anong maling gawain ang hinahatulan sa kapulungan?"
+        },
+        "options": {
+          "en": [
+            "Providing food for orphans",
+            "Protecting those in need",
+            "Unfair judgment that favors the wicked"
+          ],
+          "fil": [
+            "Pagbibigay ng pagkain sa mga ulila",
+            "Pagprotekta sa mga nangangailangan",
+            "Di-makatarungang paghatol na pumapabor sa masasama"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God rebukes those who judge unjustly and take the side of evildoers (Psalm 82).",
+          "fil": "Sinasaway ng Diyos ang mga humahatol nang di-makatarungan at kumakampi sa masasama (Mga Awit 82)."
+        }
+      },
+      {
+        "q": {
+          "en": "Whose rights should be defended?",
+          "fil": "Kaninong mga karapatan ang dapat ipagtanggol?"
+        },
+        "options": {
+          "en": [
+            "Only rulers who demand special treatment",
+            "Only wealthy people with gifts",
+            "The poor, orphans, and those in need"
+          ],
+          "fil": [
+            "Ang mga pinunong humihingi ng natatanging pagtrato lamang",
+            "Ang mayayamang may dalang regalo lamang",
+            "Ang mga dukha, ulila, at nangangailangan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The charge is to uphold vulnerable people and rescue them from oppression (Psalm 82).",
+          "fil": "Ang atas ay itaguyod ang mga mahihina at iligtas sila mula sa pang-aapi (Mga Awit 82)."
+        }
+      },
+      {
+        "q": {
+          "en": "How wide is the final appeal for God's judgment?",
+          "fil": "Gaano kalawak ang huling panawagan sa paghatol ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only an empty courtyard",
+            "Only one shop",
+            "The whole earth and all nations"
+          ],
+          "fil": [
+            "Isang walang lamang patyo lamang",
+            "Isang tindahan lamang",
+            "Ang buong daigdig at lahat ng bansa"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The psalm ends by asking God to judge the earth because all nations belong to him (Psalm 82).",
+          "fil": "Nagtatapos ang awit sa paghiling na hatulan ng Diyos ang daigdig dahil kanya ang lahat ng bansa (Mga Awit 82)."
+        }
+      }
+    ],
+    "83": [
+      {
+        "q": {
+          "en": "What do the hostile nations form?",
+          "fil": "Ano ang binubuo ng mga bansang kaaway?"
+        },
+        "options": {
+          "en": [
+            "A group to rebuild Israel's homes",
+            "An alliance against God's people",
+            "A choir to thank Israel"
+          ],
+          "fil": [
+            "Isang pangkat upang muling itayo ang mga tahanan ng Israel",
+            "Isang alyansa laban sa bayan ng Diyos",
+            "Isang koro upang magpasalamat sa Israel"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The enemies are described as joining together in a plot against God's people (Psalm 83).",
+          "fil": "Inilalarawan ang mga kaaway na nagkakaisa sa isang pakana laban sa bayan ng Diyos (Mga Awit 83)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the enemies want to erase?",
+          "fil": "Ano ang gustong burahin ng mga kaaway?"
+        },
+        "options": {
+          "en": [
+            "Their own supply of food",
+            "Israel's existence and remembered name",
+            "All records of their own victories"
+          ],
+          "fil": [
+            "Ang sarili nilang panustos na pagkain",
+            "Ang pag-iral at alaala ng pangalan ng Israel",
+            "Lahat ng tala ng sarili nilang tagumpay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The hostile plan aims to end Israel as a nation and wipe out its remembrance (Psalm 83).",
+          "fil": "Layunin ng masamang balak na wakasan ang Israel bilang isang bansa at burahin ang alaala nito (Mga Awit 83)."
+        }
+      },
+      {
+        "q": {
+          "en": "What recognition does the prayer seek through the enemies' defeat?",
+          "fil": "Anong pagkilala ang hinahangad ng panalangin sa pagkatalo ng mga kaaway?"
+        },
+        "options": {
+          "en": [
+            "That Israel should stop trusting God",
+            "That idols created the seas",
+            "That the Lord is supreme over the earth"
+          ],
+          "fil": [
+            "Na dapat tumigil ang Israel sa pagtitiwala sa Diyos",
+            "Na mga diyus-diyosan ang lumikha ng mga dagat",
+            "Na ang Panginoon ang pinakamataas sa daigdig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The prayer seeks the acknowledgment of God's supreme authority throughout the earth (Psalm 83).",
+          "fil": "Hinahangad ng panalangin ang pagkilala sa pinakamataas na kapangyarihan ng Diyos sa buong daigdig (Mga Awit 83)."
+        }
+      }
+    ],
+    "84": [
+      {
+        "q": {
+          "en": "What does the speaker deeply long for?",
+          "fil": "Ano ang lubhang pinananabikan ng nagsasalita?"
+        },
+        "options": {
+          "en": [
+            "To be in God's dwelling and courts",
+            "To hide from every place of worship",
+            "To own an enemy's chariot"
+          ],
+          "fil": [
+            "Ang makapunta sa tahanan at mga bulwagan ng Diyos",
+            "Ang magtago sa lahat ng lugar ng pagsamba",
+            "Ang magkaroon ng karwahe ng kaaway"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song expresses a strong desire to be near the living God in his sanctuary (Psalm 84).",
+          "fil": "Ipinahahayag ng awit ang matinding pagnanais na mapalapit sa buhay na Diyos sa kanyang santuwaryo (Mga Awit 84)."
+        }
+      },
+      {
+        "q": {
+          "en": "What small creatures find a place near God's altars?",
+          "fil": "Anong maliliit na nilalang ang nakakahanap ng lugar malapit sa mga altar ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Locusts carrying temple gates",
+            "Birds making a home and nest",
+            "Fish building stone towers"
+          ],
+          "fil": [
+            "Mga balang na nagbubuhat ng mga pintuan ng templo",
+            "Mga ibong gumagawa ng tahanan at pugad",
+            "Mga isdang gumagawa ng batong tore"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The birds nesting near the altars make God's dwelling feel like a welcoming home (Psalm 84).",
+          "fil": "Dahil sa mga ibong namumugad malapit sa mga altar, ang tahanan ng Diyos ay inilalarawang isang magiliw na tahanan (Mga Awit 84)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the speaker prefer to living comfortably among the wicked?",
+          "fil": "Ano ang mas pinipili ng nagsasalita kaysa maginhawang pamumuhay kasama ng masasama?"
+        },
+        "options": {
+          "en": [
+            "Command of a dishonest army",
+            "A throne gained through theft",
+            "A humble place at God's house"
+          ],
+          "fil": [
+            "Pamumuno sa isang di-tapat na hukbo",
+            "Isang tronong nakuha sa pagnanakaw",
+            "Isang mababang lugar sa bahay ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The speaker values even a humble role at God's house above life in wicked company (Psalm 84).",
+          "fil": "Mas pinahahalagahan ng nagsasalita kahit ang mababang tungkulin sa bahay ng Diyos kaysa buhay kasama ng masasama (Mga Awit 84)."
+        }
+      }
+    ],
+    "85": [
+      {
+        "q": {
+          "en": "After remembering God's earlier forgiveness, what do the people ask for?",
+          "fil": "Matapos alalahanin ang dating pagpapatawad ng Diyos, ano ang hinihiling ng bayan?"
+        },
+        "options": {
+          "en": [
+            "A return to worshiping idols",
+            "Permission to forget God's mercy",
+            "Renewed life and restoration"
+          ],
+          "fil": [
+            "Pagbabalik sa pagsamba sa mga diyus-diyosan",
+            "Pahintulot na kalimutan ang awa ng Diyos",
+            "Panibagong buhay at pagpapanumbalik"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Remembering past mercy leads the people to ask God to revive them again (Psalm 85).",
+          "fil": "Ang pag-alala sa dating awa ay umaakay sa bayan na hilinging muling bigyan sila ng buhay ng Diyos (Mga Awit 85)."
+        }
+      },
+      {
+        "q": {
+          "en": "What qualities are pictured meeting in harmony?",
+          "fil": "Anong mga katangian ang inilalarawang nagtatagpo nang may pagkakaisa?"
+        },
+        "options": {
+          "en": [
+            "Fear, hatred, envy, and revenge",
+            "Greed, deception, cruelty, and pride",
+            "Faithful love, truth, righteousness, and peace"
+          ],
+          "fil": [
+            "Takot, poot, inggit, at paghihiganti",
+            "Kasakiman, panlilinlang, kalupitan, at pagmamataas",
+            "Tapat na pag-ibig, katotohanan, katuwiran, at kapayapaan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The hopeful picture brings God's love and truth together with righteousness and peace (Psalm 85).",
+          "fil": "Pinagsasama ng larawang puno ng pag-asa ang pag-ibig at katotohanan ng Diyos sa katuwiran at kapayapaan (Mga Awit 85)."
+        }
+      },
+      {
+        "q": {
+          "en": "What earthly sign accompanies the hope for God's goodness?",
+          "fil": "Anong tanda sa lupain ang kasama ng pag-asa sa kabutihan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "The fields will become iron",
+            "Every tree will vanish forever",
+            "The land will produce its harvest"
+          ],
+          "fil": [
+            "Magiging bakal ang mga bukirin",
+            "Mawawala magpakailanman ang bawat puno",
+            "Magbibigay ng ani ang lupain"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The land's fruitfulness forms part of the closing hope for God's restoring goodness (Psalm 85).",
+          "fil": "Bahagi ng huling pag-asa sa nagpapanumbalik na kabutihan ng Diyos ang pagiging mabunga ng lupain (Mga Awit 85)."
+        }
+      }
+    ],
+    "86": [
+      {
+        "q": {
+          "en": "How does the speaker present personal need at the start?",
+          "fil": "Paano inilalahad ng nagsasalita ang sariling pangangailangan sa simula?"
+        },
+        "options": {
+          "en": [
+            "As a poor and needy person asking God to listen",
+            "As a king forbidding prayer",
+            "As someone too powerful to need help"
+          ],
+          "fil": [
+            "Bilang isang dukha at nangangailangang humihiling na pakinggan ng Diyos",
+            "Bilang isang haring nagbabawal sa panalangin",
+            "Bilang isang napakamakapangyarihang hindi nangangailangan ng tulong"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer begins with a humble request for God's attention from someone in need (Psalm 86).",
+          "fil": "Nagsisimula ang panalangin sa mapagpakumbabang paghiling ng isang nangangailangan na pakinggan siya ng Diyos (Mga Awit 86)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the speaker ask God to do for the heart?",
+          "fil": "Ano ang hinihiling ng nagsasalita na gawin ng Diyos sa puso?"
+        },
+        "options": {
+          "en": [
+            "Make it proud of deceit",
+            "Make it unwilling to learn",
+            "Make it undivided in reverence for God"
+          ],
+          "fil": [
+            "Gawin itong mapagmataas sa panlilinlang",
+            "Gawin itong ayaw matuto",
+            "Gawin itong buo sa paggalang sa Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The speaker asks for a united heart while seeking to learn and follow God's way (Psalm 86).",
+          "fil": "Humihingi ang nagsasalita ng pusong buo habang naghahangad na matutuhan at sundin ang daan ng Diyos (Mga Awit 86)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who will come to honor the incomparable God?",
+          "fil": "Sino ang darating upang parangalan ang Diyos na walang katulad?"
+        },
+        "options": {
+          "en": [
+            "All the nations he made",
+            "Only the makers of idols",
+            "No one outside one household"
+          ],
+          "fil": [
+            "Lahat ng bansang kanyang nilikha",
+            "Ang mga gumagawa ng diyus-diyosan lamang",
+            "Walang sinuman sa labas ng iisang sambahayan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The prayer looks forward to all nations worshiping the God whose works are unmatched (Psalm 86).",
+          "fil": "Inaasam ng panalangin ang pagsamba ng lahat ng bansa sa Diyos na walang kapantay ang mga gawa (Mga Awit 86)."
+        }
+      }
+    ],
+    "87": [
+      {
+        "q": {
+          "en": "Which city is especially celebrated as God's beloved city?",
+          "fil": "Aling lungsod ang tanging ipinagdiriwang bilang minamahal na lungsod ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Zion",
+            "Sodom",
+            "Nineveh"
+          ],
+          "fil": [
+            "Sion",
+            "Sodoma",
+            "Ninive"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The short song celebrates Zion as the city God loves and establishes (Psalm 87).",
+          "fil": "Ipinagdiriwang ng maikling awit ang Sion bilang lungsod na minamahal at pinatatatag ng Diyos (Mga Awit 87)."
+        }
+      },
+      {
+        "q": {
+          "en": "What record does the song picture God making?",
+          "fil": "Anong tala ang inilalarawan ng awit na ginagawa ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A register of peoples counted as born in Zion",
+            "A list of stolen weapons for sale",
+            "A record of canceled feasts"
+          ],
+          "fil": [
+            "Isang talaan ng mga bayang ibinibilang na ipinanganak sa Sion",
+            "Isang listahan ng mga nakaw na sandatang ibebenta",
+            "Isang tala ng mga kinanselang pista"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The picture of God's register connects peoples from different places with belonging to Zion (Psalm 87).",
+          "fil": "Iniuugnay ng larawan ng talaan ng Diyos ang mga bayan mula sa iba't ibang lugar sa pagiging kabilang sa Sion (Mga Awit 87)."
+        }
+      },
+      {
+        "q": {
+          "en": "What joyful scene closes the song about Zion?",
+          "fil": "Anong masayang tagpo ang nagtatapos sa awit tungkol sa Sion?"
+        },
+        "options": {
+          "en": [
+            "Singers and musicians celebrating there",
+            "Merchants forbidding music",
+            "Soldiers destroying all the wells"
+          ],
+          "fil": [
+            "Mga mang-aawit at manunugtog na nagdiriwang doon",
+            "Mga mangangalakal na nagbabawal sa musika",
+            "Mga kawal na sumisira sa lahat ng balon"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing scene gives Zion a joyful sound through singers and musicians (Psalm 87).",
+          "fil": "Nagbibigay ng masayang tunog sa Sion ang huling tagpo sa pamamagitan ng mga mang-aawit at manunugtog (Mga Awit 87)."
+        }
+      }
+    ],
+    "88": [
+      {
+        "q": {
+          "en": "What mood dominates this prayer?",
+          "fil": "Anong damdamin ang nangingibabaw sa panalanging ito?"
+        },
+        "options": {
+          "en": [
+            "Deep sorrow near the shadow of death",
+            "Amusement at a wedding game",
+            "Carefree celebration of wealth"
+          ],
+          "fil": [
+            "Matinding kalungkutan sa lilim ng kamatayan",
+            "Pagkatuwa sa laro sa kasalan",
+            "Masayang pagdiriwang ng kayamanan na walang alalahanin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The speaker describes overwhelming trouble and a life drawing close to the grave (Psalm 88).",
+          "fil": "Inilalarawan ng nagsasalita ang napakabigat na suliranin at buhay na malapit na sa libingan (Mga Awit 88)."
+        }
+      },
+      {
+        "q": {
+          "en": "What adds to the speaker's suffering?",
+          "fil": "Ano ang nagdaragdag sa pagdurusa ng nagsasalita?"
+        },
+        "options": {
+          "en": [
+            "Having more grain than can be stored",
+            "Too many visitors bringing gifts",
+            "Separation from friends and loved ones"
+          ],
+          "fil": [
+            "Pagkakaroon ng butil na higit sa kayang itago",
+            "Sobrang dami ng bisitang may dalang regalo",
+            "Pagkahiwalay sa mga kaibigan at mahal sa buhay"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The loss of companionship deepens the speaker's loneliness and distress (Psalm 88).",
+          "fil": "Ang pagkawala ng mga kasama ay nagpapalalim sa kalungkutan at pagkabagabag ng nagsasalita (Mga Awit 88)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the speaker continue doing even without a cheerful ending?",
+          "fil": "Ano ang patuloy na ginagawa ng nagsasalita kahit walang masayang wakas?"
+        },
+        "options": {
+          "en": [
+            "Announcing that every problem is solved",
+            "Calling to God in prayer",
+            "Thanking idols for rescue"
+          ],
+          "fil": [
+            "Pagpapahayag na nalutas na ang lahat ng suliranin",
+            "Pagtawag sa Diyos sa panalangin",
+            "Pagpapasalamat sa mga diyus-diyosan sa pagliligtas"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer continues addressing God while leaving the sorrow unresolved (Psalm 88).",
+          "fil": "Patuloy na dumudulog sa Diyos ang panalangin habang nananatiling hindi nalulutas ang kalungkutan (Mga Awit 88)."
+        }
+      }
+    ],
+    "89": [
+      {
+        "q": {
+          "en": "What promise is central to the song's praise of God's faithfulness?",
+          "fil": "Anong pangako ang mahalaga sa pagpupuri ng awit sa katapatan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "God's covenant concerning David's royal line",
+            "A promise never to listen to prayer",
+            "A promise to make idols rule Israel"
+          ],
+          "fil": [
+            "Ang tipan ng Diyos tungkol sa angkan ng mga hari mula kay David",
+            "Isang pangakong hindi kailanman makikinig sa panalangin",
+            "Isang pangakong mga diyus-diyosan ang mamumuno sa Israel"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The song recalls God's covenant to establish David's descendants and throne (Psalm 89).",
+          "fil": "Inaalala ng awit ang tipan ng Diyos na patatagin ang mga inapo at trono ni David (Mga Awit 89)."
+        }
+      },
+      {
+        "q": {
+          "en": "What part of creation illustrates God's power?",
+          "fil": "Anong bahagi ng nilikha ang nagpapakita ng kapangyarihan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "A mountain that defeats him",
+            "A star that creates its own god",
+            "The raging sea that he can quiet"
+          ],
+          "fil": [
+            "Isang bundok na tumatalo sa kanya",
+            "Isang bituing lumilikha ng sarili nitong diyos",
+            "Ang nagngangalit na dagat na kaya niyang patahimikin"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's authority over the sea is part of the praise for his unmatched strength (Psalm 89).",
+          "fil": "Bahagi ng pagpupuri sa walang kapantay na lakas ng Diyos ang kanyang kapangyarihan sa dagat (Mga Awit 89)."
+        }
+      },
+      {
+        "q": {
+          "en": "What painful change turns the song toward lament?",
+          "fil": "Anong masakit na pagbabago ang nagpapabaling sa awit tungo sa panaghoy?"
+        },
+        "options": {
+          "en": [
+            "The king's crown and defenses are brought low",
+            "The people have forgotten how to plant grain",
+            "The king refuses all wealth because life is easy"
+          ],
+          "fil": [
+            "Ibinagsak ang korona at mga tanggulan ng hari",
+            "Nakalimutan ng bayan kung paano magtanim ng butil",
+            "Tinatanggihan ng hari ang lahat ng yaman dahil madali ang buhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The later lament describes royal humiliation and asks about God's earlier covenant love (Psalm 89).",
+          "fil": "Inilalarawan ng huling panaghoy ang kahihiyan ng hari at nagtatanong tungkol sa dating pag-ibig ng Diyos sa tipan (Mga Awit 89)."
+        }
+      }
+    ],
+    "90": [
+      {
+        "q": {
+          "en": "What contrast shapes the reflection on human life?",
+          "fil": "Anong paghahambing ang humuhubog sa pagninilay tungkol sa buhay ng tao?"
+        },
+        "options": {
+          "en": [
+            "God is eternal while human life is brief like grass",
+            "People outlive God",
+            "Human strength never fades"
+          ],
+          "fil": [
+            "Walang hanggan ang Diyos samantalang maikli ang buhay ng tao gaya ng damo",
+            "Mas mahaba ang buhay ng tao kaysa sa Diyos",
+            "Hindi kailanman kumukupas ang lakas ng tao"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The psalm contrasts God's enduring existence with the passing days of human life (Psalm 90).",
+          "fil": "Inihahambing ng awit ang walang hanggang pag-iral ng Diyos sa lumilipas na mga araw ng buhay ng tao (Mga Awit 90)."
+        }
+      },
+      {
+        "q": {
+          "en": "What should awareness of life's shortness lead people to seek?",
+          "fil": "Ano ang dapat hangarin ng tao dahil alam niyang maikli ang buhay?"
+        },
+        "options": {
+          "en": [
+            "A way to avoid all gratitude",
+            "Wisdom in using their days",
+            "More reasons to be cruel"
+          ],
+          "fil": [
+            "Paraan upang iwasan ang lahat ng pagpapasalamat",
+            "Karunungan sa paggamit ng kanilang mga araw",
+            "Mas maraming dahilan upang maging malupit"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The prayer asks God to help people value their limited days and become wise (Psalm 90).",
+          "fil": "Hinihiling ng panalangin na tulungan ng Diyos ang tao na pahalagahan ang limitadong mga araw at maging marunong (Mga Awit 90)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the closing prayer ask for human work?",
+          "fil": "Ano ang hinihiling ng huling panalangin para sa gawain ng tao?"
+        },
+        "options": {
+          "en": [
+            "That deceitful work always succeed",
+            "That God give it lasting value",
+            "That all useful labor be forgotten"
+          ],
+          "fil": [
+            "Na laging magtagumpay ang mapanlinlang na gawain",
+            "Na bigyan ito ng Diyos ng nagtatagal na kabuluhan",
+            "Na malimutan ang lahat ng kapaki-pakinabang na paggawa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The final request asks God's favor to establish the work people do (Psalm 90).",
+          "fil": "Hinihiling sa wakas ang kabutihan ng Diyos upang patatagin ang mga gawa ng tao (Mga Awit 90)."
+        }
+      }
+    ],
+    "91": [
+      {
+        "q": {
+          "en": "What image shows the safety of trusting God?",
+          "fil": "Anong larawan ang nagpapakita ng kaligtasan sa pagtitiwala sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "A boat without a bottom",
+            "Shelter beneath protective wings",
+            "A doorway guarded by idols"
+          ],
+          "fil": [
+            "Isang bangkang walang ilalim",
+            "Kanlungan sa ilalim ng mga pakpak na nag-iingat",
+            "Isang pintuang binabantayan ng mga diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The image of wings expresses God's protective care for those who trust him (Psalm 91).",
+          "fil": "Ipinahahayag ng larawan ng mga pakpak ang nag-iingat na pag-aaruga ng Diyos sa mga nagtitiwala sa kanya (Mga Awit 91)."
+        }
+      },
+      {
+        "q": {
+          "en": "Who is pictured guarding the person's steps?",
+          "fil": "Sino ang inilalarawang nag-iingat sa mga hakbang ng tao?"
+        },
+        "options": {
+          "en": [
+            "God's angels",
+            "Enemy merchants",
+            "Dishonest judges"
+          ],
+          "fil": [
+            "Ang mga anghel ng Diyos",
+            "Mga mangangalakal na kaaway",
+            "Mga di-tapat na hukom"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The psalm describes angels receiving God's charge to guard the person on the way (Psalm 91).",
+          "fil": "Inilalarawan ng awit ang mga anghel na inaatasan ng Diyos na ingatan ang tao sa paglalakbay (Mga Awit 91)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does God promise concerning a person who calls in trouble?",
+          "fil": "Ano ang ipinapangako ng Diyos tungkol sa taong tumatawag sa gitna ng kaguluhan?"
+        },
+        "options": {
+          "en": [
+            "To answer and be present in distress",
+            "To forbid any further prayer",
+            "To praise those who set traps"
+          ],
+          "fil": [
+            "Ang tumugon at sumama sa gitna ng kagipitan",
+            "Ang ipagbawal ang anumang susunod na panalangin",
+            "Ang purihin ang mga naglalagay ng bitag"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The closing promise emphasizes God's response and presence when the faithful call for help (Psalm 91).",
+          "fil": "Binibigyang-diin ng huling pangako ang pagtugon at pagsama ng Diyos kapag humihingi ng tulong ang tapat (Mga Awit 91)."
+        }
+      }
+    ],
+    "92": [
+      {
+        "q": {
+          "en": "What pattern of praise is commended for morning and night?",
+          "fil": "Anong paraan ng pagpupuri ang itinataguyod para sa umaga at gabi?"
+        },
+        "options": {
+          "en": [
+            "Boasting about dishonest profit",
+            "Remembering God's love and faithfulness",
+            "Counting the mistakes of neighbors"
+          ],
+          "fil": [
+            "Pagyayabang tungkol sa di-tapat na kita",
+            "Pag-alala sa pag-ibig at katapatan ng Diyos",
+            "Pagbilang sa mga pagkakamali ng mga kapitbahay"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The song encourages praise for God's love in the morning and faithfulness at night (Psalm 92).",
+          "fil": "Hinihikayat ng awit ang pagpupuri sa pag-ibig ng Diyos sa umaga at katapatan niya sa gabi (Mga Awit 92)."
+        }
+      },
+      {
+        "q": {
+          "en": "What trees picture the flourishing of righteous people?",
+          "fil": "Anong mga puno ang naglalarawan sa paglago ng mga matuwid?"
+        },
+        "options": {
+          "en": [
+            "Uprooted thorns drying in sand",
+            "Only burned stumps",
+            "Palm and cedar trees"
+          ],
+          "fil": [
+            "Mga nabunot na tinik na natutuyo sa buhangin",
+            "Mga sunog na tuod lamang",
+            "Mga palma at sedro"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Palm and cedar trees portray the strength and growth of people rooted in God's presence (Psalm 92).",
+          "fil": "Inilalarawan ng mga palma at sedro ang lakas at paglago ng mga taong nakaugat sa presensya ng Diyos (Mga Awit 92)."
+        }
+      },
+      {
+        "q": {
+          "en": "What hopeful image is given for old age?",
+          "fil": "Anong larawang puno ng pag-asa ang ibinibigay para sa pagtanda?"
+        },
+        "options": {
+          "en": [
+            "Losing every reason to thank God",
+            "Continuing to bear fruit",
+            "Becoming useless to God's praise"
+          ],
+          "fil": [
+            "Pagkawala ng lahat ng dahilan upang magpasalamat sa Diyos",
+            "Patuloy na pamumunga",
+            "Pagiging walang silbi sa pagpupuri sa Diyos"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The righteous are pictured as still fruitful in old age and able to witness to God's goodness (Psalm 92).",
+          "fil": "Inilalarawan ang mga matuwid na mabunga pa rin sa pagtanda at makapagpapatotoo sa kabutihan ng Diyos (Mga Awit 92)."
+        }
+      }
+    ],
+    "93": [
+      {
+        "q": {
+          "en": "How is the Lord presented at the opening?",
+          "fil": "Paano inilalarawan ang Panginoon sa simula?"
+        },
+        "options": {
+          "en": [
+            "As king clothed in majesty and strength",
+            "As a prisoner unable to act",
+            "As an idol needing repair"
+          ],
+          "fil": [
+            "Bilang haring nababalot ng kamahalan at lakas",
+            "Bilang bilanggong walang magawa",
+            "Bilang diyus-diyosang kailangang ayusin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening celebrates God's kingship with the image of royal majesty and strength (Psalm 93).",
+          "fil": "Ipinagdiriwang ng simula ang paghahari ng Diyos sa larawan ng kamahalan at lakas ng hari (Mga Awit 93)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does God compare with the roaring waters?",
+          "fil": "Paano inihahambing ang Diyos sa dumadagundong na tubig?"
+        },
+        "options": {
+          "en": [
+            "He is frightened into silence",
+            "He must ask the waters for permission",
+            "He is mightier than their waves"
+          ],
+          "fil": [
+            "Natatakot siya at napapatahimik",
+            "Kailangan niyang humingi ng pahintulot sa tubig",
+            "Mas makapangyarihan siya kaysa sa mga alon nito"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The roaring waters highlight the greater power of the Lord above them (Psalm 93).",
+          "fil": "Itinatampok ng dumadagundong na tubig ang higit na kapangyarihan ng Panginoon sa ibabaw nito (Mga Awit 93)."
+        }
+      },
+      {
+        "q": {
+          "en": "What lasting quality belongs to God's house?",
+          "fil": "Anong nagtatagal na katangian ang nauukol sa bahay ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Deception",
+            "Holiness",
+            "Cruelty"
+          ],
+          "fil": [
+            "Panlilinlang",
+            "Kabanalan",
+            "Kalupitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The psalm ends by affirming that holiness belongs to God's house continually (Psalm 93).",
+          "fil": "Nagtatapos ang awit sa pagpapatibay na patuloy na nauukol ang kabanalan sa bahay ng Diyos (Mga Awit 93)."
+        }
+      }
+    ],
+    "94": [
+      {
+        "q": {
+          "en": "What false claim do the oppressors make?",
+          "fil": "Anong maling pahayag ang sinasabi ng mga mapang-api?"
+        },
+        "options": {
+          "en": [
+            "That God does not see their actions",
+            "That justice is better than cruelty",
+            "That widows deserve protection"
+          ],
+          "fil": [
+            "Na hindi nakikita ng Diyos ang kanilang mga ginagawa",
+            "Na mas mabuti ang katarungan kaysa kalupitan",
+            "Na nararapat protektahan ang mga biyuda"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The oppressors assume God ignores them while they harm vulnerable people (Psalm 94).",
+          "fil": "Ipinapalagay ng mga mapang-api na hindi sila pinapansin ng Diyos habang sinasaktan nila ang mga mahihina (Mga Awit 94)."
+        }
+      },
+      {
+        "q": {
+          "en": "What example answers the claim that God cannot notice wrongdoing?",
+          "fil": "Anong halimbawa ang sumasagot sa pahayag na hindi mapapansin ng Diyos ang kasamaan?"
+        },
+        "options": {
+          "en": [
+            "A king can hide behind more gold",
+            "The maker of ears and eyes can hear and see",
+            "A stone idol can repair itself"
+          ],
+          "fil": [
+            "Kayang magtago ng hari sa likod ng mas maraming ginto",
+            "Ang gumawa ng tainga at mata ay nakaririnig at nakakakita",
+            "Kayang ayusin ng batong diyus-diyosan ang sarili nito"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The psalm points to God's creation of hearing and sight as a rebuke to the foolish claim (Psalm 94).",
+          "fil": "Itinuturo ng awit ang paglikha ng Diyos sa pandinig at paningin bilang pagsaway sa mangmang na pahayag (Mga Awit 94)."
+        }
+      },
+      {
+        "q": {
+          "en": "What helps the speaker when the foot begins to slip?",
+          "fil": "Ano ang tumutulong sa nagsasalita kapag nagsisimulang madulas ang paa?"
+        },
+        "options": {
+          "en": [
+            "God's faithful love",
+            "The enemies' bribes",
+            "A promise to stop praying"
+          ],
+          "fil": [
+            "Ang tapat na pag-ibig ng Diyos",
+            "Ang mga suhol ng kaaway",
+            "Isang pangakong titigil sa pananalangin"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The speaker remembers being upheld by God's love during a moment of weakness (Psalm 94).",
+          "fil": "Inaalala ng nagsasalita ang pag-alalay ng pag-ibig ng Diyos sa sandali ng kahinaan (Mga Awit 94)."
+        }
+      }
+    ],
+    "95": [
+      {
+        "q": {
+          "en": "Why are the worshipers invited to bow before God?",
+          "fil": "Bakit inaanyayahang yumuko sa harap ng Diyos ang mga sumasamba?"
+        },
+        "options": {
+          "en": [
+            "He has surrendered his rule to idols",
+            "He needs their help to create mountains",
+            "He is their maker and ruler of land and sea"
+          ],
+          "fil": [
+            "Isinuko niya ang kanyang paghahari sa mga diyus-diyosan",
+            "Kailangan niya ng tulong nila upang lumikha ng mga bundok",
+            "Siya ang kanilang lumikha at pinuno ng lupa at dagat"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The invitation to worship rests on God's care as maker and sovereign over creation (Psalm 95).",
+          "fil": "Nakabatay ang paanyaya sa pagsamba sa pag-aaruga ng Diyos bilang lumikha at hari ng lahat ng nilikha (Mga Awit 95)."
+        }
+      },
+      {
+        "q": {
+          "en": "How should the people respond when they hear God's voice?",
+          "fil": "Paano dapat tumugon ang bayan kapag narinig nila ang tinig ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Treat God's voice as useless",
+            "Listen without becoming stubborn",
+            "Refuse to learn anything"
+          ],
+          "fil": [
+            "Ituring na walang silbi ang tinig ng Diyos",
+            "Makinig nang hindi nagmamatigas",
+            "Tumangging matuto ng anuman"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The song turns from praise to a warning against hardening the heart toward God (Psalm 95).",
+          "fil": "Mula sa pagpupuri, bumabaling ang awit sa babala laban sa pagpapatigas ng puso sa Diyos (Mga Awit 95)."
+        }
+      },
+      {
+        "q": {
+          "en": "What earlier experience serves as a warning?",
+          "fil": "Anong dating karanasan ang nagsisilbing babala?"
+        },
+        "options": {
+          "en": [
+            "A contest to build the tallest palace",
+            "A sea voyage to a distant market",
+            "The ancestors' rebellion in the wilderness"
+          ],
+          "fil": [
+            "Isang paligsahan sa pagtatayo ng pinakamataas na palasyo",
+            "Isang paglalayag sa malayong pamilihan",
+            "Ang paghihimagsik ng mga ninuno sa ilang"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The wilderness generation's refusal to trust God explains the warning about missing his rest (Psalm 95).",
+          "fil": "Ang pagtanggi ng salinlahi sa ilang na magtiwala sa Diyos ang nagpapaliwanag sa babala tungkol sa hindi pagpasok sa kanyang kapahingahan (Mga Awit 95)."
+        }
+      }
+    ],
+    "96": [
+      {
+        "q": {
+          "en": "What should be announced among the nations?",
+          "fil": "Ano ang dapat ipahayag sa mga bansa?"
+        },
+        "options": {
+          "en": [
+            "The greatness of carved idols",
+            "A ban on every song of praise",
+            "God's glory and saving deeds"
+          ],
+          "fil": [
+            "Ang kadakilaan ng mga inukit na diyus-diyosan",
+            "Isang pagbabawal sa bawat awit ng pagpupuri",
+            "Ang kaluwalhatian at pagliligtas ng Diyos"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song calls for God's glory and wonders to be made known among all peoples (Psalm 96).",
+          "fil": "Nananawagan ang awit na ipakilala ang kaluwalhatian at mga kahanga-hangang gawa ng Diyos sa lahat ng bayan (Mga Awit 96)."
+        }
+      },
+      {
+        "q": {
+          "en": "What distinguishes the Lord from the nations' idols?",
+          "fil": "Ano ang nagpapakilala sa Panginoon bilang naiiba sa mga diyus-diyosan ng mga bansa?"
+        },
+        "options": {
+          "en": [
+            "He made the heavens",
+            "He was carved from the same tree",
+            "He depends on human builders for life"
+          ],
+          "fil": [
+            "Nilikha niya ang kalangitan",
+            "Inukit siya mula sa parehong puno",
+            "Umaasa siya sa mga tagapagtayong tao para mabuhay"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The contrast sets powerless idols beside the Lord who created the heavens (Psalm 96).",
+          "fil": "Inihahambing ang walang kapangyarihang mga diyus-diyosan sa Panginoong lumikha ng kalangitan (Mga Awit 96)."
+        }
+      },
+      {
+        "q": {
+          "en": "Why are fields and trees pictured rejoicing?",
+          "fil": "Bakit inilalarawang nagagalak ang mga bukirin at puno?"
+        },
+        "options": {
+          "en": [
+            "The Lord has decided to praise injustice",
+            "The Lord comes to judge with justice and faithfulness",
+            "All harvests have been forbidden"
+          ],
+          "fil": [
+            "Nagpasya ang Panginoon na purihin ang kawalang-katarungan",
+            "Dumarating ang Panginoon upang humatol nang may katarungan at katapatan",
+            "Ipinagbawal ang lahat ng pag-aani"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Creation joins the celebration of God's coming just rule (Psalm 96).",
+          "fil": "Nakikiisa ang mga nilikha sa pagdiriwang ng dumarating na makatarungang paghahari ng Diyos (Mga Awit 96)."
+        }
+      }
+    ],
+    "97": [
+      {
+        "q": {
+          "en": "What happens to the mountains in the picture of God's presence?",
+          "fil": "Ano ang nangyayari sa mga bundok sa larawan ng presensya ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "They melt like wax",
+            "They hide God from every nation forever",
+            "They become stronger than God"
+          ],
+          "fil": [
+            "Natutunaw ang mga ito gaya ng pagkit",
+            "Itinatago ng mga ito ang Diyos sa lahat ng bansa magpakailanman",
+            "Nagiging mas malakas ang mga ito kaysa sa Diyos"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "Melting mountains express how all creation yields before the Lord (Psalm 97).",
+          "fil": "Ipinahahayag ng natutunaw na mga bundok kung paanong nagpapasakop ang lahat ng nilikha sa Panginoon (Mga Awit 97)."
+        }
+      },
+      {
+        "q": {
+          "en": "How does Zion respond to God's judgments?",
+          "fil": "Paano tumutugon ang Sion sa mga paghatol ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "By honoring more idols",
+            "By declaring justice worthless",
+            "With gladness"
+          ],
+          "fil": [
+            "Sa pagpaparangal sa mas maraming diyus-diyosan",
+            "Sa pagpapahayag na walang halaga ang katarungan",
+            "Nang may kagalakan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "Zion and the towns of Judah rejoice at the Lord's just judgments (Psalm 97).",
+          "fil": "Nagagalak ang Sion at mga bayan ng Juda sa makatarungang mga paghatol ng Panginoon (Mga Awit 97)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude toward evil is urged for those who love the Lord?",
+          "fil": "Anong saloobin sa kasamaan ang hinihikayat sa mga nagmamahal sa Panginoon?"
+        },
+        "options": {
+          "en": [
+            "Protect every deceitful plan",
+            "Reject evil",
+            "Admire cruelty"
+          ],
+          "fil": [
+            "Ipagtanggol ang bawat mapanlinlang na balak",
+            "Tanggihan ang kasamaan",
+            "Hangaan ang kalupitan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Love for the Lord is joined to rejecting evil and trusting his protection (Psalm 97).",
+          "fil": "Iniuugnay ang pag-ibig sa Panginoon sa pagtanggi sa kasamaan at pagtitiwala sa kanyang pag-iingat (Mga Awit 97)."
+        }
+      }
+    ],
+    "98": [
+      {
+        "q": {
+          "en": "What has inspired the new song of praise?",
+          "fil": "Ano ang nag-udyok sa bagong awit ng pagpupuri?"
+        },
+        "options": {
+          "en": [
+            "A ruler's refusal to help anyone",
+            "God's wonderful saving victory",
+            "An idol's demand for treasure"
+          ],
+          "fil": [
+            "Ang pagtanggi ng isang pinuno na tumulong kaninuman",
+            "Ang kahanga-hangang tagumpay ng Diyos sa pagliligtas",
+            "Ang paghingi ng kayamanan ng isang diyus-diyosan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The new song celebrates the victory God has accomplished through his own power (Psalm 98).",
+          "fil": "Ipinagdiriwang ng bagong awit ang tagumpay na isinagawa ng Diyos sa sarili niyang kapangyarihan (Mga Awit 98)."
+        }
+      },
+      {
+        "q": {
+          "en": "How widely has God's salvation become visible?",
+          "fil": "Gaano kalawak na naipakita ang pagliligtas ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Only inside a locked cupboard",
+            "Only to a hidden group of merchants",
+            "To the farthest reaches of the earth"
+          ],
+          "fil": [
+            "Sa loob lamang ng nakakandadong aparador",
+            "Sa lihim na pangkat ng mga mangangalakal lamang",
+            "Hanggang sa pinakamalayong bahagi ng daigdig"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The song celebrates salvation made known before the nations and across the earth (Psalm 98).",
+          "fil": "Ipinagdiriwang ng awit ang pagliligtas na ipinakilala sa mga bansa at sa buong daigdig (Mga Awit 98)."
+        }
+      },
+      {
+        "q": {
+          "en": "What unusual action is pictured for the rivers?",
+          "fil": "Anong di-karaniwang kilos ang inilalarawan para sa mga ilog?"
+        },
+        "options": {
+          "en": [
+            "Hiding all the mountains underground",
+            "Clapping in joyful praise",
+            "Building chariots for battle"
+          ],
+          "fil": [
+            "Pagtatago ng lahat ng bundok sa ilalim ng lupa",
+            "Pagpalakpak sa masayang pagpupuri",
+            "Paggawa ng mga karwahe para sa labanan"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "The rivers are pictured clapping as creation welcomes God's just judgment (Psalm 98).",
+          "fil": "Inilalarawan ang mga ilog na pumapalakpak habang sinasalubong ng mga nilikha ang makatarungang paghatol ng Diyos (Mga Awit 98)."
+        }
+      }
+    ],
+    "99": [
+      {
+        "q": {
+          "en": "What quality of the Lord is repeatedly celebrated?",
+          "fil": "Anong katangian ng Panginoon ang paulit-ulit na ipinagdiriwang?"
+        },
+        "options": {
+          "en": [
+            "His dishonesty",
+            "His holiness",
+            "His fear of earthly kings"
+          ],
+          "fil": [
+            "Ang kanyang pandaraya",
+            "Ang kanyang kabanalan",
+            "Ang kanyang takot sa mga hari sa lupa"
+          ]
+        },
+        "answer": 1,
+        "explanation": {
+          "en": "Repeated declarations of God's holiness shape the worship in this psalm (Psalm 99).",
+          "fil": "Hinuhubog ng paulit-ulit na pagpapahayag ng kabanalan ng Diyos ang pagsamba sa awit na ito (Mga Awit 99)."
+        }
+      },
+      {
+        "q": {
+          "en": "What does the mighty king establish among his people?",
+          "fil": "Ano ang itinatatag ng makapangyarihang hari sa kanyang bayan?"
+        },
+        "options": {
+          "en": [
+            "Fairness and justice",
+            "Permission to abuse the weak",
+            "A reward for every false accusation"
+          ],
+          "fil": [
+            "Pagkamakatarungan at katarungan",
+            "Pahintulot na apihin ang mahihina",
+            "Gantimpala sa bawat maling paratang"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "God's royal power is praised for establishing justice rather than favoring wrongdoing (Psalm 99).",
+          "fil": "Pinupuri ang kapangyarihan ng Diyos bilang hari dahil nagtatatag siya ng katarungan sa halip na paboran ang kasamaan (Mga Awit 99)."
+        }
+      },
+      {
+        "q": {
+          "en": "What do the examples of Moses, Aaron, and Samuel show?",
+          "fil": "Ano ang ipinakikita ng mga halimbawa nina Moises, Aaron, at Samuel?"
+        },
+        "options": {
+          "en": [
+            "God refused to hear any prayer",
+            "The people were told to trust idols",
+            "God answered those who called on him"
+          ],
+          "fil": [
+            "Tumanggi ang Diyos na pakinggan ang anumang panalangin",
+            "Sinabihan ang bayan na magtiwala sa mga diyus-diyosan",
+            "Tinugon ng Diyos ang mga tumawag sa kanya"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "The remembered leaders illustrate God's response to people who called on his name (Psalm 99).",
+          "fil": "Ipinakikita ng mga pinunong inaalala ang pagtugon ng Diyos sa mga tumawag sa kanyang pangalan (Mga Awit 99)."
+        }
+      }
+    ],
+    "100": [
+      {
+        "q": {
+          "en": "How are people invited to serve and approach the Lord?",
+          "fil": "Paano inaanyayahang maglingkod at lumapit sa Panginoon ang mga tao?"
+        },
+        "options": {
+          "en": [
+            "With joy and singing",
+            "With a promise never to praise",
+            "With contempt for his goodness"
+          ],
+          "fil": [
+            "Nang may kagalakan at pag-awit",
+            "Nang may pangakong hindi kailanman magpupuri",
+            "Nang may paghamak sa kanyang kabutihan"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The opening calls people everywhere to joyful service and song before the Lord (Psalm 100).",
+          "fil": "Tinatawag ng simula ang mga tao sa lahat ng lugar sa masayang paglilingkod at pag-awit sa harap ng Panginoon (Mga Awit 100)."
+        }
+      },
+      {
+        "q": {
+          "en": "What picture describes the people's belonging to God?",
+          "fil": "Anong larawan ang naglalarawan sa pagiging kabilang ng bayan sa Diyos?"
+        },
+        "options": {
+          "en": [
+            "Prisoners owned by an idol",
+            "Stones discarded by a stranger",
+            "Sheep cared for in his pasture"
+          ],
+          "fil": [
+            "Mga bilanggong pag-aari ng isang diyus-diyosan",
+            "Mga batong itinapon ng isang estranghero",
+            "Mga tupang inaalagaan sa kanyang pastulan"
+          ]
+        },
+        "answer": 2,
+        "explanation": {
+          "en": "God's people are pictured as his flock because he made them and they belong to him (Psalm 100).",
+          "fil": "Inilalarawan ang bayan ng Diyos bilang kanyang kawan dahil nilikha niya sila at sila ay kabilang sa kanya (Mga Awit 100)."
+        }
+      },
+      {
+        "q": {
+          "en": "What attitude should accompany entry through God's gates?",
+          "fil": "Anong saloobin ang dapat kasama sa pagpasok sa mga pintuan ng Diyos?"
+        },
+        "options": {
+          "en": [
+            "Thankfulness and praise",
+            "Resentment toward every blessing",
+            "Boasting about cheating"
+          ],
+          "fil": [
+            "Pasasalamat at pagpupuri",
+            "Pagkagalit sa bawat pagpapala",
+            "Pagyayabang tungkol sa pandaraya"
+          ]
+        },
+        "answer": 0,
+        "explanation": {
+          "en": "The worshipers enter with gratitude because God's goodness and faithfulness endure (Psalm 100).",
+          "fil": "Pumapasok ang mga sumasamba nang may pasasalamat dahil nagtatagal ang kabutihan at katapatan ng Diyos (Mga Awit 100)."
+        }
+      }
     ]
   }
 }
