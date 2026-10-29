@@ -4,6 +4,7 @@ import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
+import '../rank/rank_celebration.dart';
 
 /// Result returned when the quiz dialog closes.
 enum QuizResult {
@@ -19,8 +20,7 @@ enum QuizResult {
 /// Returns [QuizResult.passed] when all questions are answered correctly and
 /// the user taps "Mark as read". Returns [QuizResult.dismissed] otherwise.
 ///
-/// If the book/chapter has no questions, immediately returns
-/// [QuizResult.passed] so the caller can fall back to direct marking.
+/// If the book/chapter has no questions, marks it directly and returns passed.
 Future<QuizResult> showQuiz({
   required BuildContext context,
   required Book book,
@@ -32,7 +32,13 @@ Future<QuizResult> showQuiz({
   final questions = await quizRepo.questionsFor(book.id, chapter);
 
   if (questions.isEmpty) {
-    // No-quiz fallback — mark directly.
+    if (!context.mounted) return QuizResult.dismissed;
+    await markChapterReadWithRankUp(
+      context: context,
+      progress: progress,
+      book: book,
+      chapter: chapter,
+    );
     return QuizResult.passed;
   }
 
@@ -114,9 +120,18 @@ class _QuizPageState extends State<_QuizPage> {
     });
   }
 
-  void _markRead() {
-    widget.progress.markChapterRead(widget.book, widget.chapter);
-    Navigator.of(context).pop(QuizResult.passed);
+  bool _markingRead = false;
+
+  Future<void> _markRead() async {
+    if (_markingRead) return;
+    _markingRead = true;
+    await markChapterReadWithRankUp(
+      context: context,
+      progress: widget.progress,
+      book: widget.book,
+      chapter: widget.chapter,
+    );
+    if (mounted) Navigator.of(context).pop(QuizResult.passed);
   }
 
   @override
@@ -325,8 +340,7 @@ class _OptionTile extends StatelessWidget {
           color: selected ? scheme.primaryContainer : scheme.surface,
           borderRadius: BorderRadius.circular(10),
           border: Border.all(
-            color:
-                selected ? scheme.primary : scheme.outlineVariant,
+            color: selected ? scheme.primary : scheme.outlineVariant,
             width: selected ? 2 : 1,
           ),
         ),
@@ -347,8 +361,7 @@ class _OptionTile extends StatelessWidget {
                   color: selected
                       ? scheme.onPrimaryContainer
                       : scheme.onSurface,
-                  fontWeight:
-                      selected ? FontWeight.w600 : FontWeight.normal,
+                  fontWeight: selected ? FontWeight.w600 : FontWeight.normal,
                 ),
               ),
             ),

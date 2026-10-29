@@ -1,5 +1,7 @@
+import 'package:bible_track/data/public_profile.dart';
 import 'dart:async';
 import 'dart:io';
+import 'dart:typed_data';
 
 import 'package:bible_track/data/account_controller.dart';
 import 'package:bible_track/data/auth_service.dart';
@@ -39,20 +41,18 @@ class FakeAuthService implements AuthService {
 /// Stand-in for CloudRepository: nothing is read from or written to Firestore.
 class FakeCloudRepository implements CloudRepository {
   @override
+  Future<PublicProfile?> fetchPublicProfile(String uid) async => null;
+
+  @override
   Future<SyncState> fetchState(String uid) async =>
       const SyncState(cycle: 0, books: {});
 
   @override
-  Future<SyncState> sync(String uid, SyncState local) async => local;
-
-  @override
-  Future<void> updatePublicProfile({
-    required String uid,
-    required String username,
-    required int chaptersRead,
-    required int completedBooks,
-    required List<String> completedBookIds,
-  }) async {}
+  Future<SyncState> sync(
+    String uid,
+    SyncState local, {
+    bool showOnLeaderboard = false,
+  }) async => local;
 
   @override
   Future<void> deletePublicProfile(String uid) async {}
@@ -91,9 +91,10 @@ void main() {
   testWidgets('app builds and shows the login screen when signed out', (
     tester,
   ) async {
-    final progressBox = await Hive.openBox('progress');
-    final settingsBox = await Hive.openBox('settings');
-    final accountBox = await Hive.openBox('account');
+    // Keep widget tests independent of file I/O under the fake clock.
+    final progressBox = await Hive.openBox('progress', bytes: Uint8List(0));
+    final settingsBox = await Hive.openBox('settings', bytes: Uint8List(0));
+    final accountBox = await Hive.openBox('account', bytes: Uint8List(0));
 
     final progress = ProgressController(progressBox);
     final settings = SettingsController(settingsBox);

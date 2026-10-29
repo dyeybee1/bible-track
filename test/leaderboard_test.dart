@@ -1,3 +1,4 @@
+import 'package:bible_track/data/public_profile.dart';
 import 'package:bible_track/data/books_data.dart';
 import 'package:bible_track/data/cloud_repository.dart';
 import 'package:bible_track/data/leaderboard_controller.dart';
@@ -18,20 +19,18 @@ class _FakeCloud implements CloudRepository {
   _FakeCloud({this.board = const [], this.ownRank});
 
   @override
+  Future<PublicProfile?> fetchPublicProfile(String uid) async => null;
+
+  @override
   Future<SyncState> fetchState(String uid) async =>
       const SyncState(cycle: 0, books: {});
 
   @override
-  Future<SyncState> sync(String uid, SyncState local) async => local;
-
-  @override
-  Future<void> updatePublicProfile({
-    required String uid,
-    required String username,
-    required int chaptersRead,
-    required int completedBooks,
-    required List<String> completedBookIds,
-  }) async {}
+  Future<SyncState> sync(
+    String uid,
+    SyncState local, {
+    bool showOnLeaderboard = false,
+  }) async => local;
 
   @override
   Future<void> deletePublicProfile(String uid) async {}
@@ -56,20 +55,18 @@ class _FakeCloud implements CloudRepository {
 
 class _ErrorCloud implements CloudRepository {
   @override
+  Future<PublicProfile?> fetchPublicProfile(String uid) async => null;
+
+  @override
   Future<SyncState> fetchState(String uid) async =>
       const SyncState(cycle: 0, books: {});
 
   @override
-  Future<SyncState> sync(String uid, SyncState local) async => local;
-
-  @override
-  Future<void> updatePublicProfile({
-    required String uid,
-    required String username,
-    required int chaptersRead,
-    required int completedBooks,
-    required List<String> completedBookIds,
-  }) async {}
+  Future<SyncState> sync(
+    String uid,
+    SyncState local, {
+    bool showOnLeaderboard = false,
+  }) async => local;
 
   @override
   Future<void> deletePublicProfile(String uid) async {}
@@ -97,11 +94,11 @@ class _ErrorCloud implements CloudRepository {
 // ---------------------------------------------------------------------------
 
 Map<String, dynamic> _row(String uid, String name, int chapters) => {
-      'uid': uid,
-      'username': name,
-      'chaptersRead': chapters,
-      'completedBooks': 0,
-    };
+  'uid': uid,
+  'username': name,
+  'chaptersRead': chapters,
+  'completedBooks': 0,
+};
 
 // ---------------------------------------------------------------------------
 // Tests
@@ -143,7 +140,10 @@ void main() {
       // from 1,189 individual chapter writes.
       await box.put('_timesCompleted', 1);
       // Genesis is fully read in the new (empty) cycle.
-      await box.put('gen', {'c': [1], 't': 1000});
+      await box.put('gen', {
+        'c': [1],
+        't': 1000,
+      });
 
       final ctrl = ProgressController(box);
       expect(ctrl.timesCompleted, 1);
@@ -170,10 +170,7 @@ void main() {
     Future<void> pump() => Future.delayed(Duration.zero);
 
     test('status becomes loaded with rows on success', () async {
-      final rows = [
-        _row('a', 'Alice', 500),
-        _row('b', 'Bob', 300),
-      ];
+      final rows = [_row('a', 'Alice', 500), _row('b', 'Bob', 300)];
       final ctrl = LeaderboardController(
         cloud: _FakeCloud(board: rows, ownRank: 1),
         currentUid: 'a',
@@ -211,10 +208,7 @@ void main() {
 
     test('ownRank is populated after successful load', () async {
       final ctrl = LeaderboardController(
-        cloud: _FakeCloud(
-          board: [_row('z', 'Zara', 1000)],
-          ownRank: 2,
-        ),
+        cloud: _FakeCloud(board: [_row('z', 'Zara', 1000)], ownRank: 2),
         currentUid: 'a',
         myChaptersRead: 50,
       );

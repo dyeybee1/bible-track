@@ -4,8 +4,11 @@ import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/leaderboard_controller.dart';
 import '../../data/progress_controller.dart';
+import '../../data/rank_system.dart';
 import '../../data/settings_controller.dart';
 import '../../settings_scope.dart';
+import '../rank/rank_badge.dart';
+import '../profile/profile_preview_sheet.dart';
 
 /// The leaderboard tab: top-50 users by chaptersRead (lifetime), with the
 /// current user highlighted and their rank shown even if outside top 50.
@@ -121,6 +124,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
         strings: strings,
         onRetry: _startStream,
         progress: widget.progress,
+        cloud: widget.cloud,
       ),
     );
   }
@@ -136,6 +140,7 @@ class _LeaderboardBody extends StatelessWidget {
     required this.strings,
     required this.onRetry,
     required this.progress,
+    required this.cloud,
   });
 
   final LeaderboardController ctrl;
@@ -144,6 +149,7 @@ class _LeaderboardBody extends StatelessWidget {
   final dynamic strings;
   final VoidCallback onRetry;
   final ProgressController progress;
+  final CloudRepository cloud;
 
   @override
   Widget build(BuildContext context) {
@@ -224,12 +230,24 @@ class _LeaderboardBody extends StatelessWidget {
       children: [
         // ---- Own rank banner (shown when outside top 50 and rank is known) ----
         if (!meInTop50 && ownRank != null && ownRank > 0)
-          _OwnRankBanner(
-            rank: ownRank,
-            chaptersRead: progress.chaptersReadLifetime,
-            strings: strings,
-            scheme: scheme,
-            theme: theme,
+          InkWell(
+            onTap: () => showProfilePreview(
+              context: context,
+              uid: currentUid,
+              currentUid: currentUid,
+              username: settings.username ?? context.s.defaultUsername,
+              chaptersRead: progress.chaptersReadLifetime,
+              progress: progress,
+              cloud: cloud,
+            ),
+            child: _OwnRankBanner(
+              rank: ownRank,
+              chaptersRead: progress.chaptersReadLifetime,
+              username: settings.username ?? context.s.defaultUsername,
+              strings: strings,
+              scheme: scheme,
+              theme: theme,
+            ),
           ),
 
         // ---- Hint if the user is not opted in ----
@@ -245,13 +263,26 @@ class _LeaderboardBody extends StatelessWidget {
               final entry = entries[i];
               final rank = i + 1;
               final isMe = entry.uid == currentUid;
-              return _LeaderboardTile(
-                rank: rank,
-                entry: entry,
-                isMe: isMe,
-                scheme: scheme,
-                theme: theme,
-                strings: strings,
+              return InkWell(
+                key: ValueKey('leaderboard-${entry.uid}'),
+                borderRadius: BorderRadius.circular(14),
+                onTap: () => showProfilePreview(
+                  context: context,
+                  uid: entry.uid,
+                  username: entry.username,
+                  chaptersRead: entry.chaptersRead,
+                  currentUid: currentUid,
+                  progress: progress,
+                  cloud: cloud,
+                ),
+                child: _LeaderboardTile(
+                  rank: rank,
+                  entry: entry,
+                  isMe: isMe,
+                  scheme: scheme,
+                  theme: theme,
+                  strings: strings,
+                ),
               );
             },
           ),
@@ -267,6 +298,7 @@ class _OwnRankBanner extends StatelessWidget {
   const _OwnRankBanner({
     required this.rank,
     required this.chaptersRead,
+    required this.username,
     required this.strings,
     required this.scheme,
     required this.theme,
@@ -274,6 +306,7 @@ class _OwnRankBanner extends StatelessWidget {
 
   final int rank;
   final int chaptersRead;
+  final String username;
   final dynamic strings;
   final ColorScheme scheme;
   final ThemeData theme;
@@ -290,7 +323,7 @@ class _OwnRankBanner extends StatelessWidget {
       ),
       child: Row(
         children: [
-          Icon(Icons.person, color: scheme.primary),
+          RankBadge(tier: rankForStars(chaptersRead).tier, size: 36),
           const SizedBox(width: 12),
           Expanded(
             child: Column(
@@ -303,6 +336,8 @@ class _OwnRankBanner extends StatelessWidget {
                     fontWeight: FontWeight.w700,
                   ),
                 ),
+                Text(username, style: theme.textTheme.titleSmall),
+                Text(context.s.rankName(rankForStars(chaptersRead))),
                 Text(
                   '$chaptersRead ${strings.leaderboardChapters}',
                   style: theme.textTheme.bodySmall?.copyWith(
@@ -343,11 +378,7 @@ class _OptInHint extends StatelessWidget {
       ),
       child: Row(
         children: [
-          Icon(
-            Icons.info_outline,
-            size: 18,
-            color: scheme.onSurfaceVariant,
-          ),
+          Icon(Icons.info_outline, size: 18, color: scheme.onSurfaceVariant),
           const SizedBox(width: 10),
           Expanded(
             child: Text(
@@ -385,28 +416,11 @@ class _LeaderboardTile extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final bg = isMe ? scheme.primaryContainer : scheme.surface;
-    final borderColor =
-        isMe ? scheme.primary.withAlpha(120) : scheme.outlineVariant;
+    final borderColor = isMe
+        ? scheme.primary.withAlpha(120)
+        : scheme.outlineVariant;
 
-    Widget rankWidget;
-    if (rank == 1) {
-      rankWidget = const Icon(Icons.emoji_events, color: Color(0xFFFFD700));
-    } else if (rank == 2) {
-      rankWidget = Icon(Icons.emoji_events, color: Colors.grey.shade400);
-    } else if (rank == 3) {
-      rankWidget = Icon(Icons.emoji_events, color: Colors.brown.shade300);
-    } else {
-      rankWidget = SizedBox(
-        width: 28,
-        child: Text(
-          '$rank',
-          textAlign: TextAlign.center,
-          style: theme.textTheme.titleSmall?.copyWith(
-            color: scheme.onSurfaceVariant,
-          ),
-        ),
-      );
-    }
+    final currentRank = rankForStars(entry.chaptersRead);
 
     return Container(
       margin: const EdgeInsets.symmetric(vertical: 4),
@@ -418,7 +432,16 @@ class _LeaderboardTile extends StatelessWidget {
       ),
       child: Row(
         children: [
-          SizedBox(width: 32, child: Center(child: rankWidget)),
+          SizedBox(
+            width: 32,
+            child: Text(
+              '$rank',
+              textAlign: TextAlign.center,
+              style: theme.textTheme.titleSmall,
+            ),
+          ),
+          const SizedBox(width: 12),
+          RankBadge(tier: currentRank.tier, size: 36),
           const SizedBox(width: 12),
           Expanded(
             child: Column(
@@ -430,8 +453,7 @@ class _LeaderboardTile extends StatelessWidget {
                       child: Text(
                         entry.username,
                         style: theme.textTheme.titleSmall?.copyWith(
-                          fontWeight:
-                              isMe ? FontWeight.w700 : FontWeight.w500,
+                          fontWeight: isMe ? FontWeight.w700 : FontWeight.w500,
                           color: isMe
                               ? scheme.onPrimaryContainer
                               : scheme.onSurface,
@@ -451,7 +473,7 @@ class _LeaderboardTile extends StatelessWidget {
                           borderRadius: BorderRadius.circular(20),
                         ),
                         child: Text(
-                          'Ikaw',
+                          context.s.finishersYou,
                           style: theme.textTheme.labelSmall?.copyWith(
                             color: scheme.onPrimary,
                             fontWeight: FontWeight.w700,
@@ -461,6 +483,10 @@ class _LeaderboardTile extends StatelessWidget {
                   ],
                 ),
                 const SizedBox(height: 2),
+                Text(
+                  context.s.rankName(currentRank),
+                  style: theme.textTheme.bodyMedium,
+                ),
                 Text(
                   '${entry.chaptersRead} ${strings.leaderboardChapters}',
                   style: theme.textTheme.bodySmall?.copyWith(

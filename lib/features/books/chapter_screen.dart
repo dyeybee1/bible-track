@@ -10,6 +10,7 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import 'quiz_screen.dart';
+import '../profile/profile_preview_sheet.dart';
 
 class ChapterScreen extends StatefulWidget {
   const ChapterScreen({
@@ -69,6 +70,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
         book: widget.book,
         cloud: widget.cloud,
         currentUid: widget.account.user?.uid,
+        progress: widget.progress,
       ),
     );
   }
@@ -289,12 +291,17 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
         padding: const EdgeInsets.fromLTRB(16, 6, 16, 2),
         child: Row(
           children: [
-            Icon(Icons.people_outline, size: 16, color: scheme.onSurfaceVariant),
+            Icon(
+              Icons.people_outline,
+              size: 16,
+              color: scheme.onSurfaceVariant,
+            ),
             const SizedBox(width: 6),
             Text(
               strings.finishersLoading,
-              style: theme.textTheme.bodySmall
-                  ?.copyWith(color: scheme.onSurfaceVariant),
+              style: theme.textTheme.bodySmall?.copyWith(
+                color: scheme.onSurfaceVariant,
+              ),
             ),
           ],
         ),
@@ -306,13 +313,17 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
         padding: const EdgeInsets.fromLTRB(16, 6, 16, 2),
         child: Row(
           children: [
-            Icon(Icons.cloud_off_outlined,
-                size: 16, color: scheme.onSurfaceVariant),
+            Icon(
+              Icons.cloud_off_outlined,
+              size: 16,
+              color: scheme.onSurfaceVariant,
+            ),
             const SizedBox(width: 6),
             Text(
               strings.finishersOffline,
-              style: theme.textTheme.bodySmall
-                  ?.copyWith(color: scheme.onSurfaceVariant),
+              style: theme.textTheme.bodySmall?.copyWith(
+                color: scheme.onSurfaceVariant,
+              ),
             ),
           ],
         ),
@@ -325,12 +336,17 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
         padding: const EdgeInsets.fromLTRB(16, 6, 16, 2),
         child: Row(
           children: [
-            Icon(Icons.people_outline, size: 16, color: scheme.onSurfaceVariant),
+            Icon(
+              Icons.people_outline,
+              size: 16,
+              color: scheme.onSurfaceVariant,
+            ),
             const SizedBox(width: 6),
             Text(
               strings.finishersEmpty,
-              style: theme.textTheme.bodySmall
-                  ?.copyWith(color: scheme.onSurfaceVariant),
+              style: theme.textTheme.bodySmall?.copyWith(
+                color: scheme.onSurfaceVariant,
+              ),
             ),
           ],
         ),
@@ -386,7 +402,11 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
                 ),
               ],
               const Spacer(),
-              Icon(Icons.chevron_right, size: 16, color: scheme.onSurfaceVariant),
+              Icon(
+                Icons.chevron_right,
+                size: 16,
+                color: scheme.onSurfaceVariant,
+              ),
             ],
           ),
         ),
@@ -404,11 +424,13 @@ class _FinishersSheet extends StatefulWidget {
     required this.book,
     required this.cloud,
     required this.currentUid,
+    required this.progress,
   });
 
   final Book book;
   final CloudRepository cloud;
   final String? currentUid;
+  final ProgressController progress;
 
   @override
   State<_FinishersSheet> createState() => _FinishersSheetState();
@@ -438,13 +460,12 @@ class _FinishersSheetState extends State<_FinishersSheet> {
       } else {
         // Sort: current user first, then alphabetically.
         final me = result.where((r) => r['uid'] == widget.currentUid).toList();
-        final others = result
-            .where((r) => r['uid'] != widget.currentUid)
-            .toList()
-          ..sort(
-            (a, b) => (a['username'] as String? ?? '')
-                .compareTo(b['username'] as String? ?? ''),
-          );
+        final others =
+            result.where((r) => r['uid'] != widget.currentUid).toList()..sort(
+              (a, b) => (a['username'] as String? ?? '').compareTo(
+                b['username'] as String? ?? '',
+              ),
+            );
         _rows = [...me, ...others];
         _status = _FinishersStatus.loaded;
       }
@@ -527,7 +548,9 @@ class _FinishersSheetState extends State<_FinishersSheet> {
             ),
             const Divider(height: 1),
             // Body
-            Expanded(child: _buildBody(theme, scheme, strings, scrollController)),
+            Expanded(
+              child: _buildBody(theme, scheme, strings, scrollController),
+            ),
           ],
         );
       },
@@ -551,14 +574,18 @@ class _FinishersSheetState extends State<_FinishersSheet> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Icon(Icons.cloud_off_outlined,
-                  size: 48, color: scheme.onSurfaceVariant),
+              Icon(
+                Icons.cloud_off_outlined,
+                size: 48,
+                color: scheme.onSurfaceVariant,
+              ),
               const SizedBox(height: 12),
               Text(
                 strings.finishersOffline as String,
                 textAlign: TextAlign.center,
-                style: theme.textTheme.bodyMedium
-                    ?.copyWith(color: scheme.onSurfaceVariant),
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
               ),
               const SizedBox(height: 16),
               FilledButton.tonal(
@@ -578,14 +605,18 @@ class _FinishersSheetState extends State<_FinishersSheet> {
           child: Column(
             mainAxisSize: MainAxisSize.min,
             children: [
-              Icon(Icons.menu_book_outlined,
-                  size: 48, color: scheme.onSurfaceVariant),
+              Icon(
+                Icons.menu_book_outlined,
+                size: 48,
+                color: scheme.onSurfaceVariant,
+              ),
               const SizedBox(height: 12),
               Text(
                 strings.finishersEmpty as String,
                 textAlign: TextAlign.center,
-                style: theme.textTheme.bodyMedium
-                    ?.copyWith(color: scheme.onSurfaceVariant),
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
               ),
             ],
           ),
@@ -603,57 +634,68 @@ class _FinishersSheetState extends State<_FinishersSheet> {
         final username = row['username'] as String? ?? '?';
         final isMe = row['uid'] == widget.currentUid;
 
-        return Container(
-          padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-          decoration: BoxDecoration(
-            color: isMe ? scheme.primaryContainer : scheme.surface,
-            borderRadius: BorderRadius.circular(12),
-            border: Border.all(
-              color: isMe
-                  ? scheme.primary.withAlpha(100)
-                  : scheme.outlineVariant,
-            ),
+        return InkWell(
+          borderRadius: BorderRadius.circular(12),
+          onTap: () => showProfilePreview(
+            context: context,
+            uid: row['uid'] as String,
+            username: username,
+            chaptersRead: (row['chaptersRead'] as num?)?.toInt() ?? 0,
+            currentUid: widget.currentUid,
+            progress: widget.progress,
+            cloud: widget.cloud,
           ),
-          child: Row(
-            children: [
-              Icon(
-                Icons.person,
-                size: 18,
-                color: isMe ? scheme.primary : scheme.onSurfaceVariant,
+          child: Container(
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+            decoration: BoxDecoration(
+              color: isMe ? scheme.primaryContainer : scheme.surface,
+              borderRadius: BorderRadius.circular(12),
+              border: Border.all(
+                color: isMe
+                    ? scheme.primary.withAlpha(100)
+                    : scheme.outlineVariant,
               ),
-              const SizedBox(width: 10),
-              Expanded(
-                child: Text(
-                  username,
-                  style: theme.textTheme.bodyMedium?.copyWith(
-                    fontWeight:
-                        isMe ? FontWeight.w700 : FontWeight.w500,
-                    color: isMe
-                        ? scheme.onPrimaryContainer
-                        : scheme.onSurface,
-                  ),
-                  overflow: TextOverflow.ellipsis,
+            ),
+            child: Row(
+              children: [
+                Icon(
+                  Icons.person,
+                  size: 18,
+                  color: isMe ? scheme.primary : scheme.onSurfaceVariant,
                 ),
-              ),
-              if (isMe)
-                Container(
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 8,
-                    vertical: 2,
-                  ),
-                  decoration: BoxDecoration(
-                    color: scheme.primary,
-                    borderRadius: BorderRadius.circular(20),
-                  ),
+                const SizedBox(width: 10),
+                Expanded(
                   child: Text(
-                    strings.finishersYou as String,
-                    style: theme.textTheme.labelSmall?.copyWith(
-                      color: scheme.onPrimary,
-                      fontWeight: FontWeight.w700,
+                    username,
+                    style: theme.textTheme.bodyMedium?.copyWith(
+                      fontWeight: isMe ? FontWeight.w700 : FontWeight.w500,
+                      color: isMe
+                          ? scheme.onPrimaryContainer
+                          : scheme.onSurface,
+                    ),
+                    overflow: TextOverflow.ellipsis,
+                  ),
+                ),
+                if (isMe)
+                  Container(
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 8,
+                      vertical: 2,
+                    ),
+                    decoration: BoxDecoration(
+                      color: scheme.primary,
+                      borderRadius: BorderRadius.circular(20),
+                    ),
+                    child: Text(
+                      strings.finishersYou as String,
+                      style: theme.textTheme.labelSmall?.copyWith(
+                        color: scheme.onPrimary,
+                        fontWeight: FontWeight.w700,
+                      ),
                     ),
                   ),
-                ),
-            ],
+              ],
+            ),
           ),
         );
       },

@@ -1,50 +1,43 @@
 rules_version = '2';
 service cloud.firestore {
   match /databases/{database}/documents {
-
-    // ── Private user data ─────────────────────────────────────────────────────
-    // Each user can read and write only their own document.
+    // Private progress is accessible only to the account owner.
     match /users/{uid} {
       allow read, write: if request.auth != null && request.auth.uid == uid;
     }
 
-    // ── Public leaderboard entries ────────────────────────────────────────────
-    // Any signed-in user may read all entries (for the top-50 list, the
-    // count() aggregate used for rank calculation, and the
-    // arrayContains query used on the chapter screen).
-    // Only the document owner may create, update, or delete their own entry.
     match /publicProfiles/{uid} {
       allow read: if request.auth != null;
-
       allow create, update: if request.auth != null
                             && request.auth.uid == uid
-                            && _validPublicProfile(request.resource.data);
+                            && validPublicProfile(request.resource.data);
+      allow delete: if request.auth != null && request.auth.uid == uid;
+    }
 
-      allow delete: if request.auth != null
-                   && request.auth.uid == uid;
+    function validPublicProfile(data) {
+      // Only reading information is public, even from a modified client.
+      return data.keys().hasAll([
+          'username', 'chaptersRead', 'maxStars', 'timesCompleted',
+          'chaptersCycle', 'completedBooks', 'updatedAt'
+        ])
+        && data.keys().hasOnly([
+          'username', 'chaptersRead', 'maxStars', 'timesCompleted',
+          'chaptersCycle', 'completedBooks', 'completedBookIds', 'updatedAt'
+        ])
+        && data.username is string
+        && data.username.size() >= 1
+        && data.username.size() <= 20
+        && data.username.matches('.*[^\\s].*')
+        && data.chaptersRead is int && data.chaptersRead >= 0
+        && data.maxStars is int && data.maxStars >= data.chaptersRead
+        && data.timesCompleted is int && data.timesCompleted >= 0
+        && data.chaptersCycle is int && data.chaptersCycle >= 0
+        && data.completedBooks is int
+        && data.completedBooks >= 0 && data.completedBooks <= 73
+        && data.updatedAt is timestamp
+        && data.updatedAt == request.time
+        && (!data.keys().hasAny(['completedBookIds'])
+          || (data.completedBookIds is list && data.completedBookIds.size() <= 73));
     }
   }
-}
-
-// ── Field-level validation for publicProfiles ─────────────────────────────────
-// chaptersRead    : integer, 0 ≤ value ≤ 500 000   (73-book Bible has 1 189
-//                   chapters; 500 000 ≈ 420 full Bibles, a generous ceiling)
-// completedBooks  : integer, 0 ≤ value ≤ 73
-// completedBookIds: list of strings, size ≤ 73  (one entry per canonical book)
-// username        : string,  2–20 characters
-// updatedAt       : server timestamp (must be present, type-checked)
-function _validPublicProfile(data) {
-  return data.keys().hasAll(['username', 'chaptersRead', 'completedBooks', 'updatedAt'])
-      && data.username is string
-      && data.username.size() >= 2
-      && data.username.size() <= 20
-      && data.chaptersRead is int
-      && data.chaptersRead >= 0
-      && data.chaptersRead <= 500000
-      && data.completedBooks is int
-      && data.completedBooks >= 0
-      && data.completedBooks <= 73
-      && (!data.keys().hasAny(['completedBookIds'])
-          || (data.completedBookIds is list
-              && data.completedBookIds.size() <= 73));
 }

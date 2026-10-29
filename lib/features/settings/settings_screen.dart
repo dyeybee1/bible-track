@@ -74,7 +74,9 @@ class SettingsScreen extends StatelessWidget {
           _Card(
             child: SwitchListTile(
               title: Text(strings.showOnLeaderboardLabel),
-              subtitle: Text(strings.showOnLeaderboardHint),
+              subtitle: Text(
+                '${strings.showOnLeaderboardHint}\n${strings.publicProfilePrivacyNotice}',
+              ),
               value: settings.showOnLeaderboard,
               onChanged: settings.setShowOnLeaderboard,
             ),

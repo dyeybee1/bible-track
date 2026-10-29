@@ -11,13 +11,17 @@ import 'sync_merge.dart';
 ///   key = book id (e.g. 'gen'), value = {'c': [chapters read], 't': last change}
 ///   key = '_timesCompleted',    value = how many times the whole Bible was finished
 ///   key = '_completedEver',     value = List<String> of book ids ever fully read
+///   key = '_maxStarsEver',      value = highest lifetime chapter count
 ///
 /// A book that was cleared keeps an empty record (with its time), so the
 /// cloud can tell "cleared on purpose" apart from "never touched".
 class ProgressController extends ChangeNotifier {
   ProgressController(this._box) {
     for (final key in _box.keys) {
-      if (key is! String || key == _timesKey || key == _completedEverKey) {
+      if (key is! String ||
+          key == _timesKey ||
+          key == _completedEverKey ||
+          key == _maxStarsKey) {
         continue;
       }
       final value = _box.get(key);
@@ -48,15 +52,26 @@ class ProgressController extends ChangeNotifier {
       }
     }
     _persistCompletedEver();
+    final highest = _box.get(_maxStarsKey);
+    // First-launch backfill also repairs a stale stored high-water mark.
+    _maxStarsEver = highest is int && highest > chaptersReadLifetime
+        ? highest
+        : chaptersReadLifetime;
+    _box.put(_maxStarsKey, _maxStarsEver);
   }
 
   static const String _timesKey = '_timesCompleted';
   static const String _completedEverKey = '_completedEver';
+  static const String _maxStarsKey = '_maxStarsEver';
 
   final Box<dynamic> _box;
   final Map<String, Set<int>> _read = {};
   final Map<String, int> _stamp = {};
   int _times = 0;
+  int _maxStarsEver = 0;
+
+  /// Highest lifetime chapter count for this account, preserved across cycles.
+  int get maxStarsEver => _maxStarsEver;
 
   /// Book ids that the user has EVER fully read (across all cycles).
   /// Never shrinks — not cleared by startNewCycle or clearBook.
@@ -146,6 +161,7 @@ class ProgressController extends ChangeNotifier {
     _wipeBooks();
     _times++;
     _box.put(_timesKey, _times);
+    _updateMaxStars();
     notifyListeners();
   }
 
@@ -166,6 +182,7 @@ class ProgressController extends ChangeNotifier {
     Map<String, BookRecord> merged,
     Map<String, BookRecord> baseline, {
     Set<String>? mergedCompletedEver,
+    int mergedMaxStarsEver = 0,
   }) {
     var changed = false;
 
@@ -210,6 +227,7 @@ class ProgressController extends ChangeNotifier {
       changed = true;
     }
 
+    if (_updateMaxStars(mergedMaxStarsEver)) changed = true;
     if (changed) notifyListeners();
     return changed;
   }
@@ -221,6 +239,9 @@ class ProgressController extends ChangeNotifier {
     _box.delete(_timesKey);
     _completedEver.clear();
     _box.delete(_completedEverKey);
+    // Account switching clears this account's private high-water mark too.
+    _maxStarsEver = 0;
+    _box.delete(_maxStarsKey);
     notifyListeners();
   }
 
@@ -240,6 +261,18 @@ class ProgressController extends ChangeNotifier {
     _box.put(_completedEverKey, _completedEver.toList());
   }
 
+  bool _updateMaxStars([int mergedMax = 0]) {
+    final highest = [
+      _maxStarsEver,
+      mergedMax,
+      chaptersReadLifetime,
+    ].reduce((a, b) => a > b ? a : b);
+    if (highest == _maxStarsEver) return false;
+    _maxStarsEver = highest;
+    _box.put(_maxStarsKey, highest);
+    return true;
+  }
+
   // Called after any chapter write — persists the book and updates completedEver.
   void _afterWrite(Book b) {
     _save(b);
@@ -254,6 +287,7 @@ class ProgressController extends ChangeNotifier {
   void _save(Book b) {
     _stamp[b.id] = DateTime.now().millisecondsSinceEpoch;
     _persist(b.id);
+    _updateMaxStars();
     notifyListeners();
   }
 }

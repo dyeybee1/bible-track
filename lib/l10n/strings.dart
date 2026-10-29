@@ -1,4 +1,5 @@
 import '../models/book.dart';
+import '../data/rank_system.dart';
 import '../models/sync_status.dart';
 
 /// All texts of the app in Filipino ('fil') and English ('en').
@@ -120,7 +121,59 @@ class Strings {
   String get howToUse => _t('Paano gamitin', 'How to use');
 
   // ---- profile ----
+  String rankTierName(RankTier tier) => _t(tier.nameFil, tier.nameEn);
+  String rankDivision(RankDivision division) => switch (division) {
+    RankDivision.iii => _t('III', 'III'),
+    RankDivision.ii => _t('II', 'II'),
+    RankDivision.i => _t('I', 'I'),
+  };
+  String rankName(RankInfo rank) => rank.division == null
+      ? rankTierName(rank.tier)
+      : '${rankTierName(rank.tier)} ${rankDivision(rank.division!)}';
+  String get currentRank => _t('Kasalukuyang Rank', 'Current Rank');
+  String get highestRank => _t('Pinakamataas na Rank', 'Highest Rank');
+  String rankStarProgress(int stars, int total) =>
+      _t('$stars / $total bituin', '$stars / $total stars');
+  String rankStars(int stars) =>
+      _t('$stars bituin', stars == 1 ? '1 star' : '$stars stars');
+  String get rankUpTitle => _t('Bagong rank!', 'New rank!');
+  String get rankUpMessage => _t(
+    'Bawat kabanata ay isang hakbang. Magandang pagbabasa!',
+    'Each chapter is a step forward. Happy reading!',
+  );
+  String get rankUpContinue => _t('Sige!', 'Lovely!');
+
   String get defaultUsername => _t('Mambabasa', 'Reader');
+  String get viewProfile => _t('Tingnan ang Profile', 'View profile');
+  String get publicProfileLoading =>
+      _t('Naglo-load ng profile...', 'Loading profile...');
+  String get publicProfileUnavailable => _t(
+    'Hindi available ang profile na ito.',
+    'This profile is not available.',
+  );
+  String get publicProfileOffline => _t(
+    'Hindi ma-load ang profile. Kumonekta sa internet at subukan ulit.',
+    'Could not load this profile. Connect to the internet and try again.',
+  );
+  String profileLastUpdated(DateTime? updatedAt, {DateTime? now}) {
+    final prefix = _t('Huling update', 'Last updated');
+    if (updatedAt == null) return '$prefix: ${_t('hindi alam', 'unknown')}';
+    final elapsed = (now ?? DateTime.now()).difference(updatedAt);
+    if (elapsed.inMinutes < 1) {
+      return '$prefix: ${_t('ngayon lang', 'just now')}';
+    }
+    if (elapsed.inHours < 1) {
+      final n = elapsed.inMinutes;
+      return '$prefix: ${_t('$n minuto ang nakalipas', '$n minute${n == 1 ? '' : 's'} ago')}';
+    }
+    if (elapsed.inDays < 1) {
+      final n = elapsed.inHours;
+      return '$prefix: ${_t('$n oras ang nakalipas', '$n hour${n == 1 ? '' : 's'} ago')}';
+    }
+    final n = elapsed.inDays;
+    return '$prefix: ${_t('$n araw ang nakalipas', '$n day${n == 1 ? '' : 's'} ago')}';
+  }
+
   String get wholeBibleFinished =>
       _t('Natapos ang buong Biblia', 'Finished the whole Bible');
   String timesLabel(int n) => _t('$n beses', n == 1 ? '1 time' : '$n times');
@@ -219,6 +272,10 @@ class Strings {
     'Ipapakita ang iyong username at bilang ng nabasang kabanata sa pampublikong ranggo.',
     'Your username and chapter count will be visible on the public leaderboard.',
   );
+  String get publicProfilePrivacyNotice => _t(
+    'Makikita ng ibang user ang iyong pangalan, rank, at bilang ng nabasa.',
+    'Your name, rank, and reading counts will be visible to other users.',
+  );
 
   // ---- navigation (continued) ----
   String get navLeaderboard => _t('Ranggo', 'Leaderboard');
@@ -239,8 +296,7 @@ class Strings {
     'I-on ang "Ipakita sa Ranggo" sa Settings para makita ang iyong pangalan dito.',
     'Turn on "Show on Leaderboard" in Settings to appear here.',
   );
-  String leaderboardRankLabel(int rank) =>
-      _t('Ranggo #$rank', 'Rank #$rank');
+  String leaderboardRankLabel(int rank) => _t('Ranggo #$rank', 'Rank #$rank');
   String leaderboardYourRank(int rank) =>
       _t('Ranggo mo: #$rank', 'Your rank: #$rank');
   String get leaderboardYourRankUnknown =>
@@ -253,10 +309,8 @@ class Strings {
   String finishersCount(int n) =>
       _t('$n nakatapos', n == 1 ? '1 finished' : '$n finished');
   String get finishersLoading => _t('Naglo-load...', 'Loading...');
-  String get finishersOffline => _t(
-    'Hindi available offline.',
-    'Not available offline.',
-  );
+  String get finishersOffline =>
+      _t('Hindi available offline.', 'Not available offline.');
   String get finishersEmpty => _t(
     'Wala pang nakatapos ng librong ito.',
     'No one has finished this book yet.',
@@ -269,10 +323,8 @@ class Strings {
       _t('Kabanata $chapter — Quiz', 'Chapter $chapter — Quiz');
   String quizProgress(int current, int total) =>
       _t('$current / $total', '$current / $total');
-  String get quizChooseAnswer =>
-      _t('Pumili ng sagot', 'Choose an answer');
-  String get quizCheckAnswers =>
-      _t('Suriin ang mga sagot', 'Check answers');
+  String get quizChooseAnswer => _t('Pumili ng sagot', 'Choose an answer');
+  String get quizCheckAnswers => _t('Suriin ang mga sagot', 'Check answers');
   String get quizWrong => _t(
     'Konti na lang! Basahin ulit ang chapter at subukan ulit.',
     'Almost there! Re-read the chapter and try again.',
@@ -283,8 +335,7 @@ class Strings {
     '🎉 Well done! You passed the quiz!',
   );
   String get quizLearnedTitle => _t('Natutunan mo', 'What you learned');
-  String get quizMarkRead =>
-      _t('Markahan bilang nabasa', 'Mark as read');
+  String get quizMarkRead => _t('Markahan bilang nabasa', 'Mark as read');
   String get quizNoQuestions =>
       _t('Walang quiz para sa kabanatang ito.', 'No quiz for this chapter.');
 }

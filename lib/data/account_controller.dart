@@ -195,8 +195,7 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
 
   void _onSettingsChange() {
     if (_applying) return;
-    final usernameChanged =
-        _settings.usernameUpdatedAt != _knownUsernameAt;
+    final usernameChanged = _settings.usernameUpdatedAt != _knownUsernameAt;
     final leaderboardChanged =
         _settings.showOnLeaderboard != _knownShowOnLeaderboard;
     if (usernameChanged) {
@@ -240,11 +239,13 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
       username: _settings.username,
       usernameAt: _settings.usernameUpdatedAt,
       completedEver: _progress.completedEver,
+      maxStarsEver: _progress.maxStarsEver,
     );
+    final publicOptIn = _settings.showOnLeaderboard;
 
     try {
       final merged = await _cloud
-          .sync(current.uid, local)
+          .sync(current.uid, local, showOnLeaderboard: publicOptIn)
           .timeout(const Duration(seconds: 20));
 
       _applying = true;
@@ -253,6 +254,7 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
         merged.books,
         baseline,
         mergedCompletedEver: merged.completedEver,
+        mergedMaxStarsEver: merged.maxStarsEver,
       );
       final name = merged.username;
       if (name != null) _settings.applyRemoteUsername(name, merged.usernameAt);
@@ -262,9 +264,18 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
       _retry?.cancel();
       _setSyncStatus(SyncStatus.synced);
 
-      // Keep the public leaderboard entry in sync.
-      final uid = current.uid;
-      unawaited(_syncPublicProfile(uid));
+      // Changes while the transaction was in flight need another snapshot.
+      // Reconcile opt-out immediately if it happened during that transaction.
+      if (publicOptIn != _settings.showOnLeaderboard) {
+        if (!_settings.showOnLeaderboard) {
+          await _cloud.deletePublicProfile(current.uid);
+        }
+        _syncAgain = true;
+      }
+      if (_progress.maxStarsEver > merged.maxStarsEver ||
+          _progress.chaptersReadLifetime != merged.chaptersReadLifetime) {
+        _syncAgain = true;
+      }
     } catch (_) {
       _applying = false;
       _setSyncStatus(SyncStatus.failed);
@@ -275,31 +286,6 @@ class AccountController extends ChangeNotifier with WidgetsBindingObserver {
       if (_syncAgain) {
         _syncAgain = false;
         _scheduleSync(delay: const Duration(seconds: 1));
-      }
-    }
-  }
-
-  /// Writes or deletes publicProfiles/{uid} depending on the setting.
-  Future<void> _syncPublicProfile(String uid) async {
-    if (_settings.showOnLeaderboard) {
-      final name = _settings.username;
-      if (name == null) return; // not ready yet
-      try {
-        await _cloud.updatePublicProfile(
-          uid: uid,
-          username: name,
-          chaptersRead: _progress.chaptersReadLifetime,
-          completedBooks: _progress.completedBooks,
-          completedBookIds: _progress.completedEver.toList(),
-        );
-      } catch (_) {
-        // Non-critical; will be retried on the next sync.
-      }
-    } else {
-      try {
-        await _cloud.deletePublicProfile(uid);
-      } catch (_) {
-        // Non-critical.
       }
     }
   }

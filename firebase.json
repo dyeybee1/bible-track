@@ -1,1 +1,28 @@
-{"flutter":{"platforms":{"android":{"default":{"projectId":"bible-track-c604a","appId":"1:802970743959:android:c5399d7623336c68ee65d2","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"bible-track-c604a","configurations":{"android":"1:802970743959:android:c5399d7623336c68ee65d2","ios":"1:802970743959:ios:a3519611400bd4e5ee65d2","macos":"1:802970743959:ios:a3519611400bd4e5ee65d2","web":"1:802970743959:web:cc66137b3ac676e9ee65d2","windows":"1:802970743959:web:0d628d2f4b428406ee65d2"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "bible-track-c604a",
+          "appId": "1:802970743959:android:c5399d7623336c68ee65d2",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "bible-track-c604a",
+          "configurations": {
+            "android": "1:802970743959:android:c5399d7623336c68ee65d2",
+            "ios": "1:802970743959:ios:a3519611400bd4e5ee65d2",
+            "macos": "1:802970743959:ios:a3519611400bd4e5ee65d2",
+            "web": "1:802970743959:web:cc66137b3ac676e9ee65d2",
+            "windows": "1:802970743959:web:0d628d2f4b428406ee65d2"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules"
+  }
+}

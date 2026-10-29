@@ -1,5 +1,7 @@
 import 'dart:math' as math;
 
+import 'books_data.dart';
+
 /// What was read in one book, plus when it was last changed on a device.
 class BookRecord {
   const BookRecord(this.chapters, this.updatedAt);
@@ -32,6 +34,7 @@ class SyncState {
     this.username,
     this.usernameAt = 0,
     this.completedEver = const {},
+    this.maxStarsEver = 0,
   });
 
   /// How many times the whole Bible was finished. Progress always belongs to
@@ -44,6 +47,11 @@ class SyncState {
   /// Set of book ids ever completed by this user (across all cycles).
   /// Merged by UNION so it can only grow.
   final Set<String> completedEver;
+  final int maxStarsEver;
+
+  int get chaptersReadLifetime =>
+      cycle * totalChaptersInBible +
+      books.values.fold<int>(0, (sum, record) => sum + record.chapters.length);
 
   Map<String, dynamic> toMap() => {
     'cycle': cycle,
@@ -51,6 +59,7 @@ class SyncState {
     if (username != null) 'username': username,
     'usernameAt': usernameAt,
     'completedEver': completedEver.toList(),
+    'maxStarsEver': maxStarsEver,
   };
 
   factory SyncState.fromMap(Map<String, dynamic>? data) {
@@ -60,8 +69,8 @@ class SyncState {
     if (raw is Map) {
       raw.forEach((key, value) {
         if (key is String && value is Map) {
-            books[key] = BookRecord.fromMap(value);
-          }
+          books[key] = BookRecord.fromMap(value);
+        }
       });
     }
     final cycle = data['cycle'];
@@ -80,6 +89,7 @@ class SyncState {
       username: name is String ? name : null,
       usernameAt: at is num ? at.toInt() : 0,
       completedEver: completedEver,
+      maxStarsEver: (data['maxStarsEver'] as num?)?.toInt() ?? 0,
     );
   }
 }
@@ -93,6 +103,7 @@ class SyncState {
 ///     changed at the same moment, the chapters are combined (union).
 ///  3. The username that was changed last wins.
 ///  4. completedEver is always the UNION of both sides — it can only grow.
+///  5. maxStarsEver is the higher peak, at least the merged lifetime chapters.
 SyncState mergeStates(SyncState local, SyncState remote) {
   final cycle = math.max(local.cycle, remote.cycle);
   final l = local.cycle == cycle ? local.books : const <String, BookRecord>{};
@@ -129,11 +140,25 @@ SyncState mergeStates(SyncState local, SyncState remote) {
   // completedEver: union of both sides — never shrinks.
   final completedEver = {...local.completedEver, ...remote.completedEver};
 
-  return SyncState(
+  final merged = SyncState(
     cycle: cycle,
     books: books,
     username: username,
     usernameAt: usernameAt,
     completedEver: completedEver,
+    maxStarsEver: math.max(
+      math.max(local.maxStarsEver, remote.maxStarsEver),
+      // Older clients have no stored maximum. Preserve their visible peak,
+      // even if last-write-wins merging removes some of their chapters.
+      math.max(local.chaptersReadLifetime, remote.chaptersReadLifetime),
+    ),
+  );
+  return SyncState(
+    cycle: merged.cycle,
+    books: merged.books,
+    username: merged.username,
+    usernameAt: merged.usernameAt,
+    completedEver: merged.completedEver,
+    maxStarsEver: math.max(merged.maxStarsEver, merged.chaptersReadLifetime),
   );
 }
