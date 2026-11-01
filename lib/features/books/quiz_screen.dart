@@ -4,7 +4,7 @@ import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
-import '../rank/rank_celebration.dart';
+import '../rank/rank_celebration.dart' show showStarChangeScreen;
 
 /// Result returned when the quiz dialog closes.
 enum QuizResult {
@@ -33,7 +33,7 @@ Future<QuizResult> showQuiz({
 
   if (questions.isEmpty) {
     if (!context.mounted) return QuizResult.dismissed;
-    await markChapterReadWithRankUp(
+    await showStarChangeScreen(
       context: context,
       progress: progress,
       book: book,
@@ -125,7 +125,7 @@ class _QuizPageState extends State<_QuizPage> {
   Future<void> _markRead() async {
     if (_markingRead) return;
     _markingRead = true;
-    await markChapterReadWithRankUp(
+    await showStarChangeScreen(
       context: context,
       progress: widget.progress,
       book: widget.book,

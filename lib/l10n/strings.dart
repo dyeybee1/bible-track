@@ -318,6 +318,30 @@ class Strings {
   String get finishersYou => _t('Ikaw', 'You');
   String get finishersShowAll => _t('Tingnan lahat', 'See all');
 
+  // ---- star change screen ----
+  String get starGainTitle => _t('Nakakuha ka ng bituin!', 'You earned a star!');
+  String get starLossTitle => _t('Nabawasan ng 1 star', 'You lost 1 star');
+  String starRankUp(String rankName) =>
+      _t('Umakyat ka sa $rankName!', 'You ranked up to $rankName!');
+  String starRankDown(String rankName) =>
+      _t('Bumaba ka sa $rankName', 'You moved down to $rankName');
+  String starHighestStill(String rankName) => _t(
+    'Pinakamataas na Rank mo pa rin: $rankName',
+    'Your highest rank is still: $rankName',
+  );
+  String get starTapToContinue =>
+      _t('Pindutin para magpatuloy', 'Tap to continue');
+  String get starPlusOne => '+1 ★';
+  String get starMinusOne => '-1 ★';
+
+  // ---- un-mark confirmation ----
+  String get unmarkTitle => _t('Alisin ang marka?', 'Remove mark?');
+  String get unmarkBody => _t(
+    'Aalisin ito sa nabasa. Mababawasan ka ng 1 star at kailangan mong sagutan ulit ang quiz para maibalik ito. Ituloy?',
+    'This will be removed from your read chapters. You will lose 1 star and need to retake the quiz to get it back. Continue?',
+  );
+  String get unmarkConfirm => _t('Ituloy', 'Confirm');
+
   // ---- quiz ----
   String quizTitle(int chapter) =>
       _t('Kabanata $chapter — Quiz', 'Chapter $chapter — Quiz');

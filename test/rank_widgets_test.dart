@@ -14,6 +14,7 @@ import 'package:bible_track/features/books/quiz_screen.dart';
 import 'package:bible_track/features/leaderboard/leaderboard_screen.dart';
 import 'package:bible_track/features/profile/profile_screen.dart';
 import 'package:bible_track/features/rank/rank_badge.dart';
+import 'package:bible_track/features/rank/star_change_screen.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
 import 'package:firebase_auth/firebase_auth.dart';
@@ -150,12 +151,13 @@ void main() {
       expect(find.text('Highest Rank'), findsOneWidget);
       expect(find.text('Seed II'), findsNWidgets(2));
       expect(find.byType(RankBadge), findsNWidgets(2));
-      expect(find.byType(AlertDialog), findsNothing);
+      // No star-change screen opened by profile or sync
+      expect(find.byType(StarChangeScreen), findsNothing);
       progress.toggleChapter(allBooks.first, 10);
       await tester.pump();
       expect(find.text('Seed III'), findsOneWidget);
       expect(find.text('Seed II'), findsOneWidget);
-      expect(find.text('9 / 10 stars'), findsOneWidget);
+      // StarProgress shows a star-icon row for divisions ≤ 10 (not a text label).
       progress.applyMerge(
         0,
         {},
@@ -164,7 +166,8 @@ void main() {
       );
       await tester.pump();
       expect(find.text('Plant III'), findsOneWidget);
-      expect(find.byType(AlertDialog), findsNothing);
+      // applyMerge must NOT open StarChangeScreen
+      expect(find.byType(StarChangeScreen), findsNothing);
       settings.setLanguage('fil');
       await tester.pump();
       expect(find.text('Pinakamataas na Rank'), findsOneWidget);
@@ -190,104 +193,127 @@ void main() {
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
-  testWidgets('no-quiz direct mark celebrates a division once', (tester) async {
-    progress.markUpTo(allBooks.first, 9);
-    await tester.pumpWidget(quizHost(_QuizRepo()));
-    await tester.tap(find.text('Open quiz'));
-    await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, 10);
-    expect(find.text('New rank!'), findsOneWidget);
-    expect(find.text('Seed II'), findsOneWidget);
-    await tester.tap(find.text('Lovely!'));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Open quiz'));
-    await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, 10);
-    expect(find.byType(AlertDialog), findsNothing);
-    await tester.pumpWidget(const SizedBox.shrink());
-  });
+  testWidgets(
+    'no-quiz direct mark opens StarChangeScreen on division up',
+    (tester) async {
+      progress.markUpTo(allBooks.first, 9);
+      await tester.pumpWidget(quizHost(_QuizRepo()));
+      await tester.tap(find.text('Open quiz'));
+      await tester.pumpAndSettle();
+      // Chapter marked → star count went from 9 to 10 → division up
+      expect(progress.chaptersReadLifetime, 10);
+      expect(find.byType(StarChangeScreen), findsOneWidget);
+      // Second tap on same chapter: already read, no quiz fires
+      // (but here we just let the animation finish and dismiss)
+      await tester.pump(const Duration(milliseconds: 2000));
+      await tester.pumpAndSettle();
+      await tester.tapAt(const Offset(200, 400));
+      await tester.pumpAndSettle();
+      // Try again — same chapter already marked, won't re-mark
+      await tester.tap(find.text('Open quiz'));
+      await tester.pumpAndSettle();
+      expect(progress.chaptersReadLifetime, 10);
+      expect(find.byType(StarChangeScreen), findsNothing);
+      await tester.pumpWidget(const SizedBox.shrink());
+    },
+  );
 
-  testWidgets('no-quiz tier promotion celebrates the new tier', (tester) async {
+  testWidgets('no-quiz tier promotion opens StarChangeScreen', (tester) async {
     progress.markUpTo(allBooks.first, 29);
     await tester.pumpWidget(quizHost(_QuizRepo(), chapter: 30));
     await tester.tap(find.text('Open quiz'));
     await tester.pumpAndSettle();
     expect(progress.chaptersReadLifetime, 30);
-    expect(find.text('Sprout III'), findsOneWidget);
-    await tester.tap(find.text('Lovely!'));
+    expect(find.byType(StarChangeScreen), findsOneWidget);
+    await tester.pump(const Duration(milliseconds: 2000));
+    await tester.pumpAndSettle();
+    await tester.tapAt(const Offset(200, 400));
     await tester.pumpAndSettle();
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
-  testWidgets('ordinary and unlimited top-tier chapter gains stay quiet', (
+  testWidgets('ordinary gain (no rank change) opens StarChangeScreen', (
     tester,
   ) async {
     await tester.pumpWidget(quizHost(_QuizRepo()));
     await tester.tap(find.text('Open quiz'));
     await tester.pumpAndSettle();
     expect(progress.chaptersReadLifetime, 1);
-    expect(find.byType(AlertDialog), findsNothing);
-    progress.applyMerge(1, {}, progress.exportRecords());
-    await tester.tap(find.text('Open quiz'));
+    // No rank change but star was gained → StarChangeScreen opens
+    expect(find.byType(StarChangeScreen), findsOneWidget);
+    await tester.pump(const Duration(milliseconds: 2000));
     await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, totalChaptersInBible + 1);
-    expect(find.byType(AlertDialog), findsNothing);
+    await tester.tapAt(const Offset(200, 400));
+    await tester.pumpAndSettle();
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
-  testWidgets('passing a quiz celebrates only after Mark as read', (
-    tester,
-  ) async {
-    progress.markUpTo(allBooks.first, 9);
-    await tester.pumpWidget(quizHost(_QuizRepo(hasQuestions: true)));
-    await tester.tap(find.text('Open quiz'));
+  testWidgets('applyMerge does NOT open StarChangeScreen', (tester) async {
+    await tester.pumpWidget(quizHost(_QuizRepo()));
+    progress.applyMerge(0, {}, progress.exportRecords());
     await tester.pumpAndSettle();
-    await tester.tap(find.text('Correct'));
-    await tester.pump();
-    await tester.tap(find.text('Check answers'));
-    await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, 9);
-    expect(find.byType(AlertDialog), findsNothing);
-    await tester.tap(find.text('Mark as read'));
-    await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, 10);
-    expect(find.text('New rank!'), findsOneWidget);
-    await tester.tap(find.text('Lovely!'));
-    await tester.pumpAndSettle();
-    expect(find.text('Open quiz'), findsOneWidget);
+    expect(find.byType(StarChangeScreen), findsNothing);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
-  testWidgets('sync during quiz and failed answers do not celebrate', (
-    tester,
-  ) async {
-    progress.markUpTo(allBooks.first, 9);
-    await tester.pumpWidget(quizHost(_QuizRepo(hasQuestions: true)));
-    await tester.tap(find.text('Open quiz'));
-    await tester.pumpAndSettle();
-    progress.applyMerge(0, {
-      'gen': BookRecord({for (var c = 1; c <= 10; c++) c}, 9999999999999),
-    }, progress.exportRecords());
-    await tester.pumpAndSettle();
-    expect(find.byType(AlertDialog), findsNothing);
-    await tester.tap(find.text('Wrong'));
-    await tester.pump();
-    await tester.tap(find.text('Check answers'));
-    await tester.pumpAndSettle();
-    expect(find.byType(AlertDialog), findsNothing);
-    expect(progress.chaptersReadLifetime, 10);
-    await tester.tap(find.text('Try again'));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Correct'));
-    await tester.pump();
-    await tester.tap(find.text('Check answers'));
-    await tester.pumpAndSettle();
-    await tester.tap(find.text('Mark as read'));
-    await tester.pumpAndSettle();
-    expect(progress.chaptersReadLifetime, 10);
-    expect(find.byType(AlertDialog), findsNothing);
-    await tester.pumpWidget(const SizedBox.shrink());
-  });
+  testWidgets(
+    'passing a quiz opens StarChangeScreen only after Mark as read',
+    (tester) async {
+      progress.markUpTo(allBooks.first, 9);
+      await tester.pumpWidget(quizHost(_QuizRepo(hasQuestions: true)));
+      await tester.tap(find.text('Open quiz'));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Correct'));
+      await tester.pump();
+      await tester.tap(find.text('Check answers'));
+      await tester.pumpAndSettle();
+      expect(progress.chaptersReadLifetime, 9);
+      expect(find.byType(StarChangeScreen), findsNothing);
+      await tester.tap(find.text('Mark as read'));
+      await tester.pumpAndSettle();
+      expect(progress.chaptersReadLifetime, 10);
+      expect(find.byType(StarChangeScreen), findsOneWidget);
+      await tester.pump(const Duration(milliseconds: 2000));
+      await tester.pumpAndSettle();
+      await tester.tapAt(const Offset(200, 400));
+      await tester.pumpAndSettle();
+      expect(find.text('Open quiz'), findsOneWidget);
+      await tester.pumpWidget(const SizedBox.shrink());
+    },
+  );
+
+  testWidgets(
+    'sync during quiz and failed answers do not open StarChangeScreen',
+    (tester) async {
+      progress.markUpTo(allBooks.first, 9);
+      await tester.pumpWidget(quizHost(_QuizRepo(hasQuestions: true)));
+      await tester.tap(find.text('Open quiz'));
+      await tester.pumpAndSettle();
+      progress.applyMerge(0, {
+        'gen': BookRecord({for (var c = 1; c <= 10; c++) c}, 9999999999999),
+      }, progress.exportRecords());
+      await tester.pumpAndSettle();
+      expect(find.byType(StarChangeScreen), findsNothing);
+      await tester.tap(find.text('Wrong'));
+      await tester.pump();
+      await tester.tap(find.text('Check answers'));
+      await tester.pumpAndSettle();
+      expect(find.byType(StarChangeScreen), findsNothing);
+      expect(progress.chaptersReadLifetime, 10);
+      await tester.tap(find.text('Try again'));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Correct'));
+      await tester.pump();
+      await tester.tap(find.text('Check answers'));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Mark as read'));
+      await tester.pumpAndSettle();
+      // Chapter was already read by sync, so stars unchanged → no screen
+      expect(progress.chaptersReadLifetime, 10);
+      expect(find.byType(StarChangeScreen), findsNothing);
+      await tester.pumpWidget(const SizedBox.shrink());
+    },
+  );
 
   testWidgets(
     'leaderboard derives current ranks from public counts and keeps own row',

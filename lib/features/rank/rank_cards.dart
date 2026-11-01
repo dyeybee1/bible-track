@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../data/rank_system.dart';
 import '../../settings_scope.dart';
+import '../../widgets/star_progress.dart';
 import 'rank_badge.dart';
 
 class CurrentRankCard extends StatelessWidget {
@@ -49,50 +50,11 @@ class CurrentRankCard extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 16),
-            if (rank.division == null)
-              Text(
-                strings.rankStars(stars),
-                style: theme.textTheme.titleLarge?.copyWith(
-                  color: scheme.onPrimaryContainer,
-                ),
-              )
-            else ...[
-              // Wrap the star row on small screens, including 120-star divisions.
-              ExcludeSemantics(
-                child: Wrap(
-                  spacing: 2,
-                  runSpacing: 2,
-                  children: [
-                    for (var i = 0; i < rank.starsForDivision; i++)
-                      Icon(
-                        i < rank.starsInDivision
-                            ? Icons.star_rounded
-                            : Icons.star_outline_rounded,
-                        size: 16,
-                        color: scheme.onPrimaryContainer,
-                      ),
-                  ],
-                ),
-              ),
-              const SizedBox(height: 12),
-              LinearProgressIndicator(
-                value: rank.progress,
-                minHeight: 8,
-                borderRadius: BorderRadius.circular(8),
-                semanticsLabel: strings.rankStarProgress(
-                  rank.starsInDivision,
-                  rank.starsForDivision,
-                ),
-              ),
-              const SizedBox(height: 8),
-              Text(
-                strings.rankStarProgress(
-                  rank.starsInDivision,
-                  rank.starsForDivision,
-                ),
-                style: TextStyle(color: scheme.onPrimaryContainer),
-              ),
-            ],
+            StarProgress(
+              rank: rank,
+              totalStars: stars,
+              color: scheme.onPrimaryContainer,
+            ),
           ],
         ),
       ),

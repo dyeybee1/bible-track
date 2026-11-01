@@ -9,6 +9,8 @@ import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
+import '../../data/rank_system.dart';
+import '../rank/star_change_screen.dart';
 import 'quiz_screen.dart';
 import '../profile/profile_preview_sheet.dart';
 
@@ -56,6 +58,28 @@ class _ChapterScreenState extends State<ChapterScreen> {
       ),
     );
     if (ok == true) widget.progress.clearBook(widget.book);
+  }
+
+  // ONE place to change if we ever want to remove the un-mark confirmation.
+  Future<bool?> _confirmUnmark() async {
+    final strings = context.s;
+    return showDialog<bool>(
+      context: context,
+      builder: (ctx) => AlertDialog(
+        title: Text(strings.unmarkTitle),
+        content: Text(strings.unmarkBody),
+        actions: [
+          TextButton(
+            onPressed: () => Navigator.pop(ctx, false),
+            child: Text(strings.cancel),
+          ),
+          FilledButton(
+            onPressed: () => Navigator.pop(ctx, true),
+            child: Text(strings.unmarkConfirm),
+          ),
+        ],
+      ),
+    );
   }
 
   void _showFinishersSheet() {
@@ -197,8 +221,30 @@ class _ChapterScreenState extends State<ChapterScreen> {
                       loading: _quizLoading,
                       onTap: () async {
                         if (isRead) {
-                          // Already read — allow free un-mark, no quiz.
+                          // Already read — confirm, then un-mark + show star screen.
+                          // Capture navigator before the async gap.
+                          final nav = Navigator.of(context);
+                          final ok = await _confirmUnmark();
+                          if (ok != true || !mounted) return;
+                          final starsBefore = widget.progress.chaptersReadLifetime;
+                          final rankBefore = rankForStars(starsBefore);
                           widget.progress.toggleChapter(book, chapter);
+                          final starsAfter = widget.progress.chaptersReadLifetime;
+                          final rankAfter = rankForStars(starsAfter);
+                          await nav.push<void>(
+                            PageRouteBuilder<void>(
+                              opaque: false,
+                              transitionDuration: const Duration(milliseconds: 300),
+                              pageBuilder: (ctx, anim, secondAnim) => StarChangeScreen(
+                                before: rankBefore,
+                                after: rankAfter,
+                                maxStarsEver: widget.progress.maxStarsEver,
+                                isGain: false,
+                              ),
+                              transitionsBuilder: (ctx, animation, secondAnim, child) =>
+                                  FadeTransition(opacity: animation, child: child),
+                            ),
+                          );
                         } else {
                           // Unread — gate through the quiz.
                           setState(() => _quizLoading = true);
