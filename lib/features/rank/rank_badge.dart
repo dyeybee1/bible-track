@@ -19,6 +19,7 @@ class RankBadge extends StatelessWidget {
       (Icons.park_outlined, Color(0xFF2777A2)),
       (Icons.spa_outlined, Color(0xFF8255B4)),
       (Icons.shield_outlined, Color(0xFFB16B23)),
+      (Icons.explore_outlined, Color(0xFF5364B5)),
       (Icons.auto_awesome, Color(0xFFBD496A)),
       (Icons.auto_stories, Color(0xFFC09824)),
     ][rankLadder.indexOf(tier)];

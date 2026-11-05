@@ -50,11 +50,7 @@ class CurrentRankCard extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 16),
-            StarProgress(
-              rank: rank,
-              totalStars: stars,
-              color: scheme.onPrimaryContainer,
-            ),
+            StarProgress(rank: rank, color: scheme.onPrimaryContainer),
           ],
         ),
       ),

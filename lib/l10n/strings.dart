@@ -123,6 +123,8 @@ class Strings {
   // ---- profile ----
   String rankTierName(RankTier tier) => _t(tier.nameFil, tier.nameEn);
   String rankDivision(RankDivision division) => switch (division) {
+    RankDivision.v => _t('V', 'V'),
+    RankDivision.iv => _t('IV', 'IV'),
     RankDivision.iii => _t('III', 'III'),
     RankDivision.ii => _t('II', 'II'),
     RankDivision.i => _t('I', 'I'),
@@ -132,8 +134,6 @@ class Strings {
       : '${rankTierName(rank.tier)} ${rankDivision(rank.division!)}';
   String get currentRank => _t('Kasalukuyang Rank', 'Current Rank');
   String get highestRank => _t('Pinakamataas na Rank', 'Highest Rank');
-  String rankStarProgress(int stars, int total) =>
-      _t('$stars / $total bituin', '$stars / $total stars');
   String rankStars(int stars) =>
       _t('$stars bituin', stars == 1 ? '1 star' : '$stars stars');
   String get rankUpTitle => _t('Bagong rank!', 'New rank!');
@@ -319,7 +319,8 @@ class Strings {
   String get finishersShowAll => _t('Tingnan lahat', 'See all');
 
   // ---- star change screen ----
-  String get starGainTitle => _t('Nakakuha ka ng bituin!', 'You earned a star!');
+  String get starGainTitle =>
+      _t('Nakakuha ka ng bituin!', 'You earned a star!');
   String get starLossTitle => _t('Nabawasan ng 1 star', 'You lost 1 star');
   String starRankUp(String rankName) =>
       _t('Umakyat ka sa $rankName!', 'You ranked up to $rankName!');

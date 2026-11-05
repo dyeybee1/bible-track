@@ -46,25 +46,28 @@ void main() {
   test('read gains one star; unmark demotes quietly and preserves peak', () {
     final progress = ProgressController(box);
     final book = allBooks.first;
-    progress.markUpTo(book, 9);
-    progress.markChapterRead(book, 10);
-    expect(progress.chaptersReadLifetime, 10);
-    expect(progress.maxStarsEver, 10);
+    progress.markUpTo(book, 4);
+    progress.markChapterRead(book, 5);
+    expect(progress.chaptersReadLifetime, 5);
+    expect(progress.maxStarsEver, 5);
     expect(
       rankForStars(progress.chaptersReadLifetime).division,
       RankDivision.ii,
     );
-    progress.toggleChapter(book, 10);
-    expect(progress.chaptersReadLifetime, 9);
+    progress.toggleChapter(book, 5);
+    expect(progress.chaptersReadLifetime, 4);
     expect(
       rankForStars(progress.chaptersReadLifetime).division,
       RankDivision.iii,
     );
-    expect(progress.maxStarsEver, 10);
+    expect(progress.maxStarsEver, 5);
+    progress.markChapterRead(book, 5);
+    expect(progress.chaptersReadLifetime, 5);
+    expect(rankForStars(5).division, RankDivision.ii);
     progress.clearBook(book);
     expect(progress.chaptersReadLifetime, 0);
-    expect(progress.maxStarsEver, 10);
-    expect(ProgressController(box).maxStarsEver, 10);
+    expect(progress.maxStarsEver, 5);
+    expect(ProgressController(box).maxStarsEver, 5);
     progress.dispose();
   });
 

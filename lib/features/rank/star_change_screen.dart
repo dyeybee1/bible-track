@@ -1,9 +1,11 @@
 import 'dart:async';
+import 'dart:math' as math;
 
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 import '../../data/rank_system.dart';
+import '../../l10n/strings.dart';
 import '../../settings_scope.dart';
 import 'rank_badge.dart';
 
@@ -85,12 +87,16 @@ class _StarChangeScreenState extends State<StarChangeScreen>
 
     _mainCtrl = AnimationController(
       vsync: this,
-      duration: reducedMotion ? Duration.zero : const Duration(milliseconds: totalMs),
+      duration: reducedMotion
+          ? Duration.zero
+          : const Duration(milliseconds: totalMs),
     );
 
     _hintCtrl = AnimationController(
       vsync: this,
-      duration: reducedMotion ? Duration.zero : const Duration(milliseconds: 400),
+      duration: reducedMotion
+          ? Duration.zero
+          : const Duration(milliseconds: 400),
     );
 
     if (reducedMotion) {
@@ -140,14 +146,14 @@ class _StarChangeScreenState extends State<StarChangeScreen>
   // ── classification ─────────────────────────────────────────────────────────
 
   _ChangeKind _classifyChange() {
-    final bDiv = widget.before.division;
-    final aDiv = widget.after.division;
-    // Top tier
-    if (aDiv == null) {
-      return widget.isGain ? _ChangeKind.topTierGain : _ChangeKind.topTierLoss;
-    }
-    // Same rank tier + same division → just star count changed
-    if (widget.before.tier == widget.after.tier && bDiv == aDiv) {
+    // Compare both tier and division, including entry to / exit from the top.
+    if (widget.before.tier == widget.after.tier &&
+        widget.before.division == widget.after.division) {
+      if (widget.after.isTopTier) {
+        return widget.isGain
+            ? _ChangeKind.topTierGain
+            : _ChangeKind.topTierLoss;
+      }
       return widget.isGain
           ? _ChangeKind.sameDivisionGain
           : _ChangeKind.sameDivisionLoss;
@@ -195,8 +201,7 @@ class _StarChangeScreenState extends State<StarChangeScreen>
 
     // Highest-rank line: show only on loss and only when max rank > current
     final maxRank = rankForStars(widget.maxStarsEver);
-    final showHighest =
-        !widget.isGain && maxRank.isHigherThan(widget.after);
+    final showHighest = !widget.isGain && maxRank.isHigherThan(widget.after);
 
     return GestureDetector(
       behavior: HitTestBehavior.opaque,
@@ -241,9 +246,6 @@ class _StarChangeScreenState extends State<StarChangeScreen>
                         before: widget.before,
                         after: widget.after,
                         isGain: widget.isGain,
-                        totalStars: widget.isGain
-                            ? widget.maxStarsEver
-                            : widget.maxStarsEver - 1,
                         accent: accent,
                         strings: strings,
                       ),
@@ -362,7 +364,7 @@ class _AnimatedBadge extends StatelessWidget {
     // Rank change: crossfade from old to new badge
     final fadeOld = CurvedAnimation(
       parent: ctrl,
-      curve: const Interval(0.45, 0.65, curve: Curves.easeIn),
+      curve: const Interval(0.60, 0.85, curve: Curves.easeIn),
     );
     final fadeNew = CurvedAnimation(
       parent: ctrl,
@@ -402,7 +404,7 @@ class _AnimatedRankName extends StatelessWidget {
   final _ChangeKind kind;
   final RankInfo before;
   final RankInfo after;
-  final dynamic strings;
+  final Strings strings;
   final Color accent;
 
   @override
@@ -424,7 +426,7 @@ class _AnimatedRankName extends StatelessWidget {
       return FadeTransition(
         opacity: fade,
         child: Text(
-          strings.rankName(after) as String,
+          strings.rankName(after),
           textAlign: TextAlign.center,
           style: nameStyle,
         ),
@@ -434,7 +436,7 @@ class _AnimatedRankName extends StatelessWidget {
     // Crossfade rank names
     final fadeOld = CurvedAnimation(
       parent: ctrl,
-      curve: const Interval(0.45, 0.65, curve: Curves.easeIn),
+      curve: const Interval(0.60, 0.85, curve: Curves.easeIn),
     );
     final fadeNew = CurvedAnimation(
       parent: ctrl,
@@ -446,7 +448,7 @@ class _AnimatedRankName extends StatelessWidget {
         FadeTransition(
           opacity: ReverseAnimation(fadeOld),
           child: Text(
-            strings.rankName(before) as String,
+            strings.rankName(before),
             textAlign: TextAlign.center,
             style: nameStyle,
           ),
@@ -454,7 +456,7 @@ class _AnimatedRankName extends StatelessWidget {
         FadeTransition(
           opacity: fadeNew,
           child: Text(
-            strings.rankName(after) as String,
+            strings.rankName(after),
             textAlign: TextAlign.center,
             style: nameStyle,
           ),
@@ -475,7 +477,6 @@ class _AnimatedStarProgress extends StatelessWidget {
     required this.before,
     required this.after,
     required this.isGain,
-    required this.totalStars,
     required this.accent,
     required this.strings,
   });
@@ -485,213 +486,208 @@ class _AnimatedStarProgress extends StatelessWidget {
   final RankInfo before;
   final RankInfo after;
   final bool isGain;
-  final int totalStars;
   final Color accent;
-  final dynamic strings;
+  final Strings strings;
 
   @override
   Widget build(BuildContext context) {
-    // Top tier: animate total star count
     if (kind == _ChangeKind.topTierGain || kind == _ChangeKind.topTierLoss) {
       return _TopTierCounter(
         ctrl: ctrl,
-        startCount: isGain ? totalStars - 1 : totalStars + 1,
-        endCount: totalStars,
+        startCount: before.topStars,
+        endCount: after.topStars,
         accent: accent,
       );
     }
 
-    // For rank changes the two halves of the animation use different divisions.
-    // Phase 1 (0.15–0.65): animate within the BEFORE division (fill/drain).
-    // Phase 2 (0.65–1.00): crossfade to AFTER division, show endFilled.
-    final isRankChange =
-        kind == _ChangeKind.rankUp || kind == _ChangeKind.rankDown;
+    final rankUp = kind == _ChangeKind.rankUp;
+    final rankDown = kind == _ChangeKind.rankDown;
+    final rankChange = rankUp || rankDown;
+    final t = ctrl.value;
+    final flight = const Interval(
+      0.15,
+      0.40,
+      curve: Curves.easeOutCubic,
+    ).transform(t);
+    final fading = const Interval(
+      0.15,
+      0.45,
+      curve: Curves.easeInOut,
+    ).transform(t);
+    final transition = const Interval(
+      0.60,
+      0.85,
+      curve: Curves.easeOut,
+    ).transform(t);
+    final burst = const Interval(0.40, 0.60).transform(t);
+    final landed = t >= 0.40;
 
-    final beforeTotal = before.starsForDivision; // used in phase 1
-    final afterTotal = after.starsForDivision;   // used in phase 2
-    final startFilled = before.starsInDivision;
-    final endFilled = after.starsInDivision;
-
-    // Phase-1 animation end value (relative to beforeTotal):
-    final phase1End = kind == _ChangeKind.rankUp
-        ? beforeTotal.toDouble()  // fill to full
-        : kind == _ChangeKind.rankDown
-            ? 0.0                 // drain to empty
-            : endFilled.toDouble(); // same-division
-
-    // Single animation drives phase 1 (and phase 2 is driven by crossfade).
-    final barAnim = CurvedAnimation(
-      parent: ctrl,
-      curve: const Interval(0.15, 0.65, curve: Curves.easeInOut),
-    ).drive(Tween<double>(begin: startFilled.toDouble(), end: phase1End));
-
-    // Phase-2 opacity (crossfade in after rank after 0.65).
-    final phase2Opacity = CurvedAnimation(
-      parent: ctrl,
-      curve: const Interval(0.65, 0.90, curve: Curves.easeOut),
-    );
-
-    // Use the DISPLAYED total for bar/row rendering.
-    // Phase 1: use beforeTotal. Phase 2: use afterTotal (via crossfade).
-    final total = isRankChange ? beforeTotal : afterTotal;
-
-    if (total <= 10) {
-      // Star row
-      return AnimatedBuilder(
-        animation: Listenable.merge([barAnim, phase2Opacity]),
-        builder: (context, _) {
-          if (isRankChange && phase2Opacity.value > 0.5) {
-            // Phase 2: show after-division row at endFilled / afterTotal
-            return Opacity(
-              opacity: phase2Opacity.value,
-              child: _StarRow(
-                filled: endFilled,
-                total: afterTotal,
-                accent: accent,
-                isNew: -1,
-              ),
-            );
-          }
-          final filled = barAnim.value.round();
-          return _StarRow(
-            filled: filled,
-            total: total,
-            accent: accent,
-            isNew: kind == _ChangeKind.sameDivisionGain ? filled - 1 : -1,
-          );
-        },
+    Widget row(RankInfo rank, {bool departing = false}) {
+      if (rank.isTopTier) {
+        return Opacity(
+          opacity: departing ? 1 - fading : 1,
+          child: Text(
+            strings.rankStars(rank.topStars),
+            style: TextStyle(
+              fontSize: 32,
+              fontWeight: FontWeight.w800,
+              color: accent,
+            ),
+          ),
+        );
+      }
+      final losing = departing && !isGain;
+      return _StarRow(
+        filled: departing && !rankChange && isGain && landed
+            ? after.starsInDivision
+            : rank.starsInDivision,
+        accent: accent,
+        fadingIndex: losing ? rank.starsInDivision - 1 : null,
+        fadingOpacity: 1 - fading,
       );
     }
 
-    // Progress bar
-    return AnimatedBuilder(
-      animation: Listenable.merge([barAnim, phase2Opacity]),
-      builder: (context, _) {
-        // Phase 2 of rank change: animate to after-division values.
-        if (isRankChange && phase2Opacity.value > 0.5) {
-          final ratio = (endFilled / afterTotal).clamp(0.0, 1.0);
-          return Opacity(
-            opacity: phase2Opacity.value,
-            child: Column(
-              crossAxisAlignment: CrossAxisAlignment.start,
-              mainAxisSize: MainAxisSize.min,
-              children: [
-                ClipRRect(
-                  borderRadius: BorderRadius.circular(8),
-                  child: LinearProgressIndicator(
-                    value: ratio,
-                    minHeight: 10,
-                    backgroundColor: accent.withAlpha(40),
-                    valueColor: AlwaysStoppedAnimation<Color>(accent),
-                  ),
-                ),
-                const SizedBox(height: 6),
-                Text(
-                  strings.rankStarProgress(endFilled, afterTotal) as String,
-                  style: TextStyle(
-                    fontSize: 13,
-                    fontWeight: FontWeight.w600,
-                    color: accent,
-                  ),
-                ),
-              ],
-            ),
-          );
-        }
-        final filled = barAnim.value.round();
-        final ratio = (filled / total).clamp(0.0, 1.0);
-        return Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            ClipRRect(
-              borderRadius: BorderRadius.circular(8),
-              child: LinearProgressIndicator(
-                value: ratio,
-                minHeight: 10,
-                backgroundColor: accent.withAlpha(40),
-                valueColor: AlwaysStoppedAnimation<Color>(accent),
+    return SizedBox(
+      height: 64,
+      child: Stack(
+        alignment: Alignment.center,
+        clipBehavior: Clip.none,
+        children: [
+          if (rankChange) ...[
+            if (transition < 1)
+              Opacity(
+                opacity: 1 - transition,
+                child: row(before, departing: true),
+              ),
+            if (transition > 0) Opacity(opacity: transition, child: row(after)),
+          ] else
+            row(before, departing: true),
+          // The fifth star bursts above a full row on promotion. Ordinary gains
+          // land directly in the next outline slot of the four-star row.
+          if (isGain && t >= 0.15 && !landed)
+            Transform.translate(
+              key: const ValueKey('flying-star'),
+              offset: Offset(
+                rankUp ? 0 : (after.starsInDivision - 2.5) * 36,
+                -80 * (1 - flight),
+              ),
+              child: Opacity(
+                opacity: flight,
+                child: Icon(Icons.star_rounded, size: 32, color: accent),
               ),
             ),
-            const SizedBox(height: 6),
-            Text(
-              strings.rankStarProgress(filled, total) as String,
-              style: TextStyle(
-                fontSize: 13,
-                fontWeight: FontWeight.w600,
-                color: accent,
+          if (rankUp && burst > 0 && burst < 1)
+            _StarBurst(
+              progress: burst,
+              tierChange: before.tier != after.tier,
+              color: accent,
+            ),
+          if (kind == _ChangeKind.sameDivisionGain && landed && t < 0.70)
+            Transform.translate(
+              offset: Offset((after.starsInDivision - 2.5) * 36, 0),
+              child: Opacity(
+                opacity: (1 - (t - 0.40) / 0.30).clamp(0.0, 1.0),
+                child: Icon(
+                  Icons.star_rounded,
+                  size: 34,
+                  color: accent,
+                  shadows: [Shadow(color: accent, blurRadius: 16)],
+                ),
               ),
             ),
-          ],
-        );
-      },
+        ],
+      ),
     );
   }
 }
-
-// ─────────────────────────────────────────────────────────────────────────────
-// _StarRow – row of filled/outline star icons with the "newest" star scaled up
-// ─────────────────────────────────────────────────────────────────────────────
 
 class _StarRow extends StatelessWidget {
   const _StarRow({
     required this.filled,
-    required this.total,
     required this.accent,
-    required this.isNew,
+    this.fadingIndex,
+    this.fadingOpacity = 1,
   });
 
   final int filled;
-  final int total;
   final Color accent;
-
-  /// Index of the "new" star (gains a glow). -1 = none.
-  final int isNew;
+  final int? fadingIndex;
+  final double fadingOpacity;
 
   @override
   Widget build(BuildContext context) {
-    return Wrap(
-      spacing: 4,
-      runSpacing: 4,
-      alignment: WrapAlignment.center,
+    return Row(
+      key: const ValueKey('animated-star-row'),
+      mainAxisSize: MainAxisSize.min,
       children: [
-        for (var i = 0; i < total; i++)
-          _buildStar(i),
+        for (var i = 0; i < kStarsPerDivision; i++)
+          SizedBox(
+            width: 36,
+            height: 32,
+            child: Stack(
+              alignment: Alignment.center,
+              children: [
+                if (i >= filled || (i == fadingIndex && fadingOpacity < 1))
+                  Icon(
+                    Icons.star_outline_rounded,
+                    size: 28,
+                    color: accent.withAlpha(70),
+                  ),
+                if (i < filled && (i != fadingIndex || fadingOpacity > 0))
+                  Opacity(
+                    opacity: i == fadingIndex ? fadingOpacity : 1,
+                    child: Icon(Icons.star_rounded, size: 28, color: accent),
+                  ),
+              ],
+            ),
+          ),
       ],
     );
   }
-
-  Widget _buildStar(int i) {
-    final isFilled = i < filled;
-    final isNewStar = i == isNew && isFilled;
-    final color = isFilled ? accent : accent.withAlpha(70);
-    final icon = Icon(
-      isFilled ? Icons.star_rounded : Icons.star_outline_rounded,
-      size: isNewStar ? 32 : 28,
-      color: color,
-    );
-    if (isNewStar) {
-      return Container(
-        decoration: BoxDecoration(
-          shape: BoxShape.circle,
-          boxShadow: [
-            BoxShadow(
-              color: accent.withAlpha(120),
-              blurRadius: 10,
-              spreadRadius: 2,
-            ),
-          ],
-        ),
-        child: icon,
-      );
-    }
-    return icon;
-  }
 }
 
-// ─────────────────────────────────────────────────────────────────────────────
-// _TopTierCounter
-// ─────────────────────────────────────────────────────────────────────────────
+/// A larger ring of sparks celebrates crossing a tier boundary.
+class _StarBurst extends StatelessWidget {
+  const _StarBurst({
+    required this.progress,
+    required this.tierChange,
+    required this.color,
+  });
+
+  final double progress;
+  final bool tierChange;
+  final Color color;
+
+  @override
+  Widget build(BuildContext context) {
+    final count = tierChange ? 12 : 8;
+    final radius = (tierChange ? 100 : 60) * Curves.easeOut.transform(progress);
+    return Opacity(
+      key: ValueKey(
+        tierChange ? 'tier-promotion-burst' : 'division-promotion-burst',
+      ),
+      opacity: 1 - progress,
+      child: Stack(
+        alignment: Alignment.center,
+        clipBehavior: Clip.none,
+        children: [
+          for (var i = 0; i < count; i++)
+            Transform.translate(
+              offset: Offset(
+                math.cos(i * 2 * math.pi / count) * radius,
+                math.sin(i * 2 * math.pi / count) * radius,
+              ),
+              child: Icon(
+                Icons.star_rounded,
+                size: tierChange ? 18 : 12,
+                color: color,
+              ),
+            ),
+        ],
+      ),
+    );
+  }
+}
 
 class _TopTierCounter extends StatelessWidget {
   const _TopTierCounter({
@@ -741,7 +737,7 @@ class _DeltaLabel extends StatelessWidget {
 
   final AnimationController ctrl;
   final bool isGain;
-  final dynamic strings;
+  final Strings strings;
   final Color accent;
 
   @override
@@ -750,24 +746,23 @@ class _DeltaLabel extends StatelessWidget {
       parent: ctrl,
       curve: const Interval(0.5, 0.9, curve: Curves.easeOut),
     );
-    final slide = CurvedAnimation(
-      parent: ctrl,
-      curve: const Interval(0.5, 0.9, curve: Curves.easeOut),
-    ).drive(
-      Tween<Offset>(
-        begin: Offset(0, isGain ? 0.5 : -0.5),
-        end: Offset.zero,
-      ),
-    );
+    final slide =
+        CurvedAnimation(
+          parent: ctrl,
+          curve: const Interval(0.5, 0.9, curve: Curves.easeOut),
+        ).drive(
+          Tween<Offset>(
+            begin: Offset(0, isGain ? 0.5 : -0.5),
+            end: Offset.zero,
+          ),
+        );
 
     return SlideTransition(
       position: slide,
       child: FadeTransition(
         opacity: opacity,
         child: Text(
-          isGain
-              ? strings.starPlusOne as String
-              : strings.starMinusOne as String,
+          isGain ? strings.starPlusOne : strings.starMinusOne,
           style: TextStyle(
             fontSize: 22,
             fontWeight: FontWeight.w800,
@@ -795,7 +790,7 @@ class _RankChangeMessage extends StatelessWidget {
   final AnimationController ctrl;
   final _ChangeKind kind;
   final RankInfo after;
-  final dynamic strings;
+  final Strings strings;
   final ColorScheme scheme;
 
   @override
@@ -804,10 +799,10 @@ class _RankChangeMessage extends StatelessWidget {
       parent: ctrl,
       curve: const Interval(0.75, 1.0, curve: Curves.easeOut),
     );
-    final rankName = strings.rankName(after) as String;
+    final rankName = strings.rankName(after);
     final message = kind == _ChangeKind.rankUp
-        ? strings.starRankUp(rankName) as String
-        : strings.starRankDown(rankName) as String;
+        ? strings.starRankUp(rankName)
+        : strings.starRankDown(rankName);
 
     return FadeTransition(
       opacity: fade,
@@ -825,4 +820,3 @@ class _RankChangeMessage extends StatelessWidget {
     );
   }
 }
-

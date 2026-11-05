@@ -15,8 +15,10 @@ import 'package:bible_track/features/profile/profile_screen.dart';
 import 'package:bible_track/features/profile/profile_sections.dart';
 import 'package:bible_track/features/profile/public_profile_screen.dart';
 import 'package:bible_track/features/rank/rank_cards.dart';
+import 'package:bible_track/features/rank/star_change_screen.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
+import 'package:bible_track/widgets/star_progress.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -117,6 +119,11 @@ void main() {
       expect(find.byType(ProfileStatsSection), findsOneWidget);
       expect(find.byType(CurrentRankCard), findsOneWidget);
       expect(find.byType(HighestRankCard), findsOneWidget);
+      expect(
+        find.text('${totalChaptersInBible + 245 - 136} stars'),
+        findsOneWidget,
+      );
+      expect(find.byType(StarChangeScreen), findsNothing);
       expect(find.text('Another reader'), findsOneWidget);
       expect(find.text('3/${allBooks.length}'), findsOneWidget);
       expect(find.text('245/$totalChaptersInBible'), findsOneWidget);
@@ -148,6 +155,52 @@ void main() {
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );
+
+  testWidgets('finite public ranks use four stars and localize the new tier', (
+    tester,
+  ) async {
+    cloud.load = (_) async => PublicProfile(
+      uid: 'other',
+      username: 'Another reader',
+      chaptersRead: 97,
+      maxStars: 117,
+      timesCompleted: 0,
+      chaptersCycle: 97,
+      completedBooks: 1,
+      updatedAt: null,
+    );
+    await tester.pumpWidget(
+      app(PublicProfileScreen(uid: 'other', cloud: cloud)),
+    );
+    await tester.pumpAndSettle();
+    expect(find.text('Apostle V'), findsOneWidget);
+    expect(find.text('Prophet V'), findsOneWidget);
+    final stars = find.byType(StarProgress);
+    expect(
+      find.descendant(of: stars, matching: find.byIcon(Icons.star_rounded)),
+      findsOneWidget,
+    );
+    expect(
+      find.descendant(
+        of: stars,
+        matching: find.byIcon(Icons.star_outline_rounded),
+      ),
+      findsNWidgets(3),
+    );
+    expect(
+      find.descendant(
+        of: stars,
+        matching: find.byType(LinearProgressIndicator),
+      ),
+      findsNothing,
+    );
+    expect(find.byType(StarChangeScreen), findsNothing);
+    settings.setLanguage('fil');
+    await tester.pumpAndSettle();
+    expect(find.text('Apostol V'), findsOneWidget);
+    expect(find.text('Propeta V'), findsOneWidget);
+    await tester.pumpWidget(const SizedBox.shrink());
+  });
 
   testWidgets('missing public doc shows unavailable in either language', (
     tester,
@@ -222,7 +275,7 @@ void main() {
     await tester.pumpAndSettle();
     await tester.tap(find.byKey(const ValueKey('leaderboard-other')));
     await tester.pumpAndSettle();
-    expect(find.text('Tree I'), findsNWidgets(2));
+    expect(find.text('Word of Life'), findsNWidgets(2));
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
@@ -254,7 +307,7 @@ void main() {
     await tester.tap(find.text('Another reader'));
     await tester.pumpAndSettle();
     expect(find.text('View profile'), findsOneWidget);
-    expect(find.text('Tree I'), findsOneWidget);
+    expect(find.text('Word of Life'), findsOneWidget);
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
