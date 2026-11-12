@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "retrieved_on": "2026-11-12",
+  "inputs": [
+    {
+      "file": "eng-web-c_usfm.zip",
+      "url": "https://ebible.org/Scriptures/eng-web-c_usfm.zip",
+      "bytes": 3091065,
+      "sha256": "add2ff69c0f07ed4059ee58a9dc391dc4ec77c0b8415dc38a865a1d9f1d3b9cb"
+    },
+    {
+      "file": "TagAngBiblia.zip",
+      "url": "https://www.crosswire.org/ftpmirror/pub/sword/packages/rawzip/TagAngBiblia.zip",
+      "bytes": 1489402,
+      "sha256": "f387b9b93938dba7aba9729d6942f893665c3bf207d77a7fd52421a6a580f874"
+    },
+    {
+      "file": "tagalog.json",
+      "url": "https://api.getbible.net/v2/tagalog.json",
+      "bytes": 9594856,
+      "sha256": "50f653ec89312b0c104788d6abda9693ea4eb69cf85c019d63a67090716ceef0"
+    }
+  ]
+}

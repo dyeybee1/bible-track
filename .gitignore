@@ -46,3 +46,8 @@ app.*.map.json
 
 *.jks
 key.properties
+
+# Downloaded public-domain Bible inputs (small license evidence stays tracked).
+/data/source/*.zip
+/data/source/tagalog.json
+**/__pycache__/

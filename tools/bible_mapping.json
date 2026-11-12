@@ -1,0 +1,934 @@
+{
+  "schema_version": 1,
+  "asset_numbering": "source",
+  "ranges": "inclusive",
+  "verse_number_formula": "app_verse_start + source_v - source_verses[0]",
+  "default_rule": "Use the same book, chapter and verse for books not listed. Source verse gaps stay gaps.",
+  "excluded": [
+    {
+      "book": "psa",
+      "source_chapter": 151
+    }
+  ],
+  "translations": {
+    "web": {
+      "missing_books": [],
+      "missing_book_fallback": null,
+      "books": {
+        "joe": {
+          "status": "verified",
+          "pending_chapters": [],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "joe",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  20
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "joe",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "joe",
+                "source_chapter": 2,
+                "source_verses": [
+                  28,
+                  32
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "4": [
+              {
+                "source_book": "joe",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ]
+          }
+        },
+        "mal": {
+          "status": "verified",
+          "pending_chapters": [],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "mal",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  14
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "mal",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  17
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "mal",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  18
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "mal",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  6
+                ],
+                "app_verse_start": 19
+              }
+            ]
+          }
+        },
+        "dan": {
+          "status": "verified",
+          "pending_chapters": [],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "dan",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "dan",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  49
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "dan",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  97
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "dan",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  3
+                ],
+                "app_verse_start": 98
+              }
+            ],
+            "4": [
+              {
+                "source_book": "dan",
+                "source_chapter": 4,
+                "source_verses": [
+                  4,
+                  37
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "5": [
+              {
+                "source_book": "dan",
+                "source_chapter": 5,
+                "source_verses": [
+                  1,
+                  31
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "6": [
+              {
+                "source_book": "dan",
+                "source_chapter": 6,
+                "source_verses": [
+                  1,
+                  28
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "7": [
+              {
+                "source_book": "dan",
+                "source_chapter": 7,
+                "source_verses": [
+                  1,
+                  28
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "8": [
+              {
+                "source_book": "dan",
+                "source_chapter": 8,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "9": [
+              {
+                "source_book": "dan",
+                "source_chapter": 9,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "10": [
+              {
+                "source_book": "dan",
+                "source_chapter": 10,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "11": [
+              {
+                "source_book": "dan",
+                "source_chapter": 11,
+                "source_verses": [
+                  1,
+                  45
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "12": [
+              {
+                "source_book": "dan",
+                "source_chapter": 12,
+                "source_verses": [
+                  1,
+                  13
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "13": [
+              {
+                "source_book": "dan",
+                "source_chapter": 13,
+                "source_verses": [
+                  1,
+                  64
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "14": [
+              {
+                "source_book": "dan",
+                "source_chapter": 14,
+                "source_verses": [
+                  1,
+                  42
+                ],
+                "app_verse_start": 1
+              }
+            ]
+          },
+          "evidence": [
+            "WEB DAG source chapters 3 and 4",
+            "https://ebible.org/engDRA/DAN03.htm",
+            "https://ebible.org/engDRA/DAN04.htm"
+          ]
+        },
+        "est": {
+          "status": "needs_review",
+          "pending_chapters": [
+            1,
+            3,
+            5,
+            8,
+            11,
+            12,
+            13,
+            15,
+            16
+          ],
+          "reason": "ESG embeds multiple Vulgate chapters inside single source verses. Numeric chapter/verse ranges cannot split them. Do not duplicate entire source verses or invent verse breaks.",
+          "chapters": {
+            "1": null,
+            "2": [
+              {
+                "source_book": "est",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  23
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": null,
+            "4": [
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  17
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "5": null,
+            "6": [
+              {
+                "source_book": "est",
+                "source_chapter": 6,
+                "source_verses": [
+                  1,
+                  14
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "7": [
+              {
+                "source_book": "est",
+                "source_chapter": 7,
+                "source_verses": [
+                  1,
+                  10
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "8": null,
+            "9": [
+              {
+                "source_book": "est",
+                "source_chapter": 9,
+                "source_verses": [
+                  1,
+                  32
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "10": [
+              {
+                "source_book": "est",
+                "source_chapter": 10,
+                "source_verses": [
+                  1,
+                  13
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": [
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  29,
+                  47
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "15": null,
+            "16": null
+          },
+          "review_locations": [
+            {
+              "source_chapter": 1,
+              "source_verses": [
+                1,
+                1
+              ],
+              "app_chapters": [
+                1,
+                11,
+                12
+              ],
+              "issue": "Dream, conspiracy and main narrative share one source verse; colophon at source 10:14 belongs to app 11:1."
+            },
+            {
+              "source_chapter": 3,
+              "source_verses": [
+                13,
+                13
+              ],
+              "app_chapters": [
+                3,
+                13
+              ],
+              "issue": "Main narrative and hostile letter share a verse; prayer at source 4:18-28 follows the letter in app 13."
+            },
+            {
+              "source_chapter": 5,
+              "source_verses": [
+                1,
+                2
+              ],
+              "app_chapters": [
+                5,
+                15
+              ],
+              "issue": "Expanded royal audience; decide exact non-duplicating text spans for app 5 and 15."
+            },
+            {
+              "source_chapter": 8,
+              "source_verses": [
+                13,
+                13
+              ],
+              "app_chapters": [
+                8,
+                16
+              ],
+              "issue": "Protective letter and main narrative share a verse. Actual source insertion is 8:13, not 8:12 as its introduction says."
+            }
+          ],
+          "unassigned_source_ranges": [
+            {
+              "chapter": 1,
+              "verses": [
+                1,
+                22
+              ]
+            },
+            {
+              "chapter": 3,
+              "verses": [
+                1,
+                15
+              ]
+            },
+            {
+              "chapter": 4,
+              "verses": [
+                18,
+                28
+              ]
+            },
+            {
+              "chapter": 5,
+              "verses": [
+                1,
+                14
+              ]
+            },
+            {
+              "chapter": 8,
+              "verses": [
+                1,
+                17
+              ]
+            },
+            {
+              "chapter": 10,
+              "verses": [
+                14,
+                14
+              ]
+            }
+          ]
+        }
+      }
+    },
+    "tl1905": {
+      "missing_books": [
+        "1ma",
+        "2ma",
+        "bar",
+        "jdt",
+        "sir",
+        "tob",
+        "wis"
+      ],
+      "missing_book_fallback": "web",
+      "books": {
+        "joe": {
+          "status": "verified",
+          "pending_chapters": [],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "joe",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  20
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "joe",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "joe",
+                "source_chapter": 2,
+                "source_verses": [
+                  28,
+                  32
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "4": [
+              {
+                "source_book": "joe",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ]
+          }
+        },
+        "mal": {
+          "status": "verified",
+          "pending_chapters": [],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "mal",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  14
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "mal",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  17
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "mal",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  18
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "mal",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  6
+                ],
+                "app_verse_start": 19
+              }
+            ]
+          }
+        },
+        "dan": {
+          "status": "needs_review",
+          "pending_chapters": [
+            3,
+            13,
+            14
+          ],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "dan",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "dan",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  49
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "dan",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  23
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "dan",
+                "source_chapter": 3,
+                "source_verses": [
+                  24,
+                  30
+                ],
+                "app_verse_start": 91
+              },
+              {
+                "source_book": "dan",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  3
+                ],
+                "app_verse_start": 98
+              }
+            ],
+            "4": [
+              {
+                "source_book": "dan",
+                "source_chapter": 4,
+                "source_verses": [
+                  4,
+                  37
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "5": [
+              {
+                "source_book": "dan",
+                "source_chapter": 5,
+                "source_verses": [
+                  1,
+                  31
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "6": [
+              {
+                "source_book": "dan",
+                "source_chapter": 6,
+                "source_verses": [
+                  1,
+                  28
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "7": [
+              {
+                "source_book": "dan",
+                "source_chapter": 7,
+                "source_verses": [
+                  1,
+                  28
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "8": [
+              {
+                "source_book": "dan",
+                "source_chapter": 8,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "9": [
+              {
+                "source_book": "dan",
+                "source_chapter": 9,
+                "source_verses": [
+                  1,
+                  27
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "10": [
+              {
+                "source_book": "dan",
+                "source_chapter": 10,
+                "source_verses": [
+                  1,
+                  21
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "11": [
+              {
+                "source_book": "dan",
+                "source_chapter": 11,
+                "source_verses": [
+                  1,
+                  45
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "12": [
+              {
+                "source_book": "dan",
+                "source_chapter": 12,
+                "source_verses": [
+                  1,
+                  13
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "13": null,
+            "14": null
+          },
+          "reason": "Tagalog has no Greek additions. Chapter 3 would lack app verses 24-90; chapters 13 and 14 are absent. Whole-chapter WEB fallback proposed; no mixed-language or fabricated verses.",
+          "missing_app_ranges": [
+            {
+              "chapter": 3,
+              "verses": [
+                24,
+                90
+              ]
+            },
+            {
+              "chapter": 13,
+              "verses": [
+                1,
+                64
+              ]
+            },
+            {
+              "chapter": 14,
+              "verses": [
+                1,
+                42
+              ]
+            }
+          ],
+          "proposed_fallback_chapters": [
+            3,
+            13,
+            14
+          ]
+        },
+        "est": {
+          "status": "needs_review",
+          "pending_chapters": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ],
+          "chapters": {
+            "1": [
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  22
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "2": [
+              {
+                "source_book": "est",
+                "source_chapter": 2,
+                "source_verses": [
+                  1,
+                  23
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "3": [
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  15
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "4": [
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  1,
+                  17
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "5": [
+              {
+                "source_book": "est",
+                "source_chapter": 5,
+                "source_verses": [
+                  1,
+                  14
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "6": [
+              {
+                "source_book": "est",
+                "source_chapter": 6,
+                "source_verses": [
+                  1,
+                  14
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "7": [
+              {
+                "source_book": "est",
+                "source_chapter": 7,
+                "source_verses": [
+                  1,
+                  10
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "8": [
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  1,
+                  17
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "9": [
+              {
+                "source_book": "est",
+                "source_chapter": 9,
+                "source_verses": [
+                  1,
+                  32
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "10": [
+              {
+                "source_book": "est",
+                "source_chapter": 10,
+                "source_verses": [
+                  1,
+                  3
+                ],
+                "app_verse_start": 1
+              }
+            ],
+            "11": null,
+            "12": null,
+            "13": null,
+            "14": null,
+            "15": null,
+            "16": null
+          },
+          "reason": "Tagalog Esther 10 stops at verse 3: it lacks the interpretation required by the app chapter-10 quiz. Chapters 11-16/additions are absent. Whole-chapter WEB fallback for 10-16 proposed, after WEB Esther is reviewed.",
+          "proposed_fallback_chapters": [
+            10,
+            11,
+            12,
+            13,
+            14,
+            15,
+            16
+          ]
+        }
+      }
+    }
+  }
+}

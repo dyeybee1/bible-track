@@ -1,0 +1,21 @@
+{
+  "translation": "Ang Dating Biblia (1905)",
+  "abbreviation": "tagalog",
+  "description": "Philippine Bible Society (1905)",
+  "lang": "tl",
+  "language": "Tagalog",
+  "direction": "LTR",
+  "encoding": "UTF-8",
+  "distribution_lcsh": "Bible. Tagalog.",
+  "distribution_version": "1.2",
+  "distribution_version_date": "2008-07-19",
+  "distribution_abbreviation": "tagalog",
+  "distribution_about": "Philippine Bible Society (1905)\\par in Tagalog (national language of the Philippines)\\par Bible is reconized by its title (Ang Biblia) or (Ang Dating Biblia)\\par This Bible is now Public Domain.",
+  "distribution_license": "Public Domain",
+  "distribution_sourcetype": "",
+  "distribution_source": "Typed from the Ang Biblia Tagalog by Richard & Dolores Long.",
+  "distribution_versification": "",
+  "distribution_history": {
+    "history_1.2": "Minor updates to .conf text"
+  }
+}

@@ -1,0 +1,10 @@
+# Deterministic Bible conversion outputs must survive a Windows checkout.
+assets/bible/**/*.json text eol=lf
+tools/bible_*.json text eol=lf
+tools/bible_*.md text eol=lf
+tools/bible_sources.py text eol=lf
+tools/convert_bible.py text eol=lf
+tools/download_bible_sources.py text eol=lf
+tools/test_bible_sources.py text eol=lf
+# Preserve these small source excerpts byte-for-byte, including original EOLs.
+data/source/licenses/* -text
