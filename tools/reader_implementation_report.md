@@ -1,5 +1,17 @@
 # Offline chapter reader implementation
 
+## Current UI revision (supersedes the original phase behavior below)
+
+The reader uses the app language exclusively and ignores the legacy `readerTranslation` preference. Unavailable Tagalog chapters show a centered, neutral message with a Settings language hint; they never load English text. WEB Esther 5 and 15 retain their pending state. Existing Scripture spans and every Esther **needs review** flag remain unchanged.
+
+Chapter taps now open a centered, scrollable dialog with scale/fade, a labeled close button, outside-tap/back dismissal, a separate question count, and distinct quiz/read actions. Read chapters retain read-again and confirmed removal actions. The reader has no translation chips or previous/next arrows. Its outlined font pill offers five locally persisted sizes (16, 18, 20, 22, 24), accessible 48px targets and disabled end stops; font changes preserve scroll position. Legacy font values normalize to the nearest step.
+
+A passing reader quiz (including its explanations and star screen), or a direct mark with no questions, removes the exact reader route and returns to the updated chapter list. Failure/cancellation returns to the origin. Unmarking and its loss screen leave the chapter list visible. Reader credit lines show source names only; Filipino attribution uses `Walang copyright, malayang gamitin`, and the WEB trademark note is retained.
+
+The analyzer cleanup was completed separately in commit `8b0d4fa`. The original phase descriptions and measurements below are historical.
+
+Validation for this revision: `flutter analyze` reports no issues; all **178 Flutter tests**, **13 conversion tests**, and **5 service-worker tests** pass. Deterministic generation and the release web build pass. The headless Chromium check passes with the HTTP cache disabled and network offline, serving both Bible languages, mapping, renderer and shell from **238 cached files**. No Firebase deployment is needed; no cloud, sync or Firestore rules changes were made.
+
 ## Phase 1 — data and boundary review
 
 `boundary_review.md` was created before the data layer. Original Esther boundary review flags remain in `bible_mapping.json`; literal source spans now populate the high-confidence Vulgate-style additions. WEB Esther 5 and 15 are explicitly text pending. No Scripture wording was invented. Whole-chapter Tagalog-to-WEB fallback is approved for Esther 10–16, Daniel 3/13/14 and the seven missing books.

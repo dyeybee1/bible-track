@@ -1,4 +1,5 @@
 import 'dart:async';
+import 'dart:io';
 import 'dart:typed_data';
 
 import 'package:bible_track/data/account_controller.dart';
@@ -71,6 +72,10 @@ class _Text extends BibleTextRepository {
   ) async {
     requests.add((bookId, chapter, translation));
     if (respond != null) return respond!(bookId, chapter, translation);
+    if (chapterTextAvailability(bookId, chapter, translation) ==
+        BibleTextAvailability.unavailable) {
+      throw BibleTextUnavailableException(bookId, chapter, translation);
+    }
     if (bookId == 'est' &&
         (chapter == 5 || chapter == 15) &&
         translation == BibleTranslation.web) {
@@ -149,6 +154,24 @@ void main() {
     quizRepo: quiz,
     bibleRepo: bible,
   );
+  Widget bookList() => Builder(
+    builder: (context) => Scaffold(
+      body: Center(
+        child: FilledButton(
+          onPressed: () => Navigator.of(
+            context,
+          ).push<void>(MaterialPageRoute(builder: (_) => chapters())),
+          child: const Text('Open Genesis'),
+        ),
+      ),
+    ),
+  );
+  Future<void> closeStars(WidgetTester tester) async {
+    await tester.pump(const Duration(seconds: 2));
+    await tester.tapAt(const Offset(200, 400));
+    await tester.pumpAndSettle();
+  }
+
   Future<void> openSheet(WidgetTester tester) async {
     await tester.tap(find.text('1'));
     await tester.pumpAndSettle();
@@ -161,7 +184,10 @@ void main() {
       await tester.pumpAndSettle();
       await openSheet(tester);
       expect(find.text('Read'), findsOneWidget);
-      expect(find.text('Take the quiz • 1 question'), findsOneWidget);
+      expect(find.text('Take the quiz'), findsOneWidget);
+      expect(find.text('1 question'), findsOneWidget);
+      expect(find.byType(Dialog), findsOneWidget);
+      expect(find.byType(BottomSheet), findsNothing);
       expect(find.text('Mark all'), findsNothing);
       expect(find.text('Mark up to here'), findsNothing);
       expect(progress.chaptersReadLifetime, 0);
@@ -214,6 +240,10 @@ void main() {
         tester.widget<StarChangeScreen>(find.byType(StarChangeScreen)).isGain,
         isFalse,
       );
+      await closeStars(tester);
+      expect(find.byType(ChapterScreen), findsOneWidget);
+      expect(find.byType(ChapterReaderScreen), findsNothing);
+      expect(find.text('0/50 chapters'), findsOneWidget);
     },
   );
 
@@ -232,47 +262,93 @@ void main() {
     expect(find.byType(StarChangeScreen), findsOneWidget);
   });
 
+  testWidgets('reader follows app language with no chips or chapter arrows', (
+    tester,
+  ) async {
+    await tester.pumpWidget(app(reader()));
+    await tester.pumpAndSettle();
+    expect(
+      find.textContaining('In the beginning', findRichText: true),
+      findsOneWidget,
+    );
+    expect(find.byType(ChoiceChip), findsNothing);
+    expect(find.byIcon(Icons.chevron_left), findsNothing);
+    expect(find.byIcon(Icons.chevron_right), findsNothing);
+    settings.setLanguage('fil');
+    await tester.pumpAndSettle();
+    expect(
+      find.textContaining('Nang pasimula', findRichText: true),
+      findsOneWidget,
+    );
+    expect(bible.requests.last.$3, BibleTranslation.tl1905);
+    expect(find.text(const Strings('fil').readerCredit(false)), findsOneWidget);
+    settings.setLanguage('en');
+    await tester.pumpAndSettle();
+    expect(bible.requests.last.$3, BibleTranslation.web);
+    expect(progress.chaptersReadLifetime, 0);
+  });
+
   testWidgets(
-    'reader switches translation, changes font and navigates without progress changes',
+    'five font steps disable at limits, persist and preserve scroll',
     (tester) async {
-      await tester.pumpWidget(const SizedBox.shrink());
+      bible.respond = (_, _, _) async => List.generate(
+        100,
+        (i) => Verse(
+          number: i + 1,
+          text: 'A long chapter with enough text to scroll through.',
+        ),
+      );
       await tester.pumpWidget(app(reader()));
       await tester.pumpAndSettle();
-      expect(
-        find.textContaining('In the beginning', findRichText: true),
-        findsOneWidget,
+      final smaller = find.byKey(const ValueKey('reader-font-smaller'));
+      final larger = find.byKey(const ValueKey('reader-font-larger'));
+      expect(tester.getSize(smaller).width, greaterThanOrEqualTo(48));
+      expect(tester.getSize(smaller).height, greaterThanOrEqualTo(48));
+      expect(find.byIcon(Icons.text_decrease), findsOneWidget);
+      expect(find.byIcon(Icons.text_increase), findsOneWidget);
+      await tester.drag(
+        find.byKey(const ValueKey('reader-verses')),
+        const Offset(0, -300),
       );
-      await tester.tap(find.byKey(const ValueKey('reader-translation-tl1905')));
       await tester.pumpAndSettle();
-      expect(
-        find.textContaining('Nang pasimula', findRichText: true),
-        findsOneWidget,
+      final scroll = tester.state<ScrollableState>(
+        find.descendant(
+          of: find.byKey(const ValueKey('reader-verses')),
+          matching: find.byType(Scrollable),
+        ),
       );
-      expect(settings.preferredBibleTranslation, BibleTranslation.tl1905);
-      await tester.tap(find.byKey(const ValueKey('reader-font-larger')));
-      await tester.pumpAndSettle();
-      expect(settings.readerFontSize, 22);
-      expect(
-        tester
-            .widget<Text>(find.byKey(const ValueKey('reader-verse-1')))
-            .style
-            ?.fontSize,
-        22,
-      );
-      await tester.tap(find.byTooltip('Next chapter'));
-      await tester.pumpAndSettle();
-      expect(find.text('Genesis • Chapter 2'), findsOneWidget);
-      expect(bible.requests.last.$2, 2);
+      final offset = scroll.position.pixels;
+      for (var i = 0; i < 2; i++) {
+        await tester.tap(larger);
+        await tester.pumpAndSettle();
+      }
+      expect(settings.readerFontSize, 24);
+      expect(tester.widget<IconButton>(larger).onPressed, isNull);
+      expect(scroll.position.pixels, closeTo(offset, 1));
+      final visited = <double>{settings.readerFontSize};
+      for (var i = 0; i < 4; i++) {
+        await tester.tap(smaller);
+        await tester.pumpAndSettle();
+        visited.add(settings.readerFontSize);
+      }
+      expect(visited, SettingsController.readerFontSizes.toSet());
+      expect(tester.widget<IconButton>(smaller).onPressed, isNull);
+      final restored = SettingsController(Hive.box('reader_s'));
+      expect(restored.readerFontSize, 16);
+      restored.dispose();
       expect(progress.chaptersReadLifetime, 0);
-      expect(progress.maxStarsEver, 0);
-      expect(find.byType(StarChangeScreen), findsNothing);
     },
   );
 
   testWidgets(
-    'reader quiz preserves explanations then explicit marking and star screen',
+    'reader quiz returns to marked chapter list after explanations and stars',
     (tester) async {
-      await tester.pumpWidget(app(reader()));
+      await tester.pumpWidget(app(bookList()));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Open Genesis'));
+      await tester.pumpAndSettle();
+      await openSheet(tester);
+      await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
       await tester.pumpAndSettle();
       await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
       await tester.pumpAndSettle();
@@ -289,7 +365,13 @@ void main() {
       await tester.pump(const Duration(seconds: 2));
       await tester.tapAt(const Offset(200, 400));
       await tester.pumpAndSettle();
-      expect(find.text('You have already read this'), findsOneWidget);
+      expect(find.byType(ChapterReaderScreen), findsNothing);
+      expect(find.byType(ChapterScreen), findsOneWidget);
+      expect(find.text('1/50 chapters'), findsOneWidget);
+      expect(find.bySemanticsLabel('Chapter 1, read'), findsOneWidget);
+      await tester.pageBack();
+      await tester.pumpAndSettle();
+      expect(find.text('Open Genesis'), findsOneWidget);
     },
   );
 
@@ -310,60 +392,58 @@ void main() {
   );
 
   for (final target in [
-    ('tob', 1),
-    ('est', 10),
+    for (final book in allBooks.where((b) => b.isDeutero)) (book.id, 1),
+    for (var ch = 10; ch <= 16; ch++) ('est', ch),
     ('dan', 3),
     ('dan', 13),
     ('dan', 14),
   ]) {
     testWidgets(
-      '${target.$1}/${target.$2}: Tagalog unavailable, whole English chapter and note',
+      '${target.$1}/${target.$2}: Tagalog unavailable, no English fallback, quiz works',
       (tester) async {
-        settings.setPreferredBibleTranslation(BibleTranslation.tl1905);
+        settings.setLanguage('fil');
         await tester.pumpWidget(
           app(reader(book: target.$1, chapter: target.$2)),
         );
         await tester.pumpAndSettle();
         expect(
-          find.text(const Strings('en').readerEnglishOnly),
+          find.text(const Strings('fil').readerTagalogUnavailable),
           findsOneWidget,
         );
         expect(
-          tester
-              .widget<ChoiceChip>(
-                find.byKey(const ValueKey('reader-translation-tl1905')),
-              )
-              .onSelected,
-          isNull,
+          find.text(const Strings('fil').readerChangeLanguageHint),
+          findsOneWidget,
         );
-        expect(bible.requests.single.$3, BibleTranslation.web);
         expect(
-          find.textContaining('Nang pasimula', findRichText: true),
+          find.byKey(const ValueKey('reader-text-unavailable')),
+          findsOneWidget,
+        );
+        expect(find.byType(ChoiceChip), findsNothing);
+        expect(bible.requests.single.$3, BibleTranslation.tl1905);
+        expect(
+          find.textContaining('In the beginning', findRichText: true),
           findsNothing,
         );
-        expect(settings.preferredBibleTranslation, BibleTranslation.tl1905);
+        await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+        await tester.pumpAndSettle();
+        expect(find.text('Aling sagot?'), findsOneWidget);
         expect(progress.chaptersReadLifetime, 0);
       },
     );
   }
 
-  for (final lang in ['en', 'fil']) {
-    testWidgets('$lang: pending text is friendly and quiz still works', (
+  for (final chapter in [5, 15]) {
+    testWidgets('WEB Esther $chapter pending text is friendly and quiz works', (
       tester,
     ) async {
-      settings.setLanguage(lang);
-      await tester.pumpWidget(app(reader(book: 'est', chapter: 15)));
+      await tester.pumpWidget(app(reader(book: 'est', chapter: chapter)));
       await tester.pumpAndSettle();
-      expect(find.text(Strings(lang).readerPending), findsOneWidget);
+      expect(find.text(const Strings('en').readerPending), findsOneWidget);
       expect(find.byKey(const ValueKey('reader-text-pending')), findsOneWidget);
       expect(find.byKey(const ValueKey('reader-text-error')), findsNothing);
-      expect(progress.chaptersReadLifetime, 0);
       await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
       await tester.pumpAndSettle();
-      expect(
-        find.text(lang == 'fil' ? 'Aling sagot?' : 'Which answer?'),
-        findsOneWidget,
-      );
+      expect(find.text('Which answer?'), findsOneWidget);
       expect(progress.chaptersReadLifetime, 0);
     });
   }
@@ -428,6 +508,109 @@ void main() {
     expect(find.text('Mga Pinagmulan ng Teksto'), findsOneWidget);
   });
 
+  test(
+    'no Filipino user-facing string contains the removed license wording',
+    () {
+      expect(
+        File('lib/l10n/strings.dart').readAsStringSync().toLowerCase(),
+        isNot(contains('dominyo')),
+      );
+    },
+  );
+
+  testWidgets('centered dialog dismisses with X, outside tap and system back', (
+    tester,
+  ) async {
+    await tester.pumpWidget(app(chapters()));
+    await tester.pumpAndSettle();
+    for (final dismissal in ['close', 'outside', 'back']) {
+      await openSheet(tester);
+      final dialog = find.byKey(const ValueKey('chapter-action-dialog'));
+      expect(find.byType(BottomSheet), findsNothing);
+      expect(tester.getCenter(dialog).dx, closeTo(400, 1));
+      expect(tester.getCenter(dialog).dy, closeTo(300, 1));
+      expect(find.byTooltip('Close'), findsOneWidget);
+      if (dismissal == 'close') {
+        await tester.tap(find.byKey(const ValueKey('chapter-dialog-close')));
+      } else if (dismissal == 'outside') {
+        await tester.tapAt(const Offset(4, 4));
+      } else {
+        await tester.binding.handlePopRoute();
+      }
+      await tester.pumpAndSettle();
+      expect(dialog, findsNothing);
+      expect(find.byType(ChapterScreen), findsOneWidget);
+      expect(progress.chaptersReadLifetime, 0);
+    }
+  });
+
+  for (final origin in ['reader', 'chapters']) {
+    for (final fail in [false, true]) {
+      testWidgets(
+        '$origin quiz ${fail ? 'failure' : 'cancellation'} returns to origin',
+        (tester) async {
+          await tester.pumpWidget(app(chapters()));
+          await tester.pumpAndSettle();
+          await openSheet(tester);
+          await tester.tap(
+            find.byKey(
+              ValueKey(
+                origin == 'reader'
+                    ? 'chapter-read-action'
+                    : 'chapter-quiz-action',
+              ),
+            ),
+          );
+          await tester.pumpAndSettle();
+          if (origin == 'reader') {
+            await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+            await tester.pumpAndSettle();
+          }
+          if (fail) {
+            await tester.tap(find.text('Wrong'));
+            await tester.pump();
+            await tester.tap(find.text('Check answers'));
+            await tester.pumpAndSettle();
+          }
+          await tester.tap(find.byIcon(Icons.close));
+          await tester.pumpAndSettle();
+          expect(
+            find.byType(ChapterReaderScreen),
+            origin == 'reader' ? findsOneWidget : findsNothing,
+          );
+          expect(
+            find.byType(ChapterScreen),
+            origin == 'chapters' ? findsOneWidget : findsNothing,
+          );
+          expect(progress.chaptersReadLifetime, 0);
+        },
+      );
+    }
+  }
+
+  testWidgets('reader direct mark returns to chapter list after stars', (
+    tester,
+  ) async {
+    quiz = _Quiz(hasQuestions: false);
+    await tester.pumpWidget(app(bookList()));
+    await tester.pumpAndSettle();
+    await tester.tap(find.text('Open Genesis'));
+    await tester.pumpAndSettle();
+    await openSheet(tester);
+    await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+    await tester.pumpAndSettle();
+    expect(find.byType(StarChangeScreen), findsOneWidget);
+    await closeStars(tester);
+    expect(find.byType(ChapterReaderScreen), findsNothing);
+    expect(find.byType(ChapterScreen), findsOneWidget);
+    expect(find.text('1/50 chapters'), findsOneWidget);
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+    expect(find.text('Open Genesis'), findsOneWidget);
+  });
+
   testWidgets('narrow dark reader and chapter sheet respect large text', (
     tester,
   ) async {
@@ -439,9 +622,26 @@ void main() {
     await tester.pumpAndSettle();
     await openSheet(tester);
     expect(tester.takeException(), isNull);
+    await tester.ensureVisible(
+      find.byKey(const ValueKey('chapter-read-action')),
+    );
     await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
     await tester.pumpAndSettle();
     expect(tester.takeException(), isNull);
     expect(find.byKey(const ValueKey('reader-quiz-action')), findsOneWidget);
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+    progress.markChapterRead(bookById('gen'), 1);
+    await tester.pumpAndSettle();
+    await openSheet(tester);
+    expect(find.text('Read again'), findsOneWidget);
+    await tester.ensureVisible(
+      find.byKey(const ValueKey('chapter-unmark-action')),
+    );
+    expect(tester.takeException(), isNull);
+    expect(
+      find.byKey(const ValueKey('chapter-unmark-action')).hitTestable(),
+      findsOneWidget,
+    );
   });
 }

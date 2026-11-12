@@ -1,6 +1,6 @@
 ## Current reader decisions after Phase 0 review
 
-The user approved chapter-level WEB fallback for Tagalog Esther 10–16, Daniel 3/13/14, and the seven missing books, and authorized continuing through Phases 1–3. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans now assign Esther 1, 3, 8, 11, 12, 13 and 16 while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; fallback approval is no longer awaiting a decision.
+The reader now follows the app language with no fallback, superseding the earlier approval. Tagalog Esther 10-16, Daniel 3/13/14 and the seven missing books show a friendly unavailable message and keep the quiz action. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans populate the reviewed mappings while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; its proposed fallback is not current reader behavior.
 
 ## Sources and public-domain evidence
 

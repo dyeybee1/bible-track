@@ -90,35 +90,35 @@ void main() {
     );
   });
 
-  test('availability and fallback use whole APP chapters', () async {
-    final repo = BibleTextRepository(bundle: _Files());
-    for (final book in allBooks.where((b) => b.isDeutero)) {
-      expect(availableTranslations(book.id, 1), [BibleTranslation.web]);
-    }
-    for (final chapter in [3, 13, 14]) {
-      expect(availableTranslations('dan', chapter), [BibleTranslation.web]);
-      final fallback = await repo.loadChapter(
-        'dan',
-        chapter,
-        BibleTranslation.tl1905,
-      );
-      final english = await repo.loadChapter(
-        'dan',
-        chapter,
-        BibleTranslation.web,
+  test('availability is per chapter and language with no fallback', () async {
+    final files = _Files();
+    final repo = BibleTextRepository(bundle: files);
+    final missing = [
+      for (final book in allBooks.where((b) => b.isDeutero))
+        for (var ch = 1; ch <= book.totalChapters; ch++) (book.id, ch),
+      for (var ch = 10; ch <= 16; ch++) ('est', ch),
+      for (final ch in [3, 13, 14]) ('dan', ch),
+    ];
+    for (final (book, chapter) in missing) {
+      expect(
+        chapterTextAvailability(book, chapter, BibleTranslation.tl1905),
+        BibleTextAvailability.unavailable,
       );
       expect(
-        fallback.map((v) => v.text),
-        orderedEquals(english.map((v) => v.text)),
+        availableTranslations(book, chapter),
+        book == 'est' && chapter == 15 ? isEmpty : [BibleTranslation.web],
+      );
+      await expectLater(
+        repo.loadChapter(book, chapter, BibleTranslation.tl1905),
+        throwsA(isA<BibleTextUnavailableException>()),
       );
     }
-    for (var chapter = 10; chapter <= 16; chapter++) {
-      expect(availableTranslations('est', chapter), [BibleTranslation.web]);
-    }
+    expect(files.reads, isEmpty, reason: 'No substitute English assets loaded');
+    expect(availableTranslations('est', 5), [BibleTranslation.tl1905]);
     expect(availableTranslations('est', 9), BibleTranslation.values);
     expect(availableTranslations('dan', 4), BibleTranslation.values);
     expect(
-      (await repo.loadChapter('bar', 6, BibleTranslation.tl1905)),
+      await repo.loadChapter('bar', 6, BibleTranslation.web),
       hasLength(73),
     );
   });
@@ -190,13 +190,23 @@ void main() {
     final pending = <String>{};
     for (final book in allBooks) {
       for (var ch = 1; ch <= book.totalChapters; ch++) {
-        for (final t in availableTranslations(book.id, ch)) {
+        for (final t in BibleTranslation.values) {
           try {
             final verses = await repo.loadChapter(book.id, ch, t);
             expect(verses, isNotEmpty, reason: '${book.id}/$ch/$t');
             expect(verses.every((v) => v.text.trim().isNotEmpty), isTrue);
           } on BibleTextPendingException {
             pending.add('${book.id}/$ch/${t.name}');
+            expect(
+              chapterTextAvailability(book.id, ch, t),
+              BibleTextAvailability.pending,
+            );
+          } on BibleTextUnavailableException {
+            expect(
+              chapterTextAvailability(book.id, ch, t),
+              BibleTextAvailability.unavailable,
+            );
+            expect(availableTranslations(book.id, ch), isNot(contains(t)));
           }
         }
       }
@@ -204,7 +214,7 @@ void main() {
     expect(pending, {'est/5/web', 'est/15/web'});
     await expectLater(
       repo.loadChapter('est', 15, BibleTranslation.tl1905),
-      throwsA(isA<BibleTextPendingException>()),
+      throwsA(isA<BibleTextUnavailableException>()),
     );
   });
 
@@ -226,26 +236,33 @@ void main() {
   );
 
   test(
-    'reader preferences default by language, persist locally and stay clamped',
+    'language ignores legacy translation and five font steps persist locally',
     () async {
       final box = await Hive.openBox(
         'reader_settings_test',
         bytes: Uint8List(0),
       );
+      await box.put('readerTranslation', 'web');
       final settings = SettingsController(box);
-      expect(settings.preferredBibleTranslation, BibleTranslation.tl1905);
+      expect(
+        translationForLanguage(settings.language),
+        BibleTranslation.tl1905,
+      );
       settings.setLanguage('en');
-      expect(settings.preferredBibleTranslation, BibleTranslation.web);
-      settings.setPreferredBibleTranslation(BibleTranslation.tl1905);
+      expect(translationForLanguage(settings.language), BibleTranslation.web);
+      await box.put('readerTranslation', 'tl1905');
       settings.setReaderFontSize(99);
       await box.flush();
       final restored = SettingsController(box);
-      expect(restored.preferredBibleTranslation, BibleTranslation.tl1905);
-      expect(restored.readerFontSize, 30);
+      expect(translationForLanguage(restored.language), BibleTranslation.web);
+      expect(SettingsController.readerFontSizes, hasLength(5));
+      expect(restored.readerFontSize, 24);
       restored.setReaderFontSize(double.nan);
-      expect(restored.readerFontSize, 30);
+      expect(restored.readerFontSize, 24);
       restored.setReaderFontSize(2);
-      expect(restored.readerFontSize, 14);
+      expect(restored.readerFontSize, 16);
+      restored.setReaderFontSize(21);
+      expect(restored.readerFontSize, isIn(SettingsController.readerFontSizes));
       settings.dispose();
       restored.dispose();
       await box.close();

@@ -1134,7 +1134,7 @@
         "tob",
         "wis"
       ],
-      "missing_book_fallback": "web",
+      "missing_book_fallback": null,
       "books": {
         "joe": {
           "status": "verified",
@@ -1235,7 +1235,7 @@
           }
         },
         "dan": {
-          "status": "chapter_fallback_approved",
+          "status": "unavailable_in_tagalog",
           "pending_chapters": [
             3,
             13,
@@ -1395,7 +1395,7 @@
             "13": null,
             "14": null
           },
-          "reason": "User approved whole-chapter WEB fallback; these source Tagalog chapters are never loaded as partial app chapters.",
+          "reason": "No Tagalog text for these app chapters. The reader follows app language without substituting English or loading partial Tagalog chapters.",
           "missing_app_ranges": [
             {
               "chapter": 3,
@@ -1419,14 +1419,14 @@
               ]
             }
           ],
-          "proposed_fallback_chapters": [
+          "unavailable_chapters": [
             3,
             13,
             14
           ]
         },
         "est": {
-          "status": "chapter_fallback_approved",
+          "status": "unavailable_in_tagalog",
           "pending_chapters": [
             10,
             11,
@@ -1554,8 +1554,8 @@
             "15": null,
             "16": null
           },
-          "reason": "User approved whole-chapter WEB fallback; these source Tagalog chapters are never loaded as partial app chapters.",
-          "proposed_fallback_chapters": [
+          "reason": "No Tagalog text for these app chapters. The reader follows app language without substituting English or loading partial Tagalog chapters.",
+          "unavailable_chapters": [
             10,
             11,
             12,
@@ -1585,7 +1585,8 @@
     }
   },
   "user_decisions": {
-    "chapter_fallback_approved": true,
+    "chapter_fallback_approved": false,
+    "reader_translation": "app_language_no_fallback",
     "unconfirmed_boundary_flags_must_remain": true
   }
 }

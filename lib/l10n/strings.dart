@@ -53,7 +53,7 @@ class Strings {
   String get chapterReadAgain => _t('Basahin ulit', 'Read again');
   String get chapterTakeQuiz => _t('Sagutan na', 'Take the quiz');
   String chapterQuestionCount(int count) =>
-      _t('$count tanong', count == 1 ? '1 question' : '$count questions');
+      _t('$count na tanong', count == 1 ? '1 question' : '$count questions');
   String get chapterMarkRead => _t('Markahan bilang nabasa', 'Mark as read');
   String get chapterRemoveRead => _t('Alisin sa nabasa', 'Remove from read');
   String get chapterChooseHint => _t(
@@ -64,8 +64,7 @@ class Strings {
     'Maaari mong balikan ang kabanata anumang oras.',
     'You can return to this chapter whenever you like.',
   );
-  String get readerTagalog => 'Tagalog (1905)';
-  String get readerEnglish => 'English (WEB)';
+  String get chapterClose => _t('Isara', 'Close');
   String get readerSmaller => _t('Paliitin ang teksto', 'Smaller text');
   String get readerLarger => _t('Palakihin ang teksto', 'Larger text');
   String get readerLoading => _t('Inihahanda ang teksto…', 'Loading chapter…');
@@ -78,9 +77,13 @@ class Strings {
     'Hindi pa available ang teksto ng chapter na ito. Maaari mong basahin ito sa sarili mong Bibliya.',
     'The text of this chapter is not available yet. You can read it in your own Bible.',
   );
-  String get readerEnglishOnly => _t(
-    'Wala pang pampublikong Tagalog na bersyon ng bahaging ito. English (WEB) ang ipinapakita.',
-    'A public-domain Tagalog version of this passage is not available. English (WEB) is shown.',
+  String get readerTagalogUnavailable => _t(
+    'Hindi pa available sa Tagalog ang kabanatang ito.',
+    'This chapter is not available in Tagalog yet.',
+  );
+  String get readerChangeLanguageHint => _t(
+    'Maaari mong palitan ang wika ng app sa Settings para mabasa ito sa English.',
+    'You can change the app language in Settings to read it in English.',
   );
   String get readerQuiz => _t('Sagutan ang Quiz', 'Take the quiz');
   String get readerAlreadyRead =>
@@ -93,11 +96,11 @@ class Strings {
     'World English Bible — Catholic edition',
   );
   String get webSourceBody => _t(
-    'Pampublikong dominyo. Mula sa eBible.org (eng-web-c), kasama ang pitong deuterocanonical na aklat at ang mga dagdag sa Ester at Daniel.',
+    'Walang copyright, malayang gamitin. Mula sa eBible.org (eng-web-c), kasama ang pitong deuterocanonical na aklat at ang mga dagdag sa Ester at Daniel.',
     'Public domain. From eBible.org (eng-web-c), including the seven deuterocanonical books and the additions to Esther and Daniel.',
   );
   String get tagalogSourceBody => _t(
-    'Ang Dating Biblia (1905), pampublikong dominyo. Mula sa CrossWire SWORD TagAngBiblia 1.2, na isinulat sa digital na anyo nina Richard at Dolores Long. Ang JSON export ng getBible ay itinugma sa orihinal na module.',
+    'Ang Dating Biblia (1905), Walang copyright, malayang gamitin. Mula sa CrossWire SWORD TagAngBiblia 1.2, na isinulat sa digital na anyo nina Richard at Dolores Long. Ang JSON export ng getBible ay itinugma sa orihinal na module.',
     'Ang Dating Biblia (1905), public domain. From CrossWire SWORD TagAngBiblia 1.2, digitized by Richard and Dolores Long. The getBible JSON export was checked against the original module.',
   );
   String get webTrademarkNote => _t(
@@ -105,18 +108,12 @@ class Strings {
     '“World English Bible” is a trademark of eBible.org. Source wording is preserved; notes and formatting are removed, and chapters and verses are arranged for the app.',
   );
   String get sourcesEnglishNote => _t(
-    'English (WEB) lamang ang pitong deuterocanonical na aklat, Ester 10–16, at Daniel 3, 13 at 14. Walang magkahalong wika sa isang kabanata. May ilang teksto sa Ester na inihahanda pa; maaari pa ring sagutan ang quiz.',
-    'The seven deuterocanonical books, Esther 10–16, and Daniel 3, 13 and 14 use English (WEB) only. Each chapter uses one language throughout. Some Esther text is still being prepared; its quiz remains available.',
+    'Wala pang Tagalog na teksto ang pitong deuterocanonical na aklat, Ester 10–16, at Daniel 3, 13 at 14. Palitan ang wika ng app sa Settings para mabasa ang mga ito sa English (WEB). May ilang teksto sa Ester na inihahanda pa; maaari pa ring sagutan ang quiz.',
+    'Tagalog text is unavailable for the seven deuterocanonical books, Esther 10–16, and Daniel 3, 13 and 14. Change the app language in Settings to read them in English (WEB). Some Esther text is still being prepared; its quiz remains available.',
   );
   String readerCredit(bool web) => web
-      ? _t(
-          'English (WEB) • eBible.org • Pampublikong dominyo',
-          'English (WEB) • eBible.org • Public domain',
-        )
-      : _t(
-          'Ang Dating Biblia (1905) • CrossWire • Pampublikong dominyo',
-          'Ang Dating Biblia (1905) • CrossWire • Public domain',
-        );
+      ? 'World English Bible (Catholic) - eBible.org'
+      : 'Ang Dating Biblia (1905) - CrossWire';
   String finishedBookMessage(String name) =>
       _t('Natapos mo na ang $name!', 'You finished $name!');
   String get markUpTo => _t('Markahan hanggang dito', 'Mark up to here');

@@ -18,6 +18,18 @@ class BibleTextPendingException implements Exception {
   final int chapter;
 }
 
+/// This chapter has no text in the requested language. Never substitutes text.
+class BibleTextUnavailableException implements Exception {
+  const BibleTextUnavailableException(
+    this.bookId,
+    this.chapter,
+    this.translation,
+  );
+  final String bookId;
+  final int chapter;
+  final BibleTranslation translation;
+}
+
 /// Loads one source-numbered book at a time, then applies the reviewed mapping
 /// exactly once. No progress, account, network or cloud dependencies.
 class BibleTextRepository {
@@ -67,10 +79,16 @@ class BibleTextRepository {
     int chapter,
     BibleTranslation translation,
   ) async {
-    final actual = translationForChapter(bookId, chapter, translation);
+    final availability = chapterTextAvailability(bookId, chapter, translation);
+    if (availability == BibleTextAvailability.unavailable) {
+      throw BibleTextUnavailableException(bookId, chapter, translation);
+    }
+    if (availability == BibleTextAvailability.pending) {
+      throw BibleTextPendingException(bookId, chapter);
+    }
     final mapping = await _loadMapping();
     final translations = mapping['translations'] as Map;
-    final rules = (translations[actual.name] as Map)['books'] as Map;
+    final rules = (translations[translation.name] as Map)['books'] as Map;
     final rule = rules[bookId] as Map?;
     if (rule != null && (rule['pending_chapters'] as List).contains(chapter)) {
       throw BibleTextPendingException(bookId, chapter);
@@ -83,7 +101,7 @@ class BibleTextRepository {
     }
     final result = <Verse>[];
     if (segments == null) {
-      final book = await _loadBook(actual, bookId);
+      final book = await _loadBook(translation, bookId);
       final raw = (book['chapters'] as Map)['$chapter'] as List;
       result.addAll(
         raw.map((v) => Verse(number: v['v'] as int, text: v['t'] as String)),
@@ -94,7 +112,7 @@ class BibleTextRepository {
         if (sourceBook != bookId) {
           throw const FormatException('Unexpected cross-book Bible mapping');
         }
-        final book = await _loadBook(actual, sourceBook);
+        final book = await _loadBook(translation, sourceBook);
         final raw =
             (book['chapters'] as Map)['${segment['source_chapter']}'] as List;
         final range = (segment['source_verses'] as List).cast<int>();

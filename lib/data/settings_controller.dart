@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:hive_ce/hive.dart';
 
 import '../l10n/strings.dart';
-import 'bible_translation.dart';
 
 /// When true the intro screen is shown on every app start (once per process).
 /// Flip to false for production.
@@ -26,14 +25,9 @@ class SettingsController extends ChangeNotifier {
 
     _introSeen = _box.get(_kIntroSeen) == true;
     _showOnLeaderboard = _box.get(_kShowOnLeaderboard) == true;
-    _preferredBibleTranslation = switch (_box.get(_kBibleTranslation)) {
-      'tl1905' => BibleTranslation.tl1905,
-      'web' => BibleTranslation.web,
-      _ => null,
-    };
     final fontSize = _box.get(_kReaderFontSize);
     if (fontSize is num && fontSize.isFinite) {
-      _readerFontSize = fontSize.toDouble().clamp(14, 30);
+      _readerFontSize = _fontStep(fontSize.toDouble());
     }
   }
 
@@ -43,8 +37,8 @@ class SettingsController extends ChangeNotifier {
   static const _kUsernameAt = 'usernameAt';
   static const _kIntroSeen = 'introSeen';
   static const _kShowOnLeaderboard = 'showOnLeaderboard';
-  static const _kBibleTranslation = 'readerTranslation';
   static const _kReaderFontSize = 'readerFontSize';
+  static const readerFontSizes = <double>[16, 18, 20, 22, 24];
 
   final Box<dynamic> _box;
 
@@ -54,24 +48,19 @@ class SettingsController extends ChangeNotifier {
   int _usernameAt = 0;
   bool _introSeen = false;
   bool _showOnLeaderboard = false;
-  BibleTranslation? _preferredBibleTranslation;
   double _readerFontSize = 20;
 
-  /// Device-only reader preferences; never included in account sync data.
-  BibleTranslation get preferredBibleTranslation =>
-      _preferredBibleTranslation ??
-      (_language == 'fil' ? BibleTranslation.tl1905 : BibleTranslation.web);
+  /// Device-only font preference; legacy readerTranslation values are ignored.
   double get readerFontSize => _readerFontSize;
+  int get readerFontSizeIndex => readerFontSizes.indexOf(_readerFontSize);
 
-  void setPreferredBibleTranslation(BibleTranslation value) {
-    _preferredBibleTranslation = value;
-    _box.put(_kBibleTranslation, value.name);
-    notifyListeners();
-  }
+  static double _fontStep(double value) => readerFontSizes.reduce(
+    (a, b) => (value - a).abs() <= (value - b).abs() ? a : b,
+  );
 
   void setReaderFontSize(double value) {
     if (!value.isFinite) return;
-    _readerFontSize = value.clamp(14, 30);
+    _readerFontSize = _fontStep(value);
     _box.put(_kReaderFontSize, _readerFontSize);
     notifyListeners();
   }

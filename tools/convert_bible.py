@@ -80,12 +80,12 @@ def report(translations: dict, inventories: dict, coverage: dict, assets: dict, 
     lines = [
         "# Bible text: Phase 0 source and numbering report", "",
         "Generated deterministically by `python tools/convert_bible.py`. Source retrieval: " + lock["retrieved_on"] + ".",
-        "Phase 0 source audit, updated with the user's approved chapter fallback and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.", "",
+        "Phase 0 source audit, updated with the user's app-language-only reader and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.", "",
         "## Result", "",
         f"Converted {sum(len(b) for b in translations.values())} compact UTF-8 book JSON files: 73 WEB and 66 Tagalog.",
         "Assets retain SOURCE chapter/verse numbers. `tools/bible_mapping.json` explicitly maps them to app chapters; the Phase 1 repository must apply it once.",
         "`mapped_chapter` in `tools/bible_sources.py` is the executable mapping reference. It renumbers Joel 3 to 1–5, Joel 4 to 1–21, Malachi 3 to 1–24, and Daniel 4 to 1–34.",
-        "Text-pending chapters raise a distinct exception for the reader's friendly pending state. Chapter fallback is approved; no languages are mixed inside a chapter.",
+        "Text-pending chapters raise a distinct exception for the reader's friendly pending state. The reader follows the app language without fallback; unavailable Tagalog chapters have a separate friendly state.",
         "Use `--app-output build/bible_app_preview` to inspect files with the verified mappings and renumbering already applied. Pending chapters are omitted from that review-only preview.", "",
         "| Translation | Source books | Source chapters | Non-empty source verse entries | Verified app chapters | Pending app chapters |",
         "|---|---:|---:|---:|---:|---:|",
@@ -104,11 +104,11 @@ def report(translations: dict, inventories: dict, coverage: dict, assets: dict, 
         row = [book, name, str(count)]
         for t, books in translations.items():
             if book not in books:
-                row += ["missing", "missing book; WEB fallback"]
+                row += ["missing", "missing book; unavailable in Tagalog"]
                 continue
             source_count = len(books[book]["chapters"])
             rule = json.loads((TOOLS / "bible_mapping.json").read_text(encoding="utf-8"))["translations"][t]["books"].get(book)
-            status = "approved chapter fallback to WEB" if rule and rule['status']=='chapter_fallback_approved' else "needs review (embedded additions)" if rule and rule["pending_chapters"] else "mapped" if rule else "same chapter count"
+            status = "unavailable app chapters in Tagalog" if rule and rule['status']=='unavailable_in_tagalog' else "needs review (embedded additions)" if rule and rule["pending_chapters"] else "mapped" if rule else "same chapter count"
             if book == "psa": status = "modern numbering matches quiz; no Psalm 151"
             if book == "sir": status = "51; prologue excluded; source verse gaps retained"
             if book == "bar": status = "6 includes Letter of Jeremiah"
@@ -202,7 +202,7 @@ def main() -> None:
                 path.write_bytes(encoded({"book": book, "chapters": chapters}, compact=True))
     digest = hashlib.sha256(b"".join(outputs[p] for p in sorted(outputs))).hexdigest()
     print(f"{'Verified' if args.check else 'Generated'} {len(asset_outputs)} source-numbered assets; output digest {digest}")
-    print("Needs review flags retained for Esther. WEB Esther 5/15 are text pending; Tagalog chapter fallback approved. See tools/boundary_review.md.")
+    print("Needs review flags retained for Esther. WEB Esther 5/15 are text pending; Tagalog unavailable chapters never fall back to English. See tools/boundary_review.md.")
 
 
 if __name__ == "__main__":

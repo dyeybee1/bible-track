@@ -12,7 +12,7 @@ def main():
       'Created before Phase 1 implementation, following the user’s Phase 0 review. Regenerate with `python tools/review_bible_boundaries.py`.',
       'Source: pinned public-domain WEB Catholic USFM, ID eng-web-c. Ranges use SOURCE coordinates; the chapter column uses APP coordinates. Word boundaries are whitespace-separated words, with punctuation retained. Verse counts count non-empty rendered entries, not the highest verse label.',
       'All earlier Esther **needs review** flags remain until the user confirms the boundaries. High-confidence literal spans can be displayed while that flag remains in this document and the mapping. Uncertain chapters are **text pending**, with no app Scripture text fabricated.',
-      'Tagalog fallback is APPROVED for Esther 10–16, Daniel 3/13/14 and the seven absent books. It always uses a whole WEB chapter.','',
+      'Reader policy now follows the app language without fallback. Tagalog is unavailable for Esther 10-16, Daniel 3/13/14 and the seven absent books; users may switch the app to English in Settings. Earlier fallback approval is superseded.', '',
       '| App chapter | Source ranges used | Rendered verses | First 12 English words | Last 12 English words | Status |',
       '|---|---|---:|---|---|---|']
     for book,ch in REQUESTED:

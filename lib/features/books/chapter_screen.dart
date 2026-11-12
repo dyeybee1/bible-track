@@ -61,63 +61,107 @@ class _ChapterScreenState extends State<ChapterScreen> {
       final read = widget.progress
           .chaptersRead(widget.book.id)
           .contains(chapter);
-      final action = await showModalBottomSheet<_ChapterAction>(
+      final action = await showDialog<_ChapterAction>(
         context: context,
-        useSafeArea: true,
-        isScrollControlled: true,
-        builder: (ctx) => SafeArea(
-          top: false,
-          child: SingleChildScrollView(
-            padding: const EdgeInsets.all(24),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                Text(
-                  s.bookChapter(widget.book.nameFor(s.lang), chapter),
-                  style: Theme.of(ctx).textTheme.titleLarge,
+        barrierDismissible: true,
+        builder: (ctx) => ScaleTransition(
+          scale: Tween<double>(begin: .96, end: 1).animate(
+            ModalRoute.of(
+              ctx,
+            )!.animation!.drive(CurveTween(curve: Curves.easeOutCubic)),
+          ),
+          child: Dialog(
+            key: const ValueKey('chapter-action-dialog'),
+            elevation: 8,
+            insetPadding: const EdgeInsets.symmetric(
+              horizontal: 16,
+              vertical: 24,
+            ),
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(24),
+            ),
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(maxWidth: 420),
+              child: SingleChildScrollView(
+                padding: const EdgeInsets.fromLTRB(24, 8, 24, 24),
+                child: Column(
+                  mainAxisSize: MainAxisSize.min,
+                  crossAxisAlignment: CrossAxisAlignment.stretch,
+                  children: [
+                    Align(
+                      alignment: Alignment.centerRight,
+                      child: IconButton(
+                        key: const ValueKey('chapter-dialog-close'),
+                        tooltip: s.chapterClose,
+                        icon: const Icon(Icons.close),
+                        onPressed: () => Navigator.pop(ctx),
+                      ),
+                    ),
+                    Semantics(
+                      namesRoute: true,
+                      child: Text(
+                        s.bookChapter(widget.book.nameFor(s.lang), chapter),
+                        style: Theme.of(ctx).textTheme.titleLarge,
+                      ),
+                    ),
+                    if (!read && questions.isNotEmpty) ...[
+                      const SizedBox(height: 8),
+                      Text(s.chapterQuestionCount(questions.length)),
+                    ],
+                    const SizedBox(height: 12),
+                    Text(read ? s.chapterReadHint : s.chapterChooseHint),
+                    const SizedBox(height: 24),
+                    if (!read) ...[
+                      FilledButton.icon(
+                        key: const ValueKey('chapter-quiz-action'),
+                        style: FilledButton.styleFrom(
+                          padding: const EdgeInsets.all(18),
+                        ),
+                        icon: Icon(
+                          questions.isEmpty ? Icons.check : Icons.quiz_outlined,
+                        ),
+                        label: Text(
+                          questions.isEmpty
+                              ? s.chapterMarkRead
+                              : s.chapterTakeQuiz,
+                          textAlign: TextAlign.center,
+                        ),
+                        onPressed: () =>
+                            Navigator.pop(ctx, _ChapterAction.quiz),
+                      ),
+                      const SizedBox(height: 12),
+                    ],
+                    OutlinedButton.icon(
+                      key: const ValueKey('chapter-read-action'),
+                      style: OutlinedButton.styleFrom(
+                        padding: const EdgeInsets.all(18),
+                      ),
+                      icon: const Icon(Icons.menu_book_outlined),
+                      label: Text(
+                        read ? s.chapterReadAgain : s.chapterRead,
+                        textAlign: TextAlign.center,
+                      ),
+                      onPressed: () => Navigator.pop(ctx, _ChapterAction.read),
+                    ),
+                    if (read) ...[
+                      const SizedBox(height: 12),
+                      FilledButton.tonalIcon(
+                        key: const ValueKey('chapter-unmark-action'),
+                        style: FilledButton.styleFrom(
+                          padding: const EdgeInsets.all(18),
+                        ),
+                        icon: const Icon(Icons.remove_circle_outline),
+                        label: Text(
+                          s.chapterRemoveRead,
+                          textAlign: TextAlign.center,
+                        ),
+                        onPressed: () =>
+                            Navigator.pop(ctx, _ChapterAction.unmark),
+                      ),
+                    ],
+                  ],
                 ),
-                const SizedBox(height: 12),
-                Text(read ? s.chapterReadHint : s.chapterChooseHint),
-                const SizedBox(height: 24),
-                FilledButton.icon(
-                  key: const ValueKey('chapter-read-action'),
-                  style: FilledButton.styleFrom(
-                    padding: const EdgeInsets.all(18),
-                  ),
-                  icon: const Icon(Icons.menu_book_outlined),
-                  label: Text(read ? s.chapterReadAgain : s.chapterRead),
-                  onPressed: () => Navigator.pop(ctx, _ChapterAction.read),
-                ),
-                const SizedBox(height: 12),
-                OutlinedButton.icon(
-                  key: ValueKey(
-                    read ? 'chapter-unmark-action' : 'chapter-quiz-action',
-                  ),
-                  style: OutlinedButton.styleFrom(
-                    padding: const EdgeInsets.all(18),
-                  ),
-                  icon: Icon(
-                    read
-                        ? Icons.remove_circle_outline
-                        : questions.isEmpty
-                        ? Icons.check
-                        : Icons.quiz_outlined,
-                  ),
-                  label: Text(
-                    read
-                        ? s.chapterRemoveRead
-                        : questions.isEmpty
-                        ? s.chapterMarkRead
-                        : '${s.chapterTakeQuiz} • ${s.chapterQuestionCount(questions.length)}',
-                    textAlign: TextAlign.center,
-                  ),
-                  onPressed: () => Navigator.pop(
-                    ctx,
-                    read ? _ChapterAction.unmark : _ChapterAction.quiz,
-                  ),
-                ),
-              ],
+              ),
             ),
           ),
         ),

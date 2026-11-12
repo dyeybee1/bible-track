@@ -1,14 +1,14 @@
 # Bible text: Phase 0 source and numbering report
 
 Generated deterministically by `python tools/convert_bible.py`. Source retrieval: 2026-11-12.
-Phase 0 source audit, updated with the user's approved chapter fallback and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.
+Phase 0 source audit, updated with the user's app-language-only reader and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.
 
 ## Result
 
 Converted 139 compact UTF-8 book JSON files: 73 WEB and 66 Tagalog.
 Assets retain SOURCE chapter/verse numbers. `tools/bible_mapping.json` explicitly maps them to app chapters; the Phase 1 repository must apply it once.
 `mapped_chapter` in `tools/bible_sources.py` is the executable mapping reference. It renumbers Joel 3 to 1–5, Joel 4 to 1–21, Malachi 3 to 1–24, and Daniel 4 to 1–34.
-Text-pending chapters raise a distinct exception for the reader's friendly pending state. Chapter fallback is approved; no languages are mixed inside a chapter.
+Text-pending chapters raise a distinct exception for the reader's friendly pending state. The reader follows the app language without fallback; unavailable Tagalog chapters have a separate friendly state.
 Use `--app-output build/bible_app_preview` to inspect files with the verified mappings and renumbering already applied. Pending chapters are omitted from that review-only preview.
 
 | Translation | Source books | Source chapters | Non-empty source verse entries | Verified app chapters | Pending app chapters |
@@ -42,24 +42,24 @@ Equal chapter counts alone do not prove verse-by-verse equivalence with every Ca
 | 2ch | 2 Chronicles | 36 | 36 | same chapter count | 36 | same chapter count |
 | ezr | Ezra | 10 | 10 | same chapter count | 10 | same chapter count |
 | neh | Nehemiah | 13 | 13 | same chapter count | 13 | same chapter count |
-| tob | Tobit | 14 | 14 | same chapter count | missing | missing book; WEB fallback |
-| jdt | Judith | 16 | 16 | same chapter count | missing | missing book; WEB fallback |
-| est | Esther | 16 | 10 | needs review (embedded additions) | 10 | approved chapter fallback to WEB |
-| 1ma | 1 Maccabees | 16 | 16 | same chapter count | missing | missing book; WEB fallback |
-| 2ma | 2 Maccabees | 15 | 15 | same chapter count | missing | missing book; WEB fallback |
+| tob | Tobit | 14 | 14 | same chapter count | missing | missing book; unavailable in Tagalog |
+| jdt | Judith | 16 | 16 | same chapter count | missing | missing book; unavailable in Tagalog |
+| est | Esther | 16 | 10 | needs review (embedded additions) | 10 | unavailable app chapters in Tagalog |
+| 1ma | 1 Maccabees | 16 | 16 | same chapter count | missing | missing book; unavailable in Tagalog |
+| 2ma | 2 Maccabees | 15 | 15 | same chapter count | missing | missing book; unavailable in Tagalog |
 | job | Job | 42 | 42 | same chapter count | 42 | same chapter count |
 | psa | Psalms | 150 | 150 | modern numbering matches quiz; no Psalm 151 | 150 | modern numbering matches quiz; no Psalm 151 |
 | pro | Proverbs | 31 | 31 | same chapter count | 31 | same chapter count |
 | ecc | Ecclesiastes | 12 | 12 | same chapter count | 12 | same chapter count |
 | sng | Song of Songs | 8 | 8 | same chapter count | 8 | same chapter count |
-| wis | Wisdom | 19 | 19 | same chapter count | missing | missing book; WEB fallback |
-| sir | Sirach | 51 | 51 | 51; prologue excluded; source verse gaps retained | missing | missing book; WEB fallback |
+| wis | Wisdom | 19 | 19 | same chapter count | missing | missing book; unavailable in Tagalog |
+| sir | Sirach | 51 | 51 | 51; prologue excluded; source verse gaps retained | missing | missing book; unavailable in Tagalog |
 | isa | Isaiah | 66 | 66 | same chapter count | 66 | same chapter count |
 | jer | Jeremiah | 52 | 52 | same chapter count | 52 | same chapter count |
 | lam | Lamentations | 5 | 5 | same chapter count | 5 | same chapter count |
-| bar | Baruch | 6 | 6 | 6 includes Letter of Jeremiah | missing | missing book; WEB fallback |
+| bar | Baruch | 6 | 6 | 6 includes Letter of Jeremiah | missing | missing book; unavailable in Tagalog |
 | eze | Ezekiel | 48 | 48 | same chapter count | 48 | same chapter count |
-| dan | Daniel | 14 | 14 | mapped | 12 | approved chapter fallback to WEB |
+| dan | Daniel | 14 | 14 | mapped | 12 | unavailable app chapters in Tagalog |
 | hos | Hosea | 14 | 14 | same chapter count | 14 | same chapter count |
 | joe | Joel | 4 | 3 | mapped | 3 | mapped |
 | amo | Amos | 9 | 9 | same chapter count | 9 | same chapter count |
@@ -102,7 +102,7 @@ Equal chapter counts alone do not prove verse-by-verse equivalence with every Ca
 
 ## Current reader decisions after Phase 0 review
 
-The user approved chapter-level WEB fallback for Tagalog Esther 10–16, Daniel 3/13/14, and the seven missing books, and authorized continuing through Phases 1–3. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans now assign Esther 1, 3, 8, 11, 12, 13 and 16 while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; fallback approval is no longer awaiting a decision.
+The reader now follows the app language with no fallback, superseding the earlier approval. Tagalog Esther 10-16, Daniel 3/13/14 and the seven missing books show a friendly unavailable message and keep the quiz action. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans populate the reviewed mappings while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; its proposed fallback is not current reader behavior.
 
 ## Sources and public-domain evidence
 
