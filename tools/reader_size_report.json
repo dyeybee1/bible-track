@@ -1,0 +1,47 @@
+{
+  "baseline_commit": "0568071",
+  "configuration": "Flutter 3.44.0 / Dart 3.12.0; release; identical pubspec.lock; default universal Android architectures; same local signing configuration",
+  "baseline": {
+    "APK": {
+      "bytes": 57259934,
+      "sha256": "c618eea4b0706fab46ff39c0cdb7accdda342d9d2ec3113d7a9d0986330d9f3d",
+      "bible_files": 0,
+      "bible_compressed_bytes": 0
+    },
+    "AAB": {
+      "bytes": 57447387,
+      "sha256": "6a8f93cbebb4a82ce6fdc9106f3f7ae1dca22ffd3c1a88bd0a18e05cca4e583a",
+      "bible_files": 0,
+      "bible_compressed_bytes": 0
+    },
+    "Web output": {
+      "bytes": 47885246,
+      "files": 116
+    }
+  },
+  "reader": {
+    "APK": {
+      "bytes": 60488344,
+      "sha256": "236ed6dacf1fc06864db6cfb70e42ca5ceebf68c7b35a11ca7db6fd99f7c4f84",
+      "bible_files": 140,
+      "bible_compressed_bytes": 2990406
+    },
+    "AAB": {
+      "bytes": 60686485,
+      "sha256": "f374ea04dce876b4c04bb3700abb926bfd864edb1eeaeecb1875108c669dbbaa",
+      "bible_files": 140,
+      "bible_compressed_bytes": 2990406
+    },
+    "Web output": {
+      "bytes": 58413160,
+      "files": 258
+    }
+  },
+  "added_bytes": {
+    "APK": 3228410,
+    "AAB": 3239098,
+    "Web output": 10527914
+  },
+  "verified_bible_assets_per_platform": 140,
+  "offline_cache_files": 238
+}

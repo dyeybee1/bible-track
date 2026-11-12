@@ -11,6 +11,7 @@ import hashlib
 import json
 from pathlib import Path
 import zipfile
+from reader_offline_manifest import offline_manifest
 
 from bible_sources import (
     ROOT, SOURCE, TOOLS, canon, checked_inputs, mapped_chapter,
@@ -162,6 +163,7 @@ def main() -> None:
     outputs = {ROOT / f"assets/bible/{t}/{book}.json": encoded(data, compact=True) for t, books in translations.items() for book, data in books.items()}
     asset_outputs = outputs.copy()
     outputs[ROOT / 'assets/bible/mapping.json'] = encoded(mapping, compact=True)
+    outputs[ROOT / 'web/reader_offline_assets.js'] = offline_manifest({p:data for p,data in outputs.items() if 'assets' in p.relative_to(ROOT).parts})
     outputs[TOOLS / "bible_source_inventory.json"] = encoded({"schema_version": 1, "numbering": "source", "translations": inventories, "coverage": coverage})
     with zipfile.ZipFile(SOURCE / "eng-web-c_usfm.zip") as archive:
         outputs[SOURCE / "licenses/eng-web-c-copr.htm"] = archive.read("copr.htm")

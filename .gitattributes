@@ -8,3 +8,5 @@ tools/download_bible_sources.py text eol=lf
 tools/test_bible_sources.py text eol=lf
 # Preserve these small source excerpts byte-for-byte, including original EOLs.
 data/source/licenses/* -text
+web/reader_offline_assets.js text eol=lf
+tools/boundary_review.md text eol=lf

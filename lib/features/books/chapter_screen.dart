@@ -42,11 +42,13 @@ class ChapterScreen extends StatefulWidget {
 
 class _ChapterScreenState extends State<ChapterScreen> {
   bool _quizLoading = false;
+  bool _chapterActionOpen = false;
   late final BibleTextRepository _bibleRepo =
       widget.bibleRepo ?? BibleTextRepository();
 
   Future<void> _chapterActions(int chapter) async {
-    if (_quizLoading) return;
+    if (_chapterActionOpen) return;
+    _chapterActionOpen = true;
     setState(() => _quizLoading = true);
     try {
       final questions = await widget.quizRepo.questionsFor(
@@ -54,6 +56,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
         chapter,
       );
       if (!mounted) return;
+      setState(() => _quizLoading = false);
       final s = context.s;
       final read = widget.progress
           .chaptersRead(widget.book.id)
@@ -164,6 +167,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
           break;
       }
     } finally {
+      _chapterActionOpen = false;
       if (mounted) setState(() => _quizLoading = false);
     }
   }
@@ -255,8 +259,11 @@ class _ChapterScreenState extends State<ChapterScreen> {
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [
-                    Row(
-                      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                    Wrap(
+                      alignment: WrapAlignment.spaceBetween,
+                      crossAxisAlignment: WrapCrossAlignment.center,
+                      spacing: 12,
+                      runSpacing: 8,
                       children: [
                         Text(
                           strings.chaptersCount(count, book.totalChapters),
@@ -264,6 +271,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                         ),
                         if (done)
                           Row(
+                            mainAxisSize: MainAxisSize.min,
                             children: [
                               Icon(Icons.check_circle, color: teal, size: 20),
                               const SizedBox(width: 6),
@@ -432,10 +440,12 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
               color: scheme.onSurfaceVariant,
             ),
             const SizedBox(width: 6),
-            Text(
-              strings.finishersLoading,
-              style: theme.textTheme.bodySmall?.copyWith(
-                color: scheme.onSurfaceVariant,
+            Expanded(
+              child: Text(
+                strings.finishersLoading,
+                style: theme.textTheme.bodySmall?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
               ),
             ),
           ],
@@ -454,10 +464,12 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
               color: scheme.onSurfaceVariant,
             ),
             const SizedBox(width: 6),
-            Text(
-              strings.finishersOffline,
-              style: theme.textTheme.bodySmall?.copyWith(
-                color: scheme.onSurfaceVariant,
+            Expanded(
+              child: Text(
+                strings.finishersOffline,
+                style: theme.textTheme.bodySmall?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
               ),
             ),
           ],
@@ -477,10 +489,12 @@ class _FinishersPreviewState extends State<_FinishersPreview> {
               color: scheme.onSurfaceVariant,
             ),
             const SizedBox(width: 6),
-            Text(
-              strings.finishersEmpty,
-              style: theme.textTheme.bodySmall?.copyWith(
-                color: scheme.onSurfaceVariant,
+            Expanded(
+              child: Text(
+                strings.finishersEmpty,
+                style: theme.textTheme.bodySmall?.copyWith(
+                  color: scheme.onSurfaceVariant,
+                ),
               ),
             ),
           ],
