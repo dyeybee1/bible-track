@@ -20,16 +20,12 @@ enum AuthPhase { loading, signedOut, needsUsername, ready }
 /// when the app opens, and when it comes back to the foreground.
 class AccountController extends ChangeNotifier with WidgetsBindingObserver {
   AccountController({
-    required AuthService auth,
-    required CloudRepository cloud,
-    required ProgressController progress,
-    required SettingsController settings,
-    required Box<dynamic> box,
-  }) : _auth = auth,
-       _cloud = cloud,
-       _progress = progress,
-       _settings = settings,
-       _box = box;
+    required this._auth,
+    required this._cloud,
+    required this._progress,
+    required this._settings,
+    required this._box,
+  });
 
   static const String _kUid = 'uid';
 

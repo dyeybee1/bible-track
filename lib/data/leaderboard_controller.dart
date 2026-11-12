@@ -38,12 +38,10 @@ enum LeaderboardStatus { loading, loaded, offline, empty }
 /// Uses [ChangeNotifier] to match the rest of the app's conventions.
 class LeaderboardController extends ChangeNotifier {
   LeaderboardController({
-    required CloudRepository cloud,
-    required String currentUid,
-    required int myChaptersRead,
-  })  : _cloud = cloud,
-        _currentUid = currentUid,
-        _myChaptersRead = myChaptersRead {
+    required this._cloud,
+    required this._currentUid,
+    required this._myChaptersRead,
+  }) {
     _subscribe();
   }
 

@@ -73,7 +73,7 @@ void main(List<String> args) {
       continue;
     }
 
-    final qs = raw as List<dynamic>;
+    final qs = raw;
     if (qs.length < 3 || qs.length > 5) {
       errors.add('Chapter $ch: has ${qs.length} question(s); expected 3–5.');
     }
@@ -105,7 +105,7 @@ void main(List<String> args) {
         if (en is! List || en.isEmpty) {
           errors.add('$label: "options.en" must be a non-empty list.');
         } else {
-          for (var i = 0; i < (en as List).length; i++) {
+          for (var i = 0; i < en.length; i++) {
             if (en[i] is! String || (en[i] as String).trim().isEmpty) {
               errors.add('$label: "options.en[$i]" is empty or not a string.');
             }
@@ -114,7 +114,7 @@ void main(List<String> args) {
         if (fil is! List || fil.isEmpty) {
           errors.add('$label: "options.fil" must be a non-empty list.');
         } else {
-          for (var i = 0; i < (fil as List).length; i++) {
+          for (var i = 0; i < fil.length; i++) {
             if (fil[i] is! String || (fil[i] as String).trim().isEmpty) {
               errors.add('$label: "options.fil[$i]" is empty or not a string.');
             }

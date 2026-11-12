@@ -25,7 +25,7 @@ class AppLogo extends StatelessWidget {
           height: size,
           fit: BoxFit.cover,
           cacheWidth: cacheSize,
-          errorBuilder: (_, __, ___) => SizedBox(
+          errorBuilder: (_, _, _) => SizedBox(
             width: size,
             height: size,
             child: DecoratedBox(

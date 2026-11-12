@@ -10,7 +10,7 @@ import 'sync_merge.dart';
 /// Storage layout (one Hive box called 'progress'):
 ///   key = book id (e.g. 'gen'), value = {'c': [chapters read], 't': last change}
 ///   key = '_timesCompleted',    value = how many times the whole Bible was finished
-///   key = '_completedEver',     value = List<String> of book ids ever fully read
+///   key = '_completedEver',     value = `List<String>` of book ids ever fully read
 ///   key = '_maxStarsEver',      value = highest lifetime chapter count
 ///
 /// A book that was cleared keeps an empty record (with its time), so the
