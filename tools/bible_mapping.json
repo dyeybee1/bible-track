@@ -1,5 +1,5 @@
 {
-  "schema_version": 1,
+  "schema_version": 2,
   "asset_numbering": "source",
   "ranges": "inclusive",
   "verse_number_formula": "app_verse_start + source_v - source_verses[0]",
@@ -290,19 +290,32 @@
         "est": {
           "status": "needs_review",
           "pending_chapters": [
-            1,
-            3,
             5,
-            8,
-            11,
-            12,
-            13,
-            15,
-            16
+            15
           ],
-          "reason": "ESG embeds multiple Vulgate chapters inside single source verses. Numeric chapter/verse ranges cannot split them. Do not duplicate entire source verses or invent verse breaks.",
+          "reason": "Standard Vulgate structure; literal source spans assigned only where confident. Original boundary review flags retained until user confirmation. Chapters 5 and 15 remain text pending because extracting the expanded audience and repeated instructions without missing or duplicating words is unresolved.",
           "chapters": {
-            "1": null,
+            "1": [
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 1,
+                "text_start": "And it came to pass after these thingsin"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  2,
+                  22
+                ],
+                "app_verse_start": 2
+              }
+            ],
             "2": [
               {
                 "source_book": "est",
@@ -314,7 +327,36 @@
                 "app_verse_start": 1
               }
             ],
-            "3": null,
+            "3": [
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  1,
+                  12
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 13,
+                "text_end": " [The following"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  14,
+                  15
+                ],
+                "app_verse_start": 14
+              }
+            ],
             "4": [
               {
                 "source_book": "est",
@@ -349,7 +391,36 @@
                 "app_verse_start": 1
               }
             ],
-            "8": null,
+            "8": [
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  1,
+                  12
+                ],
+                "app_verse_start": 1
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 13,
+                "text_start": "Let the copies be posted"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  14,
+                  17
+                ],
+                "app_verse_start": 14
+              }
+            ],
             "9": [
               {
                 "source_book": "est",
@@ -372,22 +443,593 @@
                 "app_verse_start": 1
               }
             ],
-            "11": null,
-            "12": null,
-            "13": null,
+            "11": [
+              {
+                "source_book": "est",
+                "source_chapter": 10,
+                "source_verses": [
+                  14,
+                  14
+                ],
+                "app_verse_start": 1,
+                "text_end": "]"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 2,
+                "text_start": "In the second year of the reign",
+                "text_end": "a Jew dwelling in the city Susa"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 3,
+                "text_start": "a Jew dwelling in the city Susa",
+                "text_end": "Now he was one of the captives"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 4,
+                "text_start": "Now he was one of the captives",
+                "text_end": "This was his dream:"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 5,
+                "text_start": "This was his dream:",
+                "text_end": "And, behold, two great serpents"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 6,
+                "text_start": "And, behold, two great serpents",
+                "text_end": "A great voice came from them."
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 7,
+                "text_start": "A great voice came from them.",
+                "text_end": "Behold, a day of darkness"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 8,
+                "text_start": "Behold, a day of darkness",
+                "text_end": "And all the righteous nation"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 9,
+                "text_start": "And all the righteous nation",
+                "text_end": "and cried to God."
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 10,
+                "text_start": "and cried to God.",
+                "text_end": "Light and the sun arose"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 11,
+                "text_start": "Light and the sun arose",
+                "text_end": "Mordecai, who had seen this vision"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 12,
+                "text_start": "Mordecai, who had seen this vision",
+                "text_end": "Mordecai rested quietly"
+              }
+            ],
+            "12": [
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 1,
+                "text_start": "Mordecai rested quietly",
+                "text_end": "He heard their conversation"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 2,
+                "text_start": "He heard their conversation",
+                "text_end": "The king examined the two chamberlains."
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 3,
+                "text_start": "The king examined the two chamberlains.",
+                "text_end": "The king wrote these things for a record."
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 4,
+                "text_start": "The king wrote these things for a record.",
+                "text_end": "The king commanded Mordecai to serve"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 5,
+                "text_start": "The king commanded Mordecai to serve",
+                "text_end": "But Haman the son of Hammedatha"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 1,
+                "source_verses": [
+                  1,
+                  1
+                ],
+                "app_verse_start": 6,
+                "text_start": "But Haman the son of Hammedatha",
+                "text_end": "]"
+              }
+            ],
+            "13": [
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 1,
+                "text_start": "The following is the copy of the letter.",
+                "text_end": "“Ruling over many nations"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 2,
+                "text_start": "“Ruling over many nations",
+                "text_end": "When I had asked my counselors"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 3,
+                "text_start": "When I had asked my counselors",
+                "text_end": "informed us that a certain ill-disposed people"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 4,
+                "text_start": "informed us that a certain ill-disposed people",
+                "text_end": "Having then conceived"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 5,
+                "text_start": "Having then conceived",
+                "text_end": "we instruct you in the letter"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 6,
+                "text_start": "we instruct you in the letter",
+                "text_end": "that the people aforetime and now"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 3,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 7,
+                "text_start": "that the people aforetime and now",
+                "text_end": "]"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  18,
+                  18
+                ],
+                "app_verse_start": 8,
+                "text_start": "He prayed"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  19,
+                  28
+                ],
+                "app_verse_start": 9
+              }
+            ],
             "14": [
               {
                 "source_book": "est",
                 "source_chapter": 4,
                 "source_verses": [
                   29,
-                  47
+                  46
                 ],
                 "app_verse_start": 1
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 4,
+                "source_verses": [
+                  47,
+                  47
+                ],
+                "app_verse_start": 19,
+                "text_end": "]"
               }
             ],
             "15": null,
-            "16": null
+            "16": [
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 1,
+                "text_start": "The great King Ahasuerus sends greetings",
+                "text_end": "Many who have been frequently honored"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 2,
+                "text_start": "Many who have been frequently honored",
+                "text_end": "and not only endeavor to hurt our subjects"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 3,
+                "text_start": "and not only endeavor to hurt our subjects",
+                "text_end": "They not only would utterly abolish gratitude"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 4,
+                "text_start": "They not only would utterly abolish gratitude",
+                "text_end": "And oftentimes evil exhortation"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 5,
+                "text_start": "And oftentimes evil exhortation",
+                "text_end": "while men, by the false sophistry"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 6,
+                "text_start": "while men, by the false sophistry",
+                "text_end": "And it is possible to see this"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 7,
+                "text_start": "And it is possible to see this",
+                "text_end": "It is right to take heed with regard to the future"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 8,
+                "text_start": "It is right to take heed with regard to the future",
+                "text_end": "adopting needful changes"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 9,
+                "text_start": "adopting needful changes",
+                "text_end": "For whereas Haman, a Macedonian"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 10,
+                "text_start": "For whereas Haman, a Macedonian",
+                "text_end": "obtained so large a share of our universal kindness"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 11,
+                "text_start": "obtained so large a share of our universal kindness",
+                "text_end": "he however, overcome by pride"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 12,
+                "text_start": "he however, overcome by pride",
+                "text_end": "having by various and subtle artifices"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 13,
+                "text_start": "having by various and subtle artifices",
+                "text_end": "For by these methods he thought"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 14,
+                "text_start": "For by these methods he thought",
+                "text_end": "But we find that the Jews"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 15,
+                "text_start": "But we find that the Jews",
+                "text_end": "and being the sons of the living God"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 16,
+                "text_start": "and being the sons of the living God",
+                "text_end": "You will therefore do well in refusing"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 17,
+                "text_start": "You will therefore do well in refusing",
+                "text_end": "because he who has done these things"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 18,
+                "text_start": "because he who has done these things",
+                "text_end": "We enjoin you then"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 19,
+                "text_start": "We enjoin you then",
+                "text_end": "and to strengthen them"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 20,
+                "text_start": "and to strengthen them",
+                "text_end": "For in the place of the destruction"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 21,
+                "text_start": "For in the place of the destruction",
+                "text_end": "Therefore you also, among your notable feasts"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 22,
+                "text_start": "Therefore you also, among your notable feasts",
+                "text_end": "that both now and hereafter"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 23,
+                "text_start": "that both now and hereafter",
+                "text_end": "And every city and province collectively"
+              },
+              {
+                "source_book": "est",
+                "source_chapter": 8,
+                "source_verses": [
+                  13,
+                  13
+                ],
+                "app_verse_start": 24,
+                "text_start": "And every city and province collectively",
+                "text_end": "]"
+              }
+            ]
           },
           "review_locations": [
             {
@@ -442,46 +1084,41 @@
           ],
           "unassigned_source_ranges": [
             {
-              "chapter": 1,
-              "verses": [
-                1,
-                22
-              ]
-            },
-            {
-              "chapter": 3,
-              "verses": [
-                1,
-                15
-              ]
-            },
-            {
-              "chapter": 4,
-              "verses": [
-                18,
-                28
-              ]
-            },
-            {
               "chapter": 5,
               "verses": [
                 1,
                 14
               ]
+            }
+          ],
+          "review_required_chapters": [
+            1,
+            3,
+            5,
+            8,
+            11,
+            12,
+            13,
+            15,
+            16
+          ],
+          "review_status": "needs review",
+          "unresolved_locations": [
+            {
+              "chapter": 4,
+              "verses": [
+                8,
+                8
+              ],
+              "issue": "App 15 repeats instructions already part of app 4; no unsupported duplicated passage."
             },
             {
-              "chapter": 8,
+              "chapter": 5,
               "verses": [
                 1,
-                17
-              ]
-            },
-            {
-              "chapter": 10,
-              "verses": [
-                14,
-                14
-              ]
+                2
+              ],
+              "issue": "Expanded audience occupies Hebrew 5:1-2 location; app 5 and 15 remain pending."
             }
           ]
         }
@@ -598,7 +1235,7 @@
           }
         },
         "dan": {
-          "status": "needs_review",
+          "status": "chapter_fallback_approved",
           "pending_chapters": [
             3,
             13,
@@ -758,7 +1395,7 @@
             "13": null,
             "14": null
           },
-          "reason": "Tagalog has no Greek additions. Chapter 3 would lack app verses 24-90; chapters 13 and 14 are absent. Whole-chapter WEB fallback proposed; no mixed-language or fabricated verses.",
+          "reason": "User approved whole-chapter WEB fallback; these source Tagalog chapters are never loaded as partial app chapters.",
           "missing_app_ranges": [
             {
               "chapter": 3,
@@ -789,7 +1426,7 @@
           ]
         },
         "est": {
-          "status": "needs_review",
+          "status": "chapter_fallback_approved",
           "pending_chapters": [
             10,
             11,
@@ -917,7 +1554,7 @@
             "15": null,
             "16": null
           },
-          "reason": "Tagalog Esther 10 stops at verse 3: it lacks the interpretation required by the app chapter-10 quiz. Chapters 11-16/additions are absent. Whole-chapter WEB fallback for 10-16 proposed, after WEB Esther is reviewed.",
+          "reason": "User approved whole-chapter WEB fallback; these source Tagalog chapters are never loaded as partial app chapters.",
           "proposed_fallback_chapters": [
             10,
             11,
@@ -928,7 +1565,27 @@
             16
           ]
         }
+      },
+      "unavailable_chapters": {
+        "est": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16
+        ],
+        "dan": [
+          3,
+          13,
+          14
+        ]
       }
     }
+  },
+  "user_decisions": {
+    "chapter_fallback_approved": true,
+    "unconfirmed_boundary_flags_must_remain": true
   }
 }

@@ -14154,17 +14154,10 @@
   },
   "coverage": {
     "web": {
-      "verified_app_chapters": 1325,
+      "verified_app_chapters": 1332,
       "pending_app_chapters": [
-        "est/1",
-        "est/3",
         "est/5",
-        "est/8",
-        "est/11",
-        "est/12",
-        "est/13",
-        "est/15",
-        "est/16"
+        "est/15"
       ],
       "missing_books": []
     },

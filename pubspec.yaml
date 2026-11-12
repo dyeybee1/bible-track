@@ -87,6 +87,9 @@ flutter:
   assets:
     - assets/icon/
     - assets/questions/
+    - assets/bible/
+    - assets/bible/web/
+    - assets/bible/tl1905/
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images

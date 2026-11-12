@@ -1,3 +1,7 @@
+## Current reader decisions after Phase 0 review
+
+The user approved chapter-level WEB fallback for Tagalog Esther 10–16, Daniel 3/13/14, and the seven missing books, and authorized continuing through Phases 1–3. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans now assign Esther 1, 3, 8, 11, 12, 13 and 16 while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; fallback approval is no longer awaiting a decision.
+
 ## Sources and public-domain evidence
 
 - **WEB**: eBible.org **World English Bible, Catholic edition**, ID `eng-web-c`, downloaded as [USFM](https://ebible.org/Scriptures/eng-web-c_usfm.zip). Its [edition page](https://ebible.org/find/details.php?id=eng-web-c) identifies the Catholic canon and Greek portions of Esther/Daniel. `data/source/licenses/eng-web-c-copr.htm` is the exact public-domain declaration included inside the archive. The declaration also identifies **World English Bible as a trademark of eBible.org** and asks that changed wording not be presented under that name. No wording corrections or paraphrases were made; only notes, markup, headings and redundant whitespace were removed.

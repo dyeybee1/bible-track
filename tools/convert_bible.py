@@ -79,12 +79,12 @@ def report(translations: dict, inventories: dict, coverage: dict, assets: dict, 
     lines = [
         "# Bible text: Phase 0 source and numbering report", "",
         "Generated deterministically by `python tools/convert_bible.py`. Source retrieval: " + lock["retrieved_on"] + ".",
-        "No app, UI, progress, sync, Firestore rules, or Firebase deployment changes. Stop here for review.", "",
+        "Phase 0 source audit, updated with the user's approved chapter fallback and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.", "",
         "## Result", "",
         f"Converted {sum(len(b) for b in translations.values())} compact UTF-8 book JSON files: 73 WEB and 66 Tagalog.",
         "Assets retain SOURCE chapter/verse numbers. `tools/bible_mapping.json` explicitly maps them to app chapters; the Phase 1 repository must apply it once.",
         "`mapped_chapter` in `tools/bible_sources.py` is the executable mapping reference. It renumbers Joel 3 to 1–5, Joel 4 to 1–21, Malachi 3 to 1–24, and Daniel 4 to 1–34.",
-        "Pending chapters raise an error rather than inventing text or silently displaying a partial chapter.",
+        "Text-pending chapters raise a distinct exception for the reader's friendly pending state. Chapter fallback is approved; no languages are mixed inside a chapter.",
         "Use `--app-output build/bible_app_preview` to inspect files with the verified mappings and renumbering already applied. Pending chapters are omitted from that review-only preview.", "",
         "| Translation | Source books | Source chapters | Non-empty source verse entries | Verified app chapters | Pending app chapters |",
         "|---|---:|---:|---:|---:|---:|",
@@ -107,7 +107,7 @@ def report(translations: dict, inventories: dict, coverage: dict, assets: dict, 
                 continue
             source_count = len(books[book]["chapters"])
             rule = json.loads((TOOLS / "bible_mapping.json").read_text(encoding="utf-8"))["translations"][t]["books"].get(book)
-            status = ("needs review (partial additions)" if t == "tl1905" else "needs review (embedded additions)") if rule and rule["pending_chapters"] else "mapped" if rule else "same chapter count"
+            status = "approved chapter fallback to WEB" if rule and rule['status']=='chapter_fallback_approved' else "needs review (embedded additions)" if rule and rule["pending_chapters"] else "mapped" if rule else "same chapter count"
             if book == "psa": status = "modern numbering matches quiz; no Psalm 151"
             if book == "sir": status = "51; prologue excluded; source verse gaps retained"
             if book == "bar": status = "6 includes Letter of Jeremiah"
@@ -161,6 +161,7 @@ def main() -> None:
     coverage = verify_mappings(translations, mapping)
     outputs = {ROOT / f"assets/bible/{t}/{book}.json": encoded(data, compact=True) for t, books in translations.items() for book, data in books.items()}
     asset_outputs = outputs.copy()
+    outputs[ROOT / 'assets/bible/mapping.json'] = encoded(mapping, compact=True)
     outputs[TOOLS / "bible_source_inventory.json"] = encoded({"schema_version": 1, "numbering": "source", "translations": inventories, "coverage": coverage})
     with zipfile.ZipFile(SOURCE / "eng-web-c_usfm.zip") as archive:
         outputs[SOURCE / "licenses/eng-web-c-copr.htm"] = archive.read("copr.htm")
@@ -199,7 +200,7 @@ def main() -> None:
                 path.write_bytes(encoded({"book": book, "chapters": chapters}, compact=True))
     digest = hashlib.sha256(b"".join(outputs[p] for p in sorted(outputs))).hexdigest()
     print(f"{'Verified' if args.check else 'Generated'} {len(asset_outputs)} source-numbered assets; output digest {digest}")
-    print("Needs review: WEB Esther arrangement; Tagalog additions require chapter-level English fallback. See tools/bible_text_report.md.")
+    print("Needs review flags retained for Esther. WEB Esther 5/15 are text pending; Tagalog chapter fallback approved. See tools/boundary_review.md.")
 
 
 if __name__ == "__main__":

@@ -1,19 +1,19 @@
 # Bible text: Phase 0 source and numbering report
 
 Generated deterministically by `python tools/convert_bible.py`. Source retrieval: 2026-11-12.
-No app, UI, progress, sync, Firestore rules, or Firebase deployment changes. Stop here for review.
+Phase 0 source audit, updated with the user's approved chapter fallback and literal-span mapping decisions. See `boundary_review.md` for the current boundary audit. No source Scripture wording is invented.
 
 ## Result
 
 Converted 139 compact UTF-8 book JSON files: 73 WEB and 66 Tagalog.
 Assets retain SOURCE chapter/verse numbers. `tools/bible_mapping.json` explicitly maps them to app chapters; the Phase 1 repository must apply it once.
 `mapped_chapter` in `tools/bible_sources.py` is the executable mapping reference. It renumbers Joel 3 to 1–5, Joel 4 to 1–21, Malachi 3 to 1–24, and Daniel 4 to 1–34.
-Pending chapters raise an error rather than inventing text or silently displaying a partial chapter.
+Text-pending chapters raise a distinct exception for the reader's friendly pending state. Chapter fallback is approved; no languages are mixed inside a chapter.
 Use `--app-output build/bible_app_preview` to inspect files with the verified mappings and renumbering already applied. Pending chapters are omitted from that review-only preview.
 
 | Translation | Source books | Source chapters | Non-empty source verse entries | Verified app chapters | Pending app chapters |
 |---|---:|---:|---:|---:|---:|
-| web | 73 | 1328 | 35379 | 1325 | 9 |
+| web | 73 | 1328 | 35379 | 1332 | 2 |
 | tl1905 | 66 | 1189 | 31102 | 1187 | 10 |
 
 JSON files occupy **10,451,144 bytes (10.45 MB; 9.97 MiB)** before packaging/compression.
@@ -44,7 +44,7 @@ Equal chapter counts alone do not prove verse-by-verse equivalence with every Ca
 | neh | Nehemiah | 13 | 13 | same chapter count | 13 | same chapter count |
 | tob | Tobit | 14 | 14 | same chapter count | missing | missing book; WEB fallback |
 | jdt | Judith | 16 | 16 | same chapter count | missing | missing book; WEB fallback |
-| est | Esther | 16 | 10 | needs review (embedded additions) | 10 | needs review (partial additions) |
+| est | Esther | 16 | 10 | needs review (embedded additions) | 10 | approved chapter fallback to WEB |
 | 1ma | 1 Maccabees | 16 | 16 | same chapter count | missing | missing book; WEB fallback |
 | 2ma | 2 Maccabees | 15 | 15 | same chapter count | missing | missing book; WEB fallback |
 | job | Job | 42 | 42 | same chapter count | 42 | same chapter count |
@@ -59,7 +59,7 @@ Equal chapter counts alone do not prove verse-by-verse equivalence with every Ca
 | lam | Lamentations | 5 | 5 | same chapter count | 5 | same chapter count |
 | bar | Baruch | 6 | 6 | 6 includes Letter of Jeremiah | missing | missing book; WEB fallback |
 | eze | Ezekiel | 48 | 48 | same chapter count | 48 | same chapter count |
-| dan | Daniel | 14 | 14 | mapped | 12 | needs review (partial additions) |
+| dan | Daniel | 14 | 14 | mapped | 12 | approved chapter fallback to WEB |
 | hos | Hosea | 14 | 14 | same chapter count | 14 | same chapter count |
 | joe | Joel | 4 | 3 | mapped | 3 | mapped |
 | amo | Amos | 9 | 9 | same chapter count | 9 | same chapter count |
@@ -99,6 +99,10 @@ Equal chapter counts alone do not prove verse-by-verse equivalence with every Ca
 | 3jn | 3 John | 1 | 1 | same chapter count | 1 | same chapter count |
 | jud | Jude | 1 | 1 | same chapter count | 1 | same chapter count |
 | rev | Revelation | 22 | 22 | same chapter count | 22 | same chapter count |
+
+## Current reader decisions after Phase 0 review
+
+The user approved chapter-level WEB fallback for Tagalog Esther 10–16, Daniel 3/13/14, and the seven missing books, and authorized continuing through Phases 1–3. `tools/boundary_review.md` is the current boundary audit. High-confidence literal spans now assign Esther 1, 3, 8, 11, 12, 13 and 16 while retaining every original Esther **needs review** flag in `review_required_chapters`. WEB Esther 5 and 15 remain **text pending**. The earlier Phase 0 assessment below is retained as historical evidence; fallback approval is no longer awaiting a decision.
 
 ## Sources and public-domain evidence
 
@@ -192,7 +196,7 @@ This is a diagnostic chapter-numbering check, not a claim that the quiz is an ex
 
 ## Pending chapter inventory
 
-- **web**: `est/1`, `est/3`, `est/5`, `est/8`, `est/11`, `est/12`, `est/13`, `est/15`, `est/16`.
+- **web**: `est/5`, `est/15`.
 - **tl1905**: `est/10`, `est/11`, `est/12`, `est/13`, `est/14`, `est/15`, `est/16`, `dan/3`, `dan/13`, `dan/14`.
 
 Missing TL1905 books: `1ma`, `2ma`, `bar`, `jdt`, `sir`, `tob`, `wis`.

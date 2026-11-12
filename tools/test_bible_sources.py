@@ -92,7 +92,7 @@ class BibleSourcesTest(unittest.TestCase):
         self.assertEqual(len(self.chapter("tl1905", "dan", 4)), 34)
 
     def test_pending_and_missing_chapters_never_silently_load_partial_text(self):
-        for t, book, ch in [("web", "est", 1), ("web", "est", 11), ("tl1905", "est", 10), ("tl1905", "est", 16), ("tl1905", "dan", 3), ("tl1905", "dan", 13)]:
+        for t, book, ch in [("web", "est", 5), ("web", "est", 15), ("tl1905", "est", 10), ("tl1905", "est", 16), ("tl1905", "dan", 3), ("tl1905", "dan", 13)]:
             with self.subTest(translation=t, book=book, chapter=ch):
                 with self.assertRaisesRegex(ValueError, "Needs review"):
                     self.chapter(t, book, ch)
@@ -116,10 +116,31 @@ class BibleSourcesTest(unittest.TestCase):
 
     def test_every_app_chapter_is_verified_or_explicitly_pending_or_missing(self):
         coverage = verify_mappings(self.translations, self.mapping)
-        self.assertEqual(len(coverage["web"]["pending_app_chapters"]), 9)
+        self.assertEqual(len(coverage["web"]["pending_app_chapters"]), 2)
         self.assertEqual(len(coverage["tl1905"]["pending_app_chapters"]), 10)
         self.assertEqual(set(coverage["tl1905"]["missing_books"]), DEUTERO)
-        self.assertEqual(coverage["web"]["verified_app_chapters"] + 9, sum(c for _, _, c in canon()))
+        self.assertEqual(coverage["web"]["verified_app_chapters"] + 2, sum(c for _, _, c in canon()))
+
+    def test_esther_literal_spans_keep_flags_and_never_overlap(self):
+        rule = self.mapping['translations']['web']['books']['est']
+        self.assertEqual(rule['review_required_chapters'], [1,3,5,8,11,12,13,15,16])
+        self.assertEqual(rule['review_status'], 'needs review')
+        used = {}
+        for ch, segments in rule['chapters'].items():
+            if int(ch) in rule['pending_chapters']:
+                continue
+            for segment in segments:
+                lo,hi=segment['source_verses']
+                for v in self.web['est']['chapters'][str(segment['source_chapter'])]:
+                    if not lo<=v['v']<=hi:continue
+                    text=v['t'];key=(segment['source_chapter'],v['v'])
+                    start=text.index(segment['text_start']) if 'text_start' in segment else 0
+                    end=text.index(segment['text_end']) if 'text_end' in segment else len(text)
+                    for old_start,old_end in used.get(key,[]):
+                        self.assertTrue(end<=old_start or start>=old_end, (key,ch))
+                    used.setdefault(key,[]).append((start,end))
+        for chapter,count in [(11,12),(12,6),(13,18),(16,24)]:
+            self.assertEqual(len(mapped_chapter(self.web,self.mapping,'web','est',chapter)),count)
 
     def test_license_evidence_came_from_downloaded_sources(self):
         conf = (SOURCE / "licenses/tagangbiblia.conf").read_text(encoding="utf-8")

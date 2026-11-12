@@ -240,7 +240,23 @@ def mapped_chapter(books: dict, mapping: dict, translation: str, book: str, chap
             if not selected or selected[0]["v"] != low or selected[-1]["v"] != high:
                 raise ValueError("Mapping endpoints absent from source")
             for verse in selected:
-                result.append({"v": segment["app_verse_start"] + verse["v"] - low, "t": verse["t"]})
+                text = verse["t"]
+                if "text_start" in segment or "text_end" in segment:
+                    if low != high:
+                        raise ValueError("Text spans must select exactly one source verse")
+                    start = 0
+                    end = len(text)
+                    for key in ("text_start", "text_end"):
+                        if key in segment and text.count(segment[key]) != 1:
+                            raise ValueError(f"Non-unique span anchor: {segment[key]}")
+                    if "text_start" in segment:
+                        start = text.index(segment["text_start"])
+                    if "text_end" in segment:
+                        end = text.index(segment["text_end"])
+                    if start >= end:
+                        raise ValueError("Invalid text span")
+                    text = text[start:end].strip()
+                result.append({"v": segment["app_verse_start"] + verse["v"] - low, "t": text})
         if not result or result[0]["v"] != 1 or len({v['v'] for v in result}) != len(result):
             raise ValueError("Invalid mapped verse numbers")
         return result
