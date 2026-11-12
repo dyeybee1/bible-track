@@ -3,6 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 
 import '../../data/account_controller.dart';
+import '../../data/bible_text_repository.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
@@ -12,7 +13,10 @@ import '../../theme/app_theme.dart';
 import '../../data/rank_system.dart';
 import '../rank/star_change_screen.dart';
 import 'quiz_screen.dart';
+import 'chapter_reader_screen.dart';
 import '../profile/profile_preview_sheet.dart';
+
+enum _ChapterAction { read, quiz, unmark }
 
 class ChapterScreen extends StatefulWidget {
   const ChapterScreen({
@@ -22,6 +26,7 @@ class ChapterScreen extends StatefulWidget {
     required this.account,
     required this.cloud,
     required this.quizRepo,
+    this.bibleRepo,
   });
 
   final Book book;
@@ -29,6 +34,7 @@ class ChapterScreen extends StatefulWidget {
   final AccountController account;
   final CloudRepository cloud;
   final QuizRepository quizRepo;
+  final BibleTextRepository? bibleRepo;
 
   @override
   State<ChapterScreen> createState() => _ChapterScreenState();
@@ -36,6 +42,131 @@ class ChapterScreen extends StatefulWidget {
 
 class _ChapterScreenState extends State<ChapterScreen> {
   bool _quizLoading = false;
+  late final BibleTextRepository _bibleRepo =
+      widget.bibleRepo ?? BibleTextRepository();
+
+  Future<void> _chapterActions(int chapter) async {
+    if (_quizLoading) return;
+    setState(() => _quizLoading = true);
+    try {
+      final questions = await widget.quizRepo.questionsFor(
+        widget.book.id,
+        chapter,
+      );
+      if (!mounted) return;
+      final s = context.s;
+      final read = widget.progress
+          .chaptersRead(widget.book.id)
+          .contains(chapter);
+      final action = await showModalBottomSheet<_ChapterAction>(
+        context: context,
+        useSafeArea: true,
+        isScrollControlled: true,
+        builder: (ctx) => SafeArea(
+          top: false,
+          child: SingleChildScrollView(
+            padding: const EdgeInsets.all(24),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Text(
+                  s.bookChapter(widget.book.nameFor(s.lang), chapter),
+                  style: Theme.of(ctx).textTheme.titleLarge,
+                ),
+                const SizedBox(height: 12),
+                Text(read ? s.chapterReadHint : s.chapterChooseHint),
+                const SizedBox(height: 24),
+                FilledButton.icon(
+                  key: const ValueKey('chapter-read-action'),
+                  style: FilledButton.styleFrom(
+                    padding: const EdgeInsets.all(18),
+                  ),
+                  icon: const Icon(Icons.menu_book_outlined),
+                  label: Text(read ? s.chapterReadAgain : s.chapterRead),
+                  onPressed: () => Navigator.pop(ctx, _ChapterAction.read),
+                ),
+                const SizedBox(height: 12),
+                OutlinedButton.icon(
+                  key: ValueKey(
+                    read ? 'chapter-unmark-action' : 'chapter-quiz-action',
+                  ),
+                  style: OutlinedButton.styleFrom(
+                    padding: const EdgeInsets.all(18),
+                  ),
+                  icon: Icon(
+                    read
+                        ? Icons.remove_circle_outline
+                        : questions.isEmpty
+                        ? Icons.check
+                        : Icons.quiz_outlined,
+                  ),
+                  label: Text(
+                    read
+                        ? s.chapterRemoveRead
+                        : questions.isEmpty
+                        ? s.chapterMarkRead
+                        : '${s.chapterTakeQuiz} • ${s.chapterQuestionCount(questions.length)}',
+                    textAlign: TextAlign.center,
+                  ),
+                  onPressed: () => Navigator.pop(
+                    ctx,
+                    read ? _ChapterAction.unmark : _ChapterAction.quiz,
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      );
+      if (!mounted) return;
+      switch (action) {
+        case _ChapterAction.read:
+          await Navigator.of(context).push<void>(
+            MaterialPageRoute(
+              builder: (_) => ChapterReaderScreen(
+                book: widget.book,
+                chapter: chapter,
+                progress: widget.progress,
+                quizRepo: widget.quizRepo,
+                bibleRepo: _bibleRepo,
+              ),
+            ),
+          );
+        case _ChapterAction.quiz:
+          if (!widget.progress.chaptersRead(widget.book.id).contains(chapter)) {
+            await showQuiz(
+              context: context,
+              book: widget.book,
+              chapter: chapter,
+              quizRepo: widget.quizRepo,
+              progress: widget.progress,
+              lang: context.s.lang,
+            );
+          }
+        case _ChapterAction.unmark:
+          final ok = await _confirmUnmark();
+          if (ok != true ||
+              !mounted ||
+              !widget.progress.chaptersRead(widget.book.id).contains(chapter)) {
+            return;
+          }
+          final before = rankForStars(widget.progress.chaptersReadLifetime);
+          widget.progress.toggleChapter(widget.book, chapter);
+          await pushStarChangeScreen(
+            context: context,
+            before: before,
+            after: rankForStars(widget.progress.chaptersReadLifetime),
+            maxStarsEver: widget.progress.maxStarsEver,
+            isGain: false,
+          );
+        case null:
+          break;
+      }
+    } finally {
+      if (mounted) setState(() => _quizLoading = false);
+    }
+  }
 
   Future<void> _confirmClear() async {
     final strings = context.s;
@@ -219,49 +350,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                       number: chapter,
                       read: isRead,
                       loading: _quizLoading,
-                      onTap: () async {
-                        if (isRead) {
-                          // Already read — confirm, then un-mark + show star screen.
-                          // Capture navigator before the async gap.
-                          final nav = Navigator.of(context);
-                          final ok = await _confirmUnmark();
-                          if (ok != true || !mounted) return;
-                          final starsBefore = widget.progress.chaptersReadLifetime;
-                          final rankBefore = rankForStars(starsBefore);
-                          widget.progress.toggleChapter(book, chapter);
-                          final starsAfter = widget.progress.chaptersReadLifetime;
-                          final rankAfter = rankForStars(starsAfter);
-                          await nav.push<void>(
-                            PageRouteBuilder<void>(
-                              opaque: false,
-                              transitionDuration: const Duration(milliseconds: 300),
-                              pageBuilder: (ctx, anim, secondAnim) => StarChangeScreen(
-                                before: rankBefore,
-                                after: rankAfter,
-                                maxStarsEver: widget.progress.maxStarsEver,
-                                isGain: false,
-                              ),
-                              transitionsBuilder: (ctx, animation, secondAnim, child) =>
-                                  FadeTransition(opacity: animation, child: child),
-                            ),
-                          );
-                        } else {
-                          // Unread — gate through the quiz.
-                          setState(() => _quizLoading = true);
-                          final lang = context.s.lang;
-                          await showQuiz(
-                            context: context,
-                            book: book,
-                            chapter: chapter,
-                            quizRepo: widget.quizRepo,
-                            progress: widget.progress,
-                            lang: lang,
-                          );
-                          if (mounted) setState(() => _quizLoading = false);
-                          // markChapterRead is called inside showQuiz on pass;
-                          // nothing to do on dismiss.
-                        }
-                      },
+                      onTap: () => _chapterActions(chapter),
                     );
                   },
                 ),

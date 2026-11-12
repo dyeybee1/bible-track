@@ -47,6 +47,76 @@ class Strings {
   String chapterCountLabel(int n) =>
       _t('$n kabanata', n == 1 ? '1 chapter' : '$n chapters');
   String get finishedLabel => _t('Tapos na', 'Finished');
+  String bookChapter(String book, int chapter) =>
+      _t('$book • Kabanata $chapter', '$book • Chapter $chapter');
+  String get chapterRead => _t('Basahin', 'Read');
+  String get chapterReadAgain => _t('Basahin ulit', 'Read again');
+  String get chapterTakeQuiz => _t('Sagutan na', 'Take the quiz');
+  String chapterQuestionCount(int count) =>
+      _t('$count tanong', count == 1 ? '1 question' : '$count questions');
+  String get chapterMarkRead => _t('Markahan bilang nabasa', 'Mark as read');
+  String get chapterRemoveRead => _t('Alisin sa nabasa', 'Remove from read');
+  String get chapterChooseHint => _t(
+    'Magbasa muna, o sagutan ang quiz kapag handa ka na. Sa sarili mong bilis.',
+    'Read first, or take the quiz when you feel ready. Go at your own pace.',
+  );
+  String get chapterReadHint => _t(
+    'Maaari mong balikan ang kabanata anumang oras.',
+    'You can return to this chapter whenever you like.',
+  );
+  String get readerTagalog => 'Tagalog (1905)';
+  String get readerEnglish => 'English (WEB)';
+  String get readerSmaller => _t('Paliitin ang teksto', 'Smaller text');
+  String get readerLarger => _t('Palakihin ang teksto', 'Larger text');
+  String get readerLoading => _t('Inihahanda ang teksto…', 'Loading chapter…');
+  String get readerError => _t(
+    'Hindi ma-load ang teksto. Subukan ulit. Maaari mo pa ring sagutan ang quiz.',
+    'The text could not be loaded. Try again. You can still take the quiz.',
+  );
+  String get readerRetry => _t('Subukan ulit', 'Try again');
+  String get readerPending => _t(
+    'Hindi pa available ang teksto ng chapter na ito. Maaari mong basahin ito sa sarili mong Bibliya.',
+    'The text of this chapter is not available yet. You can read it in your own Bible.',
+  );
+  String get readerEnglishOnly => _t(
+    'Wala pang pampublikong Tagalog na bersyon ng bahaging ito. English (WEB) ang ipinapakita.',
+    'A public-domain Tagalog version of this passage is not available. English (WEB) is shown.',
+  );
+  String get readerQuiz => _t('Sagutan ang Quiz', 'Take the quiz');
+  String get readerAlreadyRead =>
+      _t('Nabasa mo na ito', 'You have already read this');
+  String get previousChapter => _t('Naunang kabanata', 'Previous chapter');
+  String get nextChapter => _t('Susunod na kabanata', 'Next chapter');
+  String get textSources => _t('Mga Pinagmulan ng Teksto', 'Text sources');
+  String get webSourceTitle => _t(
+    'World English Bible — Katolikong edisyon',
+    'World English Bible — Catholic edition',
+  );
+  String get webSourceBody => _t(
+    'Pampublikong dominyo. Mula sa eBible.org (eng-web-c), kasama ang pitong deuterocanonical na aklat at ang mga dagdag sa Ester at Daniel.',
+    'Public domain. From eBible.org (eng-web-c), including the seven deuterocanonical books and the additions to Esther and Daniel.',
+  );
+  String get tagalogSourceBody => _t(
+    'Ang Dating Biblia (1905), pampublikong dominyo. Mula sa CrossWire SWORD TagAngBiblia 1.2, na isinulat sa digital na anyo nina Richard at Dolores Long. Ang JSON export ng getBible ay itinugma sa orihinal na module.',
+    'Ang Dating Biblia (1905), public domain. From CrossWire SWORD TagAngBiblia 1.2, digitized by Richard and Dolores Long. The getBible JSON export was checked against the original module.',
+  );
+  String get webTrademarkNote => _t(
+    'Ang “World English Bible” ay trademark ng eBible.org. Ang mga salita ng pinagmulan ay pinanatili; inalis ang mga tala at format, at inayos ang bilang ng mga kabanata at talata para sa app.',
+    '“World English Bible” is a trademark of eBible.org. Source wording is preserved; notes and formatting are removed, and chapters and verses are arranged for the app.',
+  );
+  String get sourcesEnglishNote => _t(
+    'English (WEB) lamang ang pitong deuterocanonical na aklat, Ester 10–16, at Daniel 3, 13 at 14. Walang magkahalong wika sa isang kabanata. May ilang teksto sa Ester na inihahanda pa; maaari pa ring sagutan ang quiz.',
+    'The seven deuterocanonical books, Esther 10–16, and Daniel 3, 13 and 14 use English (WEB) only. Each chapter uses one language throughout. Some Esther text is still being prepared; its quiz remains available.',
+  );
+  String readerCredit(bool web) => web
+      ? _t(
+          'English (WEB) • eBible.org • Pampublikong dominyo',
+          'English (WEB) • eBible.org • Public domain',
+        )
+      : _t(
+          'Ang Dating Biblia (1905) • CrossWire • Pampublikong dominyo',
+          'Ang Dating Biblia (1905) • CrossWire • Public domain',
+        );
   String finishedBookMessage(String name) =>
       _t('Natapos mo na ang $name!', 'You finished $name!');
   String get markUpTo => _t('Markahan hanggang dito', 'Mark up to here');
@@ -105,12 +175,12 @@ class Strings {
   String get spinScopeSemantics => _t('Piliin ang saklaw', 'Choose scope');
 
   // ---- intro screen ----
-  String get introTitle => _t('Kunin ang iyong Biblia', 'Get your Bible');
+  String get introTitle => _t('Magbasa sa iyong paraan', 'Read your way');
   String get introBody => _t(
-    'Ang Bible Track ay para sa pagsubaybay ng progress mo lang. Walang teksto ng Biblia sa app na ito. Kumuha ng sarili mong Biblia (libro o app), basahin ito, at markahan dito ang mga kabanatang natapos mo.',
-    'Bible Track only tracks your progress. It does not contain the Bible text. Get your own Bible (printed or an app), read it, and mark the chapters you finish here.',
+    'Pumili ng kabanata at basahin ang naka-save na teksto sa app, o gamitin ang sarili mong Bibliya. Kapag handa ka na, sagutan ang quiz para markahan ang nabasa. Hindi nagbabago ang progress sa pagbabasa lamang.',
+    'Choose a chapter and read the offline text in the app, or use your own Bible. When you feel ready, take the quiz to mark it as read. Reading alone does not change your progress.',
   );
-  String get introStep1 => _t('Kunin ang iyong Biblia', 'Get your Bible');
+  String get introStep1 => _t('Pumili ng kabanata', 'Choose a chapter');
   String get introStep2 => _t('Magbasa ng kabanata', 'Read a chapter');
   String get introStep3 =>
       _t('Markahan dito ang natapos mo', 'Mark it as read here');

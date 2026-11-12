@@ -6,6 +6,7 @@ import '../../data/settings_controller.dart';
 import '../../models/sync_status.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_logo.dart';
+import 'text_sources_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
   const SettingsScreen({super.key, required this.account});
@@ -147,6 +148,18 @@ class SettingsScreen extends StatelessWidget {
                     ),
                   ),
                 ],
+              ),
+            ),
+          ),
+
+          const SizedBox(height: 8),
+          _Card(
+            child: ListTile(
+              leading: const Icon(Icons.menu_book_outlined),
+              title: Text(strings.textSources),
+              trailing: const Icon(Icons.chevron_right),
+              onTap: () => Navigator.of(context).push<void>(
+                MaterialPageRoute(builder: (_) => const TextSourcesScreen()),
               ),
             ),
           ),
