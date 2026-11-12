@@ -1,5 +1,13 @@
 # Offline chapter reader implementation
 
+## Quiz retry reader handoff
+
+Failed quizzes keep the filled retry button and add an equal-width outlined `Basahin ang kabanata` / `Read the chapter` action with a book icon and 14px gap. Chapter-and-language availability hides reading for unavailable Tagalog chapters and pending WEB text. Both actions have accessible labels; the retry content scrolls at large text scales on 320px screens.
+
+Reader-to-quiz and failed-quiz-to-reader hops replace the current route. A reader-origin quiz restores a reader on X/system back; a chapter-list-origin quiz closes to that list. Repeated loops retain one reader or quiz route above the chapter list, clear all answers, and preserve question order. Passing still shows explanations and the star screen before returning to the chapter list. Reading never writes progress. The same Bible repository is passed through the flow.
+
+Validation: `flutter analyze` is clean; all **210 Flutter tests** pass, including **70 reader/quiz widget tests**. Checks cover both languages, unavailable/pending chapters, multiple-question resets, repeated route depth, close/back, passing, already-marked chapters, and narrow dark layouts at 2x text scale. Deterministic generation, **5 service-worker checks**, the release web build, and the real Chromium offline check (**238 cached files**) pass. No Firebase deployment is needed; cloud, sync, and Firestore rules are unchanged.
+
 ## Current UI revision (supersedes the original phase behavior below)
 
 The reader uses the app language exclusively and ignores the legacy `readerTranslation` preference. Unavailable Tagalog chapters show a centered, neutral message with a Settings language hint; they never load English text. WEB Esther 5 and 15 retain their pending state. Existing Scripture spans and every Esther **needs review** flag remain unchanged.

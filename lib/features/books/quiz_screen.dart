@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 
+import '../../data/bible_text_repository.dart';
 import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../rank/rank_celebration.dart' show showStarChangeScreen;
+import 'chapter_reader_screen.dart';
 
 /// Result returned when the quiz dialog closes.
 enum QuizResult {
@@ -21,6 +23,9 @@ enum QuizResult {
 /// the user taps "Mark as read". Returns [QuizResult.dismissed] otherwise.
 ///
 /// If the book/chapter has no questions, marks it directly and returns passed.
+/// [replaceReader] replaces the originating reader instead of retaining it in
+/// the stack. Dismissing that quiz restores a reader for the same chapter.
+/// Choosing to read after failure replaces the quiz and returns dismissed.
 Future<QuizResult> showQuiz({
   required BuildContext context,
   required Book book,
@@ -28,6 +33,8 @@ Future<QuizResult> showQuiz({
   required QuizRepository quizRepo,
   required ProgressController progress,
   required String lang,
+  BibleTextRepository? bibleRepo,
+  bool replaceReader = false,
 }) async {
   final questions = await quizRepo.questionsFor(book.id, chapter);
 
@@ -44,18 +51,38 @@ Future<QuizResult> showQuiz({
 
   if (!context.mounted) return QuizResult.dismissed;
 
-  final result = await Navigator.of(context).push<QuizResult>(
-    MaterialPageRoute<QuizResult>(
-      fullscreenDialog: true,
-      builder: (_) => _QuizPage(
-        book: book,
-        chapter: chapter,
-        questions: questions,
-        progress: progress,
-        lang: lang,
+  final navigator = Navigator.of(context);
+  final textRepo = bibleRepo ?? BibleTextRepository();
+  void openReader() {
+    navigator.pushReplacement<void, QuizResult>(
+      MaterialPageRoute<void>(
+        builder: (_) => ChapterReaderScreen(
+          book: book,
+          chapter: chapter,
+          progress: progress,
+          quizRepo: quizRepo,
+          bibleRepo: textRepo,
+        ),
       ),
+      result: QuizResult.dismissed,
+    );
+  }
+
+  final route = MaterialPageRoute<QuizResult>(
+    fullscreenDialog: true,
+    builder: (_) => _QuizPage(
+      book: book,
+      chapter: chapter,
+      questions: questions,
+      progress: progress,
+      lang: lang,
+      onReadChapter: openReader,
+      returnToReader: replaceReader,
     ),
   );
+  final result = await (replaceReader
+      ? navigator.pushReplacement<QuizResult, void>(route)
+      : navigator.push<QuizResult>(route));
   return result ?? QuizResult.dismissed;
 }
 
@@ -70,6 +97,8 @@ class _QuizPage extends StatefulWidget {
     required this.questions,
     required this.progress,
     required this.lang,
+    required this.onReadChapter,
+    required this.returnToReader,
   });
 
   final Book book;
@@ -77,6 +106,8 @@ class _QuizPage extends StatefulWidget {
   final List<QuizQuestion> questions;
   final ProgressController progress;
   final String lang;
+  final VoidCallback onReadChapter;
+  final bool returnToReader;
 
   @override
   State<_QuizPage> createState() => _QuizPageState();
@@ -121,10 +152,25 @@ class _QuizPageState extends State<_QuizPage> {
   }
 
   bool _markingRead = false;
+  bool _openingReader = false;
+
+  void _readChapter() {
+    if (_openingReader || _markingRead) return;
+    _openingReader = true;
+    widget.onReadChapter();
+  }
+
+  void _close() {
+    if (widget.returnToReader) {
+      _readChapter();
+    } else {
+      Navigator.of(context).pop(QuizResult.dismissed);
+    }
+  }
 
   Future<void> _markRead() async {
     if (_markingRead) return;
-    _markingRead = true;
+    setState(() => _markingRead = true);
     await showStarChangeScreen(
       context: context,
       progress: widget.progress,
@@ -140,41 +186,58 @@ class _QuizPageState extends State<_QuizPage> {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
 
-    return Scaffold(
-      appBar: AppBar(
-        title: Text(strings.quizTitle(widget.chapter)),
-        leading: IconButton(
-          icon: const Icon(Icons.close),
-          onPressed: () => Navigator.of(context).pop(QuizResult.dismissed),
-        ),
-      ),
-      body: switch (_phase) {
-        _QuizPhase.answering => _AnsweringBody(
-          questions: widget.questions,
-          selected: _selected,
-          lang: widget.lang,
-          allAnswered: _allAnswered,
-          onSelect: (qi, oi) => setState(() => _selected[qi] = oi),
-          onSubmit: _submit,
-          strings: strings,
-          theme: theme,
-          scheme: scheme,
-        ),
-        _QuizPhase.wrong => _WrongBody(
-          strings: strings,
-          theme: theme,
-          scheme: scheme,
-          onRetry: _retry,
-        ),
-        _QuizPhase.passed => _PassedBody(
-          questions: widget.questions,
-          lang: widget.lang,
-          strings: strings,
-          theme: theme,
-          scheme: scheme,
-          onMarkRead: _markRead,
-        ),
+    return PopScope<QuizResult>(
+      canPop: !widget.returnToReader || _markingRead,
+      onPopInvokedWithResult: (didPop, _) {
+        if (!didPop) _close();
       },
+      child: Scaffold(
+        key: const ValueKey('chapter-quiz-screen'),
+        appBar: AppBar(
+          title: Text(strings.quizTitle(widget.chapter)),
+          leading: IconButton(
+            icon: const Icon(Icons.close),
+            tooltip: strings.chapterClose,
+            onPressed: _close,
+          ),
+        ),
+        body: switch (_phase) {
+          _QuizPhase.answering => _AnsweringBody(
+            questions: widget.questions,
+            selected: _selected,
+            lang: widget.lang,
+            allAnswered: _allAnswered,
+            onSelect: (qi, oi) => setState(() => _selected[qi] = oi),
+            onSubmit: _submit,
+            strings: strings,
+            theme: theme,
+            scheme: scheme,
+          ),
+          _QuizPhase.wrong => _WrongBody(
+            strings: strings,
+            theme: theme,
+            scheme: scheme,
+            onRetry: _retry,
+            onReadChapter:
+                chapterTextAvailability(
+                      widget.book.id,
+                      widget.chapter,
+                      translationForLanguage(strings.lang),
+                    ) ==
+                    BibleTextAvailability.available
+                ? _readChapter
+                : null,
+          ),
+          _QuizPhase.passed => _PassedBody(
+            questions: widget.questions,
+            lang: widget.lang,
+            strings: strings,
+            theme: theme,
+            scheme: scheme,
+            onMarkRead: _markRead,
+          ),
+        },
+      ),
     );
   }
 }
@@ -382,41 +445,62 @@ class _WrongBody extends StatelessWidget {
     required this.theme,
     required this.scheme,
     required this.onRetry,
+    required this.onReadChapter,
   });
 
   final dynamic strings;
   final ThemeData theme;
   final ColorScheme scheme;
   final VoidCallback onRetry;
+  final VoidCallback? onReadChapter;
 
   @override
   Widget build(BuildContext context) {
-    return Center(
-      child: Padding(
-        padding: const EdgeInsets.all(32),
-        child: Column(
-          mainAxisSize: MainAxisSize.min,
-          children: [
-            Icon(
-              Icons.refresh_rounded,
-              size: 72,
-              color: scheme.primary.withAlpha(180),
+    return SafeArea(
+      child: Center(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(24),
+          child: ConstrainedBox(
+            constraints: const BoxConstraints(maxWidth: 400),
+            child: Column(
+              mainAxisSize: MainAxisSize.min,
+              crossAxisAlignment: CrossAxisAlignment.stretch,
+              children: [
+                Icon(
+                  Icons.refresh_rounded,
+                  size: 72,
+                  color: scheme.primary.withAlpha(180),
+                ),
+                const SizedBox(height: 20),
+                Text(
+                  strings.quizWrong as String,
+                  textAlign: TextAlign.center,
+                  style: theme.textTheme.titleMedium?.copyWith(
+                    color: scheme.onSurface,
+                  ),
+                ),
+                const SizedBox(height: 28),
+                FilledButton.icon(
+                  key: const ValueKey('quiz-retry-action'),
+                  onPressed: onRetry,
+                  icon: const Icon(Icons.replay),
+                  label: Text(strings.quizRetry as String),
+                ),
+                if (onReadChapter != null) ...[
+                  const SizedBox(height: 14),
+                  OutlinedButton.icon(
+                    key: const ValueKey('quiz-read-chapter-action'),
+                    onPressed: onReadChapter,
+                    icon: const Icon(Icons.menu_book_outlined),
+                    label: Text(
+                      strings.quizReadChapter as String,
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ],
+              ],
             ),
-            const SizedBox(height: 20),
-            Text(
-              strings.quizWrong as String,
-              textAlign: TextAlign.center,
-              style: theme.textTheme.titleMedium?.copyWith(
-                color: scheme.onSurface,
-              ),
-            ),
-            const SizedBox(height: 28),
-            FilledButton.icon(
-              onPressed: onRetry,
-              icon: const Icon(Icons.replay),
-              label: Text(strings.quizRetry as String),
-            ),
-          ],
+          ),
         ),
       ),
     );

@@ -23,6 +23,24 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hive_ce/hive.dart';
 
+class _DepthObserver extends NavigatorObserver {
+  final routes = <Route<dynamic>>[];
+  @override
+  void didPush(Route<dynamic> route, Route<dynamic>? previousRoute) =>
+      routes.add(route);
+  @override
+  void didPop(Route<dynamic> route, Route<dynamic>? previousRoute) =>
+      routes.remove(route);
+  @override
+  void didRemove(Route<dynamic> route, Route<dynamic>? previousRoute) =>
+      routes.remove(route);
+  @override
+  void didReplace({Route<dynamic>? newRoute, Route<dynamic>? oldRoute}) {
+    final index = routes.indexOf(oldRoute!);
+    routes[index] = newRoute!;
+  }
+}
+
 class _Auth implements AuthService {
   @override
   User? get currentUser => null;
@@ -58,6 +76,22 @@ class _Quiz extends QuizRepository {
           ),
         ]
       : const [];
+}
+
+class _TwoQuestionQuiz extends _Quiz {
+  @override
+  Future<List<QuizQuestion>> questionsFor(String bookId, int chapter) async => [
+    (await super.questionsFor(bookId, chapter)).single,
+    const QuizQuestion(
+      questionEn: 'Second question?',
+      questionFil: 'Pangalawang tanong?',
+      optionsEn: ['Second correct', 'Second wrong'],
+      optionsFil: ['Ikalawang tama', 'Ikalawang mali'],
+      answer: 0,
+      explanationEn: 'Second explanation.',
+      explanationFil: 'Ikalawang paliwanag.',
+    ),
+  ];
 }
 
 class _Text extends BibleTextRepository {
@@ -125,20 +159,25 @@ void main() {
     await Hive.close();
   });
 
-  Widget app(Widget home, {bool dark = false, double scale = 1}) =>
-      SettingsScope(
-        controller: settings,
-        child: MaterialApp(
-          theme: dark ? darkTheme : lightTheme,
-          home: home,
-          builder: (context, child) => MediaQuery(
-            data: MediaQuery.of(
-              context,
-            ).copyWith(textScaler: TextScaler.linear(scale)),
-            child: child!,
-          ),
-        ),
-      );
+  Widget app(
+    Widget home, {
+    bool dark = false,
+    double scale = 1,
+    NavigatorObserver? observer,
+  }) => SettingsScope(
+    controller: settings,
+    child: MaterialApp(
+      theme: dark ? darkTheme : lightTheme,
+      home: home,
+      navigatorObservers: [?observer],
+      builder: (context, child) => MediaQuery(
+        data: MediaQuery.of(
+          context,
+        ).copyWith(textScaler: TextScaler.linear(scale)),
+        child: child!,
+      ),
+    ),
+  );
   Widget chapters() => ChapterScreen(
     book: bookById('gen'),
     progress: progress,
@@ -610,6 +649,381 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.text('Open Genesis'), findsOneWidget);
   });
+
+  Future<void> failQuiz(WidgetTester tester) async {
+    final strings = settings.strings;
+    await tester.ensureVisible(
+      find.text(settings.language == 'fil' ? 'Mali' : 'Wrong'),
+    );
+    await tester.tap(find.text(settings.language == 'fil' ? 'Mali' : 'Wrong'));
+    await tester.pump();
+    await tester.tap(find.text(strings.quizCheckAnswers));
+    await tester.pumpAndSettle();
+    expect(find.text(strings.quizWrong), findsOneWidget);
+  }
+
+  for (final lang in ['en', 'fil']) {
+    testWidgets('$lang retry has equal-width labeled read and retry actions', (
+      tester,
+    ) async {
+      settings.setLanguage(lang);
+      final semantics = tester.ensureSemantics();
+      await tester.pumpWidget(app(chapters()));
+      await tester.pumpAndSettle();
+      await openSheet(tester);
+      await tester.tap(find.byKey(const ValueKey('chapter-quiz-action')));
+      await tester.pumpAndSettle();
+      expect(find.text(settings.strings.quizReadChapter), findsNothing);
+      await failQuiz(tester);
+      final retry = find.byKey(const ValueKey('quiz-retry-action'));
+      final read = find.byKey(const ValueKey('quiz-read-chapter-action'));
+      expect(find.byIcon(Icons.menu_book_outlined), findsOneWidget);
+      expect(tester.widget(retry), isA<FilledButton>());
+      expect(tester.widget(read), isA<OutlinedButton>());
+      expect(tester.getSize(retry).width, tester.getSize(read).width);
+      expect(tester.getTopLeft(read).dy - tester.getBottomLeft(retry).dy, 14);
+      expect(tester.getSemantics(retry).label, settings.strings.quizRetry);
+      expect(tester.getSemantics(read).label, settings.strings.quizReadChapter);
+      semantics.dispose();
+      await tester.tap(retry);
+      await tester.pumpAndSettle();
+      expect(find.text(settings.strings.quizWrong), findsNothing);
+      expect(
+        tester
+            .widget<FilledButton>(
+              find.widgetWithText(
+                FilledButton,
+                settings.strings.quizCheckAnswers,
+              ),
+            )
+            .onPressed,
+        isNull,
+      );
+      expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+      expect(progress.chaptersReadLifetime, 0);
+    });
+  }
+
+  testWidgets(
+    'already marked chapter closes a reader-origin passed quiz without another star',
+    (tester) async {
+      await tester.pumpWidget(app(chapters()));
+      await tester.pumpAndSettle();
+      await openSheet(tester);
+      await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Correct'));
+      await tester.pump();
+      await tester.tap(find.text('Check answers'));
+      await tester.pumpAndSettle();
+      progress.markChapterRead(bookById('gen'), 1);
+      await tester.pumpAndSettle();
+      await tester.tap(find.text('Mark as read'));
+      await tester.pumpAndSettle();
+      expect(find.byType(StarChangeScreen), findsNothing);
+      expect(
+        find.byKey(const ValueKey('chapter-quiz-screen'), skipOffstage: false),
+        findsNothing,
+      );
+      expect(
+        find.byType(ChapterReaderScreen, skipOffstage: false),
+        findsNothing,
+      );
+      expect(find.byType(ChapterScreen), findsOneWidget);
+      expect(progress.chaptersReadLifetime, 1);
+    },
+  );
+
+  testWidgets(
+    'retry and read loop clear every answer and preserve question order',
+    (tester) async {
+      quiz = _TwoQuestionQuiz();
+      await tester.pumpWidget(app(chapters()));
+      await tester.pumpAndSettle();
+      await openSheet(tester);
+      await tester.tap(find.byKey(const ValueKey('chapter-quiz-action')));
+      await tester.pumpAndSettle();
+      for (final action in ['retry', 'read']) {
+        final questions = find.byWidgetPredicate(
+          (w) =>
+              w is Text &&
+              const ['Which answer?', 'Second question?'].contains(w.data),
+        );
+        expect(tester.widgetList<Text>(questions).map((w) => w.data), [
+          'Which answer?',
+          'Second question?',
+        ]);
+        expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+        for (final answer in ['Wrong', 'Second correct']) {
+          await tester.ensureVisible(find.text(answer));
+          await tester.tap(find.text(answer));
+          await tester.pumpAndSettle();
+        }
+        await tester.tap(find.text('Check answers'));
+        await tester.pumpAndSettle();
+        await tester.tap(
+          find.byKey(
+            ValueKey(
+              action == 'retry'
+                  ? 'quiz-retry-action'
+                  : 'quiz-read-chapter-action',
+            ),
+          ),
+        );
+        await tester.pumpAndSettle();
+        if (action == 'read') {
+          await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+          await tester.pumpAndSettle();
+        }
+      }
+      expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+      expect(
+        tester
+            .widget<FilledButton>(
+              find.widgetWithText(FilledButton, 'Check answers'),
+            )
+            .onPressed,
+        isNull,
+      );
+      expect(
+        tester.getTopLeft(find.text('Which answer?')).dy,
+        lessThan(tester.getTopLeft(find.text('Second question?')).dy),
+      );
+      expect(progress.chaptersReadLifetime, 0);
+    },
+  );
+
+  for (final target in [
+    for (final book in allBooks.where((b) => b.isDeutero)) ('fil', book.id, 1),
+    for (var ch = 10; ch <= 16; ch++) ('fil', 'est', ch),
+    for (final ch in [3, 13, 14]) ('fil', 'dan', ch),
+    ('en', 'est', 5),
+    ('en', 'est', 15),
+  ]) {
+    testWidgets(
+      '${target.$1} ${target.$2}/${target.$3} retry hides reading without text',
+      (tester) async {
+        settings.setLanguage(target.$1);
+        await tester.pumpWidget(
+          app(reader(book: target.$2, chapter: target.$3)),
+        );
+        await tester.pumpAndSettle();
+        await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+        await tester.pumpAndSettle();
+        await failQuiz(tester);
+        expect(
+          find.byKey(const ValueKey('quiz-read-chapter-action')),
+          findsNothing,
+        );
+        expect(find.text(settings.strings.quizReadChapter), findsNothing);
+        expect(find.byKey(const ValueKey('quiz-retry-action')), findsOneWidget);
+        expect(progress.chaptersReadLifetime, 0);
+      },
+    );
+  }
+
+  for (final target in [('en', 'tob', 1), ('fil', 'est', 5)]) {
+    testWidgets(
+      '${target.$1} ${target.$2}/${target.$3} retry offers its own language text',
+      (tester) async {
+        settings.setLanguage(target.$1);
+        await tester.pumpWidget(
+          app(reader(book: target.$2, chapter: target.$3)),
+        );
+        await tester.pumpAndSettle();
+        await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+        await tester.pumpAndSettle();
+        await failQuiz(tester);
+        await tester.tap(
+          find.byKey(const ValueKey('quiz-read-chapter-action')),
+        );
+        await tester.pumpAndSettle();
+        expect(bible.requests.last, (
+          target.$2,
+          target.$3,
+          translationForLanguage(target.$1),
+        ));
+        expect(find.byKey(const ValueKey('reader-verses')), findsOneWidget);
+        expect(progress.chaptersReadLifetime, 0);
+      },
+    );
+  }
+
+  for (final origin in ['reader', 'chapters']) {
+    for (final finish in ['back', 'pass']) {
+      testWidgets(
+        '$origin repeated fail/read/quiz keeps depth and ends with $finish on chapter list',
+        (tester) async {
+          final observer = _DepthObserver();
+          await tester.pumpWidget(app(chapters(), observer: observer));
+          await tester.pumpAndSettle();
+          await tester.tap(find.text('7'));
+          await tester.pumpAndSettle();
+          await tester.tap(
+            find.byKey(
+              ValueKey(
+                origin == 'reader'
+                    ? 'chapter-read-action'
+                    : 'chapter-quiz-action',
+              ),
+            ),
+          );
+          await tester.pumpAndSettle();
+          if (origin == 'reader') {
+            await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+            await tester.pumpAndSettle();
+          }
+          for (var hop = 0; hop < 3; hop++) {
+            expect(observer.routes, hasLength(2));
+            expect(
+              find.byType(ChapterReaderScreen, skipOffstage: false),
+              findsNothing,
+            );
+            expect(
+              find.byKey(
+                const ValueKey('chapter-quiz-screen'),
+                skipOffstage: false,
+              ),
+              findsOneWidget,
+            );
+            expect(
+              tester
+                  .widget<FilledButton>(
+                    find.widgetWithText(FilledButton, 'Check answers'),
+                  )
+                  .onPressed,
+              isNull,
+            );
+            expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+            await failQuiz(tester);
+            await tester.tap(
+              find.byKey(const ValueKey('quiz-read-chapter-action')),
+            );
+            await tester.pumpAndSettle();
+            expect(observer.routes, hasLength(2));
+            expect(
+              find.byKey(
+                const ValueKey('chapter-quiz-screen'),
+                skipOffstage: false,
+              ),
+              findsNothing,
+            );
+            expect(
+              find.byType(ChapterReaderScreen, skipOffstage: false),
+              findsOneWidget,
+            );
+            final shown = tester.widget<ChapterReaderScreen>(
+              find.byType(ChapterReaderScreen),
+            );
+            expect(shown.book.id, 'gen');
+            expect(shown.chapter, 7);
+            expect(bible.requests.last, ('gen', 7, BibleTranslation.web));
+            expect(progress.chaptersReadLifetime, 0);
+            expect(progress.maxStarsEver, 0);
+            if (hop < 2 || finish == 'pass') {
+              await tester.tap(
+                find.byKey(const ValueKey('reader-quiz-action')),
+              );
+              await tester.pumpAndSettle();
+            }
+          }
+          if (finish == 'back') {
+            await tester.pageBack();
+            await tester.pumpAndSettle();
+            expect(progress.chaptersReadLifetime, 0);
+          } else {
+            expect(
+              tester
+                  .widget<FilledButton>(
+                    find.widgetWithText(FilledButton, 'Check answers'),
+                  )
+                  .onPressed,
+              isNull,
+            );
+            await tester.tap(find.text('Correct'));
+            await tester.pump();
+            await tester.tap(find.text('Check answers'));
+            await tester.pumpAndSettle();
+            expect(
+              find.text('Read the explanation before marking.'),
+              findsOneWidget,
+            );
+            expect(progress.chaptersReadLifetime, 0);
+            await tester.tap(find.text('Mark as read'));
+            await tester.pumpAndSettle();
+            await closeStars(tester);
+            expect(progress.chaptersRead('gen'), contains(7));
+            expect(progress.chaptersReadLifetime, 1);
+          }
+          expect(observer.routes, hasLength(1));
+          expect(find.byType(ChapterScreen), findsOneWidget);
+          expect(
+            find.byType(ChapterReaderScreen, skipOffstage: false),
+            findsNothing,
+          );
+          expect(
+            find.byKey(
+              const ValueKey('chapter-quiz-screen'),
+              skipOffstage: false,
+            ),
+            findsNothing,
+          );
+        },
+      );
+    }
+  }
+
+  testWidgets('system back on a reader-origin quiz restores just one reader', (
+    tester,
+  ) async {
+    final observer = _DepthObserver();
+    await tester.pumpWidget(app(chapters(), observer: observer));
+    await tester.pumpAndSettle();
+    await openSheet(tester);
+    await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+    await tester.pumpAndSettle();
+    await tester.binding.handlePopRoute();
+    await tester.pumpAndSettle();
+    expect(observer.routes, hasLength(2));
+    expect(
+      find.byType(ChapterReaderScreen, skipOffstage: false),
+      findsOneWidget,
+    );
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+    expect(observer.routes, hasLength(1));
+    expect(find.byType(ChapterScreen), findsOneWidget);
+  });
+
+  for (final lang in ['en', 'fil']) {
+    testWidgets('$lang narrow dark retry screen scrolls at large text scale', (
+      tester,
+    ) async {
+      settings.setLanguage(lang);
+      tester.view.physicalSize = const Size(320, 640);
+      tester.view.devicePixelRatio = 1;
+      addTearDown(tester.view.resetPhysicalSize);
+      addTearDown(tester.view.resetDevicePixelRatio);
+      await tester.pumpWidget(app(reader(), dark: true, scale: 2));
+      await tester.pumpAndSettle();
+      await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+      await tester.pumpAndSettle();
+      await failQuiz(tester);
+      final read = find.byKey(const ValueKey('quiz-read-chapter-action'));
+      await tester.ensureVisible(read);
+      expect(tester.takeException(), isNull);
+      expect(read.hitTestable(), findsOneWidget);
+      await tester.tap(read);
+      await tester.pumpAndSettle();
+      expect(find.byType(ChapterReaderScreen), findsOneWidget);
+      expect(tester.takeException(), isNull);
+      expect(progress.chaptersReadLifetime, 0);
+    });
+  }
 
   testWidgets('narrow dark reader and chapter sheet respect large text', (
     tester,

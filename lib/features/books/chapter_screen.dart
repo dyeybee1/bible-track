@@ -189,6 +189,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
               quizRepo: widget.quizRepo,
               progress: widget.progress,
               lang: context.s.lang,
+              bibleRepo: _bibleRepo,
             );
           }
         case _ChapterAction.unmark:

@@ -81,10 +81,11 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
         quizRepo: widget.quizRepo,
         progress: widget.progress,
         lang: context.s.lang,
+        bibleRepo: widget.bibleRepo,
+        replaceReader: true,
       );
       if (mounted && result == QuizResult.passed) {
-        // Remove this exact reader route after both quiz and celebration close.
-        // Cancelled/failed quizzes leave it in place as their origin screen.
+        // No-question chapters mark directly without replacing this reader.
         if (readerRoute.isCurrent) {
           navigator.pop();
         } else {
