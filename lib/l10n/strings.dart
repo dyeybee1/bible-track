@@ -423,6 +423,7 @@ class Strings {
   );
   String get quizRetry => _t('Subukan ulit', 'Try again');
   String get quizReadChapter => _t('Basahin ang kabanata', 'Read the chapter');
+  String get quizReadFirst => _t('Basahin muna', 'Read first');
   String get quizPassed => _t(
     '🎉 Magaling! Natapos mo ang quiz!',
     '🎉 Well done! You passed the quiz!',

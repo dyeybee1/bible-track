@@ -12,6 +12,7 @@ import 'package:bible_track/data/quiz_repository.dart';
 import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/features/books/chapter_reader_screen.dart';
 import 'package:bible_track/features/books/chapter_screen.dart';
+import 'package:bible_track/features/books/quiz_screen.dart';
 import 'package:bible_track/features/rank/star_change_screen.dart';
 import 'package:bible_track/features/settings/settings_screen.dart';
 import 'package:bible_track/features/settings/text_sources_screen.dart';
@@ -193,6 +194,22 @@ void main() {
     quizRepo: quiz,
     bibleRepo: bible,
   );
+  Widget quizHost({String book = 'gen', int chapter = 1}) => Builder(
+    builder: (context) => Scaffold(
+      body: FilledButton(
+        onPressed: () => showQuiz(
+          context: context,
+          book: bookById(book),
+          chapter: chapter,
+          quizRepo: quiz,
+          progress: progress,
+          lang: settings.language,
+          bibleRepo: bible,
+        ),
+        child: const Text('Open quiz'),
+      ),
+    ),
+  );
   Widget bookList() => Builder(
     builder: (context) => Scaffold(
       body: Center(
@@ -214,6 +231,209 @@ void main() {
   Future<void> openSheet(WidgetTester tester) async {
     await tester.tap(find.text('1'));
     await tester.pumpAndSettle();
+  }
+
+  for (final lang in ['en', 'fil']) {
+    testWidgets('$lang read first floats clear of submit and the last option', (
+      tester,
+    ) async {
+      settings.setLanguage(lang);
+      quiz = _TwoQuestionQuiz();
+      tester.view.physicalSize = const Size(320, 640);
+      tester.view.devicePixelRatio = 1;
+      addTearDown(tester.view.resetPhysicalSize);
+      addTearDown(tester.view.resetDevicePixelRatio);
+      final semantics = tester.ensureSemantics();
+      await tester.pumpWidget(app(quizHost(), dark: true, scale: 1.6));
+      await tester.tap(find.text('Open quiz'));
+      await tester.pumpAndSettle();
+      final read = find.byKey(const ValueKey('quiz-read-first-action'));
+      final submit = find.byKey(const ValueKey('quiz-submit-action'));
+      final list = find.byKey(const ValueKey('quiz-questions'));
+      expect(
+        find.text(lang == 'fil' ? 'Basahin muna' : 'Read first'),
+        findsOneWidget,
+      );
+      expect(tester.getSemantics(read).label, settings.strings.quizReadFirst);
+      expect(tester.getSize(read).height, greaterThanOrEqualTo(48));
+      expect(tester.getSize(read).width, greaterThanOrEqualTo(48));
+      final floatingRect = tester.getRect(read);
+      expect(floatingRect.bottom, lessThan(tester.getRect(submit).top));
+      expect(floatingRect.right, closeTo(304, 1));
+      final last = find.text(lang == 'fil' ? 'Ikalawang mali' : 'Second wrong');
+      await tester.scrollUntilVisible(
+        last,
+        200,
+        scrollable: find.descendant(
+          of: list,
+          matching: find.byType(Scrollable),
+        ),
+      );
+      // Scroll to the very end, including the space reserved for the action.
+      await tester.drag(list, const Offset(0, -2000));
+      await tester.pumpAndSettle();
+      expect(tester.getRect(read), floatingRect);
+      expect(tester.getRect(last).bottom, lessThan(floatingRect.top));
+      expect(last.hitTestable(), findsOneWidget);
+      await tester.tap(last);
+      await tester.pumpAndSettle();
+      expect(find.byIcon(Icons.radio_button_checked), findsOneWidget);
+      expect(tester.takeException(), isNull);
+      semantics.dispose();
+    });
+  }
+
+  testWidgets('read first hides for the keyboard and dialogs', (tester) async {
+    final observer = _DepthObserver();
+    await tester.pumpWidget(app(quizHost(), observer: observer));
+    await tester.tap(find.text('Open quiz'));
+    await tester.pumpAndSettle();
+    final read = find.byKey(const ValueKey('quiz-read-first-action'));
+    expect(read, findsOneWidget);
+    tester.view.viewInsets = const FakeViewPadding(bottom: 200);
+    addTearDown(tester.view.resetViewInsets);
+    await tester.pumpAndSettle();
+    expect(read, findsNothing);
+    tester.view.resetViewInsets();
+    await tester.pumpAndSettle();
+    expect(read, findsOneWidget);
+    unawaited(
+      showDialog<void>(
+        context: tester.element(read),
+        builder: (_) => const AlertDialog(content: Text('Dialog')),
+      ),
+    );
+    await tester.pumpAndSettle();
+    expect(
+      find.byKey(const ValueKey('quiz-read-first-action'), skipOffstage: false),
+      findsNothing,
+    );
+    observer.routes.last.navigator!.pop();
+    await tester.pumpAndSettle();
+    expect(read, findsOneWidget);
+  });
+
+  for (final origin in ['chapters', 'reader', 'other']) {
+    testWidgets(
+      '$origin read first loop replaces routes and discards all answers',
+      (tester) async {
+        quiz = _TwoQuestionQuiz();
+        final observer = _DepthObserver();
+        final storedBefore = Map<dynamic, dynamic>.from(
+          Hive.box('reader_p').toMap(),
+        );
+        var changes = 0;
+        progress.addListener(() => changes++);
+        await tester.pumpWidget(
+          app(
+            origin == 'other' ? quizHost(chapter: 7) : chapters(),
+            observer: observer,
+          ),
+        );
+        await tester.pumpAndSettle();
+        if (origin == 'other') {
+          await tester.tap(find.text('Open quiz'));
+        } else {
+          await tester.tap(find.text('7'));
+          await tester.pumpAndSettle();
+          await tester.tap(
+            find.byKey(
+              ValueKey(
+                origin == 'reader'
+                    ? 'chapter-read-action'
+                    : 'chapter-quiz-action',
+              ),
+            ),
+          );
+          await tester.pumpAndSettle();
+          if (origin == 'reader') {
+            await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+          }
+        }
+        await tester.pumpAndSettle();
+        for (var hop = 0; hop < 3; hop++) {
+          expect(observer.routes, hasLength(2));
+          expect(
+            find.byType(ChapterReaderScreen, skipOffstage: false),
+            findsNothing,
+          );
+          expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+          expect(
+            tester
+                .widget<FilledButton>(
+                  find.byKey(const ValueKey('quiz-submit-action')),
+                )
+                .onPressed,
+            isNull,
+          );
+          expect(
+            tester.getTopLeft(find.text('Which answer?')).dy,
+            lessThan(tester.getTopLeft(find.text('Second question?')).dy),
+          );
+          // Exercise both incomplete and fully selected, unsubmitted quizzes.
+          await tester.tap(find.text('Wrong'));
+          await tester.pump();
+          if (hop == 1) {
+            await tester.ensureVisible(find.text('Second correct'));
+            await tester.tap(find.text('Second correct'));
+            await tester.pump();
+            expect(
+              tester
+                  .widget<FilledButton>(
+                    find.byKey(const ValueKey('quiz-submit-action')),
+                  )
+                  .onPressed,
+              isNotNull,
+            );
+          }
+          await tester.tap(
+            find.byKey(const ValueKey('quiz-read-first-action')),
+          );
+          await tester.pumpAndSettle();
+          expect(observer.routes, hasLength(2));
+          expect(
+            find.byKey(
+              const ValueKey('chapter-quiz-screen'),
+              skipOffstage: false,
+            ),
+            findsNothing,
+          );
+          expect(
+            find.byType(ChapterReaderScreen, skipOffstage: false),
+            findsOneWidget,
+          );
+          final shown = tester.widget<ChapterReaderScreen>(
+            find.byType(ChapterReaderScreen),
+          );
+          expect(shown.book.id, 'gen');
+          expect(shown.chapter, 7);
+          expect(bible.requests.last, ('gen', 7, BibleTranslation.web));
+          await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+          await tester.pumpAndSettle();
+        }
+        expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+        expect(observer.routes, hasLength(2));
+        // X still restores the reader that started this particular quiz.
+        await tester.tap(find.byIcon(Icons.close));
+        await tester.pumpAndSettle();
+        expect(find.byType(ChapterReaderScreen), findsOneWidget);
+        expect(observer.routes, hasLength(2));
+        await tester.pageBack();
+        await tester.pumpAndSettle();
+        expect(observer.routes, hasLength(1));
+        expect(
+          origin == 'other'
+              ? find.text('Open quiz')
+              : find.byType(ChapterScreen),
+          findsOneWidget,
+        );
+        expect(changes, 0);
+        expect(progress.chaptersReadLifetime, 0);
+        expect(progress.maxStarsEver, 0);
+        expect(Hive.box('reader_p').toMap(), storedBefore);
+        expect(find.byType(StarChangeScreen), findsNothing);
+      },
+    );
   }
 
   testWidgets(
@@ -396,6 +616,10 @@ void main() {
       await tester.tap(find.text('Check answers'));
       await tester.pumpAndSettle();
       expect(find.text('Read the explanation before marking.'), findsOneWidget);
+      expect(
+        find.byKey(const ValueKey('quiz-read-first-action')),
+        findsNothing,
+      );
       expect(progress.chaptersReadLifetime, 0);
       await tester.tap(find.text('Mark as read'));
       await tester.pumpAndSettle();
@@ -674,7 +898,15 @@ void main() {
       await tester.tap(find.byKey(const ValueKey('chapter-quiz-action')));
       await tester.pumpAndSettle();
       expect(find.text(settings.strings.quizReadChapter), findsNothing);
+      expect(
+        find.byKey(const ValueKey('quiz-read-first-action')),
+        findsOneWidget,
+      );
       await failQuiz(tester);
+      expect(
+        find.byKey(const ValueKey('quiz-read-first-action')),
+        findsNothing,
+      );
       final retry = find.byKey(const ValueKey('quiz-retry-action'));
       final read = find.byKey(const ValueKey('quiz-read-chapter-action'));
       expect(find.byIcon(Icons.menu_book_outlined), findsOneWidget);
@@ -812,6 +1044,11 @@ void main() {
         await tester.pumpAndSettle();
         await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
         await tester.pumpAndSettle();
+        expect(
+          find.byKey(const ValueKey('quiz-read-first-action')),
+          findsNothing,
+        );
+        final requestsBefore = List.of(bible.requests);
         await failQuiz(tester);
         expect(
           find.byKey(const ValueKey('quiz-read-chapter-action')),
@@ -819,6 +1056,7 @@ void main() {
         );
         expect(find.text(settings.strings.quizReadChapter), findsNothing);
         expect(find.byKey(const ValueKey('quiz-retry-action')), findsOneWidget);
+        expect(bible.requests, requestsBefore);
         expect(progress.chaptersReadLifetime, 0);
       },
     );
@@ -835,6 +1073,10 @@ void main() {
         await tester.pumpAndSettle();
         await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
         await tester.pumpAndSettle();
+        expect(
+          find.byKey(const ValueKey('quiz-read-first-action')),
+          findsOneWidget,
+        );
         await failQuiz(tester);
         await tester.tap(
           find.byKey(const ValueKey('quiz-read-chapter-action')),

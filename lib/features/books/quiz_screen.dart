@@ -185,6 +185,35 @@ class _QuizPageState extends State<_QuizPage> {
     final strings = context.s;
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
+    final canRead =
+        chapterTextAvailability(
+          widget.book.id,
+          widget.chapter,
+          translationForLanguage(strings.lang),
+        ) ==
+        BibleTextAvailability.available;
+    final showReadFirst =
+        _phase == _QuizPhase.answering &&
+        canRead &&
+        MediaQuery.viewInsetsOf(context).bottom == 0 &&
+        (ModalRoute.isCurrentOf(context) ?? true);
+    // Reserve the floating action's full height even when its label wraps at
+    // large text sizes. The final option can then scroll above the action.
+    final actionWidth =
+        MediaQuery.sizeOf(context).width -
+        MediaQuery.paddingOf(context).horizontal -
+        32;
+    final labelStyle = theme.textTheme.labelLarge!;
+    final labelPainter = TextPainter(
+      text: TextSpan(text: strings.quizReadFirst, style: labelStyle),
+      textDirection: Directionality.of(context),
+      textScaler: MediaQuery.textScalerOf(context),
+    )..layout(maxWidth: (actionWidth - 72).clamp(1, double.infinity));
+    final actionHeight = (labelPainter.height + 32).clamp(
+      56.0,
+      double.infinity,
+    );
+    labelPainter.dispose();
 
     return PopScope<QuizResult>(
       canPop: !widget.returnToReader || _markingRead,
@@ -201,14 +230,52 @@ class _QuizPageState extends State<_QuizPage> {
             onPressed: _close,
           ),
         ),
+        bottomNavigationBar: _phase == _QuizPhase.answering
+            ? SafeArea(
+                top: false,
+                child: Padding(
+                  padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+                  child: FilledButton(
+                    key: const ValueKey('quiz-submit-action'),
+                    onPressed: _allAnswered ? _submit : null,
+                    child: Text(
+                      strings.quizCheckAnswers,
+                      textAlign: TextAlign.center,
+                    ),
+                  ),
+                ),
+              )
+            : null,
+        floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
+        floatingActionButton: showReadFirst
+            ? ConstrainedBox(
+                constraints: BoxConstraints(maxWidth: actionWidth),
+                child: FilledButton.tonalIcon(
+                  key: const ValueKey('quiz-read-first-action'),
+                  onPressed: _readChapter,
+                  style: FilledButton.styleFrom(
+                    minimumSize: Size(48, actionHeight),
+                    padding: const EdgeInsets.all(16),
+                    elevation: 2,
+                    shadowColor: scheme.shadow.withAlpha(64),
+                    shape: const StadiumBorder(),
+                    textStyle: labelStyle,
+                  ),
+                  icon: const Icon(Icons.menu_book_outlined),
+                  label: Text(
+                    strings.quizReadFirst,
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+              )
+            : null,
         body: switch (_phase) {
           _QuizPhase.answering => _AnsweringBody(
             questions: widget.questions,
             selected: _selected,
             lang: widget.lang,
-            allAnswered: _allAnswered,
+            bottomPadding: showReadFirst ? actionHeight + 32 : 8,
             onSelect: (qi, oi) => setState(() => _selected[qi] = oi),
-            onSubmit: _submit,
             strings: strings,
             theme: theme,
             scheme: scheme,
@@ -218,15 +285,7 @@ class _QuizPageState extends State<_QuizPage> {
             theme: theme,
             scheme: scheme,
             onRetry: _retry,
-            onReadChapter:
-                chapterTextAvailability(
-                      widget.book.id,
-                      widget.chapter,
-                      translationForLanguage(strings.lang),
-                    ) ==
-                    BibleTextAvailability.available
-                ? _readChapter
-                : null,
+            onReadChapter: canRead ? _readChapter : null,
           ),
           _QuizPhase.passed => _PassedBody(
             questions: widget.questions,
@@ -251,9 +310,8 @@ class _AnsweringBody extends StatelessWidget {
     required this.questions,
     required this.selected,
     required this.lang,
-    required this.allAnswered,
+    required this.bottomPadding,
     required this.onSelect,
-    required this.onSubmit,
     required this.strings,
     required this.theme,
     required this.scheme,
@@ -262,47 +320,29 @@ class _AnsweringBody extends StatelessWidget {
   final List<QuizQuestion> questions;
   final List<int?> selected;
   final String lang;
-  final bool allAnswered;
+  final double bottomPadding;
   final void Function(int qi, int oi) onSelect;
-  final VoidCallback onSubmit;
   final dynamic strings;
   final ThemeData theme;
   final ColorScheme scheme;
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Expanded(
-          child: ListView.builder(
-            padding: const EdgeInsets.fromLTRB(16, 12, 16, 8),
-            itemCount: questions.length,
-            itemBuilder: (_, qi) => _QuestionCard(
-              index: qi,
-              total: questions.length,
-              question: questions[qi],
-              selectedOption: selected[qi],
-              lang: lang,
-              onSelect: (oi) => onSelect(qi, oi),
-              strings: strings,
-              theme: theme,
-              scheme: scheme,
-            ),
-          ),
-        ),
-        SafeArea(
-          child: Padding(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
-            child: SizedBox(
-              width: double.infinity,
-              child: FilledButton(
-                onPressed: allAnswered ? onSubmit : null,
-                child: Text(strings.quizCheckAnswers as String),
-              ),
-            ),
-          ),
-        ),
-      ],
+    return ListView.builder(
+      key: const ValueKey('quiz-questions'),
+      padding: EdgeInsets.fromLTRB(16, 12, 16, bottomPadding),
+      itemCount: questions.length,
+      itemBuilder: (_, qi) => _QuestionCard(
+        index: qi,
+        total: questions.length,
+        question: questions[qi],
+        selectedOption: selected[qi],
+        lang: lang,
+        onSelect: (oi) => onSelect(qi, oi),
+        strings: strings,
+        theme: theme,
+        scheme: scheme,
+      ),
     );
   }
 }
