@@ -48,6 +48,9 @@ class _BooksScreenState extends State<BooksScreen> {
         title: Text(strings.booksTitle),
         actions: [
           TextButton.icon(
+            style: TextButton.styleFrom(
+              foregroundColor: theme.appBarTheme.foregroundColor,
+            ),
             onPressed: () => Navigator.of(context).push(
               MaterialPageRoute<void>(
                 builder: (_) => const IntroScreen(fromBooks: true),
@@ -157,10 +160,10 @@ class _SectionTab extends StatelessWidget {
       label: label,
       child: ExcludeSemantics(
         child: Material(
-          color: selected ? scheme.primary : scheme.surface,
+          color: selected ? scheme.secondary : scheme.surface,
           shape: StadiumBorder(
             side: BorderSide(
-              color: selected ? scheme.primary : scheme.outlineVariant,
+              color: selected ? scheme.secondary : scheme.outlineVariant,
             ),
           ),
           clipBehavior: Clip.antiAlias,
@@ -176,7 +179,7 @@ class _SectionTab extends StatelessWidget {
                     style: TextStyle(
                       fontWeight: FontWeight.w600,
                       color: selected
-                          ? scheme.onPrimary
+                          ? scheme.onSecondary
                           : scheme.onSurfaceVariant,
                     ),
                   ),
@@ -207,7 +210,7 @@ class _BookTile extends StatelessWidget {
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
     final done = read >= book.totalChapters;
-    final teal = doneColor(context);
+    final completed = doneColor(context);
 
     return Semantics(
       button: true,
@@ -219,7 +222,7 @@ class _BookTile extends StatelessWidget {
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(14),
             side: BorderSide(
-              color: done ? teal : scheme.outlineVariant,
+              color: done ? completed : scheme.outlineVariant,
               width: done ? 1.5 : 1,
             ),
           ),
@@ -247,7 +250,17 @@ class _BookTile extends StatelessWidget {
                       ),
                       if (done) ...[
                         const SizedBox(width: 8),
-                        Icon(Icons.check_circle, color: teal, size: 22),
+                        DecoratedBox(
+                          decoration: BoxDecoration(
+                            color: completed,
+                            shape: BoxShape.circle,
+                          ),
+                          child: Icon(
+                            Icons.check,
+                            color: onDoneColor(context),
+                            size: 22,
+                          ),
+                        ),
                       ],
                     ],
                   ),
@@ -258,7 +271,7 @@ class _BookTile extends StatelessWidget {
                       value: read / book.totalChapters,
                       minHeight: 5,
                       backgroundColor: scheme.outlineVariant,
-                      color: done ? teal : scheme.primary,
+                      color: done ? completed : scheme.primary,
                     ),
                   ),
                 ],

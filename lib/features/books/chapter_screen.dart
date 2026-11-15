@@ -286,7 +286,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
     final name = book.nameFor(strings.lang);
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
-    final teal = doneColor(context);
+    final completed = doneColor(context);
 
     return Scaffold(
       appBar: AppBar(title: Text(name)),
@@ -318,12 +318,16 @@ class _ChapterScreenState extends State<ChapterScreen> {
                           Row(
                             mainAxisSize: MainAxisSize.min,
                             children: [
-                              Icon(Icons.check_circle, color: teal, size: 20),
+                              Icon(
+                                Icons.check_circle,
+                                color: doneForegroundColor(context),
+                                size: 20,
+                              ),
                               const SizedBox(width: 6),
                               Text(
                                 strings.finishedLabel,
                                 style: TextStyle(
-                                  color: teal,
+                                  color: doneForegroundColor(context),
                                   fontWeight: FontWeight.w700,
                                 ),
                               ),
@@ -338,7 +342,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                         value: count / book.totalChapters,
                         minHeight: 6,
                         backgroundColor: scheme.outlineVariant,
-                        color: done ? teal : scheme.primary,
+                        color: done ? completed : scheme.primary,
                       ),
                     ),
                   ],
@@ -353,7 +357,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                         margin: const EdgeInsets.fromLTRB(16, 4, 16, 4),
                         padding: const EdgeInsets.all(12),
                         decoration: BoxDecoration(
-                          color: teal,
+                          color: completed,
                           borderRadius: BorderRadius.circular(12),
                         ),
                         child: Text(
@@ -918,7 +922,7 @@ class _ChapterCell extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     final scheme = Theme.of(context).colorScheme;
-    final teal = doneColor(context);
+    final completed = doneColor(context);
     final busy = loading && !read;
 
     return Semantics(
@@ -926,11 +930,11 @@ class _ChapterCell extends StatelessWidget {
       label: context.s.chapterSemantics(number, read),
       child: ExcludeSemantics(
         child: Material(
-          color: read ? teal : scheme.surface,
+          color: read ? completed : scheme.surface,
           clipBehavior: Clip.antiAlias,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12),
-            side: BorderSide(color: read ? teal : scheme.outlineVariant),
+            side: BorderSide(color: read ? completed : scheme.outlineVariant),
           ),
           child: InkWell(
             onTap: busy ? null : onTap,

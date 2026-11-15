@@ -164,21 +164,15 @@ class _StarChangeScreenState extends State<StarChangeScreen>
   // ── colors ─────────────────────────────────────────────────────────────────
 
   Color _bgColor(BuildContext context) {
-    final brightness = Theme.of(context).brightness;
-    if (widget.isGain) {
-      return brightness == Brightness.light
-          ? const Color(0xFFFFF8E1)
-          : const Color(0xFF2A1F00);
-    } else {
-      return brightness == Brightness.light
-          ? const Color(0xFFECEFF4)
-          : const Color(0xFF141C2A);
-    }
+    final theme = Theme.of(context);
+    return widget.isGain
+        ? theme.colorScheme.secondaryContainer
+        : theme.scaffoldBackgroundColor;
   }
 
   Color _accentColor(BuildContext context) {
     if (widget.isGain) {
-      return const Color(0xFFF9A825); // golden
+      return Theme.of(context).colorScheme.primary;
     } else {
       return Theme.of(context).colorScheme.onSurfaceVariant;
     }

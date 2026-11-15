@@ -161,10 +161,9 @@ class _SpinnerScreenState extends State<SpinnerScreen>
   }
 
   List<Color> _sliceColors(BuildContext context, int n) {
-    final light = Theme.of(context).brightness == Brightness.light;
-    final a = light ? const Color(0xFF164B77) : const Color(0xFF2C5C9E);
-    final b = light ? const Color(0xFF2B7A6C) : const Color(0xFF2E8B78);
-    final c = light ? const Color(0xFF3B6E8F) : const Color(0xFF3F76A8);
+    const a = AppPalette.deepViolet;
+    const b = AppPalette.electricLime;
+    const c = AppPalette.softWhite;
     return [
       for (var i = 0; i < n; i++)
         (n.isOdd && n > 1 && i == n - 1) ? c : (i.isEven ? a : b),
@@ -189,6 +188,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
   Widget build(BuildContext context) {
     final theme = Theme.of(context);
     final scheme = theme.colorScheme;
+    final headerColor = theme.appBarTheme.foregroundColor ?? scheme.onSurface;
     final strings = context.s;
     final names = [for (final b in _wheel) b.nameFor(strings.lang)];
 
@@ -235,15 +235,15 @@ class _SpinnerScreenState extends State<SpinnerScreen>
                       },
                       style: theme.textTheme.bodyMedium?.copyWith(
                         color: _spinning
-                            ? scheme.onSurface.withValues(alpha: 0.38)
-                            : scheme.onSurface,
+                            ? headerColor.withValues(alpha: 0.38)
+                            : headerColor,
                       ),
                     ),
                     Icon(
                       Icons.arrow_drop_down,
                       color: _spinning
-                          ? scheme.onSurface.withValues(alpha: 0.38)
-                          : scheme.onSurface,
+                          ? headerColor.withValues(alpha: 0.38)
+                          : headerColor,
                     ),
                   ],
                 ),
@@ -451,7 +451,7 @@ class _WheelPainter extends CustomPainter {
     final divider = Paint()
       ..style = PaintingStyle.stroke
       ..strokeWidth = n > 30 ? 0.7 : 1.5
-      ..color = Colors.white;
+      ..color = AppPalette.deepViolet;
 
     final local = Rect.fromCircle(center: Offset.zero, radius: rect.width / 2);
     for (var i = 0; i < n; i++) {
@@ -483,7 +483,9 @@ class _WheelPainter extends CustomPainter {
         text: TextSpan(
           text: names[i],
           style: TextStyle(
-            color: Colors.white,
+            color: colors[i] == AppPalette.deepViolet
+                ? AppPalette.softWhite
+                : AppPalette.onLime,
             fontSize: fontSize,
             fontWeight: FontWeight.w700,
           ),

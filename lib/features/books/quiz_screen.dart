@@ -440,10 +440,10 @@ class _OptionTile extends StatelessWidget {
         margin: const EdgeInsets.only(bottom: 8),
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
         decoration: BoxDecoration(
-          color: selected ? scheme.primaryContainer : scheme.surface,
+          color: selected ? scheme.secondary : scheme.surface,
           borderRadius: BorderRadius.circular(10),
           border: Border.all(
-            color: selected ? scheme.primary : scheme.outlineVariant,
+            color: selected ? scheme.onSecondary : scheme.outlineVariant,
             width: selected ? 2 : 1,
           ),
         ),
@@ -454,16 +454,14 @@ class _OptionTile extends StatelessWidget {
                   ? Icons.radio_button_checked
                   : Icons.radio_button_unchecked,
               size: 18,
-              color: selected ? scheme.primary : scheme.onSurfaceVariant,
+              color: selected ? scheme.onSecondary : scheme.onSurfaceVariant,
             ),
             const SizedBox(width: 10),
             Expanded(
               child: Text(
                 label,
                 style: theme.textTheme.bodyMedium?.copyWith(
-                  color: selected
-                      ? scheme.onPrimaryContainer
-                      : scheme.onSurface,
+                  color: selected ? scheme.onSecondary : scheme.onSurface,
                   fontWeight: selected ? FontWeight.w600 : FontWeight.normal,
                 ),
               ),

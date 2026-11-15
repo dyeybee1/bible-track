@@ -12,19 +12,18 @@ class RankBadge extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final (icon, color) = const [
-      (Icons.grain, Color(0xFF986B38)),
-      (Icons.eco_outlined, Color(0xFF4B8B40)),
-      (Icons.local_florist_outlined, Color(0xFF23866C)),
-      (Icons.park_outlined, Color(0xFF2777A2)),
-      (Icons.spa_outlined, Color(0xFF8255B4)),
-      (Icons.shield_outlined, Color(0xFFB16B23)),
-      (Icons.explore_outlined, Color(0xFF5364B5)),
-      (Icons.auto_awesome, Color(0xFFBD496A)),
-      (Icons.auto_stories, Color(0xFFC09824)),
+    final icon = const [
+      Icons.grain,
+      Icons.eco_outlined,
+      Icons.local_florist_outlined,
+      Icons.park_outlined,
+      Icons.spa_outlined,
+      Icons.shield_outlined,
+      Icons.explore_outlined,
+      Icons.auto_awesome,
+      Icons.auto_stories,
     ][rankLadder.indexOf(tier)];
-    final dark = Theme.of(context).brightness == Brightness.dark;
-    final foreground = dark ? Color.lerp(color, Colors.white, 0.35)! : color;
+    final foreground = Theme.of(context).colorScheme.primary;
     return Semantics(
       label: context.s.rankTierName(tier),
       image: true,
