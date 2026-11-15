@@ -42,7 +42,7 @@ Validation: **140 Flutter tests passed**; `flutter analyze` still reports only t
 
 The widget checks exposed and fixed background loading animation under the sheet, text overflow in the chapter header/finisher preview, and Settings card ink painting. These fixes stay within the requested screens. No existing analyzer findings were changed.
 
-This Flutter SDK's generated worker unregisters the old caching worker; see the [Flutter initialization documentation](https://docs.flutter.dev/platform-integration/web/initialization#service-worker-deprecation). The custom bootstrap now registers a versioned static-file worker and uses bundled CanvasKit instead of a CDN. Its first online installation caches all Bible books, quizzes, app shell, fonts and renderer before activation. Dart still loads/decodes only one book at a time. Imported resource metadata changes the worker version when reader sources change. Regenerate it with `python tools/convert_bible.py` before a release build after source changes.
+This Flutter SDK's generated worker unregisters the old caching worker; see the [Flutter initialization documentation](https://docs.flutter.dev/platform-integration/web/initialization#service-worker-deprecation). The custom bootstrap uses bundled CanvasKit instead of a CDN. `pwa_update.js` registers the static-file worker and offers user-controlled updates. Run `node tools/build_pwa.cjs` **after every release web build**; it hashes the actual compiled app, shell, assets, fonts, Bible books, quizzes and renderer. The Python converter no longer generates worker metadata. See `pwa_update_report.md` for the repair and legacy-device migration. Dart still loads/decodes only one book at a time.
 
 A **real headless Chromium check passed with HTTP cache disabled and the network offline**, reading previously unopened English and Tagalog book files, the mapping, local renderer and app shell from **238 precached static files**. This checks reader static resources; it does not change or replace the existing sign-in/sync flow. No account APIs, auth endpoints, Firebase documents or cloud responses enter the reader cache. Browser cache installation must complete during an online visit before PWA offline use; native text is available directly in the package.
 
@@ -83,6 +83,7 @@ node --test tools/reader_service_worker_test.cjs
 flutter analyze
 flutter test --reporter expanded --timeout 60s
 flutter build web --release
+node tools/build_pwa.cjs
 flutter build apk --release --no-pub
 flutter build appbundle --release --no-pub
 node tools/check_reader_offline.cjs

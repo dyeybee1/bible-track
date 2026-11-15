@@ -1,13 +1,12 @@
 """Measure real release artifacts against the isolated pre-reader build.
 
-Run after identical release web/APK/AAB builds:
+Run after identical release web/APK/AAB builds and node tools/build_pwa.cjs:
 python tools/measure_reader_size.py --baseline build/reader_size/baseline
 """
 import argparse
 import hashlib
 import json
 from pathlib import Path
-import re
 import zipfile
 
 ROOT=Path(__file__).resolve().parents[1]
@@ -39,17 +38,19 @@ def verify_bundles():
                 if archive.read(prefix+name)!=data:raise SystemExit(f'{label} contains stale text: {name}')
     for name,data in assets.items():
         if (ROOT/'build/web/assets'/name).read_bytes()!=data:raise SystemExit(f'Web contains stale text: {name}')
-    manifest_text=(ROOT/'web/reader_offline_assets.js').read_text(encoding='utf8')
+    manifest_text=(ROOT/'build/web/reader_offline_assets.js').read_text(encoding='utf8')
     manifest=json.loads(manifest_text.split('self.READER_OFFLINE = ',1)[1].strip().removesuffix(';'))
-    worker=(ROOT/'web/reader_service_worker.js').read_text(encoding='utf8')
-    core_block=worker.split('const CORE = [',1)[1].split('];',1)[0]
-    core=re.findall(r"'([^']+)'",core_block)
-    fonts=json.loads((ROOT/'build/web/assets/FontManifest.json').read_text(encoding='utf8'))
-    required=set(core+manifest['files']+['assets/'+font['asset'] for family in fonts for font in family['fonts']])
+    required=set(manifest['files'])
     for name in required:
         if not (ROOT/'build/web'/name).is_file():raise SystemExit(f'Offline cache path missing from web output: {name}')
+        if hashlib.sha256((ROOT/'build/web'/name).read_bytes()).hexdigest()!=manifest['resources'][name]:
+            raise SystemExit(f'Offline cache hash mismatch: {name}')
+    version=json.loads((ROOT/'build/web/version.json').read_text(encoding='utf8'))
+    if version.get('buildHash')!=manifest['version']:
+        raise SystemExit('PWA metadata differs; rerun node tools/build_pwa.cjs')
     bootstrap=(ROOT/'build/web/flutter_bootstrap.js').read_text(encoding='utf8')
-    if 'reader_service_worker.js' not in bootstrap or 'canvasKitBaseUrl' not in bootstrap:
+    index=(ROOT/'build/web/index.html').read_text(encoding='utf8')
+    if 'pwa_update.js' not in index or 'canvasKitBaseUrl' not in bootstrap:
         raise SystemExit('Custom offline bootstrap not in release build')
     return len(assets),len(required)
 
@@ -76,7 +77,7 @@ def main():
       f"Web file counts: baseline {baseline['Web output']['files']}; reader {current['Web output']['files']}. All {cache_files} offline precache paths exist in the release output.",
       'The web total is the uncompressed build directory footprint, including local renderer files; it is not a measured HTTP transfer size. AAB size is the upload archive, not a Play Store per-device download estimate.',
       'The PWA prepares static app files, all Bible books, quizzes and local rendering resources on the first online visit. Offline use is available after that cache installation completes. Native APK/AAB text is bundled immediately. No Firebase documents, auth endpoints or sync responses are cached by the reader worker.','',
-      '## Reproduce','', '```text','python tools/convert_bible.py','flutter build web --release','flutter build apk --release --no-pub','flutter build appbundle --release --no-pub',
+      '## Reproduce','', '```text','python tools/convert_bible.py','flutter build web --release','node tools/build_pwa.cjs','flutter build apk --release --no-pub','flutter build appbundle --release --no-pub',
       'python tools/measure_reader_size.py --baseline build/reader_size/baseline','```','',
       'Machine-readable artifact sizes and SHA-256 values are in `reader_size_report.json`. Release artifacts stay under ignored build directories; no deployment was performed.','']
     (ROOT/'tools/reader_size_report.md').write_text('\n'.join(lines),encoding='utf8',newline='\n')

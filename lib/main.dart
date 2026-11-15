@@ -12,6 +12,8 @@ import 'data/settings_controller.dart';
 import 'features/auth/auth_gate.dart';
 import 'firebase_options.dart'; // created by `flutterfire configure`
 import 'settings_scope.dart';
+import 'platform/pwa_language_stub.dart'
+    if (dart.library.js_interop) 'platform/pwa_language_web.dart';
 import 'theme/app_theme.dart';
 
 Future<void> main() async {
@@ -66,26 +68,29 @@ class BibleTrackApp extends StatelessWidget {
       controller: settings,
       child: ListenableBuilder(
         listenable: settings,
-        builder: (context, _) => MaterialApp(
-          title: 'Bible Track',
-          debugShowCheckedModeBanner: false,
-          theme: lightTheme,
-          darkTheme: darkTheme,
-          themeMode: settings.themeMode,
-          locale: Locale(settings.language),
-          supportedLocales: const [Locale('fil'), Locale('en')],
-          localizationsDelegates: const [
-            GlobalMaterialLocalizations.delegate,
-            GlobalWidgetsLocalizations.delegate,
-            GlobalCupertinoLocalizations.delegate,
-          ],
-          home: AuthGate(
-            account: account,
-            progress: progress,
-            cloud: cloud,
-            quizRepo: quizRepo,
-          ),
-        ),
+        builder: (context, _) {
+          setPwaLanguage(settings.language);
+          return MaterialApp(
+            title: 'Bible Track',
+            debugShowCheckedModeBanner: false,
+            theme: lightTheme,
+            darkTheme: darkTheme,
+            themeMode: settings.themeMode,
+            locale: Locale(settings.language),
+            supportedLocales: const [Locale('fil'), Locale('en')],
+            localizationsDelegates: const [
+              GlobalMaterialLocalizations.delegate,
+              GlobalWidgetsLocalizations.delegate,
+              GlobalCupertinoLocalizations.delegate,
+            ],
+            home: AuthGate(
+              account: account,
+              progress: progress,
+              cloud: cloud,
+              quizRepo: quizRepo,
+            ),
+          );
+        },
       ),
     );
   }
