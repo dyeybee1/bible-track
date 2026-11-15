@@ -11,6 +11,7 @@ import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
+import '../../widgets/app_header.dart';
 import '../books/chapter_screen.dart';
 
 /// Scope for the spinner wheel.
@@ -162,8 +163,8 @@ class _SpinnerScreenState extends State<SpinnerScreen>
 
   List<Color> _sliceColors(BuildContext context, int n) {
     const a = AppPalette.deepViolet;
-    const b = AppPalette.electricLime;
-    const c = AppPalette.softWhite;
+    final b = Theme.of(context).colorScheme.primaryContainer;
+    const c = AppPalette.electricLime;
     return [
       for (var i = 0; i < n; i++)
         (n.isOdd && n > 1 && i == n - 1) ? c : (i.isEven ? a : b),
@@ -193,8 +194,9 @@ class _SpinnerScreenState extends State<SpinnerScreen>
     final names = [for (final b in _wheel) b.nameFor(strings.lang)];
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(strings.spinTitle),
+      appBar: appHeader(
+        context,
+        title: strings.spinTitle,
         actions: [
           // ---- Scope dropdown (Task 2) ----
           Semantics(
@@ -253,7 +255,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
         ],
       ),
       body: SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
+        padding: const EdgeInsets.fromLTRB(24, 24, 24, 32),
         child: Column(
           children: [
             // ---- Wheel or empty state (Tasks 2, 3) ----
@@ -279,13 +281,9 @@ class _SpinnerScreenState extends State<SpinnerScreen>
               Column(
                 children: [
                   // Pointer arrow (Task 3 — visible above wheel).
-                  Icon(
-                    Icons.arrow_drop_down,
-                    size: 48,
-                    color: scheme.onSurface,
-                  ),
+                  Icon(Icons.arrow_drop_down, size: 48, color: scheme.primary),
                   ConstrainedBox(
-                    constraints: const BoxConstraints(maxWidth: 420),
+                    constraints: const BoxConstraints(maxWidth: 340),
                     child: AspectRatio(
                       aspectRatio: 1,
                       child: Semantics(
@@ -298,8 +296,8 @@ class _SpinnerScreenState extends State<SpinnerScreen>
                               names: names,
                               colors: _sliceColors(context, names.length),
                               rotation: _angle,
-                              hubColor: scheme.surface,
-                              lineColor: scheme.onSurface,
+                              hubColor: scheme.secondary,
+                              lineColor: scheme.outlineVariant,
                             ),
                           ),
                         ),
@@ -451,7 +449,7 @@ class _WheelPainter extends CustomPainter {
     final divider = Paint()
       ..style = PaintingStyle.stroke
       ..strokeWidth = n > 30 ? 0.7 : 1.5
-      ..color = AppPalette.deepViolet;
+      ..color = lineColor;
 
     final local = Rect.fromCircle(center: Offset.zero, radius: rect.width / 2);
     for (var i = 0; i < n; i++) {
@@ -468,7 +466,11 @@ class _WheelPainter extends CustomPainter {
       final probe = TextPainter(
         text: TextSpan(
           text: names[i],
-          style: const TextStyle(fontSize: 10, fontWeight: FontWeight.w700),
+          style: const TextStyle(
+            fontFamily: 'Roboto',
+            fontSize: 10,
+            fontWeight: FontWeight.w500,
+          ),
         ),
         textDirection: TextDirection.ltr,
       )..layout();
@@ -483,11 +485,14 @@ class _WheelPainter extends CustomPainter {
         text: TextSpan(
           text: names[i],
           style: TextStyle(
-            color: colors[i] == AppPalette.deepViolet
+            color:
+                ThemeData.estimateBrightnessForColor(colors[i]) ==
+                    Brightness.dark
                 ? AppPalette.softWhite
                 : AppPalette.onLime,
+            fontFamily: 'Roboto',
             fontSize: fontSize,
-            fontWeight: FontWeight.w700,
+            fontWeight: FontWeight.w500,
           ),
         ),
         textDirection: TextDirection.ltr,

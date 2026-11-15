@@ -32,19 +32,15 @@ class ProfileDetails extends StatelessWidget {
         : String.fromCharCode(username.runes.first).toUpperCase();
     return Column(
       children: [
-        CurrentRankCard(stars: chaptersRead),
-        const SizedBox(height: 8),
-        HighestRankCard(maxStarsEver: maxStars),
-        const SizedBox(height: 20),
         Center(
           child: CircleAvatar(
-            radius: 42,
+            radius: 36,
             backgroundColor: scheme.primary,
             child: Text(
               initial,
               style: TextStyle(
-                fontSize: 36,
-                fontWeight: FontWeight.w600,
+                fontSize: 30,
+                fontWeight: FontWeight.w500,
                 color: scheme.onPrimary,
               ),
             ),
@@ -52,7 +48,11 @@ class ProfileDetails extends StatelessWidget {
         ),
         const SizedBox(height: 12),
         Center(child: Text(username, style: theme.textTheme.headlineSmall)),
-        const SizedBox(height: 20),
+        const SizedBox(height: 28),
+        CurrentRankCard(stars: chaptersRead),
+        const SizedBox(height: 12),
+        HighestRankCard(maxStarsEver: maxStars),
+        const SizedBox(height: 24),
 
         ProfileStatsSection(
           timesCompleted: timesCompleted,
@@ -104,7 +104,7 @@ class ProfileStatsSection extends StatelessWidget {
             ],
           ),
         ),
-        const SizedBox(height: 8),
+        const SizedBox(height: 12),
         Row(
           children: [
             Expanded(
@@ -113,7 +113,7 @@ class ProfileStatsSection extends StatelessWidget {
                 label: strings.booksFinishedLabel,
               ),
             ),
-            const SizedBox(width: 8),
+            const SizedBox(width: 12),
             Expanded(
               child: _StatTile(
                 value: '$chapters/$totalChaptersInBible',
@@ -122,7 +122,7 @@ class ProfileStatsSection extends StatelessWidget {
             ),
           ],
         ),
-        const SizedBox(height: 8),
+        const SizedBox(height: 12),
         _Panel(
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,

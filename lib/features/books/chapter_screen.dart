@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:flutter/material.dart';
+import '../../widgets/app_header.dart';
 
 import '../../data/account_controller.dart';
 import '../../data/bible_text_repository.dart';
@@ -289,7 +290,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
     final completed = doneColor(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text(name)),
+      appBar: appHeader(context, title: name),
       body: ListenableBuilder(
         listenable: widget.progress,
         builder: (context, _) {
@@ -300,7 +301,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
           return Column(
             children: [
               Padding(
-                padding: const EdgeInsets.fromLTRB(20, 4, 20, 8),
+                padding: const EdgeInsets.fromLTRB(20, 24, 20, 16),
                 child: Column(
                   crossAxisAlignment: CrossAxisAlignment.start,
                   children: [

@@ -6,6 +6,7 @@ import '../../data/settings_controller.dart';
 import '../../models/sync_status.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_logo.dart';
+import '../../widgets/app_header.dart';
 import 'text_sources_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
@@ -31,29 +32,35 @@ class SettingsScreen extends StatelessWidget {
     final settings = SettingsScope.of(context);
 
     return Scaffold(
-      appBar: AppBar(title: Text(strings.navSettings)),
+      appBar: appHeader(context, title: strings.navSettings, themeToggle: true),
       body: ListView(
-        padding: const EdgeInsets.fromLTRB(16, 8, 16, 32),
+        padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
         children: [
           // ---- Header (Task 6.1) ----
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 20),
-            child: Column(
+            child: Row(
               children: [
-                const AppLogo(size: 72),
-                const SizedBox(height: 12),
-                Text(
-                  'Bible Track',
-                  style: theme.textTheme.titleLarge?.copyWith(
-                    fontWeight: FontWeight.w700,
-                  ),
-                ),
-                const SizedBox(height: 4),
-                Text(
-                  strings.loginTagline,
-                  textAlign: TextAlign.center,
-                  style: theme.textTheme.bodySmall?.copyWith(
-                    color: theme.colorScheme.onSurfaceVariant,
+                const AppLogo(size: 56),
+                const SizedBox(width: 16),
+                Expanded(
+                  child: Column(
+                    crossAxisAlignment: CrossAxisAlignment.start,
+                    children: [
+                      Text(
+                        'Bible Track',
+                        style: theme.textTheme.titleLarge?.copyWith(
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                      const SizedBox(height: 4),
+                      Text(
+                        strings.loginTagline,
+                        style: theme.textTheme.bodySmall?.copyWith(
+                          color: theme.colorScheme.onSurfaceVariant,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               ],

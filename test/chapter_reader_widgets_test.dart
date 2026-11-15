@@ -577,7 +577,11 @@ void main() {
         ),
       );
       final offset = scroll.position.pixels;
-      for (var i = 0; i < 2; i++) {
+      for (
+        var i = settings.readerFontSizeIndex;
+        i < SettingsController.readerFontSizes.length - 1;
+        i++
+      ) {
         await tester.tap(larger);
         await tester.pumpAndSettle();
       }
@@ -879,6 +883,7 @@ void main() {
     await tester.ensureVisible(
       find.text(settings.language == 'fil' ? 'Mali' : 'Wrong'),
     );
+    await tester.pumpAndSettle();
     await tester.tap(find.text(settings.language == 'fil' ? 'Mali' : 'Wrong'));
     await tester.pump();
     await tester.tap(find.text(strings.quizCheckAnswers));

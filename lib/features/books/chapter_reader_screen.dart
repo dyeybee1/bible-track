@@ -6,6 +6,7 @@ import '../../data/quiz_repository.dart';
 import '../../data/settings_controller.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
+import '../../widgets/app_header.dart';
 import '../settings/text_sources_screen.dart';
 import 'quiz_screen.dart';
 
@@ -108,94 +109,35 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
     final s = context.s;
     final settings = SettingsScope.of(context);
     final theme = Theme.of(context);
-    final headerColor =
-        theme.appBarTheme.foregroundColor ?? theme.colorScheme.onSurface;
     return Scaffold(
-      appBar: AppBar(
-        title: Text(s.bookChapter(widget.book.nameFor(s.lang), _chapter)),
-        bottom: PreferredSize(
-          preferredSize: const Size.fromHeight(60),
-          child: Align(
-            alignment: Alignment.centerRight,
-            child: Padding(
-              padding: const EdgeInsets.fromLTRB(16, 0, 16, 8),
-              child: DecoratedBox(
-                decoration: BoxDecoration(
-                  border: Border.all(color: headerColor.withValues(alpha: .4)),
-                  borderRadius: BorderRadius.circular(28),
-                ),
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  children: [
-                    IconButton(
-                      key: const ValueKey('reader-font-smaller'),
-                      tooltip: s.readerSmaller,
-                      constraints: const BoxConstraints(
-                        minWidth: 48,
-                        minHeight: 48,
-                      ),
-                      onPressed: settings.readerFontSizeIndex > 0
-                          ? () => settings.setReaderFontSize(
-                              SettingsController.readerFontSizes[settings
-                                      .readerFontSizeIndex -
-                                  1],
-                            )
-                          : null,
-                      icon: const Icon(Icons.text_decrease),
-                      color: headerColor,
-                      disabledColor: headerColor.withValues(alpha: .38),
-                    ),
-                    SizedBox(
-                      height: 24,
-                      child: VerticalDivider(
-                        width: 1,
-                        color: headerColor.withValues(alpha: .4),
-                      ),
-                    ),
-                    IconButton(
-                      key: const ValueKey('reader-font-larger'),
-                      tooltip: s.readerLarger,
-                      constraints: const BoxConstraints(
-                        minWidth: 48,
-                        minHeight: 48,
-                      ),
-                      onPressed:
-                          settings.readerFontSizeIndex <
-                              SettingsController.readerFontSizes.length - 1
-                          ? () => settings.setReaderFontSize(
-                              SettingsController.readerFontSizes[settings
-                                      .readerFontSizeIndex +
-                                  1],
-                            )
-                          : null,
-                      icon: const Icon(Icons.text_increase),
-                      color: headerColor,
-                      disabledColor: headerColor.withValues(alpha: .38),
-                    ),
-                  ],
-                ),
-              ),
-            ),
-          ),
-        ),
+      appBar: appHeader(
+        context,
+        title: s.bookChapter(widget.book.nameFor(s.lang), _chapter),
+        themeToggle: true,
       ),
       body: SafeArea(
         bottom: false,
         child: Column(
           children: [
+            const _ReaderTools(),
             Expanded(
               child: FutureBuilder<List<Verse>>(
                 future: _text,
                 builder: (context, snapshot) {
                   if (snapshot.connectionState != ConnectionState.done) {
                     return Center(
-                      child: Column(
-                        mainAxisSize: MainAxisSize.min,
-                        children: [
-                          const CircularProgressIndicator(),
-                          const SizedBox(height: 12),
-                          Text(s.readerLoading),
-                        ],
+                      child: SingleChildScrollView(
+                        child: Padding(
+                          padding: const EdgeInsets.all(16),
+                          child: Column(
+                            mainAxisSize: MainAxisSize.min,
+                            children: [
+                              const CircularProgressIndicator(),
+                              const SizedBox(height: 12),
+                              Text(s.readerLoading),
+                            ],
+                          ),
+                        ),
                       ),
                     );
                   }
@@ -259,12 +201,12 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                   return ListView.builder(
                     key: const ValueKey('reader-verses'),
                     controller: _scroll,
-                    padding: const EdgeInsets.fromLTRB(20, 8, 20, 24),
+                    padding: const EdgeInsets.fromLTRB(24, 14, 24, 24),
                     itemCount: verses.length,
                     itemBuilder: (context, index) {
                       final verse = verses[index];
                       return Padding(
-                        padding: const EdgeInsets.only(bottom: 10),
+                        padding: const EdgeInsets.only(bottom: 14),
                         child: Text.rich(
                           key: ValueKey('reader-verse-${verse.number}'),
                           TextSpan(
@@ -273,7 +215,7 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                                 alignment: PlaceholderAlignment.top,
                                 child: Padding(
                                   padding: const EdgeInsets.only(
-                                    right: 5,
+                                    right: 7,
                                     top: 3,
                                   ),
                                   child: Text(
@@ -291,7 +233,8 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                           ),
                           style: theme.textTheme.bodyLarge?.copyWith(
                             fontSize: settings.readerFontSize,
-                            height: 1.65,
+                            height: 1.8,
+                            letterSpacing: 0,
                           ),
                         ),
                       );
@@ -307,7 +250,9 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
               child: Text(
                 s.readerCredit(_translation == BibleTranslation.web),
                 textAlign: TextAlign.center,
-                style: theme.textTheme.labelSmall,
+                style: theme.textTheme.labelSmall?.copyWith(
+                  color: theme.colorScheme.onSurfaceVariant,
+                ),
               ),
             ),
           ],
@@ -315,11 +260,11 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
       ),
       bottomNavigationBar: Material(
         color: theme.colorScheme.surface,
-        elevation: 4,
+        elevation: 0,
         child: SafeArea(
           top: false,
           child: Padding(
-            padding: const EdgeInsets.symmetric(horizontal: 12, vertical: 8),
+            padding: const EdgeInsets.fromLTRB(16, 12, 16, 18),
             child: SizedBox(
               width: double.infinity,
               child: ListenableBuilder(
@@ -354,6 +299,89 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
             ),
           ),
         ),
+      ),
+    );
+  }
+}
+
+class _ReaderTools extends StatelessWidget {
+  const _ReaderTools();
+
+  @override
+  Widget build(BuildContext context) {
+    final settings = SettingsScope.of(context);
+    final s = context.s;
+    final theme = Theme.of(context);
+    final scheme = theme.colorScheme;
+    return Padding(
+      padding: const EdgeInsets.fromLTRB(20, 16, 20, 8),
+      child: Row(
+        children: [
+          Expanded(
+            child: Text(
+              s.lang == 'fil' ? 'Ang Biblia 1905' : 'World English Bible',
+              style: theme.textTheme.labelSmall?.copyWith(
+                color: scheme.onSurfaceVariant,
+              ),
+            ),
+          ),
+          const SizedBox(width: 12),
+          DecoratedBox(
+            decoration: BoxDecoration(
+              color: scheme.surface,
+              border: Border.all(color: scheme.outlineVariant),
+              borderRadius: BorderRadius.circular(28),
+            ),
+            child: Row(
+              mainAxisSize: MainAxisSize.min,
+              children: [
+                IconButton(
+                  key: const ValueKey('reader-font-smaller'),
+                  tooltip: s.readerSmaller,
+                  constraints: const BoxConstraints(
+                    minWidth: 48,
+                    minHeight: 48,
+                  ),
+                  color: scheme.primary,
+                  onPressed: settings.readerFontSizeIndex > 0
+                      ? () => settings.setReaderFontSize(
+                          SettingsController.readerFontSizes[settings
+                                  .readerFontSizeIndex -
+                              1],
+                        )
+                      : null,
+                  icon: const Icon(Icons.text_decrease, size: 20),
+                ),
+                SizedBox(
+                  height: 24,
+                  child: VerticalDivider(
+                    width: 1,
+                    color: scheme.outlineVariant,
+                  ),
+                ),
+                IconButton(
+                  key: const ValueKey('reader-font-larger'),
+                  tooltip: s.readerLarger,
+                  constraints: const BoxConstraints(
+                    minWidth: 48,
+                    minHeight: 48,
+                  ),
+                  color: scheme.primary,
+                  onPressed:
+                      settings.readerFontSizeIndex <
+                          SettingsController.readerFontSizes.length - 1
+                      ? () => settings.setReaderFontSize(
+                          SettingsController.readerFontSizes[settings
+                                  .readerFontSizeIndex +
+                              1],
+                        )
+                      : null,
+                  icon: const Icon(Icons.text_increase, size: 20),
+                ),
+              ],
+            ),
+          ),
+        ],
       ),
     );
   }

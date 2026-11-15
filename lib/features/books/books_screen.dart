@@ -8,6 +8,7 @@ import '../../data/quiz_repository.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
+import '../../widgets/app_header.dart';
 import '../intro/intro_screen.dart';
 import 'chapter_screen.dart';
 
@@ -44,20 +45,19 @@ class _BooksScreenState extends State<BooksScreen> {
     final strings = context.s;
 
     return Scaffold(
-      appBar: AppBar(
-        title: Text(strings.booksTitle),
+      appBar: appHeader(
+        context,
+        title: strings.booksTitle,
+        themeToggle: true,
         actions: [
-          TextButton.icon(
-            style: TextButton.styleFrom(
-              foregroundColor: theme.appBarTheme.foregroundColor,
-            ),
+          IconButton(
+            tooltip: strings.howToUse,
             onPressed: () => Navigator.of(context).push(
               MaterialPageRoute<void>(
                 builder: (_) => const IntroScreen(fromBooks: true),
               ),
             ),
             icon: const Icon(Icons.info_outline, size: 20),
-            label: Text(strings.howToUse),
           ),
         ],
       ),
@@ -70,7 +70,7 @@ class _BooksScreenState extends State<BooksScreen> {
           return Column(
             children: [
               Padding(
-                padding: const EdgeInsets.fromLTRB(13, 4, 13, 8),
+                padding: const EdgeInsets.fromLTRB(13, 16, 13, 12),
                 child: Row(
                   children: [
                     for (final s in _tabOrder)
@@ -88,17 +88,22 @@ class _BooksScreenState extends State<BooksScreen> {
                 ),
               ),
               Padding(
-                padding: const EdgeInsets.fromLTRB(20, 8, 20, 8),
+                padding: const EdgeInsets.fromLTRB(20, 10, 20, 14),
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text(
-                      strings.sectionName(_section),
-                      style: theme.textTheme.titleLarge,
+                    Expanded(
+                      child: Text(
+                        strings.sectionName(_section),
+                        style: theme.textTheme.titleLarge?.copyWith(
+                          fontSize: 18,
+                        ),
+                      ),
                     ),
+                    const SizedBox(width: 12),
                     Text(
                       strings.finishedCount(finished, books.length),
-                      style: theme.textTheme.bodyMedium?.copyWith(
+                      style: theme.textTheme.bodySmall?.copyWith(
                         color: theme.colorScheme.onSurfaceVariant,
                       ),
                     ),
@@ -108,7 +113,7 @@ class _BooksScreenState extends State<BooksScreen> {
               Expanded(
                 child: ListView.separated(
                   key: ValueKey(_section), // resets scroll when switching tabs
-                  padding: const EdgeInsets.fromLTRB(16, 0, 16, 16),
+                  padding: const EdgeInsets.fromLTRB(16, 0, 16, 24),
                   itemCount: books.length,
                   separatorBuilder: (_, _) => const SizedBox(height: 8),
                   itemBuilder: (context, i) {
@@ -169,18 +174,26 @@ class _SectionTab extends StatelessWidget {
           clipBehavior: Clip.antiAlias,
           child: InkWell(
             onTap: onTap,
-            child: Padding(
-              padding: const EdgeInsets.symmetric(vertical: 10, horizontal: 6),
-              child: Center(
-                child: FittedBox(
-                  fit: BoxFit.scaleDown,
-                  child: Text(
-                    label,
-                    style: TextStyle(
-                      fontWeight: FontWeight.w600,
-                      color: selected
-                          ? scheme.onSecondary
-                          : scheme.onSurfaceVariant,
+            child: ConstrainedBox(
+              constraints: const BoxConstraints(minHeight: 44),
+              child: Padding(
+                padding: const EdgeInsets.symmetric(
+                  vertical: 10,
+                  horizontal: 6,
+                ),
+                child: Center(
+                  child: FittedBox(
+                    fit: BoxFit.scaleDown,
+                    child: Text(
+                      label,
+                      style: TextStyle(
+                        fontSize: 11,
+                        height: 1.3,
+                        fontWeight: FontWeight.w500,
+                        color: selected
+                            ? scheme.onSecondary
+                            : scheme.onSurfaceVariant,
+                      ),
                     ),
                   ),
                 ),
@@ -229,7 +242,7 @@ class _BookTile extends StatelessWidget {
           child: InkWell(
             onTap: onTap,
             child: Padding(
-              padding: const EdgeInsets.fromLTRB(16, 12, 16, 12),
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 18),
               child: Column(
                 crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
@@ -238,15 +251,15 @@ class _BookTile extends StatelessWidget {
                       Expanded(
                         child: Text(
                           name,
-                          style: const TextStyle(
-                            fontSize: 16,
-                            fontWeight: FontWeight.w700,
-                          ),
+                          style: Theme.of(context).textTheme.titleMedium,
                         ),
                       ),
                       Text(
                         '$read/${book.totalChapters}',
-                        style: TextStyle(color: scheme.onSurfaceVariant),
+                        style: TextStyle(
+                          fontSize: 13,
+                          color: scheme.onSurfaceVariant,
+                        ),
                       ),
                       if (done) ...[
                         const SizedBox(width: 8),
@@ -258,13 +271,13 @@ class _BookTile extends StatelessWidget {
                           child: Icon(
                             Icons.check,
                             color: onDoneColor(context),
-                            size: 22,
+                            size: 20,
                           ),
                         ),
                       ],
                     ],
                   ),
-                  const SizedBox(height: 8),
+                  const SizedBox(height: 12),
                   ClipRRect(
                     borderRadius: BorderRadius.circular(8),
                     child: LinearProgressIndicator(

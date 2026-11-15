@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../widgets/app_header.dart';
 
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
@@ -101,7 +102,11 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
 
     if (uid == null) {
       return Scaffold(
-        appBar: AppBar(title: Text(strings.leaderboardTitle)),
+        appBar: appHeader(
+          context,
+          title: strings.leaderboardTitle,
+          themeToggle: true,
+        ),
         body: const SizedBox.shrink(),
       );
     }
@@ -110,13 +115,21 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
 
     if (ctrl == null || ctrl.status == LeaderboardStatus.loading) {
       return Scaffold(
-        appBar: AppBar(title: Text(strings.leaderboardTitle)),
+        appBar: appHeader(
+          context,
+          title: strings.leaderboardTitle,
+          themeToggle: true,
+        ),
         body: const Center(child: CircularProgressIndicator()),
       );
     }
 
     return Scaffold(
-      appBar: AppBar(title: Text(strings.leaderboardTitle)),
+      appBar: appHeader(
+        context,
+        title: strings.leaderboardTitle,
+        themeToggle: true,
+      ),
       body: _LeaderboardBody(
         ctrl: ctrl,
         currentUid: uid,

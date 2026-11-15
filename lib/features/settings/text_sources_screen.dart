@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../../settings_scope.dart';
+import '../../widgets/app_header.dart';
 
 class TextSourcesScreen extends StatelessWidget {
   const TextSourcesScreen({super.key});
@@ -9,7 +10,7 @@ class TextSourcesScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final s = context.s;
     return Scaffold(
-      appBar: AppBar(title: Text(s.textSources)),
+      appBar: appHeader(context, title: s.textSources),
       body: SafeArea(
         child: ListView(
           padding: const EdgeInsets.all(20),

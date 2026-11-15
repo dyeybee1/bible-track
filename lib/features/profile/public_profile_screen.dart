@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../data/cloud_repository.dart';
 import '../../data/public_profile.dart';
 import '../../settings_scope.dart';
+import '../../widgets/app_header.dart';
 import 'profile_sections.dart';
 
 class PublicProfileScreen extends StatefulWidget {
@@ -40,7 +41,7 @@ class _PublicProfileScreenState extends State<PublicProfileScreen> {
   Widget build(BuildContext context) {
     final strings = context.s;
     return Scaffold(
-      appBar: AppBar(title: Text(strings.navProfile)),
+      appBar: appHeader(context, title: strings.navProfile),
       body: FutureBuilder<PublicProfile?>(
         future: _profile,
         builder: (context, snapshot) {

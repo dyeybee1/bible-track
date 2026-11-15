@@ -62,7 +62,7 @@ class _UsernameScreenState extends State<UsernameScreen> {
                     strings.usernamePromptTitle,
                     textAlign: TextAlign.center,
                     style: theme.textTheme.headlineSmall?.copyWith(
-                      fontWeight: FontWeight.w700,
+                      fontWeight: FontWeight.w500,
                     ),
                   ),
                   const SizedBox(height: 8),

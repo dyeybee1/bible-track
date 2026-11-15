@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../../widgets/app_header.dart';
 
 import '../../data/bible_text_repository.dart';
 import '../../data/progress_controller.dart';
@@ -197,6 +198,9 @@ class _QuizPageState extends State<_QuizPage> {
         canRead &&
         MediaQuery.viewInsetsOf(context).bottom == 0 &&
         (ModalRoute.isCurrentOf(context) ?? true);
+    // Large text needs reserved space for both actions instead of an overlay.
+    final readFirstInline =
+        showReadFirst && MediaQuery.textScalerOf(context).scale(14) > 21;
     // Reserve the floating action's full height even when its label wraps at
     // large text sizes. The final option can then scroll above the action.
     final actionWidth =
@@ -222,8 +226,9 @@ class _QuizPageState extends State<_QuizPage> {
       },
       child: Scaffold(
         key: const ValueKey('chapter-quiz-screen'),
-        appBar: AppBar(
-          title: Text(strings.quizTitle(widget.chapter)),
+        appBar: appHeader(
+          context,
+          title: strings.quizTitle(widget.chapter),
           leading: IconButton(
             icon: const Icon(Icons.close),
             tooltip: strings.chapterClose,
@@ -235,19 +240,37 @@ class _QuizPageState extends State<_QuizPage> {
                 top: false,
                 child: Padding(
                   padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
-                  child: FilledButton(
-                    key: const ValueKey('quiz-submit-action'),
-                    onPressed: _allAnswered ? _submit : null,
-                    child: Text(
-                      strings.quizCheckAnswers,
-                      textAlign: TextAlign.center,
-                    ),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      if (readFirstInline) ...[
+                        OutlinedButton.icon(
+                          key: const ValueKey('quiz-read-first-action'),
+                          onPressed: _readChapter,
+                          icon: const Icon(Icons.menu_book_outlined),
+                          label: Text(
+                            strings.quizReadFirst,
+                            textAlign: TextAlign.center,
+                          ),
+                        ),
+                        const SizedBox(height: 8),
+                      ],
+                      FilledButton(
+                        key: const ValueKey('quiz-submit-action'),
+                        onPressed: _allAnswered ? _submit : null,
+                        child: Text(
+                          strings.quizCheckAnswers,
+                          textAlign: TextAlign.center,
+                        ),
+                      ),
+                    ],
                   ),
                 ),
               )
             : null,
         floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
-        floatingActionButton: showReadFirst
+        floatingActionButton: showReadFirst && !readFirstInline
             ? ConstrainedBox(
                 constraints: BoxConstraints(maxWidth: actionWidth),
                 child: FilledButton.tonalIcon(
@@ -274,7 +297,9 @@ class _QuizPageState extends State<_QuizPage> {
             questions: widget.questions,
             selected: _selected,
             lang: widget.lang,
-            bottomPadding: showReadFirst ? actionHeight + 32 : 8,
+            bottomPadding: showReadFirst && !readFirstInline
+                ? actionHeight + 32
+                : 8,
             onSelect: (qi, oi) => setState(() => _selected[qi] = oi),
             strings: strings,
             theme: theme,
@@ -377,10 +402,13 @@ class _QuestionCard extends StatelessWidget {
     return Card(
       margin: const EdgeInsets.only(bottom: 16),
       elevation: 0,
-      color: scheme.surfaceContainerHighest,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      color: scheme.surface,
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: scheme.outlineVariant),
+      ),
       child: Padding(
-        padding: const EdgeInsets.all(16),
+        padding: const EdgeInsets.all(20),
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
@@ -395,7 +423,7 @@ class _QuestionCard extends StatelessWidget {
             const SizedBox(height: 6),
             Text(
               question.question(lang),
-              style: theme.textTheme.titleSmall?.copyWith(
+              style: theme.textTheme.titleMedium?.copyWith(
                 fontWeight: FontWeight.w600,
               ),
             ),

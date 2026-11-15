@@ -12,8 +12,11 @@ import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/data/sync_merge.dart';
 import 'package:bible_track/features/auth/login_screen.dart';
 import 'package:bible_track/main.dart';
+import 'package:bible_track/settings_scope.dart';
+import 'package:bible_track/theme/app_theme.dart';
+import 'package:bible_track/widgets/app_header.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:flutter/widgets.dart';
+import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hive_ce/hive.dart';
 
@@ -86,6 +89,51 @@ void main() {
   tearDown(() async {
     await Hive.close();
     await tempDir.delete(recursive: true);
+  });
+
+  testWidgets('header theme toggle updates and saves the app appearance', (
+    tester,
+  ) async {
+    final box = await Hive.openBox('header_settings', bytes: Uint8List(0));
+    final settings = SettingsController(box);
+    await tester.pumpWidget(
+      SettingsScope(
+        controller: settings,
+        child: ListenableBuilder(
+          listenable: settings,
+          builder: (context, _) => MaterialApp(
+            theme: lightTheme,
+            darkTheme: darkTheme,
+            themeMode: settings.themeMode,
+            home: Builder(
+              builder: (context) => Scaffold(
+                appBar: appHeader(context, title: 'Books', themeToggle: true),
+              ),
+            ),
+          ),
+        ),
+      ),
+    );
+    await tester.pumpAndSettle();
+    expect(find.text('BIBLE TRACK'), findsOneWidget);
+    await tester.tap(find.byTooltip(settings.strings.themeDark));
+    await tester.pumpAndSettle();
+    expect(
+      Theme.of(tester.element(find.text('Books'))).brightness,
+      Brightness.dark,
+    );
+    final restored = SettingsController(box);
+    expect(restored.themeMode, ThemeMode.dark);
+    restored.dispose();
+    await tester.tap(find.byTooltip(settings.strings.themeLight));
+    await tester.pumpAndSettle();
+    expect(
+      Theme.of(tester.element(find.text('Books'))).brightness,
+      Brightness.light,
+    );
+    expect(box.get('theme'), 'light');
+    await tester.pumpWidget(const SizedBox.shrink());
+    settings.dispose();
   });
 
   testWidgets('app builds and shows the login screen when signed out', (

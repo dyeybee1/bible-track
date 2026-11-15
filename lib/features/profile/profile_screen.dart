@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../data/progress_controller.dart';
 import '../../settings_scope.dart';
+import '../../widgets/app_header.dart';
 import 'profile_sections.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -46,14 +47,14 @@ class ProfileScreen extends StatelessWidget {
     final username = settings.username ?? strings.defaultUsername;
 
     return Scaffold(
-      appBar: AppBar(title: Text(strings.navProfile)),
+      appBar: appHeader(context, title: strings.navProfile, themeToggle: true),
       body: ListenableBuilder(
         listenable: progress,
         builder: (context, _) {
           final canStartOver = progress.allBooksCompleted;
 
           return ListView(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
+            padding: const EdgeInsets.fromLTRB(20, 24, 20, 32),
             children: [
               ProfileDetails(
                 username: username,

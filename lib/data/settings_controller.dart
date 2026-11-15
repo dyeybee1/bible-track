@@ -48,7 +48,7 @@ class SettingsController extends ChangeNotifier {
   int _usernameAt = 0;
   bool _introSeen = false;
   bool _showOnLeaderboard = false;
-  double _readerFontSize = 20;
+  double _readerFontSize = 18;
 
   /// Device-only font preference; legacy readerTranslation values are ignored.
   double get readerFontSize => _readerFontSize;
