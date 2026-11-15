@@ -12,6 +12,7 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/scripture_quote.dart';
 import '../books/chapter_screen.dart';
 
 /// Scope for the spinner wheel.
@@ -162,9 +163,9 @@ class _SpinnerScreenState extends State<SpinnerScreen>
   }
 
   List<Color> _sliceColors(BuildContext context, int n) {
-    const a = AppPalette.deepViolet;
+    final a = Theme.of(context).colorScheme.surfaceContainer;
     final b = Theme.of(context).colorScheme.primaryContainer;
-    const c = AppPalette.electricLime;
+    final c = Theme.of(context).colorScheme.surface;
     return [
       for (var i = 0; i < n; i++)
         (n.isOdd && n > 1 && i == n - 1) ? c : (i.isEven ? a : b),
@@ -197,6 +198,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
       appBar: appHeader(
         context,
         title: strings.spinTitle,
+        root: true,
         actions: [
           // ---- Scope dropdown (Task 2) ----
           Semantics(
@@ -258,6 +260,19 @@ class _SpinnerScreenState extends State<SpinnerScreen>
         padding: const EdgeInsets.fromLTRB(24, 24, 24, 32),
         child: Column(
           children: [
+            Align(
+              alignment: Alignment.centerLeft,
+              child: Text(
+                strings.spinTitle,
+                style: theme.textTheme.headlineMedium,
+              ),
+            ),
+            const SizedBox(height: 6),
+            Align(
+              alignment: Alignment.centerLeft,
+              child: Text(strings.spinIntro, style: theme.textTheme.bodySmall),
+            ),
+            const SizedBox(height: 20),
             // ---- Wheel or empty state (Tasks 2, 3) ----
             if (_wheel.isEmpty)
               Container(
@@ -281,7 +296,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
               Column(
                 children: [
                   // Pointer arrow (Task 3 — visible above wheel).
-                  Icon(Icons.arrow_drop_down, size: 48, color: scheme.primary),
+                  Icon(Icons.arrow_drop_down, size: 40, color: scheme.tertiary),
                   ConstrainedBox(
                     constraints: const BoxConstraints(maxWidth: 340),
                     child: AspectRatio(
@@ -296,7 +311,7 @@ class _SpinnerScreenState extends State<SpinnerScreen>
                               names: names,
                               colors: _sliceColors(context, names.length),
                               rotation: _angle,
-                              hubColor: scheme.secondary,
+                              hubColor: scheme.primaryContainer,
                               lineColor: scheme.outlineVariant,
                             ),
                           ),
@@ -315,17 +330,23 @@ class _SpinnerScreenState extends State<SpinnerScreen>
                 ),
               ),
             const SizedBox(height: 8),
-            SwitchListTile(
-              contentPadding: const EdgeInsets.symmetric(horizontal: 4),
-              title: Text(strings.includeFinished),
-              value: _includeFinished,
-              onChanged: _spinning
-                  ? null
-                  : (v) {
-                      _includeFinished = v;
-                      _refreshWheel();
-                    },
+            Card(
+              child: SwitchListTile(
+                contentPadding: const EdgeInsets.symmetric(
+                  horizontal: 16,
+                  vertical: 6,
+                ),
+                title: Text(strings.includeFinished),
+                value: _includeFinished,
+                onChanged: _spinning
+                    ? null
+                    : (v) {
+                        _includeFinished = v;
+                        _refreshWheel();
+                      },
+              ),
             ),
+            const ScriptureQuote(),
             const SizedBox(height: 8),
             SizedBox(
               width: double.infinity,
@@ -467,7 +488,7 @@ class _WheelPainter extends CustomPainter {
         text: TextSpan(
           text: names[i],
           style: const TextStyle(
-            fontFamily: 'Roboto',
+            fontFamily: AppTypography.sans,
             fontSize: 10,
             fontWeight: FontWeight.w500,
           ),
@@ -488,9 +509,9 @@ class _WheelPainter extends CustomPainter {
             color:
                 ThemeData.estimateBrightnessForColor(colors[i]) ==
                     Brightness.dark
-                ? AppPalette.softWhite
-                : AppPalette.onLime,
-            fontFamily: 'Roboto',
+                ? AppPalette.cream
+                : AppPalette.ink,
+            fontFamily: AppTypography.sans,
             fontSize: fontSize,
             fontWeight: FontWeight.w500,
           ),

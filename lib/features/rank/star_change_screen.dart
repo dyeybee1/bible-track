@@ -7,6 +7,7 @@ import 'package:flutter/services.dart';
 import '../../data/rank_system.dart';
 import '../../l10n/strings.dart';
 import '../../settings_scope.dart';
+import '../../widgets/app_header.dart';
 import 'rank_badge.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -165,9 +166,7 @@ class _StarChangeScreenState extends State<StarChangeScreen>
 
   Color _bgColor(BuildContext context) {
     final theme = Theme.of(context);
-    return widget.isGain
-        ? theme.colorScheme.secondaryContainer
-        : theme.scaffoldBackgroundColor;
+    return theme.scaffoldBackgroundColor;
   }
 
   Color _accentColor(BuildContext context) {
@@ -200,101 +199,134 @@ class _StarChangeScreenState extends State<StarChangeScreen>
     return GestureDetector(
       behavior: HitTestBehavior.opaque,
       onTap: _tryClose,
-      child: Material(
-        color: bg,
-        child: SafeArea(
+      child: Scaffold(
+        backgroundColor: bg,
+        appBar: appHeader(
+          context,
+          title: widget.isGain ? strings.starGainTitle : strings.starLossTitle,
+          leading: IconButton(
+            icon: const Icon(Icons.arrow_back_ios_new_rounded, size: 20),
+            tooltip: strings.chapterClose,
+            onPressed: _tryClose,
+          ),
+        ),
+        body: SafeArea(
           child: Center(
             child: SingleChildScrollView(
               padding: const EdgeInsets.symmetric(horizontal: 32, vertical: 40),
               child: AnimatedBuilder(
                 animation: _mainCtrl,
                 builder: (context, _) {
-                  return Column(
-                    mainAxisSize: MainAxisSize.min,
-                    children: [
-                      // ── Badge ──────────────────────────────────────────────
-                      _AnimatedBadge(
-                        ctrl: _mainCtrl,
-                        kind: _kind,
-                        before: widget.before,
-                        after: widget.after,
-                        accent: accent,
-                      ),
-                      const SizedBox(height: 16),
-
-                      // ── Rank name ──────────────────────────────────────────
-                      _AnimatedRankName(
-                        ctrl: _mainCtrl,
-                        kind: _kind,
-                        before: widget.before,
-                        after: widget.after,
-                        strings: strings,
-                        accent: accent,
-                      ),
-                      const SizedBox(height: 24),
-
-                      // ── Star progress ──────────────────────────────────────
-                      _AnimatedStarProgress(
-                        ctrl: _mainCtrl,
-                        kind: _kind,
-                        before: widget.before,
-                        after: widget.after,
-                        isGain: widget.isGain,
-                        accent: accent,
-                        strings: strings,
-                      ),
-                      const SizedBox(height: 20),
-
-                      // ── Delta label (+1 ★ / -1 ★) ─────────────────────────
-                      _DeltaLabel(
-                        ctrl: _mainCtrl,
-                        isGain: widget.isGain,
-                        strings: strings,
-                        accent: accent,
-                      ),
-                      const SizedBox(height: 12),
-
-                      // ── Rank-up / rank-down message ────────────────────────
-                      if (_kind == _ChangeKind.rankUp ||
-                          _kind == _ChangeKind.rankDown)
-                        _RankChangeMessage(
+                  return Container(
+                    constraints: const BoxConstraints(maxWidth: 420),
+                    padding: const EdgeInsets.symmetric(
+                      horizontal: 24,
+                      vertical: 32,
+                    ),
+                    decoration: BoxDecoration(
+                      color: scheme.surface,
+                      borderRadius: BorderRadius.circular(20),
+                      border: Border.all(color: scheme.outlineVariant),
+                      boxShadow: [
+                        BoxShadow(
+                          color: scheme.onSurface.withValues(alpha: .05),
+                          blurRadius: 24,
+                          offset: const Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: Column(
+                      mainAxisSize: MainAxisSize.min,
+                      children: [
+                        // ── Badge ──────────────────────────────────────────────
+                        _AnimatedBadge(
                           ctrl: _mainCtrl,
                           kind: _kind,
+                          before: widget.before,
+                          after: widget.after,
+                          accent: accent,
+                        ),
+                        const SizedBox(height: 16),
+
+                        // ── Rank name ──────────────────────────────────────────
+                        _AnimatedRankName(
+                          ctrl: _mainCtrl,
+                          kind: _kind,
+                          before: widget.before,
                           after: widget.after,
                           strings: strings,
-                          scheme: scheme,
+                          accent: accent,
                         ),
+                        const SizedBox(height: 24),
 
-                      // ── Highest rank still line ────────────────────────────
-                      if (showHighest) ...[
+                        // ── Star progress ──────────────────────────────────────
+                        _AnimatedStarProgress(
+                          ctrl: _mainCtrl,
+                          kind: _kind,
+                          before: widget.before,
+                          after: widget.after,
+                          isGain: widget.isGain,
+                          accent: scheme.tertiary,
+                          strings: strings,
+                        ),
+                        const SizedBox(height: 20),
+
+                        // ── Delta label (+1 ★ / -1 ★) ─────────────────────────
+                        _DeltaLabel(
+                          ctrl: _mainCtrl,
+                          isGain: widget.isGain,
+                          strings: strings,
+                          accent: widget.isGain ? scheme.tertiary : accent,
+                        ),
                         const SizedBox(height: 12),
-                        Opacity(
-                          opacity: _mainCtrl.value,
-                          child: Text(
-                            strings.starHighestStill(strings.rankName(maxRank)),
-                            textAlign: TextAlign.center,
-                            style: TextStyle(
-                              fontSize: 13,
-                              color: scheme.onSurfaceVariant,
+
+                        // ── Rank-up / rank-down message ────────────────────────
+                        if (_kind == _ChangeKind.rankUp ||
+                            _kind == _ChangeKind.rankDown)
+                          _RankChangeMessage(
+                            ctrl: _mainCtrl,
+                            kind: _kind,
+                            after: widget.after,
+                            strings: strings,
+                            scheme: scheme,
+                          ),
+
+                        // ── Highest rank still line ────────────────────────────
+                        if (showHighest) ...[
+                          const SizedBox(height: 12),
+                          Opacity(
+                            opacity: _mainCtrl.value,
+                            child: Text(
+                              strings.starHighestStill(
+                                strings.rankName(maxRank),
+                              ),
+                              textAlign: TextAlign.center,
+                              style: TextStyle(
+                                fontSize: 13,
+                                color: scheme.onSurfaceVariant,
+                              ),
+                            ),
+                          ),
+                        ],
+
+                        const SizedBox(height: 40),
+
+                        // ── Tap-to-continue hint ───────────────────────────────
+                        FadeTransition(
+                          opacity: _hintCtrl,
+                          child: SizedBox(
+                            width: double.infinity,
+                            child: FilledButton(
+                              onPressed: _canClose ? _tryClose : null,
+                              child: Text(
+                                strings.starTapToContinue,
+                                textAlign: TextAlign.center,
+                              ),
                             ),
                           ),
                         ),
                       ],
-
-                      const SizedBox(height: 40),
-
-                      // ── Tap-to-continue hint ───────────────────────────────
-                      FadeTransition(
-                        opacity: _hintCtrl,
-                        child: Text(
-                          strings.starTapToContinue,
-                          style: TextStyle(
-                            fontSize: 14,
-                            color: scheme.onSurfaceVariant,
-                          ),
-                        ),
-                      ),
-                    ],
+                    ),
                   );
                 },
               ),
@@ -409,7 +441,7 @@ class _AnimatedRankName extends StatelessWidget {
 
     final nameStyle = theme.textTheme.headlineSmall?.copyWith(
       fontWeight: FontWeight.w800,
-      color: accent,
+      color: theme.colorScheme.onSurface,
     );
 
     if (!isRankChange) {

@@ -9,6 +9,7 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/page_heading.dart';
 import '../intro/intro_screen.dart';
 import 'chapter_screen.dart';
 
@@ -19,12 +20,14 @@ class BooksScreen extends StatefulWidget {
     required this.account,
     required this.cloud,
     required this.quizRepo,
+    this.onSpin,
   });
 
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
   final QuizRepository quizRepo;
+  final VoidCallback? onSpin;
 
   @override
   State<BooksScreen> createState() => _BooksScreenState();
@@ -48,6 +51,7 @@ class _BooksScreenState extends State<BooksScreen> {
       appBar: appHeader(
         context,
         title: strings.booksTitle,
+        root: true,
         themeToggle: true,
         actions: [
           IconButton(
@@ -67,56 +71,137 @@ class _BooksScreenState extends State<BooksScreen> {
           final books = booksBySection[_section]!;
           final finished = widget.progress.completedIn(books);
 
-          return Column(
-            children: [
-              Padding(
-                padding: const EdgeInsets.fromLTRB(13, 16, 13, 12),
-                child: Row(
+          return CustomScrollView(
+            key: ValueKey(_section), // resets scroll when switching tabs
+            slivers: [
+              SliverToBoxAdapter(
+                child: Column(
                   children: [
-                    for (final s in _tabOrder)
-                      Expanded(
-                        child: Padding(
-                          padding: const EdgeInsets.symmetric(horizontal: 3),
-                          child: _SectionTab(
-                            label: strings.sectionName(s),
-                            selected: s == _section,
-                            onTap: () => setState(() => _section = s),
+                    Container(
+                      width: double.infinity,
+                      margin: const EdgeInsets.fromLTRB(20, 12, 20, 0),
+                      padding: const EdgeInsets.all(20),
+                      decoration: BoxDecoration(
+                        borderRadius: BorderRadius.circular(20),
+                        gradient: LinearGradient(
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                          colors: [
+                            theme.colorScheme.primaryContainer,
+                            theme.scaffoldBackgroundColor,
+                          ],
+                        ),
+                        border: Border.all(
+                          color: theme.colorScheme.primary.withValues(
+                            alpha: .08,
                           ),
                         ),
                       ),
-                  ],
-                ),
-              ),
-              Padding(
-                padding: const EdgeInsets.fromLTRB(20, 10, 20, 14),
-                child: Row(
-                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                  children: [
-                    Expanded(
-                      child: Text(
-                        strings.sectionName(_section),
-                        style: theme.textTheme.titleLarge?.copyWith(
-                          fontSize: 18,
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(
+                                Icons.wb_sunny_outlined,
+                                size: 15,
+                                color: theme.colorScheme.primary,
+                              ),
+                              const SizedBox(width: 8),
+                              Expanded(
+                                child: Text(
+                                  strings.dailyGuide,
+                                  style: theme.textTheme.labelSmall?.copyWith(
+                                    color: theme.colorScheme.primary,
+                                    letterSpacing: 1,
+                                  ),
+                                ),
+                              ),
+                            ],
+                          ),
+                          const SizedBox(height: 12),
+                          Text(
+                            strings.peacefulReading,
+                            style: theme.textTheme.headlineSmall,
+                          ),
+                        ],
+                      ),
+                    ),
+                    PageHeading(
+                      title: strings.booksTitle,
+                      subtitle: strings.librarySubtitle,
+                    ),
+                    Padding(
+                      padding: const EdgeInsets.fromLTRB(20, 0, 20, 12),
+                      child: SingleChildScrollView(
+                        scrollDirection: Axis.horizontal,
+                        child: Row(
+                          children: [
+                            for (final s in _tabOrder)
+                              Padding(
+                                padding: const EdgeInsets.only(right: 8),
+                                child: _SectionTab(
+                                  label: strings.sectionName(s),
+                                  selected: s == _section,
+                                  onTap: () => setState(() => _section = s),
+                                ),
+                              ),
+                          ],
                         ),
                       ),
                     ),
-                    const SizedBox(width: 12),
-                    Text(
-                      strings.finishedCount(finished, books.length),
-                      style: theme.textTheme.bodySmall?.copyWith(
-                        color: theme.colorScheme.onSurfaceVariant,
+                    Padding(
+                      padding: const EdgeInsets.fromLTRB(20, 10, 20, 14),
+                      child: Container(
+                        padding: const EdgeInsets.all(16),
+                        decoration: BoxDecoration(
+                          color: theme.colorScheme.surface,
+                          border: Border.all(
+                            color: theme.colorScheme.outlineVariant,
+                          ),
+                          borderRadius: BorderRadius.circular(16),
+                        ),
+                        child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
+                          children: [
+                            Row(
+                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                              children: [
+                                Expanded(
+                                  child: Text(
+                                    strings.sectionName(_section),
+                                    style: theme.textTheme.titleLarge?.copyWith(
+                                      fontSize: 18,
+                                    ),
+                                  ),
+                                ),
+                                const SizedBox(width: 12),
+                                Text(
+                                  strings.finishedCount(finished, books.length),
+                                  style: theme.textTheme.bodySmall?.copyWith(
+                                    color: theme.colorScheme.onSurfaceVariant,
+                                  ),
+                                ),
+                              ],
+                            ),
+                            const SizedBox(height: 12),
+                            LinearProgressIndicator(
+                              value: finished / books.length,
+                              minHeight: 4,
+                            ),
+                          ],
+                        ),
                       ),
                     ),
                   ],
                 ),
               ),
-              Expanded(
-                child: ListView.separated(
-                  key: ValueKey(_section), // resets scroll when switching tabs
-                  padding: const EdgeInsets.fromLTRB(16, 0, 16, 24),
-                  itemCount: books.length,
-                  separatorBuilder: (_, _) => const SizedBox(height: 8),
-                  itemBuilder: (context, i) {
+              SliverPadding(
+                padding: const EdgeInsets.fromLTRB(16, 0, 16, 24),
+                sliver: SliverList(
+                  delegate: SliverChildBuilderDelegate((context, index) {
+                    if (index.isOdd) return const SizedBox(height: 10);
+                    final i = index ~/ 2;
                     final b = books[i];
                     return _BookTile(
                       book: b,
@@ -134,13 +219,29 @@ class _BooksScreenState extends State<BooksScreen> {
                         ),
                       ),
                     );
-                  },
+                  }, childCount: books.length * 2 - 1),
                 ),
               ),
             ],
           );
         },
       ),
+      bottomNavigationBar: widget.onSpin == null
+          ? null
+          : SafeArea(
+              top: false,
+              child: Padding(
+                padding: const EdgeInsets.fromLTRB(20, 10, 20, 12),
+                child: FilledButton.icon(
+                  onPressed: widget.onSpin,
+                  icon: const Icon(Icons.casino_outlined, size: 19),
+                  label: Text(
+                    strings.spinNextReading,
+                    textAlign: TextAlign.center,
+                  ),
+                ),
+              ),
+            ),
     );
   }
 }
@@ -179,7 +280,7 @@ class _SectionTab extends StatelessWidget {
               child: Padding(
                 padding: const EdgeInsets.symmetric(
                   vertical: 10,
-                  horizontal: 6,
+                  horizontal: 16,
                 ),
                 child: Center(
                   child: FittedBox(
@@ -187,7 +288,8 @@ class _SectionTab extends StatelessWidget {
                     child: Text(
                       label,
                       style: TextStyle(
-                        fontSize: 11,
+                        fontFamily: AppTypography.sans,
+                        fontSize: 12,
                         height: 1.3,
                         fontWeight: FontWeight.w500,
                         color: selected
@@ -233,7 +335,7 @@ class _BookTile extends StatelessWidget {
           color: scheme.surface,
           clipBehavior: Clip.antiAlias,
           shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(14),
+            borderRadius: BorderRadius.circular(16),
             side: BorderSide(
               color: done ? completed : scheme.outlineVariant,
               width: done ? 1.5 : 1,
@@ -248,10 +350,28 @@ class _BookTile extends StatelessWidget {
                 children: [
                   Row(
                     children: [
+                      Container(
+                        width: 42,
+                        height: 42,
+                        decoration: BoxDecoration(
+                          color: read > 0
+                              ? scheme.primaryContainer
+                              : scheme.surfaceContainer,
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        child: Icon(
+                          Icons.menu_book_outlined,
+                          size: 20,
+                          color: read > 0
+                              ? scheme.primary
+                              : scheme.onSurfaceVariant,
+                        ),
+                      ),
+                      const SizedBox(width: 12),
                       Expanded(
                         child: Text(
                           name,
-                          style: Theme.of(context).textTheme.titleMedium,
+                          style: Theme.of(context).textTheme.titleLarge,
                         ),
                       ),
                       Text(
@@ -283,7 +403,7 @@ class _BookTile extends StatelessWidget {
                     child: LinearProgressIndicator(
                       value: read / book.totalChapters,
                       minHeight: 5,
-                      backgroundColor: scheme.outlineVariant,
+                      backgroundColor: scheme.surfaceContainer,
                       color: done ? completed : scheme.primary,
                     ),
                   ),

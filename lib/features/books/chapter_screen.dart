@@ -73,6 +73,9 @@ class _ChapterScreenState extends State<ChapterScreen> {
           ),
           child: Dialog(
             key: const ValueKey('chapter-action-dialog'),
+            alignment: MediaQuery.sizeOf(ctx).width < 600
+                ? Alignment.bottomCenter
+                : Alignment.center,
             elevation: 8,
             insetPadding: const EdgeInsets.symmetric(
               horizontal: 16,
@@ -107,7 +110,12 @@ class _ChapterScreenState extends State<ChapterScreen> {
                     ),
                     if (!read && questions.isNotEmpty) ...[
                       const SizedBox(height: 8),
-                      Text(s.chapterQuestionCount(questions.length)),
+                      Text(
+                        s.chapterQuestionCount(questions.length),
+                        style: Theme.of(ctx).textTheme.labelMedium?.copyWith(
+                          color: Theme.of(ctx).colorScheme.primary,
+                        ),
+                      ),
                     ],
                     const SizedBox(height: 12),
                     Text(read ? s.chapterReadHint : s.chapterChooseHint),
@@ -297,6 +305,10 @@ class _ChapterScreenState extends State<ChapterScreen> {
           final read = widget.progress.chaptersRead(book.id);
           final count = read.length;
           final done = count >= book.totalChapters;
+          final nextUnread = List.generate(
+            book.totalChapters,
+            (i) => i + 1,
+          ).firstWhere((chapter) => !read.contains(chapter), orElse: () => 0);
 
           return Column(
             children: [
@@ -395,10 +407,10 @@ class _ChapterScreenState extends State<ChapterScreen> {
               Expanded(
                 child: GridView.builder(
                   padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
-                  gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
-                    maxCrossAxisExtent: 64,
-                    mainAxisSpacing: 8,
-                    crossAxisSpacing: 8,
+                  gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+                    crossAxisCount: 5,
+                    mainAxisSpacing: 12,
+                    crossAxisSpacing: 12,
                   ),
                   itemCount: book.totalChapters,
                   itemBuilder: (context, i) {
@@ -407,6 +419,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
                     return _ChapterCell(
                       number: chapter,
                       read: isRead,
+                      current: chapter == nextUnread,
                       loading: _quizLoading,
                       onTap: () => _chapterActions(chapter),
                     );
@@ -908,12 +921,14 @@ class _ChapterCell extends StatelessWidget {
   const _ChapterCell({
     required this.number,
     required this.read,
+    required this.current,
     required this.loading,
     required this.onTap,
   });
 
   final int number;
   final bool read;
+  final bool current;
 
   /// When true and this cell is not yet read, show a subtle loading indicator
   /// and disable the tap (the quiz is being loaded for another cell).
@@ -931,11 +946,15 @@ class _ChapterCell extends StatelessWidget {
       label: context.s.chapterSemantics(number, read),
       child: ExcludeSemantics(
         child: Material(
-          color: read ? completed : scheme.surface,
+          color: read
+              ? completed
+              : current
+              ? scheme.onSurface
+              : scheme.surfaceContainer,
           clipBehavior: Clip.antiAlias,
           shape: RoundedRectangleBorder(
             borderRadius: BorderRadius.circular(12),
-            side: BorderSide(color: read ? completed : scheme.outlineVariant),
+            side: BorderSide(color: read ? completed : Colors.transparent),
           ),
           child: InkWell(
             onTap: busy ? null : onTap,
@@ -953,7 +972,11 @@ class _ChapterCell extends StatelessWidget {
                       '$number',
                       style: TextStyle(
                         fontWeight: FontWeight.w700,
-                        color: read ? onDoneColor(context) : scheme.onSurface,
+                        color: read
+                            ? onDoneColor(context)
+                            : current
+                            ? scheme.surface
+                            : scheme.onSurfaceVariant,
                       ),
                     ),
             ),

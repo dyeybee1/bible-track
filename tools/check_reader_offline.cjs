@@ -183,20 +183,26 @@ async function main() {
       const quiz = await (await fetch('assets/assets/questions/gen.json')).json();
       const renderer = await fetch('canvaskit/chromium/canvaskit.wasm');
       const font = await fetch('assets/assets/fonts/Roboto-Regular.ttf');
+      const serif = await fetch('assets/assets/fonts/Newsreader.ttf');
+      const sans = await fetch('assets/assets/fonts/PlusJakartaSans.ttf');
       const bootstrap = await fetch('flutter_bootstrap.js');
       const shell = await (await fetch('index.html')).text();
       return {web:web.chapters['1'][0].t, tagalog:tagalog.chapters['1'][0].t,
         mapping:mapping.schema_version, quiz:Array.isArray(quiz.chapters['1']) && quiz.chapters['1'].length > 0,
-        renderer:renderer.ok, font:font.ok, bootstrap:bootstrap.ok,
+        renderer:renderer.ok, font:font.ok,
+        serif:serif.ok && (await serif.arrayBuffer()).byteLength > 0,
+        sans:sans.ok && (await sans.arrayBuffer()).byteLength > 0, bootstrap:bootstrap.ok,
         shell:shell.includes('flutter_bootstrap.js') && shell.includes('NEXT_PWA_RELEASE')};
     })()`);
     assert.equal(offline.web, 'In the beginning, God created the heavens and the earth.');
     assert.equal(offline.tagalog, 'Nang pasimula ay nilikha ng Dios ang langit at ang lupa.');
-    assert.equal(offline.mapping, 2); assert(offline.quiz); assert(offline.renderer); assert(offline.font); assert(offline.bootstrap); assert(offline.shell);
+    assert.equal(offline.mapping, 2); assert(offline.quiz); assert(offline.renderer); assert(offline.font);
+    assert(offline.serif); assert(offline.sans); assert(offline.bootstrap); assert(offline.shell);
     const result = {browser:'headless Chromium', httpCacheDisabled:true, networkOffline:true,
       staticCacheFiles:ready.files, releaseA, releaseB,
       passed:['legacy migration without reload','waiting update banner','user-consented reload','old cache cleanup',
-        'network-first shell','unvisited WEB book','unvisited Tagalog book','mapping','local quiz','local renderer','Roboto font','bootstrap','app shell']};
+        'network-first shell','unvisited WEB book','unvisited Tagalog book','mapping','local quiz','local renderer','Roboto font',
+        'Newsreader font','Plus Jakarta Sans font','bootstrap','app shell']};
     fs.writeFileSync('build/reader_size/offline_browser_check.json', JSON.stringify(result, null, 2) + '\n');
     console.log('PASS: legacy migration, consent update, cache cleanup and full offline assets (' + ready.files + ' cached files).');
   } finally {

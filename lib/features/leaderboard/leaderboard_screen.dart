@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/page_heading.dart';
 
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
@@ -105,6 +106,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
         appBar: appHeader(
           context,
           title: strings.leaderboardTitle,
+          root: true,
           themeToggle: true,
         ),
         body: const SizedBox.shrink(),
@@ -118,6 +120,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
         appBar: appHeader(
           context,
           title: strings.leaderboardTitle,
+          root: true,
           themeToggle: true,
         ),
         body: const Center(child: CircularProgressIndicator()),
@@ -128,6 +131,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
       appBar: appHeader(
         context,
         title: strings.leaderboardTitle,
+        root: true,
         themeToggle: true,
       ),
       body: _LeaderboardBody(
@@ -241,6 +245,7 @@ class _LeaderboardBody extends StatelessWidget {
 
     return Column(
       children: [
+        PageHeading(title: context.s.leaderboardTitle),
         // ---- Own rank banner (shown when outside top 50 and rank is known) ----
         if (!meInTop50 && ownRank != null && ownRank > 0)
           InkWell(
@@ -331,7 +336,7 @@ class _OwnRankBanner extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 12),
       decoration: BoxDecoration(
         color: scheme.primaryContainer,
-        borderRadius: BorderRadius.circular(14),
+        borderRadius: BorderRadius.circular(16),
         border: Border.all(color: scheme.primary.withAlpha(80)),
       ),
       child: Row(
@@ -450,7 +455,9 @@ class _LeaderboardTile extends StatelessWidget {
             child: Text(
               '$rank',
               textAlign: TextAlign.center,
-              style: theme.textTheme.titleSmall,
+              style: theme.textTheme.titleLarge?.copyWith(
+                color: scheme.primary,
+              ),
             ),
           ),
           const SizedBox(width: 12),
@@ -465,7 +472,7 @@ class _LeaderboardTile extends StatelessWidget {
                     Expanded(
                       child: Text(
                         entry.username,
-                        style: theme.textTheme.titleSmall?.copyWith(
+                        style: theme.textTheme.titleLarge?.copyWith(
                           fontWeight: isMe ? FontWeight.w700 : FontWeight.w500,
                           color: isMe
                               ? scheme.onPrimaryContainer
@@ -498,7 +505,9 @@ class _LeaderboardTile extends StatelessWidget {
                 const SizedBox(height: 2),
                 Text(
                   context.s.rankName(currentRank),
-                  style: theme.textTheme.bodyMedium,
+                  style: theme.textTheme.bodySmall?.copyWith(
+                    color: scheme.primary,
+                  ),
                 ),
                 Text(
                   '${entry.chaptersRead} ${strings.leaderboardChapters}',

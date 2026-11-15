@@ -14,10 +14,10 @@ class BibleTrackMark extends CustomPainter {
     canvas.save();
     canvas.scale(size.width / 1024, size.height / 1024);
     if (background) {
-      canvas.drawColor(AppPalette.softWhite, BlendMode.src);
+      canvas.drawColor(AppPalette.cream, BlendMode.src);
     }
     final outline = Paint()
-      ..color = AppPalette.deepViolet
+      ..color = AppPalette.forest
       ..style = PaintingStyle.stroke
       ..strokeWidth = 28
       ..strokeCap = StrokeCap.round
@@ -51,7 +51,7 @@ class BibleTrackMark extends CustomPainter {
     canvas.drawPath(
       check,
       Paint()
-        ..color = AppPalette.softWhite
+        ..color = AppPalette.cream
         ..style = PaintingStyle.stroke
         ..strokeWidth = 64
         ..strokeCap = StrokeCap.round
@@ -60,7 +60,7 @@ class BibleTrackMark extends CustomPainter {
     canvas.drawPath(
       check,
       Paint()
-        ..color = AppPalette.electricLime
+        ..color = AppPalette.mint
         ..style = PaintingStyle.stroke
         ..strokeWidth = 36
         ..strokeCap = StrokeCap.round
@@ -71,7 +71,7 @@ class BibleTrackMark extends CustomPainter {
         const Rect.fromLTWH(422, 553, 392, 80),
         const Radius.circular(40),
       ),
-      Paint()..color = AppPalette.softWhite,
+      Paint()..color = AppPalette.cream,
     );
     canvas.drawRRect(
       RRect.fromRectAndRadius(
@@ -85,7 +85,7 @@ class BibleTrackMark extends CustomPainter {
         const Rect.fromLTWH(438, 569, 220, 48),
         const Radius.circular(24),
       ),
-      Paint()..color = AppPalette.electricLime,
+      Paint()..color = AppPalette.mint,
     );
     canvas.restore();
   }

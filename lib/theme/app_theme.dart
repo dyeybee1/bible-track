@@ -4,66 +4,72 @@ import 'package:flutter/services.dart';
 
 /// Shared brand colors, including controls drawn outside the Material theme.
 abstract final class AppPalette {
-  static const deepViolet = Color(0xFF3F008D);
-  static const softWhite = Color(0xFFF4F2F6);
-  static const electricLime = Color(0xFFC3F53A);
-  static const onLime = Color(0xFF281044);
-  static const darkBackground = Color(0xFF160B25);
-  static const darkSurface = Color(0xFF241437);
+  static const forest = Color(0xFF0B5E42);
+  static const cream = Color(0xFFFAF9F5);
+  static const mint = Color(0xFF2DD4BF);
+  static const gold = Color(0xFFD97706);
+  static const ink = Color(0xFF0F172A);
+  static const darkBackground = Color(0xFF121417);
+  static const darkSurface = Color(0xFF1A1D23);
+}
+
+abstract final class AppTypography {
+  static const serif = 'Newsreader';
+  static const sans = 'PlusJakartaSans';
 }
 
 ThemeData _build(Brightness brightness) {
   final light = brightness == Brightness.light;
-  final bg = light ? AppPalette.softWhite : AppPalette.darkBackground;
+  final bg = light ? AppPalette.cream : AppPalette.darkBackground;
   final scheme =
       ColorScheme.fromSeed(
-        seedColor: AppPalette.deepViolet,
+        seedColor: AppPalette.forest,
         brightness: brightness,
       ).copyWith(
-        primary: light ? AppPalette.deepViolet : AppPalette.electricLime,
-        onPrimary: light ? AppPalette.softWhite : AppPalette.onLime,
+        primary: light ? AppPalette.forest : AppPalette.mint,
+        onPrimary: light ? Colors.white : AppPalette.ink,
         primaryContainer: light
-            ? const Color(0xFFECE3F7)
-            : const Color(0xFF38204F),
-        onPrimaryContainer: light
-            ? AppPalette.deepViolet
-            : AppPalette.softWhite,
-        secondary: AppPalette.electricLime,
-        onSecondary: AppPalette.onLime,
+            ? const Color(0xFFE8F5EE)
+            : const Color(0xFF13382E),
+        onPrimaryContainer: light ? AppPalette.forest : AppPalette.cream,
+        secondary: light ? AppPalette.forest : AppPalette.mint,
+        onSecondary: light ? Colors.white : AppPalette.ink,
         secondaryContainer: light
-            ? const Color(0xFFEDF7D3)
-            : const Color(0xFF303C19),
-        onSecondaryContainer: light ? AppPalette.onLime : AppPalette.softWhite,
-        tertiary: light ? AppPalette.deepViolet : AppPalette.electricLime,
-        onTertiary: light ? AppPalette.softWhite : AppPalette.onLime,
+            ? const Color(0xFFE8F5EE)
+            : const Color(0xFF13382E),
+        onSecondaryContainer: light ? AppPalette.ink : AppPalette.cream,
+        tertiary: light ? AppPalette.gold : const Color(0xFFF59E0B),
+        error: light ? const Color(0xFFDC2626) : const Color(0xFFF87171),
+        errorContainer: light
+            ? const Color(0xFFFEF2F2)
+            : const Color(0xFF391A1E),
+        onTertiary: light ? AppPalette.cream : AppPalette.ink,
         surface: light ? Colors.white : AppPalette.darkSurface,
-        onSurface: light ? const Color(0xFF241534) : AppPalette.softWhite,
+        onSurface: light ? const Color(0xFF0F172A) : AppPalette.cream,
         onSurfaceVariant: light
-            ? const Color(0xFF74677F)
-            : const Color(0xFFC3B5D1),
-        surfaceDim: light ? const Color(0xFFE1DAE8) : AppPalette.darkBackground,
-        surfaceBright: light ? Colors.white : const Color(0xFF443153),
-        surfaceContainerLowest: light ? Colors.white : const Color(0xFF10071C),
-        surfaceContainerLow: light
-            ? AppPalette.softWhite
-            : AppPalette.darkSurface,
+            ? const Color(0xFF475569)
+            : const Color(0xFF94A3B8),
+        surfaceDim: light ? const Color(0xFFEBEAE5) : AppPalette.darkBackground,
+        surfaceBright: light ? Colors.white : const Color(0xFF2D333F),
+        surfaceContainerLowest: light ? Colors.white : const Color(0xFF101215),
+        surfaceContainerLow: light ? AppPalette.cream : AppPalette.darkSurface,
         surfaceContainer: light
-            ? const Color(0xFFEEE8F4)
-            : const Color(0xFF2A193D),
+            ? const Color(0xFFF4F4F0)
+            : const Color(0xFF242831),
         surfaceContainerHigh: light
-            ? const Color(0xFFECE4F2)
-            : const Color(0xFF322044),
+            ? const Color(0xFFF4F4F0)
+            : const Color(0xFF242831),
         surfaceContainerHighest: light
-            ? const Color(0xFFE3DCE9)
-            : const Color(0xFF3B294C),
-        outline: light ? const Color(0xFF85758F) : const Color(0xFF9987AA),
+            ? const Color(0xFFEBEAE5)
+            : const Color(0xFF242831),
+        outline: light ? const Color(0xFF94A3B8) : const Color(0xFF64748B),
         outlineVariant: light
-            ? const Color(0xFFE3DCE9)
-            : const Color(0xFF443153),
+            ? const Color(0xFFEBEAE5)
+            : const Color(0xFF2D333F),
       );
   return ThemeData(
     useMaterial3: true,
-    fontFamily: 'Roboto',
+    fontFamily: AppTypography.sans,
     pageTransitionsTheme: const PageTransitionsTheme(
       builders: {
         TargetPlatform.android: FadeForwardsPageTransitionsBuilder(),
@@ -76,24 +82,28 @@ ThemeData _build(Brightness brightness) {
     ),
     textTheme: const TextTheme(
       headlineLarge: TextStyle(
+        fontFamily: AppTypography.serif,
         fontSize: 32,
         height: 1.2,
         fontWeight: FontWeight.w500,
         letterSpacing: -.8,
       ),
       headlineMedium: TextStyle(
+        fontFamily: AppTypography.serif,
         fontSize: 27,
         height: 1.2,
         fontWeight: FontWeight.w500,
         letterSpacing: -.7,
       ),
       headlineSmall: TextStyle(
+        fontFamily: AppTypography.serif,
         fontSize: 24,
         height: 1.25,
         fontWeight: FontWeight.w500,
         letterSpacing: -.4,
       ),
       titleLarge: TextStyle(
+        fontFamily: AppTypography.serif,
         fontSize: 20,
         height: 1.35,
         fontWeight: FontWeight.w500,
@@ -136,16 +146,18 @@ ThemeData _build(Brightness brightness) {
     colorScheme: scheme,
     scaffoldBackgroundColor: bg,
     appBarTheme: AppBarTheme(
-      backgroundColor: AppPalette.deepViolet,
-      foregroundColor: AppPalette.softWhite,
+      backgroundColor: bg,
+      foregroundColor: scheme.onSurface,
       surfaceTintColor: Colors.transparent,
-      systemOverlayStyle: SystemUiOverlayStyle.light.copyWith(
-        statusBarColor: Colors.transparent,
-        systemNavigationBarColor: scheme.surface,
-        systemNavigationBarIconBrightness: light
-            ? Brightness.dark
-            : Brightness.light,
-      ),
+      systemOverlayStyle:
+          (light ? SystemUiOverlayStyle.dark : SystemUiOverlayStyle.light)
+              .copyWith(
+                statusBarColor: Colors.transparent,
+                systemNavigationBarColor: scheme.surface,
+                systemNavigationBarIconBrightness: light
+                    ? Brightness.dark
+                    : Brightness.light,
+              ),
       centerTitle: false,
       elevation: 0,
       scrolledUnderElevation: 0,
@@ -171,25 +183,25 @@ ThemeData _build(Brightness brightness) {
       foregroundColor: scheme.onSecondary,
     ),
     navigationBarTheme: NavigationBarThemeData(
-      height: 76,
+      height: 72,
       elevation: 0,
       backgroundColor: scheme.surface,
       surfaceTintColor: Colors.transparent,
-      indicatorColor: scheme.secondary,
+      indicatorColor: scheme.primaryContainer,
       indicatorShape: const StadiumBorder(),
       labelPadding: const EdgeInsets.only(top: 5),
       iconTheme: WidgetStateProperty.resolveWith(
         (states) => IconThemeData(
           size: 20,
           color: states.contains(WidgetState.selected)
-              ? scheme.onSecondary
+              ? scheme.primary
               : scheme.onSurfaceVariant,
         ),
       ),
       labelTextStyle: WidgetStateProperty.resolveWith(
         (states) => TextStyle(
-          fontFamily: 'Roboto',
-          fontSize: 10,
+          fontFamily: AppTypography.sans,
+          fontSize: 11,
           height: 1.2,
           letterSpacing: 0,
           color: states.contains(WidgetState.selected)
@@ -232,8 +244,27 @@ ThemeData _build(Brightness brightness) {
     cardTheme: CardThemeData(
       color: scheme.surface,
       surfaceTintColor: Colors.transparent,
-      elevation: 0,
-      shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
+      elevation: .5,
+      shadowColor: scheme.onSurface.withValues(alpha: .08),
+      shape: RoundedRectangleBorder(
+        borderRadius: BorderRadius.circular(16),
+        side: BorderSide(color: scheme.outlineVariant),
+      ),
+    ),
+    bottomSheetTheme: BottomSheetThemeData(
+      backgroundColor: scheme.surface,
+      surfaceTintColor: Colors.transparent,
+      showDragHandle: true,
+      dragHandleColor: scheme.outlineVariant,
+      shape: const RoundedRectangleBorder(
+        borderRadius: BorderRadius.vertical(top: Radius.circular(28)),
+      ),
+    ),
+    progressIndicatorTheme: ProgressIndicatorThemeData(
+      color: scheme.primary,
+      linearTrackColor: scheme.surfaceContainer,
+      linearMinHeight: 5,
+      borderRadius: BorderRadius.circular(8),
     ),
     dialogTheme: DialogThemeData(
       backgroundColor: scheme.surface,
@@ -272,11 +303,13 @@ ThemeData _build(Brightness brightness) {
 final ThemeData lightTheme = _build(Brightness.light);
 final ThemeData darkTheme = _build(Brightness.dark);
 
-/// Lime fill for completed chapters, progress bars, and completion banners.
-Color doneColor(BuildContext context) => AppPalette.electricLime;
+/// Soft green fill for completed chapters, progress bars, and completion banners.
+Color doneColor(BuildContext context) =>
+    Theme.of(context).colorScheme.primaryContainer;
 
 /// Text/icon color that is readable on top of [doneColor].
-Color onDoneColor(BuildContext context) => AppPalette.onLime;
+Color onDoneColor(BuildContext context) =>
+    Theme.of(context).colorScheme.onPrimaryContainer;
 
 /// Readable completion text and icons on an unfilled page or card.
 Color doneForegroundColor(BuildContext context) =>

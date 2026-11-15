@@ -12,7 +12,7 @@ class StarProgress extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final c = color ?? Theme.of(context).colorScheme.primary;
+    final c = color ?? Theme.of(context).colorScheme.tertiary;
     if (rank.isTopTier) {
       return Text(
         context.s.rankStars(rank.topStars),

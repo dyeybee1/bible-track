@@ -21,6 +21,25 @@ class Strings {
 
   // ---- books list ----
   String get booksTitle => _t('Mga Libro', 'Books');
+  String get dailyGuide => _t('PANG-ARAW-ARAW NA GABAY', 'DAILY GUIDANCE');
+  String get peacefulReading =>
+      _t('Magbasa nang may kapayapaan', 'Read with a peaceful heart');
+  String get librarySubtitle => _t(
+    'Talaan ng iyong pagbabasa at paglalakbay',
+    'Your reading journey, book by book',
+  );
+  String get spinNextReading =>
+      _t('Paikutin para sa Susunod na Babasahin', 'Spin for your next reading');
+  String get preferencesHeading => _t('MGA KAGUSTUHAN', 'PREFERENCES');
+  String get choicesHeading => _t('MGA PAGPILI', 'APPEARANCE & LANGUAGE');
+  String get informationHeading => _t('IMPORMASYON', 'INFORMATION');
+  String get readingJourneyTitle =>
+      _t('Manlalakbay sa Banal na Kasulatan', 'A journey through Scripture');
+  String get guidingVerse => _t(
+    "Ang salita mo'y ilawan sa aking mga paa, at liwanag sa aking landas.",
+    'Your word is a lamp to my feet, and a light for my path.',
+  );
+  String get guidingVerseReference => _t('Mga Awit 119:105', 'Psalm 119:105');
 
   String sectionName(Section s) {
     switch (s) {

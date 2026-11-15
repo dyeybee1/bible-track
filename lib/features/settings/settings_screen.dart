@@ -7,6 +7,7 @@ import '../../models/sync_status.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_logo.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/scripture_quote.dart';
 import 'text_sources_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
@@ -32,16 +33,28 @@ class SettingsScreen extends StatelessWidget {
     final settings = SettingsScope.of(context);
 
     return Scaffold(
-      appBar: appHeader(context, title: strings.navSettings, themeToggle: true),
+      appBar: appHeader(
+        context,
+        title: strings.navSettings,
+        root: true,
+        themeToggle: true,
+      ),
       body: ListView(
         padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
         children: [
+          Padding(
+            padding: const EdgeInsets.only(top: 12, bottom: 8),
+            child: Text(
+              strings.navSettings,
+              style: theme.textTheme.headlineMedium,
+            ),
+          ),
           // ---- Header (Task 6.1) ----
           Padding(
             padding: const EdgeInsets.symmetric(vertical: 20),
             child: Row(
               children: [
-                const AppLogo(size: 56),
+                const AppLogo(size: 40),
                 const SizedBox(width: 16),
                 Expanded(
                   child: Column(
@@ -68,6 +81,7 @@ class SettingsScreen extends StatelessWidget {
           ),
 
           // ---- Username card ----
+          _SectionLabel(strings.preferencesHeading),
           _Card(
             child: ListTile(
               title: Text(strings.usernameLabel),
@@ -96,6 +110,7 @@ class SettingsScreen extends StatelessWidget {
           const SizedBox(height: 8),
 
           // ---- Language card ----
+          _SectionLabel(strings.choicesHeading),
           _Card(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -159,7 +174,7 @@ class SettingsScreen extends StatelessWidget {
             ),
           ),
 
-          const SizedBox(height: 8),
+          _SectionLabel(strings.informationHeading),
           _Card(
             child: ListTile(
               leading: const Icon(Icons.menu_book_outlined),
@@ -174,6 +189,7 @@ class SettingsScreen extends StatelessWidget {
           // ---- Logout button at the bottom (Task 6.3) ----
           const SizedBox(height: 24),
           _LogoutButton(account: account),
+          const ScriptureQuote(),
         ],
       ),
     );
@@ -181,6 +197,23 @@ class SettingsScreen extends StatelessWidget {
 }
 
 // ---- Shared card container ----
+class _SectionLabel extends StatelessWidget {
+  const _SectionLabel(this.label);
+  final String label;
+
+  @override
+  Widget build(BuildContext context) => Padding(
+    padding: const EdgeInsets.only(top: 16, bottom: 10),
+    child: Text(
+      label,
+      style: Theme.of(context).textTheme.labelSmall?.copyWith(
+        letterSpacing: 1,
+        color: Theme.of(context).colorScheme.primary,
+      ),
+    ),
+  );
+}
+
 class _Card extends StatelessWidget {
   const _Card({required this.child});
 
@@ -192,7 +225,7 @@ class _Card extends StatelessWidget {
     return Material(
       color: scheme.surface,
       shape: RoundedRectangleBorder(
-        borderRadius: BorderRadius.circular(14),
+        borderRadius: BorderRadius.circular(16),
         side: BorderSide(color: scheme.outlineVariant),
       ),
       clipBehavior: Clip.antiAlias,
@@ -238,7 +271,8 @@ class _LogoutButton extends StatelessWidget {
       child: OutlinedButton(
         style: OutlinedButton.styleFrom(
           foregroundColor: scheme.error,
-          side: BorderSide(color: scheme.error),
+          backgroundColor: scheme.errorContainer,
+          side: BorderSide.none,
         ),
         onPressed: () => _confirmLogout(context),
         child: Padding(

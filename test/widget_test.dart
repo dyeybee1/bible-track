@@ -115,7 +115,7 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
-    expect(find.text('BIBLE TRACK'), findsOneWidget);
+    expect(find.text('Books'), findsOneWidget);
     await tester.tap(find.byTooltip(settings.strings.themeDark));
     await tester.pumpAndSettle();
     expect(

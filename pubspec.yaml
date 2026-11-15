@@ -66,8 +66,8 @@ flutter_launcher_icons:
   web:
     generate: true
     image_path: "assets/icon/bible-track-icon-1024.png"
-    background_color: "#3F008D"
-    theme_color: "#3F008D"
+    background_color: "#FAF9F5"
+    theme_color: "#0B5E42"
   windows:
     generate: false
   macos:
@@ -85,6 +85,26 @@ flutter:
   uses-material-design: true
 
   fonts:
+    - family: Newsreader
+      fonts:
+        - asset: assets/fonts/Newsreader.ttf
+          weight: 400
+        - asset: assets/fonts/Newsreader.ttf
+          weight: 500
+        - asset: assets/fonts/Newsreader.ttf
+          weight: 600
+        - asset: assets/fonts/Newsreader.ttf
+          weight: 700
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/fonts/PlusJakartaSans.ttf
+          weight: 400
+        - asset: assets/fonts/PlusJakartaSans.ttf
+          weight: 500
+        - asset: assets/fonts/PlusJakartaSans.ttf
+          weight: 600
+        - asset: assets/fonts/PlusJakartaSans.ttf
+          weight: 700
     - family: Roboto
       fonts:
         - asset: assets/fonts/Roboto-Regular.ttf

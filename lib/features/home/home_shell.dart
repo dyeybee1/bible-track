@@ -7,7 +7,6 @@ import '../../data/quiz_repository.dart';
 import '../../settings_scope.dart';
 import '../books/books_screen.dart';
 import '../leaderboard/leaderboard_screen.dart';
-import '../profile/profile_screen.dart';
 import '../settings/settings_screen.dart';
 import '../spinner/spinner_screen.dart';
 
@@ -17,8 +16,7 @@ import '../spinner/spinner_screen.dart';
 ///   0 – Books    (Mga Libro / Books)
 ///   1 – Spin     (Paikot   / Spinner)
 ///   2 – Leaderboard (Ranggo / Leaderboard)  ← new
-///   3 – Profile
-///   4 – Settings
+///   3 – Settings. Profile opens from the shared header.
 class HomeShell extends StatefulWidget {
   const HomeShell({
     super.key,
@@ -54,6 +52,7 @@ class _HomeShellState extends State<HomeShell> {
             account: widget.account,
             cloud: widget.cloud,
             quizRepo: widget.quizRepo,
+            onSpin: () => setState(() => _index = 1),
           ),
           // 1 – Spin
           SpinnerScreen(
@@ -68,9 +67,7 @@ class _HomeShellState extends State<HomeShell> {
             account: widget.account,
             cloud: widget.cloud,
           ),
-          // 3 – Profile
-          ProfileScreen(progress: widget.progress),
-          // 4 – Settings
+          // 3 – Settings
           SettingsScreen(account: widget.account),
         ],
       ),
@@ -104,11 +101,6 @@ class _HomeShellState extends State<HomeShell> {
               icon: const Icon(Icons.emoji_events_outlined),
               selectedIcon: const Icon(Icons.emoji_events),
               label: strings.navLeaderboard,
-            ),
-            NavigationDestination(
-              icon: const Icon(Icons.person_outline),
-              selectedIcon: const Icon(Icons.person),
-              label: strings.navProfile,
             ),
             NavigationDestination(
               icon: const Icon(Icons.settings_outlined),

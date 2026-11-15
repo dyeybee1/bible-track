@@ -230,7 +230,8 @@ class _QuizPageState extends State<_QuizPage> {
           context,
           title: strings.quizTitle(widget.chapter),
           leading: IconButton(
-            icon: const Icon(Icons.close),
+            key: const ValueKey('quiz-close-action'),
+            icon: const Icon(Icons.arrow_back_ios_new_rounded, size: 20),
             tooltip: strings.chapterClose,
             onPressed: _close,
           ),
@@ -278,6 +279,9 @@ class _QuizPageState extends State<_QuizPage> {
                   onPressed: _readChapter,
                   style: FilledButton.styleFrom(
                     minimumSize: Size(48, actionHeight),
+                    backgroundColor: scheme.surface,
+                    foregroundColor: scheme.primary,
+                    side: BorderSide(color: scheme.outlineVariant),
                     padding: const EdgeInsets.all(16),
                     elevation: 2,
                     shadowColor: scheme.shadow.withAlpha(64),
@@ -353,21 +357,36 @@ class _AnsweringBody extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return ListView.builder(
-      key: const ValueKey('quiz-questions'),
-      padding: EdgeInsets.fromLTRB(16, 12, 16, bottomPadding),
-      itemCount: questions.length,
-      itemBuilder: (_, qi) => _QuestionCard(
-        index: qi,
-        total: questions.length,
-        question: questions[qi],
-        selectedOption: selected[qi],
-        lang: lang,
-        onSelect: (oi) => onSelect(qi, oi),
-        strings: strings,
-        theme: theme,
-        scheme: scheme,
-      ),
+    return Column(
+      children: [
+        Padding(
+          padding: const EdgeInsets.fromLTRB(20, 14, 20, 2),
+          child: LinearProgressIndicator(
+            value:
+                selected.where((value) => value != null).length /
+                questions.length,
+            minHeight: 4,
+          ),
+        ),
+        Expanded(
+          child: ListView.builder(
+            key: const ValueKey('quiz-questions'),
+            padding: EdgeInsets.fromLTRB(16, 12, 16, bottomPadding),
+            itemCount: questions.length,
+            itemBuilder: (_, qi) => _QuestionCard(
+              index: qi,
+              total: questions.length,
+              question: questions[qi],
+              selectedOption: selected[qi],
+              lang: lang,
+              onSelect: (oi) => onSelect(qi, oi),
+              strings: strings,
+              theme: theme,
+              scheme: scheme,
+            ),
+          ),
+        ),
+      ],
     );
   }
 }
@@ -424,6 +443,9 @@ class _QuestionCard extends StatelessWidget {
             Text(
               question.question(lang),
               style: theme.textTheme.titleMedium?.copyWith(
+                fontFamily: 'Newsreader',
+                fontSize: 21,
+                height: 1.4,
                 fontWeight: FontWeight.w600,
               ),
             ),
@@ -465,14 +487,17 @@ class _OptionTile extends StatelessWidget {
       onTap: onTap,
       child: AnimatedContainer(
         duration: const Duration(milliseconds: 150),
+        constraints: const BoxConstraints(minHeight: 48),
         margin: const EdgeInsets.only(bottom: 8),
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
         decoration: BoxDecoration(
-          color: selected ? scheme.secondary : scheme.surface,
-          borderRadius: BorderRadius.circular(10),
+          color: selected ? scheme.primaryContainer : scheme.surfaceContainer,
+          borderRadius: BorderRadius.circular(12),
           border: Border.all(
-            color: selected ? scheme.onSecondary : scheme.outlineVariant,
-            width: selected ? 2 : 1,
+            color: selected
+                ? scheme.primary.withValues(alpha: .25)
+                : Colors.transparent,
+            width: 1,
           ),
         ),
         child: Row(
@@ -482,14 +507,16 @@ class _OptionTile extends StatelessWidget {
                   ? Icons.radio_button_checked
                   : Icons.radio_button_unchecked,
               size: 18,
-              color: selected ? scheme.onSecondary : scheme.onSurfaceVariant,
+              color: selected ? scheme.primary : scheme.outline,
             ),
             const SizedBox(width: 10),
             Expanded(
               child: Text(
                 label,
                 style: theme.textTheme.bodyMedium?.copyWith(
-                  color: selected ? scheme.onSecondary : scheme.onSurface,
+                  color: selected
+                      ? scheme.onPrimaryContainer
+                      : scheme.onSurface,
                   fontWeight: selected ? FontWeight.w600 : FontWeight.normal,
                 ),
               ),
@@ -532,20 +559,45 @@ class _WrongBody extends StatelessWidget {
               mainAxisSize: MainAxisSize.min,
               crossAxisAlignment: CrossAxisAlignment.stretch,
               children: [
-                Icon(
-                  Icons.refresh_rounded,
-                  size: 72,
-                  color: scheme.primary.withAlpha(180),
-                ),
-                const SizedBox(height: 20),
-                Text(
-                  strings.quizWrong as String,
-                  textAlign: TextAlign.center,
-                  style: theme.textTheme.titleMedium?.copyWith(
-                    color: scheme.onSurface,
+                Container(
+                  padding: const EdgeInsets.all(28),
+                  decoration: BoxDecoration(
+                    color: scheme.surface,
+                    borderRadius: BorderRadius.circular(20),
+                    gradient: LinearGradient(
+                      begin: Alignment.topRight,
+                      end: Alignment.bottomLeft,
+                      colors: [scheme.primaryContainer, scheme.surface],
+                    ),
+                  ),
+                  child: Column(
+                    children: [
+                      Container(
+                        padding: const EdgeInsets.all(18),
+                        decoration: BoxDecoration(
+                          color: scheme.primaryContainer,
+                          shape: BoxShape.circle,
+                          border: Border.all(
+                            color: scheme.primary.withValues(alpha: .2),
+                            width: 5,
+                          ),
+                        ),
+                        child: Icon(
+                          Icons.refresh_rounded,
+                          size: 40,
+                          color: scheme.primary,
+                        ),
+                      ),
+                      const SizedBox(height: 24),
+                      Text(
+                        strings.quizWrong as String,
+                        textAlign: TextAlign.center,
+                        style: theme.textTheme.titleLarge,
+                      ),
+                    ],
                   ),
                 ),
-                const SizedBox(height: 28),
+                const SizedBox(height: 24),
                 FilledButton.icon(
                   key: const ValueKey('quiz-retry-action'),
                   onPressed: onRetry,
@@ -606,18 +658,35 @@ class _PassedBody extends StatelessWidget {
               Container(
                 padding: const EdgeInsets.all(20),
                 decoration: BoxDecoration(
-                  color: scheme.primaryContainer,
+                  color: scheme.surface,
+                  gradient: LinearGradient(
+                    begin: Alignment.topRight,
+                    end: Alignment.bottomLeft,
+                    colors: [scheme.primaryContainer, scheme.surface],
+                  ),
+                  border: Border.all(color: scheme.outlineVariant),
                   borderRadius: BorderRadius.circular(16),
                 ),
                 child: Column(
                   children: [
-                    const Text('🎉', style: TextStyle(fontSize: 40)),
+                    Container(
+                      padding: const EdgeInsets.all(18),
+                      decoration: BoxDecoration(
+                        color: scheme.primaryContainer,
+                        shape: BoxShape.circle,
+                      ),
+                      child: Icon(
+                        Icons.local_florist_rounded,
+                        size: 36,
+                        color: scheme.primary,
+                      ),
+                    ),
                     const SizedBox(height: 8),
                     Text(
                       strings.quizPassed as String,
                       textAlign: TextAlign.center,
-                      style: theme.textTheme.titleMedium?.copyWith(
-                        color: scheme.onPrimaryContainer,
+                      style: theme.textTheme.headlineSmall?.copyWith(
+                        color: scheme.onSurface,
                         fontWeight: FontWeight.w700,
                       ),
                     ),
@@ -641,7 +710,7 @@ class _PassedBody extends StatelessWidget {
                   margin: const EdgeInsets.only(bottom: 12),
                   padding: const EdgeInsets.all(14),
                   decoration: BoxDecoration(
-                    color: scheme.surfaceContainerHighest,
+                    color: scheme.surface,
                     borderRadius: BorderRadius.circular(12),
                     border: Border.all(color: scheme.outlineVariant),
                   ),

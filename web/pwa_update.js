@@ -27,7 +27,7 @@
     function showBanner() {
       if (!banner) {
         const style = document.createElement('style');
-        style.textContent = '#bt-pwa-update{position:fixed;z-index:2147483647;top:calc(env(safe-area-inset-top,0px) + 10px);left:12px;right:12px;max-width:480px;margin:auto;display:flex;align-items:center;gap:12px;padding:10px 12px 10px 16px;border:1px solid #ded3ed;border-radius:16px;background:#f4f2f6;color:#281044;box-shadow:0 4px 24px #160b2526;font:14px/1.4 Roboto,Arial,sans-serif}#bt-pwa-update span{flex:1;min-width:0}#bt-pwa-update button{border:0;border-radius:24px;padding:12px 18px;min-height:44px;background:#c3f53a;color:#281044;font:500 14px/1.3 Roboto,Arial,sans-serif;cursor:pointer}#bt-pwa-update button:disabled{opacity:.65;cursor:wait}#bt-pwa-update button:focus-visible{outline:2px solid #3f008d;outline-offset:3px}';
+        style.textContent = '#bt-pwa-update{position:fixed;z-index:2147483647;top:calc(env(safe-area-inset-top,0px) + 10px);left:12px;right:12px;max-width:480px;margin:auto;display:flex;align-items:center;gap:12px;padding:10px 12px 10px 16px;border:1px solid #ebeae5;border-radius:16px;background:#faf9f5;color:#0f172a;box-shadow:0 4px 24px #0f172a26;font:14px/1.4 Arial,sans-serif}#bt-pwa-update span{flex:1;min-width:0}#bt-pwa-update button{border:0;border-radius:24px;padding:12px 18px;min-height:44px;background:#0b5e42;color:#ffffff;font:500 14px/1.3 Arial,sans-serif;cursor:pointer}#bt-pwa-update button:disabled{opacity:.65;cursor:wait}#bt-pwa-update button:focus-visible{outline:2px solid #0b5e42;outline-offset:3px}';
         document.head.appendChild(style);
         banner = document.createElement('section');
         banner.id = 'bt-pwa-update';

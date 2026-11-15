@@ -32,8 +32,7 @@ class RankBadge extends StatelessWidget {
         height: size,
         decoration: BoxDecoration(
           color: foreground.withAlpha(24),
-          borderRadius: BorderRadius.circular(size * 0.28),
-          border: Border.all(color: foreground.withAlpha(150), width: 1.5),
+          borderRadius: BorderRadius.circular(size * 0.32),
         ),
         child: Icon(icon, color: foreground, size: size * 0.6),
       ),

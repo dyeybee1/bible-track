@@ -35,20 +35,26 @@ class ProfileDetails extends StatelessWidget {
         Center(
           child: CircleAvatar(
             radius: 36,
-            backgroundColor: scheme.primary,
+            backgroundColor: scheme.onSurface,
             child: Text(
               initial,
               style: TextStyle(
                 fontSize: 30,
                 fontWeight: FontWeight.w500,
-                color: scheme.onPrimary,
+                color: scheme.surface,
               ),
             ),
           ),
         ),
         const SizedBox(height: 12),
         Center(child: Text(username, style: theme.textTheme.headlineSmall)),
-        const SizedBox(height: 28),
+        const SizedBox(height: 6),
+        Text(
+          context.s.readingJourneyTitle,
+          textAlign: TextAlign.center,
+          style: theme.textTheme.bodySmall?.copyWith(color: scheme.primary),
+        ),
+        const SizedBox(height: 24),
         CurrentRankCard(stars: chaptersRead),
         const SizedBox(height: 12),
         HighestRankCard(maxStarsEver: maxStars),

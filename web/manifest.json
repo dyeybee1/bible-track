@@ -4,8 +4,8 @@
     "description": "Track your Bible reading journey — book by book, chapter by chapter.",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#3F008D",
-    "theme_color": "#3F008D",
+    "background_color": "#FAF9F5",
+    "theme_color": "#0B5E42",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

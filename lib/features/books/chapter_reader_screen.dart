@@ -7,6 +7,7 @@ import '../../data/settings_controller.dart';
 import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_header.dart';
+import '../../theme/app_theme.dart';
 import '../settings/text_sources_screen.dart';
 import 'quiz_screen.dart';
 
@@ -113,7 +114,6 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
       appBar: appHeader(
         context,
         title: s.bookChapter(widget.book.nameFor(s.lang), _chapter),
-        themeToggle: true,
       ),
       body: SafeArea(
         bottom: false,
@@ -201,12 +201,42 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                   return ListView.builder(
                     key: const ValueKey('reader-verses'),
                     controller: _scroll,
-                    padding: const EdgeInsets.fromLTRB(24, 14, 24, 24),
-                    itemCount: verses.length,
+                    padding: const EdgeInsets.fromLTRB(20, 14, 20, 24),
+                    itemCount: verses.length + 1,
                     itemBuilder: (context, index) {
-                      final verse = verses[index];
-                      return Padding(
-                        padding: const EdgeInsets.only(bottom: 14),
+                      if (index == 0) {
+                        return Padding(
+                          padding: const EdgeInsets.only(top: 8, bottom: 24),
+                          child: Column(
+                            children: [
+                              Text(
+                                s.sectionName(widget.book.section),
+                                style: theme.textTheme.labelSmall?.copyWith(
+                                  color: theme.colorScheme.primary,
+                                  letterSpacing: 1,
+                                ),
+                              ),
+                              const SizedBox(height: 8),
+                              Text(
+                                s.bookChapter(
+                                  widget.book.nameFor(s.lang),
+                                  _chapter,
+                                ),
+                                textAlign: TextAlign.center,
+                                style: theme.textTheme.headlineMedium,
+                              ),
+                            ],
+                          ),
+                        );
+                      }
+                      final verse = verses[index - 1];
+                      return Container(
+                        margin: const EdgeInsets.only(bottom: 12),
+                        padding: const EdgeInsets.all(18),
+                        decoration: BoxDecoration(
+                          color: theme.colorScheme.surface,
+                          borderRadius: BorderRadius.circular(16),
+                        ),
                         child: Text.rich(
                           key: ValueKey('reader-verse-${verse.number}'),
                           TextSpan(
@@ -218,12 +248,23 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                                     right: 7,
                                     top: 3,
                                   ),
-                                  child: Text(
-                                    '${verse.number}',
-                                    style: TextStyle(
-                                      fontSize: settings.readerFontSize * .6,
-                                      color: theme.colorScheme.primary,
-                                      fontWeight: FontWeight.w600,
+                                  child: Container(
+                                    padding: const EdgeInsets.symmetric(
+                                      horizontal: 8,
+                                      vertical: 3,
+                                    ),
+                                    decoration: BoxDecoration(
+                                      color: theme.colorScheme.primaryContainer,
+                                      borderRadius: BorderRadius.circular(20),
+                                    ),
+                                    child: Text(
+                                      '${verse.number}',
+                                      style: TextStyle(
+                                        fontFamily: AppTypography.sans,
+                                        fontSize: settings.readerFontSize * .6,
+                                        color: theme.colorScheme.primary,
+                                        fontWeight: FontWeight.w600,
+                                      ),
                                     ),
                                   ),
                                 ),
@@ -233,6 +274,7 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
                           ),
                           style: theme.textTheme.bodyLarge?.copyWith(
                             fontSize: settings.readerFontSize,
+                            fontFamily: AppTypography.serif,
                             height: 1.8,
                             letterSpacing: 0,
                           ),
@@ -259,7 +301,7 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
         ),
       ),
       bottomNavigationBar: Material(
-        color: theme.colorScheme.surface,
+        color: theme.scaffoldBackgroundColor,
         elevation: 0,
         child: SafeArea(
           top: false,

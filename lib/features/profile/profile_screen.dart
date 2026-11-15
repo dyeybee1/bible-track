@@ -47,7 +47,7 @@ class ProfileScreen extends StatelessWidget {
     final username = settings.username ?? strings.defaultUsername;
 
     return Scaffold(
-      appBar: appHeader(context, title: strings.navProfile, themeToggle: true),
+      appBar: appHeader(context, title: strings.navProfile),
       body: ListenableBuilder(
         listenable: progress,
         builder: (context, _) {

@@ -15,6 +15,8 @@ import 'settings_scope.dart';
 import 'platform/pwa_language_stub.dart'
     if (dart.library.js_interop) 'platform/pwa_language_web.dart';
 import 'theme/app_theme.dart';
+import 'widgets/profile_access.dart';
+import 'features/profile/profile_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -73,6 +75,10 @@ class BibleTrackApp extends StatelessWidget {
           return MaterialApp(
             title: 'Bible Track',
             debugShowCheckedModeBanner: false,
+            builder: (context, child) => ProfileAccess(
+              profileBuilder: (_) => ProfileScreen(progress: progress),
+              child: child!,
+            ),
             theme: lightTheme,
             darkTheme: darkTheme,
             themeMode: settings.themeMode,

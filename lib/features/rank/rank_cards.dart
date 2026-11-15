@@ -19,7 +19,7 @@ class CurrentRankCard extends StatelessWidget {
     return Card(
       margin: EdgeInsets.zero,
       elevation: 0,
-      color: scheme.primaryContainer,
+      color: scheme.surface,
       child: Padding(
         padding: const EdgeInsets.all(20),
         child: Column(
@@ -35,13 +35,16 @@ class CurrentRankCard extends StatelessWidget {
                     children: [
                       Text(
                         strings.currentRank,
-                        style: TextStyle(color: scheme.onPrimaryContainer),
+                        style: theme.textTheme.labelSmall?.copyWith(
+                          color: scheme.primary,
+                          letterSpacing: 1,
+                        ),
                       ),
                       Text(
                         strings.rankName(rank),
                         style: theme.textTheme.headlineSmall?.copyWith(
                           fontWeight: FontWeight.w700,
-                          color: scheme.onPrimaryContainer,
+                          color: scheme.onSurface,
                         ),
                       ),
                     ],
@@ -50,7 +53,7 @@ class CurrentRankCard extends StatelessWidget {
               ],
             ),
             const SizedBox(height: 16),
-            StarProgress(rank: rank, color: scheme.onPrimaryContainer),
+            StarProgress(rank: rank, color: scheme.tertiary),
           ],
         ),
       ),

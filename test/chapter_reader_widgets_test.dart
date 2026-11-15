@@ -414,7 +414,7 @@ void main() {
         expect(find.byIcon(Icons.radio_button_checked), findsNothing);
         expect(observer.routes, hasLength(2));
         // X still restores the reader that started this particular quiz.
-        await tester.tap(find.byIcon(Icons.close));
+        await tester.tap(find.byKey(const ValueKey('quiz-close-action')));
         await tester.pumpAndSettle();
         expect(find.byType(ChapterReaderScreen), findsOneWidget);
         expect(observer.routes, hasLength(2));
@@ -839,7 +839,7 @@ void main() {
             await tester.tap(find.text('Check answers'));
             await tester.pumpAndSettle();
           }
-          await tester.tap(find.byIcon(Icons.close));
+          await tester.tap(find.byKey(const ValueKey('quiz-close-action')));
           await tester.pumpAndSettle();
           expect(
             find.byType(ChapterReaderScreen),
