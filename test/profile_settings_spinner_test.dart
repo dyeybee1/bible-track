@@ -171,7 +171,19 @@ void main() {
           await tester.pumpAndSettle();
           expect(find.byType(SettingsScreen), findsOneWidget);
           expect(find.byType(BackButton), findsOneWidget);
-          expect(avatar, findsOneWidget);
+          expect(avatar, findsNothing);
+          for (final icon in [
+            Icons.dark_mode_outlined,
+            Icons.light_mode_outlined,
+          ]) {
+            expect(
+              find.descendant(
+                of: find.byType(AppBar),
+                matching: find.byIcon(icon),
+              ),
+              findsNothing,
+            );
+          }
           expect(settingsAction, findsNothing);
           await tester.scrollUntilVisible(
             find.textContaining(

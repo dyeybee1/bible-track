@@ -33,7 +33,11 @@ class SettingsScreen extends StatelessWidget {
     final settings = SettingsScope.of(context);
 
     return Scaffold(
-      appBar: appHeader(context, title: strings.navSettings, themeToggle: true),
+      appBar: appHeader(
+        context,
+        title: strings.navSettings,
+        showProfileAction: false,
+      ),
       body: ListView(
         padding: const EdgeInsets.fromLTRB(20, 12, 20, 32),
         children: [

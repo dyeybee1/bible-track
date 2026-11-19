@@ -16,9 +16,11 @@ import 'package:bible_track/features/profile/profile_sections.dart';
 import 'package:bible_track/features/profile/public_profile_screen.dart';
 import 'package:bible_track/features/rank/rank_cards.dart';
 import 'package:bible_track/features/rank/star_change_screen.dart';
+import 'package:bible_track/features/settings/settings_screen.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
 import 'package:bible_track/widgets/star_progress.dart';
+import 'package:bible_track/widgets/profile_access.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -91,7 +93,15 @@ void main() {
 
   Widget app(Widget home) => SettingsScope(
     controller: settings,
-    child: MaterialApp(theme: lightTheme, home: home),
+    child: MaterialApp(
+      theme: lightTheme,
+      builder: (context, child) => ProfileAccess(
+        profileBuilder: (_) => ProfileScreen(progress: progress),
+        settingsBuilder: (_) => SettingsScreen(account: account),
+        child: child!,
+      ),
+      home: home,
+    ),
   );
   PublicProfile profile() => PublicProfile(
     uid: 'other',
@@ -273,13 +283,20 @@ void main() {
       ),
     );
     await tester.pumpAndSettle();
+    expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
     await tester.tap(find.byKey(const ValueKey('leaderboard-other')));
     await tester.pumpAndSettle();
     expect(find.text('Word of Life'), findsNWidgets(2));
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
+    expect(find.byKey(const ValueKey('header-profile-action')), findsNothing);
+    expect(find.byType(BackButton), findsOneWidget);
     expect(cloud.reads, ['other']);
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+    expect(find.byType(LeaderboardScreen), findsOneWidget);
+    expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
@@ -311,7 +328,13 @@ void main() {
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
+    expect(find.byKey(const ValueKey('header-profile-action')), findsNothing);
+    expect(find.byType(BackButton), findsOneWidget);
     expect(cloud.reads, ['other']);
+    await tester.pageBack();
+    await tester.pumpAndSettle();
+    expect(find.byType(ChapterScreen), findsOneWidget);
+    expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 }

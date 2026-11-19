@@ -41,7 +41,11 @@ class _PublicProfileScreenState extends State<PublicProfileScreen> {
   Widget build(BuildContext context) {
     final strings = context.s;
     return Scaffold(
-      appBar: appHeader(context, title: strings.navProfile),
+      appBar: appHeader(
+        context,
+        title: strings.navProfile,
+        showProfileAction: false,
+      ),
       body: FutureBuilder<PublicProfile?>(
         future: _profile,
         builder: (context, snapshot) {
