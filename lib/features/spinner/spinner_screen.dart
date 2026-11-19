@@ -198,7 +198,6 @@ class _SpinnerScreenState extends State<SpinnerScreen>
       appBar: appHeader(
         context,
         title: strings.spinTitle,
-        root: true,
         actions: [
           // ---- Scope dropdown (Task 2) ----
           Semantics(

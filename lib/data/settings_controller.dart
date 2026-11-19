@@ -24,6 +24,7 @@ class SettingsController extends ChangeNotifier {
     if (at is int) _usernameAt = at;
 
     _introSeen = _box.get(_kIntroSeen) == true;
+    _spinHintSeen = _box.get(_kSpinHintSeen) == true;
     _showOnLeaderboard = _box.get(_kShowOnLeaderboard) == true;
     final fontSize = _box.get(_kReaderFontSize);
     if (fontSize is num && fontSize.isFinite) {
@@ -36,6 +37,7 @@ class SettingsController extends ChangeNotifier {
   static const _kUsername = 'username';
   static const _kUsernameAt = 'usernameAt';
   static const _kIntroSeen = 'introSeen';
+  static const _kSpinHintSeen = 'spinFabHintSeenV1';
   static const _kShowOnLeaderboard = 'showOnLeaderboard';
   static const _kReaderFontSize = 'readerFontSize';
   static const readerFontSizes = <double>[16, 18, 20, 22, 24];
@@ -47,6 +49,7 @@ class SettingsController extends ChangeNotifier {
   String? _username;
   int _usernameAt = 0;
   bool _introSeen = false;
+  bool _spinHintSeen = false;
   bool _showOnLeaderboard = false;
   double _readerFontSize = 18;
 
@@ -131,6 +134,16 @@ class SettingsController extends ChangeNotifier {
     if (_introSeen) return;
     _introSeen = true;
     _box.put(_kIntroSeen, true);
+    notifyListeners();
+  }
+
+  /// Device-only discovery hint, independent of account and cloud state.
+  bool get spinHintSeen => _spinHintSeen;
+
+  void markSpinHintSeen() {
+    if (_spinHintSeen) return;
+    _spinHintSeen = true;
+    _box.put(_kSpinHintSeen, true);
     notifyListeners();
   }
 

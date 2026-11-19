@@ -9,7 +9,6 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
-import '../../widgets/page_heading.dart';
 import '../intro/intro_screen.dart';
 import 'chapter_screen.dart';
 
@@ -20,14 +19,12 @@ class BooksScreen extends StatefulWidget {
     required this.account,
     required this.cloud,
     required this.quizRepo,
-    this.onSpin,
   });
 
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
   final QuizRepository quizRepo;
-  final VoidCallback? onSpin;
 
   @override
   State<BooksScreen> createState() => _BooksScreenState();
@@ -44,7 +41,6 @@ class _BooksScreenState extends State<BooksScreen> {
 
   @override
   Widget build(BuildContext context) {
-    final theme = Theme.of(context);
     final strings = context.s;
 
     return Scaffold(
@@ -65,183 +61,68 @@ class _BooksScreenState extends State<BooksScreen> {
           ),
         ],
       ),
-      body: ListenableBuilder(
-        listenable: widget.progress,
-        builder: (context, _) {
-          final books = booksBySection[_section]!;
-          final finished = widget.progress.completedIn(books);
-
-          return CustomScrollView(
-            key: ValueKey(_section), // resets scroll when switching tabs
-            slivers: [
-              SliverToBoxAdapter(
-                child: Column(
-                  children: [
-                    Container(
-                      width: double.infinity,
-                      margin: const EdgeInsets.fromLTRB(20, 12, 20, 0),
-                      padding: const EdgeInsets.all(20),
-                      decoration: BoxDecoration(
-                        borderRadius: BorderRadius.circular(20),
-                        gradient: LinearGradient(
-                          begin: Alignment.topLeft,
-                          end: Alignment.bottomRight,
-                          colors: [
-                            theme.colorScheme.primaryContainer,
-                            theme.scaffoldBackgroundColor,
-                          ],
-                        ),
-                        border: Border.all(
-                          color: theme.colorScheme.primary.withValues(
-                            alpha: .08,
-                          ),
-                        ),
-                      ),
-                      child: Column(
-                        crossAxisAlignment: CrossAxisAlignment.start,
-                        children: [
-                          Row(
-                            children: [
-                              Icon(
-                                Icons.wb_sunny_outlined,
-                                size: 15,
-                                color: theme.colorScheme.primary,
-                              ),
-                              const SizedBox(width: 8),
-                              Expanded(
-                                child: Text(
-                                  strings.dailyGuide,
-                                  style: theme.textTheme.labelSmall?.copyWith(
-                                    color: theme.colorScheme.primary,
-                                    letterSpacing: 1,
-                                  ),
-                                ),
-                              ),
-                            ],
-                          ),
-                          const SizedBox(height: 12),
-                          Text(
-                            strings.peacefulReading,
-                            style: theme.textTheme.headlineSmall,
-                          ),
-                        ],
-                      ),
-                    ),
-                    PageHeading(
-                      title: strings.booksTitle,
-                      subtitle: strings.librarySubtitle,
-                    ),
+      body: Column(
+        children: [
+          Padding(
+            padding: const EdgeInsets.fromLTRB(20, 10, 20, 12),
+            child: SingleChildScrollView(
+              key: const ValueKey('testament-chips'),
+              scrollDirection: Axis.horizontal,
+              child: Row(
+                children: [
+                  for (final s in _tabOrder)
                     Padding(
-                      padding: const EdgeInsets.fromLTRB(20, 0, 20, 12),
-                      child: SingleChildScrollView(
-                        scrollDirection: Axis.horizontal,
-                        child: Row(
-                          children: [
-                            for (final s in _tabOrder)
-                              Padding(
-                                padding: const EdgeInsets.only(right: 8),
-                                child: _SectionTab(
-                                  label: strings.sectionName(s),
-                                  selected: s == _section,
-                                  onTap: () => setState(() => _section = s),
-                                ),
-                              ),
-                          ],
-                        ),
+                      padding: const EdgeInsets.only(right: 8),
+                      child: _SectionTab(
+                        label: strings.sectionName(s),
+                        selected: s == _section,
+                        onTap: () => setState(() => _section = s),
                       ),
                     ),
-                    Padding(
-                      padding: const EdgeInsets.fromLTRB(20, 10, 20, 14),
-                      child: Container(
-                        padding: const EdgeInsets.all(16),
-                        decoration: BoxDecoration(
-                          color: theme.colorScheme.surface,
-                          border: Border.all(
-                            color: theme.colorScheme.outlineVariant,
-                          ),
-                          borderRadius: BorderRadius.circular(16),
-                        ),
-                        child: Column(
-                          crossAxisAlignment: CrossAxisAlignment.start,
-                          children: [
-                            Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              children: [
-                                Expanded(
-                                  child: Text(
-                                    strings.sectionName(_section),
-                                    style: theme.textTheme.titleLarge?.copyWith(
-                                      fontSize: 18,
-                                    ),
-                                  ),
+                ],
+              ),
+            ),
+          ),
+          Expanded(
+            child: ListenableBuilder(
+              listenable: widget.progress,
+              builder: (context, _) {
+                final books = booksBySection[_section]!;
+                return CustomScrollView(
+                  key: ValueKey(_section),
+                  slivers: [
+                    SliverPadding(
+                      padding: const EdgeInsets.fromLTRB(16, 0, 16, 96),
+                      sliver: SliverList(
+                        delegate: SliverChildBuilderDelegate((context, index) {
+                          if (index.isOdd) return const SizedBox(height: 10);
+                          final b = books[index ~/ 2];
+                          return _BookTile(
+                            book: b,
+                            name: b.nameFor(strings.lang),
+                            read: widget.progress.readCount(b),
+                            onTap: () => Navigator.of(context).push(
+                              MaterialPageRoute<void>(
+                                builder: (_) => ChapterScreen(
+                                  book: b,
+                                  progress: widget.progress,
+                                  account: widget.account,
+                                  cloud: widget.cloud,
+                                  quizRepo: widget.quizRepo,
                                 ),
-                                const SizedBox(width: 12),
-                                Text(
-                                  strings.finishedCount(finished, books.length),
-                                  style: theme.textTheme.bodySmall?.copyWith(
-                                    color: theme.colorScheme.onSurfaceVariant,
-                                  ),
-                                ),
-                              ],
+                              ),
                             ),
-                            const SizedBox(height: 12),
-                            LinearProgressIndicator(
-                              value: finished / books.length,
-                              minHeight: 4,
-                            ),
-                          ],
-                        ),
+                          );
+                        }, childCount: books.length * 2 - 1),
                       ),
                     ),
                   ],
-                ),
-              ),
-              SliverPadding(
-                padding: const EdgeInsets.fromLTRB(16, 0, 16, 24),
-                sliver: SliverList(
-                  delegate: SliverChildBuilderDelegate((context, index) {
-                    if (index.isOdd) return const SizedBox(height: 10);
-                    final i = index ~/ 2;
-                    final b = books[i];
-                    return _BookTile(
-                      book: b,
-                      name: b.nameFor(strings.lang),
-                      read: widget.progress.readCount(b),
-                      onTap: () => Navigator.of(context).push(
-                        MaterialPageRoute<void>(
-                          builder: (_) => ChapterScreen(
-                            book: b,
-                            progress: widget.progress,
-                            account: widget.account,
-                            cloud: widget.cloud,
-                            quizRepo: widget.quizRepo,
-                          ),
-                        ),
-                      ),
-                    );
-                  }, childCount: books.length * 2 - 1),
-                ),
-              ),
-            ],
-          );
-        },
-      ),
-      bottomNavigationBar: widget.onSpin == null
-          ? null
-          : SafeArea(
-              top: false,
-              child: Padding(
-                padding: const EdgeInsets.fromLTRB(20, 10, 20, 12),
-                child: FilledButton.icon(
-                  onPressed: widget.onSpin,
-                  icon: const Icon(Icons.casino_outlined, size: 19),
-                  label: Text(
-                    strings.spinNextReading,
-                    textAlign: TextAlign.center,
-                  ),
-                ),
-              ),
+                );
+              },
             ),
+          ),
+        ],
+      ),
     );
   }
 }
