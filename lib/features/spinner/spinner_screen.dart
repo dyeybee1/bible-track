@@ -302,16 +302,26 @@ class _SpinnerScreenState extends State<SpinnerScreen>
                       aspectRatio: 1,
                       child: Semantics(
                         label: strings.wheelSemantics(names),
-                        child: AnimatedBuilder(
-                          animation: _ctrl,
-                          builder: (context, _) => CustomPaint(
-                            size: Size.infinite,
-                            painter: _WheelPainter(
-                              names: names,
-                              colors: _sliceColors(context, names.length),
-                              rotation: _angle,
+                        child: RepaintBoundary(
+                          child: CustomPaint(
+                            foregroundPainter: _WheelFramePainter(
                               hubColor: scheme.primaryContainer,
                               lineColor: scheme.outlineVariant,
+                            ),
+                            child: AnimatedBuilder(
+                              animation: _ctrl,
+                              child: RepaintBoundary(
+                                child: CustomPaint(
+                                  size: Size.infinite,
+                                  painter: _WheelPainter(
+                                    names: names,
+                                    colors: _sliceColors(context, names.length),
+                                    lineColor: scheme.outlineVariant,
+                                  ),
+                                ),
+                              ),
+                              builder: (context, child) =>
+                                  Transform.rotate(angle: _angle, child: child),
                             ),
                           ),
                         ),
@@ -440,16 +450,39 @@ class _WheelPainter extends CustomPainter {
   _WheelPainter({
     required this.names,
     required this.colors,
-    required this.rotation,
-    required this.hubColor,
     required this.lineColor,
-  });
+  }) : _divider = (Paint()
+         ..style = PaintingStyle.stroke
+         ..strokeWidth = names.length > 30 ? 0.7 : 1.5
+         ..color = lineColor);
 
   final List<String> names;
   final List<Color> colors;
-  final double rotation;
-  final Color hubColor;
   final Color lineColor;
+  final Paint _fill = Paint()..style = PaintingStyle.fill;
+  final Paint _divider;
+
+  // Independent of radius; each book is measured only once per face.
+  late final List<double> _labelWidthFactors = [
+    for (final name in names) _measureLabel(name),
+  ];
+
+  static double _measureLabel(String name) {
+    final probe = TextPainter(
+      text: TextSpan(
+        text: name,
+        style: const TextStyle(
+          fontFamily: AppTypography.sans,
+          fontSize: 10,
+          fontWeight: FontWeight.w500,
+        ),
+      ),
+      textDirection: TextDirection.ltr,
+    )..layout();
+    final factor = probe.width / 10;
+    probe.dispose();
+    return factor;
+  }
 
   @override
   void paint(Canvas canvas, Size size) {
@@ -463,39 +496,20 @@ class _WheelPainter extends CustomPainter {
 
     canvas.save();
     canvas.translate(center.dx, center.dy);
-    canvas.rotate(rotation);
-
-    final fill = Paint()..style = PaintingStyle.fill;
-    final divider = Paint()
-      ..style = PaintingStyle.stroke
-      ..strokeWidth = n > 30 ? 0.7 : 1.5
-      ..color = lineColor;
 
     final local = Rect.fromCircle(center: Offset.zero, radius: rect.width / 2);
     for (var i = 0; i < n; i++) {
       final start = -pi / 2 + i * sweep;
-      fill.color = colors[i];
-      canvas.drawArc(local, start, sweep, true, fill);
-      if (n > 1) canvas.drawArc(local, start, sweep, true, divider);
+      _fill.color = colors[i];
+      canvas.drawArc(local, start, sweep, true, _fill);
+      if (n > 1) canvas.drawArc(local, start, sweep, true, _divider);
     }
 
     // Labels run along each slice and end near the rim.
     final labelEnd = radius * 0.94;
     final maxFont = (radius * 0.09).clamp(11.0, 18.0).toDouble();
     for (var i = 0; i < n; i++) {
-      final probe = TextPainter(
-        text: TextSpan(
-          text: names[i],
-          style: const TextStyle(
-            fontFamily: AppTypography.sans,
-            fontSize: 10,
-            fontWeight: FontWeight.w500,
-          ),
-        ),
-        textDirection: TextDirection.ltr,
-      )..layout();
-      final k = probe.width / 10;
-      probe.dispose();
+      final k = _labelWidthFactors[i];
 
       final fitSlice = sweep * labelEnd / (1.15 + sweep * k);
       final fitLength = (labelEnd - radius * 0.2) / k;
@@ -526,32 +540,39 @@ class _WheelPainter extends CustomPainter {
       tp.dispose();
     }
     canvas.restore();
-
-    // Rim and hub stay still while the wheel turns.
-    canvas.drawCircle(
-      center,
-      radius - 2,
-      Paint()
-        ..style = PaintingStyle.stroke
-        ..strokeWidth = 4
-        ..color = lineColor,
-    );
-    canvas.drawCircle(center, radius * 0.12, Paint()..color = hubColor);
-    canvas.drawCircle(
-      center,
-      radius * 0.12,
-      Paint()
-        ..style = PaintingStyle.stroke
-        ..strokeWidth = 4
-        ..color = lineColor,
-    );
   }
 
   @override
   bool shouldRepaint(_WheelPainter old) =>
-      old.rotation != rotation ||
       !listEquals(old.names, names) ||
       !listEquals(old.colors, colors) ||
-      old.hubColor != hubColor ||
       old.lineColor != lineColor;
+}
+
+/// Circular frame stays stationary while the cached face rotates underneath.
+class _WheelFramePainter extends CustomPainter {
+  _WheelFramePainter({required this.hubColor, required this.lineColor})
+    : _hub = (Paint()..color = hubColor),
+      _rim = (Paint()
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 4
+        ..color = lineColor);
+
+  final Color hubColor;
+  final Color lineColor;
+  final Paint _hub;
+  final Paint _rim;
+
+  @override
+  void paint(Canvas canvas, Size size) {
+    final center = size.center(Offset.zero);
+    final radius = size.shortestSide / 2;
+    canvas.drawCircle(center, radius - 2, _rim);
+    canvas.drawCircle(center, radius * 0.12, _hub);
+    canvas.drawCircle(center, radius * 0.12, _rim);
+  }
+
+  @override
+  bool shouldRepaint(_WheelFramePainter old) =>
+      old.hubColor != hubColor || old.lineColor != lineColor;
 }
