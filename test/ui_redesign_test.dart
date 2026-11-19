@@ -11,6 +11,7 @@ import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/features/books/chapter_reader_screen.dart';
 import 'package:bible_track/features/home/home_shell.dart';
 import 'package:bible_track/features/profile/profile_screen.dart';
+import 'package:bible_track/features/settings/settings_screen.dart';
 import 'package:bible_track/features/rank/star_change_screen.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
@@ -117,6 +118,7 @@ void main() {
               ).copyWith(textScaler: TextScaler.linear(scale)),
               child: ProfileAccess(
                 profileBuilder: (_) => ProfileScreen(progress: progress),
+                settingsBuilder: (_) => SettingsScreen(account: account),
                 child: child!,
               ),
             ),
@@ -124,6 +126,13 @@ void main() {
           ),
         ),
       );
+
+  Future<void> openSettings(WidgetTester tester) async {
+    await tester.tap(find.byKey(const ValueKey('header-profile-action')));
+    await tester.pumpAndSettle();
+    await tester.tap(find.byKey(const ValueKey('header-settings-action')));
+    await tester.pumpAndSettle();
+  }
 
   void phone(WidgetTester tester, Size size) {
     tester.view.physicalSize = size;
@@ -150,39 +159,35 @@ void main() {
     });
   }
 
-  testWidgets(
-    'three tabs keep their state when profile opens from any header',
-    (tester) async {
-      phone(tester, const Size(390, 844));
-      await tester.pumpWidget(app(home()));
+  testWidgets('two tabs keep their state when profile opens from any header', (
+    tester,
+  ) async {
+    phone(tester, const Size(390, 844));
+    await tester.pumpWidget(app(home()));
+    await tester.pumpAndSettle();
+    final navigation = find.byType(NavigationBar);
+    expect(tester.widget<NavigationBar>(navigation).destinations, hasLength(2));
+    expect(
+      find.descendant(of: navigation, matching: find.text('Profile')),
+      findsNothing,
+    );
+    for (final tab in ['Mga Libro', 'Ranggo']) {
+      await tester.tap(
+        find.descendant(of: navigation, matching: find.text(tab)),
+      );
       await tester.pumpAndSettle();
-      final navigation = find.byType(NavigationBar);
-      expect(
-        tester.widget<NavigationBar>(navigation).destinations,
-        hasLength(3),
-      );
-      expect(
-        find.descendant(of: navigation, matching: find.text('Profile')),
-        findsNothing,
-      );
-      for (final tab in ['Mga Libro', 'Ranggo', 'Setting']) {
-        await tester.tap(
-          find.descendant(of: navigation, matching: find.text(tab)),
-        );
-        await tester.pumpAndSettle();
-        final index = tester.widget<NavigationBar>(navigation).selectedIndex;
-        await tester.tap(find.byKey(const ValueKey('header-profile-action')));
-        await tester.pumpAndSettle();
-        expect(find.byType(ProfileScreen), findsOneWidget);
-        await tester.pageBack();
-        await tester.pumpAndSettle();
-        expect(tester.widget<NavigationBar>(navigation).selectedIndex, index);
-        expect(progress.chaptersReadTotal, 13);
-        expect(tester.takeException(), isNull);
-      }
-      await tester.pumpWidget(const SizedBox.shrink());
-    },
-  );
+      final index = tester.widget<NavigationBar>(navigation).selectedIndex;
+      await tester.tap(find.byKey(const ValueKey('header-profile-action')));
+      await tester.pumpAndSettle();
+      expect(find.byType(ProfileScreen), findsOneWidget);
+      await tester.pageBack();
+      await tester.pumpAndSettle();
+      expect(tester.widget<NavigationBar>(navigation).selectedIndex, index);
+      expect(progress.chaptersReadTotal, 13);
+      expect(tester.takeException(), isNull);
+    }
+    await tester.pumpWidget(const SizedBox.shrink());
+  });
 
   for (final dark in [false, true]) {
     testWidgets(
@@ -192,13 +197,7 @@ void main() {
         await tester.pumpWidget(app(home(), dark: dark, scale: 2));
         await tester.pumpAndSettle();
         expect(tester.takeException(), isNull);
-        await tester.tap(
-          find.descendant(
-            of: find.byType(NavigationBar),
-            matching: find.text('Setting'),
-          ),
-        );
-        await tester.pumpAndSettle();
+        await openSettings(tester);
         await tester.scrollUntilVisible(find.text('Mag-logout'), 300);
         expect(find.text('Mag-logout').hitTestable(), findsOneWidget);
         expect(tester.takeException(), isNull);
@@ -215,20 +214,16 @@ void main() {
         await tester.pumpWidget(app(home(), dark: dark));
         await tester.pumpAndSettle();
         await capture(tester, 'books-$mode');
-        final navigation = find.byType(NavigationBar);
         await tester.tap(find.byKey(const ValueKey('spin-fab')));
         await tester.pumpAndSettle();
         await capture(tester, 'spinner-$mode');
         await tester.pageBack();
         await tester.pumpAndSettle();
-        await tester.tap(
-          find.descendant(of: navigation, matching: find.text('Setting')),
-        );
-        await tester.pumpAndSettle();
+        await openSettings(tester);
         await capture(tester, 'settings-$mode');
-        await tester.tap(
-          find.descendant(of: navigation, matching: find.text('Mga Libro')),
-        );
+        await tester.pageBack();
+        await tester.pumpAndSettle();
+        await tester.pageBack();
         await tester.pumpAndSettle();
         await tester.tap(find.text('Genesis').first);
         await tester.pumpAndSettle();

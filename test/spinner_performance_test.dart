@@ -37,8 +37,8 @@ void main() {
   testWidgets(
     'idle wheel settles without tickers and scrolling does not repaint its face',
     (tester) async {
-      libraryPhone(tester, const Size(390, 640));
-      await tester.pumpWidget(fixture.app(spinner: true));
+      libraryPhone(tester, const Size(390, 500));
+      await tester.pumpWidget(fixture.app(spinner: true, scale: 1.6));
       await tester.pumpAndSettle(const Duration(milliseconds: 16));
       expect(tester.binding.transientCallbackCount, 0);
       expect(tester.binding.hasScheduledFrame, isFalse);

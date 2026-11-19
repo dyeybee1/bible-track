@@ -12,7 +12,6 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
-import '../../widgets/scripture_quote.dart';
 import '../books/chapter_screen.dart';
 
 /// Scope for the spinner wheel.
@@ -255,119 +254,198 @@ class _SpinnerScreenState extends State<SpinnerScreen>
           ),
         ],
       ),
-      body: SingleChildScrollView(
-        padding: const EdgeInsets.fromLTRB(24, 24, 24, 32),
-        child: Column(
-          children: [
-            Align(
-              alignment: Alignment.centerLeft,
-              child: Text(
-                strings.spinTitle,
-                style: theme.textTheme.headlineMedium,
-              ),
-            ),
-            const SizedBox(height: 6),
-            Align(
-              alignment: Alignment.centerLeft,
-              child: Text(strings.spinIntro, style: theme.textTheme.bodySmall),
-            ),
-            const SizedBox(height: 20),
-            // ---- Wheel or empty state (Tasks 2, 3) ----
-            if (_wheel.isEmpty)
-              Container(
-                width: double.infinity,
-                padding: const EdgeInsets.all(20),
-                decoration: BoxDecoration(
-                  color: scheme.surface,
-                  borderRadius: BorderRadius.circular(16),
-                  border: Border.all(color: doneColor(context)),
-                ),
-                child: Text(
-                  _scope == _SpinScope.all
-                      ? strings.allBooksFinished
-                      : strings.scopeAllBooksFinished,
-                  textAlign: TextAlign.center,
-                  style: theme.textTheme.titleMedium,
-                ),
-              )
-            else
-              // Pointer arrow sits above the wheel; both fit without clipping.
-              Column(
+      body: SafeArea(
+        top: false,
+        child: LayoutBuilder(
+          builder: (context, constraints) {
+            final width = max(1.0, constraints.maxWidth - 32);
+            double textHeight(String text, TextStyle? style, double maxWidth) {
+              final painter = TextPainter(
+                text: TextSpan(text: text, style: style),
+                textDirection: Directionality.of(context),
+                textScaler: MediaQuery.textScalerOf(context),
+              )..layout(maxWidth: maxWidth);
+              final height = painter.height;
+              painter.dispose();
+              return height;
+            }
+
+            final headingHeight = textHeight(
+              strings.spinHeading,
+              theme.textTheme.headlineMedium,
+              width,
+            );
+            final countHeight = textHeight(
+              strings.wheelCount(_wheel.length),
+              theme.textTheme.bodySmall,
+              width,
+            );
+            final switchHeight = max(
+              56.0,
+              textHeight(
+                    strings.includeFinished,
+                    theme.textTheme.bodyMedium,
+                    max(1, width - 120),
+                  ) +
+                  8,
+            );
+            final buttonHeight = max(
+              50.0,
+              textHeight(
+                    strings.spinButton,
+                    theme.textTheme.labelLarge,
+                    max(1, width - 48),
+                  ) +
+                  30,
+            );
+            // Reserve actual scaled text/control heights. Only small viewports or
+            // larger text need scrolling once the face reaches its minimum size.
+            final fixedHeight =
+                20 +
+                headingHeight +
+                6 +
+                24 +
+                4 +
+                countHeight +
+                6 +
+                switchHeight +
+                8 +
+                8 +
+                buttonHeight;
+            final wheelSize = (constraints.maxHeight - fixedHeight).clamp(
+              160.0,
+              min(340.0, width).clamp(160.0, 340.0),
+            );
+            return SingleChildScrollView(
+              padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 10),
+              child: Column(
                 children: [
-                  // Pointer arrow (Task 3 — visible above wheel).
-                  Icon(Icons.arrow_drop_down, size: 40, color: scheme.tertiary),
-                  ConstrainedBox(
-                    constraints: const BoxConstraints(maxWidth: 340),
-                    child: AspectRatio(
-                      aspectRatio: 1,
-                      child: Semantics(
-                        label: strings.wheelSemantics(names),
-                        child: RepaintBoundary(
-                          child: CustomPaint(
-                            foregroundPainter: _WheelFramePainter(
-                              hubColor: scheme.primaryContainer,
-                              lineColor: scheme.outlineVariant,
-                            ),
-                            child: AnimatedBuilder(
-                              animation: _ctrl,
+                  Align(
+                    alignment: Alignment.centerLeft,
+                    child: Text(
+                      strings.spinHeading,
+                      style: theme.textTheme.headlineMedium,
+                    ),
+                  ),
+                  const SizedBox(height: 6),
+                  // ---- Wheel or empty state (Tasks 2, 3) ----
+                  if (_wheel.isEmpty)
+                    Container(
+                      width: double.infinity,
+                      padding: const EdgeInsets.all(20),
+                      decoration: BoxDecoration(
+                        color: scheme.surface,
+                        borderRadius: BorderRadius.circular(16),
+                        border: Border.all(color: doneColor(context)),
+                      ),
+                      child: Text(
+                        _scope == _SpinScope.all
+                            ? strings.allBooksFinished
+                            : strings.scopeAllBooksFinished,
+                        textAlign: TextAlign.center,
+                        style: theme.textTheme.titleMedium,
+                      ),
+                    )
+                  else
+                    // Pointer arrow sits above the wheel; both fit without clipping.
+                    Column(
+                      children: [
+                        // Pointer arrow (Task 3 — visible above wheel).
+                        Icon(
+                          Icons.arrow_drop_down,
+                          size: 24,
+                          color: scheme.tertiary,
+                        ),
+                        SizedBox.square(
+                          dimension: wheelSize,
+                          child: SizedBox.expand(
+                            child: Semantics(
+                              label: strings.wheelSemantics(names),
                               child: RepaintBoundary(
                                 child: CustomPaint(
-                                  size: Size.infinite,
-                                  painter: _WheelPainter(
-                                    names: names,
-                                    colors: _sliceColors(context, names.length),
+                                  foregroundPainter: _WheelFramePainter(
+                                    hubColor: scheme.primaryContainer,
                                     lineColor: scheme.outlineVariant,
+                                  ),
+                                  child: AnimatedBuilder(
+                                    animation: _ctrl,
+                                    child: RepaintBoundary(
+                                      child: CustomPaint(
+                                        size: Size.infinite,
+                                        painter: _WheelPainter(
+                                          names: names,
+                                          colors: _sliceColors(
+                                            context,
+                                            names.length,
+                                          ),
+                                          lineColor: scheme.outlineVariant,
+                                        ),
+                                      ),
+                                    ),
+                                    builder: (context, child) =>
+                                        Transform.rotate(
+                                          angle: _angle,
+                                          child: child,
+                                        ),
                                   ),
                                 ),
                               ),
-                              builder: (context, child) =>
-                                  Transform.rotate(angle: _angle, child: child),
                             ),
                           ),
+                        ),
+                      ],
+                    ),
+                  const SizedBox(height: 4),
+                  if (_wheel.isNotEmpty)
+                    Text(
+                      strings.wheelCount(_wheel.length),
+                      style: theme.textTheme.bodySmall?.copyWith(
+                        color: scheme.onSurfaceVariant,
+                      ),
+                    ),
+                  const SizedBox(height: 6),
+                  SizedBox(
+                    height:
+                        switchHeight +
+                        8, // Includes the Card's vertical margin.
+                    child: Card(
+                      child: ListTileTheme(
+                        data: ListTileTheme.of(
+                          context,
+                        ).copyWith(minVerticalPadding: 4),
+                        child: SwitchListTile(
+                          dense: true,
+                          contentPadding: const EdgeInsets.symmetric(
+                            horizontal: 12,
+                          ),
+                          title: Text(
+                            strings.includeFinished,
+                            style: theme.textTheme.bodyMedium,
+                          ),
+                          value: _includeFinished,
+                          onChanged: _spinning
+                              ? null
+                              : (v) {
+                                  _includeFinished = v;
+                                  _refreshWheel();
+                                },
                         ),
                       ),
                     ),
                   ),
+                  const SizedBox(height: 8),
+                  SizedBox(
+                    width: double.infinity,
+                    height: buttonHeight,
+                    child: FilledButton(
+                      onPressed: (_spinning || _wheel.isEmpty) ? null : _spin,
+                      child: Text(strings.spinButton),
+                    ),
+                  ),
                 ],
               ),
-            const SizedBox(height: 8),
-            if (_wheel.isNotEmpty)
-              Text(
-                strings.wheelCount(_wheel.length),
-                style: theme.textTheme.bodySmall?.copyWith(
-                  color: scheme.onSurfaceVariant,
-                ),
-              ),
-            const SizedBox(height: 8),
-            Card(
-              child: SwitchListTile(
-                contentPadding: const EdgeInsets.symmetric(
-                  horizontal: 16,
-                  vertical: 6,
-                ),
-                title: Text(strings.includeFinished),
-                value: _includeFinished,
-                onChanged: _spinning
-                    ? null
-                    : (v) {
-                        _includeFinished = v;
-                        _refreshWheel();
-                      },
-              ),
-            ),
-            const ScriptureQuote(),
-            const SizedBox(height: 8),
-            SizedBox(
-              width: double.infinity,
-              child: FilledButton(
-                onPressed: (_spinning || _wheel.isEmpty) ? null : _spin,
-                child: Padding(
-                  padding: const EdgeInsets.symmetric(vertical: 6),
-                  child: Text(strings.spinButton),
-                ),
-              ),
-            ),
-          ],
+            );
+          },
         ),
       ),
     );

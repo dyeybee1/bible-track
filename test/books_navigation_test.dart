@@ -81,7 +81,7 @@ void main() {
     },
   );
 
-  testWidgets('three tabs preserve section and FAB opens a backable spinner', (
+  testWidgets('two tabs preserve section and FAB opens a backable spinner', (
     tester,
   ) async {
     libraryPhone(tester);
@@ -89,7 +89,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(
       tester.widget<NavigationBar>(find.byType(NavigationBar)).destinations,
-      hasLength(3),
+      hasLength(2),
     );
     expect(nav('Paikot'), findsNothing);
     expect(find.byType(SpinWheelIcon), findsOneWidget);
@@ -115,7 +115,7 @@ void main() {
     semantics.dispose();
     await tester.tap(find.text('Bagong Tipan'));
     await tester.pumpAndSettle();
-    for (final label in ['Ranggo', 'Setting']) {
+    for (final label in ['Ranggo']) {
       await tester.tap(nav(label));
       await tester.pumpAndSettle();
       expect(fab, findsNothing);
@@ -153,7 +153,7 @@ void main() {
       await tester.pumpWidget(fixture.app());
       await tester.pumpAndSettle();
       expect(hint, findsNothing);
-      await tester.tap(nav('Setting'));
+      await tester.tap(nav('Ranggo'));
       await tester.pumpAndSettle();
       await tester.tap(nav('Mga Libro'));
       await tester.pumpAndSettle();

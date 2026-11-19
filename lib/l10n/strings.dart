@@ -90,8 +90,8 @@ class Strings {
     'This chapter is not available in Tagalog yet.',
   );
   String get readerChangeLanguageHint => _t(
-    'Maaari mong palitan ang wika ng app sa Settings para mabasa ito sa English.',
-    'You can change the app language in Settings to read it in English.',
+    'Maaari mong palitan ang wika ng app sa Profile > Setting para mabasa ito sa English.',
+    'You can change the app language in Profile > Settings to read it in English.',
   );
   String get readerQuiz => _t('Sagutan ang Quiz', 'Take the quiz');
   String get readerAlreadyRead =>
@@ -116,8 +116,8 @@ class Strings {
     '“World English Bible” is a trademark of eBible.org. Source wording is preserved; notes and formatting are removed, and chapters and verses are arranged for the app.',
   );
   String get sourcesEnglishNote => _t(
-    'Wala pang Tagalog na teksto ang pitong deuterocanonical na aklat, Ester 10–16, at Daniel 3, 13 at 14. Palitan ang wika ng app sa Settings para mabasa ang mga ito sa English (WEB). May ilang teksto sa Ester na inihahanda pa; maaari pa ring sagutan ang quiz.',
-    'Tagalog text is unavailable for the seven deuterocanonical books, Esther 10–16, and Daniel 3, 13 and 14. Change the app language in Settings to read them in English (WEB). Some Esther text is still being prepared; its quiz remains available.',
+    'Wala pang Tagalog na teksto ang pitong deuterocanonical na aklat, Ester 10–16, at Daniel 3, 13 at 14. Palitan ang wika ng app sa Profile > Setting para mabasa ang mga ito sa English (WEB). May ilang teksto sa Ester na inihahanda pa; maaari pa ring sagutan ang quiz.',
+    'Tagalog text is unavailable for the seven deuterocanonical books, Esther 10–16, and Daniel 3, 13 and 14. Change the app language in Profile > Settings to read them in English (WEB). Some Esther text is still being prepared; its quiz remains available.',
   );
   String readerCredit(bool web) => web
       ? 'World English Bible (Catholic) - eBible.org'
@@ -144,11 +144,9 @@ class Strings {
   );
 
   // ---- spinner ----
-  String get spinTitle => _t('Ano ang babasahin?', 'What to read?');
-  String get spinIntro => _t(
-    'Hindi alam kung ano ang babasahin? Paikutin ang gulong.',
-    "Not sure what to read? Spin the wheel.",
-  );
+  String get spinTitle => _t('Paikot', 'Spin');
+  String get spinHeading =>
+      _t('Nag-iisip kung ano ang babasahin?', 'Wondering what to read?');
   String get allBooksFinished =>
       _t('Natapos mo na ang lahat ng libro!', "You've finished every book!");
   String get scopeAllBooksFinished => _t(
@@ -304,8 +302,8 @@ class Strings {
   String get usernamePromptTitle =>
       _t('Ano ang itatawag namin sa iyo?', 'What should we call you?');
   String get usernamePromptHint => _t(
-    'Pwede mo itong palitan sa Settings.',
-    'You can change this later in Settings.',
+    'Pwede mo itong palitan sa Profile > Setting.',
+    'You can change this later in Profile > Settings.',
   );
   String get continueButton => _t('Magpatuloy', 'Continue');
 
@@ -368,8 +366,8 @@ class Strings {
   );
   String get leaderboardRetry => _t('Subukan ulit', 'Try again');
   String get leaderboardOptInPrompt => _t(
-    'I-on ang "Ipakita sa Ranggo" sa Settings para makita ang iyong pangalan dito.',
-    'Turn on "Show on Leaderboard" in Settings to appear here.',
+    'I-on ang "Ipakita sa Ranggo" sa Profile > Setting para makita ang iyong pangalan dito.',
+    'Turn on "Show on Leaderboard" in Profile > Settings to appear here.',
   );
   String leaderboardRankLabel(int rank) => _t('Ranggo #$rank', 'Rank #$rank');
   String leaderboardYourRank(int rank) =>

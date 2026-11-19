@@ -12,13 +12,16 @@ AppBar appHeader(
   Widget? leading,
   bool themeToggle = false,
   bool root = false,
+  bool showProfileAction = true,
 }) {
   final theme = Theme.of(context);
   final profile = ProfileAccess.maybeOf(context);
   final hasLeading =
       leading != null || (!root && Navigator.of(context).canPop());
   final count =
-      actions.length + (themeToggle ? 1 : 0) + (profile != null ? 1 : 0);
+      actions.length +
+      (themeToggle ? 1 : 0) +
+      (showProfileAction && profile != null ? 1 : 0);
   final width = math.max(
     72.0,
     MediaQuery.sizeOf(context).width - 32 - (hasLeading ? 48 : 0) - count * 48,
@@ -78,7 +81,7 @@ AppBar appHeader(
     actions: [
       if (themeToggle) const _ThemeToggle(),
       ...actions,
-      if (profile != null)
+      if (showProfileAction && profile != null)
         IconButton(
           key: const ValueKey('header-profile-action'),
           tooltip: context.s.navProfile,

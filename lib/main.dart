@@ -17,6 +17,7 @@ import 'platform/pwa_language_stub.dart'
 import 'theme/app_theme.dart';
 import 'widgets/profile_access.dart';
 import 'features/profile/profile_screen.dart';
+import 'features/settings/settings_screen.dart';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
@@ -77,6 +78,7 @@ class BibleTrackApp extends StatelessWidget {
             debugShowCheckedModeBanner: false,
             builder: (context, child) => ProfileAccess(
               profileBuilder: (_) => ProfileScreen(progress: progress),
+              settingsBuilder: (_) => SettingsScreen(account: account),
               child: child!,
             ),
             theme: lightTheme,

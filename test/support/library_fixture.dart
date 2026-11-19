@@ -3,6 +3,9 @@ import 'package:bible_track/data/progress_controller.dart';
 import 'package:bible_track/data/quiz_repository.dart';
 import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/features/home/home_shell.dart';
+import 'package:bible_track/features/profile/profile_screen.dart';
+import 'package:bible_track/features/settings/settings_screen.dart';
+import 'package:bible_track/widgets/profile_access.dart';
 import 'package:bible_track/features/spinner/spinner_screen.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
@@ -52,7 +55,11 @@ class LibraryFixture {
           disableAnimations: reduceMotion,
           padding: padding,
         ),
-        child: child!,
+        child: ProfileAccess(
+          profileBuilder: (_) => ProfileScreen(progress: progress),
+          settingsBuilder: (_) => SettingsScreen(account: account),
+          child: child!,
+        ),
       ),
       home: spinner
           ? SpinnerScreen(

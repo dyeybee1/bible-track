@@ -11,10 +11,9 @@ import '../../settings_scope.dart';
 import '../../widgets/spin_wheel_icon.dart';
 import '../books/books_screen.dart';
 import '../leaderboard/leaderboard_screen.dart';
-import '../settings/settings_screen.dart';
 import '../spinner/spinner_screen.dart';
 
-/// Main tabs: 0 Books, 1 Leaderboard, 2 Settings.
+/// Main tabs: 0 Books, 1 Leaderboard.
 /// Profile and the spinner open as pushed routes.
 class HomeShell extends StatefulWidget {
   const HomeShell({
@@ -102,7 +101,6 @@ class _HomeShellState extends State<HomeShell> {
               account: widget.account,
               cloud: widget.cloud,
             ),
-            SettingsScreen(account: widget.account),
           ],
         ),
         floatingActionButton: _index == 0
@@ -187,11 +185,6 @@ class _HomeShellState extends State<HomeShell> {
                 icon: const Icon(Icons.emoji_events_outlined),
                 selectedIcon: const Icon(Icons.emoji_events),
                 label: strings.navLeaderboard,
-              ),
-              NavigationDestination(
-                icon: const Icon(Icons.settings_outlined),
-                selectedIcon: const Icon(Icons.settings),
-                label: strings.navSettings,
               ),
             ],
           ),

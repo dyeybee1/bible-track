@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import '../../data/progress_controller.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/profile_access.dart';
 import 'profile_sections.dart';
 
 class ProfileScreen extends StatelessWidget {
@@ -44,10 +45,38 @@ class ProfileScreen extends StatelessWidget {
     final scheme = theme.colorScheme;
     final strings = context.s;
     final settings = SettingsScope.of(context);
+    final settingsBuilder = ProfileAccess.maybeOf(context)?.settingsBuilder;
     final username = settings.username ?? strings.defaultUsername;
 
     return Scaffold(
-      appBar: appHeader(context, title: strings.navProfile),
+      appBar: appHeader(
+        context,
+        title: strings.navProfile,
+        showProfileAction: false,
+        actions: [
+          if (settingsBuilder != null)
+            IconButton(
+              key: const ValueKey('header-settings-action'),
+              tooltip: strings.navSettings,
+              constraints: const BoxConstraints(minWidth: 48, minHeight: 48),
+              onPressed: () => Navigator.of(
+                context,
+              ).push<void>(MaterialPageRoute(builder: settingsBuilder)),
+              icon: CircleAvatar(
+                radius: 15,
+                backgroundColor: scheme.onSurface,
+                child: Semantics(
+                  label: strings.navSettings,
+                  child: Icon(
+                    Icons.settings_outlined,
+                    size: 18,
+                    color: scheme.surface,
+                  ),
+                ),
+              ),
+            ),
+        ],
+      ),
       body: ListenableBuilder(
         listenable: progress,
         builder: (context, _) {
