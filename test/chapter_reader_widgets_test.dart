@@ -95,6 +95,36 @@ class _TwoQuestionQuiz extends _Quiz {
   ];
 }
 
+class _FourQuestionQuiz extends _Quiz {
+  final questions = List.generate(
+    4,
+    (i) => QuizQuestion(
+      questionEn: 'Question ${i + 1}: Who listened to the words of the Lord?',
+      questionFil:
+          'Tanong ${i + 1}: Sino ang nakinig sa mga salita ng Panginoon?',
+      optionsEn: [
+        '${i + 1}: The people',
+        '${i + 1}: The king',
+        '${i + 1}: The prophet',
+      ],
+      optionsFil: [
+        '${i + 1}: Ang mga tao',
+        '${i + 1}: Ang hari',
+        '${i + 1}: Ang propeta',
+      ],
+      answer: [0, 1, 2, 0][i],
+      explanationEn:
+          'Explanation ${i + 1}: They listened to the words of the Lord.',
+      explanationFil:
+          'Paliwanag ${i + 1}: Nakinig sila sa mga salita ng Panginoon.',
+    ),
+  );
+
+  @override
+  Future<List<QuizQuestion>> questionsFor(String bookId, int chapter) async =>
+      questions;
+}
+
 class _Text extends BibleTextRepository {
   final requests = <(String, int, BibleTranslation)>[];
   Future<List<Verse>> Function(String, int, BibleTranslation)? respond;
@@ -878,6 +908,272 @@ void main() {
     expect(find.text('Open Genesis'), findsOneWidget);
   });
 
+  Future<void> answerFour(WidgetTester tester, _FourQuestionQuiz repo) async {
+    final scrollable = find.descendant(
+      of: find.byKey(const ValueKey('quiz-questions')),
+      matching: find.byType(Scrollable),
+    );
+    for (var i = 0; i < 4; i++) {
+      final answer = find.text(
+        repo.questions[i].options(settings.language)[[0, 0, 2, 1][i]],
+      );
+      await tester.scrollUntilVisible(answer, 200, scrollable: scrollable);
+      await tester.ensureVisible(answer);
+      await tester.pumpAndSettle();
+      await tester.tap(answer);
+      await tester.pumpAndSettle();
+    }
+    await tester.tap(find.byKey(const ValueKey('quiz-submit-action')));
+    await tester.pumpAndSettle();
+  }
+
+  for (final lang in ['fil', 'en']) {
+    testWidgets(
+      '$lang four-question review preserves order, feedback and fresh retry',
+      (tester) async {
+        settings.setLanguage(lang);
+        final repo = _FourQuestionQuiz();
+        quiz = repo;
+        final semantics = tester.ensureSemantics();
+        await tester.pumpWidget(app(quizHost()));
+        await tester.tap(find.text('Open quiz'));
+        await tester.pumpAndSettle();
+        await answerFour(tester, repo);
+
+        final review = find.byKey(const ValueKey('quiz-review'));
+        final scrollable = find.descendant(
+          of: review,
+          matching: find.byType(Scrollable),
+        );
+        final retry = find.byKey(const ValueKey('quiz-retry-action'));
+        final read = find.byKey(const ValueKey('quiz-read-chapter-action'));
+        final retryPosition = tester.getRect(retry);
+        final readPosition = tester.getRect(read);
+        expect(tester.state<ScrollableState>(scrollable).position.pixels, 0);
+        expect(
+          find.text(settings.strings.quizReviewTitle).hitTestable(),
+          findsOneWidget,
+        );
+        final offsets = <double>[];
+        for (var i = 0; i < 4; i++) {
+          final question = repo.questions[i];
+          final card = find.byKey(ValueKey('quiz-review-card-$i'));
+          await tester.scrollUntilVisible(card, 180, scrollable: scrollable);
+          await tester.pumpAndSettle();
+          offsets.add(
+            tester.state<ScrollableState>(scrollable).position.pixels +
+                tester.getTopLeft(card).dy,
+          );
+          expect(
+            find.descendant(of: card, matching: find.text('${i + 1} / 4')),
+            findsOneWidget,
+          );
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.text(question.question(lang)),
+            ),
+            findsOneWidget,
+          );
+          final options = question.options(lang);
+          expect(
+            tester
+                .widgetList<Text>(
+                  find.descendant(of: card, matching: find.byType(Text)),
+                )
+                .map((w) => w.data)
+                .where(options.contains),
+            options,
+          );
+          final wrong = i == 1 || i == 3;
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.text(
+                wrong
+                    ? settings.strings.quizIncorrect
+                    : settings.strings.quizCorrect,
+              ),
+            ),
+            findsOneWidget,
+          );
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.text(settings.strings.quizCorrectAnswer),
+            ),
+            wrong ? findsOneWidget : findsNothing,
+          );
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.text(question.explanation(lang)),
+            ),
+            wrong ? findsOneWidget : findsNothing,
+          );
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.byIcon(Icons.check_rounded),
+            ),
+            findsOneWidget,
+          );
+          expect(
+            find.descendant(
+              of: card,
+              matching: find.byIcon(Icons.close_rounded),
+            ),
+            wrong ? findsOneWidget : findsNothing,
+          );
+          expect(
+            find.descendant(of: card, matching: find.byType(GestureDetector)),
+            findsNothing,
+          );
+          expect(
+            find.descendant(of: card, matching: find.byType(AnimatedContainer)),
+            findsNothing,
+          );
+
+          final selectedOption = options[[0, 0, 2, 1][i]];
+          await tester.scrollUntilVisible(
+            find.text(selectedOption),
+            100,
+            scrollable: scrollable,
+          );
+          final selectedSemantics = find.bySemanticsLabel(
+            '$selectedOption, ${wrong ? settings.strings.quizYourAnswerWrong : settings.strings.quizYourAnswerCorrect}',
+          );
+          await tester.pumpAndSettle();
+          expect(selectedSemantics, findsOneWidget);
+          expect(
+            tester.getSemantics(selectedSemantics),
+            matchesSemantics(
+              label:
+                  '$selectedOption, ${wrong ? settings.strings.quizYourAnswerWrong : settings.strings.quizYourAnswerCorrect}',
+              textDirection: TextDirection.ltr,
+            ),
+          );
+          await tester.tap(find.text(selectedOption));
+          await tester.pump();
+          expect(
+            tester.widget<QuizReviewCard>(card).selectedOption,
+            [0, 0, 2, 1][i],
+          );
+          if (wrong) {
+            final correctOption = options[question.answer];
+            await tester.scrollUntilVisible(
+              find.text(correctOption),
+              100,
+              scrollable: scrollable,
+            );
+            expect(
+              find.bySemanticsLabel(
+                '$correctOption, ${settings.strings.quizCorrectAnswer}',
+              ),
+              findsOneWidget,
+            );
+          }
+          expect(tester.getRect(retry), retryPosition);
+          expect(tester.getRect(read), readPosition);
+          expect(retry.hitTestable(), findsOneWidget);
+          expect(read.hitTestable(), findsOneWidget);
+        }
+        expect(offsets, orderedEquals([...offsets]..sort()));
+        expect(
+          tester.state<ScrollableState>(scrollable).position.pixels,
+          greaterThan(0),
+        );
+        expect(
+          tester.getBottomLeft(review).dy,
+          lessThanOrEqualTo(retryPosition.top),
+        );
+        expect(progress.chaptersRead('gen'), isEmpty);
+        expect(progress.chaptersReadLifetime, 0);
+
+        await tester.tap(retry);
+        await tester.pumpAndSettle();
+        expect(find.byType(QuizReviewCard), findsNothing);
+        expect(
+          tester
+              .widget<FilledButton>(
+                find.byKey(const ValueKey('quiz-submit-action')),
+              )
+              .onPressed,
+          isNull,
+        );
+        final answeringScrollable = find.descendant(
+          of: find.byKey(const ValueKey('quiz-questions')),
+          matching: find.byType(Scrollable),
+        );
+        expect(
+          tester.state<ScrollableState>(answeringScrollable).position.pixels,
+          0,
+        );
+        for (final question in repo.questions) {
+          await tester.scrollUntilVisible(
+            find.text(question.question(lang)),
+            180,
+            scrollable: answeringScrollable,
+          );
+          expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+          expect(find.text(question.question(lang)), findsOneWidget);
+        }
+        semantics.dispose();
+      },
+    );
+
+    for (final dark in [false, true]) {
+      testWidgets('$lang review at 320 px and 1.6 text scale, dark=$dark', (
+        tester,
+      ) async {
+        tester.view.physicalSize = const Size(320, 740);
+        tester.view.devicePixelRatio = 1;
+        addTearDown(tester.view.resetPhysicalSize);
+        addTearDown(tester.view.resetDevicePixelRatio);
+        settings.setLanguage(lang);
+        final repo = _FourQuestionQuiz();
+        quiz = repo;
+        await tester.pumpWidget(app(quizHost(), dark: dark, scale: 1.6));
+        await tester.tap(find.text('Open quiz'));
+        await tester.pumpAndSettle();
+        await answerFour(tester, repo);
+        final review = find.byKey(const ValueKey('quiz-review'));
+        final scrollable = find.descendant(
+          of: review,
+          matching: find.byType(Scrollable),
+        );
+        final retry = find.byKey(const ValueKey('quiz-retry-action'));
+        final read = find.byKey(const ValueKey('quiz-read-chapter-action'));
+        final retryPosition = tester.getRect(retry);
+        final readPosition = tester.getRect(read);
+        expect(
+          find.text(settings.strings.quizReviewTitle).hitTestable(),
+          findsOneWidget,
+        );
+        for (final i in [1, 3]) {
+          final explanation = find.text(repo.questions[i].explanation(lang));
+          await tester.scrollUntilVisible(
+            explanation,
+            180,
+            scrollable: scrollable,
+          );
+          await tester.ensureVisible(explanation);
+          await tester.pumpAndSettle();
+          expect(explanation.hitTestable(), findsOneWidget);
+          expect(tester.getRect(retry), retryPosition);
+          expect(tester.getRect(read), readPosition);
+          expect(retry.hitTestable(), findsOneWidget);
+          expect(read.hitTestable(), findsOneWidget);
+          expect(tester.takeException(), isNull);
+        }
+        await tester.tap(retry);
+        await tester.pumpAndSettle();
+        expect(find.byIcon(Icons.radio_button_checked), findsNothing);
+        expect(tester.takeException(), isNull);
+      });
+    }
+  }
+
   Future<void> failQuiz(WidgetTester tester) async {
     final strings = settings.strings;
     await tester.ensureVisible(
@@ -888,7 +1184,7 @@ void main() {
     await tester.pump();
     await tester.tap(find.text(strings.quizCheckAnswers));
     await tester.pumpAndSettle();
-    expect(find.text(strings.quizWrong), findsOneWidget);
+    expect(find.text(strings.quizReviewTitle), findsOneWidget);
   }
 
   for (final lang in ['en', 'fil']) {
@@ -924,7 +1220,7 @@ void main() {
       semantics.dispose();
       await tester.tap(retry);
       await tester.pumpAndSettle();
-      expect(find.text(settings.strings.quizWrong), findsNothing);
+      expect(find.text(settings.strings.quizReviewTitle), findsNothing);
       expect(
         tester
             .widget<FilledButton>(

@@ -423,10 +423,13 @@ class Strings {
       _t('$current / $total', '$current / $total');
   String get quizChooseAnswer => _t('Pumili ng sagot', 'Choose an answer');
   String get quizCheckAnswers => _t('Suriin ang mga sagot', 'Check answers');
-  String get quizWrong => _t(
-    'Konti na lang! Basahin ulit ang chapter at subukan ulit.',
-    'Almost there! Re-read the chapter and try again.',
-  );
+  String get quizReviewTitle => _t('Konti na lang!', 'Almost there!');
+  String get quizCorrect => _t('Tama', 'Correct');
+  String get quizIncorrect => _t('Mali', 'Wrong');
+  String get quizCorrectAnswer => _t('Tamang sagot', 'Correct answer');
+  String get quizYourAnswerCorrect =>
+      _t('Sagot mo, tama', 'Your answer, correct');
+  String get quizYourAnswerWrong => _t('Sagot mo, mali', 'Your answer, wrong');
   String get quizRetry => _t('Subukan ulit', 'Try again');
   String get quizReadChapter => _t('Basahin ang kabanata', 'Read the chapter');
   String get quizReadFirst => _t('Basahin muna', 'Read first');

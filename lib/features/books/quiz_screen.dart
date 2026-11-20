@@ -269,6 +269,39 @@ class _QuizPageState extends State<_QuizPage> {
                   ),
                 ),
               )
+            : _phase == _QuizPhase.wrong
+            ? SafeArea(
+                top: false,
+                child: Padding(
+                  padding: const EdgeInsets.fromLTRB(16, 8, 16, 16),
+                  child: Column(
+                    mainAxisSize: MainAxisSize.min,
+                    crossAxisAlignment: CrossAxisAlignment.stretch,
+                    children: [
+                      FilledButton(
+                        key: const ValueKey('quiz-retry-action'),
+                        onPressed: _retry,
+                        child: Text(
+                          strings.quizRetry,
+                          textAlign: TextAlign.center,
+                        ),
+                      ),
+                      if (canRead) ...[
+                        const SizedBox(height: 14),
+                        OutlinedButton.icon(
+                          key: const ValueKey('quiz-read-chapter-action'),
+                          onPressed: _readChapter,
+                          icon: const Icon(Icons.menu_book_outlined),
+                          label: Text(
+                            strings.quizReadChapter,
+                            textAlign: TextAlign.center,
+                          ),
+                        ),
+                      ],
+                    ],
+                  ),
+                ),
+              )
             : null,
         floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
         floatingActionButton: showReadFirst && !readFirstInline
@@ -309,12 +342,10 @@ class _QuizPageState extends State<_QuizPage> {
             theme: theme,
             scheme: scheme,
           ),
-          _QuizPhase.wrong => _WrongBody(
-            strings: strings,
-            theme: theme,
-            scheme: scheme,
-            onRetry: _retry,
-            onReadChapter: canRead ? _readChapter : null,
+          _QuizPhase.wrong => _ReviewBody(
+            questions: widget.questions,
+            selected: _selected,
+            lang: widget.lang,
           ),
           _QuizPhase.passed => _PassedBody(
             questions: widget.questions,
@@ -402,6 +433,7 @@ class _QuestionCard extends StatelessWidget {
     required this.strings,
     required this.theme,
     required this.scheme,
+    this.review = false,
   });
 
   final int index;
@@ -409,14 +441,16 @@ class _QuestionCard extends StatelessWidget {
   final QuizQuestion question;
   final int? selectedOption;
   final String lang;
-  final void Function(int) onSelect;
+  final void Function(int)? onSelect;
   final dynamic strings;
   final ThemeData theme;
   final ColorScheme scheme;
+  final bool review;
 
   @override
   Widget build(BuildContext context) {
     final opts = question.options(lang);
+    final correct = selectedOption == question.answer;
 
     return Card(
       margin: const EdgeInsets.only(bottom: 16),
@@ -455,10 +489,36 @@ class _QuestionCard extends StatelessWidget {
               _OptionTile(
                 label: opts[oi],
                 selected: selectedOption == oi,
-                onTap: () => onSelect(oi),
+                onTap: onSelect == null ? null : () => onSelect!(oi),
                 scheme: scheme,
                 theme: theme,
+                feedback: !review
+                    ? null
+                    : selectedOption == oi
+                    ? (correct
+                          ? context.s.quizCorrect
+                          : context.s.quizIncorrect)
+                    : !correct && oi == question.answer
+                    ? context.s.quizCorrectAnswer
+                    : null,
+                wrong: review && selectedOption == oi && !correct,
+                semanticFeedback: !review
+                    ? null
+                    : selectedOption == oi
+                    ? (correct
+                          ? context.s.quizYourAnswerCorrect
+                          : context.s.quizYourAnswerWrong)
+                    : !correct && oi == question.answer
+                    ? context.s.quizCorrectAnswer
+                    : null,
               ),
+            if (review && !correct) ...[
+              const SizedBox(height: 4),
+              Text(
+                question.explanation(lang),
+                style: theme.textTheme.bodyMedium,
+              ),
+            ],
           ],
         ),
       ),
@@ -473,16 +533,90 @@ class _OptionTile extends StatelessWidget {
     required this.onTap,
     required this.scheme,
     required this.theme,
+    this.feedback,
+    this.semanticFeedback,
+    this.wrong = false,
   });
 
   final String label;
   final bool selected;
-  final VoidCallback onTap;
+  final VoidCallback? onTap;
   final ColorScheme scheme;
   final ThemeData theme;
+  final String? feedback;
+  final String? semanticFeedback;
+  final bool wrong;
 
   @override
   Widget build(BuildContext context) {
+    final reviewing = onTap == null;
+    final highlighted = reviewing ? feedback != null : selected;
+    final foreground = highlighted
+        ? (wrong ? scheme.onErrorContainer : scheme.onPrimaryContainer)
+        : scheme.onSurface;
+    final decoration = BoxDecoration(
+      color: highlighted
+          ? (wrong ? scheme.errorContainer : scheme.primaryContainer)
+          : scheme.surfaceContainer,
+      borderRadius: BorderRadius.circular(12),
+      border: Border.all(
+        color: highlighted
+            ? (wrong ? scheme.error : scheme.primary).withValues(alpha: .25)
+            : Colors.transparent,
+        width: 1,
+      ),
+    );
+    final content = Row(
+      children: [
+        Icon(
+          feedback != null
+              ? (wrong ? Icons.close_rounded : Icons.check_rounded)
+              : selected && !reviewing
+              ? Icons.radio_button_checked
+              : Icons.radio_button_unchecked,
+          size: 18,
+          color: highlighted ? foreground : scheme.outline,
+        ),
+        const SizedBox(width: 10),
+        Expanded(
+          child: Column(
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: [
+              Text(
+                label,
+                style: theme.textTheme.bodyMedium?.copyWith(
+                  color: foreground,
+                  fontWeight: highlighted ? FontWeight.w600 : FontWeight.normal,
+                ),
+              ),
+              if (feedback != null)
+                Text(
+                  feedback!,
+                  style: theme.textTheme.labelMedium?.copyWith(
+                    color: foreground,
+                    fontWeight: FontWeight.w700,
+                  ),
+                ),
+            ],
+          ),
+        ),
+      ],
+    );
+    if (reviewing) {
+      return Semantics(
+        container: true,
+        label: [label, ?semanticFeedback].join(', '),
+        child: ExcludeSemantics(
+          child: Container(
+            constraints: const BoxConstraints(minHeight: 48),
+            margin: const EdgeInsets.only(bottom: 8),
+            padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
+            decoration: decoration,
+            child: content,
+          ),
+        ),
+      );
+    }
     return GestureDetector(
       onTap: onTap,
       child: AnimatedContainer(
@@ -490,39 +624,8 @@ class _OptionTile extends StatelessWidget {
         constraints: const BoxConstraints(minHeight: 48),
         margin: const EdgeInsets.only(bottom: 8),
         padding: const EdgeInsets.symmetric(horizontal: 14, vertical: 10),
-        decoration: BoxDecoration(
-          color: selected ? scheme.primaryContainer : scheme.surfaceContainer,
-          borderRadius: BorderRadius.circular(12),
-          border: Border.all(
-            color: selected
-                ? scheme.primary.withValues(alpha: .25)
-                : Colors.transparent,
-            width: 1,
-          ),
-        ),
-        child: Row(
-          children: [
-            Icon(
-              selected
-                  ? Icons.radio_button_checked
-                  : Icons.radio_button_unchecked,
-              size: 18,
-              color: selected ? scheme.primary : scheme.outline,
-            ),
-            const SizedBox(width: 10),
-            Expanded(
-              child: Text(
-                label,
-                style: theme.textTheme.bodyMedium?.copyWith(
-                  color: selected
-                      ? scheme.onPrimaryContainer
-                      : scheme.onSurface,
-                  fontWeight: selected ? FontWeight.w600 : FontWeight.normal,
-                ),
-              ),
-            ),
-          ],
-        ),
+        decoration: decoration,
+        child: content,
       ),
     );
   }
@@ -532,97 +635,73 @@ class _OptionTile extends StatelessWidget {
 // Phase 2 – Wrong answers
 // ─────────────────────────────────────────────────────────────────────────────
 
-class _WrongBody extends StatelessWidget {
-  const _WrongBody({
-    required this.strings,
-    required this.theme,
-    required this.scheme,
-    required this.onRetry,
-    required this.onReadChapter,
+/// Read-only feedback using the same question and option layout as the quiz.
+class QuizReviewCard extends StatelessWidget {
+  const QuizReviewCard({
+    super.key,
+    required this.index,
+    required this.total,
+    required this.question,
+    required this.selectedOption,
+    required this.lang,
   });
 
-  final dynamic strings;
-  final ThemeData theme;
-  final ColorScheme scheme;
-  final VoidCallback onRetry;
-  final VoidCallback? onReadChapter;
+  final int index;
+  final int total;
+  final QuizQuestion question;
+  final int selectedOption;
+  final String lang;
 
   @override
-  Widget build(BuildContext context) {
-    return SafeArea(
-      child: Center(
-        child: SingleChildScrollView(
-          padding: const EdgeInsets.all(24),
-          child: ConstrainedBox(
-            constraints: const BoxConstraints(maxWidth: 400),
-            child: Column(
-              mainAxisSize: MainAxisSize.min,
-              crossAxisAlignment: CrossAxisAlignment.stretch,
-              children: [
-                Container(
-                  padding: const EdgeInsets.all(28),
-                  decoration: BoxDecoration(
-                    color: scheme.surface,
-                    borderRadius: BorderRadius.circular(20),
-                    gradient: LinearGradient(
-                      begin: Alignment.topRight,
-                      end: Alignment.bottomLeft,
-                      colors: [scheme.primaryContainer, scheme.surface],
-                    ),
-                  ),
-                  child: Column(
-                    children: [
-                      Container(
-                        padding: const EdgeInsets.all(18),
-                        decoration: BoxDecoration(
-                          color: scheme.primaryContainer,
-                          shape: BoxShape.circle,
-                          border: Border.all(
-                            color: scheme.primary.withValues(alpha: .2),
-                            width: 5,
-                          ),
-                        ),
-                        child: Icon(
-                          Icons.refresh_rounded,
-                          size: 40,
-                          color: scheme.primary,
-                        ),
-                      ),
-                      const SizedBox(height: 24),
-                      Text(
-                        strings.quizWrong as String,
-                        textAlign: TextAlign.center,
-                        style: theme.textTheme.titleLarge,
-                      ),
-                    ],
-                  ),
-                ),
-                const SizedBox(height: 24),
-                FilledButton.icon(
-                  key: const ValueKey('quiz-retry-action'),
-                  onPressed: onRetry,
-                  icon: const Icon(Icons.replay),
-                  label: Text(strings.quizRetry as String),
-                ),
-                if (onReadChapter != null) ...[
-                  const SizedBox(height: 14),
-                  OutlinedButton.icon(
-                    key: const ValueKey('quiz-read-chapter-action'),
-                    onPressed: onReadChapter,
-                    icon: const Icon(Icons.menu_book_outlined),
-                    label: Text(
-                      strings.quizReadChapter as String,
-                      textAlign: TextAlign.center,
-                    ),
-                  ),
-                ],
-              ],
+  Widget build(BuildContext context) => _QuestionCard(
+    index: index,
+    total: total,
+    question: question,
+    selectedOption: selectedOption,
+    lang: lang,
+    onSelect: null,
+    strings: context.s,
+    theme: Theme.of(context),
+    scheme: Theme.of(context).colorScheme,
+    review: true,
+  );
+}
+
+class _ReviewBody extends StatelessWidget {
+  const _ReviewBody({
+    required this.questions,
+    required this.selected,
+    required this.lang,
+  });
+
+  final List<QuizQuestion> questions;
+  final List<int?> selected;
+  final String lang;
+
+  @override
+  Widget build(BuildContext context) => ListView.builder(
+    key: const ValueKey('quiz-review'),
+    // Each review starts at the top, independently of the answering list.
+    primary: false,
+    padding: const EdgeInsets.fromLTRB(16, 14, 16, 8),
+    itemCount: questions.length + 1,
+    itemBuilder: (context, i) => i == 0
+        ? Padding(
+            padding: const EdgeInsets.only(bottom: 12),
+            child: Text(
+              context.s.quizReviewTitle,
+              style: Theme.of(context).textTheme.titleLarge,
             ),
+          )
+        : QuizReviewCard(
+            key: ValueKey('quiz-review-card-${i - 1}'),
+            index: i - 1,
+            total: questions.length,
+            question: questions[i - 1],
+            selectedOption: selected[i - 1]!,
+            lang: lang,
           ),
-        ),
-      ),
-    );
-  }
+  );
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
