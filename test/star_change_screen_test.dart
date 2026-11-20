@@ -41,7 +41,7 @@ void main() {
     settings = SettingsController(
       await Hive.openBox<dynamic>('settings', bytes: Uint8List(0)),
     );
-    // Use Filipino so rankName() returns Filipino tier names (Binhi, Usbong …)
+    // Surrounding messages remain localized while rank names stay English.
     settings.setLanguage('fil');
   });
 
@@ -114,8 +114,14 @@ void main() {
     (5, 4),
     (12, 13),
     (13, 12),
-    (24, 25),
-    (25, 24),
+    (28, 29),
+    (29, 28),
+    (48, 49),
+    (49, 48),
+    (72, 73),
+    (73, 72),
+    (100, 101),
+    (101, 100),
     (96, 97),
     (97, 96),
     (116, 117),
@@ -253,7 +259,7 @@ void main() {
     );
     expect(rowIcons(Icons.star_rounded), findsOneWidget);
     expect(rowIcons(Icons.star_outline_rounded), findsNWidgets(3));
-    expect(find.text('Umakyat ka sa Apostol V!'), findsOneWidget);
+    expect(find.text('Umakyat ka sa Mystic I!'), findsOneWidget);
     expect(find.byKey(const ValueKey('flying-star')), findsNothing);
     expect(find.byKey(const ValueKey('tier-promotion-burst')), findsNothing);
     final hint = find.ancestor(

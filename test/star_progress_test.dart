@@ -28,6 +28,43 @@ void main() {
     await Hive.close();
   });
 
+  for (final dark in [false, true]) {
+    testWidgets('shield badges at 24, 40 and 96 pixels, dark=$dark', (
+      tester,
+    ) async {
+      final semantics = tester.ensureSemantics();
+      for (final tier in rankLadder) {
+        for (final size in [24.0, 40.0, 96.0]) {
+          await tester.pumpWidget(
+            SettingsScope(
+              controller: settings,
+              child: MaterialApp(
+                theme: dark ? darkTheme : lightTheme,
+                home: Scaffold(
+                  body: Center(
+                    child: RankBadge(tier: tier, size: size),
+                  ),
+                ),
+              ),
+            ),
+          );
+          expect(tester.getSize(find.byType(RankBadge)), Size.square(size));
+          expect(find.bySemanticsLabel(tier.name), findsOneWidget);
+          expect(
+            tester.getSemantics(find.byType(RankBadge)),
+            matchesSemantics(
+              label: tier.name,
+              isImage: true,
+              textDirection: TextDirection.ltr,
+            ),
+          );
+          expect(tester.takeException(), isNull);
+        }
+      }
+      semantics.dispose();
+    });
+  }
+
   for (final language in ['en', 'fil']) {
     for (final dark in [false, true]) {
       testWidgets('$language dark=$dark: every finite tier uses four stars', (
@@ -73,11 +110,7 @@ void main() {
           );
           expect(find.byType(RankBadge), findsOneWidget);
           if (stars == 97) {
-            expect(
-              find.text(language == 'fil' ? 'Apostol V' : 'Apostle V'),
-              findsOneWidget,
-            );
-            expect(find.byIcon(Icons.explore_outlined), findsOneWidget);
+            expect(find.text('Mystic I'), findsOneWidget);
           }
           expect(tester.takeException(), isNull);
         }

@@ -71,6 +71,40 @@ void main() {
     progress.dispose();
   });
 
+  test('unmark and mark restore rank at every global division boundary', () {
+    final progress = ProgressController(box);
+    var total = 0;
+    for (final book in allBooks) {
+      for (var chapter = 1; chapter <= book.totalChapters; chapter++) {
+        progress.markChapterRead(book, chapter);
+        total++;
+        if (total > 1 && (total - 1) % kStarsPerDivision == 0) {
+          final promoted = rankForStars(total);
+          final lower = rankForStars(total - 1);
+          progress.toggleChapter(book, chapter);
+          expect(rankForStars(progress.chaptersReadLifetime).tier, lower.tier);
+          expect(
+            rankForStars(progress.chaptersReadLifetime).division,
+            lower.division,
+          );
+          expect(progress.maxStarsEver, total);
+          progress.markChapterRead(book, chapter);
+          expect(
+            rankForStars(progress.chaptersReadLifetime).tier,
+            promoted.tier,
+          );
+          expect(
+            rankForStars(progress.chaptersReadLifetime).division,
+            promoted.division,
+          );
+        }
+        if (total == 137) break;
+      }
+      if (total == 137) break;
+    }
+    progress.dispose();
+  });
+
   test('markAll and startNewCycle preserve peak and lifetime star count', () {
     final progress = ProgressController(box);
     for (final book in allBooks) {

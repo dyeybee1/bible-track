@@ -4,35 +4,29 @@ import 'package:flutter_test/flutter_test.dart';
 
 void main() {
   const cases = [
-    (0, 'Binhi', RankDivision.iii, 0),
-    (1, 'Binhi', RankDivision.iii, 1),
-    (4, 'Binhi', RankDivision.iii, 4),
-    (5, 'Binhi', RankDivision.ii, 1),
-    (8, 'Binhi', RankDivision.ii, 4),
-    (9, 'Binhi', RankDivision.i, 1),
-    (12, 'Binhi', RankDivision.i, 4),
-    (13, 'Usbong', RankDivision.iii, 1),
-    (24, 'Usbong', RankDivision.i, 4),
-    (25, 'Halaman', RankDivision.iv, 1),
-    (40, 'Halaman', RankDivision.i, 4),
-    (41, 'Puno', RankDivision.iv, 1),
-    (56, 'Puno', RankDivision.i, 4),
-    (57, 'Ubasan', RankDivision.v, 1),
-    (76, 'Ubasan', RankDivision.i, 4),
-    (77, 'Alagad', RankDivision.v, 1),
-    (96, 'Alagad', RankDivision.i, 4),
-    (97, 'Apostol', RankDivision.v, 1),
-    (116, 'Apostol', RankDivision.i, 4),
-    (117, 'Propeta', RankDivision.v, 1),
-    (136, 'Propeta', RankDivision.i, 4),
-    (137, 'Salita ng Buhay', null, 1),
-    (1334, 'Salita ng Buhay', null, 1198),
-    (1000000000000, 'Salita ng Buhay', null, 999999999864),
+    (0, 'Seeker', RankDivision.iii, 0),
+    (1, 'Seeker', RankDivision.iii, 1),
+    (4, 'Seeker', RankDivision.iii, 4),
+    (5, 'Seeker', RankDivision.ii, 1),
+    (12, 'Seeker', RankDivision.i, 4),
+    (13, 'Wanderer', RankDivision.iv, 1),
+    (28, 'Wanderer', RankDivision.i, 4),
+    (29, 'Apprentice', RankDivision.v, 1),
+    (48, 'Apprentice', RankDivision.i, 4),
+    (49, 'Pathfinder', RankDivision.vi, 1),
+    (72, 'Pathfinder', RankDivision.i, 4),
+    (73, 'Mystic', RankDivision.vii, 1),
+    (100, 'Mystic', RankDivision.i, 4),
+    (101, 'Sage', RankDivision.ix, 1),
+    (136, 'Sage', RankDivision.i, 4),
+    (137, 'Luminary', null, 1),
+    (1334, 'Luminary', null, 1198),
+    (1000000000000, 'Luminary', null, 999999999864),
   ];
   for (final (stars, tier, division, count) in cases) {
     test('$stars stars: $tier $division with $count stars', () {
       final rank = rankForStars(stars);
-      expect(rank.tier.nameFil, tier);
+      expect(rank.tier.name, tier);
       expect(rank.division, division);
       expect(rank.starsPerDivision, 4);
       expect(rank.isTopTier, division == null);
@@ -42,7 +36,7 @@ void main() {
   }
 
   test('all 34 finite divisions keep four stars before promotion', () {
-    expect(rankLadder.map((t) => t.divisions), [3, 3, 4, 4, 5, 5, 5, 5, 0]);
+    expect(rankLadder.map((t) => t.divisions), [3, 4, 5, 6, 7, 9, 0]);
     for (var d = 1; d <= 34; d++) {
       final full = rankForStars(d * 4);
       final next = rankForStars(d * 4 + 1);
@@ -94,20 +88,27 @@ void main() {
     expect(rank.isTopTier, isFalse);
   });
 
-  test('tier and division names are localized through Strings', () {
+  test('rank names are identical in both UI languages', () {
     const fil = Strings('fil');
     const en = Strings('en');
-    expect(fil.rankName(rankForStars(25)), 'Halaman IV');
-    expect(en.rankName(rankForStars(25)), 'Plant IV');
-    expect(fil.rankName(rankForStars(57)), 'Ubasan V');
-    expect(en.rankName(rankForStars(57)), 'Vineyard V');
-    expect(fil.rankName(rankForStars(97)), 'Apostol V');
-    expect(en.rankName(rankForStars(97)), 'Apostle V');
-    expect(fil.rankName(rankForStars(137)), 'Salita ng Buhay');
-    expect(en.rankName(rankForStars(137)), 'Word of Life');
-    for (final tier in rankLadder) {
-      expect(fil.rankTierName(tier), isNotEmpty);
-      expect(en.rankTierName(tier), isNotEmpty);
+    for (final (stars, tier, division, _) in cases) {
+      final expected = division == null ? tier : '$tier ${division.numeral}';
+      expect(fil.rankName(rankForStars(stars)), expected);
+      expect(en.rankName(rankForStars(stars)), expected);
+    }
+    expect(en.rankName(rankForStars(49)), 'Pathfinder VI');
+    expect(fil.rankName(rankForStars(101)), 'Sage IX');
+    expect(fil.starRankUp('Pathfinder VI'), 'Umakyat ka sa Pathfinder VI!');
+    expect(en.starRankDown('Wanderer I'), 'You moved down to Wanderer I');
+  });
+
+  test('Roman division numerals count down from IX to I', () {
+    expect(
+      RankDivision.values.map((d) => const Strings('fil').rankDivision(d)),
+      ['IX', 'VIII', 'VII', 'VI', 'V', 'IV', 'III', 'II', 'I'],
+    );
+    for (var i = 0; i < 9; i++) {
+      expect(rankForStars(101 + i * 4).division, RankDivision.values[i]);
     }
   });
 }

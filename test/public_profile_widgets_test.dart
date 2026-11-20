@@ -183,8 +183,8 @@ void main() {
       app(PublicProfileScreen(uid: 'other', cloud: cloud)),
     );
     await tester.pumpAndSettle();
-    expect(find.text('Apostle V'), findsOneWidget);
-    expect(find.text('Prophet V'), findsOneWidget);
+    expect(find.text('Mystic I'), findsOneWidget);
+    expect(find.text('Sage V'), findsOneWidget);
     final stars = find.byType(StarProgress);
     expect(
       find.descendant(of: stars, matching: find.byIcon(Icons.star_rounded)),
@@ -207,8 +207,8 @@ void main() {
     expect(find.byType(StarChangeScreen), findsNothing);
     settings.setLanguage('fil');
     await tester.pumpAndSettle();
-    expect(find.text('Apostol V'), findsOneWidget);
-    expect(find.text('Propeta V'), findsOneWidget);
+    expect(find.text('Mystic I'), findsOneWidget);
+    expect(find.text('Sage V'), findsOneWidget);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
@@ -260,7 +260,7 @@ void main() {
       await tester.tap(find.byKey(const ValueKey('leaderboard-me')));
       await tester.pumpAndSettle();
       expect(find.text('View profile'), findsOneWidget);
-      expect(find.text('Seed III'), findsNWidgets(2));
+      expect(find.text('Seeker III'), findsNWidgets(2));
       await tester.tap(find.text('View profile'));
       await tester.pumpAndSettle();
       expect(find.byType(ProfileScreen), findsOneWidget);
@@ -286,7 +286,7 @@ void main() {
     expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
     await tester.tap(find.byKey(const ValueKey('leaderboard-other')));
     await tester.pumpAndSettle();
-    expect(find.text('Word of Life'), findsNWidgets(2));
+    expect(find.text('Luminary'), findsNWidgets(2));
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
@@ -324,7 +324,7 @@ void main() {
     await tester.tap(find.text('Another reader'));
     await tester.pumpAndSettle();
     expect(find.text('View profile'), findsOneWidget);
-    expect(find.text('Word of Life'), findsOneWidget);
+    expect(find.text('Luminary'), findsOneWidget);
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);

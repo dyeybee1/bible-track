@@ -194,14 +194,8 @@ class Strings {
   String get howToUse => _t('Paano gamitin', 'How to use');
 
   // ---- profile ----
-  String rankTierName(RankTier tier) => _t(tier.nameFil, tier.nameEn);
-  String rankDivision(RankDivision division) => switch (division) {
-    RankDivision.v => _t('V', 'V'),
-    RankDivision.iv => _t('IV', 'IV'),
-    RankDivision.iii => _t('III', 'III'),
-    RankDivision.ii => _t('II', 'II'),
-    RankDivision.i => _t('I', 'I'),
-  };
+  String rankTierName(RankTier tier) => tier.name;
+  String rankDivision(RankDivision division) => division.numeral;
   String rankName(RankInfo rank) => rank.division == null
       ? rankTierName(rank.tier)
       : '${rankTierName(rank.tier)} ${rankDivision(rank.division!)}';

@@ -149,14 +149,14 @@ void main() {
       await tester.pumpWidget(app(ProfileScreen(progress: progress)));
       expect(find.text('Current Rank'), findsOneWidget);
       expect(find.text('Highest Rank'), findsOneWidget);
-      expect(find.text('Seed II'), findsNWidgets(2));
+      expect(find.text('Seeker II'), findsNWidgets(2));
       expect(find.byType(RankBadge), findsNWidgets(2));
       // No star-change screen opened by profile or sync
       expect(find.byType(StarChangeScreen), findsNothing);
       progress.toggleChapter(allBooks.first, 5);
       await tester.pump();
-      expect(find.text('Seed III'), findsOneWidget);
-      expect(find.text('Seed II'), findsOneWidget);
+      expect(find.text('Seeker III'), findsOneWidget);
+      expect(find.text('Seeker II'), findsOneWidget);
       // Every finite rank uses exactly four star icons.
       progress.applyMerge(
         0,
@@ -165,14 +165,14 @@ void main() {
         mergedMaxStarsEver: 25,
       );
       await tester.pump();
-      expect(find.text('Plant IV'), findsOneWidget);
+      expect(find.text('Wanderer I'), findsOneWidget);
       // applyMerge must NOT open StarChangeScreen
       expect(find.byType(StarChangeScreen), findsNothing);
       settings.setLanguage('fil');
       await tester.pump();
       expect(find.text('Pinakamataas na Rank'), findsOneWidget);
-      expect(find.text('Binhi III'), findsOneWidget);
-      expect(find.text('Halaman IV'), findsOneWidget);
+      expect(find.text('Seeker III'), findsOneWidget);
+      expect(find.text('Wanderer I'), findsOneWidget);
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );
@@ -194,7 +194,7 @@ void main() {
         find.text('${totalChaptersInBible + 1 - 136} stars'),
         findsOneWidget,
       );
-      expect(find.text('Word of Life'), findsNWidgets(2));
+      expect(find.text('Luminary'), findsNWidgets(2));
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );
@@ -348,8 +348,8 @@ void main() {
       await tester.pumpAndSettle();
       expect(find.text('1'), findsOneWidget);
       expect(find.text('2'), findsOneWidget);
-      expect(find.text('Word of Life'), findsOneWidget);
-      expect(find.text('Plant III'), findsOneWidget);
+      expect(find.text('Luminary'), findsOneWidget);
+      expect(find.text('Apprentice V'), findsOneWidget);
       expect(find.text('245 chapters'), findsOneWidget);
       expect(find.text('You'), findsOneWidget);
       expect(find.text('Highest Rank'), findsNothing);
@@ -359,7 +359,7 @@ void main() {
       ]);
       await tester.pumpAndSettle();
       expect(find.text('Your rank: #51'), findsOneWidget);
-      expect(find.text('Word of Life'), findsNWidgets(2));
+      expect(find.text('Luminary'), findsNWidgets(2));
       expect(find.text('$totalChaptersInBible chapters'), findsOneWidget);
       await tester.pumpWidget(const SizedBox.shrink());
       account.dispose();

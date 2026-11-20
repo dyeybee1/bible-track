@@ -3,27 +3,38 @@ const kStarsPerDivision = 4;
 /// The single source of tier names and division counts. All thresholds are
 /// derived from this list; zero divisions denotes the unlimited top tier.
 const rankLadder = <RankTier>[
-  RankTier('Binhi', 'Seed', 3),
-  RankTier('Usbong', 'Sprout', 3),
-  RankTier('Halaman', 'Plant', 4),
-  RankTier('Puno', 'Tree', 4),
-  RankTier('Ubasan', 'Vineyard', 5),
-  RankTier('Alagad', 'Disciple', 5),
-  RankTier('Apostol', 'Apostle', 5),
-  RankTier('Propeta', 'Prophet', 5),
-  RankTier('Salita ng Buhay', 'Word of Life', 0),
+  RankTier('Seeker', 3),
+  RankTier('Wanderer', 4),
+  RankTier('Apprentice', 5),
+  RankTier('Pathfinder', 6),
+  RankTier('Mystic', 7),
+  RankTier('Sage', 9),
+  RankTier('Luminary', 0),
 ];
 
 class RankTier {
-  const RankTier(this.nameFil, this.nameEn, this.divisions);
+  const RankTier(this.name, this.divisions);
 
-  final String nameFil;
-  final String nameEn;
+  /// Tier names are English in both app languages.
+  final String name;
 
   final int divisions;
 }
 
-enum RankDivision { v, iv, iii, ii, i }
+enum RankDivision {
+  ix('IX'),
+  viii('VIII'),
+  vii('VII'),
+  vi('VI'),
+  v('V'),
+  iv('IV'),
+  iii('III'),
+  ii('II'),
+  i('I');
+
+  const RankDivision(this.numeral);
+  final String numeral;
+}
 
 class RankInfo {
   const RankInfo({
