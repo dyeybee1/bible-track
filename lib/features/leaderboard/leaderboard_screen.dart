@@ -341,7 +341,7 @@ class _OwnRankBanner extends StatelessWidget {
       ),
       child: Row(
         children: [
-          RankBadge(tier: rankForStars(chaptersRead).tier, size: 36),
+          RankBadge(rank: rankForStars(chaptersRead), size: 36),
           const SizedBox(width: 12),
           Expanded(
             child: Column(
@@ -461,7 +461,7 @@ class _LeaderboardTile extends StatelessWidget {
             ),
           ),
           const SizedBox(width: 12),
-          RankBadge(tier: currentRank.tier, size: 36),
+          RankBadge(rank: currentRank, size: 36),
           const SizedBox(width: 12),
           Expanded(
             child: Column(

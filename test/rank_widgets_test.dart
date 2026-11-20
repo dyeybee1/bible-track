@@ -194,7 +194,7 @@ void main() {
         find.text('${totalChaptersInBible + 1 - 136} stars'),
         findsOneWidget,
       );
-      expect(find.text('Luminary'), findsNWidgets(2));
+      expect(find.text('Luminary Zenith'), findsNWidgets(2));
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );
@@ -348,7 +348,7 @@ void main() {
       await tester.pumpAndSettle();
       expect(find.text('1'), findsOneWidget);
       expect(find.text('2'), findsOneWidget);
-      expect(find.text('Luminary'), findsOneWidget);
+      expect(find.text('Luminary Zenith'), findsOneWidget);
       expect(find.text('Apprentice V'), findsOneWidget);
       expect(find.text('245 chapters'), findsOneWidget);
       expect(find.text('You'), findsOneWidget);
@@ -359,7 +359,7 @@ void main() {
       ]);
       await tester.pumpAndSettle();
       expect(find.text('Your rank: #51'), findsOneWidget);
-      expect(find.text('Luminary'), findsNWidgets(2));
+      expect(find.text('Luminary Zenith'), findsNWidgets(2));
       expect(find.text('$totalChaptersInBible chapters'), findsOneWidget);
       await tester.pumpWidget(const SizedBox.shrink());
       account.dispose();

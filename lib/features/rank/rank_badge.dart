@@ -5,20 +5,23 @@ import '../../settings_scope.dart';
 
 /// All tier artwork uses one shield, replaceable with custom artwork later.
 class RankBadge extends StatelessWidget {
-  const RankBadge({super.key, required this.tier, this.size = 48});
-  final RankTier tier;
+  const RankBadge({super.key, required this.rank, this.size = 48});
+  final RankInfo rank;
   final double size;
 
   @override
   Widget build(BuildContext context) => Semantics(
-    label: context.s.rankTierName(tier),
+    label: context.s.rankName(rank),
     image: true,
     child: ExcludeSemantics(
       child: SizedBox.square(
         dimension: size,
         child: CustomPaint(
           painter: _ShieldPainter(
-            tierIndex: rankLadder.indexOf(tier),
+            tierIndex: rankLadder.indexOf(rank.tier),
+            milestoneLevel: rank.milestone == null
+                ? 0
+                : rankMilestones.indexOf(rank.milestone!) + 1,
             dark: Theme.of(context).brightness == Brightness.dark,
           ),
         ),
@@ -28,9 +31,14 @@ class RankBadge extends StatelessWidget {
 }
 
 class _ShieldPainter extends CustomPainter {
-  const _ShieldPainter({required this.tierIndex, required this.dark});
+  const _ShieldPainter({
+    required this.tierIndex,
+    required this.dark,
+    required this.milestoneLevel,
+  });
   final int tierIndex;
   final bool dark;
+  final int milestoneLevel;
   static const _colors = [
     Color(0xFF52766B),
     Color(0xFF087F8C),
@@ -45,7 +53,11 @@ class _ShieldPainter extends CustomPainter {
   void paint(Canvas canvas, Size size) {
     canvas.save();
     canvas.scale(size.width / 100, size.height / 100);
-    final color = _colors[tierIndex];
+    final color = Color.lerp(
+      _colors[tierIndex],
+      const Color(0xFFFFE17B),
+      milestoneLevel * .1,
+    )!;
     final edge = Color.lerp(color, Colors.white, dark ? .38 : .06)!;
     final ink = tierIndex == rankLadder.length - 1
         ? const Color(0xFF573400)
@@ -55,9 +67,11 @@ class _ShieldPainter extends CustomPainter {
         const Offset(50, 47),
         43,
         Paint()
-          ..color = color.withValues(alpha: dark ? .19 : .12)
+          ..color = color.withValues(
+            alpha: (dark ? .19 : .12) + milestoneLevel * .035,
+          )
           ..style = PaintingStyle.stroke
-          ..strokeWidth = 5,
+          ..strokeWidth = 5 + milestoneLevel * 1.5,
       );
     }
     final shield = Path()
@@ -159,10 +173,25 @@ class _ShieldPainter extends CustomPainter {
         );
         canvas.drawLine(const Offset(43, 44), const Offset(54, 44), stroke);
         canvas.drawLine(const Offset(43, 52), const Offset(54, 52), stroke);
-      case 6: // sun burst
+      case 6: // sun burst, with a shared silhouette across milestones
+        if (milestoneLevel >= 2) {
+          canvas.drawCircle(
+            const Offset(50, 48),
+            29,
+            Paint()
+              ..color = ink.withValues(alpha: .5)
+              ..style = PaintingStyle.stroke
+              ..strokeWidth = 2,
+          );
+        }
+        if (milestoneLevel >= 1) {
+          _star(canvas, const Offset(29, 28), 4, fill);
+          _star(canvas, const Offset(72, 66), 4, fill);
+        }
         canvas.drawCircle(const Offset(50, 48), 11, fill);
-        for (var i = 0; i < 8; i++) {
-          final a = i * math.pi / 4;
+        final rays = 8 + milestoneLevel * 4;
+        for (var i = 0; i < rays; i++) {
+          final a = i * math.pi * 2 / rays;
           canvas.drawLine(
             Offset(50 + math.cos(a) * 17, 48 + math.sin(a) * 17),
             Offset(50 + math.cos(a) * 23, 48 + math.sin(a) * 23),
@@ -190,5 +219,7 @@ class _ShieldPainter extends CustomPainter {
 
   @override
   bool shouldRepaint(_ShieldPainter oldDelegate) =>
-      tierIndex != oldDelegate.tierIndex || dark != oldDelegate.dark;
+      tierIndex != oldDelegate.tierIndex ||
+      dark != oldDelegate.dark ||
+      milestoneLevel != oldDelegate.milestoneLevel;
 }

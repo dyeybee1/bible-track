@@ -46,7 +46,8 @@ void main() {
       expect(next.isTopTier ? next.topStars : next.starsInDivision, 1);
     }
     expect(rankForStars(4).isHigherThan(rankForStars(0)), isFalse);
-    expect(rankForStars(1334).isHigherThan(rankForStars(137)), isFalse);
+    expect(rankForStars(1334).isHigherThan(rankForStars(137)), isTrue);
+    expect(rankForStars(5000).isHigherThan(rankForStars(1334)), isFalse);
   });
 
   test('unmark/mark restores every boundary and supplied example', () {
@@ -92,7 +93,9 @@ void main() {
     const fil = Strings('fil');
     const en = Strings('en');
     for (final (stars, tier, division, _) in cases) {
-      final expected = division == null ? tier : '$tier ${division.numeral}';
+      final expected = division == null
+          ? (stars >= 236 ? '$tier Zenith' : tier)
+          : '$tier ${division.numeral}';
       expect(fil.rankName(rankForStars(stars)), expected);
       expect(en.rankName(rankForStars(stars)), expected);
     }
@@ -109,6 +112,42 @@ void main() {
     );
     for (var i = 0; i < 9; i++) {
       expect(rankForStars(101 + i * 4).division, RankDivision.values[i]);
+    }
+  });
+  test('Luminary milestones, thresholds and progress use top-tier stars', () {
+    const cases = [
+      (137, null, 20, 'Luminary'),
+      (155, null, 20, 'Luminary'),
+      (156, 'Spark', 50, 'Luminary Spark'),
+      (162, 'Spark', 50, 'Luminary Spark'),
+      (185, 'Spark', 50, 'Luminary Spark'),
+      (186, 'Beacon', 100, 'Luminary Beacon'),
+      (235, 'Beacon', 100, 'Luminary Beacon'),
+      (236, 'Zenith', null, 'Luminary Zenith'),
+      (1334, 'Zenith', null, 'Luminary Zenith'),
+      (1000000000000, 'Zenith', null, 'Luminary Zenith'),
+    ];
+    for (final (total, milestone, next, label) in cases) {
+      final rank = rankForStars(total);
+      expect(rank.milestone?.title, milestone);
+      expect(rank.nextMilestoneThreshold, next);
+      expect(rank.topStars, total - 136);
+      expect(
+        rank.milestoneProgress,
+        next == null ? null : closeTo((total - 136) / next, .00001),
+      );
+      expect(const Strings('fil').rankName(rank), label);
+      expect(const Strings('en').rankName(rank), label);
+    }
+    expect(rankForStars(136).milestone, isNull);
+    expect(rankForStars(136).nextMilestoneThreshold, isNull);
+    expect(rankForStars(136).milestoneProgress, isNull);
+    for (final total in [156, 186, 236]) {
+      expect(rankForStars(total).isHigherThan(rankForStars(total - 1)), isTrue);
+      expect(
+        rankForStars(total - 1).isHigherThan(rankForStars(total)),
+        isFalse,
+      );
     }
   });
 }

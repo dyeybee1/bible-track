@@ -8,6 +8,7 @@ import '../../data/rank_system.dart';
 import '../../l10n/strings.dart';
 import '../../settings_scope.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/star_progress.dart';
 import 'rank_badge.dart';
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -149,7 +150,8 @@ class _StarChangeScreenState extends State<StarChangeScreen>
   _ChangeKind _classifyChange() {
     // Compare both tier and division, including entry to / exit from the top.
     if (widget.before.tier == widget.after.tier &&
-        widget.before.division == widget.after.division) {
+        widget.before.division == widget.after.division &&
+        widget.before.milestone == widget.after.milestone) {
       if (widget.after.isTopTier) {
         return widget.isGain
             ? _ChangeKind.topTierGain
@@ -269,6 +271,13 @@ class _StarChangeScreenState extends State<StarChangeScreen>
                           accent: scheme.tertiary,
                           strings: strings,
                         ),
+                        if (widget.after.nextMilestone != null) ...[
+                          const SizedBox(height: 8),
+                          MilestoneProgress(
+                            rank: widget.after,
+                            color: scheme.tertiary,
+                          ),
+                        ],
                         const SizedBox(height: 20),
 
                         // ── Delta label (+1 ★ / -1 ★) ─────────────────────────
@@ -383,7 +392,7 @@ class _AnimatedBadge extends StatelessWidget {
       );
       return ScaleTransition(
         scale: scale,
-        child: RankBadge(tier: after.tier, size: 80),
+        child: RankBadge(rank: after, size: 80),
       );
     }
 
@@ -401,11 +410,11 @@ class _AnimatedBadge extends StatelessWidget {
       children: [
         FadeTransition(
           opacity: ReverseAnimation(fadeOld),
-          child: RankBadge(tier: before.tier, size: 80),
+          child: RankBadge(rank: before, size: 80),
         ),
         FadeTransition(
           opacity: fadeNew,
-          child: RankBadge(tier: after.tier, size: 80),
+          child: RankBadge(rank: after, size: 80),
         ),
       ],
     );

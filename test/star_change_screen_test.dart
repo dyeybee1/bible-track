@@ -195,7 +195,10 @@ void main() {
         find.textContaining('Pinakamataas'),
         gain ? findsNothing : findsOneWidget,
       );
-      expect(find.byType(LinearProgressIndicator), findsNothing);
+      expect(
+        find.byType(LinearProgressIndicator),
+        newRank.isTopTier ? findsOneWidget : findsNothing,
+      );
     });
   }
 
@@ -220,6 +223,71 @@ void main() {
       expect(find.textContaining('Umakyat'), findsNothing);
       expect(find.textContaining('Bumaba'), findsNothing);
     });
+  }
+
+  for (final language in ['fil', 'en']) {
+    for (final total in [156, 186, 236]) {
+      for (final gain in [true, false]) {
+        testWidgets(
+          '$language milestone $total gain=$gain celebrates or demotes quietly',
+          (tester) async {
+            settings.setLanguage(language);
+            final before = _rank(gain ? total - 1 : total);
+            final after = _rank(gain ? total : total - 1);
+            await tester.pumpWidget(
+              app(
+                StarChangeScreen(
+                  before: before,
+                  after: after,
+                  maxStarsEver: total,
+                  isGain: gain,
+                ),
+              ),
+            );
+            await tester.pump(const Duration(milliseconds: 450));
+            expect(
+              find.byKey(const ValueKey('flying-star')),
+              gain ? findsOneWidget : findsNothing,
+            );
+            await tester.pump(const Duration(milliseconds: 300));
+            expect(
+              find.byKey(const ValueKey('division-promotion-burst')),
+              gain ? findsOneWidget : findsNothing,
+            );
+            expect(
+              find.byKey(const ValueKey('tier-promotion-burst')),
+              findsNothing,
+            );
+            await _pumpFull(tester);
+            final strings = Strings(language);
+            expect(
+              find.text(
+                gain
+                    ? strings.starRankUp(strings.rankName(after))
+                    : strings.starRankDown(strings.rankName(after)),
+              ),
+              findsOneWidget,
+            );
+            expect(
+              find.text(strings.starHighestStill(strings.rankName(before))),
+              gain ? findsNothing : findsOneWidget,
+            );
+            expect(
+              find.text(strings.rankStars(after.topStars)),
+              findsOneWidget,
+            );
+            expect(
+              find.byKey(const ValueKey('animated-star-row')),
+              findsNothing,
+            );
+            expect(
+              find.byType(LinearProgressIndicator),
+              after.nextMilestone == null ? findsNothing : findsOneWidget,
+            );
+          },
+        );
+      }
+    }
   }
 
   testWidgets('highest rank reassurance is hidden within the same rank', (

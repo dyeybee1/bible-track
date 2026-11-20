@@ -33,7 +33,9 @@ void main() {
       tester,
     ) async {
       final semantics = tester.ensureSemantics();
-      for (final tier in rankLadder) {
+      for (final stars in [0, 13, 29, 49, 73, 101, 137, 156, 186, 236]) {
+        final rank = rankForStars(stars);
+        final label = settings.strings.rankName(rank);
         for (final size in [24.0, 40.0, 96.0]) {
           await tester.pumpWidget(
             SettingsScope(
@@ -42,18 +44,18 @@ void main() {
                 theme: dark ? darkTheme : lightTheme,
                 home: Scaffold(
                   body: Center(
-                    child: RankBadge(tier: tier, size: size),
+                    child: RankBadge(rank: rank, size: size),
                   ),
                 ),
               ),
             ),
           );
           expect(tester.getSize(find.byType(RankBadge)), Size.square(size));
-          expect(find.bySemanticsLabel(tier.name), findsOneWidget);
+          expect(find.bySemanticsLabel(label), findsOneWidget);
           expect(
             tester.getSemantics(find.byType(RankBadge)),
             matchesSemantics(
-              label: tier.name,
+              label: label,
               isImage: true,
               textDirection: TextDirection.ltr,
             ),
@@ -117,6 +119,58 @@ void main() {
       });
     }
 
+    for (final dark in [false, true]) {
+      testWidgets(
+        '$language Luminary milestone progress at large text, dark=$dark',
+        (tester) async {
+          settings.setLanguage(language);
+          tester.view.physicalSize = const Size(320, 900);
+          tester.view.devicePixelRatio = 1;
+          addTearDown(tester.view.resetPhysicalSize);
+          addTearDown(tester.view.resetDevicePixelRatio);
+          for (final total in [137, 162, 186, 236, 1334]) {
+            await tester.pumpWidget(
+              SettingsScope(
+                controller: settings,
+                child: MaterialApp(
+                  theme: dark ? darkTheme : lightTheme,
+                  builder: (context, child) => MediaQuery(
+                    data: MediaQuery.of(
+                      context,
+                    ).copyWith(textScaler: TextScaler.linear(1.6)),
+                    child: child!,
+                  ),
+                  home: Scaffold(body: CurrentRankCard(stars: total)),
+                ),
+              ),
+            );
+            final rank = rankForStars(total);
+            expect(find.text(settings.strings.rankName(rank)), findsOneWidget);
+            expect(
+              find.text(settings.strings.rankStars(rank.topStars)),
+              findsOneWidget,
+            );
+            final bar = find.byType(LinearProgressIndicator);
+            expect(
+              bar,
+              rank.nextMilestone == null ? findsNothing : findsOneWidget,
+            );
+            if (rank.nextMilestone != null) {
+              expect(
+                tester.widget<LinearProgressIndicator>(bar).value,
+                rank.milestoneProgress,
+              );
+              expect(
+                find.text('${rank.topStars} / ${rank.nextMilestoneThreshold}'),
+                findsOneWidget,
+              );
+            }
+            expect(tester.takeException(), isNull);
+          }
+        },
+      );
+    }
+
     testWidgets('$language: top tier counts stars since entry', (tester) async {
       settings.setLanguage(language);
       for (final (stars, count) in [(137, 1), (1334, 1198)]) {
@@ -130,7 +184,10 @@ void main() {
         );
         expect(find.text(Strings(language).rankStars(count)), findsOneWidget);
         expect(find.byType(Icon), findsNothing);
-        expect(find.byType(LinearProgressIndicator), findsNothing);
+        expect(
+          find.byType(LinearProgressIndicator),
+          stars == 137 ? findsOneWidget : findsNothing,
+        );
       }
     });
   }

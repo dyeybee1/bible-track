@@ -37,7 +37,7 @@ Future<void> showProfilePreview({
               icon: const Icon(Icons.close, size: 20),
             ),
           ),
-          RankBadge(tier: rank.tier, size: 64),
+          RankBadge(rank: rank, size: 64),
           const SizedBox(height: 12),
           Text(
             username,

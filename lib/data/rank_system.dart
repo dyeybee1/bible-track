@@ -12,6 +12,19 @@ const rankLadder = <RankTier>[
   RankTier('Luminary', 0),
 ];
 
+/// Thresholds count stars earned within the unlimited tier.
+const rankMilestones = <RankMilestone>[
+  RankMilestone('Spark', 20),
+  RankMilestone('Beacon', 50),
+  RankMilestone('Zenith', 100),
+];
+
+class RankMilestone {
+  const RankMilestone(this.title, this.topStars);
+  final String title;
+  final int topStars;
+}
+
 class RankTier {
   const RankTier(this.name, this.divisions);
 
@@ -42,6 +55,8 @@ class RankInfo {
     required this.division,
     required this.starsInDivision,
     this.topStars = 0,
+    this.milestone,
+    this.nextMilestone,
   });
 
   final RankTier tier;
@@ -50,6 +65,11 @@ class RankInfo {
   /// Filled slots in a finite division; zero in the unlimited top tier.
   final int starsInDivision;
   final int topStars;
+  final RankMilestone? milestone;
+  final RankMilestone? nextMilestone;
+  int? get nextMilestoneThreshold => nextMilestone?.topStars;
+  double? get milestoneProgress =>
+      nextMilestone == null ? null : topStars / nextMilestone!.topStars;
   int get starsPerDivision => kStarsPerDivision;
   bool get isTopTier => division == null;
 
@@ -60,7 +80,11 @@ class RankInfo {
         (tierIndex == otherIndex &&
             division != null &&
             other.division != null &&
-            division!.index > other.division!.index);
+            division!.index > other.division!.index) ||
+        (tierIndex == otherIndex &&
+            isTopTier &&
+            other.isTopTier &&
+            (milestone?.topStars ?? 0) > (other.milestone?.topStars ?? 0));
   }
 }
 
@@ -72,11 +96,24 @@ RankInfo rankForStars(int s) {
   var precedingDivisions = 0;
   for (final tier in rankLadder) {
     if (tier.divisions == 0) {
+      final topStars = stars - precedingDivisions * kStarsPerDivision;
+      RankMilestone? milestone;
+      RankMilestone? nextMilestone;
+      for (final entry in rankMilestones) {
+        if (topStars >= entry.topStars) {
+          milestone = entry;
+        } else {
+          nextMilestone = entry;
+          break;
+        }
+      }
       return RankInfo(
         tier: tier,
         division: null,
         starsInDivision: 0,
-        topStars: stars - precedingDivisions * kStarsPerDivision,
+        topStars: topStars,
+        milestone: milestone,
+        nextMilestone: nextMilestone,
       );
     }
     if (divisionIndex < tier.divisions) {

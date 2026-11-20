@@ -27,7 +27,7 @@ class CurrentRankCard extends StatelessWidget {
           children: [
             Row(
               children: [
-                RankBadge(tier: rank.tier, size: 64),
+                RankBadge(rank: rank, size: 64),
                 const SizedBox(width: 16),
                 Expanded(
                   child: Column(
@@ -76,7 +76,7 @@ class HighestRankCard extends StatelessWidget {
         padding: const EdgeInsets.all(16),
         child: Row(
           children: [
-            RankBadge(tier: rank.tier, size: 36),
+            RankBadge(rank: rank, size: 36),
             const SizedBox(width: 12),
             Expanded(
               child: Column(

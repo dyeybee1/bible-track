@@ -105,6 +105,38 @@ void main() {
     progress.dispose();
   });
 
+  test('unmark and mark cross all milestone boundaries and preserve peak', () {
+    final progress = ProgressController(box);
+    var total = 0;
+    for (final book in allBooks) {
+      for (var chapter = 1; chapter <= book.totalChapters; chapter++) {
+        progress.markChapterRead(book, chapter);
+        total++;
+        if ([156, 186, 236].contains(total)) {
+          final reached = rankForStars(total);
+          final lower = rankForStars(total - 1);
+          progress.toggleChapter(book, chapter);
+          expect(
+            rankForStars(progress.chaptersReadLifetime).milestone,
+            lower.milestone,
+          );
+          expect(
+            rankForStars(progress.maxStarsEver).milestone,
+            reached.milestone,
+          );
+          progress.markChapterRead(book, chapter);
+          expect(
+            rankForStars(progress.chaptersReadLifetime).milestone,
+            reached.milestone,
+          );
+        }
+        if (total == 236) break;
+      }
+      if (total == 236) break;
+    }
+    progress.dispose();
+  });
+
   test('markAll and startNewCycle preserve peak and lifetime star count', () {
     final progress = ProgressController(box);
     for (final book in allBooks) {

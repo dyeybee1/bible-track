@@ -197,7 +197,7 @@ class Strings {
   String rankTierName(RankTier tier) => tier.name;
   String rankDivision(RankDivision division) => division.numeral;
   String rankName(RankInfo rank) => rank.division == null
-      ? rankTierName(rank.tier)
+      ? [rankTierName(rank.tier), ?rank.milestone?.title].join(' ')
       : '${rankTierName(rank.tier)} ${rankDivision(rank.division!)}';
   String get currentRank => _t('Kasalukuyang Rank', 'Current Rank');
   String get highestRank => _t('Pinakamataas na Rank', 'Highest Rank');

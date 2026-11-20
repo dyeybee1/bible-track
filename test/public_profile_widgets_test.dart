@@ -212,6 +212,52 @@ void main() {
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
+  for (final language in ['en', 'fil']) {
+    testWidgets(
+      '$language public profile and leaderboard use full milestones',
+      (tester) async {
+        settings.setLanguage(language);
+        cloud.load = (_) async => const PublicProfile(
+          uid: 'milestone',
+          username: 'Milestone reader',
+          chaptersRead: 162,
+          maxStars: 186,
+          timesCompleted: 0,
+          chaptersCycle: 162,
+          completedBooks: 2,
+          updatedAt: null,
+        );
+        await tester.pumpWidget(
+          app(PublicProfileScreen(uid: 'milestone', cloud: cloud)),
+        );
+        await tester.pumpAndSettle();
+        expect(find.text('Luminary Spark'), findsOneWidget);
+        expect(find.text('Luminary Beacon'), findsOneWidget);
+        expect(find.text('26 / 50'), findsOneWidget);
+        await tester.pumpWidget(const SizedBox.shrink());
+        cloud.rows = [
+          {'uid': 'spark', 'username': 'Spark reader', 'chaptersRead': 162},
+          {'uid': 'beacon', 'username': 'Beacon reader', 'chaptersRead': 186},
+          {'uid': 'zenith', 'username': 'Zenith reader', 'chaptersRead': 236},
+        ];
+        await tester.pumpWidget(
+          app(
+            LeaderboardScreen(
+              progress: progress,
+              account: account,
+              cloud: cloud,
+            ),
+          ),
+        );
+        await tester.pumpAndSettle();
+        expect(find.text('Luminary Spark'), findsOneWidget);
+        expect(find.text('Luminary Beacon'), findsOneWidget);
+        expect(find.text('Luminary Zenith'), findsOneWidget);
+        await tester.pumpWidget(const SizedBox.shrink());
+      },
+    );
+  }
+
   testWidgets('missing public doc shows unavailable in either language', (
     tester,
   ) async {
@@ -286,7 +332,7 @@ void main() {
     expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
     await tester.tap(find.byKey(const ValueKey('leaderboard-other')));
     await tester.pumpAndSettle();
-    expect(find.text('Luminary'), findsNWidgets(2));
+    expect(find.text('Luminary Zenith'), findsNWidgets(2));
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
@@ -324,7 +370,7 @@ void main() {
     await tester.tap(find.text('Another reader'));
     await tester.pumpAndSettle();
     expect(find.text('View profile'), findsOneWidget);
-    expect(find.text('Luminary'), findsOneWidget);
+    expect(find.text('Luminary Zenith'), findsOneWidget);
     await tester.tap(find.text('View profile'));
     await tester.pumpAndSettle();
     expect(find.byType(PublicProfileScreen), findsOneWidget);
