@@ -15,6 +15,8 @@ class Strings {
 
   // ---- navigation ----
   String get navBooks => _t('Mga Libro', 'Books');
+  String navTabSemantics(String label, int position, int total) =>
+      _t('$label, tab $position sa $total', '$label, tab $position of $total');
   String get navProfile => 'Profile';
   String get navSettings => _t('Setting', 'Settings');
 

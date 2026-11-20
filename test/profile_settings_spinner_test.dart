@@ -1,3 +1,4 @@
+import 'package:bible_track/widgets/floating_pill_nav.dart';
 import 'package:bible_track/data/books_data.dart';
 import 'package:bible_track/features/profile/profile_screen.dart';
 import 'package:bible_track/features/settings/settings_screen.dart';
@@ -46,7 +47,7 @@ void main() {
           }
 
           checkAvatar();
-          final nav = find.byType(NavigationBar);
+          final nav = find.byType(FloatingPillNav);
           await tester.tap(
             find.descendant(
               of: nav,
@@ -187,8 +188,11 @@ void main() {
           fixture.settings.setLanguage(lang);
           await tester.pumpWidget(fixture.app(scale: 1.6, dark: dark));
           await tester.pumpAndSettle();
-          final nav = find.byType(NavigationBar);
-          expect(tester.widget<NavigationBar>(nav).destinations, hasLength(2));
+          final nav = find.byType(FloatingPillNav);
+          expect(
+            tester.widget<FloatingPillNav>(nav).destinations,
+            hasLength(2),
+          );
           expect(
             find.descendant(
               of: nav,
@@ -276,7 +280,7 @@ void main() {
           await tester.pageBack();
           await tester.pumpAndSettle();
           expect(find.byKey(const ValueKey('spin-fab')), findsOneWidget);
-          expect(tester.widget<NavigationBar>(nav).selectedIndex, 0);
+          expect(tester.widget<FloatingPillNav>(nav).selectedIndex, 0);
           expect(tester.takeException(), isNull);
           await tester.pumpWidget(const SizedBox.shrink());
         },

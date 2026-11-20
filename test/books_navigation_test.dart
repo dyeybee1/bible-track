@@ -1,3 +1,4 @@
+import 'package:bible_track/widgets/floating_pill_nav.dart';
 import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/features/books/chapter_screen.dart';
 import 'package:bible_track/features/spinner/spinner_screen.dart';
@@ -21,7 +22,7 @@ void main() {
   final hint = find.byKey(const ValueKey('spin-fab-hint'));
   final chips = find.byKey(const ValueKey('testament-chips'));
   Finder nav(String label) => find.descendant(
-    of: find.byType(NavigationBar),
+    of: find.byType(FloatingPillNav),
     matching: find.text(label),
   );
 
@@ -70,11 +71,11 @@ void main() {
             .first,
       );
       expect(lastCard.bottom, lessThanOrEqualTo(tester.getRect(fab).top));
-      expect(tester.getRect(fab).size, const Size(56, 56));
+      expect(tester.getRect(fab).size, const Size(52, 52));
       expect(
-        tester.getRect(find.byType(NavigationBar)).top -
-            tester.getRect(fab).bottom,
-        16,
+        tester.getRect(fab).left -
+            tester.getRect(find.byType(FloatingPillNav)).right,
+        8,
       );
       expect(tester.takeException(), isNull);
       await tester.pumpWidget(const SizedBox.shrink());
@@ -88,7 +89,7 @@ void main() {
     await tester.pumpWidget(fixture.app());
     await tester.pumpAndSettle();
     expect(
-      tester.widget<NavigationBar>(find.byType(NavigationBar)).destinations,
+      tester.widget<FloatingPillNav>(find.byType(FloatingPillNav)).destinations,
       hasLength(2),
     );
     expect(nav('Paikot'), findsNothing);
@@ -99,9 +100,7 @@ void main() {
     );
     final semantics = tester.ensureSemantics();
     expect(
-      tester.getSemantics(
-        find.bySemanticsLabel(fixture.settings.strings.spinReadingHint).last,
-      ),
+      tester.getSemantics(fab),
       matchesSemantics(
         label: fixture.settings.strings.spinReadingHint,
         isButton: true,
@@ -127,7 +126,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(find.byType(SpinnerScreen), findsOneWidget);
     expect(find.byType(BackButton), findsOneWidget);
-    expect(find.byType(NavigationBar), findsNothing);
+    expect(find.byType(FloatingPillNav), findsNothing);
     await tester.pageBack();
     await tester.pumpAndSettle();
     expect(fab, findsOneWidget);
@@ -162,6 +161,20 @@ void main() {
     },
   );
 
+  testWidgets('tapping the anchored hint dismisses it without opening a book', (
+    tester,
+  ) async {
+    libraryPhone(tester, const Size(320, 640));
+    await tester.pumpWidget(fixture.app());
+    await tester.pumpAndSettle();
+    await tester.tap(hint);
+    await tester.pumpAndSettle();
+    expect(hint, findsNothing);
+    expect(find.byType(ChapterScreen), findsNothing);
+    expect(fab.hitTestable(), findsOneWidget);
+    await tester.pumpWidget(const SizedBox.shrink());
+  });
+
   testWidgets('hint times out after six seconds without interaction', (
     tester,
   ) async {
@@ -188,7 +201,7 @@ void main() {
           expect(find.text('Genesis').hitTestable(), findsOneWidget);
           expect(
             tester.getRect(fab).bottom,
-            lessThan(tester.getRect(find.byType(NavigationBar)).top),
+            tester.getRect(find.byType(FloatingPillNav)).bottom,
           );
           await tester.drag(chips, const Offset(-1000, 0));
           await tester.pumpAndSettle();

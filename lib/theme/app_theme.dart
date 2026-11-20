@@ -182,37 +182,6 @@ ThemeData _build(Brightness brightness) {
       backgroundColor: scheme.secondary,
       foregroundColor: scheme.onSecondary,
     ),
-    navigationBarTheme: NavigationBarThemeData(
-      height: 72,
-      elevation: 0,
-      backgroundColor: scheme.surface,
-      surfaceTintColor: Colors.transparent,
-      indicatorColor: scheme.primaryContainer,
-      indicatorShape: const StadiumBorder(),
-      labelPadding: const EdgeInsets.only(top: 5),
-      iconTheme: WidgetStateProperty.resolveWith(
-        (states) => IconThemeData(
-          size: 20,
-          color: states.contains(WidgetState.selected)
-              ? scheme.primary
-              : scheme.onSurfaceVariant,
-        ),
-      ),
-      labelTextStyle: WidgetStateProperty.resolveWith(
-        (states) => TextStyle(
-          fontFamily: AppTypography.sans,
-          fontSize: 11,
-          height: 1.2,
-          letterSpacing: 0,
-          color: states.contains(WidgetState.selected)
-              ? scheme.primary
-              : scheme.onSurfaceVariant,
-          fontWeight: states.contains(WidgetState.selected)
-              ? FontWeight.w600
-              : FontWeight.w400,
-        ),
-      ),
-    ),
     segmentedButtonTheme: SegmentedButtonThemeData(
       style: ButtonStyle(
         backgroundColor: WidgetStateProperty.resolveWith(

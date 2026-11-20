@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import '../../widgets/app_header.dart';
 import '../../widgets/page_heading.dart';
+import '../../widgets/floating_pill_nav.dart';
 
 import '../../data/account_controller.dart';
 import '../../data/cloud_repository.dart';
@@ -109,7 +110,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
           root: true,
           themeToggle: true,
         ),
-        body: const SizedBox.shrink(),
+        body: const _LeaderboardStatusBody(child: SizedBox.shrink()),
       );
     }
 
@@ -123,7 +124,7 @@ class _LeaderboardScreenState extends State<LeaderboardScreen>
           root: true,
           themeToggle: true,
         ),
-        body: const Center(child: CircularProgressIndicator()),
+        body: const _LeaderboardStatusBody(child: CircularProgressIndicator()),
       );
     }
 
@@ -174,66 +175,60 @@ class _LeaderboardBody extends StatelessWidget {
     final scheme = theme.colorScheme;
 
     if (ctrl.status == LeaderboardStatus.offline) {
-      return Center(
-        child: Padding(
-          padding: const EdgeInsets.all(32),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(
-                Icons.cloud_off_outlined,
-                size: 64,
+      return _LeaderboardStatusBody(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(
+              Icons.cloud_off_outlined,
+              size: 64,
+              color: scheme.onSurfaceVariant,
+            ),
+            const SizedBox(height: 16),
+            Text(
+              strings.leaderboardOffline as String,
+              textAlign: TextAlign.center,
+              style: theme.textTheme.bodyMedium?.copyWith(
                 color: scheme.onSurfaceVariant,
               ),
-              const SizedBox(height: 16),
-              Text(
-                strings.leaderboardOffline as String,
-                textAlign: TextAlign.center,
-                style: theme.textTheme.bodyMedium?.copyWith(
-                  color: scheme.onSurfaceVariant,
-                ),
-              ),
-              const SizedBox(height: 24),
-              FilledButton.tonal(
-                onPressed: onRetry,
-                child: Text(strings.leaderboardRetry as String),
-              ),
-            ],
-          ),
+            ),
+            const SizedBox(height: 24),
+            FilledButton.tonal(
+              onPressed: onRetry,
+              child: Text(strings.leaderboardRetry as String),
+            ),
+          ],
         ),
       );
     }
 
     if (ctrl.status == LeaderboardStatus.empty) {
-      return Center(
-        child: Padding(
-          padding: const EdgeInsets.all(32),
-          child: Column(
-            mainAxisSize: MainAxisSize.min,
-            children: [
-              Icon(
-                Icons.emoji_events_outlined,
-                size: 64,
+      return _LeaderboardStatusBody(
+        child: Column(
+          mainAxisSize: MainAxisSize.min,
+          children: [
+            Icon(
+              Icons.emoji_events_outlined,
+              size: 64,
+              color: scheme.onSurfaceVariant,
+            ),
+            const SizedBox(height: 16),
+            Text(
+              strings.leaderboardEmpty as String,
+              textAlign: TextAlign.center,
+              style: theme.textTheme.bodyMedium?.copyWith(
                 color: scheme.onSurfaceVariant,
               ),
-              const SizedBox(height: 16),
-              Text(
-                strings.leaderboardEmpty as String,
-                textAlign: TextAlign.center,
-                style: theme.textTheme.bodyMedium?.copyWith(
-                  color: scheme.onSurfaceVariant,
-                ),
+            ),
+            const SizedBox(height: 12),
+            Text(
+              strings.leaderboardOptInPrompt as String,
+              textAlign: TextAlign.center,
+              style: theme.textTheme.bodySmall?.copyWith(
+                color: scheme.onSurfaceVariant,
               ),
-              const SizedBox(height: 12),
-              Text(
-                strings.leaderboardOptInPrompt as String,
-                textAlign: TextAlign.center,
-                style: theme.textTheme.bodySmall?.copyWith(
-                  color: scheme.onSurfaceVariant,
-                ),
-              ),
-            ],
-          ),
+            ),
+          ],
         ),
       );
     }
@@ -243,41 +238,52 @@ class _LeaderboardBody extends StatelessWidget {
     final ownRank = ctrl.ownRank;
     final meInTop50 = entries.any((e) => e.uid == currentUid);
 
-    return Column(
-      children: [
-        PageHeading(title: context.s.leaderboardTitle),
+    return CustomScrollView(
+      key: const ValueKey('leaderboard-list'),
+      slivers: [
+        SliverToBoxAdapter(
+          child: PageHeading(title: context.s.leaderboardTitle),
+        ),
         // ---- Own rank banner (shown when outside top 50 and rank is known) ----
         if (!meInTop50 && ownRank != null && ownRank > 0)
-          InkWell(
-            onTap: () => showProfilePreview(
-              context: context,
-              uid: currentUid,
-              currentUid: currentUid,
-              username: settings.username ?? context.s.defaultUsername,
-              chaptersRead: progress.chaptersReadLifetime,
-              progress: progress,
-              cloud: cloud,
-            ),
-            child: _OwnRankBanner(
-              rank: ownRank,
-              chaptersRead: progress.chaptersReadLifetime,
-              username: settings.username ?? context.s.defaultUsername,
-              strings: strings,
-              scheme: scheme,
-              theme: theme,
+          SliverToBoxAdapter(
+            child: InkWell(
+              onTap: () => showProfilePreview(
+                context: context,
+                uid: currentUid,
+                currentUid: currentUid,
+                username: settings.username ?? context.s.defaultUsername,
+                chaptersRead: progress.chaptersReadLifetime,
+                progress: progress,
+                cloud: cloud,
+              ),
+              child: _OwnRankBanner(
+                rank: ownRank,
+                chaptersRead: progress.chaptersReadLifetime,
+                username: settings.username ?? context.s.defaultUsername,
+                strings: strings,
+                scheme: scheme,
+                theme: theme,
+              ),
             ),
           ),
 
         // ---- Hint if the user is not opted in ----
         if (!settings.showOnLeaderboard)
-          _OptInHint(strings: strings, scheme: scheme, theme: theme),
+          SliverToBoxAdapter(
+            child: _OptInHint(strings: strings, scheme: scheme, theme: theme),
+          ),
 
         // ---- List ----
-        Expanded(
-          child: ListView.builder(
-            padding: const EdgeInsets.fromLTRB(16, 8, 16, 24),
-            itemCount: entries.length,
-            itemBuilder: (context, i) {
+        SliverPadding(
+          padding: EdgeInsets.fromLTRB(
+            16,
+            8,
+            16,
+            floatingNavContentPadding(context),
+          ),
+          sliver: SliverList(
+            delegate: SliverChildBuilderDelegate((context, i) {
               final entry = entries[i];
               final rank = i + 1;
               final isMe = entry.uid == currentUid;
@@ -302,7 +308,7 @@ class _LeaderboardBody extends StatelessWidget {
                   strings: strings,
                 ),
               );
-            },
+            }, childCount: entries.length),
           ),
         ),
       ],
@@ -311,6 +317,32 @@ class _LeaderboardBody extends StatelessWidget {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
+
+/// Keeps every status reachable above the floating controls on short screens.
+class _LeaderboardStatusBody extends StatelessWidget {
+  const _LeaderboardStatusBody({required this.child});
+  final Widget child;
+
+  @override
+  Widget build(BuildContext context) => LayoutBuilder(
+    builder: (context, constraints) {
+      final bottom = floatingNavContentPadding(context);
+      return SingleChildScrollView(
+        key: const ValueKey('leaderboard-status'),
+        padding: EdgeInsets.fromLTRB(32, 32, 32, bottom),
+        child: ConstrainedBox(
+          constraints: BoxConstraints(
+            minHeight: (constraints.maxHeight - 32 - bottom).clamp(
+              0,
+              double.infinity,
+            ),
+          ),
+          child: Center(child: child),
+        ),
+      );
+    },
+  );
+}
 
 class _OwnRankBanner extends StatelessWidget {
   const _OwnRankBanner({

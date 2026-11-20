@@ -1,3 +1,4 @@
+import 'package:bible_track/widgets/floating_pill_nav.dart';
 import 'dart:io';
 import 'dart:ui' as ui;
 
@@ -165,8 +166,11 @@ void main() {
     phone(tester, const Size(390, 844));
     await tester.pumpWidget(app(home()));
     await tester.pumpAndSettle();
-    final navigation = find.byType(NavigationBar);
-    expect(tester.widget<NavigationBar>(navigation).destinations, hasLength(2));
+    final navigation = find.byType(FloatingPillNav);
+    expect(
+      tester.widget<FloatingPillNav>(navigation).destinations,
+      hasLength(2),
+    );
     expect(
       find.descendant(of: navigation, matching: find.text('Profile')),
       findsNothing,
@@ -176,13 +180,13 @@ void main() {
         find.descendant(of: navigation, matching: find.text(tab)),
       );
       await tester.pumpAndSettle();
-      final index = tester.widget<NavigationBar>(navigation).selectedIndex;
+      final index = tester.widget<FloatingPillNav>(navigation).selectedIndex;
       await tester.tap(find.byKey(const ValueKey('header-profile-action')));
       await tester.pumpAndSettle();
       expect(find.byType(ProfileScreen), findsOneWidget);
       await tester.pageBack();
       await tester.pumpAndSettle();
-      expect(tester.widget<NavigationBar>(navigation).selectedIndex, index);
+      expect(tester.widget<FloatingPillNav>(navigation).selectedIndex, index);
       expect(progress.chaptersReadTotal, 13);
       expect(tester.takeException(), isNull);
     }

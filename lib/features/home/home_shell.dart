@@ -9,6 +9,7 @@ import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
 import '../../settings_scope.dart';
 import '../../widgets/spin_wheel_icon.dart';
+import '../../widgets/floating_pill_nav.dart';
 import '../books/books_screen.dart';
 import '../leaderboard/leaderboard_screen.dart';
 import '../spinner/spinner_screen.dart';
@@ -38,6 +39,7 @@ class _HomeShellState extends State<HomeShell> {
   bool _hintChecked = false;
   bool _showSpinHint = false;
   Timer? _hintTimer;
+  final _spinAnchor = LayerLink();
 
   @override
   void didChangeDependencies() {
@@ -83,110 +85,207 @@ class _HomeShellState extends State<HomeShell> {
   Widget build(BuildContext context) {
     final strings = context.s;
 
+    final padding = MediaQuery.paddingOf(context);
+    final reducedMotion = MediaQuery.disableAnimationsOf(context);
+    final duration = reducedMotion
+        ? Duration.zero
+        : const Duration(milliseconds: 200);
+
     return Listener(
       behavior: HitTestBehavior.translucent,
       onPointerDown: (_) => _dismissSpinHint(),
       child: Scaffold(
-        body: IndexedStack(
-          index: _index,
+        body: Stack(
+          fit: StackFit.expand,
           children: [
-            BooksScreen(
-              progress: widget.progress,
-              account: widget.account,
-              cloud: widget.cloud,
-              quizRepo: widget.quizRepo,
+            IndexedStack(
+              index: _index,
+              children: [
+                BooksScreen(
+                  progress: widget.progress,
+                  account: widget.account,
+                  cloud: widget.cloud,
+                  quizRepo: widget.quizRepo,
+                ),
+                LeaderboardScreen(
+                  progress: widget.progress,
+                  account: widget.account,
+                  cloud: widget.cloud,
+                ),
+              ],
             ),
-            LeaderboardScreen(
-              progress: widget.progress,
-              account: widget.account,
-              cloud: widget.cloud,
-            ),
-          ],
-        ),
-        floatingActionButton: _index == 0
-            ? SizedBox(
-                width: _showSpinHint
-                    ? math.min(
-                        320,
-                        MediaQuery.sizeOf(context).width -
-                            MediaQuery.paddingOf(context).horizontal -
-                            32,
-                      )
-                    : 56,
-                child: Row(
-                  mainAxisSize: MainAxisSize.min,
-                  crossAxisAlignment: CrossAxisAlignment.end,
-                  children: [
-                    if (_showSpinHint) ...[
-                      Expanded(
-                        child: Semantics(
-                          liveRegion: true,
-                          child: Material(
-                            key: const ValueKey('spin-fab-hint'),
-                            elevation: 2,
-                            color: Theme.of(context).colorScheme.inverseSurface,
-                            borderRadius: BorderRadius.circular(12),
-                            child: Padding(
-                              padding: const EdgeInsets.all(12),
-                              child: Text(
-                                strings.spinReadingHint,
-                                style: Theme.of(context).textTheme.bodySmall
-                                    ?.copyWith(
-                                      color: Theme.of(
-                                        context,
-                                      ).colorScheme.onInverseSurface,
+            if (MediaQuery.viewInsetsOf(context).bottom == 0)
+              Positioned(
+                left: padding.left + 16,
+                right: padding.right + 16,
+                bottom: padding.bottom + 12,
+                child: LayoutBuilder(
+                  builder: (context, constraints) {
+                    final pillWidth = math.min(
+                      232.0,
+                      constraints.maxWidth - 60,
+                    );
+                    return Stack(
+                      clipBehavior: Clip.none,
+                      children: [
+                        Center(
+                          child: TweenAnimationBuilder<double>(
+                            tween: Tween(begin: 1, end: _index == 0 ? 1 : 0),
+                            duration: duration,
+                            curve: Curves.easeInOut,
+                            builder: (context, visibility, _) => SizedBox(
+                              key: const ValueKey('home-navigation-row'),
+                              width: pillWidth + 60 * visibility,
+                              height: FloatingPillNav.height,
+                              child: Stack(
+                                clipBehavior: Clip.none,
+                                children: [
+                                  SizedBox(
+                                    width: pillWidth,
+                                    child: FloatingPillNav(
+                                      selectedIndex: _index,
+                                      onDestinationSelected: (i) {
+                                        _dismissSpinHint();
+                                        setState(() => _index = i);
+                                      },
+                                      destinations: [
+                                        FloatingPillDestination(
+                                          icon: Icons.menu_book_outlined,
+                                          selectedIcon: Icons.menu_book,
+                                          label: strings.navBooks,
+                                        ),
+                                        FloatingPillDestination(
+                                          icon: Icons.emoji_events_outlined,
+                                          selectedIcon: Icons.emoji_events,
+                                          label: strings.navLeaderboard,
+                                        ),
+                                      ],
                                     ),
+                                  ),
+                                  if (visibility > 0)
+                                    Positioned(
+                                      left: pillWidth + 8,
+                                      top: 0,
+                                      child: _SpinButton(
+                                        active: _index == 0,
+                                        visibility: visibility,
+                                        anchor: _spinAnchor,
+                                        onPressed: _openSpinner,
+                                      ),
+                                    ),
+                                ],
                               ),
                             ),
                           ),
                         ),
-                      ),
-                      const SizedBox(width: 12),
-                    ],
-                    SizedBox.square(
-                      dimension: 56,
-                      child: FloatingActionButton(
-                        key: const ValueKey('spin-fab'),
-                        tooltip: strings.spinReadingHint,
-                        onPressed: _openSpinner,
-                        child: Semantics(
-                          label: strings.spinReadingHint,
-                          child: const SpinWheelIcon(),
+                      ],
+                    );
+                  },
+                ),
+              ),
+            if (_showSpinHint &&
+                _index == 0 &&
+                MediaQuery.viewInsetsOf(context).bottom == 0)
+              Positioned.fill(
+                child: Stack(
+                  clipBehavior: Clip.none,
+                  children: [
+                    Positioned(
+                      left: 0,
+                      top: 0,
+                      child: CompositedTransformFollower(
+                        link: _spinAnchor,
+                        showWhenUnlinked: false,
+                        targetAnchor: Alignment.topRight,
+                        followerAnchor: Alignment.bottomRight,
+                        offset: const Offset(0, -8),
+                        child: _SpinHint(
+                          maxWidth: math.min(
+                            280,
+                            MediaQuery.sizeOf(context).width -
+                                padding.horizontal -
+                                32,
+                          ),
                         ),
                       ),
                     ),
                   ],
                 ),
-              )
-            : null,
-        floatingActionButtonLocation: FloatingActionButtonLocation.endFloat,
-        bottomNavigationBar: DecoratedBox(
-          decoration: BoxDecoration(
-            border: Border(
-              top: BorderSide(
-                color: Theme.of(context).colorScheme.outlineVariant,
+              ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+class _SpinButton extends StatelessWidget {
+  const _SpinButton({
+    required this.active,
+    required this.visibility,
+    required this.anchor,
+    required this.onPressed,
+  });
+  final bool active;
+  final double visibility;
+  final LayerLink anchor;
+  final VoidCallback onPressed;
+
+  @override
+  Widget build(BuildContext context) => IgnorePointer(
+    ignoring: !active,
+    child: ExcludeSemantics(
+      excluding: !active,
+      child: Opacity(
+        opacity: visibility,
+        child: Transform.scale(
+          scale: visibility,
+          child: CompositedTransformTarget(
+            link: anchor,
+            child: SizedBox.square(
+              dimension: FloatingPillNav.height,
+              child: FloatingActionButton(
+                key: const ValueKey('spin-fab'),
+                tooltip: context.s.spinReadingHint,
+                shape: const CircleBorder(),
+                onPressed: onPressed,
+                child: Semantics(
+                  label: context.s.spinReadingHint,
+                  child: const SpinWheelIcon(),
+                ),
               ),
             ),
           ),
-          child: NavigationBar(
-            animationDuration: MediaQuery.disableAnimationsOf(context)
-                ? Duration.zero
-                : const Duration(milliseconds: 220),
-            selectedIndex: _index,
-            onDestinationSelected: (i) => setState(() => _index = i),
-            labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
-            destinations: [
-              NavigationDestination(
-                icon: const Icon(Icons.menu_book_outlined),
-                selectedIcon: const Icon(Icons.menu_book),
-                label: strings.navBooks,
-              ),
-              NavigationDestination(
-                icon: const Icon(Icons.emoji_events_outlined),
-                selectedIcon: const Icon(Icons.emoji_events),
-                label: strings.navLeaderboard,
-              ),
-            ],
+        ),
+      ),
+    ),
+  );
+}
+
+class _SpinHint extends StatelessWidget {
+  const _SpinHint({required this.maxWidth});
+  final double maxWidth;
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    return SizedBox(
+      width: maxWidth,
+      child: Semantics(
+        liveRegion: true,
+        child: Material(
+          key: const ValueKey('spin-fab-hint'),
+          elevation: 2,
+          color: scheme.inverseSurface,
+          borderRadius: BorderRadius.circular(12),
+          child: Padding(
+            padding: const EdgeInsets.all(12),
+            child: Text(
+              context.s.spinReadingHint,
+              style: Theme.of(
+                context,
+              ).textTheme.bodySmall?.copyWith(color: scheme.onInverseSurface),
+            ),
           ),
         ),
       ),

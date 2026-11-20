@@ -9,6 +9,7 @@ import '../../models/book.dart';
 import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
+import '../../widgets/floating_pill_nav.dart';
 import '../intro/intro_screen.dart';
 import 'chapter_screen.dart';
 
@@ -92,7 +93,12 @@ class _BooksScreenState extends State<BooksScreen> {
                   key: ValueKey(_section),
                   slivers: [
                     SliverPadding(
-                      padding: const EdgeInsets.fromLTRB(16, 0, 16, 96),
+                      padding: EdgeInsets.fromLTRB(
+                        16,
+                        0,
+                        16,
+                        floatingNavContentPadding(context),
+                      ),
                       sliver: SliverList(
                         delegate: SliverChildBuilderDelegate((context, index) {
                           if (index.isOdd) return const SizedBox(height: 10);

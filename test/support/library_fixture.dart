@@ -1,4 +1,6 @@
 import 'package:bible_track/data/account_controller.dart';
+import 'package:bible_track/data/auth_service.dart';
+import 'package:bible_track/data/cloud_repository.dart';
 import 'package:bible_track/data/progress_controller.dart';
 import 'package:bible_track/data/quiz_repository.dart';
 import 'package:bible_track/data/settings_controller.dart';
@@ -17,10 +19,14 @@ import 'package:hive_ce/hive.dart';
 import '../widget_test.dart' show FakeAuthService, FakeCloudRepository;
 
 class LibraryFixture {
+  LibraryFixture({CloudRepository? cloud, AuthService? auth})
+    : cloud = cloud ?? FakeCloudRepository(),
+      auth = auth ?? FakeAuthService();
+  final AuthService auth;
   late final SettingsController settings;
   late final ProgressController progress;
   late final AccountController account;
-  final cloud = FakeCloudRepository();
+  final CloudRepository cloud;
   final quiz = QuizRepository();
   late final Box<dynamic> settingsBox;
 
@@ -31,7 +37,7 @@ class LibraryFixture {
       await Hive.openBox('library_p', bytes: Uint8List(0)),
     );
     account = AccountController(
-      auth: FakeAuthService(),
+      auth: auth,
       cloud: cloud,
       progress: progress,
       settings: settings,
@@ -48,6 +54,7 @@ class LibraryFixture {
   }) => SettingsScope(
     controller: settings,
     child: MaterialApp(
+      debugShowCheckedModeBanner: false,
       theme: dark ? darkTheme : lightTheme,
       builder: (context, child) => MediaQuery(
         data: MediaQuery.of(context).copyWith(
