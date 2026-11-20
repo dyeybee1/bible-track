@@ -95,7 +95,10 @@ void main() {
       );
       await tester.pumpAndSettle();
       expect(find.byType(NavigationBar), findsNothing);
-      expect(tester.getSize(pill).height, 52);
+      expect(tester.getSize(pill).height, 68);
+      expect(tester.getSize(pill).width, 200);
+      expect(tester.getSize(fab), const Size(56, 56));
+      expect(tester.getCenter(fab).dy, tester.getCenter(pill).dy);
       expect(tester.getRect(pill).bottom, 640 - 24 - 12);
       expect(tester.getRect(fab).left - tester.getRect(pill).right, 8);
       expect((tester.getRect(pill).left + tester.getRect(fab).right) / 2, 160);
@@ -103,6 +106,7 @@ void main() {
       for (var i = 0; i < 2; i++) {
         expect(tester.getSize(item(i)).height, greaterThanOrEqualTo(48));
         expect(tester.getSize(item(i)).width, greaterThanOrEqualTo(48));
+        expect(tester.getSize(item(i)).width, 94);
         expect(
           tester.getSemantics(item(i)),
           matchesSemantics(
@@ -129,11 +133,59 @@ void main() {
         (indicator.decoration! as BoxDecoration).color,
         scheme.primaryContainer,
       );
+      expect(
+        tester.getSize(find.byKey(const ValueKey('floating-nav-indicator-0'))),
+        const Size(64, 32),
+      );
+      expect(
+        tester
+            .widget<Icon>(
+              find.descendant(of: pill, matching: find.byType(Icon)).first,
+            )
+            .size,
+        24,
+      );
       final material = tester.widget<Material>(
         find.descendant(of: pill, matching: find.byType(Material)).first,
       );
-      expect(material.color, scheme.surface);
+      expect(material.color, scheme.surfaceContainerHigh);
+      expect(material.color!.a, 1);
+      expect(material.color, isNot(scheme.surface));
       expect(material.shape, isA<StadiumBorder>());
+      expect((material.shape! as StadiumBorder).side.width, 1);
+      expect(
+        (material.shape! as StadiumBorder).side.color,
+        scheme.outlineVariant,
+      );
+      final decoration =
+          tester
+                  .widget<DecoratedBox>(
+                    find
+                        .descendant(
+                          of: pill,
+                          matching: find.byType(DecoratedBox),
+                        )
+                        .first,
+                  )
+                  .decoration
+              as ShapeDecoration;
+      expect(decoration.shadows!.single.blurRadius, 18);
+      expect(decoration.shadows!.single.offset, const Offset(0, 5));
+      final fabDecoration =
+          tester
+                  .widget<DecoratedBox>(
+                    find
+                        .ancestor(of: fab, matching: find.byType(DecoratedBox))
+                        .first,
+                  )
+                  .decoration
+              as BoxDecoration;
+      expect(fabDecoration.boxShadow, decoration.shadows);
+      final label = find.descendant(of: pill, matching: find.text('Mga Libro'));
+      expect(
+        tester.getRect(pill).bottom - tester.getRect(label).bottom,
+        greaterThanOrEqualTo(8),
+      );
       await tester.tap(item(1));
       await tester.pump();
       await tester.pump(const Duration(milliseconds: 100));
@@ -215,6 +267,41 @@ void main() {
             closeTo(8, .1),
           );
           expect(tester.getRect(hint).left, greaterThanOrEqualTo(16));
+          expect(tester.getSize(pill).height, greaterThan(68));
+          expect(tester.getSize(pill).width, 200);
+          expect(
+            tester.getCenter(fab).dy,
+            closeTo(tester.getCenter(pill).dy, .01),
+          );
+          final navMaterial = tester.widget<Material>(
+            find.descendant(of: pill, matching: find.byType(Material)).first,
+          );
+          final scheme = Theme.of(tester.element(pill)).colorScheme;
+          expect(navMaterial.color, scheme.surfaceContainerHigh);
+          expect(navMaterial.color!.a, 1);
+          for (var i = 0; i < 2; i++) {
+            final capsule = find.byKey(ValueKey('floating-nav-indicator-$i'));
+            final label = find.descendant(
+              of: item(i),
+              matching: find.byType(Text),
+            );
+            expect(tester.getSize(capsule), const Size(64, 32));
+            expect(
+              tester.getRect(capsule).top - tester.getRect(pill).top,
+              closeTo(8, .01),
+            );
+            expect(
+              tester.getRect(label).top - tester.getRect(capsule).bottom,
+              greaterThanOrEqualTo(4),
+            );
+            expect(
+              tester.getRect(pill).bottom - tester.getRect(label).bottom,
+              greaterThanOrEqualTo(8),
+            );
+          }
+          await tester.tap(item(0));
+          await tester.pumpAndSettle();
+          await capture(tester, captureKey, 'pill-books-clear-$lang-$dark');
           final books = find.byType(CustomScrollView).first;
           final booksScroll = find.descendant(
             of: books,
@@ -410,7 +497,7 @@ void main() {
       }
       await tester.drag(
         find.descendant(of: pill, matching: find.byType(SingleChildScrollView)),
-        const Offset(-200, 0),
+        const Offset(-1000, 0),
       );
       await tester.pumpAndSettle();
       await tester.tap(item(4));

@@ -71,7 +71,7 @@ void main() {
             .first,
       );
       expect(lastCard.bottom, lessThanOrEqualTo(tester.getRect(fab).top));
-      expect(tester.getRect(fab).size, const Size(52, 52));
+      expect(tester.getRect(fab).size, const Size(56, 56));
       expect(
         tester.getRect(fab).left -
             tester.getRect(find.byType(FloatingPillNav)).right,
@@ -200,8 +200,8 @@ void main() {
           expect(hint, findsOneWidget);
           expect(find.text('Genesis').hitTestable(), findsOneWidget);
           expect(
-            tester.getRect(fab).bottom,
-            tester.getRect(find.byType(FloatingPillNav)).bottom,
+            tester.getCenter(fab).dy,
+            tester.getCenter(find.byType(FloatingPillNav)).dy,
           );
           await tester.drag(chips, const Offset(-1000, 0));
           await tester.pumpAndSettle();

@@ -272,6 +272,17 @@ ThemeData _build(Brightness brightness) {
 final ThemeData lightTheme = _build(Brightness.light);
 final ThemeData darkTheme = _build(Brightness.dark);
 
+/// Consistent separation for the home shell's floating navigation controls.
+List<BoxShadow> floatingControlShadows(BuildContext context) => [
+  BoxShadow(
+    color: Theme.of(context).colorScheme.shadow.withValues(
+      alpha: Theme.of(context).brightness == Brightness.light ? .14 : .3,
+    ),
+    blurRadius: 18,
+    offset: const Offset(0, 5),
+  ),
+];
+
 /// Soft green fill for completed chapters, progress bars, and completion banners.
 Color doneColor(BuildContext context) =>
     Theme.of(context).colorScheme.primaryContainer;

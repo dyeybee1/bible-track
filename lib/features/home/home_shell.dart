@@ -8,6 +8,7 @@ import '../../data/cloud_repository.dart';
 import '../../data/progress_controller.dart';
 import '../../data/quiz_repository.dart';
 import '../../settings_scope.dart';
+import '../../theme/app_theme.dart';
 import '../../widgets/spin_wheel_icon.dart';
 import '../../widgets/floating_pill_nav.dart';
 import '../books/books_screen.dart';
@@ -35,6 +36,8 @@ class HomeShell extends StatefulWidget {
 }
 
 class _HomeShellState extends State<HomeShell> {
+  static const _spinButtonSize = 56.0;
+  static const _spinGap = 8.0;
   int _index = 0;
   bool _hintChecked = false;
   bool _showSpinHint = false;
@@ -86,6 +89,8 @@ class _HomeShellState extends State<HomeShell> {
     final strings = context.s;
 
     final padding = MediaQuery.paddingOf(context);
+    final pillHeight = FloatingPillNav.heightOf(context);
+    const spinSpace = _spinButtonSize + _spinGap;
     final reducedMotion = MediaQuery.disableAnimationsOf(context);
     final duration = reducedMotion
         ? Duration.zero
@@ -122,8 +127,8 @@ class _HomeShellState extends State<HomeShell> {
                 child: LayoutBuilder(
                   builder: (context, constraints) {
                     final pillWidth = math.min(
-                      232.0,
-                      constraints.maxWidth - 60,
+                      FloatingPillNav.widthFor(2),
+                      constraints.maxWidth - spinSpace,
                     );
                     return Stack(
                       clipBehavior: Clip.none,
@@ -135,8 +140,8 @@ class _HomeShellState extends State<HomeShell> {
                             curve: Curves.easeInOut,
                             builder: (context, visibility, _) => SizedBox(
                               key: const ValueKey('home-navigation-row'),
-                              width: pillWidth + 60 * visibility,
-                              height: FloatingPillNav.height,
+                              width: pillWidth + spinSpace * visibility,
+                              height: pillHeight,
                               child: Stack(
                                 clipBehavior: Clip.none,
                                 children: [
@@ -164,8 +169,8 @@ class _HomeShellState extends State<HomeShell> {
                                   ),
                                   if (visibility > 0)
                                     Positioned(
-                                      left: pillWidth + 8,
-                                      top: 0,
+                                      left: pillWidth + _spinGap,
+                                      top: (pillHeight - _spinButtonSize) / 2,
                                       child: _SpinButton(
                                         active: _index == 0,
                                         visibility: visibility,
@@ -201,7 +206,7 @@ class _HomeShellState extends State<HomeShell> {
                         offset: const Offset(0, -8),
                         child: _SpinHint(
                           maxWidth: math.min(
-                            280,
+                            272,
                             MediaQuery.sizeOf(context).width -
                                 padding.horizontal -
                                 32,
@@ -243,15 +248,25 @@ class _SpinButton extends StatelessWidget {
           child: CompositedTransformTarget(
             link: anchor,
             child: SizedBox.square(
-              dimension: FloatingPillNav.height,
-              child: FloatingActionButton(
-                key: const ValueKey('spin-fab'),
-                tooltip: context.s.spinReadingHint,
-                shape: const CircleBorder(),
-                onPressed: onPressed,
-                child: Semantics(
-                  label: context.s.spinReadingHint,
-                  child: const SpinWheelIcon(),
+              dimension: _HomeShellState._spinButtonSize,
+              child: DecoratedBox(
+                decoration: BoxDecoration(
+                  shape: BoxShape.circle,
+                  boxShadow: floatingControlShadows(context),
+                ),
+                child: FloatingActionButton(
+                  key: const ValueKey('spin-fab'),
+                  tooltip: context.s.spinReadingHint,
+                  shape: const CircleBorder(),
+                  elevation: 0,
+                  focusElevation: 0,
+                  hoverElevation: 0,
+                  highlightElevation: 0,
+                  onPressed: onPressed,
+                  child: Semantics(
+                    label: context.s.spinReadingHint,
+                    child: const SpinWheelIcon(),
+                  ),
                 ),
               ),
             ),
