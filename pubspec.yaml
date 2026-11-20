@@ -61,13 +61,18 @@ flutter_launcher_icons:
   android: true
   ios: true
   remove_alpha_ios: true
-  image_path: "assets/icon/bible-track-icon-1024.png"
+  image_path: "assets/icon/bible-track-icon.png"
+  adaptive_icon_background: "#0F5C3F"
+  adaptive_icon_foreground: "assets/icon/bible-track-icon-foreground.png"
+  adaptive_icon_monochrome: "assets/icon/bible-track-icon-monochrome.png"
+  # The supplied adaptive layers already include their safe-zone padding.
+  adaptive_icon_foreground_inset: 0
   min_sdk_android: 21
   web:
     generate: true
-    image_path: "assets/icon/bible-track-icon-1024.png"
-    background_color: "#FAF9F5"
-    theme_color: "#0B5E42"
+    image_path: "assets/icon/bible-track-icon.png"
+    background_color: "#0F5C3F"
+    theme_color: "#0F5C3F"
   windows:
     generate: false
   macos:

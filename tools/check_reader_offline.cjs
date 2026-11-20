@@ -12,6 +12,13 @@ async function main() {
   const root = path.resolve('build/web');
   const releaseA = JSON.parse(fs.readFileSync(path.join(root, 'version.json'), 'utf8')).buildHash;
   if (!releaseA) throw new Error('Run node tools/build_pwa.cjs after flutter build web');
+  const iconFiles = ['favicon.png', 'icons/Icon-192.png', 'icons/Icon-512.png',
+    'icons/Icon-maskable-192.png', 'icons/Icon-maskable-512.png'];
+  const precache = JSON.parse(fs.readFileSync(path.join(root, 'version.json'), 'utf8')).precache;
+  const iconHashes = Object.fromEntries(iconFiles.map(name => {
+    assert(precache.includes(name), 'missing precached icon: ' + name);
+    return [name, createHash('sha256').update(fs.readFileSync(path.join(root, name))).digest('hex')];
+  }));
   const expectedAppA = createHash('sha256').update(fs.readFileSync(path.join(root, 'main.dart.js'))).digest('hex');
   const releaseRoot = path.resolve('build/reader_size/update-release-' + Date.now());
   fs.cpSync(root, releaseRoot, {recursive:true});
@@ -187,7 +194,16 @@ async function main() {
       const sans = await fetch('assets/assets/fonts/PlusJakartaSans.ttf');
       const bootstrap = await fetch('flutter_bootstrap.js');
       const shell = await (await fetch('index.html')).text();
+      const icons = {};
+      for (const name of ${JSON.stringify(iconFiles)}) {
+        const response = await fetch(name);
+        if (!response.ok) throw new Error('Offline icon missing: ' + name);
+        const bytes = await response.arrayBuffer();
+        icons[name] = Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256', bytes)),
+          byte => byte.toString(16).padStart(2, '0')).join('');
+      }
       return {web:web.chapters['1'][0].t, tagalog:tagalog.chapters['1'][0].t,
+        icons,
         mapping:mapping.schema_version, quiz:Array.isArray(quiz.chapters['1']) && quiz.chapters['1'].length > 0,
         renderer:renderer.ok, font:font.ok,
         serif:serif.ok && (await serif.arrayBuffer()).byteLength > 0,
@@ -198,11 +214,12 @@ async function main() {
     assert.equal(offline.tagalog, 'Nang pasimula ay nilikha ng Dios ang langit at ang lupa.');
     assert.equal(offline.mapping, 2); assert(offline.quiz); assert(offline.renderer); assert(offline.font);
     assert(offline.serif); assert(offline.sans); assert(offline.bootstrap); assert(offline.shell);
+    assert.deepEqual(offline.icons, iconHashes, 'all five offline icons match the release bytes');
     const result = {browser:'headless Chromium', httpCacheDisabled:true, networkOffline:true,
       staticCacheFiles:ready.files, releaseA, releaseB,
       passed:['legacy migration without reload','waiting update banner','user-consented reload','old cache cleanup',
         'network-first shell','unvisited WEB book','unvisited Tagalog book','mapping','local quiz','local renderer','Roboto font',
-        'Newsreader font','Plus Jakarta Sans font','bootstrap','app shell']};
+        'Newsreader font','Plus Jakarta Sans font','bootstrap','app shell','all five PWA icons']};
     fs.writeFileSync('build/reader_size/offline_browser_check.json', JSON.stringify(result, null, 2) + '\n');
     console.log('PASS: legacy migration, consent update, cache cleanup and full offline assets (' + ready.files + ' cached files).');
   } finally {

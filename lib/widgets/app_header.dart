@@ -2,6 +2,7 @@ import 'dart:math' as math;
 import 'package:flutter/material.dart';
 
 import '../settings_scope.dart';
+import 'app_logo.dart';
 import 'profile_access.dart';
 
 /// Compact warm-paper header with the existing detail-page back action.
@@ -48,19 +49,7 @@ AppBar appHeader(
     title: root
         ? Row(
             children: [
-              Container(
-                width: 32,
-                height: 32,
-                decoration: BoxDecoration(
-                  color: theme.colorScheme.primaryContainer,
-                  shape: BoxShape.circle,
-                ),
-                child: Icon(
-                  Icons.menu_book_outlined,
-                  size: 18,
-                  color: theme.colorScheme.primary,
-                ),
-              ),
+              const ExcludeSemantics(child: ClipOval(child: AppLogo(size: 32))),
               const SizedBox(width: 8),
               Flexible(
                 child: Text(

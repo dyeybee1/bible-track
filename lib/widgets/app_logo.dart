@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'bible_track_mark.dart';
 
-/// The same brand mark used by the launcher, rendered sharply at any size.
+/// The launcher's sprout-and-book symbol, rendered from its exact SVG paths.
 class AppLogo extends StatelessWidget {
   const AppLogo({super.key, this.size = 96});
 

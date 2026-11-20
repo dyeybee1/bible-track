@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 
-import '../theme/app_theme.dart';
-
-/// The book, check, and progress mark in the shared brand palette.
-/// Used by the app and by tools/render_brand_icons.dart for launcher assets.
+/// Exact paths, colors, and transform from assets/icon/bible-track-icon.svg.
+/// Fixed brand colors keep the sprout and pages legible in either app theme.
 class BibleTrackMark extends CustomPainter {
   const BibleTrackMark({this.background = true});
 
@@ -14,78 +12,86 @@ class BibleTrackMark extends CustomPainter {
     canvas.save();
     canvas.scale(size.width / 1024, size.height / 1024);
     if (background) {
-      canvas.drawColor(AppPalette.cream, BlendMode.src);
+      canvas.drawRect(
+        const Rect.fromLTWH(0, 0, 1024, 1024),
+        Paint()..color = const Color(0xFF0F5C3F),
+      );
     }
-    final outline = Paint()
-      ..color = AppPalette.forest
-      ..style = PaintingStyle.stroke
-      ..strokeWidth = 28
-      ..strokeCap = StrokeCap.round
-      ..strokeJoin = StrokeJoin.round;
-    final cover = Path()
-      ..moveTo(285, 322)
-      ..lineTo(224, 322)
-      ..lineTo(224, 724)
-      ..lineTo(445, 724)
-      ..quadraticBezierTo(505, 773, 565, 724)
-      ..lineTo(786, 724)
-      ..lineTo(786, 322)
-      ..lineTo(720, 322);
-    canvas.drawPath(cover, outline);
-    final pages = Path()
-      ..moveTo(505, 736)
-      ..quadraticBezierTo(418, 660, 289, 664)
-      ..lineTo(289, 277)
-      ..quadraticBezierTo(420, 266, 505, 349)
-      ..quadraticBezierTo(588, 266, 720, 277)
-      ..lineTo(720, 664)
-      ..quadraticBezierTo(590, 660, 505, 736)
-      ..moveTo(505, 349)
-      ..lineTo(505, 736);
-    canvas.drawPath(pages, outline);
+    // <g transform="translate(32.0,20.0) scale(6.0)">
+    canvas.translate(32, 20);
+    canvas.scale(6);
 
-    final check = Path()
-      ..moveTo(552, 477)
-      ..lineTo(596, 522)
-      ..lineTo(703, 409);
+    final pages = Paint()..color = const Color(0xFFF6F1E4);
+    // M80 122 C66 112 46 110 28 114 L28 88 C46 84 66 86 80 96 Z
     canvas.drawPath(
-      check,
-      Paint()
-        ..color = AppPalette.cream
-        ..style = PaintingStyle.stroke
-        ..strokeWidth = 64
-        ..strokeCap = StrokeCap.round
-        ..strokeJoin = StrokeJoin.round,
+      Path()
+        ..moveTo(80, 122)
+        ..cubicTo(66, 112, 46, 110, 28, 114)
+        ..lineTo(28, 88)
+        ..cubicTo(46, 84, 66, 86, 80, 96)
+        ..close(),
+      pages,
     );
+    // M80 122 C94 112 114 110 132 114 L132 88 C114 84 94 86 80 96 Z
     canvas.drawPath(
-      check,
+      Path()
+        ..moveTo(80, 122)
+        ..cubicTo(94, 112, 114, 110, 132, 114)
+        ..lineTo(132, 88)
+        ..cubicTo(114, 84, 94, 86, 80, 96)
+        ..close(),
+      pages,
+    );
+    // M28 119 C46 115 66 117 80 127 C94 117 114 115 132 119
+    canvas.drawPath(
+      Path()
+        ..moveTo(28, 119)
+        ..cubicTo(46, 115, 66, 117, 80, 127)
+        ..cubicTo(94, 117, 114, 115, 132, 119),
       Paint()
-        ..color = AppPalette.mint
+        ..color = const Color(0xFFCFC6AE)
         ..style = PaintingStyle.stroke
-        ..strokeWidth = 36
-        ..strokeCap = StrokeCap.round
-        ..strokeJoin = StrokeJoin.round,
+        ..strokeWidth = 3
+        ..strokeCap = StrokeCap.round,
     );
-    canvas.drawRRect(
-      RRect.fromRectAndRadius(
-        const Rect.fromLTWH(422, 553, 392, 80),
-        const Radius.circular(40),
-      ),
-      Paint()..color = AppPalette.cream,
+    // M80 97 L80 121
+    canvas.drawPath(
+      Path()
+        ..moveTo(80, 97)
+        ..lineTo(80, 121),
+      Paint()
+        ..color = const Color(0xFFCFC6AE)
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 2,
     );
-    canvas.drawRRect(
-      RRect.fromRectAndRadius(
-        const Rect.fromLTWH(438, 569, 360, 48),
-        const Radius.circular(24),
-      ),
-      Paint()..color = const Color(0xFFE3DCE9),
+    // M80 98 L80 62
+    canvas.drawPath(
+      Path()
+        ..moveTo(80, 98)
+        ..lineTo(80, 62),
+      Paint()
+        ..color = const Color(0xFF7BC47F)
+        ..style = PaintingStyle.stroke
+        ..strokeWidth = 6
+        ..strokeCap = StrokeCap.round,
     );
-    canvas.drawRRect(
-      RRect.fromRectAndRadius(
-        const Rect.fromLTWH(438, 569, 220, 48),
-        const Radius.circular(24),
-      ),
-      Paint()..color = AppPalette.mint,
+    // M80 70 C58 70 44 58 41 40 C62 40 78 50 80 70 Z
+    canvas.drawPath(
+      Path()
+        ..moveTo(80, 70)
+        ..cubicTo(58, 70, 44, 58, 41, 40)
+        ..cubicTo(62, 40, 78, 50, 80, 70)
+        ..close(),
+      Paint()..color = const Color(0xFF4CAF6A),
+    );
+    // M80 64 C102 64 116 50 119 32 C98 32 82 42 80 64 Z
+    canvas.drawPath(
+      Path()
+        ..moveTo(80, 64)
+        ..cubicTo(102, 64, 116, 50, 119, 32)
+        ..cubicTo(98, 32, 82, 42, 80, 64)
+        ..close(),
+      Paint()..color = const Color(0xFF7BC47F),
     );
     canvas.restore();
   }
