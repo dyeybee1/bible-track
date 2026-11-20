@@ -418,8 +418,6 @@ class Strings {
   String get quizChooseAnswer => _t('Pumili ng sagot', 'Choose an answer');
   String get quizCheckAnswers => _t('Suriin ang mga sagot', 'Check answers');
   String get quizReviewTitle => _t('Konti na lang!', 'Almost there!');
-  String get quizCorrect => _t('Tama', 'Correct');
-  String get quizIncorrect => _t('Mali', 'Wrong');
   String get quizCorrectAnswer => _t('Tamang sagot', 'Correct answer');
   String get quizYourAnswerCorrect =>
       _t('Sagot mo, tama', 'Your answer, correct');
@@ -427,10 +425,8 @@ class Strings {
   String get quizRetry => _t('Subukan ulit', 'Try again');
   String get quizReadChapter => _t('Basahin ang kabanata', 'Read the chapter');
   String get quizReadFirst => _t('Basahin muna', 'Read first');
-  String get quizPassed => _t(
-    '🎉 Magaling! Natapos mo ang quiz!',
-    '🎉 Well done! You passed the quiz!',
-  );
+  String get quizPassed =>
+      _t('Magaling! Natapos mo ang quiz!', 'Well done! You passed the quiz!');
   String get quizLearnedTitle => _t('Natutunan mo', 'What you learned');
   String get quizMarkRead => _t('Markahan bilang nabasa', 'Mark as read');
   String get quizNoQuestions =>

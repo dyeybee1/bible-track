@@ -936,6 +936,97 @@ void main() {
     await tester.pumpAndSettle();
   }
 
+  void checkReviewOptions(
+    WidgetTester tester,
+    Finder card,
+    QuizQuestion question,
+    int selected,
+  ) {
+    final scheme = Theme.of(tester.element(card)).colorScheme;
+    final correct = selected == question.answer;
+    final options = question.options(settings.language);
+    for (final label in [
+      'Tama',
+      'Tamang sagot',
+      'Mali',
+      'Correct',
+      'Correct answer',
+      'Wrong',
+    ]) {
+      expect(
+        find.descendant(of: card, matching: find.text(label)),
+        findsNothing,
+      );
+    }
+    for (var i = 0; i < options.length; i++) {
+      final label = find.descendant(of: card, matching: find.text(options[i]));
+      final tile = find
+          .ancestor(of: label, matching: find.byType(Container))
+          .first;
+      final decoration =
+          tester.widget<Container>(tile).decoration! as BoxDecoration;
+      final highlighted = i == selected || (!correct && i == question.answer);
+      final wrong = i == selected && !correct;
+      final foreground = highlighted
+          ? (wrong ? scheme.onErrorContainer : scheme.onPrimaryContainer)
+          : scheme.onSurface;
+      expect(
+        decoration.color,
+        highlighted
+            ? (wrong ? scheme.errorContainer : scheme.primaryContainer)
+            : scheme.surfaceContainer,
+      );
+      expect(
+        decoration.border,
+        Border.all(
+          color: highlighted
+              ? (wrong ? scheme.error : scheme.primary).withValues(alpha: .25)
+              : Colors.transparent,
+        ),
+      );
+      expect(tester.widget<Text>(label).style!.color, foreground);
+      final icon = find.descendant(of: tile, matching: find.byType(Icon));
+      expect(
+        tester.widget<Icon>(icon).icon,
+        highlighted
+            ? (wrong ? Icons.close_rounded : Icons.check_rounded)
+            : Icons.radio_button_unchecked,
+      );
+      expect(
+        tester.widget<Icon>(icon).color,
+        highlighted ? foreground : scheme.outline,
+      );
+      expect(
+        find.descendant(of: tile, matching: find.byType(Text)),
+        findsOneWidget,
+      );
+      expect(
+        tester.getCenter(icon).dy,
+        closeTo(tester.getCenter(label).dy, .01),
+      );
+      // Only option text, existing padding and the border determine row height.
+      final contentHeight = (tester.getSize(label).height + 22).clamp(
+        48.0,
+        double.infinity,
+      );
+      expect(tester.getSize(tile).height, closeTo(contentHeight + 8, .01));
+      final semanticLabel = i == selected
+          ? (correct
+                ? settings.strings.quizYourAnswerCorrect
+                : settings.strings.quizYourAnswerWrong)
+          : !correct && i == question.answer
+          ? settings.strings.quizCorrectAnswer
+          : null;
+      final semantics = find
+          .ancestor(of: tile, matching: find.byType(Semantics))
+          .first;
+      expect(
+        tester.widget<Semantics>(semantics).properties.label,
+        [options[i], ?semanticLabel].join(', '),
+      );
+    }
+  }
+
   for (final lang in ['fil', 'en']) {
     testWidgets(
       '$lang four-question review preserves order, feedback and fresh retry',
@@ -995,24 +1086,7 @@ void main() {
             options,
           );
           final wrong = i == 1 || i == 3;
-          expect(
-            find.descendant(
-              of: card,
-              matching: find.text(
-                wrong
-                    ? settings.strings.quizIncorrect
-                    : settings.strings.quizCorrect,
-              ),
-            ),
-            findsOneWidget,
-          );
-          expect(
-            find.descendant(
-              of: card,
-              matching: find.text(settings.strings.quizCorrectAnswer),
-            ),
-            wrong ? findsOneWidget : findsNothing,
-          );
+          checkReviewOptions(tester, card, question, [0, 0, 2, 1][i]);
           expect(
             find.descendant(
               of: card,
@@ -1132,6 +1206,51 @@ void main() {
     );
 
     for (final dark in [false, true]) {
+      testWidgets(
+        '$lang learned screen has no confetti emoji at 320 px, dark=$dark',
+        (tester) async {
+          tester.view.physicalSize = const Size(320, 740);
+          tester.view.devicePixelRatio = 1;
+          addTearDown(tester.view.resetPhysicalSize);
+          addTearDown(tester.view.resetDevicePixelRatio);
+          settings.setLanguage(lang);
+          await tester.pumpWidget(app(quizHost(), dark: dark, scale: 1.6));
+          await tester.tap(find.text('Open quiz'));
+          await tester.pumpAndSettle();
+          await tester.ensureVisible(
+            find.text(lang == 'fil' ? 'Tama' : 'Correct'),
+          );
+          await tester.pumpAndSettle();
+          await tester.tap(find.text(lang == 'fil' ? 'Tama' : 'Correct'));
+          await tester.pumpAndSettle();
+          await tester.tap(find.byKey(const ValueKey('quiz-submit-action')));
+          await tester.pumpAndSettle();
+          expect(find.text(settings.strings.quizLearnedTitle), findsOneWidget);
+          final message = find.text(
+            lang == 'fil'
+                ? 'Magaling! Natapos mo ang quiz!'
+                : 'Well done! You passed the quiz!',
+          );
+          expect(message, findsOneWidget);
+          final text = tester.widget<Text>(message);
+          expect(text.textAlign, TextAlign.center);
+          for (final paragraph in tester.widgetList<RichText>(
+            find.byType(RichText),
+          )) {
+            expect(paragraph.text.toPlainText(), isNot(contains('🎉')));
+            expect(paragraph.text.toPlainText(), isNot(contains('🎊')));
+          }
+          expect(
+            find.text(
+              (await quiz.questionsFor('gen', 1)).single.explanation(lang),
+            ),
+            findsOneWidget,
+          );
+          expect(progress.chaptersRead('gen'), isEmpty);
+          expect(tester.takeException(), isNull);
+        },
+      );
+
       testWidgets('$lang review at 320 px and 1.6 text scale, dark=$dark', (
         tester,
       ) async {
@@ -1159,16 +1278,24 @@ void main() {
           find.text(settings.strings.quizReviewTitle).hitTestable(),
           findsOneWidget,
         );
-        for (final i in [1, 3]) {
-          final explanation = find.text(repo.questions[i].explanation(lang));
-          await tester.scrollUntilVisible(
-            explanation,
-            180,
-            scrollable: scrollable,
-          );
-          await tester.ensureVisible(explanation);
+        for (var i = 0; i < 4; i++) {
+          final card = find.byKey(ValueKey('quiz-review-card-$i'));
+          await tester.scrollUntilVisible(card, 180, scrollable: scrollable);
           await tester.pumpAndSettle();
-          expect(explanation.hitTestable(), findsOneWidget);
+          checkReviewOptions(tester, card, repo.questions[i], [0, 0, 2, 1][i]);
+          final explanation = find.text(repo.questions[i].explanation(lang));
+          if (i == 1 || i == 3) {
+            await tester.scrollUntilVisible(
+              explanation,
+              180,
+              scrollable: scrollable,
+            );
+            await tester.ensureVisible(explanation);
+            await tester.pumpAndSettle();
+            expect(explanation.hitTestable(), findsOneWidget);
+          } else {
+            expect(explanation, findsNothing);
+          }
           expect(tester.getRect(retry), retryPosition);
           expect(tester.getRect(read), readPosition);
           expect(retry.hitTestable(), findsOneWidget);

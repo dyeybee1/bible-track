@@ -493,15 +493,6 @@ class _QuestionCard extends StatelessWidget {
                 onTap: onSelect == null ? null : () => onSelect!(oi),
                 scheme: scheme,
                 theme: theme,
-                feedback: !review
-                    ? null
-                    : selectedOption == oi
-                    ? (correct
-                          ? context.s.quizCorrect
-                          : context.s.quizIncorrect)
-                    : !correct && oi == question.answer
-                    ? context.s.quizCorrectAnswer
-                    : null,
                 wrong: review && selectedOption == oi && !correct,
                 semanticFeedback: !review
                     ? null
@@ -534,7 +525,6 @@ class _OptionTile extends StatelessWidget {
     required this.onTap,
     required this.scheme,
     required this.theme,
-    this.feedback,
     this.semanticFeedback,
     this.wrong = false,
   });
@@ -544,14 +534,13 @@ class _OptionTile extends StatelessWidget {
   final VoidCallback? onTap;
   final ColorScheme scheme;
   final ThemeData theme;
-  final String? feedback;
   final String? semanticFeedback;
   final bool wrong;
 
   @override
   Widget build(BuildContext context) {
     final reviewing = onTap == null;
-    final highlighted = reviewing ? feedback != null : selected;
+    final highlighted = reviewing ? semanticFeedback != null : selected;
     final foreground = highlighted
         ? (wrong ? scheme.onErrorContainer : scheme.onPrimaryContainer)
         : scheme.onSurface;
@@ -570,7 +559,7 @@ class _OptionTile extends StatelessWidget {
     final content = Row(
       children: [
         Icon(
-          feedback != null
+          semanticFeedback != null
               ? (wrong ? Icons.close_rounded : Icons.check_rounded)
               : selected && !reviewing
               ? Icons.radio_button_checked
@@ -580,25 +569,12 @@ class _OptionTile extends StatelessWidget {
         ),
         const SizedBox(width: 10),
         Expanded(
-          child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
-            children: [
-              Text(
-                label,
-                style: theme.textTheme.bodyMedium?.copyWith(
-                  color: foreground,
-                  fontWeight: highlighted ? FontWeight.w600 : FontWeight.normal,
-                ),
-              ),
-              if (feedback != null)
-                Text(
-                  feedback!,
-                  style: theme.textTheme.labelMedium?.copyWith(
-                    color: foreground,
-                    fontWeight: FontWeight.w700,
-                  ),
-                ),
-            ],
+          child: Text(
+            label,
+            style: theme.textTheme.bodyMedium?.copyWith(
+              color: foreground,
+              fontWeight: highlighted ? FontWeight.w600 : FontWeight.normal,
+            ),
           ),
         ),
       ],
