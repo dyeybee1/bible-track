@@ -113,6 +113,7 @@ class _ChapterReaderScreenState extends State<ChapterReaderScreen> {
     return Scaffold(
       appBar: appHeader(
         context,
+        showProfileAction: false,
         title: s.bookChapter(widget.book.nameFor(s.lang), _chapter),
       ),
       body: SafeArea(

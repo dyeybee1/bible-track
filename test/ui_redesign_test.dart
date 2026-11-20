@@ -261,10 +261,10 @@ void main() {
         await tester.tap(find.text('Faraon'));
         await tester.pumpAndSettle();
         await capture(tester, 'quiz-$mode');
-        await tester.tap(find.byKey(const ValueKey('header-profile-action')));
-        await tester.pumpAndSettle();
-        await tester.pageBack();
-        await tester.pumpAndSettle();
+        expect(
+          find.byKey(const ValueKey('header-profile-action')),
+          findsNothing,
+        );
         expect(
           tester
               .widget<FilledButton>(

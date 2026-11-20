@@ -25,6 +25,63 @@ void main() {
         widget.painter.runtimeType.toString() == '_WheelPainter',
   );
 
+  for (final language in ['fil', 'en']) {
+    for (final dark in [false, true]) {
+      testWidgets(
+        '$language root headers retain Profile at 320 px, dark=$dark',
+        (tester) async {
+          libraryPhone(tester, const Size(320, 740));
+          fixture.settings.setLanguage(language);
+          await tester.pumpWidget(fixture.app(dark: dark, scale: 1.6));
+          await tester.pumpAndSettle();
+          void checkAvatar() {
+            expect(avatar.hitTestable(), findsOneWidget);
+            final header = find.byType(AppBar).hitTestable();
+            expect(tester.getRect(avatar).right, lessThanOrEqualTo(312));
+            expect(
+              tester.getRect(avatar).top,
+              greaterThanOrEqualTo(tester.getRect(header).top),
+            );
+            expect(tester.takeException(), isNull);
+          }
+
+          checkAvatar();
+          final nav = find.byType(NavigationBar);
+          await tester.tap(
+            find.descendant(
+              of: nav,
+              matching: find.text(fixture.settings.strings.navLeaderboard),
+            ),
+          );
+          await tester.pumpAndSettle();
+          checkAvatar();
+          await tester.tap(
+            find.descendant(
+              of: nav,
+              matching: find.text(fixture.settings.strings.navBooks),
+            ),
+          );
+          await tester.pumpAndSettle();
+          await tester.tap(find.byKey(const ValueKey('spin-fab')));
+          await tester.pumpAndSettle();
+          checkAvatar();
+          await tester.tap(avatar);
+          await tester.pumpAndSettle();
+          expect(find.byType(ProfileScreen), findsOneWidget);
+          expect(settingsAction.hitTestable(), findsOneWidget);
+          expect(
+            find.descendant(
+              of: settingsAction,
+              matching: find.byIcon(Icons.settings_outlined),
+            ),
+            findsOneWidget,
+          );
+          await tester.pumpWidget(const SizedBox.shrink());
+        },
+      );
+    }
+  }
+
   for (final lang in ['fil', 'en']) {
     for (final size in [
       const Size(360, 740),

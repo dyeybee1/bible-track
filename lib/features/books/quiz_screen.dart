@@ -228,6 +228,7 @@ class _QuizPageState extends State<_QuizPage> {
         key: const ValueKey('chapter-quiz-screen'),
         appBar: appHeader(
           context,
+          showProfileAction: false,
           title: strings.quizTitle(widget.chapter),
           leading: IconButton(
             key: const ValueKey('quiz-close-action'),

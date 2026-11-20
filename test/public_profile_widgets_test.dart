@@ -380,7 +380,7 @@ void main() {
     await tester.pageBack();
     await tester.pumpAndSettle();
     expect(find.byType(ChapterScreen), findsOneWidget);
-    expect(find.byKey(const ValueKey('header-profile-action')), findsOneWidget);
+    expect(find.byKey(const ValueKey('header-profile-action')), findsNothing);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 }

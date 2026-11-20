@@ -298,7 +298,7 @@ class _ChapterScreenState extends State<ChapterScreen> {
     final completed = doneColor(context);
 
     return Scaffold(
-      appBar: appHeader(context, title: name),
+      appBar: appHeader(context, title: name, showProfileAction: false),
       body: ListenableBuilder(
         listenable: widget.progress,
         builder: (context, _) {
@@ -388,9 +388,11 @@ class _ChapterScreenState extends State<ChapterScreen> {
                 padding: const EdgeInsets.symmetric(horizontal: 16),
                 child: Row(
                   children: [
-                    ActionChip(
-                      label: Text(strings.clearAll),
-                      onPressed: count == 0 ? null : _confirmClear,
+                    Flexible(
+                      child: ActionChip(
+                        label: Text(strings.clearAll),
+                        onPressed: count == 0 ? null : _confirmClear,
+                      ),
                     ),
                   ],
                 ),

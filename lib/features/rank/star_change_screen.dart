@@ -205,6 +205,7 @@ class _StarChangeScreenState extends State<StarChangeScreen>
         backgroundColor: bg,
         appBar: appHeader(
           context,
+          showProfileAction: false,
           title: widget.isGain ? strings.starGainTitle : strings.starLossTitle,
           leading: IconButton(
             icon: const Icon(Icons.arrow_back_ios_new_rounded, size: 20),

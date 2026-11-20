@@ -13,12 +13,14 @@ import 'package:bible_track/data/settings_controller.dart';
 import 'package:bible_track/features/books/chapter_reader_screen.dart';
 import 'package:bible_track/features/books/chapter_screen.dart';
 import 'package:bible_track/features/books/quiz_screen.dart';
+import 'package:bible_track/features/profile/profile_screen.dart';
 import 'package:bible_track/features/rank/star_change_screen.dart';
 import 'package:bible_track/features/settings/settings_screen.dart';
 import 'package:bible_track/features/settings/text_sources_screen.dart';
 import 'package:bible_track/l10n/strings.dart';
 import 'package:bible_track/settings_scope.dart';
 import 'package:bible_track/theme/app_theme.dart';
+import 'package:bible_track/widgets/profile_access.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -195,6 +197,7 @@ void main() {
     bool dark = false,
     double scale = 1,
     NavigatorObserver? observer,
+    bool profileAccess = false,
   }) => SettingsScope(
     controller: settings,
     child: MaterialApp(
@@ -205,7 +208,13 @@ void main() {
         data: MediaQuery.of(
           context,
         ).copyWith(textScaler: TextScaler.linear(scale)),
-        child: child!,
+        child: profileAccess
+            ? ProfileAccess(
+                profileBuilder: (_) => ProfileScreen(progress: progress),
+                settingsBuilder: (_) => SettingsScreen(account: account),
+                child: child!,
+              )
+            : child!,
       ),
     ),
   );
@@ -1566,6 +1575,111 @@ void main() {
       expect(tester.takeException(), isNull);
       expect(progress.chaptersReadLifetime, 0);
     });
+  }
+
+  for (final language in ['fil', 'en']) {
+    for (final dark in [false, true]) {
+      testWidgets(
+        '$language six reading and quiz headers hide Profile at 320 px, dark=$dark',
+        (tester) async {
+          tester.view.physicalSize = const Size(320, 740);
+          tester.view.devicePixelRatio = 1;
+          addTearDown(tester.view.resetPhysicalSize);
+          addTearDown(tester.view.resetDevicePixelRatio);
+          settings.setLanguage(language);
+          final strings = settings.strings;
+          void checkHeader(String title) {
+            expect(
+              find.byKey(const ValueKey('header-profile-action')),
+              findsNothing,
+            );
+            final header = find.byType(AppBar).last;
+            final titleWidget = find.descendant(
+              of: header,
+              matching: find.text(title),
+            );
+            expect(titleWidget, findsOneWidget);
+            expect(tester.getTopLeft(titleWidget).dx, closeTo(48, .1));
+            expect(tester.getRect(titleWidget).right, lessThanOrEqualTo(312));
+            expect(
+              tester.getRect(titleWidget).top,
+              greaterThanOrEqualTo(tester.getRect(header).top),
+            );
+            expect(
+              tester.getRect(titleWidget).bottom,
+              lessThanOrEqualTo(tester.getRect(header).bottom),
+            );
+            expect(
+              find
+                      .descendant(of: header, matching: find.byType(BackButton))
+                      .evaluate()
+                      .isNotEmpty ||
+                  find
+                      .descendant(
+                        of: header,
+                        matching: find.byIcon(Icons.arrow_back_ios_new_rounded),
+                      )
+                      .evaluate()
+                      .isNotEmpty,
+              isTrue,
+            );
+            expect(tester.takeException(), isNull);
+          }
+
+          await tester.pumpWidget(
+            app(bookList(), dark: dark, scale: 1.6, profileAccess: true),
+          );
+          await tester.tap(find.text('Open Genesis'));
+          await tester.pumpAndSettle();
+          checkHeader(bookById('gen').nameFor(language));
+          await openSheet(tester);
+          await tester.ensureVisible(
+            find.byKey(const ValueKey('chapter-read-action')),
+          );
+          await tester.pumpAndSettle();
+          await tester.tap(find.byKey(const ValueKey('chapter-read-action')));
+          await tester.pumpAndSettle();
+          checkHeader(
+            strings.bookChapter(bookById('gen').nameFor(language), 1),
+          );
+          final smaller = find.byKey(const ValueKey('reader-font-smaller'));
+          final larger = find.byKey(const ValueKey('reader-font-larger'));
+          expect(smaller.hitTestable(), findsOneWidget);
+          expect(larger.hitTestable(), findsOneWidget);
+          expect(tester.getTopLeft(smaller).dy, tester.getTopLeft(larger).dy);
+          expect(
+            tester.getRect(smaller).right,
+            lessThan(tester.getRect(larger).left),
+          );
+          expect(tester.getRect(larger).right, lessThanOrEqualTo(300));
+          await tester.tap(find.byKey(const ValueKey('reader-quiz-action')));
+          await tester.pumpAndSettle();
+          checkHeader(strings.quizTitle(1));
+          await failQuiz(tester);
+          checkHeader(strings.quizTitle(1));
+          await tester.tap(find.byKey(const ValueKey('quiz-retry-action')));
+          await tester.pumpAndSettle();
+          await tester.ensureVisible(
+            find.text(language == 'fil' ? 'Tama' : 'Correct'),
+          );
+          await tester.pumpAndSettle();
+          await tester.tap(find.text(language == 'fil' ? 'Tama' : 'Correct'));
+          await tester.pumpAndSettle();
+          await tester.tap(find.byKey(const ValueKey('quiz-submit-action')));
+          await tester.pumpAndSettle();
+          expect(find.text(strings.quizLearnedTitle), findsOneWidget);
+          checkHeader(strings.quizTitle(1));
+          await tester.tap(find.text(strings.quizMarkRead));
+          await tester.pumpAndSettle();
+          expect(find.byType(StarChangeScreen), findsOneWidget);
+          checkHeader(strings.starGainTitle);
+          await closeStars(tester);
+          expect(find.byType(ChapterScreen), findsOneWidget);
+          checkHeader(bookById('gen').nameFor(language));
+          expect(progress.chaptersRead('gen'), contains(1));
+        },
+      );
+    }
   }
 
   testWidgets('narrow dark reader and chapter sheet respect large text', (
