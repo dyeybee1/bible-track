@@ -18,8 +18,8 @@ void main() {
   });
   tearDown(() => fixture.dispose());
 
-  final fab = find.byKey(const ValueKey('spin-fab'));
-  final hint = find.byKey(const ValueKey('spin-fab-hint'));
+  final spin = find.byKey(const ValueKey('header-spin-action'));
+  final hint = find.byKey(const ValueKey('spin-hint'));
   final chips = find.byKey(const ValueKey('testament-chips'));
   Finder nav(String label) => find.descendant(
     of: find.byType(FloatingPillNav),
@@ -45,6 +45,8 @@ void main() {
       expect(find.byType(FilledButton), findsNothing);
       expect(find.text('Mga Libro'), findsOneWidget); // Navigation only.
       expect(find.text('Genesis').hitTestable(), findsOneWidget);
+      await tester.tap(hint);
+      await tester.pumpAndSettle();
       expect(
         tester.getRect(chips).top - tester.getRect(find.byType(AppBar)).bottom,
         inInclusiveRange(8, 12),
@@ -70,69 +72,85 @@ void main() {
             )
             .first,
       );
-      expect(lastCard.bottom, lessThanOrEqualTo(tester.getRect(fab).top));
-      expect(tester.getRect(fab).size, const Size(56, 56));
       expect(
-        tester.getRect(fab).left -
-            tester.getRect(find.byType(FloatingPillNav)).right,
-        8,
+        lastCard.bottom,
+        lessThanOrEqualTo(tester.getRect(find.byType(FloatingPillNav)).top),
       );
+      expect(find.byType(FloatingActionButton), findsNothing);
+      expect(tester.getRect(spin).size, const Size(48, 48));
       expect(tester.takeException(), isNull);
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );
 
-  testWidgets('two tabs preserve section and FAB opens a backable spinner', (
-    tester,
-  ) async {
-    libraryPhone(tester);
-    await tester.pumpWidget(fixture.app());
-    await tester.pumpAndSettle();
-    expect(
-      tester.widget<FloatingPillNav>(find.byType(FloatingPillNav)).destinations,
-      hasLength(2),
-    );
-    expect(nav('Paikot'), findsNothing);
-    expect(find.byType(SpinWheelIcon), findsOneWidget);
-    expect(
-      find.byTooltip(fixture.settings.strings.spinReadingHint),
-      findsOneWidget,
-    );
-    final semantics = tester.ensureSemantics();
-    expect(
-      tester.getSemantics(fab),
-      matchesSemantics(
-        label: fixture.settings.strings.spinReadingHint,
-        isButton: true,
-        hasEnabledState: true,
-        isEnabled: true,
-        isFocusable: true,
-        hasTapAction: true,
-        hasFocusAction: true,
-      ),
-    );
-    semantics.dispose();
-    await tester.tap(find.text('Bagong Tipan'));
-    await tester.pumpAndSettle();
-    for (final label in ['Ranggo']) {
-      await tester.tap(nav(label));
+  testWidgets(
+    'two tabs preserve section and header spin opens a backable spinner',
+    (tester) async {
+      libraryPhone(tester);
+      await tester.pumpWidget(fixture.app());
       await tester.pumpAndSettle();
-      expect(fab, findsNothing);
-    }
-    await tester.tap(nav('Mga Libro'));
-    await tester.pumpAndSettle();
-    expect(find.text('Mateo').hitTestable(), findsOneWidget);
-    await tester.tap(fab);
-    await tester.pumpAndSettle();
-    expect(find.byType(SpinnerScreen), findsOneWidget);
-    expect(find.byType(BackButton), findsOneWidget);
-    expect(find.byType(FloatingPillNav), findsNothing);
-    await tester.pageBack();
-    await tester.pumpAndSettle();
-    expect(fab, findsOneWidget);
-    expect(find.text('Mateo').hitTestable(), findsOneWidget);
-    await tester.pumpWidget(const SizedBox.shrink());
-  });
+      expect(
+        tester
+            .widget<FloatingPillNav>(find.byType(FloatingPillNav))
+            .destinations,
+        hasLength(2),
+      );
+      expect(nav('Paikot'), findsNothing);
+      expect(find.byType(SpinWheelIcon), findsOneWidget);
+      expect(
+        tester.widget<SpinWheelIcon>(find.byType(SpinWheelIcon)).outlined,
+        isTrue,
+      );
+      expect(find.byIcon(Icons.info_outline), findsNothing);
+      final themeToggle = find.byTooltip(fixture.settings.strings.themeDark);
+      final avatar = find.byKey(const ValueKey('header-profile-action'));
+      expect(
+        tester.getCenter(themeToggle).dx,
+        lessThan(tester.getCenter(spin).dx),
+      );
+      expect(tester.getCenter(spin).dx, lessThan(tester.getCenter(avatar).dx));
+      expect(
+        find.byTooltip(fixture.settings.strings.spinReadingHint),
+        findsOneWidget,
+      );
+      final semantics = tester.ensureSemantics();
+      expect(
+        tester.getSemantics(spin),
+        matchesSemantics(
+          label: fixture.settings.strings.spinReadingHint,
+          isButton: true,
+          hasEnabledState: true,
+          isEnabled: true,
+          isFocusable: true,
+          hasTapAction: true,
+          hasFocusAction: true,
+        ),
+      );
+      semantics.dispose();
+      await tester.tap(find.text('Bagong Tipan'));
+      await tester.pumpAndSettle();
+      for (final label in ['Ranggo']) {
+        await tester.tap(nav(label));
+        await tester.pumpAndSettle();
+        expect(spin, findsNothing);
+      }
+      await tester.tap(nav('Mga Libro'));
+      await tester.pumpAndSettle();
+      expect(find.text('Mateo').hitTestable(), findsOneWidget);
+      await tester.tap(spin);
+      await tester.pumpAndSettle();
+      expect(find.byType(SpinnerScreen), findsOneWidget);
+      expect(find.byType(BackButton), findsOneWidget);
+      expect(find.byType(FloatingPillNav), findsNothing);
+      expect(spin, findsNothing);
+      expect(find.byType(SpinWheelIcon), findsNothing);
+      await tester.pageBack();
+      await tester.pumpAndSettle();
+      expect(spin, findsOneWidget);
+      expect(find.text('Mateo').hitTestable(), findsOneWidget);
+      await tester.pumpWidget(const SizedBox.shrink());
+    },
+  );
 
   testWidgets(
     'hint dismisses on any tap and stays seen after settings reload',
@@ -171,7 +189,7 @@ void main() {
     await tester.pumpAndSettle();
     expect(hint, findsNothing);
     expect(find.byType(ChapterScreen), findsNothing);
-    expect(fab.hitTestable(), findsOneWidget);
+    expect(spin.hitTestable(), findsOneWidget);
     await tester.pumpWidget(const SizedBox.shrink());
   });
 
@@ -191,7 +209,7 @@ void main() {
   for (final lang in ['fil', 'en']) {
     for (final dark in [false, true]) {
       testWidgets(
-        '$lang dark=$dark: 320px and 200% text keep chips, hint and FAB usable',
+        '$lang dark=$dark: 320px and 200% text keep chips, hint and header spin usable',
         (tester) async {
           libraryPhone(tester, const Size(320, 640));
           fixture.settings.setLanguage(lang);
@@ -199,17 +217,27 @@ void main() {
           await tester.pumpAndSettle();
           expect(hint, findsOneWidget);
           expect(find.text('Genesis').hitTestable(), findsOneWidget);
+          final pointer = find.byKey(const ValueKey('spin-hint-pointer'));
+          final avatar = find.byKey(const ValueKey('header-profile-action'));
+          expect(tester.getCenter(pointer).dx, tester.getCenter(spin).dx);
           expect(
-            tester.getCenter(fab).dy,
-            tester.getCenter(find.byType(FloatingPillNav)).dy,
+            tester.getRect(hint).top,
+            greaterThan(tester.getRect(spin).bottom),
           );
+          expect(
+            tester.getRect(hint).overlaps(tester.getRect(avatar)),
+            isFalse,
+          );
+          expect(tester.getRect(hint).overlaps(tester.getRect(chips)), isFalse);
+          expect(tester.getRect(hint).left, greaterThanOrEqualTo(16));
+          expect(tester.getRect(hint).right, lessThanOrEqualTo(304));
           await tester.drag(chips, const Offset(-1000, 0));
           await tester.pumpAndSettle();
           expect(find.text('Deuterocanonical').hitTestable(), findsOneWidget);
           await tester.tap(find.text('Deuterocanonical'));
           await tester.pumpAndSettle();
           expect(find.text('Tobit').hitTestable(), findsOneWidget);
-          await tester.tap(fab);
+          await tester.tap(spin);
           await tester.pumpAndSettle();
           expect(find.byType(BackButton), findsOneWidget);
           expect(tester.takeException(), isNull);
@@ -225,7 +253,7 @@ void main() {
       libraryPhone(tester);
       await tester.pumpWidget(fixture.app(reduceMotion: true));
       await tester.pumpAndSettle();
-      await tester.tap(fab);
+      await tester.tap(spin);
       await tester.pumpAndSettle();
       await tester.tap(
         find.byTooltip(fixture.settings.strings.spinScopeSemantics),
@@ -250,7 +278,7 @@ void main() {
       expect(find.byType(SpinnerScreen), findsOneWidget);
       await tester.pageBack();
       await tester.pumpAndSettle();
-      expect(fab, findsOneWidget);
+      expect(spin, findsOneWidget);
       await tester.pumpWidget(const SizedBox.shrink());
     },
   );

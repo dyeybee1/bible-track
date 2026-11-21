@@ -218,7 +218,7 @@ void main() {
         await tester.pumpWidget(app(home(), dark: dark));
         await tester.pumpAndSettle();
         await capture(tester, 'books-$mode');
-        await tester.tap(find.byKey(const ValueKey('spin-fab')));
+        await tester.tap(find.byKey(const ValueKey('header-spin-action')));
         await tester.pumpAndSettle();
         await capture(tester, 'spinner-$mode');
         await tester.pageBack();

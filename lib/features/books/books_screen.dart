@@ -10,7 +10,8 @@ import '../../settings_scope.dart';
 import '../../theme/app_theme.dart';
 import '../../widgets/app_header.dart';
 import '../../widgets/floating_pill_nav.dart';
-import '../intro/intro_screen.dart';
+import '../../widgets/profile_access.dart';
+import '../../widgets/spin_wheel_icon.dart';
 import 'chapter_screen.dart';
 
 class BooksScreen extends StatefulWidget {
@@ -20,12 +21,16 @@ class BooksScreen extends StatefulWidget {
     required this.account,
     required this.cloud,
     required this.quizRepo,
+    required this.onSpin,
+    this.showSpinHint = false,
   });
 
   final ProgressController progress;
   final AccountController account;
   final CloudRepository cloud;
   final QuizRepository quizRepo;
+  final VoidCallback onSpin;
+  final bool showSpinHint;
 
   @override
   State<BooksScreen> createState() => _BooksScreenState();
@@ -52,18 +57,20 @@ class _BooksScreenState extends State<BooksScreen> {
         themeToggle: true,
         actions: [
           IconButton(
-            tooltip: strings.howToUse,
-            onPressed: () => Navigator.of(context).push(
-              MaterialPageRoute<void>(
-                builder: (_) => const IntroScreen(fromBooks: true),
-              ),
+            key: const ValueKey('header-spin-action'),
+            tooltip: strings.spinReadingHint,
+            constraints: const BoxConstraints.tightFor(width: 48, height: 48),
+            onPressed: widget.onSpin,
+            icon: Semantics(
+              label: strings.spinReadingHint,
+              child: const SpinWheelIcon(size: 24, outlined: true),
             ),
-            icon: const Icon(Icons.info_outline, size: 20),
           ),
         ],
       ),
       body: Column(
         children: [
+          if (widget.showSpinHint) const _SpinHint(),
           Padding(
             padding: const EdgeInsets.fromLTRB(20, 10, 20, 12),
             child: SingleChildScrollView(
@@ -131,6 +138,82 @@ class _BooksScreenState extends State<BooksScreen> {
       ),
     );
   }
+}
+
+/// Shares the header action's trailing inset, keeping the pointer under its
+/// center. Occupies body space so large text never covers the testament chips.
+class _SpinHint extends StatelessWidget {
+  const _SpinHint();
+
+  @override
+  Widget build(BuildContext context) {
+    final scheme = Theme.of(context).colorScheme;
+    final safePadding = MediaQuery.paddingOf(context);
+    final trailing = ProfileAccess.maybeOf(context) == null ? 8.0 : 56.0;
+    return Padding(
+      padding: EdgeInsets.fromLTRB(
+        safePadding.left + 16,
+        0,
+        safePadding.right + trailing,
+        0,
+      ),
+      child: Align(
+        alignment: Alignment.topRight,
+        child: ConstrainedBox(
+          constraints: const BoxConstraints(maxWidth: 272),
+          child: Semantics(
+            liveRegion: true,
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.end,
+              children: [
+                Padding(
+                  padding: const EdgeInsets.only(right: 18),
+                  child: CustomPaint(
+                    key: const ValueKey('spin-hint-pointer'),
+                    size: const Size(12, 8),
+                    painter: _HintPointer(scheme.inverseSurface),
+                  ),
+                ),
+                Material(
+                  key: const ValueKey('spin-hint'),
+                  elevation: 2,
+                  color: scheme.inverseSurface,
+                  borderRadius: BorderRadius.circular(12),
+                  child: Padding(
+                    padding: const EdgeInsets.all(12),
+                    child: Text(
+                      context.s.spinReadingHint,
+                      style: Theme.of(context).textTheme.bodySmall?.copyWith(
+                        color: scheme.onInverseSurface,
+                      ),
+                    ),
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+class _HintPointer extends CustomPainter {
+  const _HintPointer(this.color);
+  final Color color;
+
+  @override
+  void paint(Canvas canvas, Size size) => canvas.drawPath(
+    Path()
+      ..moveTo(size.width / 2, 0)
+      ..lineTo(size.width, size.height)
+      ..lineTo(0, size.height)
+      ..close(),
+    Paint()..color = color,
+  );
+
+  @override
+  bool shouldRepaint(_HintPointer oldDelegate) => oldDelegate.color != color;
 }
 
 class _SectionTab extends StatelessWidget {

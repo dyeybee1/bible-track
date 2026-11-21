@@ -2,8 +2,9 @@ import 'package:flutter/material.dart';
 
 import '../../settings_scope.dart';
 import '../../widgets/app_logo.dart';
+import '../../widgets/app_header.dart';
 
-/// Shown at first launch and accessible from the Books screen "How to use" button.
+/// Shown at first launch and accessible from Settings as FAQ.
 ///
 /// When [fromBooks] is true the button says "Sige / Got it" and pops the route.
 /// When false (first launch) the button says "Simulan ang pagbabasa / Start reading"
@@ -29,6 +30,9 @@ class IntroScreen extends StatelessWidget {
     }
 
     return Scaffold(
+      appBar: fromBooks
+          ? appHeader(context, title: strings.faq, showProfileAction: false)
+          : null,
       body: SafeArea(
         child: Center(
           child: SingleChildScrollView(

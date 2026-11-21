@@ -3,6 +3,7 @@ import 'package:bible_track/data/books_data.dart';
 import 'package:bible_track/features/profile/profile_screen.dart';
 import 'package:bible_track/features/settings/settings_screen.dart';
 import 'package:bible_track/features/settings/text_sources_screen.dart';
+import 'package:bible_track/features/intro/intro_screen.dart';
 import 'package:bible_track/widgets/scripture_quote.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
@@ -63,7 +64,7 @@ void main() {
             ),
           );
           await tester.pumpAndSettle();
-          await tester.tap(find.byKey(const ValueKey('spin-fab')));
+          await tester.tap(find.byKey(const ValueKey('header-spin-action')));
           await tester.pumpAndSettle();
           checkAvatar();
           await tester.tap(avatar);
@@ -274,12 +275,49 @@ void main() {
           await tester.pageBack();
           await tester.pumpAndSettle();
           expect(find.byType(SettingsScreen), findsOneWidget);
+          final strings = fixture.settings.strings;
+          final faq = find.byKey(const ValueKey('settings-faq'));
+          await tester.scrollUntilVisible(find.text(strings.logout), 200);
+          await tester.pumpAndSettle();
+          expect(faq.hitTestable(), findsOneWidget);
+          expect(find.byIcon(Icons.help_outline), findsOneWidget);
+          final logout = find.widgetWithText(OutlinedButton, strings.logout);
+          expect(
+            tester.getRect(logout).top - tester.getRect(faq).bottom,
+            closeTo(24, .1),
+          );
+          final faqSemantics = tester.ensureSemantics();
+          expect(find.bySemanticsLabel(strings.faqSemantics), findsOneWidget);
+          faqSemantics.dispose();
+          await tester.tap(faq);
+          await tester.pumpAndSettle();
+          expect(find.byType(IntroScreen), findsOneWidget);
+          expect(find.byType(BackButton), findsOneWidget);
+          expect(
+            find.descendant(
+              of: find.byType(AppBar),
+              matching: find.text('FAQ'),
+            ),
+            findsOneWidget,
+          );
+          expect(find.text(strings.introTitle), findsOneWidget);
+          expect(find.byIcon(Icons.info_outline), findsNothing);
+          expect(
+            find.byKey(const ValueKey('header-spin-action')),
+            findsNothing,
+          );
+          expect(tester.takeException(), isNull);
+          await tester.pageBack();
+          await tester.pumpAndSettle();
           await tester.pageBack();
           await tester.pumpAndSettle();
           expect(find.byType(ProfileScreen), findsOneWidget);
           await tester.pageBack();
           await tester.pumpAndSettle();
-          expect(find.byKey(const ValueKey('spin-fab')), findsOneWidget);
+          expect(
+            find.byKey(const ValueKey('header-spin-action')),
+            findsOneWidget,
+          );
           expect(tester.widget<FloatingPillNav>(nav).selectedIndex, 0);
           expect(tester.takeException(), isNull);
           await tester.pumpWidget(const SizedBox.shrink());

@@ -192,8 +192,10 @@ class Strings {
   String get introStartReading => _t('Simulan ang pagbabasa', 'Start reading');
   String get introGotIt => _t('Sige', 'Got it');
 
-  // ---- how-to button (books screen) ----
-  String get howToUse => _t('Paano gamitin', 'How to use');
+  // ---- Settings FAQ ----
+  String get faq => _t('FAQ', 'FAQ');
+  String get faqSemantics =>
+      _t('Mga madalas itanong', 'Frequently asked questions');
 
   // ---- profile ----
   String rankTierName(RankTier tier) => tier.name;

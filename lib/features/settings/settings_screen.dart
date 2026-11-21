@@ -8,6 +8,7 @@ import '../../settings_scope.dart';
 import '../../widgets/app_logo.dart';
 import '../../widgets/app_header.dart';
 import '../../widgets/scripture_quote.dart';
+import '../intro/intro_screen.dart';
 import 'text_sources_screen.dart';
 
 class SettingsScreen extends StatelessWidget {
@@ -181,6 +182,21 @@ class SettingsScreen extends StatelessWidget {
               trailing: const Icon(Icons.chevron_right),
               onTap: () => Navigator.of(context).push<void>(
                 MaterialPageRoute(builder: (_) => const TextSourcesScreen()),
+              ),
+            ),
+          ),
+
+          const SizedBox(height: 8),
+          _Card(
+            child: ListTile(
+              key: const ValueKey('settings-faq'),
+              leading: const Icon(Icons.help_outline),
+              title: Text(strings.faq, semanticsLabel: strings.faqSemantics),
+              trailing: const Icon(Icons.chevron_right),
+              onTap: () => Navigator.of(context).push<void>(
+                MaterialPageRoute(
+                  builder: (_) => const IntroScreen(fromBooks: true),
+                ),
               ),
             ),
           ),

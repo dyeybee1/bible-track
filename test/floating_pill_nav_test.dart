@@ -70,7 +70,7 @@ void main() {
     await board.updates.close();
   });
   final pill = find.byType(FloatingPillNav);
-  final fab = find.byKey(const ValueKey('spin-fab'));
+  final spin = find.byKey(const ValueKey('header-spin-action'));
   Finder item(int i) => find.byKey(ValueKey('floating-nav-item-$i'));
 
   Future<void> capture(WidgetTester tester, GlobalKey key, String name) async {
@@ -86,7 +86,7 @@ void main() {
   }
 
   testWidgets(
-    'floating group animates as one row, with selected tab semantics',
+    'centered pill stays fixed during selection, with selected tab semantics',
     (tester) async {
       libraryPhone(tester, const Size(320, 640));
       final semantics = tester.ensureSemantics();
@@ -97,12 +97,10 @@ void main() {
       expect(find.byType(NavigationBar), findsNothing);
       expect(tester.getSize(pill).height, 68);
       expect(tester.getSize(pill).width, 200);
-      expect(tester.getSize(fab), const Size(56, 56));
-      expect(tester.getCenter(fab).dy, tester.getCenter(pill).dy);
+      expect(find.byType(FloatingActionButton), findsNothing);
       expect(tester.getRect(pill).bottom, 640 - 24 - 12);
-      expect(tester.getRect(fab).left - tester.getRect(pill).right, 8);
-      expect((tester.getRect(pill).left + tester.getRect(fab).right) / 2, 160);
-      final booksCenter = tester.getCenter(pill).dx;
+      expect(tester.getCenter(pill).dx, 160);
+      final booksRect = tester.getRect(pill);
       for (var i = 0; i < 2; i++) {
         expect(tester.getSize(item(i)).height, greaterThanOrEqualTo(48));
         expect(tester.getSize(item(i)).width, greaterThanOrEqualTo(48));
@@ -171,16 +169,6 @@ void main() {
               as ShapeDecoration;
       expect(decoration.shadows!.single.blurRadius, 18);
       expect(decoration.shadows!.single.offset, const Offset(0, 5));
-      final fabDecoration =
-          tester
-                  .widget<DecoratedBox>(
-                    find
-                        .ancestor(of: fab, matching: find.byType(DecoratedBox))
-                        .first,
-                  )
-                  .decoration
-              as BoxDecoration;
-      expect(fabDecoration.boxShadow, decoration.shadows);
       final label = find.descendant(of: pill, matching: find.text('Mga Libro'));
       expect(
         tester.getRect(pill).bottom - tester.getRect(label).bottom,
@@ -189,20 +177,17 @@ void main() {
       await tester.tap(item(1));
       await tester.pump();
       await tester.pump(const Duration(milliseconds: 100));
-      expect(tester.getCenter(pill).dx, greaterThan(booksCenter));
-      expect(tester.getCenter(pill).dx, lessThan(160));
-      final opacity = find
-          .ancestor(of: fab, matching: find.byType(Opacity))
-          .first;
-      expect(tester.widget<Opacity>(opacity).opacity, inExclusiveRange(0, 1));
+      expect(tester.getRect(pill), booksRect);
+      expect(find.byType(FloatingActionButton), findsNothing);
       await tester.pumpAndSettle();
-      expect(fab, findsNothing);
+      expect(find.byType(FloatingActionButton), findsNothing);
+      expect(tester.getRect(pill), booksRect);
       expect(tester.getCenter(pill).dx, 160);
       expect(tester.widget<Semantics>(item(1)).properties.selected, isTrue);
       await tester.tap(item(0));
       await tester.pumpAndSettle();
-      expect(fab.hitTestable(), findsOneWidget);
-      expect(tester.getCenter(pill).dx, booksCenter);
+      expect(spin.hitTestable(), findsOneWidget);
+      expect(tester.getRect(pill), booksRect);
       semantics.dispose();
       await tester.pumpWidget(const SizedBox.shrink());
     },
@@ -216,12 +201,12 @@ void main() {
       await tester.pumpAndSettle();
       await tester.tap(item(1));
       await tester.pump();
-      expect(fab, findsNothing);
+      expect(find.byType(FloatingActionButton), findsNothing);
       expect(tester.getCenter(pill).dx, 160);
       tester.view.viewInsets = const FakeViewPadding(bottom: 240);
       await tester.pump();
       expect(pill, findsNothing);
-      expect(fab, findsNothing);
+      expect(find.byType(FloatingActionButton), findsNothing);
       tester.view.resetViewInsets();
       await tester.pumpAndSettle();
       expect(pill, findsOneWidget);
@@ -256,23 +241,26 @@ void main() {
           );
           await tester.pumpAndSettle();
           await capture(tester, captureKey, 'pill-books-$lang-$dark');
-          final hint = find.byKey(const ValueKey('spin-fab-hint'));
+          final hint = find.byKey(const ValueKey('spin-hint'));
           expect(hint, findsOneWidget);
+          final pointer = find.byKey(const ValueKey('spin-hint-pointer'));
+          expect(tester.getCenter(pointer).dx, tester.getCenter(spin).dx);
           expect(
-            tester.getRect(hint).right,
-            closeTo(tester.getRect(fab).right, .1),
-          );
-          expect(
-            tester.getRect(fab).top - tester.getRect(hint).bottom,
-            closeTo(8, .1),
+            tester.getRect(hint).top,
+            greaterThan(tester.getRect(spin).bottom),
           );
           expect(tester.getRect(hint).left, greaterThanOrEqualTo(16));
+          expect(
+            tester
+                .getRect(hint)
+                .overlaps(
+                  tester.getRect(find.byKey(const ValueKey('testament-chips'))),
+                ),
+            isFalse,
+          );
           expect(tester.getSize(pill).height, greaterThan(68));
           expect(tester.getSize(pill).width, 200);
-          expect(
-            tester.getCenter(fab).dy,
-            closeTo(tester.getCenter(pill).dy, .01),
-          );
+          expect(tester.getCenter(pill).dx, 160);
           final navMaterial = tester.widget<Material>(
             find.descendant(of: pill, matching: find.byType(Material)).first,
           );
@@ -332,10 +320,6 @@ void main() {
               tester.getRect(card).bottom,
               lessThan(tester.getRect(pill).top),
             );
-            expect(
-              tester.getRect(card).bottom,
-              lessThan(tester.getRect(fab).top),
-            );
           }
           await tester.tap(item(1));
           await tester.pumpAndSettle();
@@ -358,7 +342,7 @@ void main() {
             lessThan(tester.getRect(pill).top),
           );
           expect(tester.getCenter(pill).dx, 160);
-          expect(fab, findsNothing);
+          expect(find.byType(FloatingActionButton), findsNothing);
           expect(tester.takeException(), isNull);
           await capture(tester, captureKey, 'pill-ranggo-$lang-$dark');
           debugDisableShadows = oldShadows;
